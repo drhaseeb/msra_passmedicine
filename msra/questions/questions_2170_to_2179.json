@@ -1,0 +1,887 @@
+[
+    {
+        "question_id": "5650_B_320",
+        "new_question_id": "32348",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "10498",
+        "notes_id_link": "1_2575",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Clotting screen",
+            "DEXA scan",
+            "ECG",
+            "Lipid profile",
+            "Liver function blood tests",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman is reviewed in the clinic after a lumpectomy for a cancerous lump found in her left breast. Histopathology showed the tissue was oestrogen receptor-positive and the patient is offered anastrozole therapy as adjuvant treatment. She has no other past medical history and is not taking any medications currently. She is keen to start the adjuvant therapy offered.<br /><br />Prior to starting this, what investigations should be performed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has oestrogen positive cancer (ER+) and is, therefore, amenable to adjuvant therapy with an aromatase inhibitor. Anastrozole reduces peripheral oestrogen synthesis and is, therefore, recommended in the management of cancers which will are responsive to oestrogen. As one of the adverse effects of aromatase inhibitors is <b>osteoporosis</b>, NICE recommends a DEXA scan is performed before initiation of therapy. <br /><br />A clotting screen is not required prior to starting anastrozole as it does not lead to coagulopathies. Prior to her lumpectomy, it would have been appropriate, however, to have sent a clotting screen.<br /><br />This patient is likely to have had multiple ECGs when being worked up for her lumpectomy, however, she does not require one when starting anastrozole as arrhythmias and cardiac changes are not associated with this medication.<br /><br />Lipid profiles are required before starting certain medications (such as statins). However, as anastrozole is not known to commonly affect lipid profile, it is not needed to be monitored. <br /><br />Liver function tests are not routinely assessed before starting anastrozole as aromatase inhibitors are not known to affect liver function.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman is reviewed in the clinic after a lumpectomy for a cancerous lump found in her left breast. Histopathology showed the tissue was oestrogen receptor-positive and the patient is offered anastrozole therapy as adjuvant treatment. She has no other past medical history and is not taking any medications currently. She is keen to start the adjuvant therapy offered.<br /><br />Prior to starting this, what investigations should be performed?",
+        "correct_answer": "2",
+        "question_notes": "This patient has oestrogen positive cancer (ER+) and is, therefore, amenable to adjuvant therapy with an aromatase inhibitor. Anastrozole reduces peripheral oestrogen synthesis and is, therefore, recommended in the management of cancers which will are responsive to oestrogen. As one of the adverse effects of aromatase inhibitors is <b>osteoporosis</b>, NICE recommends a DEXA scan is performed before initiation of therapy. <br /><br />A clotting screen is not required prior to starting anastrozole as it does not lead to coagulopathies. Prior to her lumpectomy, it would have been appropriate, however, to have sent a clotting screen.<br /><br />This patient is likely to have had multiple ECGs when being worked up for her lumpectomy, however, she does not require one when starting anastrozole as arrhythmias and cardiac changes are not associated with this medication.<br /><br />Lipid profiles are required before starting certain medications (such as statins). However, as anastrozole is not known to commonly affect lipid profile, it is not needed to be monitored. <br /><br />Liver function tests are not routinely assessed before starting anastrozole as aromatase inhibitors are not known to affect liver function.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Anti-oestrogen drugs",
+        "body": "<h5 class='notes-heading'>Selective oEstrogen Receptor Modulators (SERM)</h5><br />Tamoxifen is a SERM which acts as an oestrogen receptor antagonist and partial agonist. It is used in the management of <span class=\"concept\" data-cid=\"5226\">oestrogen receptor-positive breast cancer</span>.<br /><br />Adverse effects<br /><ul><li>menstrual disturbance: vaginal bleeding, amenorrhoea</li><li>hot flushes - 3% of patients stop taking tamoxifen due to climacteric side-effects</li><li>venous thromboembolism</li><li>endometrial cancer</li></ul><br /><br /><h5 class='notes-heading'>Aromatase inhibitors</h5><br />Anastrozole and letrozole are <span class=\"concept\" data-cid=\"10990\">aromatase inhibitors that reduces peripheral oestrogen synthesis</span>. This is important as aromatisation accounts for the majority of oestrogen production in <span class=\"concept\" data-cid=\"4931\">postmenopausal women and therefore anastrozole is used for ER +ve breast cancer in this group</span>.<br /><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"10498\">osteoporosis</span><ul><li><span class=\"concept\" data-cid=\"10641\">NICE recommends a DEXA scan when initiating a patient on aromatase inhibitors for breast cancer</span></li></ul></li><li>hot flushes</li><li>arthralgia, myalgia</li><li>insomnia</li></ul>",
+        "notes_hash": "bc26f9f0d2cd573ebb75210486cecc5e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Aromatase inhibitors (e.g. anastrozole) may cause osteoporosis",
+        "concept_percentile": "55",
+        "concept_colour": "rgb(229,255,0)",
+        "number_attempts": "5615",
+        "up_votes": "24",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "356",
+            "3860",
+            "284",
+            "195",
+            "920",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1656\" data-linkid=\"1656\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1656\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1656\" data-linkid=\"1656\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1656\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/anastrozole.html\">Anastrozole </a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1655\" data-linkid=\"1655\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1655\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_1655\" data-linkid=\"1655\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1655\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/tamoxifen.html\">Tamoxifen</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1OJQsP_9i_I\" data-description=\"Aromatase inhibitors\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1453\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1OJQsP_9i_I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1OJQsP_9i_I\" data-description=\"Aromatase inhibitors\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1453\">Aromatase inhibitors</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2565\" data-mediaid=\"2565\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2565\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2565\" data-mediaid=\"2565\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2565\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4931": {
+                "concept_text": "Aromatase inhibitors are used in the treatment of ER +ve breast cancer in post-menopausal women",
+                "concept_percentile": "21"
+            },
+            "5226": {
+                "concept_text": "Tamoxifen is used in the management of oestrogen receptor-positive breast cancer in pre-menopausal women",
+                "concept_percentile": "37"
+            },
+            "10498": {
+                "concept_text": "Aromatase inhibitors (e.g. anastrozole) may cause osteoporosis",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21386_B_245",
+        "new_question_id": "47027",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "10955",
+        "notes_id_link": "1_1659",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Carpal tunnel syndrome",
+            "Cervical radiculopathy",
+            "Cubital tunnel syndrome",
+            "De Quervain's tenosynovitis",
+            "Occult scaphoid injury",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old woman presents to her general practitioner with a 2-week history of wrist pain. She reports that pain began gradually with no antecedent trauma, and is now affecting her ability to work as a medical typist.<br /><br />The patient reports no significant past medical history.<br /><br />On examination, the wrists appear symmetrical and there are no obvious scars or deformities. Tinel's test is negative bilaterally. Pulling the patient's thumb with ulnar deviation and longitudinal traction over the left radial styloid reproduces the patient's pain.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>De Quervain's tenosynovitis</b> is the correct answer. De Quervain's tenosynovitis is an idiopathic pain syndrome involving the tendons of extensor pollicis brevis and abductor pollicis longus at the radial wrist. Finkelstein's test, which is performed by pulling the patient's thumb with ulnar deviation and longitudinal traction, can aid the diagnosis of De Quervain's tenosynovitis. Finkelstein's test is positive if the manoeuvre reproduces pain.<br /><br /><b>Carpal tunnel syndrome</b> is incorrect. Carpal tunnel syndrome is characterised by wrist/hand pain, classically sparing the medial fifth finger and the medial half of the fourth finger, caused by median nerve entrapment within the carpal tunnel. This patient's lateral wrist pain with tenderness over the lateral styloid are more consistent with De Quervain's tenosynovitis.<br /><br /><b>Cervical radiculopathy</b> is incorrect. Patients may develop radicular pain due to entrapment of cervical nerve roots, commonly due to cervical spondylosis and disc disease. This pain characteristically radiates from the neck down the arm, and would not typically present with isolated wrist pain.<br /><br /><b>Cubital tunnel syndrome</b> is incorrect. The ulnar nerve may become trapped within the cubital tunnel, closely associated with the medial epicondyle of the elbow, causing pain in the distribution of the ulnar nerve. Isolated pain at the radial styloid is not typical of cubital tunnel syndrome and should raise suspicion for De Quervain's tenosynovitis.<br /><br /><b>Occult scaphoid injury</b> is incorrect. Although scaphoid fractures may present with wrist pain over the anatomical snuffbox, closely associated with the radial styloid, this usually occurs following trauma, usually a fall onto an outstretched hand. Given the atraumatic presentation, De Quervain's tenosynovitis is a more likely diagnosis than scaphoid injury.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old woman presents to her general practitioner with a 2-week history of wrist pain. She reports that pain began gradually with no antecedent trauma, and is now affecting her ability to work as a medical typist.<br /><br />The patient reports no significant past medical history.<br /><br />On examination, the wrists appear symmetrical and there are no obvious scars or deformities. Tinel's test is negative bilaterally. Pulling the patient's thumb with ulnar deviation and longitudinal traction over the left radial styloid reproduces the patient's pain.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "<b>De Quervain's tenosynovitis</b> is the correct answer. De Quervain's tenosynovitis is an idiopathic pain syndrome involving the tendons of extensor pollicis brevis and abductor pollicis longus at the radial wrist. Finkelstein's test, which is performed by pulling the patient's thumb with ulnar deviation and longitudinal traction, can aid the diagnosis of De Quervain's tenosynovitis. Finkelstein's test is positive if the manoeuvre reproduces pain.<br /><br /><b>Carpal tunnel syndrome</b> is incorrect. Carpal tunnel syndrome is characterised by wrist/hand pain, classically sparing the medial fifth finger and the medial half of the fourth finger, caused by median nerve entrapment within the carpal tunnel. This patient's lateral wrist pain with tenderness over the lateral styloid are more consistent with De Quervain's tenosynovitis.<br /><br /><b>Cervical radiculopathy</b> is incorrect. Patients may develop radicular pain due to entrapment of cervical nerve roots, commonly due to cervical spondylosis and disc disease. This pain characteristically radiates from the neck down the arm, and would not typically present with isolated wrist pain.<br /><br /><b>Cubital tunnel syndrome</b> is incorrect. The ulnar nerve may become trapped within the cubital tunnel, closely associated with the medial epicondyle of the elbow, causing pain in the distribution of the ulnar nerve. Isolated pain at the radial styloid is not typical of cubital tunnel syndrome and should raise suspicion for De Quervain's tenosynovitis.<br /><br /><b>Occult scaphoid injury</b> is incorrect. Although scaphoid fractures may present with wrist pain over the anatomical snuffbox, closely associated with the radial styloid, this usually occurs following trauma, usually a fall onto an outstretched hand. Given the atraumatic presentation, De Quervain's tenosynovitis is a more likely diagnosis than scaphoid injury.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "De Quervain's tenosynovitis",
+        "body": "De Quervain's tenosynovitis is a common condition in which the sheath containing the <span class=\"concept\" data-cid=\"12266\">extensor pollicis brevis and abductor pollicis longus tendons</span> is inflamed. It typically affects females aged 30 - 50 years old.<br /><br /><span class=\"concept\" data-cid=\"10955\">Features</span><br /><ul><li>pain on the radial side of the wrist</li><li>tenderness over the radial styloid process</li><li>abduction of the thumb against resistance is painful</li><li><span class=\"concept\" data-cid=\"4714\">Finkelstein's test</span>: the examiner pulls the thumb of the patient in ulnar deviation and longitudinal traction. In a patient with tenosynovitis this action causes pain over the radial styloid process and along the length of extensor pollisis brevis and abductor pollicis longus</li></ul><br />Management<br /><ul><li>analgesia</li><li>steroid injection</li><li>immobilisation with a thumb splint (spica) may be effective</li><li>surgical treatment is sometimes required</li></ul>",
+        "notes_hash": "ac0ecb2123ba884b8c17f8e19b9c96a2",
+        "knowledge_graph_node_id_link": 1229,
+        "concept": "Pain on the radial side of the wrist/tenderness over the radial styloid process ? De Quervain's tenosynovitis",
+        "concept_percentile": "63",
+        "concept_colour": "rgb(188,255,0)",
+        "number_attempts": "5312",
+        "up_votes": "17",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "477",
+            "89",
+            "425",
+            "3824",
+            "497",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8WBVXBx34W0\" data-description=\"Finkelstein Test - De Quervain's Tenosynovitis\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"829\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8WBVXBx34W0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8WBVXBx34W0\" data-description=\"Finkelstein Test - De Quervain's Tenosynovitis\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"829\">Finkelstein Test - De Quervain's Tenosynovitis</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1454\" data-mediaid=\"1454\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1454\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1454\" data-mediaid=\"1454\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1454\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/I1jZI8OawoE\" data-description=\"Understanding De Quervain\u00e2\u20ac\u2122s Tenosynovitis (Mummy Thumb)\" data-upvotes=\"14\" data-downvotes=\"1\" data-media=\"1337\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/I1jZI8OawoE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/I1jZI8OawoE\" data-description=\"Understanding De Quervain\u00e2\u20ac\u2122s Tenosynovitis (Mummy Thumb)\" data-upvotes=\"14\" data-downvotes=\"1\" data-media=\"1337\">Understanding De Quervain\u00e2\u20ac\u2122s Tenosynovitis (Mummy Thumb)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2358\" data-mediaid=\"2358\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2358\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2358\" data-mediaid=\"2358\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2358\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "4714": {
+                "concept_text": "Finkelstein's test: the examiner pulls the thumb of the patient in ulnar deviation and longitudinal traction. In a patient with tenosynovitis this action causes pain over the radial styloid process and along the length of extensor pollisis brevis and abductor pollicis longus",
+                "concept_percentile": "43"
+            },
+            "10955": {
+                "concept_text": "Pain on the radial side of the wrist/tenderness over the radial styloid process ? De Quervain's tenosynovitis",
+                "concept_percentile": "63"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_724",
+        "new_question_id": "4249",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_171",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Microaneurysms",
+            "Blot haemorrhages",
+            "Cotton wool spots",
+            "Venous beading",
+            "Neovascularisation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following features is not present in diabetic pre-proliferative  retinopathy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "Retinal neovascularisation is seen in proliferative retinopathy",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following features is not present in diabetic pre-proliferative  retinopathy?",
+        "correct_answer": "5",
+        "question_notes": "Retinal neovascularisation is seen in proliferative retinopathy",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Diabetic retinopathy",
+        "body": "Diabetic retinopathy is the most common cause of blindness in adults aged 35-65 years-old. <br /><br /><h5 class='notes-heading'>Pathophysiology</h5><br />Hyperglycaemia is thought to cause increased retinal blood flow and abnormal metabolism in the retinal vessel walls. This precipitates damage to endothelial cells and pericytes<br /><br />Endothelial dysfunction leads to increased vascular permeability which causes the characteristic exudates seen on fundoscopy. Pericyte dysfunction predisposes to the formation of microaneurysms. Neovasculization is thought to be caused by the production of growth factors in response to retinal ischaemia<br /><br /><br /><h5 class='notes-heading'>Classification</h5><br />Patients are typically classified into those with non-proliferative diabetic retinopathy (NPDR), proliferative retinopathy (PDR) and maculopathy.<br /><br /><h6 class='notes-subheading'>Non-proliferative diabetic retinopathy</h6><br />Mild NPDR<br /><ul><li>1 or more microaneurysm</li></ul><br />Moderate NPDR<br /><ul><li>microaneurysms</li><li>blot haemorrhages </li><li>hard exudates</li><li>cotton wool spots  ('soft exudates' -  <span class=\"concept\" data-cid=\"11238\">represent areas of retinal infarction</span>), venous beading/looping and intraretinal microvascular abnormalities (IRMA) less severe than in severe NPDR</li></ul><br />Severe NPDR<br /><ul><li>blot haemorrhages and microaneurysms in 4 quadrants</li><li>venous beading in at least 2 quadrants</li><li>IRMA in at least 1 quadrant</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pre-proliferative diabetic retinopathy\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576.jpg\" alt=\"\" /></a></div></div></div><br /><h6 class='notes-subheading'>Proliferative diabetic retinopathy</h6><br />Key features<br /><ul><li>retinal neovascularisation - may lead to vitrous haemorrhage</li><li>fibrous tissue forming anterior to retinal disc</li><li>more common in Type I DM, 50% blind in 5 years</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img055b.jpg\" data-fancybox=\"gallery\" data-caption=\"Proliferative diabetic retinopathy\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img055.jpg\" alt=\"\" /></a></div></div></div><br /><h6 class='notes-subheading'>Maculopathy</h6><br />Key features<br /><ul><li>based on location rather than severity, anything is potentially serious</li><li>hard exudates and other 'background' changes on macula</li><li>check visual acuity</li><li>more common in Type II DM</li></ul><br /><h5 class='notes-heading'>Management</h5><br />All patients<br /><ul><li>optimise glycaemic control, blood pressure and hyperlipidemia</li><li>regular review by ophthalmology</li></ul><br />Maculopathy<br /><ul><li>if there is a change in visual acuity then intravitreal vascular endothelial growth factor (VEGF) inhibitors </li></ul><br />Non-proliferative retinopathy<br /><ul><li>regular observation</li><li>if severe/very severe consider panretinal laser photocoagulation</li></ul><br />Proliferative retinopathy<br /><ul><li><span class=\"concept\" data-cid=\"11714\">panretinal laser photocoagulation</span><ul><li>following treatment around 50% of patients develop a <span class=\"concept\" data-cid=\"12018\">noticeable reduction in their visual fields</span> due to the scarring of peripheral retinal tissue</li><li>other complications include a <span class=\"concept\" data-cid=\"12109\">decrease in night vision</span> (rods are predominantly responsible for vision in low light conditions, the majority of rod cells are located in the peripheral retina), a generalised decrease in visual acuity and macular oedema</li></ul></li><li><span class=\"concept\" data-cid=\"11787\">intravitreal VEGF inhibitors</span><ul><li>often now used in combination with panretinal laser photocoagulation</li><li>examples include ranibizumab</li><li>strong evidence base suggests they both slow progression of proliferative diabetic retinopathy and improve visual acuity</li></ul></li><li>if severe or vitreous haemorrhage: vitreoretinal surgery</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img053b.jpg\" data-fancybox=\"gallery\" data-caption=\"Diabetic retinopathy previously treated with panretinal laser photocoagulation\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img053.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "a416f2274fd2e167a59ce8ad52a5a61b",
+        "knowledge_graph_node_id_link": 11092,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4941",
+        "up_votes": "38",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "213",
+            "216",
+            "353",
+            "682",
+            "3477",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "11238": {
+                "concept_text": "In diabetic retinopathy, cotton wool spots represent areas of retinal infarction",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_9",
+        "new_question_id": "3482",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1590",
+        "theme": "Side-effects of diabetes mellitus drugs",
+        "instruction": "Select the side-effect most characteristically associated with the following drugs:",
+        "options": [
+            "",
+            "Hypocalcaemia",
+            "Diarrhoea",
+            "Sinusitis",
+            "Worsening of heart failure",
+            "Headaches",
+            "Hypoglycaemia",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 6,
+        "questions": [
+            "Metformin",
+            "Zsyqvsdkjyxo",
+            "Qvsmvkjsno"
+        ],
+        "answers": [
+            "2",
+            "4",
+            "6"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Metformin",
+        "correct_answer": "2",
+        "question_notes": "",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Side-effects of common drugs: diabetes drugs",
+        "body": "The table below summarises characteristic (if not necessarily the most common) side-effects of drugs used to treat diabetes mellitus<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Drug</b></th><th><b>Side-effect</b></th></tr></thead><tbody><tr><td>Metformin</td><td>Gastrointestinal side-effects<br /><span class=\"concept\" data-cid=\"9344\">Lactic acidosis</span></td></tr><tr><td>Sulfonylureas</td><td>Hypoglycaemic episodes<br />Increased appetite and weight gain<br /><span class=\"concept\" data-cid=\"5559\">Syndrome of inappropriate ADH secretion</span><br />Liver dysfunction (cholestatic)</td></tr><tr><td>Glitazones</td><td>Weight gain<br /><span class=\"concept\" data-cid=\"1953\">Fluid retention</span><br />Liver dysfunction<br /><span class=\"concept\" data-cid=\"4353\">Fractures</span></td></tr><tr><td>Gliptins</td><td><span class=\"concept\" data-cid=\"9347\">Pancreatitis</span></td></tr></tbody></table></div>",
+        "notes_hash": "2e60b8c66d613716c3a924fab2f5d05c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4794",
+        "up_votes": "34",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "4497",
+            "3905",
+            "4160",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1180",
+        "new_question_id": "4132",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1698",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intracerebral haemorrhage",
+            "Pulmonary oedema",
+            "Fetal prematurity",
+            "Transverse myelitis",
+            "Fetal intrauterine growth retardation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 38-year-old female develops hypertension in the third trimester of her first pregnancy. A 24 hour urine collection shows 0.5g protein. Which one of the following complications is least associated with this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>transverse myelitis</b> as this neurological condition is not typically associated with pre-eclampsia, which is the condition described in the question. Pre-eclampsia is characterised by new-onset hypertension after 20 weeks' gestation with proteinuria (\u22650.3g/24h) or other maternal organ dysfunction.<br /><br /><b>Intracerebral haemorrhage</b> is a well-documented and serious complication of pre-eclampsia. The severe hypertension can lead to cerebral autoregulation failure, resulting in vessel damage and potential haemorrhage. This is one of the leading causes of maternal mortality in pre-eclampsia.<br /><br /><b>Pulmonary oedema</b> is a recognised complication of pre-eclampsia due to endothelial dysfunction and increased capillary permeability. The risk is heightened by the administration of intravenous fluids and the physiological fluid retention of pregnancy.<br /><br /><b>Fetal prematurity</b> is commonly associated with pre-eclampsia as the condition often necessitates early delivery to prevent maternal and fetal complications. The decision to deliver depends on factors including gestational age and disease severity.<br /><br /><b>Fetal intrauterine growth retardation</b> is a significant complication of pre-eclampsia due to placental insufficiency. The maternal vascular dysfunction leads to reduced uteroplacental blood flow, resulting in decreased fetal nutrition and oxygen supply.<br /><br />Transverse myelitis, being an inflammatory condition of the spinal cord, has no direct pathophysiological relationship with the hypertensive and endothelial dysfunction that characterises pre-eclampsia, making it the least associated complication among the options presented.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 38-year-old female develops hypertension in the third trimester of her first pregnancy. A 24 hour urine collection shows 0.5g protein. Which one of the following complications is least associated with this condition?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>transverse myelitis</b> as this neurological condition is not typically associated with pre-eclampsia, which is the condition described in the question. Pre-eclampsia is characterised by new-onset hypertension after 20 weeks' gestation with proteinuria (\u22650.3g/24h) or other maternal organ dysfunction.<br /><br /><b>Intracerebral haemorrhage</b> is a well-documented and serious complication of pre-eclampsia. The severe hypertension can lead to cerebral autoregulation failure, resulting in vessel damage and potential haemorrhage. This is one of the leading causes of maternal mortality in pre-eclampsia.<br /><br /><b>Pulmonary oedema</b> is a recognised complication of pre-eclampsia due to endothelial dysfunction and increased capillary permeability. The risk is heightened by the administration of intravenous fluids and the physiological fluid retention of pregnancy.<br /><br /><b>Fetal prematurity</b> is commonly associated with pre-eclampsia as the condition often necessitates early delivery to prevent maternal and fetal complications. The decision to deliver depends on factors including gestational age and disease severity.<br /><br /><b>Fetal intrauterine growth retardation</b> is a significant complication of pre-eclampsia due to placental insufficiency. The maternal vascular dysfunction leads to reduced uteroplacental blood flow, resulting in decreased fetal nutrition and oxygen supply.<br /><br />Transverse myelitis, being an inflammatory condition of the spinal cord, has no direct pathophysiological relationship with the hypertensive and endothelial dysfunction that characterises pre-eclampsia, making it the least associated complication among the options presented.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Pre-eclampsia",
+        "body": "Pre-eclampsia describes the emergence of high blood pressure during pregnancy that may be a precursor to a woman developing eclampsia and other complications. It is classically a triad of 3 things:<br /><ul><li>new-onset hypertension</li><li>proteinuria</li><li>oedema</li></ul><br /><h5 class='notes-heading'>Definition</h5><br />The current formal definition is as follows<br /><ul><li>new-onset blood pressure <span class=\"concept\" data-cid=\"11315\">\u2265 140/90 mmHg after 20 weeks of pregnancy, AND 1</span> or more of the following:<ul><li>proteinuria </li><li>other organ involvement (see list below for examples): e.g. renal insufficiency (creatinine \u2265 90 umol/L), liver, neurological, haematological, uteroplacental dysfunction</li></ul></li></ul><br /><h5 class='notes-heading'>Features</h5><br />Potential consequences of pre-eclampsia<br /><ul><li>eclampsia<ul><li>other neurological complications include altered mental status, blindness, stroke, clonus, severe headaches or persistent visual scotomata</li></ul></li><li>fetal complications<ul><li>intrauterine growth retardation</li><li>prematurity</li></ul></li><li>liver involvement (elevated transaminases)</li><li>haemorrhage: placental abruption, intra-abdominal, intra-cerebral</li><li>cardiac failure</li></ul><br />Features of severe pre-eclampsia<br /><ul><li>hypertension: typically > 160/110 mmHg and proteinuria as above</li><li>proteinuria: dipstick ++/+++ </li><li>headache</li><li>visual disturbance</li><li>papilloedema</li><li>RUQ/epigastric pain</li><li>hyperreflexia</li><li>platelet count < 100 * 10<sup>6</sup>/l, abnormal liver enzymes or HELLP syndrome</li></ul><br /><h5 class='notes-heading'>Prevention</h5><br />NICE divide risk factors into high and moderate risk:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>High risk factors</th><th>Moderate risk factors</th></tr></thead><tbody><tr><td><ul><li>hypertensive disease in a previous pregnancy</li><li>chronic kidney disease</li><li>autoimmune disease, such as systemic lupus erythematosus or antiphospholipid syndrome</li><li>type 1 or type 2 diabetes</li><li>chronic hypertension</li></ul></td><td><ul><li>first pregnancy</li><li>age 40 years or older</li><li>pregnancy interval of more than 10 years</li><li>body mass index (BMI) of 35 kg/m\u00b2 or more at first visit</li><li>family history of pre-eclampsia</li><li>multiple pregnancy</td></tr></tbody></table></div></li></ul><br />Reducing the risk of hypertensive disorders in pregnancy<br /><ul><li>women with the following should take <span class=\"concept\" data-cid=\"1636\">aspirin 75-150mg daily from 12 weeks gestation until the birth</span><ul><li>\u2265 1 high risk factors</li><li>\u2265 2 moderate factors</li></ul></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Initial assessment<br /><ul><li>NICE recommend <span class=\"concept\" data-cid=\"11316\">arranging emergency secondary care assessment</span> for any woman in whom pre-eclampsia is suspected</li><li>women with blood pressure \u2265 <span class=\"concept\" data-cid=\"11317\">160/110 mmHg are likely to be admitted and observed</span></li></ul><br />Further management<br /><ul><li><span class=\"concept\" data-cid=\"408\">oral labetalol</span> is now first-line following the 2010 NICE guidelines. <span class=\"concept\" data-cid=\"1935\">Nifedipine (e.g. if asthmatic)</span> and hydralazine may also be used</li><li>delivery of the baby is the most important and definitive management step. The timing depends on the individual clinical scenario</li></ul>",
+        "notes_hash": "a9369d9021d9e9e938ea628ed6ecd914",
+        "knowledge_graph_node_id_link": 1432,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4885",
+        "up_votes": "35",
+        "down_votes": "29",
+        "column_array": [
+            0,
+            "286",
+            "166",
+            "137",
+            "3923",
+            "373",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_696\" data-linkid=\"696\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_696\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_696\" data-linkid=\"696\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_696\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng133/chapter/Recommendations\">2019 Hypertension in pregnancy: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"354\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yta5RRJ-Mg8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"354\">Pre Eclampsia - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_599\" data-mediaid=\"599\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_599\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_599\" data-mediaid=\"599\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_599\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"216\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"216\">Preeclampsia &amp; eclampsia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_356\" data-mediaid=\"356\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_356\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_356\" data-mediaid=\"356\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_356\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1636": {
+                "concept_text": "A woman at moderate or high risk of pre-eclampsia should take aspirin 75-150mg daily from 12 weeks gestation until the birth",
+                "concept_percentile": "96"
+            },
+            "1935": {
+                "concept_text": "Nifedipine is the first line anti-hypertensive for pre-eclampsia in women with severe asthma",
+                "concept_percentile": "90"
+            },
+            "11317": {
+                "concept_text": "Pregnant women with blood pressure \u2265 160/110 mmHg are likely to be admitted and observed ",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9851",
+        "new_question_id": "11289",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_998",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "ADP-receptor blocker",
+            "Activates plasminogen to form plasmin",
+            "Inhibits plasmin",
+            "Inhibits the conversion of fibrinogen to fibrin",
+            "Activates thrombin to form thromboplastin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 50-year-old man is admitted with severe cardiac chest pain. ECG on admission shows ST elevation in the anterior leads and you decide to thrombolyse the patient. What is the mechanism of action of alteplase?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Activates plasminogen to form plasmin</b>. Alteplase, also known as tissue plasminogen activator (tPA), is a thrombolytic agent used in the management of acute myocardial infarction. Its mechanism of action involves binding to fibrin in a thrombus (blood clot) and converting the entrapped plasminogen to plasmin. Plasmin then degrades fibrin, leading to clot dissolution and restoration of blood flow.<br /><br />The option <b>ADP-receptor blocker</b> is incorrect. ADP-receptor blockers, such as clopidogrel and ticagrelor, prevent platelet aggregation by blocking the P2Y12 adenosine diphosphate (ADP) receptor on the platelet surface. They are antiplatelet agents rather than thrombolytic agents.<br /><br /><b>Inhibits plasmin</b> is also an incorrect answer. Inhibition of plasmin would promote clot formation rather than dissolution, which is contrary to the therapeutic aim of alteplase.<br /><br />The option <b>Inhibits the conversion of fibrinogen to fibrin</b> describes the mechanism of anticoagulants like heparin and direct thrombin inhibitors but not that of alteplase. These medications prevent new clots from forming or existing clots from expanding, but they do not actively dissolve established clots.<br /><br />Finally, <b>Activates thrombin to form thromboplastin</b> is not correct either. Thrombin acts on fibrinogen to convert it into fibrin, which then polymerises to form a blood clot. Therefore, activating thrombin would promote coagulation rather than breakdown clots as intended with alteplase use.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50-year-old man is admitted with severe cardiac chest pain. ECG on admission shows ST elevation in the anterior leads and you decide to thrombolyse the patient. What is the mechanism of action of alteplase?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Activates plasminogen to form plasmin</b>. Alteplase, also known as tissue plasminogen activator (tPA), is a thrombolytic agent used in the management of acute myocardial infarction. Its mechanism of action involves binding to fibrin in a thrombus (blood clot) and converting the entrapped plasminogen to plasmin. Plasmin then degrades fibrin, leading to clot dissolution and restoration of blood flow.<br /><br />The option <b>ADP-receptor blocker</b> is incorrect. ADP-receptor blockers, such as clopidogrel and ticagrelor, prevent platelet aggregation by blocking the P2Y12 adenosine diphosphate (ADP) receptor on the platelet surface. They are antiplatelet agents rather than thrombolytic agents.<br /><br /><b>Inhibits plasmin</b> is also an incorrect answer. Inhibition of plasmin would promote clot formation rather than dissolution, which is contrary to the therapeutic aim of alteplase.<br /><br />The option <b>Inhibits the conversion of fibrinogen to fibrin</b> describes the mechanism of anticoagulants like heparin and direct thrombin inhibitors but not that of alteplase. These medications prevent new clots from forming or existing clots from expanding, but they do not actively dissolve established clots.<br /><br />Finally, <b>Activates thrombin to form thromboplastin</b> is not correct either. Thrombin acts on fibrinogen to convert it into fibrin, which then polymerises to form a blood clot. Therefore, activating thrombin would promote coagulation rather than breakdown clots as intended with alteplase use.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Thrombolysis",
+        "body": "Thrombolytic drugs activate plasminogen to form plasmin. This in turn degrades fibrin and help breaks up thrombi. They in primarily used in patients who present with a ST elevation myocardial infarction. Other indications include acute ischaemic stroke and pulmonary embolism, although strict inclusion criteria apply.<br /><br />Examples<br /><ul><li>alteplase</li><li>tenecteplase</li><li>streptokinase</li></ul><br />Contraindications to thrombolysis<br /><ul><li>active internal bleeding</li><li>recent haemorrhage, trauma or surgery (including dental extraction)</li><li>coagulation and bleeding disorders</li><li>intracranial neoplasm</li><li>stroke < 3 months</li><li>aortic dissection</li><li>recent head injury</li><li>severe hypertension</li></ul><br />Side-effects<br /><ul><li>haemorrhage</li><li>hypotension - more common with streptokinase</li><li>allergic reactions may occur with streptokinase</li></ul>",
+        "notes_hash": "7dd47d33ab1859ffbb911d40f1dff571",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6401",
+        "up_votes": "12",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "203",
+            "2949",
+            "321",
+            "2110",
+            "818",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"164\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ys8fMaqfq4Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"164\">Haemostasis 3 - Anticoagulants & Thrombolytics</a></td></tr><tr><td><span ><small>Handwritten Tutorials - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_283\" data-mediaid=\"283\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_283\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_283\" data-mediaid=\"283\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_283\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1560",
+        "new_question_id": "5658",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "479",
+        "notes_id_link": "1_1894",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "6 units",
+            "7 units",
+            "8 units",
+            "9 units",
+            "10 units",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "How many units of alcohol are in a 750ml bottle of red wine with an alcohol by volume of 12%?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>9 units</b>. The number of units of alcohol in a drink can be calculated using the formula: volume (in ml) \u00c3\u2014 ABV (alcohol by volume as a decimal) \u00c3\u00b7 1000. Therefore, for a 750ml bottle of red wine with an alcohol by volume of 12%, the calculation would be: 750 \u00c3\u2014 0.12 \u00c3\u00b7 1000 = 9.<br /><br />Firstly, let's discuss why <b>6 units</b> is incorrect. This would suggest that the alcohol by volume was lower than it actually is or that the size of the bottle was smaller. For example, if we apply the same formula to calculate this, we could assume a bottle size of around 500ml with an ABV of 12% or a larger bottle with an ABV significantly lower than 12%.<br /><br />Next, <b>7 units</b> and <b>8 units</b> are also incorrect for similar reasons. They imply either a smaller bottle size or a lower ABV than stated in the question. These options could potentially represent the number of units in bottles of wine with lower ABVs (around 10-11%) or smaller sizes such as half-litre bottles.<br /><br />Finally, <b>10 units</b>, while not drastically off from the correct answer, still represents an overestimation and implies either a larger bottle size or higher ABV than given in the question. It could potentially represent a full litre bottle at an ABV of around 10%.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "How many units of alcohol are in a 750ml bottle of red wine with an alcohol by volume of 12%?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>9 units</b>. The number of units of alcohol in a drink can be calculated using the formula: volume (in ml) \u00c3\u2014 ABV (alcohol by volume as a decimal) \u00c3\u00b7 1000. Therefore, for a 750ml bottle of red wine with an alcohol by volume of 12%, the calculation would be: 750 \u00c3\u2014 0.12 \u00c3\u00b7 1000 = 9.<br /><br />Firstly, let's discuss why <b>6 units</b> is incorrect. This would suggest that the alcohol by volume was lower than it actually is or that the size of the bottle was smaller. For example, if we apply the same formula to calculate this, we could assume a bottle size of around 500ml with an ABV of 12% or a larger bottle with an ABV significantly lower than 12%.<br /><br />Next, <b>7 units</b> and <b>8 units</b> are also incorrect for similar reasons. They imply either a smaller bottle size or a lower ABV than stated in the question. These options could potentially represent the number of units in bottles of wine with lower ABVs (around 10-11%) or smaller sizes such as half-litre bottles.<br /><br />Finally, <b>10 units</b>, while not drastically off from the correct answer, still represents an overestimation and implies either a larger bottle size or higher ABV than given in the question. It could potentially represent a full litre bottle at an ABV of around 10%.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Alcohol: units",
+        "body": "In 2016 the Chief Medical Officer proposed new guidelines in relation to the safe consumption of alcohol following an expert group report. The most significant change has been a reduction in the number of units it is recommending men do not exceed from 21 to 14, in line with the recommendations for women.<br /><br />The government now recommend the following:<br /><ul><li>men <b>and</b> women should drink no more than 14 units of alcohol per week</li><li>they advise <i>'if you do drink as much as 14 units per week, it is best to spread this evenly over 3 days or more'</i></li><li>pregnant women should not drink. The wording of the official advice is '<i>If you are pregnant or planning a pregnancy, the safest approach is not to drink alcohol at all, to keep risks to your baby to a minimum. Drinking in pregnancy can lead to long-term harm to the baby, with the more you drink the greater the risk.</i>'</li></ul><br />One unit of alcohol is equal to 10 mL of pure ethanol. The 'strength' of an alcoholic drink is determined by the 'alcohol by volume' (ABV).<br /><br />Examples of one unit of alcohol:<br /><ul><li>25ml single measure of spirits (ABV 40%)</li><li>a third of a pint of beer (ABV 5 to 6%)</li><li>half a 175ml 'standard' glass of red wine (ABV 12%)</li></ul><br />To calculate the number of units in a drink multiply the number of millilitres by the ABV and divide by 1,000. For example:<br /><ul><li>half a 175ml 'standard' glass of red wine = 87.5 * 12 / 1000 = 1.05 units</li><li>one bottle of wine = 750 * 12 / 1000 = 9 units</li><li>one pint of 5% beer or lager = 568 * 5 / 1000 = 2.8 units</li></ul>",
+        "notes_hash": "66eff73c73a92d6935372a62157f7a03",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Alcohol units = volume (ml) * ABV / 1,000",
+        "concept_percentile": "16",
+        "concept_colour": "rgb(255,81,0)",
+        "number_attempts": "4950",
+        "up_votes": "35",
+        "down_votes": "63",
+        "column_array": [
+            0,
+            "532",
+            "310",
+            "1007",
+            "2612",
+            "489",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Gov.uk</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_750\" data-linkid=\"750\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_750\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_750\" data-linkid=\"750\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_750\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/489795/summary.pdf\">2016 Alcohol guidelines review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 14,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_235",
+        "new_question_id": "15264",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3487",
+        "notes_id_link": "1_207",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hyponatraemia",
+            "Hyperchloremia",
+            "Hypokalaemia",
+            "Hypermagnesaemia",
+            "Hypocalcaemia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old lady with heart failure and atrial fibrillation present to the emergency department with nausea, vomiting and confusion. After further investigations, her digoxin levels are abnormally high.  Which of the following may have precipitated her current condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about which electrolyte abnormalities that can precipitate digoxin toxicity. Therefore the correct answer is hypokalaemia.<br /><br />Other electrolyte abnormalities that are known to precipitate digoxin toxicity include:<br /><br /><ul><li>Hypomagnesaemia</li><li>Hypercalcaemia</li><li>Hypernatraemia</li></ul><br />However none of those listed above ar other options",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old lady with heart failure and atrial fibrillation present to the emergency department with nausea, vomiting and confusion. After further investigations, her digoxin levels are abnormally high.  Which of the following may have precipitated her current condition?",
+        "correct_answer": "3",
+        "question_notes": "This question is asking about which electrolyte abnormalities that can precipitate digoxin toxicity. Therefore the correct answer is hypokalaemia.<br /><br />Other electrolyte abnormalities that are known to precipitate digoxin toxicity include:<br /><br /><ul><li>Hypomagnesaemia</li><li>Hypercalcaemia</li><li>Hypernatraemia</li></ul><br />However none of those listed above ar other options",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Digoxin and digoxin toxicity",
+        "body": "Digoxin is a cardiac glycoside now mainly used for rate control in the management of atrial fibrillation. As it has <span class=\"concept\" data-cid=\"9729\">positive inotropic properties it is sometimes used for improving symptoms (but not mortality) in patients with heart failure</span>.<br /><br />Mechanism of action<br /><ul><li>decreases conduction through the atrioventricular node which slows the ventricular rate in atrial fibrillation and flutter</li><li>increases the force of cardiac muscle contraction due to <span class=\"concept\" data-cid=\"515\">inhibition of the Na<sup>+</sup>/K<sup>+</sup> ATPase pump</span>. Also stimulates vagus nerve</li><li><span class=\"concept\" data-cid=\"2300\">digoxin has a narrow therapeutic index</span></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"9713\">digoxin level is not monitored routinely, except in suspected toxicity</span></li><li><span class=\"concept\" data-cid=\"9529\">if toxicity is suspected, digoxin concentrations should be measured within 8 to 12 hours of the last dose</span></li></ul><br /><br /><h5 class='notes-heading'>Digoxin toxicity</h5><br />Plasma concentration alone does not determine whether a patient has developed digoxin toxicity. <span class=\"concept\" data-cid=\"9763\">Toxicity may occur even when the concentration is within the therapeutic range</span>. The BNF advises that the likelihood of toxicity increases progressively from 1.5 to 3 mcg/l.<br /><br />Features<br /><ul><li>generally unwell, lethargy, nausea & vomiting, <span class=\"concept\" data-cid=\"6686\">anorexia</span>, <span class=\"concept\" data-cid=\"6687\">confusion</span>, <span class=\"concept\" data-cid=\"6688\">yellow-green vision</span></li><li>arrhythmias (e.g. <span class=\"concept\" data-cid=\"6698\">AV block</span>, <span class=\"concept\" data-cid=\"6696\">bradycardia</span>)</li><li><span class=\"concept\" data-cid=\"1975\">gynaecomastia</span></li></ul><br />Precipitating factors<br /><ul><li>classically: <span class=\"concept\" data-cid=\"3487\">hypokalaemia</span><ul><li><span class=\"concept\" data-cid=\"9922\">digoxin normally binds to the ATPase pump on the same site as potassium. Hypokalaemia &rarr; digoxin more easily bind to the ATPase pump &rarr; increased inhibitory effects</span></li></ul></li><li>increasing age</li><li><span class=\"concept\" data-cid=\"3525\">renal failure</span></li><li>myocardial ischaemia</li><li>hypomagnesaemia, hypercalcaemia, hypernatraemia, acidosis</li><li>hypoalbuminaemia</li><li>hypothermia</li><li>hypothyroidism</li><li>drugs: <span class=\"concept\" data-cid=\"6689\">amiodarone</span>, <span class=\"concept\" data-cid=\"3589\">quinidine</span>, <span class=\"concept\" data-cid=\"6690\">verapamil</span>, <span class=\"concept\" data-cid=\"6691\">diltiazem</span>, <span class=\"concept\" data-cid=\"6692\">spironolactone</span> (competes for secretion in distal convoluted tubule therefore reduce excretion), <span class=\"concept\" data-cid=\"6695\">ciclosporin</span>. Also drugs which cause hypokalaemia e.g. <span class=\"concept\" data-cid=\"6693\">thiazides</span> and <span class=\"concept\" data-cid=\"6694\">loop diuretics</span></li></ul><br /><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"3526\">Digibind</span></li><li>correct arrhythmias</li><li>monitor potassium</li></ul>",
+        "notes_hash": "8fc8ff1fc4bf18fc30889a3341ff6293",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hypokalaemia predisposes patients to digoxin toxicity",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "6106",
+        "up_votes": "26",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "790",
+            "96",
+            "4482",
+            "290",
+            "448",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GI6c0OwhuPg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\">Digoxin Mnemonic - Cardiac Glycosides (Inotropes)</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2822\" data-mediaid=\"2822\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2822\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_2822\" data-mediaid=\"2822\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2822\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "515": {
+                "concept_text": "Digoxin - inhibits the Na<sup>+</sup>/K<sup>+</sup> ATPase pump",
+                "concept_percentile": "11"
+            },
+            "1975": {
+                "concept_text": "Gynaecomastia is a recognised side effect of digoxin",
+                "concept_percentile": "40"
+            },
+            "3487": {
+                "concept_text": "Hypokalaemia predisposes patients to digoxin toxicity",
+                "concept_percentile": "89"
+            },
+            "3589": {
+                "concept_text": "Type 1 diabetes often presents with the triad of weight loss, polyuria and polydipsia ",
+                "concept_percentile": "3"
+            },
+            "6686": {
+                "concept_text": "Digoxin may cause anorexia",
+                "concept_percentile": "8"
+            },
+            "6687": {
+                "concept_text": "Digoxin may cause confusion",
+                "concept_percentile": "15"
+            },
+            "6688": {
+                "concept_text": "Digoxin may cause yellow-green vision",
+                "concept_percentile": "39"
+            },
+            "6689": {
+                "concept_text": "Amiodarone may cause precipitation of digoxin toxicity - if starting amiodarone on a patient taking digoxin the dose should be reduced",
+                "concept_percentile": "17"
+            },
+            "6690": {
+                "concept_text": "Verapamil may cause precipitation of digoxin toxicity",
+                "concept_percentile": "20"
+            },
+            "6691": {
+                "concept_text": "Diltiazem may cause precipitation of digoxin toxicity",
+                "concept_percentile": "51"
+            },
+            "6693": {
+                "concept_text": "Thiazides may cause precipitation of digoxin toxicity",
+                "concept_percentile": "54"
+            },
+            "6694": {
+                "concept_text": "Loop diuretics may cause precipitation of digoxin toxicity",
+                "concept_percentile": "38"
+            },
+            "6695": {
+                "concept_text": "Ciclosporin may cause precipitation of digoxin toxicity",
+                "concept_percentile": "8"
+            },
+            "9713": {
+                "concept_text": "Digoxin level is not monitored routinely, except in suspected toxicity ",
+                "concept_percentile": "60"
+            },
+            "9763": {
+                "concept_text": "Digoxin toxicity may occur even when the concentration is within the therapeutic range",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_242",
+        "new_question_id": "17050",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "4782",
+        "notes_id_link": "1_1568",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Urge incontinence",
+            "Overactive bladder syndrome",
+            "Stress incontinence",
+            "Mixed incontinence",
+            "Urinary overflow incontinence",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old woman presents to the GP with urinary incontinence. Her symptoms occur all day, and she has also noticed that when she does manage to go voluntarily her flow of urine is very poor. On examination, the GP can feel a distended bladder even though the patient has just urinated while waiting for the appointment. <br /><br />Given this woman's presentation, what is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This elderly woman is presenting with symptoms of urinary incontinence. This is confirmed by the palpable bladder after urination. The most common causes of urinary overflow incontinence are prostate problems, however, in this case as she is a woman this is not possible. Other causes can include nerve damage causing a neurogenic bladder such as complication of diabetics, chronic alcoholics or surgery to the pelvic area. <br /><br />Urge incontinence would be preceded by a sudden need to urinate. This is not noted as the patient has a constant incontinence.<br /><br />An overactive bladder syndrome is a form of urge incontinence caused by an overactive bladder, it too would be associated with incontinence, polyuria and nocturia. <br /><br />Stress incontinence would be likely associated with raised intraabdominal pressure, such as a sneeze or a cough. This is not noted in this case.<br /><br />As no symptoms of urge incontinence or stress incontinence were present, a diagnosis of mixed incontinence is not suggested.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old woman presents to the GP with urinary incontinence. Her symptoms occur all day, and she has also noticed that when she does manage to go voluntarily her flow of urine is very poor. On examination, the GP can feel a distended bladder even though the patient has just urinated while waiting for the appointment. <br /><br />Given this woman's presentation, what is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This elderly woman is presenting with symptoms of urinary incontinence. This is confirmed by the palpable bladder after urination. The most common causes of urinary overflow incontinence are prostate problems, however, in this case as she is a woman this is not possible. Other causes can include nerve damage causing a neurogenic bladder such as complication of diabetics, chronic alcoholics or surgery to the pelvic area. <br /><br />Urge incontinence would be preceded by a sudden need to urinate. This is not noted as the patient has a constant incontinence.<br /><br />An overactive bladder syndrome is a form of urge incontinence caused by an overactive bladder, it too would be associated with incontinence, polyuria and nocturia. <br /><br />Stress incontinence would be likely associated with raised intraabdominal pressure, such as a sneeze or a cough. This is not noted in this case.<br /><br />As no symptoms of urge incontinence or stress incontinence were present, a diagnosis of mixed incontinence is not suggested.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Urinary incontinence",
+        "body": "Urinary incontinence (UI) is a common problem, affecting around 4-5% of the population. It is more common in elderly females. <br /><br />Risk factors<br /><ul><li>advancing age</li><li>previous pregnancy and childbirth</li><li>high body mass index</li><li>hysterectomy</li><li>family history</li></ul><br />Classification<br /><ul><li><span class=\"concept\" data-cid=\"11615\">overactive bladder (OAB)/urge incontinence</span><ul><li>due to detrusor overactivity</li><li>the urge to urinate is quickly followed by uncontrollable leakage ranging from a few drops to complete bladder emptying</li></ul></li><li>stress incontinence: leaking small amounts when <span class=\"concept\" data-cid=\"4783\">coughing or laughing</span></li><li>mixed incontinence: both urge and stress</li><li>overflow incontinence: due to <span class=\"concept\" data-cid=\"4782\">bladder outlet obstruction</span>, e.g. due to prostate enlargement</li><li><span class=\"concept\" data-cid=\"11553\">functional incontinence</span><ul><li>comorbid physical conditions impair the patient's ability to get to a bathroom in time</li><li>causes include dementia, sedating medication and injury/illness resulting in decreased ambulation</li></ul></li></ul><br />Initial investigation<br /><ul><li>bladder diaries should be completed for a minimum of 3 days</li><li>vaginal examination to exclude pelvic organ prolapse and ability to initiate voluntary contraction of pelvic floor muscles ('Kegel' exercises)</li><li><span class=\"concept\" data-cid=\"2860\">urine dipstick and culture</span></li><li>urodynamic studies<ul><li><span class=\"concept\" data-cid=\"12421\">not routinely required before starting initial conservative treatment for urinary incontinence</span></li><li>may be considered if the diagnosis is uncertain,  mixed incontinence is suspected or surgical intervention is planned</li></ul></li></ul><br /><h6 class='notes-subheading'>Management depends on whether urge or stress UI is the predominant picture</h6> <br /><br />If urge incontinence is predominant:<br /><ul><li><span class=\"concept\" data-cid=\"342\">bladder retraining</span> (lasts for a minimum of 6 weeks, the idea is to gradually increase the intervals between voiding) </li><li><span class=\"concept\" data-cid=\"4664\">bladder stabilising drugs: antimuscarinics are first-line</span><ul><li>NICE recommend oxybutynin (immediate release), tolterodine (immediate release) or darifenacin (once daily preparation)</li><li><span class=\"concept\" data-cid=\"8320\"> avoid immediate-release oxybutynin in frail older women</span></li><li>solifenacin is an alternative antimuscarinic agent</li></ul></li><li>mirabegron (a <span class=\"concept\" data-cid=\"2295\">beta-3 agonist</span>) may be useful if there is concern about anticholinergic side-effects in <span class=\"concept\" data-cid=\"7869\">frail elderly patients</span></li><li>if <span class=\"concept\" data-cid=\"12317\">troublesome nocturia is a feature, desmopressin</span> may be considered</li><li>for women with overactive bladder that has not responded to non-surgical management:<ul><li>if urodynamic investigations determine that detrusor overactivity is causing her overactive bladder symptoms then consider <span class=\"concept\" data-cid=\"12326\">botulinum toxin type A bladder wall injection</span></li></ul></li></ul><br />If stress incontinence is predominant:<br /><ul><li>lifestyle measures, e.g. weight reduction, reducing caffeine intake</li><li><span class=\"concept\" data-cid=\"342\">pelvic floor muscle training</span><ul><li>NICE recommend at least 8 contractions performed 3 times per day for a minimum of 3 months</li></ul></li><li>surgical procedures include:<ul><li>mid-urethral tape procedures (still recommended by NICE but only after discussing risks and benefits)</li><li>intramural bulking agent injections</li><li>colposuspension</li></ul></li><li><span class=\"concept\" data-cid=\"11018\">duloxetine</span> may be offered to women if they decline surgical procedures<ul><li>a combined noradrenaline and serotonin reuptake inhibitor</li><li>mechanism of action: increased synaptic concentration of noradrenaline and serotonin within the pudendal nerve &rarr; increased stimulation of urethral striated muscles within the sphincter &rarr; enhanced contraction</li></ul></li></ul>",
+        "notes_hash": "6003d1ac7f9e8dcae13affdb7cd360c6",
+        "knowledge_graph_node_id_link": 10100,
+        "concept": "Bladder still palpable after urination, think retention with urinary overflow ",
+        "concept_percentile": "85",
+        "concept_colour": "rgb(76,255,0)",
+        "number_attempts": "4793",
+        "up_votes": "11",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "317",
+            "873",
+            "57",
+            "318",
+            "3228",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_272\" data-linkid=\"272\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_272\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_272\" data-linkid=\"272\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_272\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">37</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng123/chapter/Recommendations\">2019 urinary incontinence guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "342": {
+                "concept_text": "Urinary incontinence - first-line treatment:\r\n   - urge incontinence: bladder retraining\r\n   - stress incontinence: pelvic floor muscle training",
+                "concept_percentile": "64"
+            },
+            "2860": {
+                "concept_text": "Urine dipstick test and culture should be done as part of the basic investigations for urinary incontinence",
+                "concept_percentile": "71"
+            },
+            "4664": {
+                "concept_text": "Patients with urge incontinence who have failed bladder retraining can trial bladder stabilising drugs (antimuscarinics) such as oxybutynin, tolterodine or darifenacin",
+                "concept_percentile": "85"
+            },
+            "4782": {
+                "concept_text": "Bladder still palpable after urination, think retention with urinary overflow ",
+                "concept_percentile": "85"
+            },
+            "4783": {
+                "concept_text": "Urinary incontinence when coughing is most likely to be due to stress incontinence",
+                "concept_percentile": "29"
+            },
+            "11018": {
+                "concept_text": "Duloxetine may be used in patients with stress incontinence who don't respond to pelvic floor muscle exercises and decline surgical intervention",
+                "concept_percentile": "83"
+            },
+            "12326": {
+                "concept_text": "Botulinum toxin type A bladder wall injections may be considered for refactory overactive bladder symptoms",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8906_B_235",
+        "new_question_id": "32144",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "9493",
+        "notes_id_link": "1_1435",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cardiac syncope",
+            "Cataplexy",
+            "Childhood absence epilepsy",
+            "Generalised epilepsy",
+            "Vasovagal syncope",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 12-year-old girl is brought to the emergency department for review after an episode of syncope. Her friends reported she was laughing at a joke and suddenly collapsed to the ground after which the teacher called an ambulance. She recovered within 15 minutes of this and was back to normal. Her school reports note that she frequently falls asleep during classes and has been punished for this last week. <br /><br />What is the likely cause of this issue?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient most likely had an episode of cataplexy. The clues that point towards this include the episode of laughter and history of excessive sleepiness during classes which suggest the patient potentially has narcolepsy. <br /><br />Cardiac syncope is possible and would need to be ruled out with appropriate investigations including an ECG and transthoracic echocardiogram. In this stem, the clues point mainly towards cataplexy making that a more suitable answer. <br /><br />Absence seizures are unlikely in this situation. These would not present with the total loss of limb tone which is apparent here. They would instead present with episodes of blank staring.<br /><br />Generalised epilepsy is also unlikely in this situation. It would present with tonic-clonic seizures that last a few minutes and take significant time to completely recover from; this patient had a sudden loss of muscle tone followed by a quick recovery. <br /><br />Vasovagal syncope is another potential differential in this situation but the scenario lacks clues that point towards it. Usually, these would occur concurrently with an unpleasant experience such as the sigh of blood. In this case, the patient was laughing with friends.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 12-year-old girl is brought to the emergency department for review after an episode of syncope. Her friends reported she was laughing at a joke and suddenly collapsed to the ground after which the teacher called an ambulance. She recovered within 15 minutes of this and was back to normal. Her school reports note that she frequently falls asleep during classes and has been punished for this last week. <br /><br />What is the likely cause of this issue?",
+        "correct_answer": "2",
+        "question_notes": "This patient most likely had an episode of cataplexy. The clues that point towards this include the episode of laughter and history of excessive sleepiness during classes which suggest the patient potentially has narcolepsy. <br /><br />Cardiac syncope is possible and would need to be ruled out with appropriate investigations including an ECG and transthoracic echocardiogram. In this stem, the clues point mainly towards cataplexy making that a more suitable answer. <br /><br />Absence seizures are unlikely in this situation. These would not present with the total loss of limb tone which is apparent here. They would instead present with episodes of blank staring.<br /><br />Generalised epilepsy is also unlikely in this situation. It would present with tonic-clonic seizures that last a few minutes and take significant time to completely recover from; this patient had a sudden loss of muscle tone followed by a quick recovery. <br /><br />Vasovagal syncope is another potential differential in this situation but the scenario lacks clues that point towards it. Usually, these would occur concurrently with an unpleasant experience such as the sigh of blood. In this case, the patient was laughing with friends.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Cataplexy",
+        "body": "Cataplexy describes the <span class=\"concept\" data-cid=\"9493\">sudden and transient loss of muscular tone</span> caused by <span class=\"concept\" data-cid=\"5389\">strong emotion</span> (e.g. laughter, being frightened). Around two-thirds of patients with narcolepsy have cataplexy.<br /><br />Features range from buckling knees to collapse.",
+        "notes_hash": "5003abff6893b1e45935b39f655eeba7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Laughter &rarr; fall/collapse ?cataplexy",
+        "concept_percentile": "41",
+        "concept_colour": "rgb(255,209,0)",
+        "number_attempts": "7527",
+        "up_votes": "26",
+        "down_votes": "27",
+        "column_array": [
+            0,
+            "274",
+            "5223",
+            "1198",
+            "71",
+            "761",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "9493": {
+                "concept_text": "Laughter --> fall/collapse ?cataplexy",
+                "concept_percentile": "41"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

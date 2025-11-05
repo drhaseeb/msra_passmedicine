@@ -1,0 +1,863 @@
+[
+    {
+        "question_id": "999_B_2066",
+        "new_question_id": "61142",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11772",
+        "notes_id_link": "1_1692",
+        "theme": "Initial T2DM management in a patient with established CVD.",
+        "instruction": "",
+        "options": [
+            "",
+            "Metformin monotherapy",
+            "Metformin and an SGLT-2 inhibitor",
+            "Metformin and a sulfonylurea",
+            "Metformin and a DPP-4 inhibitor",
+            "SGLT-2 inhibitor monotherapy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old man with a history of myocardial infarction is newly diagnosed with type 2 diabetes following a routine health check. He is asymptomatic.<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>HbA1c</td><td>55 mmol/mol</td><td>(20 - 41)</td></tr></tbody></table></div>Select the single most appropriate initial pharmacological management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Metformin and an SGLT-2 inhibitor</b> is the correct answer. According to the 2022 NICE guidelines (NG28) for the management of type 2 diabetes, initial drug treatment should be tailored based on the patient's comorbidities and cardiovascular risk. For individuals with established atherosclerotic cardiovascular disease (ASCVD), such as this patient with a history of myocardial infarction, dual therapy with metformin and a sodium-glucose co-transporter-2 (SGLT-2) inhibitor should be offered from the outset. This recommendation is based on strong evidence from cardiovascular outcome trials demonstrating that SGLT-2 inhibitors (e.g., empagliflozin, canagliflozin, dapagliflozin) significantly reduce the risk of major adverse cardiovascular events, hospitalisation for heart failure, and progression of renal disease, independent of their glucose-lowering effects. Metformin remains a cornerstone of therapy and should be started and titrated to the maximum tolerated dose, with the SGLT-2 inhibitor introduced alongside it. This proactive approach aims to address both glycaemic control and cardiovascular risk reduction from the point of diagnosis in this high-risk patient.<br /><br /><b>Metformin monotherapy</b> is incorrect in this specific clinical context. While metformin is the standard first-line agent for most people with newly diagnosed type 2 diabetes, this applies to those who do not have established cardiovascular disease, chronic heart failure, or a high risk of developing CVD (QRISK2 score \u226510%). For this patient, who has established ASCVD due to his previous myocardial infarction, initiating metformin alone would be suboptimal management. It would fail to provide the immediate and significant cardiovascular protection offered by an SGLT-2 inhibitor, thereby not aligning with the most current, evidence-based UK guidelines. The guidelines now prioritise cardiovascular and renal risk reduction in addition to glycaemic control.<br /><br /><b>Metformin and a sulfonylurea</b> is an incorrect choice for initial therapy. This combination is a well-established second-line option for patients who are already on metformin monotherapy but are not meeting their agreed HbA1c target (typically when HbA1c rises to 58 mmol/mol or 7.5%). It is not recommended as a first-line combination. Furthermore, sulfonylureas (e.g., gliclazide) are associated with risks of hypoglycaemia and weight gain, and they do not confer the specific cardiovascular benefits that are indicated for this patient. Given the availability of agents with proven cardiovascular outcome benefits, this would not be the most appropriate choice.<br /><br /><b>Metformin and a DPP-4 inhibitor</b> is also an incorrect choice for initial therapy. Similar to sulfonylureas, a dipeptidyl peptidase-4 (DPP-4) inhibitor (e.g., sitagliptin, alogliptin) is typically added as a second-line agent if glycaemic control is not achieved with metformin alone. While DPP-4 inhibitors have the advantage of being weight-neutral with a low risk of hypoglycaemia, they have been shown to be largely neutral in terms of cardiovascular outcomes. They do not provide the significant reduction in cardiovascular events seen with SGLT-2 inhibitors. Therefore, in a patient with known cardiovascular disease, an SGLT-2 inhibitor is the strongly preferred add-on agent to metformin.<br /><br /><b>SGLT-2 inhibitor monotherapy</b> is incorrect because metformin is not contraindicated. This option would be appropriate for a patient with established cardiovascular disease in whom metformin is contraindicated (e.g., severe renal impairment with an eGFR <30 ml/min/1.73m\u00b2) or not tolerated due to side effects. The scenario provides no information to suggest any contraindication to metformin. As metformin is effective, generally safe, and has a robust evidence base, it should be included as part of the first-line regimen unless there is a clear reason to omit it. The optimal approach is therefore combination therapy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old man with a history of myocardial infarction is newly diagnosed with type 2 diabetes following a routine health check. He is asymptomatic.<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>HbA1c</td><td>55 mmol/mol</td><td>(20 - 41)</td></tr></tbody></table></div>Select the single most appropriate initial pharmacological management from the options below.",
+        "correct_answer": "2",
+        "question_notes": "<b>Metformin and an SGLT-2 inhibitor</b> is the correct answer. According to the 2022 NICE guidelines (NG28) for the management of type 2 diabetes, initial drug treatment should be tailored based on the patient's comorbidities and cardiovascular risk. For individuals with established atherosclerotic cardiovascular disease (ASCVD), such as this patient with a history of myocardial infarction, dual therapy with metformin and a sodium-glucose co-transporter-2 (SGLT-2) inhibitor should be offered from the outset. This recommendation is based on strong evidence from cardiovascular outcome trials demonstrating that SGLT-2 inhibitors (e.g., empagliflozin, canagliflozin, dapagliflozin) significantly reduce the risk of major adverse cardiovascular events, hospitalisation for heart failure, and progression of renal disease, independent of their glucose-lowering effects. Metformin remains a cornerstone of therapy and should be started and titrated to the maximum tolerated dose, with the SGLT-2 inhibitor introduced alongside it. This proactive approach aims to address both glycaemic control and cardiovascular risk reduction from the point of diagnosis in this high-risk patient.<br /><br /><b>Metformin monotherapy</b> is incorrect in this specific clinical context. While metformin is the standard first-line agent for most people with newly diagnosed type 2 diabetes, this applies to those who do not have established cardiovascular disease, chronic heart failure, or a high risk of developing CVD (QRISK2 score \u226510%). For this patient, who has established ASCVD due to his previous myocardial infarction, initiating metformin alone would be suboptimal management. It would fail to provide the immediate and significant cardiovascular protection offered by an SGLT-2 inhibitor, thereby not aligning with the most current, evidence-based UK guidelines. The guidelines now prioritise cardiovascular and renal risk reduction in addition to glycaemic control.<br /><br /><b>Metformin and a sulfonylurea</b> is an incorrect choice for initial therapy. This combination is a well-established second-line option for patients who are already on metformin monotherapy but are not meeting their agreed HbA1c target (typically when HbA1c rises to 58 mmol/mol or 7.5%). It is not recommended as a first-line combination. Furthermore, sulfonylureas (e.g., gliclazide) are associated with risks of hypoglycaemia and weight gain, and they do not confer the specific cardiovascular benefits that are indicated for this patient. Given the availability of agents with proven cardiovascular outcome benefits, this would not be the most appropriate choice.<br /><br /><b>Metformin and a DPP-4 inhibitor</b> is also an incorrect choice for initial therapy. Similar to sulfonylureas, a dipeptidyl peptidase-4 (DPP-4) inhibitor (e.g., sitagliptin, alogliptin) is typically added as a second-line agent if glycaemic control is not achieved with metformin alone. While DPP-4 inhibitors have the advantage of being weight-neutral with a low risk of hypoglycaemia, they have been shown to be largely neutral in terms of cardiovascular outcomes. They do not provide the significant reduction in cardiovascular events seen with SGLT-2 inhibitors. Therefore, in a patient with known cardiovascular disease, an SGLT-2 inhibitor is the strongly preferred add-on agent to metformin.<br /><br /><b>SGLT-2 inhibitor monotherapy</b> is incorrect because metformin is not contraindicated. This option would be appropriate for a patient with established cardiovascular disease in whom metformin is contraindicated (e.g., severe renal impairment with an eGFR <30 ml/min/1.73m\u00b2) or not tolerated due to side effects. The scenario provides no information to suggest any contraindication to metformin. As metformin is effective, generally safe, and has a robust evidence base, it should be included as part of the first-line regimen unless there is a clear reason to omit it. The optimal approach is therefore combination therapy.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Diabetes mellitus: management of type 2",
+        "body": "NICE updated its guidance on the management of type 2 diabetes mellitus (T2DM) in 2022. This update reflected the advances in drug therapy and improved evidence regarding newer therapies such as SGLT-2 inhibitors.<br /><br /><div class='alert alert-warning'>It's worthwhile thinking of the average patient who is taking metformin for T2DM, you can titrate up metformin and encourage lifestyle changes to aim for a HbA1c of <span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%), but should only add a second drug if the HbA1c rises to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)<br /></div><br /><br />Dietary advice<br /><ul><li>encourage high fibre, low glycaemic index sources of carbohydrates</li><li>include low-fat dairy products and oily fish</li><li>control the intake of foods containing saturated fats and trans fatty acids</li><li>limited substitution of sucrose-containing foods for other carbohydrates is allowable, but care should be taken to avoid excess energy intake</li><li>discourage the use of foods marketed specifically at people with diabetes</li><li>initial target weight loss in an overweight person is 5-10%</li></ul><br /><br /><h5 class='notes-heading'>HbA1c targets</h5><br />This is an area which has changed in 2015<br /><ul><li>individual targets should be agreed with patients to encourage motivation</li><li>HbA1c should be checked every 3-6 months until stable, then 6 monthly</li><li>NICE encourage us to consider relaxing targets on <i>'a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes'</i></li><li>in 2015 the guidelines changed so HbA1c targets are now dependent on treatment:</li></ul><br /><h6 class='notes-subheading'>Lifestyle or single-drug treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Lifestyle</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Lifestyle + metformin</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Includes any drug which may cause hypoglycaemia (e.g. lifestyle + sulfonylurea)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br />Practical examples<br /><ul><li>a patient is newly diagnosed with HbA1c and wants to try lifestyle treatment first. You agree on a target of 48 mmol/mol (6.5%)</li><li>you review a patient 6 months after starting metformin. His HbA1c is 51 mmol/mol (6.8%). You increase his metformin from 500mg bd to 500mg tds and reinforce lifestyle factors</li></ul><br /><h6 class='notes-subheading'>Patient already on treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Already on one drug, but HbA1c has risen to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Initial drug therapy</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified initial management of type 2 diabetes mellitus</div><br /><span class=\"concept\" data-cid=\"9107\">Metformin remains the first-line drug</span> of choice in type 2 diabetes mellitus.<br /><ul><li>metformin should be titrated up slowly to minimise the possibility of gastrointestinal upset</li><li>if standard-release metformin is not tolerated then modified-release metformin should be trialled</li></ul><br /><span class=\"concept\" data-cid=\"11772\">SGLT-2 inhibitors</span><br /><ul><li>should also be given in addition to metformin if any of the following apply:<ul><li>the patient has a high risk of developing cardiovascular disease (CVD, e.g. QRISK \u2265 10%)</li><li>the patient has established CVD</li><li>the patient has chronic heart failure</li></ul></li><li><span class=\"concept\" data-cid=\"11773\">metformin should be established and titrated up before introducing the SGLT-2 inhibitor</span></li><li><span class=\"concept\" data-cid=\"11774\">SGLT-2 inhibitors should also be started at any point if a patient develops CVD (e.g. is diagnosed with ischaemic heart disease), a QRISK \u2265 10% or chronic heart failure</span></li></ul><br />If metformin is contraindicated<br /><ul><li>if the patient has a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11775\">SGLT-2 monotherapy</span></li></ul></li><li>if the patient doesn't have a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11776\">DPP-4 inhibitor or pioglitazone or a sulfonylurea</span></li><li>SGLT-2 may be used if certain NICE criteria are met</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Further drug therapy if HbA1c targets are not met</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified further management of type 2 diabetes mellitus if HbA1c targets are not met</div><br />If the HbA1c has risen to 58 mmol/mol (7.5%) then further treatment is indicated. Given the large number of drug therapy options, medication choices depend on individual clinical circumstances (comorbidities, contraindications, weight) and patient preference.<br /><br /><h6 class='notes-subheading'>Second-line therapy</h6><br /><span class=\"concept\" data-cid=\"11777\">Dual therapy - add one of the following:</span><br /><ul><li>metformin + DPP-4 inhibitor</li><li>metformin + pioglitazone</li><li>metformin + sulfonylurea</li><li>metformin + SGLT-2 inhibitor (if NICE criteria met)</li></ul><br /><h6 class='notes-subheading'>Third-line therapy</h6><br /><span class=\"concept\" data-cid=\"11395\">If a patient does not achieve control on dual therapy then the following options are possible:</span><br /><ul><li>metformin + DPP-4 inhibitor + sulfonylurea</li><li>metformin  + pioglitazone + sulfonylurea</li><li>metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met</li><li>insulin-based treatment</li></ul><br /><h6 class='notes-subheading'>Further therapy</h6><br />If triple therapy is not effective or tolerated consider <span class=\"concept\" data-cid=\"11396\">switching one of the drugs for a GLP-1 mimetic</span>:<br /><ul><li>BMI \u2265 35 kg/m\u00b2 and specific psychological or other medical problems associated with obesity or</li><li>BMI < 35 kg/m\u00b2 and for whom insulin therapy would have significant occupational implications or weight loss would benefit other significant obesity-related comorbidities</li><li>only continue if there is a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months</li></ul><br />GLP-1 mimetics should only be added to insulin under specialist care<br /><br />Starting insulin<br /><ul><li>metformin should be continued. In terms of other drugs NICE advice: <i>'Review the continued need for other blood glucose-lowering therapies'</i></li><li>NICE recommend starting with human NPH insulin (isophane, intermediate-acting) taken at bed-time or twice daily according to need</li></ul><br />Practical examples<br /><ul><li>you review an established type 2 diabetic on maximum dose metformin. Her HbA1c is 55 mmol/mol (7.2%). You do not add another drug as she has not reached the threshold of 58 mmol/mol (7.5%)</li><li>a type 2 diabetic is found to have an HbA1c of 62 mmol/mol (7.8%) at annual review. They are currently on maximum dose metformin. You elect to add a sulfonylurea</li></ul><br /><br /><h5 class='notes-heading'>Risk factor modification</h5><br />Hypertension<br /><ul><li><span class=\"concept\" data-cid=\"399\"><b>blood pressure targets are the same as for patients without type 2 diabetes</b> (see table below)</span></li><li>ACE inhibitors or angiotensin II receptor blockers (ARB) are first-line<ul><li>an <span class=\"concept\" data-cid=\"11206\">ARB is preferred if the patient has a black African or African-Caribbean</span> family origin</li></ul></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td>140/90 mmHg</td><td>135/85 mmHg</td></tr><tr><td><b>Age > 80 years</b></td><td>150/90 mmHg</td><td>145/85 mmHg</td></tr></tbody></table></div><br />Antiplatelets<br /><ul><li>should not be offered unless a patient has existing cardiovascular disease</li></ul><br />Lipids<br /><ul><li>following the 2014 NICE lipid modification guidelines only patients with a 10-year cardiovascular risk > 10% (using QRISK2) should be offered a statin. The first-line statin of choice is atorvastatin 20mg on</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Graphic showing choice of statin.</div>",
+        "notes_hash": "ca06d8c38ddc0f626be19075164b9bce",
+        "knowledge_graph_node_id_link": 10924,
+        "concept": "SGLT-2 inhibitors should be used in addition to metformin as initial therapy for T2DM if CVD, high-risk of CVD or chronic heart failure",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "561",
+        "up_votes": "1",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "176",
+            "296",
+            "1",
+            "11",
+            "77",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_721\" data-linkid=\"721\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_721\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_721\" data-linkid=\"721\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_721\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">47</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/assets/qrg116.pdf\">2010 Management of diabetes</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_457\" data-linkid=\"457\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_457\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_457\" data-linkid=\"457\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_457\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">43</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG181/chapter/1-Recommendations\">2014 Lipid modification guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_911\" data-linkid=\"911\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_911\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">56</span><button type=\"button\" style=\"\" id=\"link_dislike_911\" data-linkid=\"911\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_911\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">54</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>7 minute medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1395\" data-linkid=\"1395\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1395\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">44</span><button type=\"button\" style=\"\" id=\"link_dislike_1395\" data-linkid=\"1395\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1395\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">32</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://anchor.fm/7minutemedics/episodes/Episode-2---Type-2-Diabetes-e2ebql\">Basics of type 2 diabetes - podcast</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4Y7wdX7iEAY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\">Type 2 diabetes agents and their mechanism of action</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1195\" data-mediaid=\"1195\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1195\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">51</span><button type=\"button\" style=\"\" id=\"media_dislike_1195\" data-mediaid=\"1195\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1195\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/APHeDOkJKQ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"> Pharmacology of drugs used to treat type 2 diabetes</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1194\" data-mediaid=\"1194\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1194\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1194\" data-mediaid=\"1194\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1194\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W0KPwTy0W9k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\">Diabetes Type II Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_685\" data-mediaid=\"685\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_685\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_685\" data-mediaid=\"685\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_685\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "9108": {
+                "concept_text": "The standard HbA1c target in type 2 diabetes mellitus is 48 mmol/mol",
+                "concept_percentile": "81"
+            },
+            "11395": {
+                "concept_text": "TD2M already on 2 drugs - if HbA1c > 58 mmol/mol then one of the following should be offered:\n   - metformin + DPP-4 inhibitor + sulfonylurea\n   - metformin  + pioglitazone + sulfonylurea\n   - metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met\n   - insulin-based treatment",
+                "concept_percentile": "73"
+            },
+            "11396": {
+                "concept_text": "TD2M: if a triple combination of drugs has failed to reduce HbA1c then switching one of the drugs for a GLP-1 mimetic is recommended, particularly if the BMI > 35",
+                "concept_percentile": "76"
+            },
+            "11772": {
+                "concept_text": "SGLT-2 inhibitors should be used in addition to metformin as initial therapy for T2DM if CVD, high-risk of CVD or chronic heart failure",
+                "concept_percentile": "65"
+            },
+            "11773": {
+                "concept_text": "If starting an SGLT-2 as initial therapy for T2DM then ensure metformin is titrated up first",
+                "concept_percentile": "91"
+            },
+            "11774": {
+                "concept_text": "In patients with T2DM, SGLT-2 should be introduced at any point they develop CVD, a high risk of CVD or chronic heart failure",
+                "concept_percentile": "66"
+            },
+            "11775": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated + patient has a risk of CVD, established CVD or chronic heart failure --> SGLT-2 monotherapy",
+                "concept_percentile": "88"
+            },
+            "11776": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated (and no risk of CVD, established CVD or chronic heart failure) --> choice of DPP-4 inhibitor or Pioglitazone or Sulfonylurea or even SGLT-2 (if NICE criteria met)",
+                "concept_percentile": "89"
+            },
+            "11777": {
+                "concept_text": "T2DM on metformin, if HbA1c has risen to 58 mmol/mol then one of the following should be offered depending on the individual clinical scenario:\n   - DPP-4 inhibitor\n   - pioglitazone\n   - sulfonylurea\n   - SGLT-2 inhibitor (if NICE criteria met)",
+                "concept_percentile": "74"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1729",
+        "new_question_id": "10639",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "898",
+        "notes_id_link": "1_859",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Continue on treatment dose LMWH for 6 weeks",
+            "Continue on treatment dose LMWH for 3 months",
+            "Continue on treatment dose LMWH for 6 months",
+            "Switch to direct oral anticoagulant for 3 months",
+            "Switch to direct oral anticoagulant for 6 months",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old woman develops a deep vein thrombosis (DVT) 10 days after having a hip replacement despite taking prophylactic dose low-molecular weight heparin (LMWH). She has no significant past medical history of note other than osteoarthritis. After being diagnosed she is started on treatment dose LMWH.  What is the most appropriate anticoagulation strategy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The recent surgery is an obvious 'provoking' factor for the DVT. She should therefore be anticoagulated for 3 months.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old woman develops a deep vein thrombosis (DVT) 10 days after having a hip replacement despite taking prophylactic dose low-molecular weight heparin (LMWH). She has no significant past medical history of note other than osteoarthritis. After being diagnosed she is started on treatment dose LMWH.  What is the most appropriate anticoagulation strategy?",
+        "correct_answer": "4",
+        "question_notes": "The recent surgery is an obvious 'provoking' factor for the DVT. She should therefore be anticoagulated for 3 months.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Deep vein thrombosis: diagnosis and management",
+        "body": "NICE updated their guidelines on the investigation and management of venous thromboembolism (VTE) in 2020. Some of the key changes include recommending the following:<br /><ul><li>the use of direct oral anticoagulants (DOACs) as first-line treatment for most people with VTE, including as interim anticoagulants before a definite diagnosis is made</li><li>the <span class=\"concept\" data-cid=\"897\">use of DOACs in patients with active cancer</span>, as opposed to low-molecular weight heparin as was the previous recommendation</li><li>routine cancer screening is no longer recommended following a VTE diagnosis</li></ul><br />If a patient is suspected of having a DVT a two-level DVT Wells score should be performed:<br /><br /><h5 class='notes-heading'>Two-level DVT Wells score</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Clinical feature</b></th><th><b>Points</b></th></tr></thead><tbody><tr><td>Active cancer (treatment ongoing, within 6 months, or palliative)</td><td>1</td></tr><tr><td>Paralysis, paresis or recent plaster immobilisation of the lower extremities</td><td>1</td></tr><tr><td>Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia</td><td>1</td></tr><tr><td>Localised tenderness along the distribution of the deep venous system</td><td>1</td></tr><tr><td>Entire leg swollen</td><td>1</td></tr><tr><td>Calf swelling at least 3 cm larger than asymptomatic side</td><td>1</td></tr><tr><td>Pitting oedema confined to the symptomatic leg</td><td>1</td></tr><tr><td>Collateral superficial veins (non-varicose)</td><td>1</td></tr><tr><td>Previously documented DVT</td><td>1</td></tr><tr><td>An alternative diagnosis is at least as likely as DVT</td><td>-2</td></tr></tbody></table></div><br />Clinical probability simplified score<br /><ul><li>DVT likely: 2 points or more</li><li>DVT unlikely: 1 point or less</li></ul><br />If a <span class=\"concept\" data-cid=\"8512\">DVT is 'likely' (2 points or more)</span><br /><ul><li>a proximal leg vein ultrasound scan should be carried out within 4 hours<ul><li>if the result is positive then a diagnosis of DVT is made and anticoagulant treatment should start</li><li>if the result is negative a D-dimer test should be arranged.  A negative scan and negative D-dimer makes the diagnosis unlikely and alternative diagnoses should be considered</li></ul></li><li>if a proximal leg vein ultrasound scan cannot be carried out within 4 hours a D-dimer test should be performed and <span class=\"concept\" data-cid=\"11181\">interim therapeutic anticoagulation</span> administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)<ul><li>interim therapeutic anticoagulation used to mean giving low-molecular weight heparin</li><li>NICE updated their guidance in 2020. They now recommend using an anticoagulant that can be continued if the result is positive. </li><li>this means normally a direct oral anticoagulant (DOAC) such as apixaban or rivaroxaban</li></ul></li><li>if the <span class=\"concept\" data-cid=\"11182\">scan is negative but the D-dimer is positive</span>:<ul><li>stop interim therapeutic anticoagulation</li><li>offer a repeat proximal leg vein ultrasound scan 6 to 8 days later </li></ul></li></ul><br />If a <span class=\"concept\" data-cid=\"11180\">DVT is 'unlikely' (1 point or less)</span><br /><ul><li>perform a D-dimer test<ul><li>this should be done within 4 hours. If not, interim therapeutic anticoagulation should be given until the result is available</li><li>if the result is negative then DVT is unlikely and alternative diagnoses should be considered</li><li>if the result is positive then a proximal leg vein ultrasound scan should be carried out within 4 hours</li><li>if a proximal leg vein ultrasound scan cannot be carried out <span class=\"concept\" data-cid=\"11181\">within 4 hours interim therapeutic anticoagulation</span> should be administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)</li></ul></li></ul><br />D-dimer tests<br /><ul><li>NICE recommend either a point-of-care (finger prick) or laboratory-based test</li><li>age-adjusted cut-offs should be used for patients > 50 years old</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554b.png\" data-fancybox=\"gallery\" data-caption=\"Flow diagram for investigating suspected DVT using 2-level Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555b.png\" data-fancybox=\"gallery\" data-caption=\"2-level DVT Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555.png\" alt=\"\" /></a></div></div></div><br /><br /><h5 class='notes-heading'>Management</h5><br />The cornerstone of VTE management is anticoagulant therapy. This was historically done with warfarin, often preceded by heparin until the INR was stable. However, the development of DOACs, and an evidence base supporting their efficacy, has changed modern management.<br /><br />Choice of anticoagulant<br /><ul><li>the big change in the 2020 guidelines was the increased use of DOACs</li><li>apixaban or rivaroxaban (both DOACs) should be offered first-line following the diagnosis of a DVT<ul><li>instead of using low-molecular weight heparin (LMWH) until the diagnosis is confirmed, NICE now advocate using a <span class=\"concept\" data-cid=\"8024\">DOAC once a diagnosis is suspected</span>, with this continued if the diagnosis is confirmed</li><li>if neither apixaban or rivaroxaban are suitable then either LMWH followed by dabigatran or edoxaban OR LMWH followed by a vitamin K antagonist (VKA, i.e. warfarin)</li></ul></li><li>if the patient has active cancer<ul><li>previously LMWH was recommended</li><li>the <span class=\"concept\" data-cid=\"897\">new guidelines now recommend using a DOAC</span>, unless this is contraindicated</li></ul></li><li>if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA</li><li>if the patient has antiphospholipid syndrome (specifically 'triple positive' in the guidance) then LMWH followed by a VKA should be used</li></ul><br />Length of anticoagulation<br /><ul><li>all patients should have anticoagulation for at least 3 months</li><li>continuing anticoagulation after this period is partly determined by whether the VTE was provoked or unprovoked<ul><li>a provoked VTE is due to an obvious precipitating event e.g. immobilisation following major surgery. The implication is that this event was transient and the patient is no longer at increased risk</li><li>an unprovoked VTE occurs in the absence of an obvious precipitating event, i.e. there is a possibility that there are unknown factors (e.g. mild thrombophilia) making the patient more at risk from further clots</li></ul></li><li><span class=\"concept\" data-cid=\"898\">if the  VTE was provoked the treatment is typically stopped after the initial 3 months</span> (3 to 6 months for people with active cancer)</li><li><span class=\"concept\" data-cid=\"898\">if the VTE was unprovoked then treatment is typically continued for up to 3 further months (i.e. 6 months in total)</span><ul><li>NICE recommend that whether a patient has a total of 3-6 months anticoagulant is based upon balancing  a person's risk of VTE recurrence and their risk of bleeding</li><li>the ORBIT score can be used to help assess the risk of bleeding</li><li>NICE state: '<i>Explain to people with unprovoked DVT or PE and a low bleeding risk that the benefits of continuing anticoagulation treatment are likely to outweigh the risks. </i>'. The implication of this is that in the absence of a bleeding risk factors, patients are generally better off continuing anticoagulation for a total of 6 months</li></ul></li></ul>",
+        "notes_hash": "aa552e2b461ba513ff640bf604af7b5a",
+        "knowledge_graph_node_id_link": 1230,
+        "concept": "Venous thromoboembolism - length of anticoagulation<br /><ul><li>provoked (e.g. recent surgery): 3 months</li><li>unprovoked: 6 months</li></ul>",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "5061",
+        "up_votes": "39",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "122",
+            "745",
+            "228",
+            "3319",
+            "647",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_631\" data-linkid=\"631\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_631\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"link_dislike_631\" data-linkid=\"631\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_631\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng158/chapter/Recommendations\">2020 Venous thromboembolism guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/POMdvRyxlFw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\">Understanding Deep Vein Thrombosis (DVT)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2298\" data-mediaid=\"2298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2298\" data-mediaid=\"2298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\">Deep vein thrombosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1632\" data-mediaid=\"1632\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1632\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1632\" data-mediaid=\"1632\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1632\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/2vVqBjk-oqQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\">Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1620\" data-mediaid=\"1620\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1620\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1620\" data-mediaid=\"1620\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1620\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "897": {
+                "concept_text": "Cancer patients with VTE - 6 months of a DOAC",
+                "concept_percentile": "90"
+            },
+            "898": {
+                "concept_text": "Venous thromoboembolism - length of anticoagulation\n   - provoked (e.g. recent surgery): 3 months\n   - unprovoked: 6 months",
+                "concept_percentile": "51"
+            },
+            "8024": {
+                "concept_text": "Patients with a suspected pulmonary embolism should be initially managed with a  direct oral anticoagulant (DOAC)",
+                "concept_percentile": "85"
+            },
+            "8512": {
+                "concept_text": "If a 2-level DVT Wells score is \u2265 2 points then arrange a proximal leg vein ultrasound scan within 4 hours",
+                "concept_percentile": "45"
+            },
+            "11180": {
+                "concept_text": "If a 2-level DVT Wells score is \u2264 1 point then arrange a D-dimer with result within 4 hours or interim anticoagulation whilst awaiting D-dimer",
+                "concept_percentile": "53"
+            },
+            "11181": {
+                "concept_text": "If investigating a suspected DVT, and either the D-dimer or scan cannot be done within 4 hours, then start a DOAC",
+                "concept_percentile": "59"
+            },
+            "11182": {
+                "concept_text": "DVT investigation: if the scan is negative, but the D-dimer is positive --> stop anticoagulation and repeat scan in 1 week",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "3159_B_11",
+        "new_question_id": "6535",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_218",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Exposure to pathogens",
+            "Exercise history",
+            "Smoking history",
+            "Alcohol history",
+            "Recent flu-like illness",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 73-year-old female presents to her GP with left shoulder and arm pain which came on quite suddenly a week ago and has been worsening. The pain is now unmanageable with regular co-codamol. The GP also notes that the patient's left pupil is smaller than the other side and the eyelid is lagging slightly. Which question would most likely aid in diagnosing this lady?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient is presenting with Pancoast's syndrome. Symptoms are caused by an apical malignant neoplasm of the lung. These include ipsilateral invasion of the sympathetic cervical plexus leading to Horner's syndrome with shoulder and arm pain due to Brachial Plexus invasion. A smoking history is the most important of the above questions to ask, as 90% of cancers are caused by smoking. Alcohol, exercise or exposure to pathogens will not directly affect this patients presentation of Pancoast's syndrome.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 73-year-old female presents to her GP with left shoulder and arm pain which came on quite suddenly a week ago and has been worsening. The pain is now unmanageable with regular co-codamol. The GP also notes that the patient's left pupil is smaller than the other side and the eyelid is lagging slightly. Which question would most likely aid in diagnosing this lady?",
+        "correct_answer": "3",
+        "question_notes": "This patient is presenting with Pancoast's syndrome. Symptoms are caused by an apical malignant neoplasm of the lung. These include ipsilateral invasion of the sympathetic cervical plexus leading to Horner's syndrome with shoulder and arm pain due to Brachial Plexus invasion. A smoking history is the most important of the above questions to ask, as 90% of cancers are caused by smoking. Alcohol, exercise or exposure to pathogens will not directly affect this patients presentation of Pancoast's syndrome.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Horner's syndrome",
+        "body": "<span class=\"concept\" data-cid=\"530\">Features</span><br /><ul><li><span class=\"concept\" data-cid=\"531\">miosis (small pupil)</span></li><li>ptosis</li><li>enophthalmos* (sunken eye) </li><li><span class=\"concept\" data-cid=\"529\">anhidrosis (loss of sweating one side)</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb970b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing a Pancoast tumour (non-small cell) in the right lung in a middle-aged woman  - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb970.jpg\" alt=\"\" /></a></div></div></div><br />Distinguishing between causes<br /><ul><li>heterochromia (difference in iris colour) is seen in congenital Horner's</li><li>anhidrosis: see below</li><li>pharmacologic tests <ul><li>can be useful to confirm the diagnosis of Horner syndrome and localise the lesion</li><li>apraclonidine drops (an alpha-adrenergic agonist) can be used: causes pupillary dilation in Horner's syndrome due to denervation supersensitivity but produces mild pupillary constriction in the normal pupil by down-regulating the norepinephrine release at the synaptic cleft</li></ul></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Central lesions</b></th><th><b>Pre-ganglionic lesions</b></th><th><b>Post-ganglionic lesions</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"529\">Anhidrosis of the face, arm and trunk</span></td><td><span class=\"concept\" data-cid=\"529\">Anhidrosis of the face</span></td><td><span class=\"concept\" data-cid=\"529\">No anhidrosis</span></td></tr><tr><td><b>S</b>troke<br /><b>S</b>yringomyelia<br />Multiple <b>s</b>clerosis<br />Tumour<br />Encephalitis</td><td><span class=\"concept\" data-cid=\"11668\">Pancoast's <b>t</b>umour</span><br /><b>T</b>hyroidectomy<br /><b>T</b>rauma<br />Cervical rib</td><td><b>C</b>arotid artery dissection<br /><b>C</b>arotid aneurysm<br /><b>C</b>avernous sinus thrombosis<br /><b>C</b>luster headache</td></tr></tbody></table></div><br />*in reality the appearance is due to a narrow palpebral aperture rather than true enophthalmos",
+        "notes_hash": "3942667f2347eaf87127ab3f20108ece",
+        "knowledge_graph_node_id_link": 1290,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4751",
+        "up_votes": "51",
+        "down_votes": "107",
+        "column_array": [
+            0,
+            "172",
+            "140",
+            "2537",
+            "109",
+            "1793",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9XKj95DBscM\" data-description=\"Horner's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1202\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9XKj95DBscM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9XKj95DBscM\" data-description=\"Horner's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1202\">Horner's syndrome</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2109\" data-mediaid=\"2109\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2109\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2109\" data-mediaid=\"2109\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2109\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/17/Pancoast_tumor.webm\" data-description=\"Pancoast tumors\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"304\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/17/Pancoast_tumor.webm\" data-description=\"Pancoast tumors\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"304\">Pancoast tumors</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_515\" data-mediaid=\"515\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_515\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_515\" data-mediaid=\"515\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_515\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Eo2ZDDc5jyc\" data-description=\"Horner's syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1267\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Eo2ZDDc5jyc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Eo2ZDDc5jyc\" data-description=\"Horner's syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1267\">Horner's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2241\" data-mediaid=\"2241\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2241\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2241\" data-mediaid=\"2241\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2241\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBVGh0gyyYc\" data-description=\"How to Examine Horner's Syndrome\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"346\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JBVGh0gyyYc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBVGh0gyyYc\" data-description=\"How to Examine Horner's Syndrome\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"346\">How to Examine Horner's Syndrome</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_588\" data-mediaid=\"588\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_588\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_588\" data-mediaid=\"588\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_588\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "531": {
+                "concept_text": "Ptosis + dilated pupil = third nerve palsy; ptosis + constricted pupil = Horner's",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4972_B_154",
+        "new_question_id": "15711",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3766",
+        "notes_id_link": "1_1275",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "3 days nitrofurantoin",
+            "5 days nitrofurantoin",
+            "7 days vancomycin",
+            "10 days erythromycin",
+            "10 days piperacillin and tazobactam",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A woman who is 32 weeks pregnant presents to the emergency department with a painless leakage of fluid from the vagina. There was an initial gush 2 hours ago, and a steady drip since. She is examined with a sterile speculum and the fluid is confirmed as amniotic fluid. The woman also states she has a severe allergy to penicillin. What is the best management to reduce the risk of infection?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This is a clear history of preterm prelabour rupture of membranes. The most appropriate management of this is 10 days of oral erythromycin. Piperacillin and tazobactam (tazocin) is used often in neutropenic sepsis, and is also dangerous to used here due to the penicillin allergy. Nitrofurantoin is for urinary tract infections. Vancomycin is used against anaerobic GI infections.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A woman who is 32 weeks pregnant presents to the emergency department with a painless leakage of fluid from the vagina. There was an initial gush 2 hours ago, and a steady drip since. She is examined with a sterile speculum and the fluid is confirmed as amniotic fluid. The woman also states she has a severe allergy to penicillin. What is the best management to reduce the risk of infection?",
+        "correct_answer": "4",
+        "question_notes": "This is a clear history of preterm prelabour rupture of membranes. The most appropriate management of this is 10 days of oral erythromycin. Piperacillin and tazobactam (tazocin) is used often in neutropenic sepsis, and is also dangerous to used here due to the penicillin allergy. Nitrofurantoin is for urinary tract infections. Vancomycin is used against anaerobic GI infections.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Preterm prelabour rupture of the membranes",
+        "body": "Preterm prelabour rupture of the membranes (PPROM) occurs in around 2% of pregnancies but is associated with around 40% of preterm deliveries.<br /><br />Complications of PPROM<br /><ul><li>fetal: prematurity, infection, pulmonary hypoplasia</li><li>maternal: chorioamnionitis</li></ul><br />Confirming PPROM<br /><ul><li>a sterile speculum examination should be performed (to look for <span class=\"concept\" data-cid=\"10901\">pooling of amniotic fluid in the posterior vaginal vault</span>) but digital examination should be avoided due to the risk of infection</li><li><span class=\"concept\" data-cid=\"10902\">if pooling of fluid is not observed, NICE recommend testing the fluid for placental alpha microglobulin-1 protein (PAMG-1) (e.g. AmniSure) or insulin-like growth factor binding protein-1 (IGFBP-1)</span></li><li>ultrasound may also be useful to show oligohydramnios</li></ul><br />Management<br /><ul><li>admission for observation, particularly to monitor for signs of infection or labour</li><li>regular observations (e.g. temperature, pulse) to ensure chorioamnionitis is not developing</li><li><span class=\"concept\" data-cid=\"3766\">oral erythromycin</span> should be given for 10 days (or until labour is established, whichever is sooner)</li><li>antenatal <span class=\"concept\" data-cid=\"2824\">corticosteroids</span> (typically dexamethasone) should be administered to reduce the risk of respiratory distress syndrome (especially before 34 weeks, and consider between 34\u201336 weeks)</li><li>consider <span class=\"concept\" data-cid=\"12315\">IV magnesium sulphate for fetal neuroprotection if < 30 weeks</span> and birth is imminent</li><li><span class=\"concept\" data-cid=\"12314\">delivery is generally recommended at 37 weeks of gestation</span> if there are no other indications for earlier delivery (e.g. chorioamnionitis, fetal compromise). This balances the risks of infection with the benefits of further fetal maturation</li><li>if meconium-stained liquor is present, close monitoring is required; earlier delivery may be indicated depending on clinical findings</li></ul>",
+        "notes_hash": "a3235a8057807db8974869b30054decf",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "10 days erythromycin should be given to all women with PPROM",
+        "concept_percentile": "99",
+        "concept_colour": "rgb(5,255,0)",
+        "number_attempts": "5188",
+        "up_votes": "22",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "107",
+            "328",
+            "510",
+            "3996",
+            "247",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Obstetricians and Gynaecologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2089\" data-linkid=\"2089\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2089\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_2089\" data-linkid=\"2089\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2089\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1111/1471-0528.15803\">2019 Care of Women Presenting with Suspected Preterm Prelabour Rupture of Membranes from 24+0 Weeks of Gestation</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1146\" data-linkid=\"1146\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1146\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"link_dislike_1146\" data-linkid=\"1146\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1146\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng25/chapter/Recommendations\">2015 Preterm labour and birth guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2824": {
+                "concept_text": "In preterm prelabour rupture of membranes, antenatal corticosteroids should be administered to reduce the risk of respiratory distress syndrome",
+                "concept_percentile": "46"
+            },
+            "3766": {
+                "concept_text": "10 days erythromycin should be given to all women with PPROM",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1950",
+        "new_question_id": "8126",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_354",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous hydrocortisone",
+            "Intravenous aminophylline",
+            "Referral to ITU",
+            "Continue current treatment",
+            "BIPAP",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 83-year-old patient with chronic obstructive pulmonary disease (COPD) comes in short of breath. This has come on over two days. She is very wheezy and cannot talk in full sentences. On examination, she has widespread wheeze and crackles. Her observations are as follows: respiratory rate 30/min, oxygen saturations 92% on FiO2 0.24, heart rate 100/min, blood pressure 115/66mmHg. A chest x-ray shows no pneumothorax. The patient is given nebulised salbutamol and ipratropium bromide driven by air as well as oral steroids. She is given intravenous amoxicillin and oral clarithromycin. She fails to improve after an hour of treatment and is very tired. An arterial blood gas is done at this point with the patient on 24% O2 that shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>pH</td><td>7.30</td></tr><tr><td>PCO2</td><td>8 kPa</td></tr><tr><td>PO2</td><td>8.4 kPa</td></tr><tr><td>Bicarbonate</td><td>29 mEq/l</td></tr></tbody></table></div><br />What is the next management step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has a likely exacerbation of COPD. She has maximal treatment for an hour now with oral steroids, IV antibiotics, IV fluids, nebulised salbutamol and ipratropium. She is on controlled oxygen but remains acidotic with a high PCO2 at 8. Her bicarbonate is 29 at the higher range of normal. Therefore this patient has a respiratory acidosis secondary to an exacerbation of COPD. <br /><br />The BTS guidelines for NIV suggest at this point the patient should be started on BIPAP. Hence this is the correct answer. If this failed then ITU referral would be appropriate.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 83-year-old patient with chronic obstructive pulmonary disease (COPD) comes in short of breath. This has come on over two days. She is very wheezy and cannot talk in full sentences. On examination, she has widespread wheeze and crackles. Her observations are as follows: respiratory rate 30/min, oxygen saturations 92% on FiO2 0.24, heart rate 100/min, blood pressure 115/66mmHg. A chest x-ray shows no pneumothorax. The patient is given nebulised salbutamol and ipratropium bromide driven by air as well as oral steroids. She is given intravenous amoxicillin and oral clarithromycin. She fails to improve after an hour of treatment and is very tired. An arterial blood gas is done at this point with the patient on 24% O2 that shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>pH</td><td>7.30</td></tr><tr><td>PCO2</td><td>8 kPa</td></tr><tr><td>PO2</td><td>8.4 kPa</td></tr><tr><td>Bicarbonate</td><td>29 mEq/l</td></tr></tbody></table></div><br />What is the next management step?",
+        "correct_answer": "5",
+        "question_notes": "This patient has a likely exacerbation of COPD. She has maximal treatment for an hour now with oral steroids, IV antibiotics, IV fluids, nebulised salbutamol and ipratropium. She is on controlled oxygen but remains acidotic with a high PCO2 at 8. Her bicarbonate is 29 at the higher range of normal. Therefore this patient has a respiratory acidosis secondary to an exacerbation of COPD. <br /><br />The BTS guidelines for NIV suggest at this point the patient should be started on BIPAP. Hence this is the correct answer. If this failed then ITU referral would be appropriate.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Non-invasive ventilation",
+        "body": "The British Thoracic Society (BTS) published guidelines in 2002 on the use of non-invasive ventilation in acute respiratory failure. Following these the Royal College of Physicians published guidelines in 2008.<br /><br />Non-invasive ventilation - key indications<br /><ul><li><span class=\"concept\" data-cid=\"4514\">COPD with respiratory acidosis pH 7.25-7.35</span><ul><li>the BTS guidelines state that NIV can be used in patients who are more acidotic (i.e. pH < 7.25) but that a greater degree of monitoring is required (e.g. HDU) and a lower threshold for intubation and ventilation should be used</li></ul></li><li>type II respiratory failure secondary to chest wall deformity, neuromuscular disease or obstructive sleep apnoea</li><li>cardiogenic pulmonary oedema unresponsive to CPAP</li><li>weaning from tracheal intubation</li></ul><br />Recommended initial settings for bi-level pressure support in COPD<br /><ul><li>Expiratory Positive Airway Pressure (EPAP): 4-5 cm H2O</li><li>Inspiratory Positive Airway Pressure (IPAP): RCP advocate 10 cm H20 whilst BTS suggest 12-15 cm H2O</li><li>back up rate: 15 breaths/min</li><li>back up inspiration:expiration ratio: 1:3</li></ul>",
+        "notes_hash": "5b2427d2b9035d31d83f629c8d97feb4",
+        "knowledge_graph_node_id_link": 10950,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7015",
+        "up_votes": "65",
+        "down_votes": "88",
+        "column_array": [
+            0,
+            "530",
+            "679",
+            "1616",
+            "75",
+            "4115",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_334\" data-linkid=\"334\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_334\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_334\" data-linkid=\"334\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_334\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://thorax.bmj.com/content/thoraxjnl/71/Suppl_2/ii1.full.pdf\">2016 BTS/ICS Guidelines for the Ventilatory Management of Acute Hypercapnic Respiratory Failure in Adults</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"478\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OHQK5PUTQ_0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"478\">CPAP and Non-Invasive Ventilation in 5 minutes</a></td></tr><tr><td><span ><small>Nick Smith - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_840\" data-mediaid=\"840\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_840\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_840\" data-mediaid=\"840\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_840\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/31v5GTTfEeE\" data-description=\"Clinical Skills: BiPAP and CPAP\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"1132\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/31v5GTTfEeE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/31v5GTTfEeE\" data-description=\"Clinical Skills: BiPAP and CPAP\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"1132\">Clinical Skills: BiPAP and CPAP</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1956\" data-mediaid=\"1956\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1956\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1956\" data-mediaid=\"1956\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1956\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 14,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5596_B_17",
+        "new_question_id": "18043",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "5690",
+        "notes_id_link": "1_2214",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Right bundle branch block",
+            "P mitrale",
+            "P pulmonale",
+            "Tented T waves",
+            "Left bundle branch block",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old gentlemen presents to the General Practitioner (GP) with shortness of breath, fatigue, and a malar flush on his cheeks. Cardiovascular examination reveals a regular, low-volume pulse and a mid-diastolic murmur loudest with the patient leaning to his left-hand side. <br /><br />What ECG change might the GP expect to see in this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has severe, symptomatic mitral stenosis. In the early stages of mitral stenosis, the ECG is often normal. However in moderate and severe disease leading to left atrial enlargement/hypertrophy, the ECG will often show a bifid P wave. This is because the enlarged left atrium now makes a greater contribution to the P wave contour. The bifid P wave is termed P Mitrale since mitral valve stenosis is the commonest cause of its appearance on ECG. Right bundle branch block is often a sign of problems on the right side of the heart such as right ventricular hypertrophy, cor pulmonale, pulmonary embolism, and is not a common ECG finding in mitral stenosis. Left bundle branch block is also not a common finding in mitral stenosis, with common causes including ischaemic heart disease, hypertension, aortic stenosis, and cardiomyopathy. Tall Tented T waves are seen in hyperkalaemia, and P Pulmonale (which looks like a peaked P wave) reflects any process causing the right atrium to become hypertrophied such as tricuspid regurgitation and pulmonary hypertension.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old gentlemen presents to the General Practitioner (GP) with shortness of breath, fatigue, and a malar flush on his cheeks. Cardiovascular examination reveals a regular, low-volume pulse and a mid-diastolic murmur loudest with the patient leaning to his left-hand side. <br /><br />What ECG change might the GP expect to see in this patient?",
+        "correct_answer": "2",
+        "question_notes": "This patient has severe, symptomatic mitral stenosis. In the early stages of mitral stenosis, the ECG is often normal. However in moderate and severe disease leading to left atrial enlargement/hypertrophy, the ECG will often show a bifid P wave. This is because the enlarged left atrium now makes a greater contribution to the P wave contour. The bifid P wave is termed P Mitrale since mitral valve stenosis is the commonest cause of its appearance on ECG. Right bundle branch block is often a sign of problems on the right side of the heart such as right ventricular hypertrophy, cor pulmonale, pulmonary embolism, and is not a common ECG finding in mitral stenosis. Left bundle branch block is also not a common finding in mitral stenosis, with common causes including ischaemic heart disease, hypertension, aortic stenosis, and cardiomyopathy. Tall Tented T waves are seen in hyperkalaemia, and P Pulmonale (which looks like a peaked P wave) reflects any process causing the right atrium to become hypertrophied such as tricuspid regurgitation and pulmonary hypertension.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "ECG: P wave changes",
+        "body": "Increased P wave amplitude<br /><ul><li>cor pulmonale</li></ul><br />Broad, notched (bifid) P waves<br /><ul><li>often most pronounced in lead II</li><li>a sign of left atrial enlargement, classically due to mitral stenosis</li></ul><br />In atrial fibrillation, there is an absence of P waves.",
+        "notes_hash": "c2ba3a88c0c03e650fcca8654351565e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "P Mitrale represents left atrial hypertrophy/strain e.g. in mitral stenosis",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "7001",
+        "up_votes": "40",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "406",
+            "4727",
+            "1180",
+            "110",
+            "578",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1853",
+        "new_question_id": "10438",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "877",
+        "notes_id_link": "1_816",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Propranolol",
+            "Zolmitriptan",
+            "Topiramate",
+            "Amitriptyline",
+            "Switch Cerazette to a combined oral contraceptive pill",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old woman comes for review. She is having problems with increasingly frequent migraine attacks. She has tried a combination of paracetamol and ibuprofen to try and control the attacks but this seems to have had a limited effect. Her current medication includes paracetamol and ibuprofen as required and Cerazette (a progestogen-only pill). <br /><br />What is the most appropriate medication to try and reduce the frequency of her migraine attacks?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "NICE recommend either propranolol or topiramate for migraine prophylaxis.<br /><br />The combined oral contraceptive pill is contraindicated given her history of migraine.<br /><br />Zolmitriptan is useful to abort attacks but is not used for prophylaxis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old woman comes for review. She is having problems with increasingly frequent migraine attacks. She has tried a combination of paracetamol and ibuprofen to try and control the attacks but this seems to have had a limited effect. Her current medication includes paracetamol and ibuprofen as required and Cerazette (a progestogen-only pill). <br /><br />What is the most appropriate medication to try and reduce the frequency of her migraine attacks?",
+        "correct_answer": "1",
+        "question_notes": "NICE recommend either propranolol or topiramate for migraine prophylaxis.<br /><br />The combined oral contraceptive pill is contraindicated given her history of migraine.<br /><br />Zolmitriptan is useful to abort attacks but is not used for prophylaxis.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Migraine: management",
+        "body": "It should be noted that as a general rule 5-HT receptor agonists are used in the acute treatment of migraine whilst 5-HT receptor antagonists are used in prophylaxis. NICE produced guidelines in 2012 on the management of headache, including migraines.<br /><br />Acute treatment<br /><ul><li>first-line: offer combination therapy with<ul><li>an <span class=\"concept\" data-cid=\"875\">oral triptan and an NSAID</span>, or </li><li>an <span class=\"concept\" data-cid=\"875\">oral triptan and paracetamol</span></li></ul></li><li>for young people aged 12-17 years consider a nasal triptan in preference to an oral triptan</li><li>if the above measures are not effective or not tolerated offer a non-oral preparation of metoclopramide or prochlorperazine and consider adding a non-oral NSAID or triptan<ul><li>caution should be exercised when prescribing metoclopramide to young patients as acute dystonic reactions may develop</li></ul></li></ul><br />Prophylaxis<br /><ul><li>prophylaxis should generally be given if '<i>Migraine attacks are having a significant impact on quality of life and daily function, for example they occur frequently (<span class=\"concept\" data-cid=\"879\">more than once a week on average</span>) or are prolonged and severe despite optimal acute treatment</i>'</li><li>options:<ul><li>propranolol</li><li>topiramate: should be avoided in <span class=\"concept\" data-cid=\"877\">women of childbearing age</span> as it may be teratogenic and it can reduce the effectiveness of hormonal contraceptives</li><li>amitriptyline</li></ul></li><li>if these measures fail NICE recommends '<span class=\"concept\" data-cid=\"10031\">a course of up to 10 sessions of acupuncture over 5-8 weeks</span>' </li><li>NICE recommend: '<i>Advise people with migraine that riboflavin (400 mg once a day) may be effective in reducing migraine frequency and intensity for some people</i>'</li><li>for women with predictable <span class=\"concept\" data-cid=\"878\">menstrual migraine</span> treatment NICE recommend either frovatriptan (2.5 mg twice a day) or zolmitriptan (2.5 mg twice or three times a day) as a type of 'mini-prophylaxis'</li><li>treatment options that may be considered by specialists, but fall outside the NICE guidelines:<ul><li><span class=\"concept\" data-cid=\"11891\">candesartan</span>: recommended by the  British Association for the Study of Headache guidelines</li><li>monoclonal antibodies directed against the calcitonin gene-related peptide (CGRP) receptor: examples include erenumab</li></ul></li><li>pizotifen is no longer recommended. Adverse effects such as weight gain & drowsiness are common</li></ul>",
+        "notes_hash": "99788fcc85b7fe7252a90730a7e8e014",
+        "knowledge_graph_node_id_link": 1016,
+        "concept": "Propranolol is preferable to topiramate in women of childbearing age (i.e. the majority of women with migraine)",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4921",
+        "up_votes": "27",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "3900",
+            "404",
+            "427",
+            "80",
+            "110",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for the Study of Headache</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_738\" data-linkid=\"738\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_738\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_738\" data-linkid=\"738\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_738\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bash.org.uk/downloads/guidelines2019/01_BASHNationalHeadache_Management_SystemforAdults_2019_guideline_versi.pdf\">Headache guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_153\" data-linkid=\"153\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_153\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_153\" data-linkid=\"153\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_153\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG150/chapter/Recommendations\">2012 Headache guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"103\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/D2litdZhfzY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"103\">Migraine</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_178\" data-mediaid=\"178\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_178\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_178\" data-mediaid=\"178\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_178\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "875": {
+                "concept_text": "Migraine\n   - acute: triptan + NSAID or triptan + paracetamol\n   - prophylaxis: topiramate or propranolol",
+                "concept_percentile": "94"
+            },
+            "877": {
+                "concept_text": "Propranolol is preferable to topiramate in women of childbearing age (i.e. the majority of women with migraine)",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1939_B_3",
+        "new_question_id": "10244",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_781",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tinel's sign",
+            "Phalen's sign",
+            "Reverse Phalen's sign",
+            "Froment's sign",
+            "Westphal's sign",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old pregnant female presents with weakness in her right hand, as well as tingling and paraesthesia over the lateral 3 digits. The sensory symptoms are reproduced when you passively flex the patient's wrist and hold it in flexion. What is the name of this sign?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has symptoms which are in keeping with a median nerve palsy, and pregnancy is a known risk factor for carpal tunnel syndrome. The symptoms of a median nerve palsy in this context can be reproduced by tapping the area of the flexor retinaculum (Tinel's sign), or by holding the wrist in flexion (Phalen's sign) or extension (reverse Phalen's), both of which increase the pressure within the carpal tunnel. Froment's sign is associated with ulnar nerve palsies and Westphal's sign is the absence of a patellar jerk.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old pregnant female presents with weakness in her right hand, as well as tingling and paraesthesia over the lateral 3 digits. The sensory symptoms are reproduced when you passively flex the patient's wrist and hold it in flexion. What is the name of this sign?",
+        "correct_answer": "2",
+        "question_notes": "This patient has symptoms which are in keeping with a median nerve palsy, and pregnancy is a known risk factor for carpal tunnel syndrome. The symptoms of a median nerve palsy in this context can be reproduced by tapping the area of the flexor retinaculum (Tinel's sign), or by holding the wrist in flexion (Phalen's sign) or extension (reverse Phalen's), both of which increase the pressure within the carpal tunnel. Froment's sign is associated with ulnar nerve palsies and Westphal's sign is the absence of a patellar jerk.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Carpal tunnel syndrome",
+        "body": "Carpal tunnel syndrome is caused by compression of median nerve in the carpal tunnel.<br /><br />History<br /><ul><li>pain/pins and needles in thumb, index, middle finger</li><li>unusually the symptoms may 'ascend' proximally</li><li>patient shakes his hand to obtain relief, classically at night</li></ul><br />Examination<br /><ul><li>weakness of thumb abduction (abductor pollicis brevis)</li><li>wasting of thenar eminence (NOT hypothenar)</li><li>Tinel's sign: tapping causes paraesthesia</li><li>Phalen's sign: flexion of wrist causes symptoms</li></ul><br />Causes<br /><ul><li>idiopathic</li><li>pregnancy</li><li>oedema e.g. heart failure</li><li>lunate fracture</li><li><span class=\"concept\" data-cid=\"4082\">rheumatoid arthritis</span></li></ul><br />Electrophysiology<br /><ul><li><span class=\"concept\" data-cid=\"4081\">motor + sensory: prolongation of the action potential</span></li></ul><br />Treatment<br /><ul><li>NICE recommends a <span class=\"concept\" data-cid=\"11749\">6-week trial of conservative treatments</span> if the symptoms are mild-moderate<ul><li>corticosteroid injection</li><li>wrist splints at night: particularly useful if transient factors present e.g. <span class=\"concept\" data-cid=\"12085\">pregnancy</span></li></ul></li><li>if there are severe symptoms or symptoms persist with conservative management:<ul><li>surgical decompression (<span class=\"concept\" data-cid=\"4080\">flexor retinaculum</span> division)</li></ul></li></ul>",
+        "notes_hash": "a445981db4cda3aca4f3c174fc4beed3",
+        "knowledge_graph_node_id_link": 1226,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4934",
+        "up_votes": "29",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "841",
+            "3432",
+            "503",
+            "89",
+            "69",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cEO5YG8Y554\" data-description=\"Carpal tunnel syndrome\" data-upvotes=\"8\" data-downvotes=\"0\" data-media=\"83\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cEO5YG8Y554/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cEO5YG8Y554\" data-description=\"Carpal tunnel syndrome\" data-upvotes=\"8\" data-downvotes=\"0\" data-media=\"83\">Carpal tunnel syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_144\" data-mediaid=\"144\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_144\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_144\" data-mediaid=\"144\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_144\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WXbjlqiPLV4\" data-description=\"Carpal Tunnel Syndrome and Carpal Tunnel Anatomy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1530\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WXbjlqiPLV4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WXbjlqiPLV4\" data-description=\"Carpal Tunnel Syndrome and Carpal Tunnel Anatomy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1530\">Carpal Tunnel Syndrome and Carpal Tunnel Anatomy</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2677\" data-mediaid=\"2677\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2677\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2677\" data-mediaid=\"2677\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2677\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gQk6wBc0sZk\" data-description=\"Understanding Carpel Tunnel Syndrome\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1333\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gQk6wBc0sZk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gQk6wBc0sZk\" data-description=\"Understanding Carpel Tunnel Syndrome\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1333\">Understanding Carpel Tunnel Syndrome</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2354\" data-mediaid=\"2354\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2354\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2354\" data-mediaid=\"2354\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2354\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21386_B_249",
+        "new_question_id": "47031",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "2511",
+        "notes_id_link": "1_708",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amoxicillin",
+            "Azithromycin",
+            "Ceftriaxone",
+            "Doxycycline",
+            "No antibiotics indicated at this time",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A two-year-old boy is brought to a general practitioner by his mother with a 16-day history of cough. His mother reports that he initially had a runny nose and some fevers during the first week, though his cough has been particularly severe over the last 10 days. He has reportedly vomited on two occasions after coughing fits. The child's vaccination history is incomplete.<br /><br />On examination, the child is febrile at 38.5\u00baC and saturating 100% on room air. Subconjunctival haemorrhages are present bilaterally and a loud inspiratory whoop can be heard.<br /><br />What is the most appropriate treatment at this time?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Azithromycin</b> is the correct answer. This patient's presentation is consistent with whooping cough, caused by <i>Bordetella pertussis</i>, with characteristic features including protracted clinical course (often multiple weeks), post-tussive vomiting, subconjunctival haemorrhages, and the textbook 'inspiratory whoop' heard between paroxysms of coughing. <br /><br />Whooping cough should be treated with a macrolide if the onset of cough is within the previous 21 days as antimicrobial pharmacotherapy may shorten the overall disease course. Antimicrobial therapy should not routinely be offered to patients after 21 days from onset of cough as by this time the duration of symptoms is unlikely to be reduced.<br /><br /><b>Amoxicillin</b> is incorrect. <i>Bordetella pertussis</i>, is a Gram-negative rod that displays intrinsic resistance to amoxicillin due to its lipopolysaccharide coat. <br /><br /><b>Ceftriaxone</b> is incorrect. <i>Bordetella pertussis</i> is generally sensitive to macrolide antibiotics, and as such escalation to third-generation cephalosporins is not routinely indicated.<br /><br /><b>Doxycycline</b> is incorrect. <i>Bordetella pertussis</i> is generally sensitive to macrolide antibiotics and therefore anti-ribosomal antibiotics are not generally advised as a first-line treatment.<br /><br /><b>No antibiotics indicated at this time</b> is incorrect. Patients with suspected whooping cough are likely to benefit from macrolide therapy if commenced within 21 days from the onset of the cough. As this patient is currently on day 16, macrolide antibiotics such as azithromycin are still indicated.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A two-year-old boy is brought to a general practitioner by his mother with a 16-day history of cough. His mother reports that he initially had a runny nose and some fevers during the first week, though his cough has been particularly severe over the last 10 days. He has reportedly vomited on two occasions after coughing fits. The child's vaccination history is incomplete.<br /><br />On examination, the child is febrile at 38.5\u00baC and saturating 100% on room air. Subconjunctival haemorrhages are present bilaterally and a loud inspiratory whoop can be heard.<br /><br />What is the most appropriate treatment at this time?",
+        "correct_answer": "2",
+        "question_notes": "<b>Azithromycin</b> is the correct answer. This patient's presentation is consistent with whooping cough, caused by <i>Bordetella pertussis</i>, with characteristic features including protracted clinical course (often multiple weeks), post-tussive vomiting, subconjunctival haemorrhages, and the textbook 'inspiratory whoop' heard between paroxysms of coughing. <br /><br />Whooping cough should be treated with a macrolide if the onset of cough is within the previous 21 days as antimicrobial pharmacotherapy may shorten the overall disease course. Antimicrobial therapy should not routinely be offered to patients after 21 days from onset of cough as by this time the duration of symptoms is unlikely to be reduced.<br /><br /><b>Amoxicillin</b> is incorrect. <i>Bordetella pertussis</i>, is a Gram-negative rod that displays intrinsic resistance to amoxicillin due to its lipopolysaccharide coat. <br /><br /><b>Ceftriaxone</b> is incorrect. <i>Bordetella pertussis</i> is generally sensitive to macrolide antibiotics, and as such escalation to third-generation cephalosporins is not routinely indicated.<br /><br /><b>Doxycycline</b> is incorrect. <i>Bordetella pertussis</i> is generally sensitive to macrolide antibiotics and therefore anti-ribosomal antibiotics are not generally advised as a first-line treatment.<br /><br /><b>No antibiotics indicated at this time</b> is incorrect. Patients with suspected whooping cough are likely to benefit from macrolide therapy if commenced within 21 days from the onset of the cough. As this patient is currently on day 16, macrolide antibiotics such as azithromycin are still indicated.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Whooping cough (pertussis)",
+        "body": "Whooping cough (pertussis) is an infectious disease caused by the Gram-negative bacterium <i>Bordetella pertussis</i>. It typically presents in children. There are around 1,000 cases are reported each year in the UK. It is sometimes called the 'cough of 100 days'.<br /><br />Immunisation<br /><ul><li>infants are routinely immunised at 2, 3, 4 months and 3-5 years. Newborn infants are particularly vulnerable, which is why the vaccination campaign for pregnant women was introduced</li><li>neither infection nor immunisation results in lifelong protection - hence adolescents and adults may develop whooping cough despite having had their routine immunisations</li></ul><br /><span class=\"concept\" data-cid=\"11984\">Features</span><br /><ul><li>catarrhal phase<ul><li>symptoms are similar to a viral upper respiratory tract infection</li><li>lasts around 1-2 weeks</li></ul></li><li>paroxysmal phase <ul><li>the cough increases in severity</li><li>coughing bouts are usually worse at night and after feeding, may be ended by vomiting & associated central cyanosis</li><li>inspiratory whoop: not always present (caused by forced inspiration against a closed glottis)</li><li>infants may have spells of <span class=\"concept\" data-cid=\"5512\">apnoea</span></li><li>persistent coughing may cause subconjunctival haemorrhages or even anoxia leading to syncope & seizures</li><li>lasts between 2-8 weeks</li></ul></li><li>convalescent phase<ul><li>the cough subsides over weeks to months</li></ul></li></ul><br /><div class='alert alert-warning'><b>Diagnostic criteria</b><br />Whooping cough should be suspected if a person has an acute cough that has lasted for 14 days or more without another apparent cause, and has one or more of the following features:<br /><ul><li>Paroxysmal cough.</li><li>Inspiratory whoop.</li><li>Post-tussive vomiting.</li><li>Undiagnosed apnoeic attacks in young infants.</li></ul></div><br />Diagnosis<br /><ul><li>per nasal swab culture for <i>Bordetella pertussis</i> - may take several days or weeks to come back</li><li>PCR and serology are now increasingly used as their availability becomes more widespread</li></ul><br />Management<br /><ul><li>infants under 6 months with suspect pertussis should be admitted</li><li>in the UK pertussis is a <span class=\"concept\" data-cid=\"2889\">notifiable</span> disease</li><li>an oral <span class=\"concept\" data-cid=\"2511\">macrolide</span> (e.g. clarithromycin, azithromycin or erythromycin) is indicated if the onset of the cough is within the previous <span class=\"concept\" data-cid=\"2511\">21 days</span> to eradicate the organism and reduce the spread</li><li>household contacts should be offered antibiotic prophylaxis</li><li>antibiotic therapy has not been shown to alter the course of the illness</li><li>school exclusion: <span class=\"concept\" data-cid=\"3835\">48 hours</span> after commencing antibiotics (or 21 days from onset of symptoms if no antibiotics )</li></ul><br />Complications<br /><ul><li>subconjunctival haemorrhage</li><li>pneumonia</li><li>bronchiectasis</li><li>seizures</li></ul><br /><span class=\"concept\" data-cid=\"831\"><b>Vaccination of pregnant women</b></span><br /><br />In 2012 there was an outbreak of whooping cough (pertussis) which resulted in the death of 14 newborn children. As a temporary measure, a vaccination programme was introduced in 2012 for pregnant women. This has successfully reduced the number of cases of whooping cough (the vaccine is thought to be more than 90% effective in preventing newborns developing whooping cough). It was however decided in 2014 to extend the whooping cough vaccination programme for pregnant women. This decision was taken as there was a 'great deal of uncertainty' about the timing of future outbreaks.<br /><br />Women who are between <span class=\"concept\" data-cid=\"4326\">16-32 weeks pregnant</span> will be offered the vaccine.",
+        "notes_hash": "4304d16e5e5b049ebf5673ca76c48035",
+        "knowledge_graph_node_id_link": 1340,
+        "concept": "Whooping cough - azithromycin or clarithromycin if the onset of cough is within the previous 21 days<br />",
+        "concept_percentile": "88",
+        "concept_colour": "rgb(61,255,0)",
+        "number_attempts": "6813",
+        "up_votes": "23",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "767",
+            "4060",
+            "454",
+            "621",
+            "911",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Green Book</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_135\" data-linkid=\"135\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_135\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_135\" data-linkid=\"135\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_135\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/pertussis-the-green-book-chapter-24\">Whooping cough (pertussis)</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHUcTfDFMKQ\" data-description=\"What is Pertussis and whooping cough? - Bordetella pertussis symptoms, pathophysiology and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1481\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OHUcTfDFMKQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHUcTfDFMKQ\" data-description=\"What is Pertussis and whooping cough? - Bordetella pertussis symptoms, pathophysiology and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1481\">What is Pertussis and whooping cough? - Bordetella pertussis symptoms, pathophysiology and treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2614\" data-mediaid=\"2614\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2614\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2614\" data-mediaid=\"2614\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2614\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/8/81/Pertussis.webm\" data-description=\"Pertussis\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"336\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/8/81/Pertussis.webm\" data-description=\"Pertussis\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"336\">Pertussis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_571\" data-mediaid=\"571\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_571\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_571\" data-mediaid=\"571\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_571\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "2511": {
+                "concept_text": "Whooping cough - azithromycin or clarithromycin if the onset of cough is within the previous 21 days\r\n",
+                "concept_percentile": "88"
+            },
+            "4326": {
+                "concept_text": "Women who are between 16-32 weeks pregnant are offered the pertussis vaccine",
+                "concept_percentile": "77"
+            },
+            "11984": {
+                "concept_text": "Child with a persistent cough, worse at night, possibly associated with vomiting --> ?whooping cough",
+                "concept_percentile": "88"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1140",
+        "new_question_id": "1951",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1241",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Known thrombogenic mutation",
+            "Family history of thromboembolic disease in first degree relatives < 45 years",
+            "Hyperlipidaemia",
+            "Concurrent use of rifampicin",
+            "Immobility (e.g. wheelchair use)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is an absolute contraindication to combined oral contraceptive pill use?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Known thrombogenic mutation</b>. Combined Oral Contraceptive Pill (COCP) use increases the risk of venous thromboembolism (VTE), and this risk is significantly higher in women with known thrombogenic mutations, such as Factor V Leiden or Prothrombin gene mutation. Therefore, the presence of these mutations is an absolute contraindication to COCP use due to the considerably elevated risk of VTE.<br /><br /><b>Family history of thromboembolic disease in first degree relatives < 45 years</b> is not an absolute contraindication but it does warrant further investigation. If a woman has a first-degree relative who had a VTE before 45 years, she should be tested for thrombogenic mutations. If positive, then COCP should not be prescribed; if negative, it can be considered with caution.<br /><br /><b>Hyperlipidaemia</b> itself is not an absolute contraindication to COCP use. However, it's important to note that COCP can affect lipid metabolism and may lead to increased triglyceride levels. Therefore, careful monitoring and consideration are needed when prescribing COCP in women with hyperlipidaemia.<br /><br />The <b>concurrent use of rifampicin</b>, an antibiotic used for tuberculosis treatment among other diseases, is not an absolute contraindication but it does interact with COCPs. Rifampicin induces liver enzymes which can reduce the efficacy of hormonal contraceptives including COCPs. Alternative or additional contraceptive measures should be considered during rifampicin therapy and for 28 days after its discontinuation.<br /><br />Finally, <b>Immobility (e.g. wheelchair use)</b> is not an absolute contraindication for using COCPs either. However, immobility does increase the risk of VTE so careful assessment of overall VTE risk should be undertaken before prescribing a combined pill in these circumstances.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is an absolute contraindication to combined oral contraceptive pill use?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Known thrombogenic mutation</b>. Combined Oral Contraceptive Pill (COCP) use increases the risk of venous thromboembolism (VTE), and this risk is significantly higher in women with known thrombogenic mutations, such as Factor V Leiden or Prothrombin gene mutation. Therefore, the presence of these mutations is an absolute contraindication to COCP use due to the considerably elevated risk of VTE.<br /><br /><b>Family history of thromboembolic disease in first degree relatives < 45 years</b> is not an absolute contraindication but it does warrant further investigation. If a woman has a first-degree relative who had a VTE before 45 years, she should be tested for thrombogenic mutations. If positive, then COCP should not be prescribed; if negative, it can be considered with caution.<br /><br /><b>Hyperlipidaemia</b> itself is not an absolute contraindication to COCP use. However, it's important to note that COCP can affect lipid metabolism and may lead to increased triglyceride levels. Therefore, careful monitoring and consideration are needed when prescribing COCP in women with hyperlipidaemia.<br /><br />The <b>concurrent use of rifampicin</b>, an antibiotic used for tuberculosis treatment among other diseases, is not an absolute contraindication but it does interact with COCPs. Rifampicin induces liver enzymes which can reduce the efficacy of hormonal contraceptives including COCPs. Alternative or additional contraceptive measures should be considered during rifampicin therapy and for 28 days after its discontinuation.<br /><br />Finally, <b>Immobility (e.g. wheelchair use)</b> is not an absolute contraindication for using COCPs either. However, immobility does increase the risk of VTE so careful assessment of overall VTE risk should be undertaken before prescribing a combined pill in these circumstances.<br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Combined oral contraceptive pill: contraindications",
+        "body": "The decision of whether to start a women on the combined oral contraceptive pill is now guided by the UK Medical Eligibility Criteria (UKMEC). This scale categorises the potential cautions and contraindications according to a four point scale, as detailed below:<br /><ul><li>UKMEC 1: a condition for which there is no restriction for the use of the contraceptive method</li><li>UKMEC 2: advantages generally outweigh the disadvantages</li><li>UKMEC 3: disadvantages generally outweigh the advantages</li><li>UKMEC 4: represents an unacceptable health risk</li></ul><br />Examples of UKMEC 3 conditions include<br /><ul><li><span class=\"concept\" data-cid=\"7378\">more than 35 years old and smoking less than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"7379\">BMI > 35 kg/m^2</span>*</li><li><span class=\"concept\" data-cid=\"7380\">family history of thromboembolic disease in first degree relatives < 45 years</span></li><li><span class=\"concept\" data-cid=\"7381\">controlled hypertension</span></li><li><span class=\"concept\" data-cid=\"3569\">immobility e.g. wheel chair use</span></li><li><span class=\"concept\" data-cid=\"7410\">carrier of known gene mutations associated with breast cancer  (e.g. BRCA1/BRCA2)</span></li><li><span class=\"concept\" data-cid=\"10004\">current gallbladder disease</span></li></ul><br />Examples of UKMEC 4 conditions include <br /><ul><li><span class=\"concept\" data-cid=\"7384\">more than 35 years old and smoking more than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"4289\">migraine with aura</span></li><li><span class=\"concept\" data-cid=\"7386\">history of thromboembolic disease or thrombogenic mutation</span></li><li><span class=\"concept\" data-cid=\"7387\">history of stroke or ischaemic heart disease</span></li><li><span class=\"concept\" data-cid=\"1103\">breast feeding < 6 weeks post-partum</span></li><li><span class=\"concept\" data-cid=\"7389\">uncontrolled hypertension</span></li><li><span class=\"concept\" data-cid=\"7390\">current breast cancer</span></li><li><span class=\"concept\" data-cid=\"7391\">major surgery with prolonged immobilisation</span></li><li><span class=\"concept\" data-cid=\"11564\">positive antiphospholipid antibodies (e.g. in SLE)</span></li></ul><br />Diabetes mellitus diagnosed > 20 years ago is classified as UKMEC 3 or 4 depending on severity<br /><br />Changes in 2016<br /><ul><li><span class=\"concept\" data-cid=\"7383\">breast feeding 6 weeks - 6 months postpartum</span> was changed from UKMEC 3 &rarr; 2</li></ul>",
+        "notes_hash": "15c7e7457c88565620bc37b5c51d9ac3",
+        "knowledge_graph_node_id_link": 10894,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5149",
+        "up_votes": "22",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "2941",
+            "856",
+            "46",
+            "179",
+            "1127",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_305\" data-linkid=\"305\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_305\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">27</span><button type=\"button\" style=\"\" id=\"link_dislike_305\" data-linkid=\"305\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_305\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-ukmec-summary-september-2019.pdf\">UK Medical Eligibility Criteria for Contraceptive Use</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3569": {
+                "concept_text": "Wheelchair users should not be prescribed the COCP as first-line contraceptive, as they are 'UKMEC 3'- risks outweigh benefits",
+                "concept_percentile": "68"
+            },
+            "11564": {
+                "concept_text": "Positive antiphospholipid antibodies (e.g. in SLE) is UKMEC 4 for the COCP",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

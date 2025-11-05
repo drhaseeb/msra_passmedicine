@@ -1,0 +1,935 @@
+[
+    {
+        "question_id": "1_E_120",
+        "new_question_id": "5571",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "4623",
+        "notes_id_link": "1_1881",
+        "theme": "Overdose and poisoning: management",
+        "instruction": "For each of the following scenarios please select the most appropriate treatment:",
+        "options": [
+            "",
+            "Atropine",
+            "Urinary alkalinization",
+            "Gastric lavage",
+            "Haemodialysis",
+            "Adrenaline",
+            "Ethanol",
+            "Beta-blockers",
+            "IV bicarbonate",
+            "Flumazenil",
+            "Specific antibodies"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 50-year-old woman who has dislocated her shoulder is accidentally given 10mg, rather than 1mg, of lorazepam. She stops breathing but still has a cardiac output",
+            "V 30-tzvm-jgy rjhvi kmznzion oj ocz Zhzmbzixt Yzkvmohzio. Ncz wjpbco v xczvk wjoogz ja qjyfv amjh ocz hvmfzo viy ymvif do orj cjpmn vbj. Ncz cvn ndixz czvmy cjrzqzm ocvo do xjiovdin hzocvijg viy dn ijr rjmmdzy vn ncz cvn v czvyvxcz viy azzgn yduut",
+            "V 59-tzvm-jgy hvi ovfzn v yzgdwzmvoz jqzmyjnz ja 60 ydbjsdi 125hxb ovwgzon. Cz kmznzion oj ocz Zhzmbzixt Yzkvmohzio ocmzz cjpmn gvozm"
+        ],
+        "answers": [
+            "9",
+            "6",
+            "10"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50-year-old woman who has dislocated her shoulder is accidentally given 10mg, rather than 1mg, of lorazepam. She stops breathing but still has a cardiac output",
+        "correct_answer": "9",
+        "question_notes": "",
+        "answer_order": "9",
+        "answer": "9",
+        "title": "Overdose and poisoning: management",
+        "body": "The table below outlines the main management for common overdoses:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Toxin</b></th><th><b>Treatment</b></th></tr></thead><tbody><tr><td><b>Paracetamol</b></td><td>Management<br /><ul><li>activated charcoal if ingested < 1 hour ago</li><li><span class=\"concept\" data-cid=\"6307\">N-acetylcysteine (NAC)</span></li><li>liver transplantation</td></tr><tr><td></li></ul><b>Salicylate</b></td><td>Management<br /><ul><li>urinary alkalinization with IV bicarbonate</li><li><span class=\"concept\" data-cid=\"6308\">haemodialysis</span></td></tr><tr><td></li></ul><b>Opioid/opiates</b></td><td><span class=\"concept\" data-cid=\"6309\">Naloxone</span></td></tr><tr><td><b>Benzodiazepines</b></td><td><span class=\"concept\" data-cid=\"4623\">Flumazenil</span><br /><span class=\"concept\" data-cid=\"3588\">The majority of overdoses are managed with supportive care only due to the risk of seizures with flumazenil</span>. It is generally only used with severe or iatrogenic overdoses.</td></tr><tr><td><b>Tricyclic antidepressants</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6311\">IV bicarbonate</span> may reduce the risk of seizures and arrhythmias in severe toxicity</li><li>arrhythmias: class 1a (e.g. Quinidine) and class Ic antiarrhythmics (e.g. Flecainide) are contraindicated as they prolong depolarisation. Class III drugs such as amiodarone should also be avoided as they prolong the QT interval. Response to lignocaine is variable and it should be emphasized that correction of acidosis is the first line in management of tricyclic induced arrhythmias</li><li>dialysis is ineffective in removing tricyclics</td></tr><tr><td></li></ul><b>Lithium</b></td><td>Management<br /><ul><li>mild-moderate toxicity may respond to volume resuscitation with normal saline</li><li><span class=\"concept\" data-cid=\"6312\">haemodialysis</span> may be needed in severe toxicity</li><li>sodium bicarbonate is sometimes used but there is limited evidence to support this. By increasing the alkalinity of the urine it promotes lithium excretion</td></tr><tr><td></li></ul><b>Warfarin</b></td><td><span class=\"concept\" data-cid=\"6313\">Vitamin K</span>, prothrombin complex</td></tr><tr><td><b>Heparin</b></td><td><span class=\"concept\" data-cid=\"6314\">Protamine sulphate</span></td></tr><tr><td><b>Beta-blockers</b></td><td>Management<br /><ul><li>if bradycardic then <span class=\"concept\" data-cid=\"6315\">atropine</span></li><li>in resistant cases <span class=\"concept\" data-cid=\"6315\">glucagon</span> may be used</td></tr><tr><td></li></ul><b>Ethylene glycol</b></td><td>Management has changed in recent times<br /><ul><li><span class=\"concept\" data-cid=\"6316\">ethanol</span> has been used for many years</li><li>works by competing with ethylene glycol for the enzyme alcohol dehydrogenase</li><li>this limits the formation of toxic metabolites (e.g. Glycoaldehyde and glycolic acid) which are responsible for the haemodynamic/metabolic features of poisoning</li><li><span class=\"concept\" data-cid=\"6316\"><b>fomepizole</b></span>, an inhibitor of alcohol dehydrogenase, is now used first-line in preference to ethanol</li><li><span class=\"concept\" data-cid=\"6316\">haemodialysis</span> also has a role in refractory cases</td></tr><tr><td></li></ul><b>Methanol poisoning</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6317\">fomepizole or ethanol</span></li><li><span class=\"concept\" data-cid=\"6317\">haemodialysis</span></td></tr><tr><td></li></ul><b>Organophosphate insecticides</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6318\">atropine</span></li><li>the role of pralidoxime is still unclear - meta-analyses to date have failed to show any clear benefit</td></tr><tr><td></li></ul><b>Digoxin</b></td><td>Digoxin-specific antibody fragments</td></tr><tr><td><b>Iron</b></td><td><span class=\"concept\" data-cid=\"6319\">Desferrioxamine</span>, a chelating agent</td></tr><tr><td><b>Lead</b></td><td><span class=\"concept\" data-cid=\"6320\">Dimercaprol, calcium edetate</span></td></tr><tr><td><b>Carbon monoxide</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6321\">100% oxygen</span></li><li><span class=\"concept\" data-cid=\"6321\">hyperbaric oxygen</span></td></tr><tr><td></li></ul><b>Cyanide</b></td><td><span class=\"concept\" data-cid=\"6324\">Hydroxocobalamin</span>; also combination of <span class=\"concept\" data-cid=\"6323\">amyl nitrite, sodium nitrite, and sodium thiosulfate</span></td></tr></tbody></table></div>",
+        "notes_hash": "ab285f4004be6532969e64c86a5ae708",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Severe benzodiazepine overdose is treated by flumazenil",
+        "concept_percentile": "27",
+        "concept_colour": "rgb(255,137,0)",
+        "number_attempts": "6611",
+        "up_votes": "43",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "5402",
+            "4184",
+            "3112",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_547\" data-linkid=\"547\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_547\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_547\" data-linkid=\"547\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_547\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/7/3/277\">2007 Acute poisoning on the medical admissions unit </a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1577\" data-linkid=\"1577\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1577\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1577\" data-linkid=\"1577\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1577\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/poisoning-emergency-treatment.html\">Emergency treatment of poisoning</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_595\" data-linkid=\"595\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_595\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_595\" data-linkid=\"595\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_595\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/3/280\">2012 Poisoning and self-harm update</a></td></tr></table>",
+        "media": "",
+        "comment_count": 12,
+        "concepts_for_notes": {
+            "4623": {
+                "concept_text": "Severe benzodiazepine overdose is treated by flumazenil",
+                "concept_percentile": "27"
+            },
+            "6307": {
+                "concept_text": "Paracetamol - N-acetylcysteine (NAC)",
+                "concept_percentile": "1"
+            },
+            "6308": {
+                "concept_text": "Salicylate - supportive, haemodialysis if severe",
+                "concept_percentile": "43"
+            },
+            "6309": {
+                "concept_text": "Opiate - naloxone",
+                "concept_percentile": "33"
+            },
+            "6311": {
+                "concept_text": "Tricyclic antidepressant - supportive, IV bicarbonate",
+                "concept_percentile": "65"
+            },
+            "6312": {
+                "concept_text": "Lithium - supportive, haemodialysis if severe",
+                "concept_percentile": "63"
+            },
+            "6313": {
+                "concept_text": "Warfarin - vitamin K",
+                "concept_percentile": "26"
+            },
+            "6314": {
+                "concept_text": "Heparin - protamine sulphate",
+                "concept_percentile": "42"
+            },
+            "6315": {
+                "concept_text": "Beta-blocker - atropine, glucagon in resistant cases",
+                "concept_percentile": "50"
+            },
+            "6316": {
+                "concept_text": "Ethylene glycol - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "19"
+            },
+            "6317": {
+                "concept_text": "Methanol poisoning - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "36"
+            },
+            "6318": {
+                "concept_text": "Organophosphate insecticide - atropine",
+                "concept_percentile": "27"
+            },
+            "6319": {
+                "concept_text": "Iron - desferrioxamine",
+                "concept_percentile": "38"
+            },
+            "6320": {
+                "concept_text": "Lead - dimercaprol, calcium edetate",
+                "concept_percentile": "18"
+            },
+            "6321": {
+                "concept_text": "Carbon monoxide - 100% oxygen, hyperbaric oxygen",
+                "concept_percentile": "51"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_145",
+        "new_question_id": "5645",
+        "question_type": "1",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1892",
+        "theme": "Menorrhagia",
+        "instruction": "For each one of the following scenarios please select the most likely diagnosis:",
+        "options": [
+            "",
+            "Von Willebrand disease",
+            "Uterine fibroids",
+            "Dysfunctional uterine bleeding",
+            "Antiphospholipid syndrome",
+            "Haemophilia",
+            "Anovulatory cycles",
+            "Factor V Leiden",
+            "Adenomyosis",
+            "Endometriosis",
+            "Endometrial cancer"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 23-year-old woman presents with heavy menstrual bleeding. These symptoms have got progressively worse over the past 3 years. She is currently single and does not use contraception. Clinical examination is unremarkable and blood tests including full blood count, PT and APTT are normal.",
+            "K 15-iokb-yvn qsbv sc coox neo dy woxybbrkqsk. Rob wydrob nocmbsloc rokfi zobsync csxmo dro woxkbmro. Lvyync cryg dro pyvvygsxq:<lb /><lb /><nsf mvkcc=\"dklvo-boczyxcsfo\"><dklvo mvkcc = \"dl\" ><dlyni><db><dn>Rl</dn><dn>99 q/v</dn></db><db><dn>Zvkdovodc</dn><dn>166 * 10<cez>9</cez>/v</dn></db><db><dn>ZD</dn><dn>13 c</dn></db><db><dn>KZDD</dn><dn>49 c</dn></db><db><dn>Lvoonsxq dswo</dn><dn>15 wswc (< 10 wsxc)</dn></db></dlyni></dklvo></nsf>",
+            "K 34-iokb-yvn gywkx yp Kpby-Mkbsllokx odrxsmsdi zbocoxdc gsdr rokfi woxcdbekv lvoonsxq. Yx ohkwsxkdsyx cro sc xydon dy rkfo k levui, oxvkbqon edobec"
+        ],
+        "answers": [
+            "3",
+            "1",
+            "2"
+        ],
+        "notes": [
+            "",
+            "Von Willebrand's disease is the most common inherited bleeding disorder. The majority of cases are inherited in an autosomal dominant fashion* and characteristically behaves like a platelet disorder i.e. epistaxis and menorrhagia are common whilst haemoarthroses and muscle haematomas are rare<br /><br />Investigation<br /><ul><li>prolonged bleeding time</li><li>APTT may be prolonged</li><li>factor VIII levels may be moderately reduced</li><li>defective platelet aggregation with ristocetin</li></ul>",
+            "Fibroids are benign smooth muscle tumours of the uterus. They are through to occur in around 20% of white and around 50% of black women in the later reproductive years<br /><br />Associations<br /><ul><li>more common in Afro-Caribbean women</li><li>rare before puberty, develop in response to oestrogen, don't tend to progress following menopause</li></ul><br />Features<br /><ul><li>may be asymptomatic</li><li>menorrhagia</li><li>bloating</li><li>urinary symptoms, e.g. frequency, may occur with larger fibroids</li><li>subfertility</li></ul>"
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman presents with heavy menstrual bleeding. These symptoms have got progressively worse over the past 3 years. She is currently single and does not use contraception. Clinical examination is unremarkable and blood tests including full blood count, PT and APTT are normal.",
+        "correct_answer": "3",
+        "question_notes": "",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Menorrhagia: causes",
+        "body": "Menorrhagia was previously defined as total blood loss > 80 ml per menses, but it is obviously difficult to quantify. The assessment and management of heavy periods has therefore shifted towards what the woman considers to be excessive and aims to improve quality of life measures. <br /><br />Causes<br /><ul><li>dysfunctional uterine bleeding: this describes menorrhagia in the absence of underlying pathology. This accounts for approximately half of patients</li><li>anovulatory cycles: these are more common at the extremes of a women's reproductive life</li><li>uterine fibroids</li><li>hypothyroidism</li><li>intrauterine devices*</li><li>pelvic inflammatory disease</li><li>bleeding disorders, e.g. von Willebrand disease</li></ul><br />*this refers to normal copper coils. Note that the intrauterine system (Mirena) is used to treat menorrhagia",
+        "notes_hash": "0e4d2ad5c1791c0c649b7db3b9a29f33",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4773",
+        "up_votes": "0",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "3551",
+            "3205",
+            "4139",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2071",
+        "new_question_id": "3542",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1606",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Provide basal body temperature kit",
+            "Order 21 day progesterone level",
+            "Wait until they have been having regular intercourse for 12 months",
+            "Wait until they have been having regular intercourse for 24 months",
+            "Refer immediately to a specialist in infertility",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A couple in their 20s come into their GP after failing to conceive despite having regular sexual intercourse for 6 months, and ask you for advice. What is the most appropriate course of action for you to take?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "It is recommended in this case that couples should have regular sexual intercourse for a period of 12 months.  Regular sexual intercourse is defined as intercourse every 2-3 days.  <br /><br />Referral to a specialist is warranted after the couple have been having intercourse regularly for 12 months<br /><br />Fertility testing in the couple is recommended after 12 months, and consists of semen analysis in the man and mid-luteal progesterone level in the female to confirm ovulation.<br /><br />Basal body temperature kits have been shown to increase anxiety and have not been shown to be effective<br /><br />Early referral should be considered when:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Female</th><th>Male</th></tr></thead><tbody><tr><td>Age above 35</td><td>Previous surgery on genitalia</td></tr><tr><td>Amenorrhoea</td><td>Previous STI</td></tr><tr><td>Previous pelvic surgery</td><td>Varicocele</td></tr><tr><td>Previous STI</td><td>Significant systemic illness</td></tr><tr><td>Abnormal genital examination</td><td>Abnormal genital examination</td></tr></tbody></table></div>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A couple in their 20s come into their GP after failing to conceive despite having regular sexual intercourse for 6 months, and ask you for advice. What is the most appropriate course of action for you to take?",
+        "correct_answer": "3",
+        "question_notes": "It is recommended in this case that couples should have regular sexual intercourse for a period of 12 months.  Regular sexual intercourse is defined as intercourse every 2-3 days.  <br /><br />Referral to a specialist is warranted after the couple have been having intercourse regularly for 12 months<br /><br />Fertility testing in the couple is recommended after 12 months, and consists of semen analysis in the man and mid-luteal progesterone level in the female to confirm ovulation.<br /><br />Basal body temperature kits have been shown to increase anxiety and have not been shown to be effective<br /><br />Early referral should be considered when:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Female</th><th>Male</th></tr></thead><tbody><tr><td>Age above 35</td><td>Previous surgery on genitalia</td></tr><tr><td>Amenorrhoea</td><td>Previous STI</td></tr><tr><td>Previous pelvic surgery</td><td>Varicocele</td></tr><tr><td>Previous STI</td><td>Significant systemic illness</td></tr><tr><td>Abnormal genital examination</td><td>Abnormal genital examination</td></tr></tbody></table></div>",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Infertility: causes and initial investigations",
+        "body": "Infertility affects around 1 in 7 couples. Around 84% of couples who have regular sex will conceive within 1 year, and 92% within 2 years<br /><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"9051\">male factor 30%</span></li><li>unexplained 20%</li><li>ovulation failure 20%</li><li>tubal damage 15%</li><li>other causes 15%</li></ul><br />Basic investigations<br /><ul><li>semen analysis</li><li><span class=\"concept\" data-cid=\"5253\">serum progesterone 7 days prior to expected next period</span>. For a typical 28 day cycle, this is done on <span class=\"concept\" data-cid=\"5341\">day 21</span>.</li></ul><br /><h5 class='notes-heading'>Interpretation of serum progestogen</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Level</b></th><th><b>Interpretation</b></th></tr></thead><tbody><tr><td>< 16 nmol/l</td><td>Repeat, if consistently low refer to specialist</td></tr><tr><td>16 - 30 nmol/l</td><td>Repeat</td></tr><tr><td>> 30 nmol/l</td><td>Indicates ovulation</td></tr></tbody></table></div><br />Key counselling points<br /><ul><li>folic acid</li><li>aim for BMI 20-25</li><li>advise regular sexual intercourse every 2 to 3 days</li><li>smoking/drinking advice</li></ul>",
+        "notes_hash": "2e5c80cf5d6fcec0fb73a779be791ae9",
+        "knowledge_graph_node_id_link": 10337,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5287",
+        "up_votes": "26",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "69",
+            "431",
+            "4195",
+            "483",
+            "109",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_300\" data-linkid=\"300\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_300\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_300\" data-linkid=\"300\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_300\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg156/chapter/Recommendations\">2013 Infertility guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0ZCEEY0cecA\" data-description=\"Understanding infertility\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"786\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0ZCEEY0cecA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0ZCEEY0cecA\" data-description=\"Understanding infertility\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"786\">Understanding infertility</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1367\" data-mediaid=\"1367\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1367\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1367\" data-mediaid=\"1367\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1367\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JhmTvH3trPQ\" data-description=\"Infertility in Women (causes and pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"401\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JhmTvH3trPQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JhmTvH3trPQ\" data-description=\"Infertility in Women (causes and pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"401\">Infertility in Women (causes and pathophysiology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_687\" data-mediaid=\"687\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_687\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_687\" data-mediaid=\"687\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_687\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "5253": {
+                "concept_text": "To confirm ovulation: Take the serum progesterone level 7 days prior to the expected next period",
+                "concept_percentile": "87"
+            },
+            "5341": {
+                "concept_text": "Day 21 progesterone test is the most reliable test to confirm ovulation",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_717",
+        "new_question_id": "8363",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_400",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Retinal detachment",
+            "Posterior vitreous detachment",
+            "Optic neuritis",
+            "Depression",
+            "Vitreous haemorrhage",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 80-year-old woman presents with 'funny spots' affecting her vision. Over the past week she has noticed a number of flashes and floaters in the visual field of the right eye. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Posterior vitreous detachment is thought to occur in up to 50-75% of the population over 65 years and is the most likely diagnosis here. Such patients are normally reviewed by an ophthalmologist to assess the risk of progressing to retinal detachment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 80-year-old woman presents with 'funny spots' affecting her vision. Over the past week she has noticed a number of flashes and floaters in the visual field of the right eye. What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Posterior vitreous detachment is thought to occur in up to 50-75% of the population over 65 years and is the most likely diagnosis here. Such patients are normally reviewed by an ophthalmologist to assess the risk of progressing to retinal detachment.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Sudden loss of vision",
+        "body": "Sudden loss is a frightening symptom for patients. It may represent an ongoing issue or only be temporary. The term transient monocular visual loss (TMVL) describes a sudden, transient loss of vision that lasts less than 24 hours. <br /><br />The most common causes of a sudden painless loss of vision are as follows:<br /><ul><li>ischaemic/vascular (e.g. thrombosis, embolism, temporal arteritis etc). This includes recognised syndromes e.g. occlusion of central retinal vein and occlusion of central retinal artery</li><li>vitreous haemorrhage</li><li>retinal detachment</li><li><span class=\"concept\" data-cid=\"4503\">retinal migraine</span></li></ul><br />Ischaemic/vascular<br /><ul><li>often referred to as 'amaurosis fugax'</li><li>wide differential including large artery disease (atherothrombosis, embolus, dissection), small artery occlusive disease (anterior ischemic optic neuropathy, vasculitis e.g. temporal arteritis), venous disease and hypoperfusion</li><li>may represent a form of <span class=\"concept\" data-cid=\"8607\">transient ischaemic attack</span> (TIA). It should therefore be treated in a similar fashion, with <span class=\"concept\" data-cid=\"8757\">aspirin 300mg</span> being given</li><li>altitudinal field defects are often seen: '<span class=\"concept\" data-cid=\"4807\">curtain</span> coming down'</li><li>ischaemic optic neuropathy is due to occlusion of the short posterior ciliary arteries, causing damage to the optic nerve</li></ul><br /><span class=\"concept\" data-cid=\"682\">Central retinal vein occlusion</span><br /><ul><li>incidence increases with age, more common than arterial occlusion</li><li>causes: glaucoma, polycythaemia, hypertension</li><li>severe retinal haemorrhages are usually seen on fundoscopy</li></ul><br /><span class=\"concept\" data-cid=\"1619\">Central retinal artery occlusion</span><br /><ul><li>due to thromboembolism (from atherosclerosis) or arteritis (e.g. temporal arteritis)</li><li>features include afferent pupillary defect, 'cherry red' spot on a pale retina</li></ul><br />Vitreous haemorrhage<br /><ul><li>causes: <span class=\"concept\" data-cid=\"4856\">diabetes</span>, bleeding disorders, <span class=\"concept\" data-cid=\"4299\">anticoagulants</span></li><li>features may include sudden visual loss, dark spots</li></ul><br />Retinal detachment<br /><ul><li>features of vitreous detachment, which may precede retinal detachment, include flashes of light or floaters (see below)</li></ul><br /><h5 class='notes-heading'>Differentiating posterior vitreous detachment, retinal detachment and vitreous haemorrhage</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Posterior vitreous detachment</b></th><th><b>Retinal detachment</b></th><th><b>Vitreous haemorrhage</b></th></tr></thead><tbody><tr><td> <span class=\"concept\" data-cid=\"683\">Flashes of light (photopsia)</span> - in the peripheral field of vision<br /> <span class=\"concept\" data-cid=\"683\">Floaters</span>, often on the temporal side of the central vision</td><td><span class=\"concept\" data-cid=\"4855\">Dense shadow that starts peripherally progresses towards the central vision</span><br /> A veil or <span class=\"concept\" data-cid=\"4298\">curtain</span> over the field of vision<br /> Straight lines appear curved<br /> Central visual loss</td><td>Large bleeds cause sudden visual loss<br /> Moderate bleeds may be described as numerous dark spots<br /> Small bleeds may cause floaters</td></tr></tbody></table></div>",
+        "notes_hash": "d36cf2ef1c8446d5fbb1b14a56425509",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5759",
+        "up_votes": "54",
+        "down_votes": "94",
+        "column_array": [
+            0,
+            "1642",
+            "2785",
+            "106",
+            "4",
+            "1222",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>The Royal Australian College of General Practitioners</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1495\" data-linkid=\"1495\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1495\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_1495\" data-linkid=\"1495\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1495\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">38</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.racgp.org.au/download/Documents/AFP/2009/October/200910examination.pdf\">Sudden loss of vision review</a></td></tr></table><br><br><table style='width:100%'><tr><td>American Academy of Ophthalmology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_807\" data-linkid=\"807\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_807\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_807\" data-linkid=\"807\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_807\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://eyewiki.aao.org/Retinal_Artery_Occlusion\">Central Retinal Artery Occlusion</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1104\" data-linkid=\"1104\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1104\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1104\" data-linkid=\"1104\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1104\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/retinal-artery-occlusions\">Retinal artery occlusions</a></td></tr></table><br><br><table style='width:100%'><tr><td>American Academy of Ophthalmology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_806\" data-linkid=\"806\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_806\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_806\" data-linkid=\"806\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_806\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://eyewiki.aao.org/Central_Retinal_Vein_Occlusion\">Central Retinal Vein Occlusion</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "682": {
+                "concept_text": "Central retinal vein occlusion - sudden painless loss of vision, severe retinal haemorrhages on fundoscopy",
+                "concept_percentile": "55"
+            },
+            "683": {
+                "concept_text": "Flashes and floaters - vitreous/retinal detachment",
+                "concept_percentile": "92"
+            },
+            "1619": {
+                "concept_text": "Central retinal artery occlusion - sudden painless loss of vision, cherry red spot on fundus",
+                "concept_percentile": "32"
+            },
+            "4855": {
+                "concept_text": "Retinal detachment is a cause of sudden painless loss of vision. It is characterised by a dense shadow starting peripherally and progressing centrally",
+                "concept_percentile": "67"
+            },
+            "4856": {
+                "concept_text": "Vitreous haemorrhage is a cause of sudden painless loss of vision in the context of diabetic retinopathy",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9411",
+        "new_question_id": "5926",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1960",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rotated film",
+            "Massive pleural effusion",
+            "Pneumonectomy",
+            "Mesothelioma",
+            "Pneumonia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old woman is admitted to the Emergency Department after collapsing in a department store. A chest x-ray is done shortly after arriving in the department:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely explanation for the abnormality on the left side?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The key to making the correct diagnosis is to look at the trachea. In the film it is clearly pulled to the left side. This makes a diagnosis of pleural effusion, pneumonia or mesothelioma unlikely. A rotated film would not give such dramatic findings.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old woman is admitted to the Emergency Department after collapsing in a department store. A chest x-ray is done shortly after arriving in the department:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb046b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely explanation for the abnormality on the left side?",
+        "correct_answer": "3",
+        "question_notes": "The key to making the correct diagnosis is to look at the trachea. In the film it is clearly pulled to the left side. This makes a diagnosis of pleural effusion, pneumonia or mesothelioma unlikely. A rotated film would not give such dramatic findings.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Chest x-ray: white lung lesions",
+        "body": "There are numerous causes of white shadowing in the lungs including:<br /><ul><li>consolidation</li><li>pleural effusion</li><li>collapse</li><li>pneumonectomy</li><li>specific lesions e.g. tumours</li><li>fluid e.g. pulmonary oedema</li></ul><br />If there is a 'white-out' of a hemithorax it is useful to assess the position of the trachea - is it central, pulled or pushed from the side of opacification.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Trachea pulled toward the white-out</th><th>Trachea central</th><th>Trachea pushed away from the white-out</th></tr></thead><tbody><tr><td>Pneumonectomy<br /><span class=\"concept\" data-cid=\"9841\">Complete lung collapse</span> e.g. endobronchial intubation<br />Pulmonary hypoplasia</td><td>Consolidation<br />Pulmonary oedema (usually bilateral)<br />Mesothelioma</td><td>Pleural effusion<br />Diaphragmatic hernia<br />Large thoracic mass</td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb172b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb172.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb172b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'><b>Lung collapse</b> - note how the trachea is pulled towards the side of the white-out</div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb174b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb174.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb174b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'><b>Pleural effusion</b> - note how the trachea (blue) is pushed away the side of the white-out. The other signs of a positive mass effect include leftward bowing of the azygo-oesophageal recess (yellow) and splaying of the ribs on the right (red)<br /></div><br />For more information check out the link to the superb Radiology Masterclass website.",
+        "notes_hash": "8ced342f5646debdc5b315927e453784",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6995",
+        "up_votes": "51",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "87",
+            "2506",
+            "4100",
+            "178",
+            "124",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Wiki Radiography</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_650\" data-linkid=\"650\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_650\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_650\" data-linkid=\"650\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_650\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">33</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.wikiradiography.net/page/Right+Upper+Lobe+Consolidation\">Example of right upper lobe consolidation</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiology Masterclass</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_655\" data-linkid=\"655\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_655\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">54</span><button type=\"button\" style=\"\" id=\"link_dislike_655\" data-linkid=\"655\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_655\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.radiologymasterclass.co.uk/tutorials/chest/chest_home_anatomy/chest_anatomy_start\">Fantastic radiology teaching website</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_134",
+        "new_question_id": "1816",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "9910",
+        "notes_id_link": "1_1222",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Mitral stenosis",
+            "Seborrhoeic dermatitis",
+            "Alcohol-related skin changes",
+            "Acne rosacea",
+            "Systemic lupus erythematosus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 43-year-old woman comes for review. A few months ago she developed redness around her nose and cheeks. This is worse after drinking alcohol. She is concerned as one of her work colleagues asked her if she had a drink problem despite her drinking 10 units per week.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Acne rosacea</b>. This is a chronic skin condition characterised by redness, flushing, and sometimes pustules in the central face. The symptoms can be triggered or exacerbated by various factors such as alcohol, spicy foods, and hot drinks. In this case, the patient's age, the description of her symptoms (redness around her nose and cheeks that worsens after drinking alcohol), and the image provided are all consistent with acne rosacea.<br /><br /><b>Mitral stenosis</b> is incorrect as it is primarily a heart condition that results from the narrowing of the mitral valve in the heart. It does not cause facial redness or flushing. Symptoms include breathlessness on exertion, fatigue, palpitations, chest pain or discomfort, swollen ankles and feet (oedema), and rarely a characteristic rash called erythema marginatum.<br /><br />The next option - <b>Seborrhoeic dermatitis</b> - is also incorrect. While it can cause redness and scaling on the face among other places like scalp and chest, it typically presents with greasy-looking skin scales which are white or yellowish rather than simply redness or flushing.<br /><br /><b>Alcohol-related skin changes</b>, though might seem plausible given the patient's history of worsening symptoms after alcohol consumption but is incorrect. Alcohol can certainly lead to skin changes including redness due to vasodilation but these effects are generally transient following consumption rather than chronic as in this case.<br /><br />Finally <b>Systemic lupus erythematosus (SLE)</b>, an autoimmune disease that can affect many parts of the body including the skin is also incorrect. Although SLE can cause a malar rash ('butterfly' rash) over the cheeks and bridge of the nose resembling rosacea to some extent but other systemic signs like joint pains, fatigue etc would be expected which aren't mentioned here. Also, SLE-related rash tends to be photosensitive i.e., worsens with sun exposure, unlike our patient's symptoms that exacerbate with alcohol intake.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 43-year-old woman comes for review. A few months ago she developed redness around her nose and cheeks. This is worse after drinking alcohol. She is concerned as one of her work colleagues asked her if she had a drink problem despite her drinking 10 units per week.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Acne rosacea</b>. This is a chronic skin condition characterised by redness, flushing, and sometimes pustules in the central face. The symptoms can be triggered or exacerbated by various factors such as alcohol, spicy foods, and hot drinks. In this case, the patient's age, the description of her symptoms (redness around her nose and cheeks that worsens after drinking alcohol), and the image provided are all consistent with acne rosacea.<br /><br /><b>Mitral stenosis</b> is incorrect as it is primarily a heart condition that results from the narrowing of the mitral valve in the heart. It does not cause facial redness or flushing. Symptoms include breathlessness on exertion, fatigue, palpitations, chest pain or discomfort, swollen ankles and feet (oedema), and rarely a characteristic rash called erythema marginatum.<br /><br />The next option - <b>Seborrhoeic dermatitis</b> - is also incorrect. While it can cause redness and scaling on the face among other places like scalp and chest, it typically presents with greasy-looking skin scales which are white or yellowish rather than simply redness or flushing.<br /><br /><b>Alcohol-related skin changes</b>, though might seem plausible given the patient's history of worsening symptoms after alcohol consumption but is incorrect. Alcohol can certainly lead to skin changes including redness due to vasodilation but these effects are generally transient following consumption rather than chronic as in this case.<br /><br />Finally <b>Systemic lupus erythematosus (SLE)</b>, an autoimmune disease that can affect many parts of the body including the skin is also incorrect. Although SLE can cause a malar rash ('butterfly' rash) over the cheeks and bridge of the nose resembling rosacea to some extent but other systemic signs like joint pains, fatigue etc would be expected which aren't mentioned here. Also, SLE-related rash tends to be photosensitive i.e., worsens with sun exposure, unlike our patient's symptoms that exacerbate with alcohol intake.<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Rosacea",
+        "body": "Rosacea (sometimes referred to as acne rosacea) is a chronic skin disease of unknown aetiology.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"9910\">typically affects nose, cheeks and forehead</span></li><li><span class=\"concept\" data-cid=\"9910\">flushing is often first symptom</span></li><li><span class=\"concept\" data-cid=\"9910\">telangiectasia are common</span></li><li>later develops into <span class=\"concept\" data-cid=\"9910\">persistent erythema with papules and pustules</span></li><li>rhinophyma</li><li>ocular involvement: blepharitis</li><li><span class=\"concept\" data-cid=\"2383\">sunlight may exacerbate symptoms</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea - showing papules, pustules and erythema. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rhinophyma - a late complication of severe rosacea. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea over the cheeks and nose\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li>simple measures<ul><li>recommend daily application of a high-factor sunscreen</li><li>camouflage creams may help conceal redness</li></ul></li><li>predominant erythema/flushing #link20 <ul><li><span class=\"concept\" data-cid=\"10242\">topical brimonidine gel may be considered for patients with predominant flushing but limited telangiectasia</span> </li><li>brimonidine is a topical alpha-adrenergic agonist</li><li>this can be used on an 'as required basis' to temporarily reduce redness</li><li>it typically reduces redness within 30 minutes, reaching peak action at 3-6 hours, after which the redness returns to the baseline</li></ul></li><li>mild-to-moderate papules and/or pustules #link21<ul><li><span class=\"concept\" data-cid=\"12030\">topical ivermectin</span> is first-line </li><li>alternatives include: topical metronidazole or topical azelaic acid</li></ul></li><li>moderate-to-severe papules and/or pustules #link23 <ul><li><span class=\"concept\" data-cid=\"12031\">combination of topical ivermectin +  oral doxycycline</span> </li></ul></li></ul><br />Referral should be considered if #link22 <br /><ul><li>symptoms have not improved with optimal management in primary care<ul><li><span class=\"concept\" data-cid=\"1544\">laser therapy may be appropriate for patients with prominent telangiectasia</span></li></ul></li><li><span class=\"concept\" data-cid=\"10245\">patients with a rhinophyma </span></li></ul>",
+        "notes_hash": "c59cd8382a80c7800d340932344907c0",
+        "knowledge_graph_node_id_link": 1500,
+        "concept": "Rosacea features:<br /><ul><li>nose, cheeks and forehead</li><li>flushing, erythema, telangiectasia &rarr; papules and pustules</li></ul>",
+        "concept_percentile": "45",
+        "concept_colour": "rgb(255,229,0)",
+        "number_attempts": "6401",
+        "up_votes": "15",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "35",
+            "66",
+            "124",
+            "5519",
+            "657",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_956\" data-linkid=\"956\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_956\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_956\" data-linkid=\"956\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_956\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">24</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/rosacea-and-acne.html\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1294\" data-linkid=\"1294\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1294\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1294\" data-linkid=\"1294\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1294\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rhinophyma/\">Rhinophyma</a></td></tr></table><br><br><table style='width:100%'><tr><td>Dermnet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_528\" data-linkid=\"528\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_528\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_528\" data-linkid=\"528\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_528\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rosacea/\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>Primary Care Dermatology Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1560\" data-linkid=\"1560\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1560\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1560\" data-linkid=\"1560\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1560\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.pcds.org.uk/clinical-guidance/rosacea\">Rosacea review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "9910": {
+                "concept_text": "Rosacea features:\n   - nose, cheeks and forehead\n   - flushing, erythema, telangiectasia --> papules and pustules",
+                "concept_percentile": "45"
+            },
+            "12030": {
+                "concept_text": "Rosacea: topical ivermectin is first-line for patients mild papules and/or pustules",
+                "concept_percentile": "91"
+            },
+            "12031": {
+                "concept_text": "Rosacea: a combination of topical ivermectin +  oral doxycycline is first-line for patients with severe papules and/or pustules",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_157",
+        "new_question_id": "28376",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "2858",
+        "notes_id_link": "1_1893",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Combined oral contraceptive pill",
+            "Intrauterine device",
+            "Intrauterine system",
+            "Mefenamic acid",
+            "Tranexamic acid",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old woman visits her general practitioner with painful menstrual bleeding. She has a regular 28-day cycle and bleeds for approximately 5-6 days each month. She denies heavy bleeding and does not pass clots. The pain is debilitating and often requires her to take at least 2 days off work each month. Her past medical history includes a deep vein thrombosis (DVT) following the delivery of her son 2 years ago. She takes no regular medications and has no allergies.<br /><br />What is the initial step in the management of this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Provided there are no contraindications, NSAIDs such as ibuprofen, naproxen and mefenamic acid are the 1st line choice for treating primary dysmenorrhoea and are the current recommendation in NICE guidelines. Paracetamol can be tried as an alternative if NSAIDs are contraindicated. Additionally, if treatment fails with NSAIDs then a combination of NSAIDs and paracetamol can be tried.<br /><br />It is important to ask patients if they have any plans to conceive in the near future. If not, hormonal options can also be considered. The combined oral contraceptive pill can be trialled for 3-6 months as an alternative first-line treatment. However, it is important to exclude any contraindications for starting the medication. For example, this patient has a history of a previous DVT which is a contraindication to prescribing the COCP.<br /><br />The intrauterine device or the copper coil can be used as an emergency or long-term contraception. A complication of its use is heavier menstrual bleeding, making it an inappropriate treatment to offer this patient.<br /><br />The intrauterine system (IUS) or the Mirena coil is an alternative option to offer this patient. The IUS is 1st-line in the treatment of menorrhagia whereas the initial treatment of choice for primary dysmenorrhoea is NSAID use.<br /><br />Tranexamic acid is used in the treatment of menorrhagia. It is a non-hormonal treatment option that is offered to those who do not wish to have the IUS. However, tranexamic acid is not used in the treatment of dysmenorrhoea. ",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old woman visits her general practitioner with painful menstrual bleeding. She has a regular 28-day cycle and bleeds for approximately 5-6 days each month. She denies heavy bleeding and does not pass clots. The pain is debilitating and often requires her to take at least 2 days off work each month. Her past medical history includes a deep vein thrombosis (DVT) following the delivery of her son 2 years ago. She takes no regular medications and has no allergies.<br /><br />What is the initial step in the management of this patient?",
+        "correct_answer": "4",
+        "question_notes": "Provided there are no contraindications, NSAIDs such as ibuprofen, naproxen and mefenamic acid are the 1st line choice for treating primary dysmenorrhoea and are the current recommendation in NICE guidelines. Paracetamol can be tried as an alternative if NSAIDs are contraindicated. Additionally, if treatment fails with NSAIDs then a combination of NSAIDs and paracetamol can be tried.<br /><br />It is important to ask patients if they have any plans to conceive in the near future. If not, hormonal options can also be considered. The combined oral contraceptive pill can be trialled for 3-6 months as an alternative first-line treatment. However, it is important to exclude any contraindications for starting the medication. For example, this patient has a history of a previous DVT which is a contraindication to prescribing the COCP.<br /><br />The intrauterine device or the copper coil can be used as an emergency or long-term contraception. A complication of its use is heavier menstrual bleeding, making it an inappropriate treatment to offer this patient.<br /><br />The intrauterine system (IUS) or the Mirena coil is an alternative option to offer this patient. The IUS is 1st-line in the treatment of menorrhagia whereas the initial treatment of choice for primary dysmenorrhoea is NSAID use.<br /><br />Tranexamic acid is used in the treatment of menorrhagia. It is a non-hormonal treatment option that is offered to those who do not wish to have the IUS. However, tranexamic acid is not used in the treatment of dysmenorrhoea. ",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Dysmenorrhoea",
+        "body": "Dysmenorrhoea is characterised by excessive pain during the menstrual period. It is traditionally divided into primary and secondary dysmenorrhoea.<br /><br /><h5 class='notes-heading'>Primary dysmenorrhoea</h5><br />In primary dysmenorrhoea there is no underlying pelvic pathology. It affects up to 50% of menstruating women and usually appears within 1-2 years of the menarche. Excessive endometrial prostaglandin production is thought to be partially responsible.<br /><br />Features<br /><ul><li>pain typically starts just before or within a few hours of the period starting</li><li>suprapubic cramping pains which may radiate to the back or down the thigh</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"2858\">NSAIDs such as mefenamic acid</span> and ibuprofen are effective in up to 80% of women. They work by inhibiting prostaglandin production</li><li>combined oral contraceptive pills are used second line</li></ul><br /><h5 class='notes-heading'>Secondary dysmenorrhoea</h5><br />Secondary dysmenorrhoea typically develops many years after the menarche and is the result of an underlying pathology. In contrast to primary dysmenorrhoea the pain usually starts 3-4 days before the onset of the period. Causes include:<br /><ul><li>endometriosis</li><li>adenomyosis</li><li>pelvic inflammatory disease</li><li>intrauterine devices*</li><li>fibroids</li></ul><br />NICE recommend <span class=\"concept\" data-cid=\"2859\">referring all patients with secondary dysmenorrhoea to gynaecology for investigation</span>.<br /><br />*this refers to normal copper coils. Note that the intrauterine system (Mirena) may help dysmenorrhoea",
+        "notes_hash": "f54cc5da133d2f330b2947f79d06b531",
+        "knowledge_graph_node_id_link": 10092,
+        "concept": "NSAIDs such as mefenamic acid are the first line treatment for primary dysmenorrhoea",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5043",
+        "up_votes": "24",
+        "down_votes": "58",
+        "column_array": [
+            0,
+            "146",
+            "311",
+            "1275",
+            "3117",
+            "194",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "2858": {
+                "concept_text": "NSAIDs such as mefenamic acid are the first line treatment for primary dysmenorrhoea",
+                "concept_percentile": "79"
+            },
+            "2859": {
+                "concept_text": "All patients with secondary dysmenorrhoea need to be referred to gynaecology for investigation",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4972_B_160",
+        "new_question_id": "15901",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "4146",
+        "notes_id_link": "1_1536",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Mild COPD",
+            "Moderate COPD",
+            "Not COPD",
+            "Severe COPD",
+            "Very severe COPD",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 71-year-old man is seen in the respiratory clinic with suspected chronic obstructive pulmonary disease (COPD). He is a smoker for 50 years, 20 cigarettes per day, and has a chronic cough and shortness of breath for the last 3 years. On post-bronchodilator spirometry testing, he has an FEV1 of 81% of predicted value, and his FEV1/FVC is 0.5. <br /><br />How would you describe these results?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This man is a smoker, over 35, symptomatic, with FEV1/FVC <0.7- all of these things mean that he has COPD. His FEV1 is normal (>80%), therefore his disease is mild. The severity of COPD is based upon FEV1 readings. Moderate is FEV1 50-79%, severe is 30-49%, and very severe is <30%.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 71-year-old man is seen in the respiratory clinic with suspected chronic obstructive pulmonary disease (COPD). He is a smoker for 50 years, 20 cigarettes per day, and has a chronic cough and shortness of breath for the last 3 years. On post-bronchodilator spirometry testing, he has an FEV1 of 81% of predicted value, and his FEV1/FVC is 0.5. <br /><br />How would you describe these results?",
+        "correct_answer": "1",
+        "question_notes": "This man is a smoker, over 35, symptomatic, with FEV1/FVC <0.7- all of these things mean that he has COPD. His FEV1 is normal (>80%), therefore his disease is mild. The severity of COPD is based upon FEV1 readings. Moderate is FEV1 50-79%, severe is 30-49%, and very severe is <30%.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "COPD: investigation and diagnosis",
+        "body": "NICE recommend considering a diagnosis of COPD in patients over 35 years of age who are smokers or ex-smokers and have symptoms such as exertional breathlessness, chronic cough or regular sputum production.<br /><br />The following investigations are recommended in patients with suspected COPD:<br /><ul><li><span class=\"concept\" data-cid=\"12520\">post-bronchodilator spirometry</span> to demonstrate airflow obstruction: FEV1/FVC ratio less than 70%</li><li>chest x-ray: hyperinflation, bullae, flat hemidiaphragm. Also important to exclude lung cancer</li><li>full blood count: exclude secondary polycythaemia</li><li>body mass index (BMI) calculation</li></ul><br />The severity of COPD is categorised using the <span class=\"concept\" data-cid=\"4147\">FEV1</span>*:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Post-bronchodilator FEV1/FVC</b></th><th><b>FEV1 (of predicted)</b></th><th><b>Severity</b></th></tr></thead><tbody><tr><td> < 0.7</td><td>> 80%</td><td><span class=\"concept\" data-cid=\"4146\">Stage 1 - Mild - symptoms should be present to diagnose COPD in these patients</span></td></tr><tr><td> < 0.7</td><td>50-79%</td><td>Stage 2 - Moderate</td></tr><tr><td> < 0.7</td><td>30-49%</td><td>Stage 3 - Severe</td></tr><tr><td> < 0.7</td><td>< 30%</td><td>Stage 4 - Very severe</td></tr></tbody></table></div><br />Measuring peak expiratory flow is of limited value in COPD, as it may underestimate the degree of airflow obstruction.<br /><br />*note that the grading system has changed following the 2010 NICE guidelines. If the FEV1 is greater than 80% predicted but the post-bronchodilator FEV1/FVC is < 0.7 then this is classified as Stage 1 - mild",
+        "notes_hash": "771b2447e416b4d4b114eb0acee38a01",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Stage 1 COPD has normal FEV1 readings, but is symptomatic",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "2827",
+        "up_votes": "7",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "1120",
+            "1110",
+            "274",
+            "310",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_759\" data-linkid=\"759\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_759\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_759\" data-linkid=\"759\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_759\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng115/chapter/Recommendations\">2018 COPD guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M4C8EInOMOI\" data-description=\"Peak Flow and Spirometry - Lung Function Tests\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"132\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/M4C8EInOMOI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M4C8EInOMOI\" data-description=\"Peak Flow and Spirometry - Lung Function Tests\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"132\">Peak Flow and Spirometry - Lung Function Tests</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_229\" data-mediaid=\"229\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_229\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_229\" data-mediaid=\"229\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_229\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "4146": {
+                "concept_text": "Stage 1 COPD has normal FEV1 readings, but is symptomatic",
+                "concept_percentile": "77"
+            },
+            "12520": {
+                "concept_text": "Alongside a CXR, post-bronchodilator spirometry is required to diagnose COPD",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "17652_B_392",
+        "new_question_id": "33507",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "6693",
+        "notes_id_link": "1_207",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bendroflumethiazide",
+            "Citalopram",
+            "Isosorbide mononitrate",
+            "Ramipril",
+            "Simvastatin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old man presents to the emergency department with feeling generally unwell and lethargic for the past 2 weeks. His only other symptom is a yellow-green tinge to his vision. <br /><br />He has a past medical history significant for atrial fibrillation, depression and a myocardial infarction 3 years ago. He takes numerous tablets that come in a blister pack and he doesn't know the names of them.<br /><br />A blood test taken shows the following: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Digoxin concentration</td><td>3 mcg/l</td><td>(<1 mcg/l)</td></tr></tbody></table></div><br />What drug may have precipitated this clinical picture?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This man presents with a picture of chronic digoxin toxicity. Digoxin inhibits Na<sup>+</sup>/K<sup>+</sup> ATPase to cause its rhythm control effects for atrial fibrillation. Since Na<sup>+</sup>/K<sup>+</sup> ATPase is found in tissues throughout the body, the symptoms of its toxicity tend to be incredibly vague. The most common presentation is with gastrointestinal upset or with general weakness of fatigue. A fairly specific symptom is xanthopsia, which is a colour vision deficiency in which there is a tinge of yellow-green in vision. This occurs due to the effects of Na<sup>+</sup>/K<sup>+</sup> ATPase causing yellowing of the optic media, and also disrupting the photoreceptors of the retina. <br /><br /><b>Bendroflumethiazide</b> is a drug that can precipitate digoxin toxicity. It causes hypokalaemia, and since potassium is a competitive inhibitor of digoxin, less potassium means digoxin can have more of an effect on Na<sup>+</sup>/K<sup>+</sup> ATPase. <br /><br /><b>Citalopram</b> is incorrect. There is no evidence that citalopram has any effect on the pharmacokinetic profile of digoxin. <br /><br /><b>Isosorbide mononitrate</b> is incorrect. Used together, there may be a slight increase in the risk of bradycardia, but there is nothing to suggest isosorbide mononitrate precipitates toxicity. <br /><br /><b>Ramipril</b> is incorrect. There is some limited evidence that digoxin may slightly prevent ramipril from having its desired blood pressure-lowering effect, however, there is no evidence that it affects digoxin toxicity. <br /><br /><b>Simvastatin</b> is incorrect. Simvastatin is entirely safe to use with digoxin and is not known to precipitate digoxin toxicity. There is limited evidence that atorvastatin may precipitate toxicity, but the mechanism of this is unclear.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old man presents to the emergency department with feeling generally unwell and lethargic for the past 2 weeks. His only other symptom is a yellow-green tinge to his vision. <br /><br />He has a past medical history significant for atrial fibrillation, depression and a myocardial infarction 3 years ago. He takes numerous tablets that come in a blister pack and he doesn't know the names of them.<br /><br />A blood test taken shows the following: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Digoxin concentration</td><td>3 mcg/l</td><td>(<1 mcg/l)</td></tr></tbody></table></div><br />What drug may have precipitated this clinical picture?",
+        "correct_answer": "1",
+        "question_notes": "This man presents with a picture of chronic digoxin toxicity. Digoxin inhibits Na<sup>+</sup>/K<sup>+</sup> ATPase to cause its rhythm control effects for atrial fibrillation. Since Na<sup>+</sup>/K<sup>+</sup> ATPase is found in tissues throughout the body, the symptoms of its toxicity tend to be incredibly vague. The most common presentation is with gastrointestinal upset or with general weakness of fatigue. A fairly specific symptom is xanthopsia, which is a colour vision deficiency in which there is a tinge of yellow-green in vision. This occurs due to the effects of Na<sup>+</sup>/K<sup>+</sup> ATPase causing yellowing of the optic media, and also disrupting the photoreceptors of the retina. <br /><br /><b>Bendroflumethiazide</b> is a drug that can precipitate digoxin toxicity. It causes hypokalaemia, and since potassium is a competitive inhibitor of digoxin, less potassium means digoxin can have more of an effect on Na<sup>+</sup>/K<sup>+</sup> ATPase. <br /><br /><b>Citalopram</b> is incorrect. There is no evidence that citalopram has any effect on the pharmacokinetic profile of digoxin. <br /><br /><b>Isosorbide mononitrate</b> is incorrect. Used together, there may be a slight increase in the risk of bradycardia, but there is nothing to suggest isosorbide mononitrate precipitates toxicity. <br /><br /><b>Ramipril</b> is incorrect. There is some limited evidence that digoxin may slightly prevent ramipril from having its desired blood pressure-lowering effect, however, there is no evidence that it affects digoxin toxicity. <br /><br /><b>Simvastatin</b> is incorrect. Simvastatin is entirely safe to use with digoxin and is not known to precipitate digoxin toxicity. There is limited evidence that atorvastatin may precipitate toxicity, but the mechanism of this is unclear.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Digoxin and digoxin toxicity",
+        "body": "Digoxin is a cardiac glycoside now mainly used for rate control in the management of atrial fibrillation. As it has <span class=\"concept\" data-cid=\"9729\">positive inotropic properties it is sometimes used for improving symptoms (but not mortality) in patients with heart failure</span>.<br /><br />Mechanism of action<br /><ul><li>decreases conduction through the atrioventricular node which slows the ventricular rate in atrial fibrillation and flutter</li><li>increases the force of cardiac muscle contraction due to <span class=\"concept\" data-cid=\"515\">inhibition of the Na<sup>+</sup>/K<sup>+</sup> ATPase pump</span>. Also stimulates vagus nerve</li><li><span class=\"concept\" data-cid=\"2300\">digoxin has a narrow therapeutic index</span></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"9713\">digoxin level is not monitored routinely, except in suspected toxicity</span></li><li><span class=\"concept\" data-cid=\"9529\">if toxicity is suspected, digoxin concentrations should be measured within 8 to 12 hours of the last dose</span></li></ul><br /><br /><h5 class='notes-heading'>Digoxin toxicity</h5><br />Plasma concentration alone does not determine whether a patient has developed digoxin toxicity. <span class=\"concept\" data-cid=\"9763\">Toxicity may occur even when the concentration is within the therapeutic range</span>. The BNF advises that the likelihood of toxicity increases progressively from 1.5 to 3 mcg/l.<br /><br />Features<br /><ul><li>generally unwell, lethargy, nausea & vomiting, <span class=\"concept\" data-cid=\"6686\">anorexia</span>, <span class=\"concept\" data-cid=\"6687\">confusion</span>, <span class=\"concept\" data-cid=\"6688\">yellow-green vision</span></li><li>arrhythmias (e.g. <span class=\"concept\" data-cid=\"6698\">AV block</span>, <span class=\"concept\" data-cid=\"6696\">bradycardia</span>)</li><li><span class=\"concept\" data-cid=\"1975\">gynaecomastia</span></li></ul><br />Precipitating factors<br /><ul><li>classically: <span class=\"concept\" data-cid=\"3487\">hypokalaemia</span><ul><li><span class=\"concept\" data-cid=\"9922\">digoxin normally binds to the ATPase pump on the same site as potassium. Hypokalaemia &rarr; digoxin more easily bind to the ATPase pump &rarr; increased inhibitory effects</span></li></ul></li><li>increasing age</li><li><span class=\"concept\" data-cid=\"3525\">renal failure</span></li><li>myocardial ischaemia</li><li>hypomagnesaemia, hypercalcaemia, hypernatraemia, acidosis</li><li>hypoalbuminaemia</li><li>hypothermia</li><li>hypothyroidism</li><li>drugs: <span class=\"concept\" data-cid=\"6689\">amiodarone</span>, <span class=\"concept\" data-cid=\"3589\">quinidine</span>, <span class=\"concept\" data-cid=\"6690\">verapamil</span>, <span class=\"concept\" data-cid=\"6691\">diltiazem</span>, <span class=\"concept\" data-cid=\"6692\">spironolactone</span> (competes for secretion in distal convoluted tubule therefore reduce excretion), <span class=\"concept\" data-cid=\"6695\">ciclosporin</span>. Also drugs which cause hypokalaemia e.g. <span class=\"concept\" data-cid=\"6693\">thiazides</span> and <span class=\"concept\" data-cid=\"6694\">loop diuretics</span></li></ul><br /><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"3526\">Digibind</span></li><li>correct arrhythmias</li><li>monitor potassium</li></ul>",
+        "notes_hash": "8fc8ff1fc4bf18fc30889a3341ff6293",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Thiazides may cause precipitation of digoxin toxicity",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "7133",
+        "up_votes": "25",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "4763",
+            "1167",
+            "247",
+            "441",
+            "515",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GI6c0OwhuPg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\">Digoxin Mnemonic - Cardiac Glycosides (Inotropes)</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2822\" data-mediaid=\"2822\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2822\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_2822\" data-mediaid=\"2822\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2822\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "515": {
+                "concept_text": "Digoxin - inhibits the Na<sup>+</sup>/K<sup>+</sup> ATPase pump",
+                "concept_percentile": "11"
+            },
+            "1975": {
+                "concept_text": "Gynaecomastia is a recognised side effect of digoxin",
+                "concept_percentile": "40"
+            },
+            "3487": {
+                "concept_text": "Hypokalaemia predisposes patients to digoxin toxicity",
+                "concept_percentile": "89"
+            },
+            "3589": {
+                "concept_text": "Type 1 diabetes often presents with the triad of weight loss, polyuria and polydipsia ",
+                "concept_percentile": "3"
+            },
+            "6686": {
+                "concept_text": "Digoxin may cause anorexia",
+                "concept_percentile": "8"
+            },
+            "6687": {
+                "concept_text": "Digoxin may cause confusion",
+                "concept_percentile": "15"
+            },
+            "6688": {
+                "concept_text": "Digoxin may cause yellow-green vision",
+                "concept_percentile": "39"
+            },
+            "6689": {
+                "concept_text": "Amiodarone may cause precipitation of digoxin toxicity - if starting amiodarone on a patient taking digoxin the dose should be reduced",
+                "concept_percentile": "17"
+            },
+            "6690": {
+                "concept_text": "Verapamil may cause precipitation of digoxin toxicity",
+                "concept_percentile": "20"
+            },
+            "6691": {
+                "concept_text": "Diltiazem may cause precipitation of digoxin toxicity",
+                "concept_percentile": "51"
+            },
+            "6693": {
+                "concept_text": "Thiazides may cause precipitation of digoxin toxicity",
+                "concept_percentile": "54"
+            },
+            "6694": {
+                "concept_text": "Loop diuretics may cause precipitation of digoxin toxicity",
+                "concept_percentile": "38"
+            },
+            "6695": {
+                "concept_text": "Ciclosporin may cause precipitation of digoxin toxicity",
+                "concept_percentile": "8"
+            },
+            "9713": {
+                "concept_text": "Digoxin level is not monitored routinely, except in suspected toxicity ",
+                "concept_percentile": "60"
+            },
+            "9763": {
+                "concept_text": "Digoxin toxicity may occur even when the concentration is within the therapeutic range",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_264",
+        "new_question_id": "9749",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "806",
+        "notes_id_link": "1_663",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Phenytoin",
+            "Carbamazepine",
+            "Sodium valproate",
+            "Gabapentin",
+            "Lamotrigine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which of the following drugs is most likely to cause gingival hyperplasia?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "Other common chronic side-effects of phenytoin include hirsutism and coarsening of facial features. There are case reports of valproate causing gingival hyperplasia but it is not listed as a side-effect in the BNF",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which of the following drugs is most likely to cause gingival hyperplasia?",
+        "correct_answer": "1",
+        "question_notes": "Other common chronic side-effects of phenytoin include hirsutism and coarsening of facial features. There are case reports of valproate causing gingival hyperplasia but it is not listed as a side-effect in the BNF",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Gingival hyperplasia",
+        "body": "Drug causes of gingival hyperplasia<br /><ul><li>phenytoin</li><li>ciclosporin</li><li>calcium channel blockers (especially nifedipine)</li></ul><br />Other causes of gingival hyperplasia include<br /><ul><li>acute myeloid leukaemia (myelomonocytic and monocytic types)</li></ul>",
+        "notes_hash": "5d318b62b9f70f41e7926fbe827d54b7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Gingival hyperplasia: phenytoin, ciclosporin, calcium channel blockers and AML",
+        "concept_percentile": "38",
+        "concept_colour": "rgb(255,193,0)",
+        "number_attempts": "6063",
+        "up_votes": "25",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "4478",
+            "680",
+            "654",
+            "56",
+            "195",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

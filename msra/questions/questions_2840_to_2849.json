@@ -1,0 +1,997 @@
+[
+    {
+        "question_id": "999_B_2074",
+        "new_question_id": "61150",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "217",
+        "notes_id_link": "1_1195",
+        "theme": "Beta-blocker overdose resistant to atropine requiring next treatment",
+        "instruction": "",
+        "options": [
+            "",
+            "Adrenaline infusion",
+            "Calcium gluconate",
+            "Glucagon",
+            "Sodium bicarbonate",
+            "Temporary cardiac pacing",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old man is brought to the Emergency Department following an intentional overdose of propranolol. He is drowsy with a heart rate of 38 bpm and blood pressure of 78/45 mmHg. He has been given atropine 3 mg intravenously without improvement in his heart rate or blood pressure.<br /><br />Select the single most appropriate next treatment from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Glucagon</b> is the correct answer for this patient with beta-blocker overdose who has failed to respond to atropine. Beta-blockers cause bradycardia and hypotension by blocking beta-adrenergic receptors. Glucagon works through a different mechanism, activating adenylate cyclase independently of beta-receptors, thereby increasing intracellular cyclic AMP. This leads to increased cardiac contractility and heart rate, effectively bypassing the beta-receptor blockade. In beta-blocker overdose, glucagon is specifically indicated when patients remain symptomatic despite adequate doses of atropine (up to 3 mg). It is typically given as an initial bolus followed by an infusion. This patient's persistent severe bradycardia and hypotension after maximal atropine therapy makes glucagon the most appropriate next step. Common side effects include nausea and vomiting, and hyperglycaemia may occur with prolonged use.<br /><br /><b>Adrenaline infusion</b> would seem logical given the cardiovascular collapse, but in beta-blocker overdose, the beta-receptors are blocked, making adrenaline less effective at standard doses. Whilst very high doses of adrenaline might overcome competitive beta-blockade, this approach carries significant risks of arrhythmias and is not first-line therapy. Glucagon, which works independently of beta-receptors, is preferred before resorting to high-dose catecholamines.<br /><br /><b>Calcium gluconate</b> is the antidote for calcium channel blocker overdose, not beta-blocker overdose. Calcium channel blockers cause bradycardia and hypotension through different mechanisms (blocking L-type calcium channels), and calcium salts help overcome this blockade. In beta-blocker toxicity, calcium has no specific role and would not address the underlying pathophysiology of beta-receptor blockade.<br /><br /><b>Sodium bicarbonate</b> is used in tricyclic antidepressant overdose and certain other toxidromes where sodium channel blockade causes QRS widening and arrhythmias. It has no role in beta-blocker overdose, which does not typically cause significant QRS prolongation or respond to alkalinisation. This patient's presentation is consistent with beta-blockade rather than sodium channel blockade.<br /><br /><b>Temporary cardiac pacing</b> may be considered in refractory cases of beta-blocker overdose, but it is not the next appropriate step when medical management with glucagon has not yet been attempted. Pacing addresses the bradycardia but does not improve the myocardial contractility or peripheral vasodilatation that contribute to hypotension in beta-blocker toxicity. Glucagon addresses both chronotropic and inotropic effects and should be tried before invasive interventions.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old man is brought to the Emergency Department following an intentional overdose of propranolol. He is drowsy with a heart rate of 38 bpm and blood pressure of 78/45 mmHg. He has been given atropine 3 mg intravenously without improvement in his heart rate or blood pressure.<br /><br />Select the single most appropriate next treatment from the options below.",
+        "correct_answer": "3",
+        "question_notes": "<b>Glucagon</b> is the correct answer for this patient with beta-blocker overdose who has failed to respond to atropine. Beta-blockers cause bradycardia and hypotension by blocking beta-adrenergic receptors. Glucagon works through a different mechanism, activating adenylate cyclase independently of beta-receptors, thereby increasing intracellular cyclic AMP. This leads to increased cardiac contractility and heart rate, effectively bypassing the beta-receptor blockade. In beta-blocker overdose, glucagon is specifically indicated when patients remain symptomatic despite adequate doses of atropine (up to 3 mg). It is typically given as an initial bolus followed by an infusion. This patient's persistent severe bradycardia and hypotension after maximal atropine therapy makes glucagon the most appropriate next step. Common side effects include nausea and vomiting, and hyperglycaemia may occur with prolonged use.<br /><br /><b>Adrenaline infusion</b> would seem logical given the cardiovascular collapse, but in beta-blocker overdose, the beta-receptors are blocked, making adrenaline less effective at standard doses. Whilst very high doses of adrenaline might overcome competitive beta-blockade, this approach carries significant risks of arrhythmias and is not first-line therapy. Glucagon, which works independently of beta-receptors, is preferred before resorting to high-dose catecholamines.<br /><br /><b>Calcium gluconate</b> is the antidote for calcium channel blocker overdose, not beta-blocker overdose. Calcium channel blockers cause bradycardia and hypotension through different mechanisms (blocking L-type calcium channels), and calcium salts help overcome this blockade. In beta-blocker toxicity, calcium has no specific role and would not address the underlying pathophysiology of beta-receptor blockade.<br /><br /><b>Sodium bicarbonate</b> is used in tricyclic antidepressant overdose and certain other toxidromes where sodium channel blockade causes QRS widening and arrhythmias. It has no role in beta-blocker overdose, which does not typically cause significant QRS prolongation or respond to alkalinisation. This patient's presentation is consistent with beta-blockade rather than sodium channel blockade.<br /><br /><b>Temporary cardiac pacing</b> may be considered in refractory cases of beta-blocker overdose, but it is not the next appropriate step when medical management with glucagon has not yet been attempted. Pacing addresses the bradycardia but does not improve the myocardial contractility or peripheral vasodilatation that contribute to hypotension in beta-blocker toxicity. Glucagon addresses both chronotropic and inotropic effects and should be tried before invasive interventions.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Beta-blocker overdose",
+        "body": "Features<br /><ul><li>bradycardia</li><li>hypotension</li><li>heart failure</li><li>syncope</li></ul><br />Management<br /><ul><li>if bradycardic then atropine</li><li>in resistant cases <span class=\"concept\" data-cid=\"217\">glucagon</span> may be used</li></ul><br />Haemodialysis is not effective in beta-blocker overdose",
+        "notes_hash": "e5d0a9663150c8f56c1ea6a9a1b8ef98",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Beta-blocker overdose: glucagon if patient does not respond to atropine",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "258",
+        "up_votes": "1",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "27",
+            "2",
+            "161",
+            "5",
+            "63",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "217": {
+                "concept_text": "Beta-blocker overdose: glucagon if patient does not respond to atropine",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4089_B_35",
+        "new_question_id": "12291",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "1324",
+        "notes_id_link": "1_1956",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Dilated upper lobe vessels, pleural effusions, Boot shaped heart",
+            "Cardiomegaly, pleural effusions, deviated trachea",
+            "Pleural effusions, Cardiomegaly, Kerley B lines",
+            "Widened mediastinum, Kerley B lines, dilated upper lobe vessels",
+            "Kerley B lines, hilar lymphadenopathy, Cardiomegaly",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old gentleman presents to the emergency department with a two week history of gradually worsening shortness of breath. The patient feels that the shortness of breath is worse when lying down and can only sleep using three pillows. Occasionally he wakes up gasping for breath. <br /><br />You order a chest x-ray.<br /><br />What findings would you expect on the x-ray?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Below are the x-ray findings you would see in heart failure:<br /><b>A</b>lveolar oedema (bat's wings) <br />Kerley <b>B</b> lines (interstitial oedema)<br /><b>C</b>ardiomegaly<br /><b>D</b>ilated prominent upper lobe vessels<br /><b>E</b>ffusion (pleural) <br /><br />Boot shaped heart is seen in tetralogy of Fallot.<br /><br />Deviated trachea is a sign of tension pneumothorax.<br /><br />Widened mediastinum is a sign of aortic dissection or aneurysm.<br /><br />Hilar lymphadenopathy can have many causes such as infection, malignancy and sarcoidosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old gentleman presents to the emergency department with a two week history of gradually worsening shortness of breath. The patient feels that the shortness of breath is worse when lying down and can only sleep using three pillows. Occasionally he wakes up gasping for breath. <br /><br />You order a chest x-ray.<br /><br />What findings would you expect on the x-ray?",
+        "correct_answer": "3",
+        "question_notes": "Below are the x-ray findings you would see in heart failure:<br /><b>A</b>lveolar oedema (bat's wings) <br />Kerley <b>B</b> lines (interstitial oedema)<br /><b>C</b>ardiomegaly<br /><b>D</b>ilated prominent upper lobe vessels<br /><b>E</b>ffusion (pleural) <br /><br />Boot shaped heart is seen in tetralogy of Fallot.<br /><br />Deviated trachea is a sign of tension pneumothorax.<br /><br />Widened mediastinum is a sign of aortic dissection or aneurysm.<br /><br />Hilar lymphadenopathy can have many causes such as infection, malignancy and sarcoidosis.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Chest x-ray: pulmonary oedema",
+        "body": "Features of pulmonary oedema on a chest x-ray may include:<br /><ul><li>interstitial oedema</li><li>bat's wing appearance</li><li>upper lobe diversion (increased blood flow to the superior parts of the lung)</li><li>Kerley B lines</li><li>pleural effusion</li><li>cardiomegaly may be seen if there is cardiogenic cause</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb213b.jpg\" data-fancybox=\"gallery\" data-caption=\"Kerley A lines (orange arrows), Kerley B lines (blue arrows) and Kerley C lines (green arrows) are all seen, and all represent essentially the same thing -  expansion of the interstitial space by fluid.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb213.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing pulmonary oedema - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb036b.jpg\" data-fancybox=\"gallery\" data-caption=\"AP CXR showing pulmonary oedema/cardiomegaly in 10-yr old. Note AP not ideal for cardiomegaly but still obvious here - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb036.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "04a0a3d955d757a2bdb1aa731dadd1cb",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "<b>A</b>lveolar oedema (bat's wings), Kerley <b>B</b> lines (interstitial oedema), <b>C</b>ardiomegaly, <b>D</b>ilated prominent upper lobe vessels, <b>E</b>ffusion (pleural) are features of heart failure on a chest x-ray",
+        "concept_percentile": "73",
+        "concept_colour": "rgb(137,255,0)",
+        "number_attempts": "6829",
+        "up_votes": "34",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "319",
+            "137",
+            "5052",
+            "798",
+            "523",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Institute of Radiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1505\" data-linkid=\"1505\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1505\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_1505\" data-linkid=\"1505\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1505\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bir.org.uk/media/258608/mark_rodriguez_-_philips_trainee_for_excellence_-_unofficial_guide_to_radiology.pdf\">Unofficial guide to radiology</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiology Masterclass</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_449\" data-linkid=\"449\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_449\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_449\" data-linkid=\"449\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_449\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://radiologymasterclass.co.uk/tutorials/chest/chest_pathology/chest_pathology_page8.html\">Cardiomegaly and heart failure</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"412\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/o1LAJ-EBFTc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"412\">Pulmonary oedema</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_706\" data-mediaid=\"706\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_706\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_706\" data-mediaid=\"706\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_706\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1814",
+        "new_question_id": "8586",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "6055",
+        "notes_id_link": "1_446",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ciprofloxacin",
+            "Co-amoxiclav",
+            "Trimethoprim",
+            "Amoxicillin",
+            "Co-amoxiclav + metronidazole",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old woman presents with dysuria and frequency four weeks after giving birth. The antenatal period and delivery were unremarkable. She is exclusively breastfeeding her child at the current time. Abdominal examination is unremarkable and she is apyrexial. A urine dipstick shows blood +, protein +, leucocytes +++ and nitrites positive. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Trimethoprim</b>. The patient's symptoms and urine dipstick results are indicative of a urinary tract infection (UTI). In the UK, the first-line antibiotic treatment for UTIs in non-pregnant women is trimethoprim, as per NICE guidelines. Trimethoprim is safe to use in breastfeeding women, which makes it suitable for this patient.<br /><br /><b>Ciprofloxacin</b> is not the best choice in this scenario. While it can be used to treat UTIs, it is usually reserved for complicated or recurrent infections due to its broad-spectrum activity and risk of resistance development. Moreover, ciprofloxacin may enter breast milk and potentially affect the infant's joint development.<br /><br /><b>Co-amoxiclav</b> would also not be the first choice for an uncomplicated UTI. It's a combination of amoxicillin and clavulanic acid that has a broad spectrum of activity against bacteria. Its use should be limited to specific conditions where such broad coverage is needed to reduce antibiotic resistance. <br /><br />Similarly, <b>Amoxicillin</b>, while commonly used for various bacterial infections, is not typically the first line treatment for UTIs due to lower efficacy compared to trimethoprim or nitrofurantoin.<br /><br />The combination of <b>Co-amoxiclav + metronidazole</b> provides very broad-spectrum coverage against bacteria, including anaerobic organisms. This regimen might be considered in severe intra-abdominal infections but would generally be excessive for an uncomplicated UTI.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old woman presents with dysuria and frequency four weeks after giving birth. The antenatal period and delivery were unremarkable. She is exclusively breastfeeding her child at the current time. Abdominal examination is unremarkable and she is apyrexial. A urine dipstick shows blood +, protein +, leucocytes +++ and nitrites positive. What is the most appropriate management?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Trimethoprim</b>. The patient's symptoms and urine dipstick results are indicative of a urinary tract infection (UTI). In the UK, the first-line antibiotic treatment for UTIs in non-pregnant women is trimethoprim, as per NICE guidelines. Trimethoprim is safe to use in breastfeeding women, which makes it suitable for this patient.<br /><br /><b>Ciprofloxacin</b> is not the best choice in this scenario. While it can be used to treat UTIs, it is usually reserved for complicated or recurrent infections due to its broad-spectrum activity and risk of resistance development. Moreover, ciprofloxacin may enter breast milk and potentially affect the infant's joint development.<br /><br /><b>Co-amoxiclav</b> would also not be the first choice for an uncomplicated UTI. It's a combination of amoxicillin and clavulanic acid that has a broad spectrum of activity against bacteria. Its use should be limited to specific conditions where such broad coverage is needed to reduce antibiotic resistance. <br /><br />Similarly, <b>Amoxicillin</b>, while commonly used for various bacterial infections, is not typically the first line treatment for UTIs due to lower efficacy compared to trimethoprim or nitrofurantoin.<br /><br />The combination of <b>Co-amoxiclav + metronidazole</b> provides very broad-spectrum coverage against bacteria, including anaerobic organisms. This regimen might be considered in severe intra-abdominal infections but would generally be excessive for an uncomplicated UTI.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Breastfeeding: contraindications",
+        "body": "The major breastfeeding contraindications tested in exams relate to drugs (see below). Other contraindications of note include:<br /><ul><li>galactosaemia</li><li>viral infections - this is controversial with respect to HIV in the developing world. This is because there is such an increased infant mortality and morbidity associated with bottle feeding that some doctors think the benefits outweigh the risk of HIV transmission</li></ul><br /><h5 class='notes-heading'>Drug contraindications</h5><br />The following drugs can be given to mothers who are breastfeeding:<br /><ul><li>antibiotics: <span class=\"concept\" data-cid=\"6053\">penicillins</span>, <span class=\"concept\" data-cid=\"6054\">cephalosporins</span>, <span class=\"concept\" data-cid=\"6055\">trimethoprim</span></li><li>endocrine: <span class=\"concept\" data-cid=\"6056\">glucocorticoids (avoid high doses)</span>, <span class=\"concept\" data-cid=\"6057\">levothyroxine*</span></li><li>epilepsy: <span class=\"concept\" data-cid=\"6058\">sodium valproate</span>, <span class=\"concept\" data-cid=\"6059\">carbamazepine</span></li><li>asthma: <span class=\"concept\" data-cid=\"6060\">salbutamol</span>, <span class=\"concept\" data-cid=\"6061\">theophyllines</span></li><li>psychiatric drugs: <span class=\"concept\" data-cid=\"6062\">tricyclic antidepressants</span>, <span class=\"concept\" data-cid=\"4333\">antipsychotics**</span></li><li>hypertension: <span class=\"concept\" data-cid=\"6063\">beta-blockers</span>, <span class=\"concept\" data-cid=\"6064\">hydralazine</span></li><li>anticoagulants: <span class=\"concept\" data-cid=\"6065\">warfarin</span>, <span class=\"concept\" data-cid=\"6066\">heparin</span></li><li><span class=\"concept\" data-cid=\"6067\">digoxin</span></li></ul><br />The following drugs should be avoided:<br /><ul><li>antibiotics: <span class=\"concept\" data-cid=\"6068\">ciprofloxacin</span>, <span class=\"concept\" data-cid=\"6069\">tetracycline</span>, chloramphenicol, <span class=\"concept\" data-cid=\"6070\">sulphonamides</span></li><li>psychiatric drugs: <span class=\"concept\" data-cid=\"6071\">lithium</span>, <span class=\"concept\" data-cid=\"6072\">benzodiazepines</span></li><li><span class=\"concept\" data-cid=\"6073\">aspirin</span></li><li><span class=\"concept\" data-cid=\"6074\">carbimazole</span></li><li><span class=\"concept\" data-cid=\"992\">methotrexate</span></li><li><span class=\"concept\" data-cid=\"6075\">sulfonylureas</span></li><li><span class=\"concept\" data-cid=\"6076\">cytotoxic drugs</span></li><li><span class=\"concept\" data-cid=\"6077\">amiodarone</span></li></ul><br />*the BNF advises that the amount is too small to affect neonatal hypothyroidism screening<br /><br />**clozapine should be avoided",
+        "notes_hash": "829b5125f8a3a64ddea39e92413e07b6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Trimethoprim in breastfeeding  is considered safe to use",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "4660",
+        "up_votes": "24",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "308",
+            "655",
+            "2407",
+            "1086",
+            "204",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>The Breastfeeding Network</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1463\" data-linkid=\"1463\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1463\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1463\" data-linkid=\"1463\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1463\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.breastfeedingnetwork.org.uk/drugs-factsheets/\">Breastfeeding network drug fact sheets </a></td></tr></table><br><br><table style='width:100%'><tr><td>GP Infant Feeding Network (UK)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1462\" data-linkid=\"1462\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1462\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_1462\" data-linkid=\"1462\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1462\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://gpifn.org.uk/\">Advocating for Improvements in Infant Feeding Practice</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T0R33e_P_2Y\" data-description=\"Breastfeeding\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"658\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/T0R33e_P_2Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T0R33e_P_2Y\" data-description=\"Breastfeeding\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"658\">Breastfeeding</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1134\" data-mediaid=\"1134\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1134\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1134\" data-mediaid=\"1134\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1134\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "992": {
+                "concept_text": "Methotrexate is contraindicated in breastfeeding",
+                "concept_percentile": "11"
+            },
+            "4333": {
+                "concept_text": "Antipsychotics except clozapine are not contraindicated in breastfeeding",
+                "concept_percentile": "20"
+            },
+            "6053": {
+                "concept_text": "Penicillins in breastfeeding  is considered safe to use",
+                "concept_percentile": "21"
+            },
+            "6054": {
+                "concept_text": "Cephalosporins in breastfeeding  is considered safe to use",
+                "concept_percentile": "33"
+            },
+            "6055": {
+                "concept_text": "Trimethoprim in breastfeeding  is considered safe to use",
+                "concept_percentile": "70"
+            },
+            "6056": {
+                "concept_text": "Glucocorticoids in breastfeeding  is considered safe to use",
+                "concept_percentile": "13"
+            },
+            "6057": {
+                "concept_text": "Levothyroxine in breastfeeding  is considered safe to use",
+                "concept_percentile": "13"
+            },
+            "6058": {
+                "concept_text": "Sodium valproate in breastfeeding  is considered safe to use",
+                "concept_percentile": "38"
+            },
+            "6059": {
+                "concept_text": "Carbamazepine in breastfeeding  is considered safe to use",
+                "concept_percentile": "10"
+            },
+            "6061": {
+                "concept_text": "Theophyllines in breastfeeding  is considered safe to use",
+                "concept_percentile": "13"
+            },
+            "6062": {
+                "concept_text": "Tricyclic antidepressants in breastfeeding  is considered safe to use",
+                "concept_percentile": "15"
+            },
+            "6063": {
+                "concept_text": "Beta-blockers in breastfeeding  is considered safe to use",
+                "concept_percentile": "39"
+            },
+            "6064": {
+                "concept_text": "Hydralazine in breastfeeding  is considered safe to use",
+                "concept_percentile": "4"
+            },
+            "6065": {
+                "concept_text": "Warfarin in breastfeeding  is considered safe to use",
+                "concept_percentile": "23"
+            },
+            "6066": {
+                "concept_text": "Heparin in breastfeeding  is considered safe to use",
+                "concept_percentile": "22"
+            },
+            "6067": {
+                "concept_text": "Digoxin in breastfeeding  is considered safe to use",
+                "concept_percentile": "33"
+            },
+            "6068": {
+                "concept_text": "Ciprofloxacin in breastfeeding  must be avoided",
+                "concept_percentile": "8"
+            },
+            "6069": {
+                "concept_text": "Tetracyclines in breastfeeding  must be avoided",
+                "concept_percentile": "6"
+            },
+            "6070": {
+                "concept_text": "Sulphonamides in breastfeeding  must be avoided",
+                "concept_percentile": "16"
+            },
+            "6071": {
+                "concept_text": "Lithium in breastfeeding  must be avoided",
+                "concept_percentile": "83"
+            },
+            "6072": {
+                "concept_text": "Benzodiazepines in breastfeeding  must be avoided",
+                "concept_percentile": "24"
+            },
+            "6073": {
+                "concept_text": "Aspirin in breastfeeding  must be avoided",
+                "concept_percentile": "55"
+            },
+            "6074": {
+                "concept_text": "Carbimazole in breastfeeding  must be avoided",
+                "concept_percentile": "21"
+            },
+            "6075": {
+                "concept_text": "Sulphonylureas in breastfeeding  must be avoided",
+                "concept_percentile": "13"
+            },
+            "6077": {
+                "concept_text": "Amiodarone in breastfeeding  must be avoided",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2077",
+        "new_question_id": "2018",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1246",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "FSH level",
+            "Oestrogen level",
+            "CA125 level",
+            "Faecal calprotectin",
+            "Flexible sigmoidoscopy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 51-year-old woman presents to her GP with abdominal bloating and cramps which have occurred daily for the past 3 weeks. On examination, a small pelvic mass was palpable, What test is the most appropriate next investigation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Bloating and abdominal cramps in females over the age of 50 should raise suspicion of ovarian cancer. The most appropriate investigation is to test the serum CA125 level. If raised, an abdominal and pelvic ultrasound should be arranged. NICE CG122<br /><br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 51-year-old woman presents to her GP with abdominal bloating and cramps which have occurred daily for the past 3 weeks. On examination, a small pelvic mass was palpable, What test is the most appropriate next investigation?",
+        "correct_answer": "3",
+        "question_notes": "Bloating and abdominal cramps in females over the age of 50 should raise suspicion of ovarian cancer. The most appropriate investigation is to test the serum CA125 level. If raised, an abdominal and pelvic ultrasound should be arranged. NICE CG122<br /><br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Ovarian cancer",
+        "body": "Ovarian cancer is the sixth most common malignancy in females in the UK. The peak age of incidence is 60 years and it generally carries a poor prognosis due to late diagnosis.<br /><br />Pathophysiology<br /><ul><li><span class=\"concept\" data-cid=\"8492\">around 90% of ovarian cancers are epithelial in origin, with 70\u201380% of cases being due to serous carcinomas</span></li><li>interestingly, it is now increasingly recognised that the distal end of the fallopian tube is often the site of origin of many 'ovarian' cancers</li></ul><br />Risk factors<br /><ul><li>family history: mutations of the <span class=\"concept\" data-cid=\"7782\">BRCA1</span> or the <span class=\"concept\" data-cid=\"7783\">BRCA2 gene</span></li><li><span class=\"concept\" data-cid=\"250\">many ovulations</span>: <ul><li><span class=\"concept\" data-cid=\"7784\">early menarche</span></li><li><span class=\"concept\" data-cid=\"7785\">late menopause</span></li><li><span class=\"concept\" data-cid=\"7786\">nulliparity</span></li></ul></li><li>protective factors: multiple pregnancies, breastfeeding, use of the combined oral contraceptive pill</li><li>tubal ligation or salpingectomy are also associated with reduced risk</li></ul><br />Clinical features are notoriously <span class=\"concept\" data-cid=\"251\">vague</span><br /><ul><li>abdominal distension and bloating</li><li>abdominal and pelvic pain</li><li>urinary symptoms e.g. urgency</li><li>early satiety</li><li>diarrhoea</li><li>unexplained weight loss</li><li>fatigue</li><li>ascites</li></ul><br />Investigations<br /><ul><li>CA125<ul><li>NICE recommends a CA125 test is done initially. Endometriosis, menstruation, benign ovarian cysts and other conditions may also raise the CA125 level</li><li>if the CA125 is raised (35 IU/mL or greater) then an urgent ultrasound scan of the abdomen and pelvis should be ordered</li><li><span class=\"concept\" data-cid=\"9753\">a CA125 should not be used for screening for ovarian cancer in asymptomatic women</span></li></ul></li><li>ultrasound</li><li>if ascites or a pelvic mass is detected on examination, urgent referral via a suspected cancer pathway should be considered</li><li>in secondary care, the <span class=\"concept\" data-cid=\"3971\">Risk of Malignancy Index (RMI)</span> may be used to stratify risk and guide referral to a specialist centre</li></ul><br />Diagnosis<br /><ul><li><span class=\"concept\" data-cid=\"12427\">diagnostic laparoscopy</span><ul><li>allows direct visualisation of the pelvis, peritoneal surfaces and diaphragm</li><li>peritoneal washings and targeted biopsies can be taken to obtain histology</li><li>enables assessment of resectability</li><li>staging information gained at laparoscopy helps tailor subsequent surgical and systemic therapy decisions</li></ul></li></ul><br />Management<br /><ul><li>all patients should be managed through a specialist gynaecological oncology multidisciplinary team (MDT)</li><li>definitive treatment strategies<ul><li><b>primary cytoreductive surgery</b> (total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy \u00b1 bowel/peritoneal resection) followed by adjuvant platinum-based chemotherapy is preferred when optimal (<1 cm residual disease) debulking appears feasible</li><li>where optimal primary debulking is unlikely, <b>neoadjuvant chemotherapy</b> (usually 3 cycles of carboplatin and paclitaxel) is given first, followed by interval debulking surgery and further chemotherapy</li><li>intraperitoneal chemotherapy is rarely used in the UK but may be considered in selected centres</li></ul></li><li>systemic therapy enhancements<ul><li>bevacizumab (anti-VEGF monoclonal antibody) may be added to first-line chemotherapy in advanced disease</li><li>PARP inhibitors (e.g. olaparib, niraparib) are offered as maintenance therapy, particularly in <b>BRCA-mutated</b> or homologous-recombination-deficient tumours</li></ul></li><li>supportive and palliative care<ul><li>management of malignant ascites (paracentesis, indwelling peritoneal drains) and bowel obstruction</li></ul></li></ul><br />Prognosis<br /><ul><li>80% of women have advanced disease at presentation</li><li>the all-stage 5-year survival is <b>around 46%</b>, but varies significantly with stage at diagnosis</li></ul>",
+        "notes_hash": "a3a4664d3e8bc349410d3735da094908",
+        "knowledge_graph_node_id_link": 1021,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6107",
+        "up_votes": "31",
+        "down_votes": "38",
+        "column_array": [
+            0,
+            "77",
+            "61",
+            "5762",
+            "85",
+            "122",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Obstetricians and Gynaecologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_132\" data-linkid=\"132\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_132\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_132\" data-linkid=\"132\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_132\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg_62.pdf\">2011 Management of Suspected Ovarian Masses in Premenopausal Women</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_695\" data-linkid=\"695\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_695\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_695\" data-linkid=\"695\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_695\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nice.org.uk/guidance/cg122/chapter/1-Guidance\">2011 Ovarian cancer guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lCOnSW2hkV4\" data-description=\"Ovarian tumors\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"341\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/lCOnSW2hkV4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lCOnSW2hkV4\" data-description=\"Ovarian tumors\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"341\">Ovarian tumors</a></td></tr><tr><td><span ><small>12DaysinMarch - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_580\" data-mediaid=\"580\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_580\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_580\" data-mediaid=\"580\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_580\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sPWc2rDfhHU\" data-description=\"Sex cord-stromal ovarian cancer\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"333\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sPWc2rDfhHU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sPWc2rDfhHU\" data-description=\"Sex cord-stromal ovarian cancer\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"333\">Sex cord-stromal ovarian cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_563\" data-mediaid=\"563\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_563\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_563\" data-mediaid=\"563\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_563\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aDXkyhEnWBE\" data-description=\"Ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1461\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aDXkyhEnWBE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aDXkyhEnWBE\" data-description=\"Ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1461\">Ovarian cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2574\" data-mediaid=\"2574\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2574\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2574\" data-mediaid=\"2574\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2574\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/b/be/Epithelial_ovarian_cancer.webm\" data-description=\"Epithelial ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"332\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/b/be/Epithelial_ovarian_cancer.webm\" data-description=\"Epithelial ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"332\">Epithelial ovarian cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_562\" data-mediaid=\"562\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_562\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_562\" data-mediaid=\"562\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_562\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e9/Germ_cell_ovarian_cancer.webm\" data-description=\"Germ cell ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"991\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e9/Germ_cell_ovarian_cancer.webm\" data-description=\"Germ cell ovarian cancer\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"991\">Germ cell ovarian cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1731\" data-mediaid=\"1731\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1731\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1731\" data-mediaid=\"1731\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1731\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "250": {
+                "concept_text": "Ovarian cancer: risk factors relate to increased number of ovulations",
+                "concept_percentile": "86"
+            },
+            "7782": {
+                "concept_text": "Ovarian cancer - risk factors include: mutations of the BRCA1 gene",
+                "concept_percentile": "31"
+            },
+            "7783": {
+                "concept_text": "Ovarian cancer - risk factors include: mutations of the BRCA2 gene",
+                "concept_percentile": "63"
+            },
+            "7784": {
+                "concept_text": "Ovarian cancer - risk factors include: early menarche",
+                "concept_percentile": "52"
+            },
+            "7785": {
+                "concept_text": "Ovarian cancer - risk factors include: late menopause",
+                "concept_percentile": "21"
+            },
+            "7786": {
+                "concept_text": "Ovarian cancer - risk factors include: nulliparity",
+                "concept_percentile": "19"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_64",
+        "new_question_id": "2240",
+        "question_type": "1",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1298",
+        "theme": "Developmental milestones: speech and hearing",
+        "instruction": "For each of the following milestones select the average age at which a child attains the ability to perform the task",
+        "options": [
+            "",
+            "2-3 months",
+            "3-4 months",
+            "5-6 months",
+            "9-12 months",
+            "12-18 months",
+            "2 years",
+            "2.5 - 3 years",
+            "4 years",
+            "5 years",
+            ""
+        ],
+        "num_of_options": 9,
+        "questions": [
+            "Talk in short sentences (e.g. 3-5 words)",
+            "Ohvtunetkr hy 2-6 phkwl",
+            "Kxlihgwl mh maxbk hpg gtfx"
+        ],
+        "answers": [
+            "7",
+            "5",
+            "4"
+        ],
+        "notes": [
+            "The lower end of the range incorporates the MRCPCH milestones, which vary slightly from other respected resources including <i>From Birth to Five Years: Children's Developmental Progress</i>.",
+            "The higher end of the range incorporates the MRCPCH milestones, which vary slightly from other respected resources including <i>From Birth to Five Years: Children's Developmental Progress</i>.",
+            "The lower end of the range incorporates the MRCPCH milestones, which vary slightly from other respected resources including <i>From Birth to Five Years: Children's Developmental Progress</i>."
+        ],
+        "exam_specific_explanation": "",
+        "question": "Talk in short sentences (e.g. 3-5 words)",
+        "correct_answer": "7",
+        "question_notes": "The lower end of the range incorporates the MRCPCH milestones, which vary slightly from other respected resources including <i>From Birth to Five Years: Children's Developmental Progress</i>.",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Developmental milestones: speech and hearing",
+        "body": "The table below summarises the major speech and hearing developmental milestones<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Age</b></th><th><b>Milestone</b></th></tr></thead><tbody><tr><td>3 months</td><td><span class=\"concept\" data-cid=\"8615\">Quietens to parents voice</span><br /><span class=\"concept\" data-cid=\"8616\">Turns towards sound</span><br />Squeals</td></tr><tr><td>6 months</td><td><span class=\"concept\" data-cid=\"8617\">Double syllables 'adah', 'erleh'</span></td></tr><tr><td>9 months</td><td><span class=\"concept\" data-cid=\"8618\">Says 'mama' and 'dada'</span><br /><span class=\"concept\" data-cid=\"8619\">Understands 'no'</span></td></tr><tr><td>12 months</td><td><span class=\"concept\" data-cid=\"8620\">Knows and responds to own name</span></td></tr><tr><td>12-15 months</td><td>Knows about 2-6 words (Refer at 18 months)<br />Understands simple commands - 'give it to mummy'</td></tr><tr><td>2 years</td><td><span class=\"concept\" data-cid=\"8621\">Combine two words</span><br /><span class=\"concept\" data-cid=\"8622\">Points to parts of the body</span></td></tr><tr><td>2\u00bd years</td><td>Vocabulary of 200 words</td></tr><tr><td>3 years</td><td><span class=\"concept\" data-cid=\"8624\">Talks in short sentences (e.g. 3-5 words)</span><br />Asks 'what' and 'who' questions<br />Identifies colours<br />Counts to 10 (little appreciation of numbers though)</td></tr><tr><td>4 years</td><td><span class=\"concept\" data-cid=\"8623\">Asks 'why', 'when' and 'how' questions</span></td></tr></tbody></table></div>",
+        "notes_hash": "37c71b6eaa61835613626c47c4b5afae",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5074",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "2221",
+            "2478",
+            "2482",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>MRCPCH Clinical revision</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1137\" data-linkid=\"1137\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1137\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"link_dislike_1137\" data-linkid=\"1137\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1137\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://mrcpch.paediatrics.co.uk/wp-content/uploads/2014/06/Development-Assessment-MRCPCH-Website.pdf\">Summary of developmental schedule</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "8616": {
+                "concept_text": "Turns towards sound - 3 months",
+                "concept_percentile": "26"
+            },
+            "8617": {
+                "concept_text": "Use double syllables e.g. 'adah','erleh' - 6 months",
+                "concept_percentile": "18"
+            },
+            "8618": {
+                "concept_text": "Says 'mama' and 'dada' - 9 months",
+                "concept_percentile": "25"
+            },
+            "8620": {
+                "concept_text": "Knows and responds to own name - 12 months",
+                "concept_percentile": "26"
+            },
+            "8621": {
+                "concept_text": "Combine two words - 2 years",
+                "concept_percentile": "11"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "24421_B_10",
+        "new_question_id": "55487",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "165",
+        "notes_id_link": "1_1078",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "24-hour urinary free cortisol",
+            "Dexamethasone suppression test",
+            "Insulin tolerance test",
+            "Plasma cortisol",
+            "Short Synacthen test",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old woman presents to the GP with significant fatigue and malaise. Additionally, she has observed dark patches on her neck and palms. Her past medical history includes well-controlled Hashimoto's thyroiditis, for which she is on levothyroxine. Blood tests have excluded common causes of fatigue such as anaemia.<br /><br />What is the gold standard single test for the likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is the <b>short Synacthen test</b>. This patient is likely suffering from Addison's disease, with symptoms including fatigue and hyperpigmentation that are not attributable to other causes. Furthermore, her medical history of Hashimoto's thyroiditis\u2014an autoimmune thyroid disorder\u2014suggests an increased probability of concurrent autoimmune conditions such as Addison's disease. The short Synacthen test is the gold standard for diagnosing Addison's disease. It involves administering synthetic adrenocorticotropic hormone (ACTH) and measuring cortisol levels before and 30 minutes after ACTH administration. Typically, cortisol levels should rise following ACTH administration; however, in Addison's disease, this response is insufficient compared to normal adrenal function.<br /><br /><b> 24-hour urinary free cortisol</b> measurement is used in the diagnosis of Cushing's syndrome.<br /><br />The <b>dexamethasone suppression test</b> is part of the diagnostic workup for Cushing's syndrome.<br /><br />An <b>insulin tolerance test</b> evaluates the functionality of the hypothalamic-pituitary-adrenal axis and can be employed to assess levels of cortisol and growth hormone. Therefore, this test may aid in diagnosing conditions such as secondary adrenal insufficiency and growth hormone deficiency.<br /><br />Although <b>plasma cortisol</b> measurements can help diagnose both Addison's disease and Cushing's syndrome, they are more useful as an initial screening tool rather than a definitive diagnostic test for these conditions.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old woman presents to the GP with significant fatigue and malaise. Additionally, she has observed dark patches on her neck and palms. Her past medical history includes well-controlled Hashimoto's thyroiditis, for which she is on levothyroxine. Blood tests have excluded common causes of fatigue such as anaemia.<br /><br />What is the gold standard single test for the likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is the <b>short Synacthen test</b>. This patient is likely suffering from Addison's disease, with symptoms including fatigue and hyperpigmentation that are not attributable to other causes. Furthermore, her medical history of Hashimoto's thyroiditis\u2014an autoimmune thyroid disorder\u2014suggests an increased probability of concurrent autoimmune conditions such as Addison's disease. The short Synacthen test is the gold standard for diagnosing Addison's disease. It involves administering synthetic adrenocorticotropic hormone (ACTH) and measuring cortisol levels before and 30 minutes after ACTH administration. Typically, cortisol levels should rise following ACTH administration; however, in Addison's disease, this response is insufficient compared to normal adrenal function.<br /><br /><b> 24-hour urinary free cortisol</b> measurement is used in the diagnosis of Cushing's syndrome.<br /><br />The <b>dexamethasone suppression test</b> is part of the diagnostic workup for Cushing's syndrome.<br /><br />An <b>insulin tolerance test</b> evaluates the functionality of the hypothalamic-pituitary-adrenal axis and can be employed to assess levels of cortisol and growth hormone. Therefore, this test may aid in diagnosing conditions such as secondary adrenal insufficiency and growth hormone deficiency.<br /><br />Although <b>plasma cortisol</b> measurements can help diagnose both Addison's disease and Cushing's syndrome, they are more useful as an initial screening tool rather than a definitive diagnostic test for these conditions.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Addison's disease: investigations",
+        "body": "In a patient with suspected Addison's disease the definite investigation is an <span class=\"concept\" data-cid=\"165\">ACTH stimulation test (short Synacthen test)</span>. Plasma cortisol is measured before and 30 minutes after giving Synacthen 250ug IM. Adrenal autoantibodies such as anti-21-hydroxylase may also be demonstrated.<br /><br />If an ACTH stimulation test is not readily available (e.g. in primary care) then sending a 9 am serum cortisol can be useful:<br /><ul><li>> 500 nmol/l makes Addison's very unlikely</li><li>< 100 nmol/l is definitely abnormal</li><li><span class=\"concept\" data-cid=\"8956\">100-500 nmol/l should prompt a ACTH stimulation test to be performed</span></li></ul><br />Associated electrolyte abnormalities are seen in around one-third of undiagnosed patients:<br /><ul><li>hyperkalaemia</li><li>hyponatraemia</li><li>hypoglycaemia</li><li><span class=\"concept\" data-cid=\"166\">metabolic acidosis</span></li></ul>",
+        "notes_hash": "10501e282f17cb1bd5ec95539345a9c6",
+        "knowledge_graph_node_id_link": 1122,
+        "concept": "The short synacthen test is the best test to diagnose Addison's disease",
+        "concept_percentile": "87",
+        "concept_colour": "rgb(66,255,0)",
+        "number_attempts": "6204",
+        "up_votes": "10",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "382",
+            "933",
+            "365",
+            "162",
+            "4362",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1319\" data-linkid=\"1319\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1319\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1319\" data-linkid=\"1319\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1319\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/258\">2017 Adrenal insufficiency \u00e2\u20ac\u201c recognition and management </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1687\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1E0LcT-M1NY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1687\">Understanding Adrenal Insufficiency</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2861\" data-mediaid=\"2861\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2861\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2861\" data-mediaid=\"2861\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2861\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"2\" data-media=\"243\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wqJUifWOGEo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"2\" data-media=\"243\">Addison's disease</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_407\" data-mediaid=\"407\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_407\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_407\" data-mediaid=\"407\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_407\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"107\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"107\">Primary adrenal insufficiency (Addison's disease)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_189\" data-mediaid=\"189\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_189\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_189\" data-mediaid=\"189\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_189\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "165": {
+                "concept_text": "The short synacthen test is the best test to diagnose Addison's disease",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_9822",
+        "new_question_id": "50",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "10_112",
+        "theme": "Genetic causes of cancer",
+        "instruction": "Please select the most likely condition for the disease process described. Each option may be used once, more than once or not at all",
+        "options": [
+            "",
+            "Multiple endocrine neoplasia type I",
+            "Multiple endocrine neoplasia type II",
+            "Familial adenomatous polyposis",
+            "Hereditary non-polyposis colorectal cancer",
+            "Kartagener's syndrome",
+            "Neurofibromatosis type I",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 6,
+        "questions": [
+            "A 5-year-old boy presents with recurrent episodes of sinusitis. The casualty staff are surprised to find his liver lying in the left upper quadrant of the abdomen",
+            "Z 22-xdzq-nkc lzm oqdrdmsr vhsg bzqbhmnlz ne sgd bzdbtl. Ghr aqnsgdq chdc eqnl bnknqdbszk bzmbdq zfdc 25 zmc ghr ezsgdq chdc eqnl sgd chrdzrd zfdc 30.",
+            "Z szkk 32-xdzq-nkc kzcx oqdrdmsr vhsg z cheetrd mdbj rvdkkhmf z bzqbhmnlz ne sgd sgxqnhc ldctkkzqx sxod hr chzfmnrdc."
+        ],
+        "answers": [
+            "5",
+            "4",
+            "2"
+        ],
+        "notes": [
+            "This is a case of Kartagener's syndrome. The primary problem is of immotile cilia syndrome. When associated with situs inversus Kartagener's syndrome is diagnosed.",
+            "This is a case of Lynch syndrome HNPCC. It is transmitted in an autosomal dominant fashion.",
+            "This is a case MEN type IIb. It is associated with phaeochromocytomas  and is transmitted in an autosomal dominant pattern if inherited. All MEN II tend to have medullary carcinoma of the thyroid as a presenting feature"
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 5-year-old boy presents with recurrent episodes of sinusitis. The casualty staff are surprised to find his liver lying in the left upper quadrant of the abdomen",
+        "correct_answer": "5",
+        "question_notes": "This is a case of Kartagener's syndrome. The primary problem is of immotile cilia syndrome. When associated with situs inversus Kartagener's syndrome is diagnosed.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Genetics and surgical disease",
+        "body": "Some of the more commonly occurring genetic conditions occurring in surgical patients are presented here.<br /><br /><b>Li-Fraumeni Syndrome</b><br /><ul><li>Autosomal dominant </li><li>Consists of <span class=\"concept\" data-cid=\"9004\">germline mutations to p53 tumour suppressor gene</span></li><li>High incidence of malignancies particularly sarcomas and leukaemias</li><li>Diagnosed when:</li></ul><br />*Individual develops sarcoma under 45 years<br />*First degree relative diagnosed with any cancer below age 45 years and another family member develops malignancy under 45 years or sarcoma at any age<br /><br /><b>BRCA 1 and 2</b><br /><ul><li>Carried on chromosome 17 (BRCA 1) and Chromosome 13 (BRCA 2)</li><li>Linked to developing breast cancer (60%) risk.</li><li>Associated risk of developing ovarian cancer (55% with BRCA 1 and 25% with BRCA 2).</li><li><span class=\"concept\" data-cid=\"5000\">BRCA2 mutation is associated with prostate cancer in men</span></li></ul><br /><b>Lynch Syndrome</b><br /><ul><li>Autosomal dominant </li><li>Develop colonic cancer and endometrial cancer at young age</li><li>80% of affected individuals will get colonic and/ or endometrial cancer</li><li>High risk individuals may be identified using the Amsterdam criteria</li></ul><br /><b>Amsterdam criteria</b><br />Three or more family members with a confirmed diagnosis of colorectal cancer, one of whom is a first degree (parent, child, sibling) relative of the other two.<br />Two successive affected generations.<br />One or more colon cancers diagnosed under age 50 years.<br />Familial adenomatous polyposis (FAP) has been excluded.<br /><br /><b>Gardners syndrome</b><br /><ul><li>Autosomal dominant familial colorectal polyposis</li><li>Multiple colonic polyps</li><li>Extra colonic diseases include: skull osteoma, thyroid cancer and epidermoid cysts</li><li>Desmoid tumours are seen in 15%</li><li>Mutation of APC gene located on chromosome 5</li><li>Due to colonic polyps most patients will undergo colectomy to reduce risk of colorectal cancer</li><li>Now considered a variant of familial adenomatous polyposis coli</li></ul>",
+        "notes_hash": "4a4eaef002988e82c6489edc3c49a821",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "3842",
+        "up_votes": "8",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "3410",
+            "2484",
+            "2204",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "5000": {
+                "concept_text": "BRCA2 mutation is associated with prostate cancer in men",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_87",
+        "new_question_id": "8591",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "6506",
+        "notes_id_link": "1_448",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "C1-esterase deficiency (hereditary angioedema)",
+            "Allergic contact dermatitis",
+            "Peanut allergy",
+            "Latex allergy",
+            "Irritant contact dermatitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 15-year-old girl presents with an urticarial rash, angioedema and wheezing. Her mother states that she has just come from her younger sister's party where she had been helping to blow up balloons. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>latex allergy</b>. This patient's presentation is highly suggestive of a type I hypersensitivity reaction to latex exposure from handling balloons. The combination of urticaria, angioedema, and bronchospasm (wheezing) represents a classic allergic response mediated by IgE antibodies. Latex allergy is particularly common in healthcare workers and individuals with frequent exposure to latex products, and latex balloons are a well-known trigger.<br /><br /><b>C1-esterase deficiency</b> (hereditary angioedema) typically presents with recurrent episodes of non-pruritic angioedema without urticaria. Unlike this case, it is not triggered by latex exposure and is not associated with wheezing. It is an inherited condition caused by deficiency or dysfunction of C1 inhibitor protein.<br /><br /><b>Allergic contact dermatitis</b> is a type IV delayed hypersensitivity reaction that typically develops 24-48 hours after exposure to an allergen. It presents with erythema, vesicles, and pruritus but does not cause immediate angioedema or respiratory symptoms. Common triggers include nickel, fragrances, and topical medications.<br /><br /><b>Peanut allergy</b>, while capable of causing similar symptoms through a type I hypersensitivity reaction, is not relevant in this scenario as there is no history of peanut exposure. The temporal relationship with balloon inflation strongly points towards latex as the allergen.<br /><br /><b>Irritant contact dermatitis</b> is a non-immunological reaction caused by direct damage to the skin from exposure to irritants. It does not cause systemic symptoms such as angioedema or wheezing, and symptoms are typically confined to the area of contact. It presents with burning, stinging, and erythema rather than urticaria.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 15-year-old girl presents with an urticarial rash, angioedema and wheezing. Her mother states that she has just come from her younger sister's party where she had been helping to blow up balloons. What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>latex allergy</b>. This patient's presentation is highly suggestive of a type I hypersensitivity reaction to latex exposure from handling balloons. The combination of urticaria, angioedema, and bronchospasm (wheezing) represents a classic allergic response mediated by IgE antibodies. Latex allergy is particularly common in healthcare workers and individuals with frequent exposure to latex products, and latex balloons are a well-known trigger.<br /><br /><b>C1-esterase deficiency</b> (hereditary angioedema) typically presents with recurrent episodes of non-pruritic angioedema without urticaria. Unlike this case, it is not triggered by latex exposure and is not associated with wheezing. It is an inherited condition caused by deficiency or dysfunction of C1 inhibitor protein.<br /><br /><b>Allergic contact dermatitis</b> is a type IV delayed hypersensitivity reaction that typically develops 24-48 hours after exposure to an allergen. It presents with erythema, vesicles, and pruritus but does not cause immediate angioedema or respiratory symptoms. Common triggers include nickel, fragrances, and topical medications.<br /><br /><b>Peanut allergy</b>, while capable of causing similar symptoms through a type I hypersensitivity reaction, is not relevant in this scenario as there is no history of peanut exposure. The temporal relationship with balloon inflation strongly points towards latex as the allergen.<br /><br /><b>Irritant contact dermatitis</b> is a non-immunological reaction caused by direct damage to the skin from exposure to irritants. It does not cause systemic symptoms such as angioedema or wheezing, and symptoms are typically confined to the area of contact. It presents with burning, stinging, and erythema rather than urticaria.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hypersensitivity",
+        "body": "The Gell and Coombs classification divides hypersensitivity traditionally divides reactions into 4 types:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Type</th><th>Mechanism</th><th>Examples</th></tr></thead><tbody><tr><td><b>Type I - Anaphylactic</b></td><td>Antigen reacts with IgE bound to mast cells</td><td>&#8226; <span class=\"concept\" data-cid=\"6506\">Anaphylaxis</span><br />&#8226; Atopy (e.g. <span class=\"concept\" data-cid=\"6508\">asthma</span>, eczema and <span class=\"concept\" data-cid=\"6507\">hayfever</span>)</td></tr><tr><td><b>Type II - Cell bound</b></td><td>IgG or IgM binds to antigen on cell surface</td><td>&#8226; <span class=\"concept\" data-cid=\"6509\">Autoimmune haemolytic anaemia</span><br />&#8226; <span class=\"concept\" data-cid=\"6510\">ITP</span><br />&#8226; <span class=\"concept\" data-cid=\"6511\">Goodpasture's syndrome</span><br />&#8226; <span class=\"concept\" data-cid=\"6520\">Pernicious anaemia</span><br />&#8226; <span class=\"concept\" data-cid=\"6521\">Acute haemolytic transfusion reactions</span><br />&#8226; <span class=\"concept\" data-cid=\"6522\">Rheumatic fever</span><br />&#8226; Pemphigus vulgaris / <span class=\"concept\" data-cid=\"6523\">bullous pemphigoid</span></td></tr><tr><td><b>Type III - Immune complex</b></td><td>Free antigen and antibody (IgG, IgA) combine</td><td>&#8226; <span class=\"concept\" data-cid=\"6512\">Serum sickness</span><br />&#8226; <span class=\"concept\" data-cid=\"6513\">Systemic lupus erythematosus</span><br />&#8226; <span class=\"concept\" data-cid=\"6514\">Post-streptococcal glomerulonephritis</span><br />&#8226; <span class=\"concept\" data-cid=\"12344\">Hypersensitivity pneumonitis</span> (especially acute phase)<br />&#8226; Arthus reaction to vaccination</td></tr><tr><td><b>Type IV - Delayed hypersensitivity</b></td><td>T-cell mediated</td><td>&#8226; <span class=\"concept\" data-cid=\"6515\">Tuberculosis</span> / <span class=\"concept\" data-cid=\"6516\">tuberculin skin reaction</span><br />&#8226; <span class=\"concept\" data-cid=\"6517\">Graft versus host disease</span><br />&#8226; <span class=\"concept\" data-cid=\"6518\">Allergic contact dermatitis</span><br />&#8226; <span class=\"concept\" data-cid=\"6519\">Scabies</span><br />&#8226; Extrinsic allergic alveolitis (especially chronic phase)<br />&#8226; <span class=\"concept\" data-cid=\"6524\">Multiple sclerosis</span><br />&#8226; <span class=\"concept\" data-cid=\"6525\">Guillain-Barre syndrome</span></td></tr></tbody></table></div><br />In recent times a further category has been added:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Type</th><th>Mechanism</th><th>Examples</th></tr></thead><tbody><tr><td><b>Type V</b></td><td>Antibodies that recognise and bind to the cell surface receptors. <br /><br />This either stimulating them or blocking ligand binding</td><td>&#8226; Graves' disease<br />&#8226; Myasthenia gravis</td></tr></tbody></table></div>",
+        "notes_hash": "43a707cb78b3aee00e14aa5aa472926b",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Type I hypersensitivity reaction - anaphylaxis",
+        "concept_percentile": "59",
+        "concept_colour": "rgb(209,255,0)",
+        "number_attempts": "4929",
+        "up_votes": "26",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "392",
+            "322",
+            "122",
+            "4004",
+            "89",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mwpIow3yz9Y\" data-description=\"Serum sickness\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"485\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/mwpIow3yz9Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mwpIow3yz9Y\" data-description=\"Serum sickness\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"485\">Serum sickness</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_851\" data-mediaid=\"851\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_851\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_851\" data-mediaid=\"851\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_851\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2f/Type_I_Hypersensitivity.webm\" data-description=\"Type I hypersensitivity\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"196\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2f/Type_I_Hypersensitivity.webm\" data-description=\"Type I hypersensitivity\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"196\">Type I hypersensitivity</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_325\" data-mediaid=\"325\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_325\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_325\" data-mediaid=\"325\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_325\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/29/Type_III_hypersensivity.webm\" data-description=\"Type III hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"198\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/29/Type_III_hypersensivity.webm\" data-description=\"Type III hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"198\">Type III hypersensitivity</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_327\" data-mediaid=\"327\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_327\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_327\" data-mediaid=\"327\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_327\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dSM-TwWTtV0\" data-description=\"Type II Hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"578\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/dSM-TwWTtV0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dSM-TwWTtV0\" data-description=\"Type II Hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"578\">Type II Hypersensitivity</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_987\" data-mediaid=\"987\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_987\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_987\" data-mediaid=\"987\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_987\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/0b/Type_IV_hypersensitivity.webm\" data-description=\"Type IV hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"199\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/0b/Type_IV_hypersensitivity.webm\" data-description=\"Type IV hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"199\">Type IV hypersensitivity</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_328\" data-mediaid=\"328\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_328\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_328\" data-mediaid=\"328\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_328\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Em0Wi07dj4E\" data-description=\"Type II hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1085\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Em0Wi07dj4E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Em0Wi07dj4E\" data-description=\"Type II hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1085\">Type II hypersensitivity</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1883\" data-mediaid=\"1883\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1883\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1883\" data-mediaid=\"1883\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1883\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kLaUz58CBMc\" data-description=\"Type II hypersensitivity\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"197\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/kLaUz58CBMc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kLaUz58CBMc\" data-description=\"Type II hypersensitivity\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"197\">Type II hypersensitivity</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_326\" data-mediaid=\"326\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_326\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_326\" data-mediaid=\"326\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_326\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CjRAkawBRaI\" data-description=\"Type I Hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"579\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CjRAkawBRaI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CjRAkawBRaI\" data-description=\"Type I Hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"579\">Type I Hypersensitivity</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_988\" data-mediaid=\"988\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_988\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_988\" data-mediaid=\"988\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_988\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-_yUsZO6Vio\" data-description=\"Type III Hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"577\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-_yUsZO6Vio/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-_yUsZO6Vio\" data-description=\"Type III Hypersensitivity\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"577\">Type III Hypersensitivity</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_986\" data-mediaid=\"986\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_986\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_986\" data-mediaid=\"986\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_986\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kQFmrQfBW5k\" data-description=\"Type IV Hypersensitivity\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"576\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/kQFmrQfBW5k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kQFmrQfBW5k\" data-description=\"Type IV Hypersensitivity\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"576\">Type IV Hypersensitivity</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_985\" data-mediaid=\"985\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_985\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_985\" data-mediaid=\"985\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_985\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nQYATo46FfY\" data-description=\"Type I hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1084\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nQYATo46FfY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nQYATo46FfY\" data-description=\"Type I hypersensitivity\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1084\">Type I hypersensitivity</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1882\" data-mediaid=\"1882\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1882\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1882\" data-mediaid=\"1882\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1882\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "6506": {
+                "concept_text": "Type I hypersensitivity reaction - anaphylaxis",
+                "concept_percentile": "59"
+            },
+            "6507": {
+                "concept_text": "Type I hypersensitivity reaction - hayfever",
+                "concept_percentile": "4"
+            },
+            "6508": {
+                "concept_text": "Type I hypersensitivity reaction - asthma",
+                "concept_percentile": "26"
+            },
+            "6509": {
+                "concept_text": "Type II hypersensitivity reaction - autoimmune haemolytic anaemia",
+                "concept_percentile": "10"
+            },
+            "6510": {
+                "concept_text": "Type II hypersensitivity reaction - ITP",
+                "concept_percentile": "9"
+            },
+            "6511": {
+                "concept_text": "Type II hypersensitivity reaction - Goodpasture's syndrome",
+                "concept_percentile": "11"
+            },
+            "6512": {
+                "concept_text": "Type III hypersensitivity reaction - serum sickness",
+                "concept_percentile": "3"
+            },
+            "6513": {
+                "concept_text": "Type III hypersensitivity reaction - systemic lupus erythematosus",
+                "concept_percentile": "10"
+            },
+            "6514": {
+                "concept_text": "Type III hypersensitivity reaction - post-streptococcal glomerulonephritis",
+                "concept_percentile": "11"
+            },
+            "6515": {
+                "concept_text": "Type IV hypersensitivity reaction - tuberculosis",
+                "concept_percentile": "5"
+            },
+            "6516": {
+                "concept_text": "Type IV hypersensitivity reaction - tuberculin skin reaction",
+                "concept_percentile": "6"
+            },
+            "6517": {
+                "concept_text": "Type IV hypersensitivity reaction - graft versus host disease",
+                "concept_percentile": "7"
+            },
+            "6518": {
+                "concept_text": "Type IV hypersensitivity reaction - allergic contact dermatitis",
+                "concept_percentile": "37"
+            },
+            "6519": {
+                "concept_text": "Type IV hypersensitivity reaction - scabies",
+                "concept_percentile": "4"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "10510_B_186",
+        "new_question_id": "28003",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "10498",
+        "notes_id_link": "1_2575",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amenorrhoea",
+            "Endometrial cancer",
+            "Osteoporosis",
+            "Vaginal bleeding",
+            "Venous thromboembolism",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 73-year-old woman is referred to the breast clinic with a painless lump in her left breast. She undergoes triple assessment and is subsequently diagnosed with oestrogen receptor-positive breast cancer. Her oncologist starts her on anastrozole as treatment.<br /><br />Which of the following does this medication increase her risk of?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is 'osteoporosis'.<br /><br />Anastrozole is an aromatase inhibitor used for the treatment of oestrogen receptor-positive breast cancer in postmenopausal women, such as this patient. Aromatase inhibitors reduce peripheral oestrogen synthesis, which accounts for the majority of oestrogen production in postmenopausal women. Patients taking these medications are at an increased risk of osteoporosis.<br /><br />Amenorrhoea, endometrial cancer, vaginal bleeding and venous thromboembolism are all potential side effects of selective oestrogen receptor modulators (SERM) such as tamoxifen. Tamoxifen is used to treat oestrogen receptor-positive breast cancer in pre-menopausal women.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 73-year-old woman is referred to the breast clinic with a painless lump in her left breast. She undergoes triple assessment and is subsequently diagnosed with oestrogen receptor-positive breast cancer. Her oncologist starts her on anastrozole as treatment.<br /><br />Which of the following does this medication increase her risk of?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is 'osteoporosis'.<br /><br />Anastrozole is an aromatase inhibitor used for the treatment of oestrogen receptor-positive breast cancer in postmenopausal women, such as this patient. Aromatase inhibitors reduce peripheral oestrogen synthesis, which accounts for the majority of oestrogen production in postmenopausal women. Patients taking these medications are at an increased risk of osteoporosis.<br /><br />Amenorrhoea, endometrial cancer, vaginal bleeding and venous thromboembolism are all potential side effects of selective oestrogen receptor modulators (SERM) such as tamoxifen. Tamoxifen is used to treat oestrogen receptor-positive breast cancer in pre-menopausal women.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Anti-oestrogen drugs",
+        "body": "<h5 class='notes-heading'>Selective oEstrogen Receptor Modulators (SERM)</h5><br />Tamoxifen is a SERM which acts as an oestrogen receptor antagonist and partial agonist. It is used in the management of <span class=\"concept\" data-cid=\"5226\">oestrogen receptor-positive breast cancer</span>.<br /><br />Adverse effects<br /><ul><li>menstrual disturbance: vaginal bleeding, amenorrhoea</li><li>hot flushes - 3% of patients stop taking tamoxifen due to climacteric side-effects</li><li>venous thromboembolism</li><li>endometrial cancer</li></ul><br /><br /><h5 class='notes-heading'>Aromatase inhibitors</h5><br />Anastrozole and letrozole are <span class=\"concept\" data-cid=\"10990\">aromatase inhibitors that reduces peripheral oestrogen synthesis</span>. This is important as aromatisation accounts for the majority of oestrogen production in <span class=\"concept\" data-cid=\"4931\">postmenopausal women and therefore anastrozole is used for ER +ve breast cancer in this group</span>.<br /><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"10498\">osteoporosis</span><ul><li><span class=\"concept\" data-cid=\"10641\">NICE recommends a DEXA scan when initiating a patient on aromatase inhibitors for breast cancer</span></li></ul></li><li>hot flushes</li><li>arthralgia, myalgia</li><li>insomnia</li></ul>",
+        "notes_hash": "bc26f9f0d2cd573ebb75210486cecc5e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Aromatase inhibitors (e.g. anastrozole) may cause osteoporosis",
+        "concept_percentile": "55",
+        "concept_colour": "rgb(229,255,0)",
+        "number_attempts": "5606",
+        "up_votes": "46",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "53",
+            "1131",
+            "3273",
+            "124",
+            "1025",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1656\" data-linkid=\"1656\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1656\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1656\" data-linkid=\"1656\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1656\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/anastrozole.html\">Anastrozole </a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1655\" data-linkid=\"1655\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1655\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_1655\" data-linkid=\"1655\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1655\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/tamoxifen.html\">Tamoxifen</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1OJQsP_9i_I\" data-description=\"Aromatase inhibitors\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1453\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1OJQsP_9i_I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1OJQsP_9i_I\" data-description=\"Aromatase inhibitors\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1453\">Aromatase inhibitors</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2565\" data-mediaid=\"2565\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2565\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2565\" data-mediaid=\"2565\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2565\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4931": {
+                "concept_text": "Aromatase inhibitors are used in the treatment of ER +ve breast cancer in post-menopausal women",
+                "concept_percentile": "21"
+            },
+            "5226": {
+                "concept_text": "Tamoxifen is used in the management of oestrogen receptor-positive breast cancer in pre-menopausal women",
+                "concept_percentile": "37"
+            },
+            "10498": {
+                "concept_text": "Aromatase inhibitors (e.g. anastrozole) may cause osteoporosis",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_77",
+        "new_question_id": "3645",
+        "question_type": "1",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1622",
+        "theme": "Sectioning under the Mental Health Act",
+        "instruction": "For each of the following select the above section of the Mental Health Act which is applicable",
+        "options": [
+            "",
+            "Section 2",
+            "Section 3",
+            "Section 4",
+            "Section 5(2)",
+            "Section 5(4)",
+            "Section 135",
+            "Section 136",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 7,
+        "questions": [
+            "Allows admission for treatment for up to 6 months",
+            "Kvvygc zyvsmo dy dkuo cywoyxo gry kzzokbc dy lo woxdkvvi svv pbyw k zelvsm zvkmo dy dro Owobqoxmi Nozkbdwoxd",
+            "72 ryeb kccoccwoxd ybnob pyb k zkdsoxd gry sc xyd sx ryczsdkv"
+        ],
+        "answers": [
+            "2",
+            "7",
+            "3"
+        ],
+        "notes": [
+            "",
+            "The 'Place of Safety' referred to in sections 135 & 136 also includes Police Stations but in practice this is rarely done",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Allows admission for treatment for up to 6 months",
+        "correct_answer": "2",
+        "question_notes": "",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Sectioning under the Mental Health Act",
+        "body": "This is used for someone who will not be admitted voluntarily. Patients who are under the influence of alcohol or drugs are specifically excluded<br /><br />Section 2<br /><ul><li>admission for assessment for up to 28 days, not renewable</li><li>an Approved Mental Health Professional (AMHP) or rarely the nearest relative (NR) makes the application on the recommendation of 2 doctors</li><li>one of the doctors should be 'approved' under Section 12(2) of the Mental Health Act (usually a consultant psychiatrist)</li><li><span class=\"concept\" data-cid=\"10030\">treatment can be given against a patient's wishes</span></li></ul><br />Section 3<br /><ul><li>admission for treatment for up to 6 months, can be renewed</li><li>AMHP along with 2 doctors, both of which must have seen the patient within the past 24 hours</li><li><span class=\"concept\" data-cid=\"10030\">treatment can be given against a patient's wishes</span></li></ul><br />Section 4<br /><ul><li>72 hour assessment order</li><li>used as an emergency, when a section 2 would involve an unacceptable delay</li><li>a GP and an AMHP or NR</li><li>often changed to a section 2 upon arrival at hospital</li></ul><br />Section 5(2)<br /><ul><li>a patient who is a voluntary patient in hospital can be legally detained by a doctor for 72 hours</li></ul><br />Section 5(4)<br /><ul><li>similar to section 5(2), allows a nurse to detain a patient who is voluntarily in hospital for 6 hours</li></ul><br />Section 17a<br /><ul><li>Supervised Community Treatment (Community Treatment Order)</li><li><span class=\"concept\" data-cid=\"10028\">can be used to recall a patient to hospital for treatment if they do not comply with conditions of the order in the community, such as complying with medication</span> </li></ul><br />Section 135<br /><ul><li>a court order can be obtained to allow the police to break into a property to remove a person to a Place of Safety</li></ul><br />Section 136<br /><ul><li>someone found in a public place who appears to have a mental disorder can be taken by the police to a Place of Safety</li><li><span class=\"concept\" data-cid=\"10029\">can only be used for up to 24 hours, whilst a Mental Health Act assessment is arranged</span></li></ul>",
+        "notes_hash": "e9b35e851b3d04042cc752b60be36fe2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5519",
+        "up_votes": "45",
+        "down_votes": "60",
+        "column_array": [
+            0,
+            "4003",
+            "3837",
+            "2521",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W7E_EaXWvgw\" data-description=\"Mental Health Act Made Simple (Most Commonly Used Sections)\" data-upvotes=\"47\" data-downvotes=\"1\" data-media=\"1371\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W7E_EaXWvgw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W7E_EaXWvgw\" data-description=\"Mental Health Act Made Simple (Most Commonly Used Sections)\" data-upvotes=\"47\" data-downvotes=\"1\" data-media=\"1371\">Mental Health Act Made Simple (Most Commonly Used Sections)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2410\" data-mediaid=\"2410\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2410\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">47</span><button type=\"button\" style=\"\" id=\"media_dislike_2410\" data-mediaid=\"2410\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2410\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "10028": {
+                "concept_text": "A community treatment order (CTO) can be used to recall a patient to hospital for treatment if they do not comply with conditions of the order in the community, such as complying with medication",
+                "concept_percentile": "43"
+            },
+            "10029": {
+                "concept_text": "A Section 136 can only be used for up to 24 hours, whilst a Mental Health Act assessment is arranged",
+                "concept_percentile": "50"
+            },
+            "10030": {
+                "concept_text": "Treatment can be given against a patient's wishes if they are under a section 2 or 3",
+                "concept_percentile": "64"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

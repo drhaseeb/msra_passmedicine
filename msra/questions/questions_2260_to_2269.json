@@ -1,0 +1,933 @@
+[
+    {
+        "question_id": "9290_B_16",
+        "new_question_id": "20836",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "3124",
+        "notes_id_link": "1_1524",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "30 minutes after ingestion",
+            "1 hours after ingestion",
+            "2 hours after ingestion",
+            "4 hours after ingestion",
+            "6 hours after ingestion",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old-man attends the emergency department having taken a deliberate overdose of paracetamol. He states that he took 26 tablets, each containing 500 milligrams of paracetamol. He took the tablets all at once, with intention to end his life. He now regrets taking the tablets and wishes to have full medical treatment.<br /><br />You decide that you will need to take a paracetamol level to guide further treatment. What is the minimum time after ingestion of the tablets that a paracetamol level can be used to guide treatment with acetylcysteine?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "A plasma paracetamol level taken less than four hours since ingestion can underestimate the total ingestion of paracetamol, as the drug is still being absorbed from the gastrointestinal tract at this point. Therefore, it is important to wait until this point to take a blood sample, which can then be plotted on the treatment nomogram.<br /><br />Patients who present within one hour of ingestion may benefit from activated charcoal to reduce absorption of the drug. However, a paracetamol level at this stage is of limited value.<br /><br />Patients who have an unknown ingestion time or who present having taken a staggered overdose might be started on acetylcysteine regardless of their paracetamol level. A staggered overdose refers to an overdose where the tablets are taken over a period of greater than an hour.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old-man attends the emergency department having taken a deliberate overdose of paracetamol. He states that he took 26 tablets, each containing 500 milligrams of paracetamol. He took the tablets all at once, with intention to end his life. He now regrets taking the tablets and wishes to have full medical treatment.<br /><br />You decide that you will need to take a paracetamol level to guide further treatment. What is the minimum time after ingestion of the tablets that a paracetamol level can be used to guide treatment with acetylcysteine?",
+        "correct_answer": "4",
+        "question_notes": "A plasma paracetamol level taken less than four hours since ingestion can underestimate the total ingestion of paracetamol, as the drug is still being absorbed from the gastrointestinal tract at this point. Therefore, it is important to wait until this point to take a blood sample, which can then be plotted on the treatment nomogram.<br /><br />Patients who present within one hour of ingestion may benefit from activated charcoal to reduce absorption of the drug. However, a paracetamol level at this stage is of limited value.<br /><br />Patients who have an unknown ingestion time or who present having taken a staggered overdose might be started on acetylcysteine regardless of their paracetamol level. A staggered overdose refers to an overdose where the tablets are taken over a period of greater than an hour.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Paracetamol overdose: management",
+        "body": "The following is based on 2012 Commission on Human Medicines (CHM) review of paracetamol overdose management. The big change in these guidelines was the removal of the 'high-risk' treatment line on the normogram. All patients are therefore treated the same regardless of risk factors for hepatotoxicity. The National Poisons Information Service/TOXBASE should always be consulted for situations outside of the normal parameters.<br /><br />The minority of patients who <span class=\"concept\" data-cid=\"9725\">present within 1 hour may benefit from activated charcoal to reduce absorption of the drug</span>.<br /><br />Acetylcysteine should be given if:<br /><ul><li>the plasma paracetamol concentration is on or above a single treatment line joining points of 100 mg/L at 4 hours and 15 mg/L at 15 hours, regardless of risk factors of hepatotoxicity</li><li>there is a <span class=\"concept\" data-cid=\"3125\">staggered overdose</span>* or there is doubt over the time of paracetamol ingestion, regardless of the plasma paracetamol concentration; or</li><li><span class=\"concept\" data-cid=\"11854\">patients who present 8-24 hours</span> after ingestion of an acute overdose of more than 150 mg/kg of paracetamol even if the plasma-paracetamol concentration is not yet available</li><li><span class=\"concept\" data-cid=\"11855\">patients who present > 24 hours</span> if they are clearly jaundiced or have hepatic tenderness, their ALT is above the upper limit of normal<ul><li><span class=\"concept\" data-cid=\"11856\">acetylcysteine should be continued if the paracetamol concentration or ALT remains elevated</span> whilst seeking specialist advice</li></ul></li></ul><br />Acetylcysteine is now infused over 1 hour (rather than the previous 15 minutes) to reduce the number of adverse effects. <span class=\"concept\" data-cid=\"2674\">Acetylcysteine commonly causes an anaphylactoid reaction (non-IgE mediated mast cell release)</span>. <span class=\"concept\" data-cid=\"2675\">Anaphylactoid reactions to IV acetylcysteine are generally treated by stopping the infusion, then restarting at a slower rate</span>.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><h5 class='notes-heading'>King's College Hospital criteria for liver transplantation (paracetamol liver failure)</h5><br /><span class=\"concept\" data-cid=\"11439\">Arterial pH</span> <span class=\"concept\" data-cid=\"11440\">< 7.3, 24 hours after ingestion</span><br /><br />or all of the following:<br /><ul><li>prothrombin time > 100 seconds</li><li>creatinine > 300 \u00b5mol/l</li><li>grade III or IV encephalopathy</th></tr></thead><tbody></tbody></table></div></li></ul><br />*an overdose is considered staggered if all the tablets were not taken within 1 hour",
+        "notes_hash": "4911000a286e8bba54b991d5bc9bab33",
+        "knowledge_graph_node_id_link": 11395,
+        "concept": "Plasma paracetamol levels obtained less than 4 hours since ingestion cannot be interpreted",
+        "concept_percentile": "57",
+        "concept_colour": "rgb(219,255,0)",
+        "number_attempts": "6752",
+        "up_votes": "33",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "190",
+            "732",
+            "472",
+            "4960",
+            "398",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Medicines and Healthcare products Regulatory Agency</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_662\" data-linkid=\"662\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_662\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_662\" data-linkid=\"662\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_662\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/drug-safety-update/treating-paracetamol-overdose-with-intravenous-acetylcysteine-new-guidance\">2012 Paracetamol overdose update</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3125": {
+                "concept_text": "Patients who take a staggered paracetamol overdose should receive treatment with acetylcysteine",
+                "concept_percentile": "85"
+            },
+            "11440": {
+                "concept_text": "Liver transplantation criteria in paracetamol overdose: pH < 7.3 more than 24 hours after ingestion",
+                "concept_percentile": "73"
+            },
+            "11854": {
+                "concept_text": "Paracetamol overdose: if presentation 8-24 hours after ingestion of an overdose of more than 150 mg/kg start acetylcysteine even if the plasma-paracetamol concentration is not yet available",
+                "concept_percentile": "46"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1659",
+        "new_question_id": "5866",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1940",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "ACE inhibitor therapy",
+            "Beta-blocker therapy",
+            "Furosemide therapy",
+            "Obesity",
+            "COPD",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You have ordered a B-type natriuretic peptide (BNP) test on a patient with suspected heart failure. It has come back as being slightly elevated. Which one of the following factors may account for a falsely elevated BNP?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>COPD</b>. Chronic Obstructive Pulmonary Disease (COPD) can cause falsely elevated B-type natriuretic peptide (BNP) levels. BNP is primarily released from ventricular myocytes in response to increased wall tension and volume overload. In COPD, particularly during exacerbations, patients can develop pulmonary hypertension and right ventricular strain, which can lead to increased BNP production. Additionally, the hypoxia and inflammatory state associated with COPD can directly stimulate BNP release. This means that when interpreting BNP results in patients with COPD, clinicians should consider that values may be elevated due to the underlying respiratory condition rather than heart failure alone.<br /><br /><b>ACE inhibitor therapy</b> is incorrect. Angiotensin-converting enzyme (ACE) inhibitors actually tend to reduce BNP levels rather than increase them. ACE inhibitors decrease cardiac preload and afterload, reducing ventricular wall stress and thereby decreasing the stimulus for BNP release. In patients with heart failure, ACE inhibitors are a cornerstone of therapy precisely because they reduce ventricular strain and improve cardiac remodelling. Therefore, ACE inhibitor therapy would not account for a falsely elevated BNP.<br /><br /><b>Beta-blocker therapy</b> is incorrect. Similar to ACE inhibitors, beta-blockers typically reduce BNP levels in patients with heart failure over time. By blocking sympathetic stimulation of the heart, beta-blockers reduce heart rate, blood pressure, and myocardial oxygen demand, which leads to decreased ventricular wall stress. This results in reduced BNP production rather than elevation. Beta-blockers are an essential component of heart failure management and would not cause falsely elevated BNP readings.<br /><br /><b>Furosemide therapy</b> is incorrect. Furosemide is a loop diuretic that reduces preload by increasing urinary sodium and water excretion. This reduction in preload decreases ventricular filling pressures and wall stress, which should lead to a reduction in BNP levels rather than an elevation. In heart failure management, diuretics like furosemide are used to relieve congestion, and successful diuresis is often associated with falling BNP levels as the heart's workload decreases.<br /><br /><b>Obesity</b> is incorrect, but in an interesting way. Obesity is actually associated with lower BNP levels, not elevated ones. Adipose tissue contains natriuretic peptide clearance receptors that increase the clearance of BNP from circulation. This means that obese patients may have falsely low BNP levels relative to their degree of heart failure, not falsely elevated ones. Clinicians should consider using lower diagnostic thresholds for BNP when evaluating obese patients for heart failure.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You have ordered a B-type natriuretic peptide (BNP) test on a patient with suspected heart failure. It has come back as being slightly elevated. Which one of the following factors may account for a falsely elevated BNP?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>COPD</b>. Chronic Obstructive Pulmonary Disease (COPD) can cause falsely elevated B-type natriuretic peptide (BNP) levels. BNP is primarily released from ventricular myocytes in response to increased wall tension and volume overload. In COPD, particularly during exacerbations, patients can develop pulmonary hypertension and right ventricular strain, which can lead to increased BNP production. Additionally, the hypoxia and inflammatory state associated with COPD can directly stimulate BNP release. This means that when interpreting BNP results in patients with COPD, clinicians should consider that values may be elevated due to the underlying respiratory condition rather than heart failure alone.<br /><br /><b>ACE inhibitor therapy</b> is incorrect. Angiotensin-converting enzyme (ACE) inhibitors actually tend to reduce BNP levels rather than increase them. ACE inhibitors decrease cardiac preload and afterload, reducing ventricular wall stress and thereby decreasing the stimulus for BNP release. In patients with heart failure, ACE inhibitors are a cornerstone of therapy precisely because they reduce ventricular strain and improve cardiac remodelling. Therefore, ACE inhibitor therapy would not account for a falsely elevated BNP.<br /><br /><b>Beta-blocker therapy</b> is incorrect. Similar to ACE inhibitors, beta-blockers typically reduce BNP levels in patients with heart failure over time. By blocking sympathetic stimulation of the heart, beta-blockers reduce heart rate, blood pressure, and myocardial oxygen demand, which leads to decreased ventricular wall stress. This results in reduced BNP production rather than elevation. Beta-blockers are an essential component of heart failure management and would not cause falsely elevated BNP readings.<br /><br /><b>Furosemide therapy</b> is incorrect. Furosemide is a loop diuretic that reduces preload by increasing urinary sodium and water excretion. This reduction in preload decreases ventricular filling pressures and wall stress, which should lead to a reduction in BNP levels rather than an elevation. In heart failure management, diuretics like furosemide are used to relieve congestion, and successful diuresis is often associated with falling BNP levels as the heart's workload decreases.<br /><br /><b>Obesity</b> is incorrect, but in an interesting way. Obesity is actually associated with lower BNP levels, not elevated ones. Adipose tissue contains natriuretic peptide clearance receptors that increase the clearance of BNP from circulation. This means that obese patients may have falsely low BNP levels relative to their degree of heart failure, not falsely elevated ones. Clinicians should consider using lower diagnostic thresholds for BNP when evaluating obese patients for heart failure.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Chronic heart failure: diagnosis",
+        "body": "NICE issued updated guidelines on diagnosis and management in 2018. Previously the first-line investigation was determined by whether the patient has previously had a myocardial infarction or not this is no longer the case - all patients should have an N-terminal pro-B-type natriuretic peptide (<span class=\"concept\" data-cid=\"8594\">NT-proBNP</span>) blood test first-line.<br /><br />Interpreting the test<br /><ul><li><span class=\"concept\" data-cid=\"10249\">if levels are 'high' arrange specialist assessment (including transthoracic echocardiography) within 2 weeks</span></li><li>if levels are 'raised' arrange specialist assessment (including transthoracic echocardiography) echocardiogram within 6 weeks</li></ul><br /><h5 class='notes-heading'>Serum natriuretic peptides</h5><br />B-type natriuretic peptide (BNP) is a hormone produced mainly by the left ventricular myocardium in response to strain. Very high levels are associated with a poor prognosis.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>BNP </b></th><th><b>NTproBNP</b></th></tr></thead><tbody><tr><td><b>High levels</b></td><td>> 400 pg/ml (116 pmol/litre)</td><td>> 2000 pg/ml (236 pmol/litre)</td></tr><tr><td><b>Raised levels</b></td><td>100-400 pg/ml (29-116 pmol/litre)</td><td>400-2000 pg/ml (47-236 pmol/litre)</td></tr><tr><td><b>Normal levels</b></td><td>< 100 pg/ml (29 pmol/litre)</td><td>< 400 pg/ml (47 pmol/litre)</td></tr></tbody></table></div><br />Factors which alter the BNP level:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Increase BNP levels</b></th><th><b>Decrease BNP levels</b></th></tr></thead><tbody><tr><td>Left ventricular hypertrophy<br />Ischaemia<br />Tachycardia<br />Right ventricular overload<br />Hypoxaemia (including pulmonary embolism)<br />GFR < 60 ml/min<br />Sepsis<br />COPD<br />Diabetes<br />Age > 70<br />Liver cirrhosis</td><td>Obesity<br />Diuretics<br />ACE inhibitors<br />Beta-blockers<br />Angiotensin 2 receptor blockers<br />Aldosterone antagonists</td></tr></tbody></table></div>",
+        "notes_hash": "983781c5cd37efead0a2a1d49de41456",
+        "knowledge_graph_node_id_link": 1072,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6773",
+        "up_votes": "65",
+        "down_votes": "78",
+        "column_array": [
+            0,
+            "1030",
+            "420",
+            "670",
+            "2059",
+            "2594",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>7 minute medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1396\" data-linkid=\"1396\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1396\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1396\" data-linkid=\"1396\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1396\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://anchor.fm/7minutemedics/episodes/Episode-1---Heart-Failure-e2cps2\">Basics of heart failure - podcast</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_722\" data-linkid=\"722\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_722\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_722\" data-linkid=\"722\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_722\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng106/chapter/Recommendations\">2018 Chronic heart failure guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q2t9sFITAIY\" data-description=\"Chronic Heart Failure: Visual Explanation for Students\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"775\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/q2t9sFITAIY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q2t9sFITAIY\" data-description=\"Chronic Heart Failure: Visual Explanation for Students\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"775\">Chronic Heart Failure: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1348\" data-mediaid=\"1348\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1348\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1348\" data-mediaid=\"1348\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1348\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ifxS8JMJR6k\" data-description=\"Heart failure\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"914\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ifxS8JMJR6k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ifxS8JMJR6k\" data-description=\"Heart failure\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"914\">Heart failure</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1585\" data-mediaid=\"1585\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1585\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1585\" data-mediaid=\"1585\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1585\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ItKGeEbzAis\" data-description=\"Heart failure with reduced and preserved ejection fraction\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1467\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ItKGeEbzAis/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ItKGeEbzAis\" data-description=\"Heart failure with reduced and preserved ejection fraction\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1467\">Heart failure with reduced and preserved ejection fraction</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2583\" data-mediaid=\"2583\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2583\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2583\" data-mediaid=\"2583\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2583\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "8594": {
+                "concept_text": "All patients with suspected chronic heart failure should have an NT-proBNP test first-line",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4712_B_66",
+        "new_question_id": "14084",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "2823",
+        "notes_id_link": "1_1492",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Measles",
+            "Henoch-Schonlein purpura",
+            "Juvenile idiopathic arthritis",
+            "Meningitis",
+            "Systemic lupus erythematosus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 12-year-old female presents to her GP with bilateral knee pain, swelling and stiffness. On examination, a salmon-pink rash is noted on the legs.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Joint pain with a <b>salmon-pink rash</b> is characteristic of <b>juvenile idiopathic arthritis</b>. Henoch-Schonlein purpura can cause joint pain, but the rash is palpable and purpuric. Meningitis causes a non-blanching purpuric rash with no joint pain. Systemic lupus erythematosus can cause joint pain and rash but is unusual in children and the rash is usually on the face. Measles can cause a pink rash but not joint pain.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 12-year-old female presents to her GP with bilateral knee pain, swelling and stiffness. On examination, a salmon-pink rash is noted on the legs.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Joint pain with a <b>salmon-pink rash</b> is characteristic of <b>juvenile idiopathic arthritis</b>. Henoch-Schonlein purpura can cause joint pain, but the rash is palpable and purpuric. Meningitis causes a non-blanching purpuric rash with no joint pain. Systemic lupus erythematosus can cause joint pain and rash but is unusual in children and the rash is usually on the face. Measles can cause a pink rash but not joint pain.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Juvenile idiopathic arthritis: systemic onset",
+        "body": "Juvenile idiopathic arthritis (JIA), now preferred to the older term juvenile chronic arthritis, describes arthritis occurring in someone who is less than 16 years old that lasts for more than 6 weeks. Systemic onset JIA is a type of JIA which is also known as Still's disease<br /><br />Features of systemic onset JIA include<br /><ul><li>pyrexia</li><li>salmon-pink rash</li><li>lymphadenopathy</li><li>arthritis</li><li>uveitis</li><li>anorexia and weight loss</li></ul><br />Investigations<br /><ul><li>ANA may be positive, especially in oligoarticular JIA</li><li>rheumatoid factor is usually negative</li></ul>",
+        "notes_hash": "987da7c373b6e4bcb36271ee48b22150",
+        "knowledge_graph_node_id_link": 1115,
+        "concept": "Systemic onset JIA (AKA Still's disease) has a characteristic salmon-pink rash",
+        "concept_percentile": "87",
+        "concept_colour": "rgb(66,255,0)",
+        "number_attempts": "5713",
+        "up_votes": "27",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "128",
+            "1706",
+            "3331",
+            "26",
+            "522",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2069",
+        "new_question_id": "61145",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11234",
+        "notes_id_link": "1_1473",
+        "theme": "Sexual health presentation requiring treatment selection for trichomoniasis",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral metronidazole",
+            "Intravaginal clindamycin",
+            "Oral fluconazole",
+            "Intramuscular ceftriaxone",
+            "Oral doxycycline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman attends the sexual health clinic with a 10-day history of vaginal discharge and vulval irritation. She is sexually active with one partner. Examination reveals an offensive yellow-green discharge. Vaginal pH is 5.2. Microscopy of a wet mount shows motile flagellated organisms.<br /><br />Select the single most appropriate treatment from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Oral metronidazole</b> is the correct answer. This patient has classic features of <i>Trichomonas vaginalis</i> infection: offensive yellow-green discharge, elevated vaginal pH (>4.5), and the diagnostic finding of motile flagellated trophozoites on wet mount microscopy. <i>Trichomonas vaginalis</i> is a sexually transmitted protozoan infection that responds to nitroimidazole antibiotics. The standard treatment is oral metronidazole for 5-7 days, though a single 2g dose is also effective according to UK guidelines. It is important to treat sexual partners simultaneously to prevent reinfection, and patients should be advised to avoid alcohol during treatment and for 48 hours afterwards due to the disulfiram-like reaction. Other STIs should be screened for given the sexual transmission route.<br /><br /><b>Intravaginal clindamycin</b> is used to treat bacterial vaginosis, which can present with vaginal discharge and elevated pH. However, bacterial vaginosis typically causes a thin, grey-white discharge with a fishy odour rather than the yellow-green frothy discharge seen here. The key distinguishing feature is the microscopy finding of motile trophozoites rather than clue cells, making this diagnosis incorrect for this patient.<br /><br /><b>Oral fluconazole</b> is the treatment for vulvovaginal candidiasis. Whilst candidiasis can cause vulval irritation and discharge, the discharge is typically thick, white, and cottage cheese-like rather than yellow-green and offensive. Additionally, candidiasis is associated with a normal vaginal pH (<4.5), and microscopy would show pseudohyphae and spores rather than motile organisms.<br /><br /><b>Intramuscular ceftriaxone</b> is used to treat gonorrhoea, which can cause purulent vaginal discharge and cervicitis. However, gonorrhoea typically presents with a purulent rather than frothy discharge, and microscopy would show intracellular Gram-negative diplococci on Gram stain rather than motile flagellated organisms. The elevated pH and specific microscopy findings make trichomoniasis the clear diagnosis.<br /><br /><b>Oral doxycycline</b> is used to treat chlamydia infection, which commonly presents with mucopurulent cervical discharge. However, chlamydia often causes minimal symptoms and would not produce the characteristic motile organisms seen on microscopy. The vaginal pH may be normal, and the specific microscopy findings of flagellated protozoa are diagnostic of trichomoniasis rather than chlamydia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman attends the sexual health clinic with a 10-day history of vaginal discharge and vulval irritation. She is sexually active with one partner. Examination reveals an offensive yellow-green discharge. Vaginal pH is 5.2. Microscopy of a wet mount shows motile flagellated organisms.<br /><br />Select the single most appropriate treatment from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Oral metronidazole</b> is the correct answer. This patient has classic features of <i>Trichomonas vaginalis</i> infection: offensive yellow-green discharge, elevated vaginal pH (>4.5), and the diagnostic finding of motile flagellated trophozoites on wet mount microscopy. <i>Trichomonas vaginalis</i> is a sexually transmitted protozoan infection that responds to nitroimidazole antibiotics. The standard treatment is oral metronidazole for 5-7 days, though a single 2g dose is also effective according to UK guidelines. It is important to treat sexual partners simultaneously to prevent reinfection, and patients should be advised to avoid alcohol during treatment and for 48 hours afterwards due to the disulfiram-like reaction. Other STIs should be screened for given the sexual transmission route.<br /><br /><b>Intravaginal clindamycin</b> is used to treat bacterial vaginosis, which can present with vaginal discharge and elevated pH. However, bacterial vaginosis typically causes a thin, grey-white discharge with a fishy odour rather than the yellow-green frothy discharge seen here. The key distinguishing feature is the microscopy finding of motile trophozoites rather than clue cells, making this diagnosis incorrect for this patient.<br /><br /><b>Oral fluconazole</b> is the treatment for vulvovaginal candidiasis. Whilst candidiasis can cause vulval irritation and discharge, the discharge is typically thick, white, and cottage cheese-like rather than yellow-green and offensive. Additionally, candidiasis is associated with a normal vaginal pH (<4.5), and microscopy would show pseudohyphae and spores rather than motile organisms.<br /><br /><b>Intramuscular ceftriaxone</b> is used to treat gonorrhoea, which can cause purulent vaginal discharge and cervicitis. However, gonorrhoea typically presents with a purulent rather than frothy discharge, and microscopy would show intracellular Gram-negative diplococci on Gram stain rather than motile flagellated organisms. The elevated pH and specific microscopy findings make trichomoniasis the clear diagnosis.<br /><br /><b>Oral doxycycline</b> is used to treat chlamydia infection, which commonly presents with mucopurulent cervical discharge. However, chlamydia often causes minimal symptoms and would not produce the characteristic motile organisms seen on microscopy. The vaginal pH may be normal, and the specific microscopy findings of flagellated protozoa are diagnostic of trichomoniasis rather than chlamydia.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "<i>Trichomonas vaginalis</i>",
+        "body": "<i>Trichomonas vaginalis</i> is a highly motile, flagellated protozoan parasite. Trichomoniasis is a sexually transmitted infection (STI).<br /><br /><span class=\"concept\" data-cid=\"3311\">Features</span><br /><ul><li>vaginal discharge: offensive, yellow/green, frothy</li><li>vulvovaginitis</li><li>strawberry cervix</li><li><span class=\"concept\" data-cid=\"308\">pH > 4.5</span></li><li>in men is usually asymptomatic but may cause urethritis</li></ul><br />Investigation<br /><ul><li>microscopy of a wet mount may show motile trophozoites <ul><li>low sensitivity of around 50% but high specificity</li></ul></li><li>nucleic acid amplification tests (NAATs) are now regarded as the diagnostic gold standard for <i>Trichomonas</i><ul><li>sensitivity: >95\u201399%, specificity: >98\u2013100%</li></ul></li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"11234\">oral metronidazole</span> for 5-7 days, although the BNF also supports the use of a one-off dose of 2g metronidazole</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Comparison of bacterial vaginosis and <i>Trichomonas vaginalis</i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb001b.jpg\" data-fancybox=\"gallery\" data-caption=\"<i>Trichomonas vaginalis</i> - largely transparent core with finely granular eosinophilic cytoplasm. Surrounded by neutrophils with segmented nuclei\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb001.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/uwa006.jpg\" data-fancybox=\"gallery\" data-caption=\"https://en.wikipedia.org/wiki/Trichomonas\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/uwa006.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "a09701b58202aaa2a3f5e023934d7fd7",
+        "knowledge_graph_node_id_link": 1214,
+        "concept": "<i>Trichomonas vaginalis</i> - treat with oral metronidazole",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "302",
+        "up_votes": "1",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "270",
+            "0",
+            "3",
+            "11",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yk0P7IpSiIg\" data-description=\"Trichomonas vaginalis\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"517\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yk0P7IpSiIg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yk0P7IpSiIg\" data-description=\"Trichomonas vaginalis\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"517\">Trichomonas vaginalis</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_897\" data-mediaid=\"897\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_897\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_897\" data-mediaid=\"897\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_897\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "308": {
+                "concept_text": "<i>Trichomonas vaginalis</i> + bacterial vaginosis are associated with a pH > 4.5",
+                "concept_percentile": "55"
+            },
+            "3311": {
+                "concept_text": "<i>Trichomonas vaginalis</i>: offensive yellow/green vaginal discharge, pH > 4.5",
+                "concept_percentile": "50"
+            },
+            "11234": {
+                "concept_text": "<i>Trichomonas vaginalis</i> - treat with oral metronidazole",
+                "concept_percentile": "65"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_502",
+        "new_question_id": "8276",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_381",
+        "theme": "Best valproate alternative for generalised tonic\u2013clonic epilepsy",
+        "instruction": "",
+        "options": [
+            "",
+            "Lamotrigine",
+            "Topiramate",
+            "Carbamazepine",
+            "Ethosuximide",
+            "Phenytoin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old man is reviewed in the neurology clinic. He has been established on sodium valproate for primary generalised epilepsy. Despite now taking a therapeutic dose he continues to have seizures and is troubled by weight gain since starting sodium valproate. He asks to stop his current medication and try a different drug. Which one of the following drugs would be the most appropriate second-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Lamotrigine</b> is the most appropriate agent to switch to in a man with primary generalised (tonic\u2013clonic) epilepsy who has failed or not tolerated sodium valproate. NICE CG137 recommends lamotrigine or levetiracetam as first-line options for generalised seizures when valproate is unsuitable. Lamotrigine has robust efficacy data in this seizure type, is generally weight-neutral and has a favourable cognitive profile, making it attractive to a patient already concerned about weight gain. Although it carries a risk of rash\u2014including Stevens-Johnson syndrome\u2014this is minimised by a slow titration schedule. Importantly, there are no UKMHRA warnings restricting its use in men of child-bearing potential age, unlike valproate or topiramate, and there are no major pharmacokinetic interactions with most concomitant drugs.<br /><br /><b>Topiramate</b> is effective in generalised tonic\u2013clonic seizures and can aid weight loss, so it may appear tempting. However, its significant neurocognitive adverse effects (word-finding difficulty, impaired concentration) and risk of renal stones make it less favourable than lamotrigine. Furthermore, new MHRA advice places topiramate under a Pregnancy Prevention Programme because of teratogenicity, which means women require complex counselling; although this patient is male, prescribers are encouraged to reserve topiramate for cases where safer agents have failed.<br /><br /><b>Carbamazepine</b> is a mainstay for focal seizures but is relatively less effective for primary generalised epilepsy and may precipitate absence or myoclonic seizures. Its enzyme-inducing properties also complicate contraceptive and anticoagulant therapy. Hence, it is not recommended by NICE for generalised tonic-clonic seizures unless other agents are unsuitable.<br /><br /><b>Ethosuximide</b> is the treatment of choice for absence (petit-mal) epilepsy, not for tonic\u2013clonic seizures. It has little efficacy against generalised tonic\u2013clonic events and may therefore leave the patient inadequately protected.<br /><br /><b>Phenytoin</b> historically featured in the management of primary generalised epilepsy and does control tonic\u2013clonic seizures. Nevertheless, it is now considered third-line because of complex, non-linear pharmacokinetics, cosmetic side-effects (gingival hypertrophy, hirsutism), osteoporosis risk and numerous drug interactions. Modern guidelines place lamotrigine well ahead of phenytoin for efficacy, tolerability and ease of use, making phenytoin an inferior choice in this scenario.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old man is reviewed in the neurology clinic. He has been established on sodium valproate for primary generalised epilepsy. Despite now taking a therapeutic dose he continues to have seizures and is troubled by weight gain since starting sodium valproate. He asks to stop his current medication and try a different drug. Which one of the following drugs would be the most appropriate second-line treatment?",
+        "correct_answer": "1",
+        "question_notes": "<b>Lamotrigine</b> is the most appropriate agent to switch to in a man with primary generalised (tonic\u2013clonic) epilepsy who has failed or not tolerated sodium valproate. NICE CG137 recommends lamotrigine or levetiracetam as first-line options for generalised seizures when valproate is unsuitable. Lamotrigine has robust efficacy data in this seizure type, is generally weight-neutral and has a favourable cognitive profile, making it attractive to a patient already concerned about weight gain. Although it carries a risk of rash\u2014including Stevens-Johnson syndrome\u2014this is minimised by a slow titration schedule. Importantly, there are no UKMHRA warnings restricting its use in men of child-bearing potential age, unlike valproate or topiramate, and there are no major pharmacokinetic interactions with most concomitant drugs.<br /><br /><b>Topiramate</b> is effective in generalised tonic\u2013clonic seizures and can aid weight loss, so it may appear tempting. However, its significant neurocognitive adverse effects (word-finding difficulty, impaired concentration) and risk of renal stones make it less favourable than lamotrigine. Furthermore, new MHRA advice places topiramate under a Pregnancy Prevention Programme because of teratogenicity, which means women require complex counselling; although this patient is male, prescribers are encouraged to reserve topiramate for cases where safer agents have failed.<br /><br /><b>Carbamazepine</b> is a mainstay for focal seizures but is relatively less effective for primary generalised epilepsy and may precipitate absence or myoclonic seizures. Its enzyme-inducing properties also complicate contraceptive and anticoagulant therapy. Hence, it is not recommended by NICE for generalised tonic-clonic seizures unless other agents are unsuitable.<br /><br /><b>Ethosuximide</b> is the treatment of choice for absence (petit-mal) epilepsy, not for tonic\u2013clonic seizures. It has little efficacy against generalised tonic\u2013clonic events and may therefore leave the patient inadequately protected.<br /><br /><b>Phenytoin</b> historically featured in the management of primary generalised epilepsy and does control tonic\u2013clonic seizures. Nevertheless, it is now considered third-line because of complex, non-linear pharmacokinetics, cosmetic side-effects (gingival hypertrophy, hirsutism), osteoporosis risk and numerous drug interactions. Modern guidelines place lamotrigine well ahead of phenytoin for efficacy, tolerability and ease of use, making phenytoin an inferior choice in this scenario.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Epilepsy: treatment",
+        "body": "Most neurologists now start antiepileptics following a second epileptic seizure. NICE guidelines suggest starting antiepileptics after the first seizure if any of the following are present:<br /><ul><li>the patient has a neurological deficit</li><li>brain imaging shows a structural abnormality</li><li>the EEG shows unequivocal epileptic activity </li><li>the patient or their family or carers consider the risk of having a further seizure unacceptable </li></ul><br /><br /><h5 class='notes-heading'>Safety considerations of specific drugs</h5><br />The MHRA and NICE have strengthed their advice against <b>sodium valproate</b> use recently:<br /><br /><div class='bs-callout bs-callout-default'><i><br />Valproate must not be started for the first time in people (male or female) younger than 55 years, unless 2 specialists independently consider and document that there is no other effective or tolerated treatment, or there are compelling reasons that the reproductive risks do not apply. <br /></i></div><br /><b>Topiramate</b> should not be used in women and girls of childbearing potential unless conditions of the Pregnancy Prevention Programme are fulfilled. <br /><br /><br /><h5 class='notes-heading'>Drug treatment according to the type of epilepsy</h5><br />Generalised tonic-clonic seizures<br /><ul><li><span class=\"concept\" data-cid=\"11838\">lamotrigine or levetiracetam</span></li></ul><br />Focal seizures<br /><ul><li>first line: <span class=\"concept\" data-cid=\"7918\">lamotrigine or levetiracetam</span></li><li><span class=\"concept\" data-cid=\"12025\">second line</span>:  carbamazepine, oxcarbazepine or zonisamide</li></ul><br />Absence seizures (Petit mal)<br /><ul><li>first line: <span class=\"concept\" data-cid=\"7916\">ethosuximide</span></li><li>second line: lamotrigine or levetiracetam</li><li><span class=\"concept\" data-cid=\"1514\">carbamazepine may exacerbate absence seizures</span></li></ul><br />Myoclonic seizures<br /><ul><li>first-line: <span class=\"concept\" data-cid=\"11839\">levetiracetam</span></li><li>second line: lamotrigine</li></ul><br />Tonic or atonic seizures<br /><ul><li>first-line: <span class=\"concept\" data-cid=\"11841\">lamotrigine</span></li><li>second line: clobazam, rufinamide, or topiramate</li></ul>",
+        "notes_hash": "7315f5daa20f0f2d91bac783ef97eb9e",
+        "knowledge_graph_node_id_link": 11266,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "3601",
+        "up_votes": "4",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "2819",
+            "81",
+            "411",
+            "49",
+            "241",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_617\" data-linkid=\"617\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_617\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_617\" data-linkid=\"617\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_617\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/13/1/84.full.pdf\">2013 Modern management of epilepsy</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_824\" data-linkid=\"824\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_824\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">38</span><button type=\"button\" style=\"\" id=\"link_dislike_824\" data-linkid=\"824\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_824\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">35</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng217\">2022 Epilepsy guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uwB8AZ2vK1g\" data-description=\"Epilepsy (generalized, focal) - simple, complex, tonic, clonic, causes, symptoms\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"59\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uwB8AZ2vK1g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uwB8AZ2vK1g\" data-description=\"Epilepsy (generalized, focal) - simple, complex, tonic, clonic, causes, symptoms\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"59\">Epilepsy (generalized, focal) - simple, complex, tonic, clonic, causes, symptoms</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_445\" data-mediaid=\"445\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_445\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_445\" data-mediaid=\"445\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_445\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xFUHE9gX6W8\" data-description=\"Antiepileptic drugs made easy\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"730\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xFUHE9gX6W8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xFUHE9gX6W8\" data-description=\"Antiepileptic drugs made easy\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"730\">Antiepileptic drugs made easy</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1274\" data-mediaid=\"1274\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1274\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1274\" data-mediaid=\"1274\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1274\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/c-Cf1xkKofg\" data-description=\"Pharmacology - Antiepileptics\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"277\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/c-Cf1xkKofg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/c-Cf1xkKofg\" data-description=\"Pharmacology - Antiepileptics\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"277\">Pharmacology - Antiepileptics</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_474\" data-mediaid=\"474\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_474\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_474\" data-mediaid=\"474\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_474\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "7916": {
+                "concept_text": "Absence seizures: ethosuximide is first-line",
+                "concept_percentile": "62"
+            },
+            "7918": {
+                "concept_text": "Focal seizures: lamotrigine or levetiracetam are first-line",
+                "concept_percentile": "64"
+            },
+            "11838": {
+                "concept_text": "Generalised tonic-clonic seizures: lamotrigine or levetiracetam are generally used first-line",
+                "concept_percentile": "5"
+            },
+            "11839": {
+                "concept_text": "Myoclonic seizures: levetiracetam is first-line",
+                "concept_percentile": "24"
+            },
+            "11841": {
+                "concept_text": "Tonic or atonic seizures: lamotrigine is first-line",
+                "concept_percentile": "36"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_47",
+        "new_question_id": "14399",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3072",
+        "notes_id_link": "1_201",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Coloboma",
+            "Cataracts",
+            "Brushfield spots",
+            "Congenital glaucoma",
+            "Squint",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You perform a routine newborn examination on a baby with newly diagnosed Down syndrome. The mother notes 'white speckles on his eyes'. Eye examination is unremarkable with a bilateral red reflex. What is she describing?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Brushfield spots are small grey or brown spots seen on the periphery of the iris. They are associated with Down syndrome.<br /><br />Cataracts are a clouding of the lens. Although associated with Down syndrome this patient has a normal red reflex therefore a congenital cataract is unlikely.<br /><br />Coloboma is a congenital defect causing a gap in the lens, iris or retina. It is associated with Patau syndrome, not Down syndrome.<br /><br />Congenital glaucoma is elevated pressure within the eye. Again there have been links to Down syndrome however the history here is inconsistent with glaucoma.<br /><br />A squint is a deviation in the gaze of an eye.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You perform a routine newborn examination on a baby with newly diagnosed Down syndrome. The mother notes 'white speckles on his eyes'. Eye examination is unremarkable with a bilateral red reflex. What is she describing?",
+        "correct_answer": "3",
+        "question_notes": "Brushfield spots are small grey or brown spots seen on the periphery of the iris. They are associated with Down syndrome.<br /><br />Cataracts are a clouding of the lens. Although associated with Down syndrome this patient has a normal red reflex therefore a congenital cataract is unlikely.<br /><br />Coloboma is a congenital defect causing a gap in the lens, iris or retina. It is associated with Patau syndrome, not Down syndrome.<br /><br />Congenital glaucoma is elevated pressure within the eye. Again there have been links to Down syndrome however the history here is inconsistent with glaucoma.<br /><br />A squint is a deviation in the gaze of an eye.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Down's syndrome: features",
+        "body": "Clinical features<br /><ul><li>face: <span class=\"concept\" data-cid=\"6175\">upslanting palpebral fissures</span>, <span class=\"concept\" data-cid=\"6176\">epicanthic folds</span>, <span class=\"concept\" data-cid=\"3072\">Brushfield spots in iris</span>, protruding tongue, <span class=\"concept\" data-cid=\"6192\">small low-set ears</span>, round/flat face</li><li><span class=\"concept\" data-cid=\"6177\">flat occiput</span></li><li><span class=\"concept\" data-cid=\"6178\">single palmar crease</span>, <span class=\"concept\" data-cid=\"6179\">pronounced 'sandal gap' between big and first toe</span></li><li><span class=\"concept\" data-cid=\"6180\">hypotonia</span></li><li>congenital heart defects (40-50%, see below)</li><li><span class=\"concept\" data-cid=\"6181\">duodenal atresia</span></li><li><span class=\"concept\" data-cid=\"3554\">Hirschsprung's disease</span></li></ul><br />Cardiac complications<br /><ul><li>multiple cardiac problems may be present</li><li><span class=\"concept\" data-cid=\"6182\">endocardial cushion defect</span> (<span class=\"concept\" data-cid=\"3056\">most common, 40%</span>, also known as atrioventricular septal canal defects)<ul><li>results from failure of endocardial cushion fusion, leading to defects in both the atrial and ventricular septa and a single common atrioventricular valve.</li></ul></li><li><span class=\"concept\" data-cid=\"6183\">ventricular septal defect</span> (c. 30%)</li><li><span class=\"concept\" data-cid=\"6184\">secundum atrial septal defect</span> (c. 10%)</li><li><span class=\"concept\" data-cid=\"6185\">tetralogy of Fallot</span> (c. 5%)</li><li><span class=\"concept\" data-cid=\"6186\">isolated patent ductus arteriosus</span> (c. 5%)</li></ul><br />Later complications<br /><ul><li><span class=\"concept\" data-cid=\"6187\">subfertility</span>: males are almost always infertile due to impaired spermatogenesis. Females are usually subfertile, and have an increased incidence of problems with pregnancy and labour</li><li>learning difficulties</li><li><span class=\"concept\" data-cid=\"6188\">short stature</span></li><li><span class=\"concept\" data-cid=\"6189\">repeated respiratory infections</span> (+hearing impairment from glue ear)</li><li><span class=\"concept\" data-cid=\"6190\">acute lymphoblastic leukaemia</span></li><li><span class=\"concept\" data-cid=\"2510\">hypothyroidism</span></li><li><span class=\"concept\" data-cid=\"6191\">Alzheimer's disease</span></li><li><span class=\"concept\" data-cid=\"5345\">atlantoaxial instability</span></li></ul>",
+        "notes_hash": "2d66a6b3c03ba34c0f016187b326ede8",
+        "knowledge_graph_node_id_link": 10932,
+        "concept": "Brushfield spots are small grey or brown spots seen on the periphery of the iris. They are associated with Down syndrome.",
+        "concept_percentile": "28",
+        "concept_colour": "rgb(255,142,0)",
+        "number_attempts": "5704",
+        "up_votes": "21",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "619",
+            "751",
+            "4039",
+            "240",
+            "55",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1580\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/QBussteAbA0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1580\">Trisomy (21, 18, and 13) & Nondisjunction Genetics</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2748\" data-mediaid=\"2748\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2748\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2748\" data-mediaid=\"2748\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2748\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"293\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EKtO9DlEgjA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"293\">Down syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_498\" data-mediaid=\"498\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_498\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_498\" data-mediaid=\"498\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_498\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "2510": {
+                "concept_text": "Down syndrome is associated with hypothyroidism",
+                "concept_percentile": "17"
+            },
+            "3056": {
+                "concept_text": "Atrioventricular septal defects are the most common congenital cardiac abnormality in Down's syndrome",
+                "concept_percentile": "85"
+            },
+            "3072": {
+                "concept_text": "Brushfield spots are small grey or brown spots seen on the periphery of the iris. They are associated with Down syndrome.",
+                "concept_percentile": "28"
+            },
+            "3554": {
+                "concept_text": "Hirschprung's disease is associated with Down syndrome",
+                "concept_percentile": "23"
+            },
+            "5345": {
+                "concept_text": "Screen for atlanto-axial instability in people with Down syndrome who participate in sports that may carry an increased risk of neck dislocation (e.g. trampolining, gymnastics, boxing, diving, rugby and horse riding)",
+                "concept_percentile": "12"
+            },
+            "6175": {
+                "concept_text": "Down syndrome - upslanting palpebral fissures",
+                "concept_percentile": "3"
+            },
+            "6176": {
+                "concept_text": "Down syndrome - epicanthic folds",
+                "concept_percentile": "15"
+            },
+            "6177": {
+                "concept_text": "Down syndrome - flat occiput",
+                "concept_percentile": "13"
+            },
+            "6178": {
+                "concept_text": "Down syndrome - single palmar crease",
+                "concept_percentile": "3"
+            },
+            "6179": {
+                "concept_text": "Down syndrome - pronounced 'sandal gap' between big and first toe",
+                "concept_percentile": "15"
+            },
+            "6180": {
+                "concept_text": "Down syndrome - hypotonia",
+                "concept_percentile": "6"
+            },
+            "6181": {
+                "concept_text": "Down syndrome - duodenal atresia",
+                "concept_percentile": "13"
+            },
+            "6182": {
+                "concept_text": "Down syndrome - endocardial cushion defect",
+                "concept_percentile": "2"
+            },
+            "6183": {
+                "concept_text": "Down syndrome - ventricular septal defect",
+                "concept_percentile": "5"
+            },
+            "6184": {
+                "concept_text": "Down syndrome - secundum atrial septal defect",
+                "concept_percentile": "15"
+            },
+            "6185": {
+                "concept_text": "Down syndrome - tetralogy of Fallot",
+                "concept_percentile": "14"
+            },
+            "6186": {
+                "concept_text": "Down syndrome - isolated patent ductus arteriosus",
+                "concept_percentile": "12"
+            },
+            "6187": {
+                "concept_text": "Down syndrome - subfertility/infertility",
+                "concept_percentile": "15"
+            },
+            "6188": {
+                "concept_text": "Down syndrome - short stature",
+                "concept_percentile": "12"
+            },
+            "6189": {
+                "concept_text": "Down syndrome - recurrent chest infections",
+                "concept_percentile": "25"
+            },
+            "6190": {
+                "concept_text": "Children with Down syndrome have an increased risk of acute lymphoblastic leukaemia",
+                "concept_percentile": "13"
+            },
+            "6191": {
+                "concept_text": "Down syndrome - Alzheimer's disease",
+                "concept_percentile": "15"
+            },
+            "6192": {
+                "concept_text": "Down syndrome - low-set ears",
+                "concept_percentile": "10"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2060",
+        "new_question_id": "61136",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "1677",
+        "notes_id_link": "1_1595",
+        "theme": "Diagnosis of painful rectal bleeding",
+        "instruction": "",
+        "options": [
+            "",
+            "Anal fissure",
+            "Thrombosed haemorrhoid",
+            "Proctitis",
+            "Perianal abscess",
+            "Colorectal carcinoma",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old woman presents with a 4-week history of severe, sharp pain during defecation. She has also noticed bright red blood on the toilet paper. Examination is limited by pain but reveals posterior anal tenderness.<br /><br />Select the single most likely diagnosis from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Anal fissure</b> is the correct diagnosis. The classic presentation of an anal fissure is severe, sharp, or 'tearing' pain during and after defecation, associated with a small amount of bright red rectal bleeding, typically seen on the toilet paper. The pain is often disproportionate to the size of the lesion and can be so severe that patients develop a fear of defecation, leading to constipation, which in turn worsens the fissure. In this scenario, the patient's age, the nature of the pain (severe and sharp on defecation), the type of bleeding (bright red on paper), and the finding of posterior anal tenderness all strongly point towards this diagnosis. Around 90% of anal fissures occur on the posterior midline due to relatively poor blood supply in this area, making it more susceptible to tearing.<br /><br /><b>Thrombosed haemorrhoid</b> is a plausible differential as it causes significant perianal pain and can be associated with rectal bleeding. However, the pain from a thrombosed haemorrhoid is typically constant and throbbing, rather than being primarily associated with the act of defecation. On examination, a tender, purplish, and firm lump would usually be visible or palpable at the anal verge, which is not described in this patient's presentation. While internal haemorrhoids can bleed, they are typically painless unless they prolapse and thrombose.<br /><br /><b>Proctitis</b> refers to inflammation of the rectal lining. While it can cause rectal bleeding and discomfort, the pain is not typically the severe, sharp, tearing pain described by this patient, which is so characteristic of a fissure. Proctitis is more commonly associated with symptoms of tenesmus (a feeling of incomplete evacuation), rectal discharge (mucus or pus), and a more constant, dull ache rather than sharp pain specifically on defecation.<br /><br /><b>Perianal abscess</b> is an infection resulting in a collection of pus near the anus. This presents with severe, constant, and throbbing perianal pain that is not exclusively linked to defecation. Patients are often systemically unwell with fever and malaise. Examination would typically reveal a fluctuant, erythematous, and exquisitely tender swelling in the perianal region, which is a different clinical picture from the one presented.<br /><br /><b>Colorectal carcinoma</b> is an important differential for any patient presenting with rectal bleeding. However, it is a much less likely diagnosis in this case. Bleeding from a colorectal tumour is often mixed with the stool and can be darker in colour, although bright red bleeding can occur with rectal tumours. Crucially, colorectal cancer is typically painless in its early stages. The presence of severe pain on defecation makes an anal fissure far more probable, especially in a 34-year-old.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old woman presents with a 4-week history of severe, sharp pain during defecation. She has also noticed bright red blood on the toilet paper. Examination is limited by pain but reveals posterior anal tenderness.<br /><br />Select the single most likely diagnosis from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Anal fissure</b> is the correct diagnosis. The classic presentation of an anal fissure is severe, sharp, or 'tearing' pain during and after defecation, associated with a small amount of bright red rectal bleeding, typically seen on the toilet paper. The pain is often disproportionate to the size of the lesion and can be so severe that patients develop a fear of defecation, leading to constipation, which in turn worsens the fissure. In this scenario, the patient's age, the nature of the pain (severe and sharp on defecation), the type of bleeding (bright red on paper), and the finding of posterior anal tenderness all strongly point towards this diagnosis. Around 90% of anal fissures occur on the posterior midline due to relatively poor blood supply in this area, making it more susceptible to tearing.<br /><br /><b>Thrombosed haemorrhoid</b> is a plausible differential as it causes significant perianal pain and can be associated with rectal bleeding. However, the pain from a thrombosed haemorrhoid is typically constant and throbbing, rather than being primarily associated with the act of defecation. On examination, a tender, purplish, and firm lump would usually be visible or palpable at the anal verge, which is not described in this patient's presentation. While internal haemorrhoids can bleed, they are typically painless unless they prolapse and thrombose.<br /><br /><b>Proctitis</b> refers to inflammation of the rectal lining. While it can cause rectal bleeding and discomfort, the pain is not typically the severe, sharp, tearing pain described by this patient, which is so characteristic of a fissure. Proctitis is more commonly associated with symptoms of tenesmus (a feeling of incomplete evacuation), rectal discharge (mucus or pus), and a more constant, dull ache rather than sharp pain specifically on defecation.<br /><br /><b>Perianal abscess</b> is an infection resulting in a collection of pus near the anus. This presents with severe, constant, and throbbing perianal pain that is not exclusively linked to defecation. Patients are often systemically unwell with fever and malaise. Examination would typically reveal a fluctuant, erythematous, and exquisitely tender swelling in the perianal region, which is a different clinical picture from the one presented.<br /><br /><b>Colorectal carcinoma</b> is an important differential for any patient presenting with rectal bleeding. However, it is a much less likely diagnosis in this case. Bleeding from a colorectal tumour is often mixed with the stool and can be darker in colour, although bright red bleeding can occur with rectal tumours. Crucially, colorectal cancer is typically painless in its early stages. The presence of severe pain on defecation makes an anal fissure far more probable, especially in a 34-year-old.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Anal fissure",
+        "body": "Anal fissures are longitudinal or elliptical tears of the squamous lining of the distal anal canal. If present for less than 6 weeks they are defined as acute, and chronic if present for more than 6 weeks. <br /><br />Risk factors<br /><ul><li>constipation</li><li>inflammatory bowel disease</li><li>sexually transmitted infections e.g. HIV, syphilis, herpes</li></ul><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"1677\">painful, bright red, rectal bleeding</span></li><li>around 90% of anal fissures occur on the posterior midline.<ul><li><span class=\"concept\" data-cid=\"2261\">if the fissures are found in alternative locations then other underlying causes should be considered</span> e.g. Crohn's disease</li></ul></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Management of an <span class=\"concept\" data-cid=\"11257\">acute anal fissure</span> (< 1 week)<br /><ul><li>soften stool<ul><li>dietary advice: high-fibre diet with high fluid intake</li><li>bulk-forming laxatives are first-line - if not tolerated then lactulose should be tried</li></ul></li><li>lubricants such as petroleum jelly may be tried before defecation</li><li>topical anaesthetics</li><li>analgesia</li></ul><br />Management of a chronic anal fissure<br /><ul><li>the above techniques should be continued</li><li><span class=\"concept\" data-cid=\"347\">topical glyceryl trinitrate (GTN) is first-line treatment</span> for a chronic anal fissure</li><li>if topical GTN is not effective after 8 weeks then secondary care referral should be considered for surgery (<span class=\"concept\" data-cid=\"10488\">sphincterotomy</span>)<ul><li>lateral internal sphincterotomy is the gold standard for chronic anal fissure not responding to medical therapy</li><li>if sphincterotomy fails or is contraindicated then botulinum toxin injection is sometimes used</li></ul></li></ul>",
+        "notes_hash": "481ecf77f156333eb273a8af57f696ea",
+        "knowledge_graph_node_id_link": 1173,
+        "concept": "An anal fissure usual presents as painful, bright red rectal bleeding",
+        "concept_percentile": "53",
+        "concept_colour": "rgb(239,255,0)",
+        "number_attempts": "2567",
+        "up_votes": "4",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "2355",
+            "179",
+            "12",
+            "17",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "347": {
+                "concept_text": "Chronic anal fissure - topical glyceryl trinitrate",
+                "concept_percentile": "60"
+            },
+            "1677": {
+                "concept_text": "An anal fissure usual presents as painful, bright red rectal bleeding",
+                "concept_percentile": "53"
+            },
+            "10488": {
+                "concept_text": "Anal fissures - sphincterotomy may be considered for cases that do not respond to conservative management",
+                "concept_percentile": "66"
+            },
+            "11257": {
+                "concept_text": "Acute anal fissure (< 1 week): soften stool, dietary fibre, analgesia and topical anaesthetic cream if necessary",
+                "concept_percentile": "42"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1108_B_203",
+        "new_question_id": "237",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "10_204",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Test sensation of the 5th finger",
+            "Extend the wrist",
+            "Extend the forearm at the elbow",
+            "Abduct the arm at the shoulder",
+            "Flex the fingers",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old contractor has fallen off some scaffolding at work onto his right arm and you suspect a mid-shaft humeral fracture. Which of the following would test the nerve most at risk in this situation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Mid-shaft humeral fractures are associated with radial nerve injury. As such, the radial nerve needs to be tested. This may be achieved in a number of ways, but extending the wrist is the only one of the above options that will test radial nerve function (as the radial nerve supplies innervation to the extensor muscles). Palsy of the radial nerve is associated with 'wrist drop'.<br /><br />Extending the elbow would test the radial nerve, but as the injury is at the shaft of the humerus, innervation of the triceps may arise proximal to a radial nerve injury. This would mean that a more distal injury could be missed. As such, while this will probably be performed, it is not going to give as much information as extension of the wrist. <br /><br />References:<br />Shao YC, Harwood P, Grotz MR, et al. (2005). Radial nerve palsy associated with fractures of the shaft of the humerus: a systematic review. J Bone Joint Surg Br; 87(12):1647-52.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old contractor has fallen off some scaffolding at work onto his right arm and you suspect a mid-shaft humeral fracture. Which of the following would test the nerve most at risk in this situation?",
+        "correct_answer": "2",
+        "question_notes": "Mid-shaft humeral fractures are associated with radial nerve injury. As such, the radial nerve needs to be tested. This may be achieved in a number of ways, but extending the wrist is the only one of the above options that will test radial nerve function (as the radial nerve supplies innervation to the extensor muscles). Palsy of the radial nerve is associated with 'wrist drop'.<br /><br />Extending the elbow would test the radial nerve, but as the injury is at the shaft of the humerus, innervation of the triceps may arise proximal to a radial nerve injury. This would mean that a more distal injury could be missed. As such, while this will probably be performed, it is not going to give as much information as extension of the wrist. <br /><br />References:<br />Shao YC, Harwood P, Grotz MR, et al. (2005). Radial nerve palsy associated with fractures of the shaft of the humerus: a systematic review. J Bone Joint Surg Br; 87(12):1647-52.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Radial nerve",
+        "body": "Continuation of posterior cord of the brachial plexus (root values C5 to T1)<br /><br />Path<br /><ul><li>In the axilla: lies posterior to the axillary artery on subscapularis, latissimus dorsi and teres major.</li><li>Enters the arm between the brachial artery and the long head of triceps (medial to humerus).</li><li>Spirals around the posterior surface of the humerus in the groove for the radial nerve.</li><li>At the distal third of the lateral border of the humerus it then pierces the intermuscular septum and descends in front of the lateral epicondyle. </li><li>At the lateral epicondyle it lies deeply between brachialis and brachioradialis where it then divides into a superficial and deep terminal branch.</li><li>Deep branch crosses the supinator to become the posterior interosseous nerve.</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>In the image above the relationships of the radial nerve can be appreciated</div><br /><h5 class='notes-heading'>Regions innervated</h5><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td>Motor (main nerve)</td><td><ul><li>Triceps</li><li>Anconeus</li><li>Brachioradialis</li><li>Extensor carpi radialis</td></tr><tr><td></li></ul>Motor (posterior interosseous branch)</td><td><ul><li>Supinator</li><li>Extensor carpi ulnaris</li><li>Extensor digitorum</li><li>Extensor indicis</li><li>Extensor digiti minimi</li><li>Extensor pollicis longus and brevis</li><li><span class=\"concept\" data-cid=\"6617\">Abductor pollicis longus</span></td></tr><tr><td></li></ul>Sensory</td><td>The area of skin supplying the proximal phalanges on the dorsal aspect of the hand is supplied by the radial nerve (this does not apply to the little finger and part of the ring finger)</td></tr></tbody></table></div> <br /><b>Muscular innervation and effect of denervation</b><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Anatomical location</b></th><th><b>Muscle affected</b></th><th><b>Effect of paralysis</b></th></tr></thead><tbody><tr><td>Shoulder</td><td>Long head of triceps</td><td>Minor effects on shoulder stability in abduction</td></tr><tr><td>Arm</td><td>Triceps</td><td>Loss of elbow extension</td></tr><tr><td>Forearm</td><td>Supinator<br />Brachioradialis<br />Extensor carpi radialis longus and brevis</td><td>Weakening of supination of prone hand and elbow flexion in mid prone position</td></tr></tbody></table></div><br />Patterns of damage<br /><ul><li><span class=\"concept\" data-cid=\"8226\">wrist drop</span></li><li>sensory loss to small area between the dorsal aspect of the 1st and 2nd metacarpals</li></ul><br />Axillary damage<br /><ul><li>as above</li><li>paralysis of triceps</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>The cutaneous sensation of the upper limb- illustrating the contribution of the radial nerve</div>",
+        "notes_hash": "bee3faa383f9468dac170fa560c187a6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4055",
+        "up_votes": "6",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "187",
+            "2962",
+            "506",
+            "179",
+            "221",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3M6dzH1i-GI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\">Radial Nerve - 3D Anatomy Tutorial</a></td></tr><tr><td><span ><small>Anatomy Zone - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_612\" data-mediaid=\"612\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_612\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_612\" data-mediaid=\"612\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_612\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "8226": {
+                "concept_text": "Wrist drop is clinical sign that may be found with a mid shaft humeral fracture",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_41",
+        "new_question_id": "14709",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3307",
+        "notes_id_link": "1_957",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Premature ovarian failure",
+            "Hypothalamic amenorrhoea",
+            "Polycystic ovarian syndrome",
+            "Hyperprolactinaemia",
+            "Hypothyroidism",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old female student presents to the GP surgery because her last menstrual period was 5 months ago. Previously she has been having regular periods since she was 13 years old.  A urinary pregnancy test is negative. You ordered some blood tests and results are as below:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FSH</td><td>3.9 IU/L (4.5 - 22.5)</td></tr><tr><td>LH</td><td>0.4 IU/L (0.5 - 50.0)</td></tr><tr><td>Oestradiol</td><td>107 pmol/L (100 - 1000)</td></tr><tr><td>Testosterone</td><td>1.0 nmol/L (0.8-3.1)</td></tr><tr><td>Prolactin</td><td>275 IU/mL (60-600)</td></tr><tr><td>T4</td><td>12 pmol/l (9-18)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Low-level gonadotrophins indicate a hypothalamic cause.<br /><br />Premature ovarian failure would have high gonadotrophins.<br /><br />Polycystic ovarian syndrome would have high LH and androgens.<br /><br />Her prolactin level is within the normal range.<br /><br />Her thyroxine level is within the normal range.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old female student presents to the GP surgery because her last menstrual period was 5 months ago. Previously she has been having regular periods since she was 13 years old.  A urinary pregnancy test is negative. You ordered some blood tests and results are as below:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FSH</td><td>3.9 IU/L (4.5 - 22.5)</td></tr><tr><td>LH</td><td>0.4 IU/L (0.5 - 50.0)</td></tr><tr><td>Oestradiol</td><td>107 pmol/L (100 - 1000)</td></tr><tr><td>Testosterone</td><td>1.0 nmol/L (0.8-3.1)</td></tr><tr><td>Prolactin</td><td>275 IU/mL (60-600)</td></tr><tr><td>T4</td><td>12 pmol/l (9-18)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Low-level gonadotrophins indicate a hypothalamic cause.<br /><br />Premature ovarian failure would have high gonadotrophins.<br /><br />Polycystic ovarian syndrome would have high LH and androgens.<br /><br />Her prolactin level is within the normal range.<br /><br />Her thyroxine level is within the normal range.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Amenorrhoea",
+        "body": "Amenorrhoea may be divided into:<br /><ul><li><span class=\"concept\" data-cid=\"11379\">primary</span>: defined as the failure to establish menstruation by 15 years of age in girls with normal secondary sexual characteristics (such as breast development), or by 13 years of age in girls with no secondary sexual characteristics</li><li>secondary: cessation of menstruation for 3-6 months in women with previously normal and regular menses, or 6-12 months in women with previous oligomenorrhoea</li></ul><br /><br /><h5 class='notes-heading'>Causes</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Primary amenorrhoea</th><th>Secondary amenorrhoea (after excluding pregnancy)</th></tr></thead><tbody><tr><td><ul><li>gonadal dysgenesis (e.g. Turner's syndrome) - the most common causes</li><li>testicular feminisation </li><li>congenital malformations of the genital tract </li><li>functional hypothalamic amenorrhoea (e.g. secondary to anorexia)</li><li>congenital adrenal hyperplasia</li><li><span class=\"concept\" data-cid=\"3566\">imperforate hymen</span></td><td></li><li>hypothalamic amenorrhoea (e.g. secondary stress, <span class=\"concept\" data-cid=\"3565\">excessive exercise</span>)</li><li>polycystic ovarian syndrome (PCOS)</li><li>hyperprolactinaemia</li><li>premature ovarian failure</li><li>thyrotoxicosis*</li><li>Sheehan's syndrome</li><li>Asherman's syndrome (intrauterine adhesions)</td></tr></tbody></table></div></li></ul><br /><h5 class='notes-heading'>Investigation and management</h5><br />Initial investigations<br /><ul><li>exclude pregnancy with urinary or serum bHCG</li><li>full blood count, urea & electrolytes, coeliac screen, thyroid function tests</li><li>gonadotrophins<ul><li><span class=\"concept\" data-cid=\"3307\">low levels indicate a hypothalamic cause</span> where as raised levels suggest an ovarian problem (e.g. Premature ovarian failure)</li><li><span class=\"concept\" data-cid=\"11380\">raised if gonadal dysgenesis (e.g. Turner's syndrome)</span></li></ul></li><li>prolactin</li><li>androgen levels<ul><li>raised levels may be seen in PCOS</li></ul></li><li>oestradiol</li></ul><br />Management<br /><ul><li>primary amenorrhoea:<ul><li>investigate and treat any underlying cause</li><li>with primary ovarian insufficiency due to gonadal dysgenesis (e.g. Turner's syndrome) are likely to benefit from hormone replacement therapy (e.g. to prevent osteoporosis etC)</li></ul></li><li>secondary amenorrhoea<ul><li>exclude pregnancy, lactation, and menopause (in women 40 years of age or older)</li><li>treat the underlying cause</li></ul></li></ul><br />*hypothyroidism may also cause amenorrhoea",
+        "notes_hash": "e928685cc0eff7e5ebef43ac7e02a570",
+        "knowledge_graph_node_id_link": 10178,
+        "concept": "Secondary amenorrhoea: low-level gonadotrophins indicate a hypothalamic causes",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5564",
+        "up_votes": "48",
+        "down_votes": "14",
+        "column_array": [
+            0,
+            "1297",
+            "3624",
+            "565",
+            "48",
+            "30",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JRUErEu6BJs\" data-description=\"Amenorrhoea\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1120\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JRUErEu6BJs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JRUErEu6BJs\" data-description=\"Amenorrhoea\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1120\">Amenorrhoea</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1940\" data-mediaid=\"1940\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1940\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_1940\" data-mediaid=\"1940\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1940\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3307": {
+                "concept_text": "Secondary amenorrhoea: low-level gonadotrophins indicate a hypothalamic causes",
+                "concept_percentile": "79"
+            },
+            "11380": {
+                "concept_text": "Raised FSH/LH in primary amenorrhoea - consider gonadal dysgenesis (e.g. Turner's syndrome)",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1518",
+        "new_question_id": "49166",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11718",
+        "notes_id_link": "1_1829",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous co-amoxiclav",
+            "Intravenous hydrocortisone",
+            "Oral amoxicillin",
+            "Oral prednisolone",
+            "Reassure and monitor",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-year-old boy is taken to the emergency department by his mother with several days of wheezing. He also describes some chest tightness and is coughing up clear phlegm. He has a past medical history of asthma and uses a salbutamol inhaler when needed. Over the past few days, he has been using the inhaler several times daily.<br /><br />On examination, a widespread wheeze is noted on auscultation of the chest. Observations are within normal limits for his age. His peak expiratory flow rate (PEFR) is calculated as 70% of his historic best value. He can speak in full sentences.<br /><br />What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Oral prednisolone</b> is the most appropriate answer. This child is experiencing an acute exacerbation of asthma. This attack can be described as moderate - his PEFR is between 50% and 75% of his best, his observations are fine and he has no clinical features of severe or life-threatening asthma. Regardless of severity, BTS guidelines state that all children experiencing an asthma attack should be given steroid therapy. For a child of this age, 30-40mg once daily for 3 days is typically used.<br /><br /><b>Intravenous co-amoxiclav</b> is incorrect. There are no features of infection in this scenario - as such, antibiotics are not warranted. <br /><br /><b>Intravenous hydrocortisone</b> is incorrect. If the patient were more unwell, or unable to swallow, the parenteral route would be indicated. However, this child seems reasonably well and can talk in full sentences; the oral route will be adequate.<br /><br /><b>Oral amoxicillin</b> is incorrect. There are no features in this scenario to suggest infection, so antibiotics are not warranted.<br /><br /><b>Reassurance and monitoring</b> are insufficient alone. Guidance states that all children experiencing an asthma exacerbation, regardless of severity, should be given steroid therapy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-year-old boy is taken to the emergency department by his mother with several days of wheezing. He also describes some chest tightness and is coughing up clear phlegm. He has a past medical history of asthma and uses a salbutamol inhaler when needed. Over the past few days, he has been using the inhaler several times daily.<br /><br />On examination, a widespread wheeze is noted on auscultation of the chest. Observations are within normal limits for his age. His peak expiratory flow rate (PEFR) is calculated as 70% of his historic best value. He can speak in full sentences.<br /><br />What is the most appropriate next step?",
+        "correct_answer": "4",
+        "question_notes": "<b>Oral prednisolone</b> is the most appropriate answer. This child is experiencing an acute exacerbation of asthma. This attack can be described as moderate - his PEFR is between 50% and 75% of his best, his observations are fine and he has no clinical features of severe or life-threatening asthma. Regardless of severity, BTS guidelines state that all children experiencing an asthma attack should be given steroid therapy. For a child of this age, 30-40mg once daily for 3 days is typically used.<br /><br /><b>Intravenous co-amoxiclav</b> is incorrect. There are no features of infection in this scenario - as such, antibiotics are not warranted. <br /><br /><b>Intravenous hydrocortisone</b> is incorrect. If the patient were more unwell, or unable to swallow, the parenteral route would be indicated. However, this child seems reasonably well and can talk in full sentences; the oral route will be adequate.<br /><br /><b>Oral amoxicillin</b> is incorrect. There are no features in this scenario to suggest infection, so antibiotics are not warranted.<br /><br /><b>Reassurance and monitoring</b> are insufficient alone. Guidance states that all children experiencing an asthma exacerbation, regardless of severity, should be given steroid therapy.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Asthma in children: management of acute attacks",
+        "body": "Children with severe or life threatening asthma should be transferred immediately to hospital. <br /><br /><h5 class='notes-heading'>Children between 2 and 5 years of age</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Moderate attack</b></th><th><b>Severe attack</b></th><th><b>Life-threatening attack</b></th></tr></thead><tbody><tr><td>SpO2 > 92%<br />No clinical features of severe asthma<br /></td><td>SpO2 < 92%<br />Too breathless to talk or feed<br />Heart rate > 140/min<br />Respiratory rate > 40/min<br />Use of accessory neck muscles <br /></td><td>SpO2 <92%<br />Silent chest<br />Poor respiratory effort<br />Agitation<br />Altered consciousness<br />Cyanosis</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Children greater than 5 years of age</h5><br />Attempt to measure PEF in all children aged > 5 years.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Moderate attack</b></th><th><b>Severe attack</b></th><th><b>Life-threatening attack</b></th></tr></thead><tbody><tr><td>SpO2 > 92%<br />PEF > 50% best or predicted<br />No clinical features of<br />severe asthma<br /></td><td>SpO2 < 92%<br />PEF 33-50% best or predicted<br />Can't complete sentences in one breath or too breathless to talk or feed<br />Heart rate > 125/min<br />Respiratory rate > 30/min<br />Use of accessory neck muscles<br /></td><td>SpO2 < 92%<br />PEF < 33% best or predicted<br />Silent chest<br />Poor respiratory effort<br />Altered consciousness<br />Cyanosis</td></tr></tbody></table></div><br />For children with mild to moderate acute asthma:<br /><br />Bronchodilator therapy<br /><ul><li>give a beta-2 agonist via a spacer (for a child < 3 years use a close-fitting mask)</li><li>give 1 puff every 30-60 seconds up to a maximum of 10 puffs</li><li>if symptoms are not controlled repeat beta-2 agonist and refer to hospital</li></ul><br /><span class=\"concept\" data-cid=\"11718\">Steroid therapy</span><br /><ul><li>should be given to all children with an asthma exacerbation</li><li>treatment should be given for 3-5 days</li></ul><br /><h5 class='notes-heading'>Usual prednisolone dose</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>Age</b></th><th><b>Dose as per BTS</b></th><th><b>Dose as per cBNF</b></th></tr></thead><tbody><tr><td>2 - 5 years</td><td>20 mg od</td><td>1-2 mg/kg od (max 40mg)</td></tr><tr><td>> 5 years</td><td>30 - 40 mg od</td><td>1-2 mg/kg od (max 40mg)</td></tr></tbody></table></div>",
+        "notes_hash": "6f9634a34c8b5c0b94395166e463bf3d",
+        "knowledge_graph_node_id_link": 10949,
+        "concept": "Steroid therapy should be given to all children who have an asthma attack",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "6354",
+        "up_votes": "15",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "41",
+            "445",
+            "271",
+            "4748",
+            "849",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1470\" data-linkid=\"1470\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1470\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1470\" data-linkid=\"1470\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1470\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/\">2019 Asthma guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "11718": {
+                "concept_text": "Steroid therapy should be given to all children who have an asthma attack",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

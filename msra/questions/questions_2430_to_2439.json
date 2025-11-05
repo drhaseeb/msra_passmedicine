@@ -1,0 +1,872 @@
+[
+    {
+        "question_id": "5592_B_752",
+        "new_question_id": "40540",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "2366",
+        "notes_id_link": "1_1796",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Age",
+            "Female sex",
+            "Smoking history",
+            "Thoracic back pain",
+            "Vitamin D deficiency",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 49-year-old woman presents to her general practitioner with a 4-week history of back pain. She has tried numerous analgesics but reports little improvement in her symptoms. Her past medical history includes coeliac disease and a mild vitamin D deficiency. She smokes 10 cigarettes per day.<br /><br />On examination, her observations are within normal limits. There is palpable tenderness of the T8 vertebrae with no obvious visible deformity. Her neurological examination is unremarkable.<br /><br />What aspect of the patient's presentation is a red flag for further investigation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Thoracic back pain</b> is correct. When assessing a patient with back pain, it is important to be aware of red flag features such as thoracic back pain, age > 50 years, unexplained weight loss, local spinal tenderness and focal neurology (e.g. urinary or faecal incontinence or lower leg weakness). Thoracic back pain is a red flag feature for malignancy, particularly in those > 50 years. Other features include a gradual onset of symptoms that fails to resolve despite analgesia.<br /><br /><b>Age</b> is incorrect. An age > 50 years or < 18 years is a red flag feature for back pain. <br /><br /><b>Female sex</B> is incorrect. Female or male sex is not a red flag risk factor for back pain. <br /><br /><b>Smoking history</b> is incorrect. Although smoking is an overall risk factor for several health conditions including cardiovascular and respiratory disease and some malignancies, it is not a red flag risk factor for a patient presenting with back pain.<br /><br /><b>Vitamin D deficiency</b> is incorrect. Although vitamin D deficiency increases the risk of bone fragility, it is not a red flag  for back pain.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 49-year-old woman presents to her general practitioner with a 4-week history of back pain. She has tried numerous analgesics but reports little improvement in her symptoms. Her past medical history includes coeliac disease and a mild vitamin D deficiency. She smokes 10 cigarettes per day.<br /><br />On examination, her observations are within normal limits. There is palpable tenderness of the T8 vertebrae with no obvious visible deformity. Her neurological examination is unremarkable.<br /><br />What aspect of the patient's presentation is a red flag for further investigation?",
+        "correct_answer": "4",
+        "question_notes": "<b>Thoracic back pain</b> is correct. When assessing a patient with back pain, it is important to be aware of red flag features such as thoracic back pain, age > 50 years, unexplained weight loss, local spinal tenderness and focal neurology (e.g. urinary or faecal incontinence or lower leg weakness). Thoracic back pain is a red flag feature for malignancy, particularly in those > 50 years. Other features include a gradual onset of symptoms that fails to resolve despite analgesia.<br /><br /><b>Age</b> is incorrect. An age > 50 years or < 18 years is a red flag feature for back pain. <br /><br /><b>Female sex</B> is incorrect. Female or male sex is not a red flag risk factor for back pain. <br /><br /><b>Smoking history</b> is incorrect. Although smoking is an overall risk factor for several health conditions including cardiovascular and respiratory disease and some malignancies, it is not a red flag risk factor for a patient presenting with back pain.<br /><br /><b>Vitamin D deficiency</b> is incorrect. Although vitamin D deficiency increases the risk of bone fragility, it is not a red flag  for back pain.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Lower back pain",
+        "body": "Lower back pain (LBP) is one of the most common presentations seen in practice. Whilst the majority of presentations will be of a non-specific muscular nature it is worth keeping in mind possible causes which may need specific treatment. <br /><br />Red flags for lower back pain<br /><ul><li>age < 20 years or > 50 years</li><li>history of previous malignancy</li><li>night pain</li><li>history of trauma</li><li>systemically unwell e.g. weight loss, fever</li></ul><br />The table below indicates some specific causes of LBP:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Facet joint</b></th><th>May be acute or chronic<br />Pain worse in the morning and on standing<br />On examination there may be pain over the facets. The pain is typically worse on extension of the back</th></tr></thead><tbody><tr><td><b>Spinal stenosis</b></td><td>Usually gradual onset<br />Unilateral or bilateral leg pain (with or without back pain), numbness, and weakness which is worse on walking. Resolves when sits down. Pain may be described as 'aching', 'crawling'.<br />Relieved by sitting down, leaning forwards and crouching down<br />Clinical examination is often normal<br />Requires MRI to confirm diagnosis</td></tr><tr><td><b>Ankylosing spondylitis</b></td><td>Typically a young man who presents with lower back pain and stiffness<br />Stiffness is usually worse in morning and improves with activity<br />Peripheral arthritis (25%, more common if female)</td></tr><tr><td><b>Peripheral arterial disease</b></td><td>Pain on walking, relieved by rest<br />Absent or weak foot pulses and other signs of limb ischaemia<br />Past history may include smoking and other vascular diseases</td></tr></tbody></table></div>",
+        "notes_hash": "39f58dc7b5285cf29db1dcd28548598d",
+        "knowledge_graph_node_id_link": 10192,
+        "concept": "Thoracic pain is a red flag in patients presenting with back pain",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "5064",
+        "up_votes": "23",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "252",
+            "83",
+            "827",
+            "3418",
+            "484",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1471\" data-linkid=\"1471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1471\" data-linkid=\"1471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng59/chapter/Recommendations\">2016 Low back pain guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "905_B_2100",
+        "new_question_id": "4279",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1714",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Injury to skin only",
+            "Injury to the perineum involving the anal sphincter complex",
+            "Injury to the perineal muscles but not the anal sphincter",
+            "Injury to the perineum involving the anal sphincter complex and anal epithelium",
+            "Injury to the vagina but not the anal sphincter",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old woman vaginally delivers a large female child following an uneventful pregnancy. Which of the following best describes a third-degree tear of the perineum?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old woman vaginally delivers a large female child following an uneventful pregnancy. Which of the following best describes a third-degree tear of the perineum?",
+        "correct_answer": "2",
+        "question_notes": "",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Perineal tears",
+        "body": "The RCOG has produced guidelines suggesting the following classification of perineal tears:<br /><ul><li>first degree<ul><li>superficial damage with no muscle involvement</li><li><span class=\"concept\" data-cid=\"11572\">do not require any repair</span></li></ul></li><li>second degree<ul><li><span class=\"concept\" data-cid=\"5251\">injury to the perineal muscle, but not involving the anal sphincter</span></li><li>require <span class=\"concept\" data-cid=\"11685\">suturing on the ward by a suitably experienced midwife or clinician</span></li></ul></li><li>third degree<ul><li>injury to perineum involving the <span class=\"concept\" data-cid=\"11571\">anal sphincter complex (external anal sphincter, EAS and internal anal sphincter, IAS)</span></li><li>3a: less than 50% of EAS thickness torn</li><li>3b: more than 50% of EAS thickness torn</li><li>3c: IAS torn</li><li><span class=\"concept\" data-cid=\"11573\">require repair in theatre</span> by a suitably trained clinician</li></ul></li><li>fourth degree<ul><li>injury to perineum involving the anal sphincter complex (EAS and IAS) and rectal mucosa</li><li>require repair in theatre by a suitably trained clinician</li></ul></li></ul><br />Risk factors for perineal tears<br /><ul><li><span class=\"concept\" data-cid=\"2313\">primigravida</span></li><li>large babies</li><li>precipitant labour</li><li>shoulder dystocia</li><li>forceps delivery</li></ul>",
+        "notes_hash": "bceae52c528c77b908e6ce6f275f7968",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5550",
+        "up_votes": "38",
+        "down_votes": "33",
+        "column_array": [
+            0,
+            "4",
+            "3093",
+            "1516",
+            "887",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>RCOG</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_890\" data-linkid=\"890\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_890\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_890\" data-linkid=\"890\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_890\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg-29.pdf\">Perineal tear guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "11573": {
+                "concept_text": "Third degree perineal tears require repair in theatre by a suitably trained clinician",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "18575_B_729",
+        "new_question_id": "58287",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "8589",
+        "notes_id_link": "1_1309",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amoxicillin 500\u202fmg three times daily for 7 days",
+            "Clarithromycin 500\u202fmg twice daily for 7 days",
+            "Co-amoxiclav 625\u202fmg three times daily for 7 days",
+            "Levofloxacin 500\u202fmg once daily for 7 days",
+            "Metronidazole 400\u202fmg three times daily for 5 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old woman attends a sexual health clinic with a 1-week history of increased vaginal discharge and mild lower abdominal discomfort. She reports unprotected vaginal sex with a man she met two months ago. Her last menstrual period was over six weeks ago. <br /><br />On testing, she is confirmed to be pregnant and a first-pass urine NAAT confirms infection with <i>Chlamydia trachomatis</i>. She is allergic to azithromycin.<br /><br />What is the most appropriate treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Amoxicillin 500\u202fmg three times daily for 7 days</b> is correct because amoxicillin is a safe and effective treatment for <i>Chlamydia trachomatis</i> in pregnancy. It is well tolerated and does not carry teratogenic risks. This patient is in her first trimester and has a confirmed infection. Treating promptly is important to reduce the risk of miscarriage, preterm birth, and neonatal complications. Amoxicillin is a suitable option given her allergy to azithromycin and should be commenced immediately.<br /><br /><b>Clarithromycin 500\u202fmg twice daily for 7 days</b> is incorrect because clarithromycin is not routinely recommended for the treatment of <i>Chlamydia trachomatis</i> in pregnancy. It has been associated with potential teratogenicity in animal studies, and there is limited safety data in pregnant women. Safer alternatives exist, and current guidance does not support the use of clarithromycin in this context.<br /><br /><b>Co-amoxiclav 625\u202fmg three times daily for 7 days</b> is incorrect because although it contains amoxicillin, which is effective against Chlamydia trachomatis, the addition of clavulanic acid is unnecessary and not recommended for this indication. Co-amoxiclav is generally reserved for infections involving beta-lactamase\u2013producing organisms. Using broader-spectrum antibiotics unnecessarily increases the risk of side effects, such as gastrointestinal upset, and promotes antimicrobial resistance. In pregnancy, narrower-spectrum agents like amoxicillin alone are preferred when effective, making co-amoxiclav an inappropriate first-line choice in this setting.<br /><br /><b>Levofloxacin 500\u202fmg once daily for 7 days</b> is incorrect because although it is active against Chlamydia trachomatis, it is not recommended in pregnancy due to concerns about effects on developing cartilage and musculoskeletal toxicity. Fluoroquinolones are generally avoided in pregnant women unless no safer alternatives are available. NICE guidelines recommend azithromycin, erythromycin, or amoxicillin as first-line options for treating chlamydia in pregnancy. Levofloxacin would pose unnecessary risk to the foetus and is not an appropriate choice in this context.<br /><br /><b>Metronidazole 400\u202fmg three times daily for 5 days</b> is incorrect because metronidazole is not effective against <i>Chlamydia trachomatis</i>. It is used to treat infections such as bacterial vaginosis and trichomoniasis, but it has no activity against chlamydial organisms. Prescribing metronidazole in this setting would not eradicate the infection or reduce the risk of pregnancy complications.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman attends a sexual health clinic with a 1-week history of increased vaginal discharge and mild lower abdominal discomfort. She reports unprotected vaginal sex with a man she met two months ago. Her last menstrual period was over six weeks ago. <br /><br />On testing, she is confirmed to be pregnant and a first-pass urine NAAT confirms infection with <i>Chlamydia trachomatis</i>. She is allergic to azithromycin.<br /><br />What is the most appropriate treatment?",
+        "correct_answer": "1",
+        "question_notes": "<b>Amoxicillin 500\u202fmg three times daily for 7 days</b> is correct because amoxicillin is a safe and effective treatment for <i>Chlamydia trachomatis</i> in pregnancy. It is well tolerated and does not carry teratogenic risks. This patient is in her first trimester and has a confirmed infection. Treating promptly is important to reduce the risk of miscarriage, preterm birth, and neonatal complications. Amoxicillin is a suitable option given her allergy to azithromycin and should be commenced immediately.<br /><br /><b>Clarithromycin 500\u202fmg twice daily for 7 days</b> is incorrect because clarithromycin is not routinely recommended for the treatment of <i>Chlamydia trachomatis</i> in pregnancy. It has been associated with potential teratogenicity in animal studies, and there is limited safety data in pregnant women. Safer alternatives exist, and current guidance does not support the use of clarithromycin in this context.<br /><br /><b>Co-amoxiclav 625\u202fmg three times daily for 7 days</b> is incorrect because although it contains amoxicillin, which is effective against Chlamydia trachomatis, the addition of clavulanic acid is unnecessary and not recommended for this indication. Co-amoxiclav is generally reserved for infections involving beta-lactamase\u2013producing organisms. Using broader-spectrum antibiotics unnecessarily increases the risk of side effects, such as gastrointestinal upset, and promotes antimicrobial resistance. In pregnancy, narrower-spectrum agents like amoxicillin alone are preferred when effective, making co-amoxiclav an inappropriate first-line choice in this setting.<br /><br /><b>Levofloxacin 500\u202fmg once daily for 7 days</b> is incorrect because although it is active against Chlamydia trachomatis, it is not recommended in pregnancy due to concerns about effects on developing cartilage and musculoskeletal toxicity. Fluoroquinolones are generally avoided in pregnant women unless no safer alternatives are available. NICE guidelines recommend azithromycin, erythromycin, or amoxicillin as first-line options for treating chlamydia in pregnancy. Levofloxacin would pose unnecessary risk to the foetus and is not an appropriate choice in this context.<br /><br /><b>Metronidazole 400\u202fmg three times daily for 5 days</b> is incorrect because metronidazole is not effective against <i>Chlamydia trachomatis</i>. It is used to treat infections such as bacterial vaginosis and trichomoniasis, but it has no activity against chlamydial organisms. Prescribing metronidazole in this setting would not eradicate the infection or reduce the risk of pregnancy complications.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "<i>Chlamydia</i>",
+        "body": "<i>Chlamydia</i> is the <span class=\"concept\" data-cid=\"5052\">most prevalent</span> sexually transmitted infection in the UK and is caused by <i>Chlamydia trachomatis</i>, an obligate intracellular pathogen. Approximately <span class=\"concept\" data-cid=\"263\">1 in 10 young women</span> in the UK have <i>Chlamydia</i>. The incubation period is around 7-21 days, although it should be remembered a large percentage of cases are asymptomatic<br /><br />Features<br /><ul><li>asymptomatic in around <span class=\"concept\" data-cid=\"4321\">70% of women and 50% of men</span></li><li>women: cervicitis (discharge, bleeding), dysuria</li><li>men: urethral discharge, dysuria</li></ul><br />Potential complications<br /><ul><li>epididymitis</li><li>pelvic inflammatory disease</li><li>endometritis</li><li>increased incidence of ectopic pregnancies</li><li>infertility</li><li>reactive arthritis</li><li>perihepatitis (Fitz-Hugh-Curtis syndrome)</li></ul><br />Investigation<br /><ul><li>traditional cell culture is no longer widely used</li><li><span class=\"concept\" data-cid=\"9349\">nuclear acid amplification tests (NAATs) are now the investigation of choice</span></li><li>urine (first void urine sample), vulvovaginal swab or cervical swab may be tested using the NAAT technique</li><li><span class=\"concept\" data-cid=\"9652\">for women: the vulvovaginal swab is first-line</span></li><li><span class=\"concept\" data-cid=\"9653\">for men: the urine test is first-line</span></li><li><span class=\"concept\" data-cid=\"9655\"><i>Chlamydia</i>testing should be carried out two weeks after a possible exposure</span></li></ul><br />Screening<br /><ul><li>in England the National <i>Chlamydia</i> Screening Programme is open to all men and women aged 15-24 years</li><li>the 2009 SIGN guidelines support this approach, suggesting screening all sexually active patients aged 15-24 years</li><li>relies heavily on opportunistic testing</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb004b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb004.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from PathoPic</span></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb004b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Pap smear demonstrating infected endocervical cells. Red inclusion bodies are typical</div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"262\">doxycycline (7 day course) if first-line</span><ul><li>this is now preferred to azithromycin due to concerns about <i>Mycoplasma genitalium</i>. This infection is often coexistant in patients with <i>Chlamydia</i> and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred</li><li>if doxycycline is contraindicated / not tolerated then either azithromycin (1g od for one day, then 500mg od for two days) should be used</li></ul></li><li>if pregnant then <span class=\"concept\" data-cid=\"8589\">azithromycin</span> is first-line with erythromycin or amoxicillin as possible alternatives. The SIGN guidelines suggest azithromycin 1g stat is the drug of choice 'following discussion of the balance of benefits and risks with the patient'</li><li>patients diagnosed with <i>Chlamydia</i> should be offered a choice of provider for initial partner notification - either trained practice nurses with support from GUM, or referral to GUM</li><li>for men with urethral symptoms: all contacts since, and in the four weeks prior to, the onset of symptoms</li><li>for women and asymptomatic men all partners from the last six months or the most recent sexual partner should be contacted</li><li>contacts of confirmed <i>Chlamydia</i> cases should be offered treatment prior to the results of their investigations being known (treat then test)</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/uwb005b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/uwb005.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Chlamydia infection'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from PathoPic</span></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/uwb005b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Another Pap smear demonstrating infected endocervical cells. Stained with H&E</div>",
+        "notes_hash": "b37f025220db783665718eb3d1bde473",
+        "knowledge_graph_node_id_link": 1213,
+        "concept": "Azithromycin is the treatment of choice for <i>Chlamydia</i> in pregnancy - erythromycin or amoxicillin are alternatives",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "1489",
+        "up_votes": "3",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "652",
+            "304",
+            "100",
+            "144",
+            "289",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for Sexual Health and HIV</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_219\" data-linkid=\"219\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_219\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_219\" data-linkid=\"219\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_219\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashhguidelines.org/current-guidelines/urethritis-and-cervicitis/chlamydia-2015/\">2018 UK national guideline for the management of infection with Chlamydia trachomatis</a></td></tr></table><br><br><table style='width:100%'><tr><td>Public Health England</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_399\" data-linkid=\"399\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_399\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_399\" data-linkid=\"399\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_399\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/437433/hpr2215_STI_NCSP_v6.pdf\">Sexually transmitted infections and chlamydia screening in England, 2014</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "262": {
+                "concept_text": "<i>Chlamydia</i> - treat with doxycycline",
+                "concept_percentile": "55"
+            },
+            "8589": {
+                "concept_text": "Azithromycin is the treatment of choice for <i>Chlamydia</i> in pregnancy - erythromycin or amoxicillin are alternatives",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22780_B_47",
+        "new_question_id": "37949",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "10213",
+        "notes_id_link": "1_2825",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Haemolytic uraemic syndrome (HUS)",
+            "Henoch-Schonlein purpura (HSP)",
+            "Immune thrombocytopaenic purpura (ITP)",
+            "Meningitis",
+            "Non accidental injury",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 10-year-old boy presents to the emergency department with his mother who is very concerned as she has noticed a non-blanching petechial rash on his arms and legs. The child has had a recent cold but today his observations are normal and he appears well otherwise. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b> HUS is incorrect </b> - HUS is associated with a triad of microangiopathic haemolytic uraemia, acute kidney injury and thrombocytopenia. The symptoms are typically bloody diarrhoea, abdominal pain, fever and vomiting, and the history usually includes exposure to farm animals. The child in the question hasn't experienced these symptoms so this diagnosis is unlikely. <br /><br /><b> HSP is incorrect </b> - Features of HSP are typically a non-blanching rash affecting the legs and buttocks, arthralgia and abdominal pain. This child has presented with a non-blanching rash but not in the distribution of HSP and has not experienced any other symptoms of HSP. The child has presented with a typical history of ITP so a diagnosis of ITP is more likely.<br /><br /><b> ITP is correct </b> - ITP is correct as it is a differential in any child presenting with petechiae and no fever and is usually preceded by a viral illness. We need blood results to confirm the diagnosis but these typically present with isolated thrombocytopenia and this low platelet count causes the classic petechial rash.<br /><br /><b> Meningitis is incorrect </b> - Meningitis is a top differential for anyone presenting with a petechial rash but this child is well and has no fever so this diagnosis is unlikely. <br /><br /><b> Non-accidental injury is incorrect </b> - NAI is an essential differential for any petechial rash but this rash is a good description of ITP. The question stem does not give any red flags for non-accidental injury but this should still be considered in practice.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 10-year-old boy presents to the emergency department with his mother who is very concerned as she has noticed a non-blanching petechial rash on his arms and legs. The child has had a recent cold but today his observations are normal and he appears well otherwise. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "<b> HUS is incorrect </b> - HUS is associated with a triad of microangiopathic haemolytic uraemia, acute kidney injury and thrombocytopenia. The symptoms are typically bloody diarrhoea, abdominal pain, fever and vomiting, and the history usually includes exposure to farm animals. The child in the question hasn't experienced these symptoms so this diagnosis is unlikely. <br /><br /><b> HSP is incorrect </b> - Features of HSP are typically a non-blanching rash affecting the legs and buttocks, arthralgia and abdominal pain. This child has presented with a non-blanching rash but not in the distribution of HSP and has not experienced any other symptoms of HSP. The child has presented with a typical history of ITP so a diagnosis of ITP is more likely.<br /><br /><b> ITP is correct </b> - ITP is correct as it is a differential in any child presenting with petechiae and no fever and is usually preceded by a viral illness. We need blood results to confirm the diagnosis but these typically present with isolated thrombocytopenia and this low platelet count causes the classic petechial rash.<br /><br /><b> Meningitis is incorrect </b> - Meningitis is a top differential for anyone presenting with a petechial rash but this child is well and has no fever so this diagnosis is unlikely. <br /><br /><b> Non-accidental injury is incorrect </b> - NAI is an essential differential for any petechial rash but this rash is a good description of ITP. The question stem does not give any red flags for non-accidental injury but this should still be considered in practice.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Immune thrombocytopenia (ITP) in children",
+        "body": "Immune (or idiopathic) thrombocytopenic purpura (ITP) is an immune-mediated reduction in the platelet count. Antibodies are directed against the <span class=\"concept\" data-cid=\"11632\">glycoprotein IIb/IIIa or Ib-V-IX complex</span>. It is an example of a <span class=\"concept\" data-cid=\"11633\">type II hypersensitivity</span> reaction.<br /><br />ITP in children is typically more acute than in adults and may follow an <span class=\"concept\" data-cid=\"2828\">infection</span> or vaccination. <br /><br />Features<br /><ul><li>bruising</li><li><span class=\"concept\" data-cid=\"10213\">petechial or purpuric rash</span></li><li>bleeding is less common and typically presents as epistaxis or gingival bleeding</li></ul><br />Investigation<br /><ul><li>full blood count<ul><li>should demonstrate an isolated thrombocytopenia</li></ul></li><li>blood film</li><li><span class=\"concept\" data-cid=\"11634\">bone marrow examinations is only required if there are atypical features</span> e.g.<ul><li>lymph node enlargement/splenomegaly, high/low white cells</li><li>failure to resolve/respond to treatment</li></ul></li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"11635\">usually, no treatment is required</span><ul><li>ITP resolves in around 80% of children with 6 months, with or without treatment</li></ul></li><li>advice to avoid activities that may result in trauma (e.g. team sports)</li><li>other options may be indicated if the platelet count is very low (e.g. < 10 * 10<sup>9</sup>/L) or there is significant bleeding. Options include:<ul><li>oral/IV corticosteroid</li><li>IV immunoglobulins</li><li>platelet transfusions can be used in an emergency (e.g. active bleeding) but are only a temporary measure as they are soon destroyed by the circulating antibodies</li></ul></li></ul>",
+        "notes_hash": "0e3fac0bd018611ca227f8748a7ec39d",
+        "knowledge_graph_node_id_link": 1452,
+        "concept": "ITP is a differential in any child presenting with petechiae and no fever",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "5604",
+        "up_votes": "41",
+        "down_votes": "98",
+        "column_array": [
+            0,
+            "251",
+            "2241",
+            "2804",
+            "260",
+            "48",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zqDvb49K9ro\" data-description=\"Understanding Immune Thrombocytopenic Purpura - ITP\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1686\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zqDvb49K9ro/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zqDvb49K9ro\" data-description=\"Understanding Immune Thrombocytopenic Purpura - ITP\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1686\">Understanding Immune Thrombocytopenic Purpura - ITP</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2859\" data-mediaid=\"2859\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2859\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2859\" data-mediaid=\"2859\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2859\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JF4ERKr_CnI\" data-description=\"Thrombocytopaenia (low platelets) Overview - platelet physiology, classification, pathophysiology\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"818\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JF4ERKr_CnI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JF4ERKr_CnI\" data-description=\"Thrombocytopaenia (low platelets) Overview - platelet physiology, classification, pathophysiology\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"818\">Thrombocytopaenia (low platelets) Overview - platelet physiology, classification, pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1424\" data-mediaid=\"1424\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1424\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1424\" data-mediaid=\"1424\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1424\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HT5Kt3vPZgA\" data-description=\"Immune thrombocytopenia (ITP)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1101\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/HT5Kt3vPZgA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HT5Kt3vPZgA\" data-description=\"Immune thrombocytopenia (ITP)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1101\">Immune thrombocytopenia (ITP)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1905\" data-mediaid=\"1905\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1905\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1905\" data-mediaid=\"1905\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1905\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "10213": {
+                "concept_text": "ITP is a differential in any child presenting with petechiae and no fever",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2210",
+        "new_question_id": "61341",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "12046",
+        "notes_id_link": "1_1512",
+        "theme": "Acute angle-closure glaucoma initial investigation choice",
+        "instruction": "",
+        "options": [
+            "",
+            "Fundoscopy",
+            "Fluorescein staining",
+            "Gonioscopy",
+            "Optical coherence tomography",
+            "Visual field testing",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old woman presents to the Emergency Department with a 3-hour history of severe right eye pain and blurred vision. She reports seeing halos around lights earlier this evening whilst watching television. Examination reveals a red right eye with a hazy cornea and a mid-dilated pupil that reacts sluggishly to light.<br /><br />Select the single most appropriate initial investigation from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Gonioscopy</b> is the correct answer. This patient presents with classical features of acute angle-closure glaucoma (AACG): severe ocular pain, blurred vision, halos around lights, corneal oedema (hazy cornea), and a semi-dilated sluggishly reactive pupil. The symptoms were precipitated by watching television in a dark room, which causes pupillary dilatation\u2014a known precipitant of AACG. When AACG is suspected, both tonometry and gonioscopy are essential investigations. Tonometry measures the intraocular pressure (IOP), which will be elevated in AACG. Gonioscopy uses a special lens on the slit lamp to directly visualise the anterior chamber angle, allowing confirmation that the angle is closed and distinguishing between angle-closure and open-angle mechanisms. This distinction is crucial as it determines the appropriate management pathway. In AACG, gonioscopy will reveal a closed angle with iris-trabecular contact. Both investigations should be performed urgently before initiating emergency medical treatment with topical medications (pilocarpine, beta-blockers, alpha-2 agonists) and intravenous acetazolamide, followed by definitive laser peripheral iridotomy once the acute attack settles.<br /><br /><b>Fundoscopy</b> is not the priority investigation in suspected AACG. Whilst fundoscopy may eventually reveal optic disc changes in chronic glaucoma or cupping, it does not help diagnose the acute condition or differentiate between angle-closure and open-angle mechanisms. The corneal oedema present in AACG often makes adequate fundoscopy difficult or impossible during the acute presentation. The immediate priority is to confirm the diagnosis through tonometry and gonioscopy, and to initiate treatment to lower the IOP and prevent permanent optic nerve damage.<br /><br /><b>Fluorescein staining</b> is used to identify corneal epithelial defects such as abrasions, ulcers, or dendritic ulcers in herpes simplex keratitis. Whilst this patient has a red eye, the constellation of symptoms\u2014severe pain, halos, semi-dilated pupil, and hazy cornea\u2014points towards AACG rather than a corneal surface problem. In AACG, the corneal haziness is due to oedema from elevated IOP rather than epithelial damage. Fluorescein staining would not help diagnose or manage AACG and would delay appropriate treatment.<br /><br /><b>Optical coherence tomography</b> (OCT) is a non-invasive imaging technique that provides cross-sectional images of the retina and optic nerve head. It is valuable for assessing retinal pathology and monitoring glaucomatous optic nerve damage over time. However, OCT is not an appropriate initial investigation for suspected AACG. It does not measure IOP, does not visualise the anterior chamber angle, and would significantly delay the urgent diagnosis and treatment required in this ophthalmic emergency. OCT may have a role in follow-up assessment of optic nerve damage after the acute episode has been managed.<br /><br /><b>Visual field testing</b> assesses peripheral and central vision and is used to detect and monitor glaucomatous visual field defects over time. Perimetry is important in the long-term management of glaucoma but is not an appropriate investigation during an acute presentation of AACG. The patient is in severe pain with reduced visual acuity, making reliable visual field testing impossible. Furthermore, visual field testing does not diagnose AACG, measure IOP, or visualise the angle. The priority is immediate confirmation of diagnosis through tonometry and gonioscopy, followed by urgent treatment to prevent irreversible vision loss.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old woman presents to the Emergency Department with a 3-hour history of severe right eye pain and blurred vision. She reports seeing halos around lights earlier this evening whilst watching television. Examination reveals a red right eye with a hazy cornea and a mid-dilated pupil that reacts sluggishly to light.<br /><br />Select the single most appropriate initial investigation from the options below.",
+        "correct_answer": "3",
+        "question_notes": "<b>Gonioscopy</b> is the correct answer. This patient presents with classical features of acute angle-closure glaucoma (AACG): severe ocular pain, blurred vision, halos around lights, corneal oedema (hazy cornea), and a semi-dilated sluggishly reactive pupil. The symptoms were precipitated by watching television in a dark room, which causes pupillary dilatation\u2014a known precipitant of AACG. When AACG is suspected, both tonometry and gonioscopy are essential investigations. Tonometry measures the intraocular pressure (IOP), which will be elevated in AACG. Gonioscopy uses a special lens on the slit lamp to directly visualise the anterior chamber angle, allowing confirmation that the angle is closed and distinguishing between angle-closure and open-angle mechanisms. This distinction is crucial as it determines the appropriate management pathway. In AACG, gonioscopy will reveal a closed angle with iris-trabecular contact. Both investigations should be performed urgently before initiating emergency medical treatment with topical medications (pilocarpine, beta-blockers, alpha-2 agonists) and intravenous acetazolamide, followed by definitive laser peripheral iridotomy once the acute attack settles.<br /><br /><b>Fundoscopy</b> is not the priority investigation in suspected AACG. Whilst fundoscopy may eventually reveal optic disc changes in chronic glaucoma or cupping, it does not help diagnose the acute condition or differentiate between angle-closure and open-angle mechanisms. The corneal oedema present in AACG often makes adequate fundoscopy difficult or impossible during the acute presentation. The immediate priority is to confirm the diagnosis through tonometry and gonioscopy, and to initiate treatment to lower the IOP and prevent permanent optic nerve damage.<br /><br /><b>Fluorescein staining</b> is used to identify corneal epithelial defects such as abrasions, ulcers, or dendritic ulcers in herpes simplex keratitis. Whilst this patient has a red eye, the constellation of symptoms\u2014severe pain, halos, semi-dilated pupil, and hazy cornea\u2014points towards AACG rather than a corneal surface problem. In AACG, the corneal haziness is due to oedema from elevated IOP rather than epithelial damage. Fluorescein staining would not help diagnose or manage AACG and would delay appropriate treatment.<br /><br /><b>Optical coherence tomography</b> (OCT) is a non-invasive imaging technique that provides cross-sectional images of the retina and optic nerve head. It is valuable for assessing retinal pathology and monitoring glaucomatous optic nerve damage over time. However, OCT is not an appropriate initial investigation for suspected AACG. It does not measure IOP, does not visualise the anterior chamber angle, and would significantly delay the urgent diagnosis and treatment required in this ophthalmic emergency. OCT may have a role in follow-up assessment of optic nerve damage after the acute episode has been managed.<br /><br /><b>Visual field testing</b> assesses peripheral and central vision and is used to detect and monitor glaucomatous visual field defects over time. Perimetry is important in the long-term management of glaucoma but is not an appropriate investigation during an acute presentation of AACG. The patient is in severe pain with reduced visual acuity, making reliable visual field testing impossible. Furthermore, visual field testing does not diagnose AACG, measure IOP, or visualise the angle. The priority is immediate confirmation of diagnosis through tonometry and gonioscopy, followed by urgent treatment to prevent irreversible vision loss.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Acute angle-closure glaucoma",
+        "body": "Glaucoma is a group of disorders characterised by optic neuropathy due, in the majority of patients, to raised intraocular pressure (IOP). It is now recognised that a minority of patients with raised IOP do not have glaucoma and vice versa.<br /><br />In acute angle-closure glaucoma (AACG) there is a rise in IOP secondary to an impairment of aqueous outflow. Factors predisposing to AACG include:<br /><ul><li>hypermetropia (long-sightedness)</li><li>pupillary dilatation</li><li>lens growth associated with age</li></ul><br />Features<br /><ul><li>severe pain: may be ocular or headache</li><li>decreased visual acuity</li><li>symptoms worse with mydriasis (e.g. watching TV in a dark room)</li><li>hard, red-eye</li><li><span class=\"concept\" data-cid=\"3811\">haloes around lights</span></li><li><span class=\"concept\" data-cid=\"4628\">semi-dilated non-reacting pupil</span></li><li>corneal oedema results in dull or hazy cornea</li><li>systemic upset may be seen, such as nausea and vomiting and even abdominal pain</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd577b.jpg\" data-fancybox=\"gallery\" data-caption=\"Acute angle closure glaucoma of the right eye - note the semi-dilated pupil and erythema\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd577.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd956b.jpg\" data-fancybox=\"gallery\" data-caption=\"Photograph showing acute angle-closure glaucoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd956.jpg\" alt=\"\" /></a></div></div></div><br /><span class=\"concept\" data-cid=\"12046\">Investigations</span><br /><ul><li>tonometry to assess for elevated IOP</li><li>gonioscopy (literally looking, <i>oscopy</i>, at the angle, <i>gonio</i>): a special lens for the slit lamp that allows visualisation of the angle </li></ul><br /><h5 class='notes-heading'>Management</h5><br />The management of AACG is an emergency and should prompt <span class=\"concept\" data-cid=\"324\">urgent referral</span> to an ophthalmologist. Emergency medical treatment is required to lower the IOP with more definitive surgical treatment given once the acute attack has settled.<br /><br />There are no guidelines for the initial medical treatment emergency treatment. An example regime would be:<br /><ul><li><span class=\"concept\" data-cid=\"11093\">combination of eye drops</span>, for example: <ul><li>a <span class=\"concept\" data-cid=\"2045\">direct parasympathomimetic</span> (e.g. pilocarpine, causes contraction of the ciliary muscle &rarr; opening the trabecular meshwork &rarr; increased outflow of the aqueous humour)</li><li>a beta-blocker (e.g. timolol, decreases aqueous humour production)</li><li>an alpha-2 agonist (e.g. apraclonidine,  dual mechanism, decreasing aqueous humour production and increasing uveoscleral outflow)</li></ul></li><li><span class=\"concept\" data-cid=\"323\">intravenous acetazolamide</span><ul><li>reduces aqueous secretions</li></ul></li><li>some guidelines also recommend the use of topical steroids to reduce inflammation</li></ul><br />Definitive management<br /><ul><li><span class=\"concept\" data-cid=\"4067\">laser peripheral iridotomy</span> <ul><li>creates a tiny hole in the peripheral iris &rarr; aqueous humour flowing to the angle</li></ul></li></ul>",
+        "notes_hash": "c3495fb00a8a7c4c7b8e7244335ff632",
+        "knowledge_graph_node_id_link": 1130,
+        "concept": "Both tonometry and gonioscopy should be performed in patients with suspected acute angle-closure glaucoma",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "181",
+        "up_votes": "0",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "48",
+            "9",
+            "102",
+            "15",
+            "7",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_306\" data-linkid=\"306\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_306\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">35</span><button type=\"button\" style=\"\" id=\"link_dislike_306\" data-linkid=\"306\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_306\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/angle-closure-glaucoma\">Acute angle closure glaucoma review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wHKo0CPtaMY\" data-description=\"Acute angle closure glaucoma\" data-upvotes=\"14\" data-downvotes=\"1\" data-media=\"1211\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wHKo0CPtaMY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wHKo0CPtaMY\" data-description=\"Acute angle closure glaucoma\" data-upvotes=\"14\" data-downvotes=\"1\" data-media=\"1211\">Acute angle closure glaucoma</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2123\" data-mediaid=\"2123\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2123\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2123\" data-mediaid=\"2123\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2123\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/guspTGxUO_c\" data-description=\"Glaucoma (open-angle, closed-angle, and normal-tension)\" data-upvotes=\"9\" data-downvotes=\"4\" data-media=\"415\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/guspTGxUO_c/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/guspTGxUO_c\" data-description=\"Glaucoma (open-angle, closed-angle, and normal-tension)\" data-upvotes=\"9\" data-downvotes=\"4\" data-media=\"415\">Glaucoma (open-angle, closed-angle, and normal-tension)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_711\" data-mediaid=\"711\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_711\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_711\" data-mediaid=\"711\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_711\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "3811": {
+                "concept_text": "Acute angle closure glaucoma: ocular pain, decreased visual acuity, worse with mydriasis, haloes around lights",
+                "concept_percentile": "64"
+            },
+            "4067": {
+                "concept_text": "Laser peripheral iridotomy is the definitive treatment for acute angle-closure glaucoma",
+                "concept_percentile": "75"
+            },
+            "4628": {
+                "concept_text": "Acute closed-angle glaucoma presents with a fixed dilated pupil with conjunctival injection",
+                "concept_percentile": "75"
+            },
+            "12046": {
+                "concept_text": "Both tonometry and gonioscopy should be performed in patients with suspected acute angle-closure glaucoma",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16079_B_76",
+        "new_question_id": "37053",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11742",
+        "notes_id_link": "1_1384",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Measles",
+            "Parvovirus B19",
+            "Roseola infantum",
+            "Rubella",
+            "Scarlet fever",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 18-month-old boy presents to the GP with his mother, who is concerned about a new rash. His mother reports that the rash came on suddenly 1 day ago. His mother recalls he had a cold with a high fever two weeks ago, but this appears to have settled now. Otherwise he is normally fit and well. <br /><br />On examination, there is an erythematous rash across the child's trunk and limbs. The rash does not appear itchy and blanches with pressure. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question tests knowledge of the five red rashes of childhood. <br /><br />A coryzal illness with associated high fever that resolves and is followed 1-2 weeks later by an erythematous rash across the trunk and limbs is a classical history of <b>roseola infantum</b>.<br /><br /><b>Measles</b> typically presents with an erythematous rash that classically starts behind the ears and then spreads to the rest of the body. It is associated with fever, conjunctivitis, coryzal symptoms and white koplik spots on the inside of the mouth. <br /><br /><b>Parvovirus B19</b> is also known as slapped cheek disease because the rash first appears on the cheeks, before spreading to the trunk and arms. It is usually preceded by 2-5 days of mild fever and non-specific viral symptoms.<br /><br /><b>Rubella</b> presents with an erythematous rash starting on the face before spreading to the rest of the body. It is associated with mild fever, sore throat and lymphadenopathy.<br /><br /><b>Scarlet fever</b> is caused by group A streptococcal bacteria and usually begins as tonsillitis. It is a red-pink rash that begins on the trunk. It is associated with fever, a strawberry appearance of the tongue, and cervical lymphadenopathy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 18-month-old boy presents to the GP with his mother, who is concerned about a new rash. His mother reports that the rash came on suddenly 1 day ago. His mother recalls he had a cold with a high fever two weeks ago, but this appears to have settled now. Otherwise he is normally fit and well. <br /><br />On examination, there is an erythematous rash across the child's trunk and limbs. The rash does not appear itchy and blanches with pressure. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "This question tests knowledge of the five red rashes of childhood. <br /><br />A coryzal illness with associated high fever that resolves and is followed 1-2 weeks later by an erythematous rash across the trunk and limbs is a classical history of <b>roseola infantum</b>.<br /><br /><b>Measles</b> typically presents with an erythematous rash that classically starts behind the ears and then spreads to the rest of the body. It is associated with fever, conjunctivitis, coryzal symptoms and white koplik spots on the inside of the mouth. <br /><br /><b>Parvovirus B19</b> is also known as slapped cheek disease because the rash first appears on the cheeks, before spreading to the trunk and arms. It is usually preceded by 2-5 days of mild fever and non-specific viral symptoms.<br /><br /><b>Rubella</b> presents with an erythematous rash starting on the face before spreading to the rest of the body. It is associated with mild fever, sore throat and lymphadenopathy.<br /><br /><b>Scarlet fever</b> is caused by group A streptococcal bacteria and usually begins as tonsillitis. It is a red-pink rash that begins on the trunk. It is associated with fever, a strawberry appearance of the tongue, and cervical lymphadenopathy.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Roseola infantum",
+        "body": "Roseola infantum (also known as exanthem subitum, occasionally sixth disease) is a common disease of infancy caused by the <span class=\"concept\" data-cid=\"7264\">human herpes virus 6</span> (HHV6). It has an incubation period of 5-15 days and typically affects children aged 6 months to 2 years.<br /><br /><span class=\"concept\" data-cid=\"11742\">Features</span><br /><ul><li>high fever: lasting a few days, <span class=\"concept\" data-cid=\"277\">followed later</span> by a</li><li>maculopapular rash</li><li>Nagayama spots: papular enanthem on the uvula and soft palate</li><li><span class=\"concept\" data-cid=\"278\">febrile convulsions occur in around 10-15%</span></li><li>diarrhoea and cough are also commonly seen</li></ul><br />Other possible consequences of HHV6 infection<br /><ul><li>aseptic meningitis</li><li>hepatitis</li></ul><br /><span class=\"concept\" data-cid=\"3833\">School exclusion is not needed</span>.",
+        "notes_hash": "277b615e58f14c9355411693290d9466",
+        "knowledge_graph_node_id_link": 1480,
+        "concept": "Roseola <b>infan</b>tum <br /><ul><li>common 6 months - 2 years</li><li>fever <b>followed later</b> by rash</li><li>febrile seizures common</li></ul>",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "7049",
+        "up_votes": "46",
+        "down_votes": "28",
+        "column_array": [
+            0,
+            "582",
+            "848",
+            "4384",
+            "408",
+            "827",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IYv7ouCl56A\" data-description=\"Human herpesvirus 6 (Roseola)\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"1121\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/IYv7ouCl56A/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IYv7ouCl56A\" data-description=\"Human herpesvirus 6 (Roseola)\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"1121\">Human herpesvirus 6 (Roseola)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1941\" data-mediaid=\"1941\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1941\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1941\" data-mediaid=\"1941\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1941\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "277": {
+                "concept_text": "Roseola infantum - fever <b>followed later</b> by rash",
+                "concept_percentile": "73"
+            },
+            "278": {
+                "concept_text": "Roseola infantum - febrile convulsions occur in around 10-15%",
+                "concept_percentile": "63"
+            },
+            "11742": {
+                "concept_text": "Roseola <b>infan</b>tum \n   - common 6 months - 2 years\n   - fever <b>followed later</b> by rash\n   - febrile seizures common",
+                "concept_percentile": "96"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2175",
+        "new_question_id": "10195",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_774",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Liver cirrhosis",
+            "Chronic renal failure",
+            "Haemochromatosis",
+            "Internal malignancy",
+            "Pulmonary fibrosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75 year-old male patient presents with a feeling of weakness of the legs. On examination there are also some skin changes present, with purple plaques on the dorsum of the hands. You suspect a diagnosis of dermatomyositis. Which of the following underlying conditions is associated with dermatomyositis and should be considered?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Dermatomyositis is usually an autoimmune condition, being most common in women aged 50-70.  However, it can also be a paraneoplastic disease, with ovarian, breast and lung tumours being the most common underlying cancers.  The possibility of underlying malignancy should be considered, especially in older patients.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75 year-old male patient presents with a feeling of weakness of the legs. On examination there are also some skin changes present, with purple plaques on the dorsum of the hands. You suspect a diagnosis of dermatomyositis. Which of the following underlying conditions is associated with dermatomyositis and should be considered?",
+        "correct_answer": "4",
+        "question_notes": "Dermatomyositis is usually an autoimmune condition, being most common in women aged 50-70.  However, it can also be a paraneoplastic disease, with ovarian, breast and lung tumours being the most common underlying cancers.  The possibility of underlying malignancy should be considered, especially in older patients.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Dermatomyositis",
+        "body": "Overview<br /><ul><li>an inflammatory disorder causing symmetrical, proximal muscle weakness and characteristic skin lesions</li><li>may be idiopathic or associated with connective tissue disorders or <span class=\"concept\" data-cid=\"2709\">underlying malignancy</span> (typically ovarian, breast and lung cancer, found in 20-25% - more if patient older). <span class=\"concept\" data-cid=\"4160\">Screening for an underlying malignancy</span> is usually performed following a diagnosis of dermatomyositis</li><li>polymyositis is a variant of the disease where skin manifestations are not prominent</li></ul><br />Skin features<br /><ul><li>photosensitive</li><li>macular rash over back and shoulder</li><li>heliotrope rash in the periorbital region</li><li><span class=\"concept\" data-cid=\"2665\">Gottron's papules - roughened red papules over extensor surfaces of fingers</span></li><li> 'mechanic's hands': extremely dry and scaly hands with linear 'cracks' on the palmar and lateral aspects of the fingers</li><li>nail fold capillary dilatation</li></ul><br />Other features<br /><ul><li>proximal muscle weakness +/- tenderness</li><li>Raynaud's</li><li>respiratory muscle weakness</li><li>interstitial lung disease: e.g. Fibrosing alveolitis or organising pneumonia</li><li>dysphagia, dysphonia</li></ul><br />Investigations<br /><ul><li>the majority of patients (around 80%) are ANA positive</li><li>around 30% of patients have antibodies to aminoacyl-tRNA synthetases (anti-synthetase antibodies), including:<ul><li><span class=\"concept\" data-cid=\"9286\">antibodies against histidine-tRNA ligase (also called Jo-1)</span></li><li>antibodies to signal recognition particle (SRP)</li><li>anti-Mi-2 antibodies</li></ul></li></ul>",
+        "notes_hash": "b4954774d646eebc091d256ac2500f83",
+        "knowledge_graph_node_id_link": 1416,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4131",
+        "up_votes": "64",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "294",
+            "295",
+            "715",
+            "2004",
+            "823",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2030\" data-linkid=\"2030\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2030\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_2030\" data-linkid=\"2030\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2030\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://dermnetnz.org/topics/adult-onset-dermatomyositis/\">Dermatomyositis</a></td></tr></table><br><br><table style='width:100%'><tr><td>Primary Care Dermatology Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2031\" data-linkid=\"2031\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2031\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2031\" data-linkid=\"2031\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2031\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.pcds.org.uk/clinical-guidance/dermatomyositis\">Dermatomyositis (including polymyositis)</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cZbj0EhOFQI\" data-description=\"Polymyositis and Dermatomyositis in 3 Minutes\" data-upvotes=\"39\" data-downvotes=\"3\" data-media=\"1395\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cZbj0EhOFQI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cZbj0EhOFQI\" data-description=\"Polymyositis and Dermatomyositis in 3 Minutes\" data-upvotes=\"39\" data-downvotes=\"3\" data-media=\"1395\">Polymyositis and Dermatomyositis in 3 Minutes</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2457\" data-mediaid=\"2457\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2457\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">39</span><button type=\"button\" style=\"\" id=\"media_dislike_2457\" data-mediaid=\"2457\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2457\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FGAEw97Etb4\" data-description=\"Understanding Myositis (Polymyositis and Dermatomyositis)\" data-upvotes=\"5\" data-downvotes=\"5\" data-media=\"1498\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FGAEw97Etb4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FGAEw97Etb4\" data-description=\"Understanding Myositis (Polymyositis and Dermatomyositis)\" data-upvotes=\"5\" data-downvotes=\"5\" data-media=\"1498\">Understanding Myositis (Polymyositis and Dermatomyositis)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2637\" data-mediaid=\"2637\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2637\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2637\" data-mediaid=\"2637\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2637\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ekRZkjTlgro\" data-description=\"Dermatomyositis Overview\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1554\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ekRZkjTlgro/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ekRZkjTlgro\" data-description=\"Dermatomyositis Overview\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1554\">Dermatomyositis Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2708\" data-mediaid=\"2708\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2708\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2708\" data-mediaid=\"2708\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2708\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2665": {
+                "concept_text": "Gottron's papules, roughened red papules over the knuckles mainly, are seen in dermatomyositis \r\n",
+                "concept_percentile": "73"
+            },
+            "9286": {
+                "concept_text": "Dermatomyositis is associated with the anti-Jo-1 antibody",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_11",
+        "new_question_id": "3604",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1613",
+        "theme": "Drug monitoring",
+        "instruction": "For each of the following drugs select the most appropriate monitoring tests once treatment has commenced",
+        "options": [
+            "",
+            "U&E, LFT",
+            "TFT, LFT",
+            "TFT, U&E",
+            "LFT",
+            "FBC, U&E",
+            "FBC, LFT, U&E",
+            "U&E",
+            "Plasma glucose",
+            "ECG",
+            "No routine monitoring required"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Methotrexate",
+            "Levetiracetam",
+            "Amiodarone"
+        ],
+        "answers": [
+            "6",
+            "10",
+            "2"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Methotrexate",
+        "correct_answer": "6",
+        "question_notes": "",
+        "answer_order": "6",
+        "answer": "6",
+        "title": "Drug monitoring",
+        "body": "The tables below show the monitoring requirements of common drugs. It should be noted these are basic guidelines and do not relate to monitoring effectiveness of treatment (e.g. Checking lipids for patients taking a statin)<br /><br /><h5 class='notes-heading'>Cardiovascular drugs</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Drug</b></th><th><b>Main monitoring parameters</b></th><th><b>Details of monitoring</b></th></tr></thead><tbody><tr><td>Statins</td><td>LFT</td><td>LFTs at baseline, 3 months and 12 months</td></tr><tr><td>ACE inhibitors</td><td>U&E</td><td>U&E prior to treatment<br />U&E after increasing dose<br />U&E at least annually</td></tr><tr><td>Amiodarone</td><td>TFT, LFT</td><td>TFT, LFT, U&E, CXR prior to treatment<br />TFT, LFT every 6 months</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Rheumatology drugs</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Drug</b></th><th><b>Main monitoring parameters</b></th><th><b>Details of monitoring</b></th></tr></thead><tbody><tr><td>Methotrexate</td><td>FBC, LFT, U&E</td><td>The Committee on Safety of Medicines recommend 'FBC and renal and LFTs before starting treatment and repeated weekly until therapy stabilised, thereafter patients should be monitored every 2-3 months'</td></tr><tr><td>Azathioprine</td><td>FBC, LFT</td><td>FBC, LFT before treatment<br />FBC weekly for the first 4 weeks<br />FBC, LFT every 3 months</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Neuropsychiatric drugs</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>Drug</b></th><th><b>Main monitoring parameters</b></th><th><b>Details of monitoring</b></th></tr></thead><tbody><tr><td>Lithium</td><td>Lithium level, TFT, U&E</td><td>TFT, U&E prior to treatment<br />Lithium levels weekly until stabilised then every 3 months<br />TFT, U&E every 6 months</td></tr><tr><td>Sodium valproate</td><td>LFT</td><td>LFT, FBC before treatment<br />LFT 'periodically' during first 6 months</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Endocrine drugs</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid4\" ><thead><tr><th><b>Drug</b></th><th><b>Main monitoring parameters</b></th><th><b>Details of monitoring</b></th></tr></thead><tbody><tr><td>Glitazones</td><td>LFT</td><td>LFT before treatment<br />LFT 'regularly' during treatment</td></tr></tbody></table></div>",
+        "notes_hash": "b1acdbf186336d20f9733d3d20e300ef",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5414",
+        "up_votes": "43",
+        "down_votes": "53",
+        "column_array": [
+            0,
+            "3688",
+            "2515",
+            "2565",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society for Rheumatology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1424\" data-linkid=\"1424\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1424\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1424\" data-linkid=\"1424\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1424\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/rheumatology/article/56/6/865/3053478\">2017 Guideline for the prescription and monitoring of non-biologic disease-modifying anti-rheumatic drugs</a></td></tr></table>",
+        "media": "",
+        "comment_count": 8,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_158",
+        "new_question_id": "28419",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "817",
+        "notes_id_link": "1_681",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Anti-streptolysin O titre",
+            "Full blood count",
+            "Monospot test",
+            "Nasopharyngeal aspirate for viral polymerase chain reaction (PCR)",
+            "Sputum culture",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 14-year-old boy attends the emergency department with a 1-day history of a maculopapular rash. He presented to his general practitioner 2 days earlier with coryzal symptoms and a sore throat and he was prescribed a course of oral antibiotics.<br /><br />On examination, he has a low-grade fever of 37.8\u00baC. He has a widespread maculopapular rash over his face and torso. His throat is erythematous with enlarged tonsils and there is palpable tender posterior cervical lymphadenopathy. <br /><br />What is the most appropriate investigation to diagnose the underlying condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has a likely diagnosis of glandular fever, a viral illness usually caused by the Ebstein-Barr virus. Symptoms include a sore throat, fever, and general malaise. On examination, it is common to see palpable cervical lymphadenopathy and an erythematous throat. In the later stages of the illness, splenomegaly may appear. It is more common in teenagers and is commonly spread via respiratory droplets and has been nicknamed the 'kissing disease'. This child was given a course of antibiotics by his general practitioner. In patients with glandular fever, if amoxicillin is given, a non-specific maculopapular rash appears over the skin. Glandular fever is diagnosed by the Monospot test, a blood test that detects the presence of heterophil antibodies made following infection with Ebstein-Barr virus.<br /><br />An anti-streptolysin O titre is used to detect the presence of a streptococcal infection secondary to group A streptococcal bacteria such as <i>Streptococcus pyogenes</i>. Group A streptococcal infections commonly cause bacterial tonsillitis which can initially be virtually indistinguishable from glandular fever. However, it does not explain his maculopapular rash following antibiotic use.<br /><br />A full blood count can be useful in helping aid a diagnosis, particularly glandular fever where a full blood count will demonstrate a lymphocytosis. However, a monospot blood test is more diagnostic of glandular fever, which makes it the correct answer.<br /><br />A nasopharyngeal aspirate (NPA) for viral polymerase chain reaction (PCR) can be useful for diagnosing viral infections such as measles. Measles would also account for a history of coryza and maculopapular rash. However, measles is less common in the UK following the introduction of the measles, mumps, and rubella vaccination. It is also less likely in a teenager. A NPA is not routinely used in diagnosing glandular fever.<br /><br />A sputum culture has no role in diagnosing glandular fever. It can be used to help reach an alternative diagnosis but as this patient does not have a history of cough or sputum production, it seems unlikely to be of use.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 14-year-old boy attends the emergency department with a 1-day history of a maculopapular rash. He presented to his general practitioner 2 days earlier with coryzal symptoms and a sore throat and he was prescribed a course of oral antibiotics.<br /><br />On examination, he has a low-grade fever of 37.8\u00baC. He has a widespread maculopapular rash over his face and torso. His throat is erythematous with enlarged tonsils and there is palpable tender posterior cervical lymphadenopathy. <br /><br />What is the most appropriate investigation to diagnose the underlying condition?",
+        "correct_answer": "3",
+        "question_notes": "This patient has a likely diagnosis of glandular fever, a viral illness usually caused by the Ebstein-Barr virus. Symptoms include a sore throat, fever, and general malaise. On examination, it is common to see palpable cervical lymphadenopathy and an erythematous throat. In the later stages of the illness, splenomegaly may appear. It is more common in teenagers and is commonly spread via respiratory droplets and has been nicknamed the 'kissing disease'. This child was given a course of antibiotics by his general practitioner. In patients with glandular fever, if amoxicillin is given, a non-specific maculopapular rash appears over the skin. Glandular fever is diagnosed by the Monospot test, a blood test that detects the presence of heterophil antibodies made following infection with Ebstein-Barr virus.<br /><br />An anti-streptolysin O titre is used to detect the presence of a streptococcal infection secondary to group A streptococcal bacteria such as <i>Streptococcus pyogenes</i>. Group A streptococcal infections commonly cause bacterial tonsillitis which can initially be virtually indistinguishable from glandular fever. However, it does not explain his maculopapular rash following antibiotic use.<br /><br />A full blood count can be useful in helping aid a diagnosis, particularly glandular fever where a full blood count will demonstrate a lymphocytosis. However, a monospot blood test is more diagnostic of glandular fever, which makes it the correct answer.<br /><br />A nasopharyngeal aspirate (NPA) for viral polymerase chain reaction (PCR) can be useful for diagnosing viral infections such as measles. Measles would also account for a history of coryza and maculopapular rash. However, measles is less common in the UK following the introduction of the measles, mumps, and rubella vaccination. It is also less likely in a teenager. A NPA is not routinely used in diagnosing glandular fever.<br /><br />A sputum culture has no role in diagnosing glandular fever. It can be used to help reach an alternative diagnosis but as this patient does not have a history of cough or sputum production, it seems unlikely to be of use.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Infectious mononucleosis",
+        "body": "Infectious mononucleosis (glandular fever) is caused by the Epstein-Barr virus (EBV, also known as human herpesvirus 4, HHV-4) in 90% of cases. Less frequent causes include cytomegalovirus and HHV-6. It is most common in adolescents and young adults.<br /><br />The <span class=\"concept\" data-cid=\"7199\">classic triad of sore throat, pyrexia and lymphadenopathy</span> is seen in around 98% of patients:<br /><ul><li>sore throat</li><li>lymphadenopathy: may be present in the anterior and posterior triangles of the neck, in contrast to tonsillitis which typically only results in the upper anterior cervical chain being enlarged</li><li>pyrexia</li></ul><br />Other features include:<br /><ul><li>malaise, anorexia, headache</li><li><span class=\"concept\" data-cid=\"7200\">palatal petechiae</span></li><li><span class=\"concept\" data-cid=\"7201\">splenomegaly</span> - occurs in around 50% of patients and may rarely predispose to splenic rupture</li><li><span class=\"concept\" data-cid=\"7204\">hepatitis, transient rise in ALT</span></li><li>lymphocytosis: presence of 50% lymphocytes with at least 10% <span class=\"concept\" data-cid=\"816\">atypical lymphocytes</span></li><li><span class=\"concept\" data-cid=\"7202\">haemolytic anaemia</span> secondary to <span class=\"concept\" data-cid=\"7203\">cold agglutins (IgM)</span></li><li><span class=\"concept\" data-cid=\"817\">a maculopapular, pruritic rash develops in around 99% of patients who take ampicillin/amoxicillin whilst they have infectious mononucleosis</span></li></ul><br />Symptoms typically resolve after 2-4 weeks.<br /><br />Diagnosis<br /><ul><li><span class=\"concept\" data-cid=\"7205\">heterophil antibody test (Monospot test)</span><ul><li>NICE guidelines suggest FBC and Monospot in the 2nd week of the illness to confirm a diagnosis of glandular fever.</li></ul></li></ul><br />Management is <span class=\"concept\" data-cid=\"5073\">supportive</span> and includes:<br /><ul><li>rest during the early stages, drink plenty of fluid, avoid alcohol</li><li>simple analgesia for any aches or pains</li><li>consensus guidance in the UK is to <span class=\"concept\" data-cid=\"818\">avoid playing contact sports for 4 weeks after having glandular fever to reduce the risk of splenic rupture</span></li></ul><br />There is an interesting correlation between EBV and socioeconomic groups. Lower socioeconomic groups have high rates of EBV seropositivity, having frequently acquired EBV in early childhood when the primary infection is often subclinical. However, higher socioeconomic groups show a higher incidence of infectious mononucleosis, as acquiring EBV in adolescence or early adulthood results in symptomatic disease.",
+        "notes_hash": "7148aa0d2dccc7f1923822115776e6cb",
+        "knowledge_graph_node_id_link": 1075,
+        "concept": "URTI symptoms + amoxicillin &rarr; rash ?glandular fever",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "6681",
+        "up_votes": "29",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "1538",
+            "162",
+            "4281",
+            "601",
+            "99",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_620\" data-linkid=\"620\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_620\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_620\" data-linkid=\"620\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_620\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/infectious-mononucleosis\">Infectious mononucleosis review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"841\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ax-adlhQMVc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"841\">Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1479\" data-mediaid=\"1479\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1479\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1479\" data-mediaid=\"1479\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1479\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/28CNEVgF3kE\" data-description=\"EBV and Mononucleosis - Pathogenesis and Clinical Presentation\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"408\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/28CNEVgF3kE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/28CNEVgF3kE\" data-description=\"EBV and Mononucleosis - Pathogenesis and Clinical Presentation\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"408\">EBV and Mononucleosis - Pathogenesis and Clinical Presentation</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_701\" data-mediaid=\"701\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_701\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_701\" data-mediaid=\"701\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_701\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kKPkG1gflfo\" data-description=\"Epstein Barr Virus (EBV) Diagnosis and Testing\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"410\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/kKPkG1gflfo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kKPkG1gflfo\" data-description=\"Epstein Barr Virus (EBV) Diagnosis and Testing\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"410\">Epstein Barr Virus (EBV) Diagnosis and Testing</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_703\" data-mediaid=\"703\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_703\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_703\" data-mediaid=\"703\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_703\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "816": {
+                "concept_text": "Atypical lymphocytes - ?glandular fever",
+                "concept_percentile": "13"
+            },
+            "817": {
+                "concept_text": "URTI symptoms + amoxicillin --> rash ?glandular fever",
+                "concept_percentile": "61"
+            },
+            "818": {
+                "concept_text": "Glandular fever: avoid contact sports for 4 weeks",
+                "concept_percentile": "86"
+            },
+            "5073": {
+                "concept_text": "Infectious mononucleosis is generally a self-limiting condition",
+                "concept_percentile": "74"
+            },
+            "7199": {
+                "concept_text": "Young adult with sore throat, fever,  lethargy, cervical lymphadenopathy persisting > 1 week --> ?infectious mononucleosis",
+                "concept_percentile": "35"
+            },
+            "7200": {
+                "concept_text": "Infectious mononucleosis - palatal petechiae",
+                "concept_percentile": "35"
+            },
+            "7201": {
+                "concept_text": "Infectious mononucleosis - splenomegaly",
+                "concept_percentile": "36"
+            },
+            "7202": {
+                "concept_text": "Infectious mononucleosis - haemolytic anaemia",
+                "concept_percentile": "29"
+            },
+            "7203": {
+                "concept_text": "Infectious mononucleosis - cold agglutins (IgM)",
+                "concept_percentile": "29"
+            },
+            "7204": {
+                "concept_text": "Infectious mononucleosis - deranged liver function tests",
+                "concept_percentile": "40"
+            },
+            "7205": {
+                "concept_text": "Heterophile antibodies - infectious mononucleosis",
+                "concept_percentile": "6"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1924",
+        "new_question_id": "60863",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "12470",
+        "notes_id_link": "1_537",
+        "theme": "Management of pre-existing T2DM in early pregnancy",
+        "instruction": "",
+        "options": [
+            "",
+            "Continue current medications and monitor closely",
+            "Stop gliclazide and start insulin",
+            "Stop metformin and continue gliclazide",
+            "Stop both medications and start insulin",
+            "Add insulin to current medications",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old woman with type 2 diabetes attends her GP surgery at 8 weeks gestation. She was diagnosed with diabetes 3 years ago and currently takes metformin 1g twice daily and gliclazide 80mg once daily. Her HbA1c is 58 mmol/mol and BMI is 32 kg/m\u00b2. She takes folic acid 400 micrograms daily and reports good adherence to medications.<br /><br />What is the most appropriate management of her diabetes?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Stop gliclazide and start insulin</b> is the correct management for this woman with pre-existing type 2 diabetes in pregnancy. NICE guidelines clearly state that for women with pre-existing diabetes, all oral hypoglycaemic agents should be stopped except metformin, and insulin should be commenced. This is because most oral agents cross the placenta and may cause fetal hypoglycaemia or other adverse effects. Metformin is considered safe in pregnancy and can be continued alongside insulin. The woman's current HbA1c of 58 mmol/mol indicates reasonable glycaemic control, but pregnancy requires tighter control with more predictable insulin therapy. She should also be advised to increase her folic acid to 5mg daily due to her diabetes.<br /><br /><b>Continue current medications and monitor closely</b> is inappropriate as gliclazide crosses the placenta and can cause neonatal hypoglycaemia. Sulfonylureas like gliclazide are contraindicated in pregnancy due to their potential teratogenic effects and risk of prolonged neonatal hypoglycaemia. Simply monitoring without changing medication puts both mother and fetus at risk.<br /><br /><b>Stop metformin and continue gliclazide</b> is the opposite of recommended practice. Metformin is considered safe in pregnancy and does not cross the placenta significantly, whereas gliclazide should be discontinued due to its potential harmful effects on the developing fetus.<br /><br /><b>Stop both medications and start insulin</b> is unnecessarily restrictive. While insulin initiation is correct, there is no indication to stop metformin as it is safe in pregnancy and can help reduce insulin requirements and maternal weight gain.<br /><br /><b>Add insulin to current medications</b> fails to address the contraindication of gliclazide in pregnancy. While adding insulin might improve glycaemic control, continuing gliclazide exposes the fetus to unnecessary risks of hypoglycaemia and potential teratogenic effects.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old woman with type 2 diabetes attends her GP surgery at 8 weeks gestation. She was diagnosed with diabetes 3 years ago and currently takes metformin 1g twice daily and gliclazide 80mg once daily. Her HbA1c is 58 mmol/mol and BMI is 32 kg/m\u00b2. She takes folic acid 400 micrograms daily and reports good adherence to medications.<br /><br />What is the most appropriate management of her diabetes?",
+        "correct_answer": "2",
+        "question_notes": "<b>Stop gliclazide and start insulin</b> is the correct management for this woman with pre-existing type 2 diabetes in pregnancy. NICE guidelines clearly state that for women with pre-existing diabetes, all oral hypoglycaemic agents should be stopped except metformin, and insulin should be commenced. This is because most oral agents cross the placenta and may cause fetal hypoglycaemia or other adverse effects. Metformin is considered safe in pregnancy and can be continued alongside insulin. The woman's current HbA1c of 58 mmol/mol indicates reasonable glycaemic control, but pregnancy requires tighter control with more predictable insulin therapy. She should also be advised to increase her folic acid to 5mg daily due to her diabetes.<br /><br /><b>Continue current medications and monitor closely</b> is inappropriate as gliclazide crosses the placenta and can cause neonatal hypoglycaemia. Sulfonylureas like gliclazide are contraindicated in pregnancy due to their potential teratogenic effects and risk of prolonged neonatal hypoglycaemia. Simply monitoring without changing medication puts both mother and fetus at risk.<br /><br /><b>Stop metformin and continue gliclazide</b> is the opposite of recommended practice. Metformin is considered safe in pregnancy and does not cross the placenta significantly, whereas gliclazide should be discontinued due to its potential harmful effects on the developing fetus.<br /><br /><b>Stop both medications and start insulin</b> is unnecessarily restrictive. While insulin initiation is correct, there is no indication to stop metformin as it is safe in pregnancy and can help reduce insulin requirements and maternal weight gain.<br /><br /><b>Add insulin to current medications</b> fails to address the contraindication of gliclazide in pregnancy. While adding insulin might improve glycaemic control, continuing gliclazide exposes the fetus to unnecessary risks of hypoglycaemia and potential teratogenic effects.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Gestational diabetes",
+        "body": "Diabetes mellitus may be a pre-existing problem or develop during pregnancy, gestational diabetes. It complicates up to 1 in 20 pregnancies. NICE estimates the following breakdown:<br /><ul><li>87.5% have gestational diabetes</li><li>7.5% have type 1 diabetes</li><li>5% have type 2 diabetes</li></ul><br /><h5 class='notes-heading'>Gestational diabetes</h5><br />Gestational diabetes is the second most common medical disorder complicating pregnancy (after hypertension), affecting around 4% of pregnancies.<br /><br />Risk factors for gestational diabetes<br /><ul><li><span class=\"concept\" data-cid=\"2386\">BMI of > 30 kg/m\u00b2</span></li><li>previous macrosomic baby weighing 4.5 kg or above</li><li><span class=\"concept\" data-cid=\"2384\">previous gestational diabetes</span></li><li><span class=\"concept\" data-cid=\"11622\">first-degree relative with diabetes</span></li><li>family origin with a high prevalence of diabetes (South Asian, black Caribbean and Middle Eastern)</li><li><span class=\"concept\" data-cid=\"12321\">unexplained stillbirth in a previous pregnancy</span></li></ul><br />Screening for gestational diabetes<br /><ul><li>the <span class=\"concept\" data-cid=\"734\">oral glucose tolerance test (OGTT)</span> is the test of choice</li><li>women who've previously had gestational diabetes: OGTT should be performed as soon as possible after booking and at 24-28 weeks if the first test is normal. NICE also recommend that early self-monitoring of blood glucose is an alternative to the OGTTs</li><li>women with any of the other risk factors should be offered an OGTT at 24-28 weeks</li></ul><br />Diagnostic thresholds for gestational diabetes<br /><ul><li>these have recently been updated by NICE, gestational diabetes is diagnosed if either:</li><li><span class=\"concept\" data-cid=\"9773\">fasting glucose is >= 5.6 mmol/L</span></li><li><span class=\"concept\" data-cid=\"9773\">2-hour glucose is >= 7.8 mmol/L</span></li></ul><br />Management of gestational diabetes<br /><ul><li>newly diagnosed women should be seen in a joint diabetes and antenatal clinic within a week</li><li>women should be taught about self-monitoring of blood glucose</li><li>advice about diet (including eating foods with a low glycaemic index) and exercise should be given</li><li>if the fasting plasma glucose level is <span class=\"concept\" data-cid=\"11344\">< 7 mmol/l a trial of diet and exercise should be offered</span><ul><li>if glucose targets are not met within 1-2 weeks of altering diet/exercise metformin should be started</li><li>if glucose targets are still not met <span class=\"concept\" data-cid=\"11068\">insulin should be added</span> to diet/exercise/metformin</li><li>gestational diabetes is treated with <span class=\"concept\" data-cid=\"3992\">short-acting</span>, not long-acting, insulin</li></ul></li><li>if at the time of diagnosis the fasting <span class=\"concept\" data-cid=\"9956\">glucose level is >= 7 mmol/l insulin should be started</span></li><li>if the plasma glucose level is between 6-6.9 mmol/l, and there is evidence of complications such as macrosomia or hydramnios, insulin should be offered</li><li>glibenclamide should only be offered for women who cannot tolerate metformin or those who fail to meet the glucose targets with metformin but decline insulin treatment</li></ul><br />Management of pre-existing diabetes<br /><ul><li>weight loss for women with BMI of > 27 kg/m^2</li><li><span class=\"concept\" data-cid=\"12470\">stop oral hypoglycaemic agents, apart from metformin, and commence insulin</span></li><li>folic acid 5 mg/day from pre-conception to 12 weeks gestation</li><li>detailed anomaly scan at 20 weeks including four-chamber view of the heart and outflow tracts</li><li>tight glycaemic control reduces complication rates</li><li>treat retinopathy as can worsen during pregnancy</li></ul><br /><h5 class='notes-heading'>Targets for self monitoring of pregnant women (pre-existing and gestational diabetes)</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Time</th><th>Target</th></tr></thead><tbody><tr><td>Fasting</td><td>5.3 mmol/l</td></tr><tr><td>1 hour after meals</td><td>7.8 mmol/l, or:</td></tr><tr><td>2 hour after meals</td><td>6.4 mmol/l</td></tr></tbody></table></div>",
+        "notes_hash": "9eb32b3d3db2b5a6cefafceb6658822e",
+        "knowledge_graph_node_id_link": 1433,
+        "concept": "Existing T2DM who becomes pregnant &rarr; stop all medications except metformin and start insulin",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "1044",
+        "up_votes": "2",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "66",
+            "581",
+            "15",
+            "296",
+            "86",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Postgraduate Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2049\" data-linkid=\"2049\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2049\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_2049\" data-linkid=\"2049\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2049\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://pmj.bmj.com/content/79/934/454.full\">DKA in pregnancy</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1350\" data-linkid=\"1350\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1350\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_1350\" data-linkid=\"1350\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1350\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng3/chapter/1-recommendations\">2015 Management of diabetes in pregnancy</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bhRPe6KP8iw\" data-description=\"Gestational diabetes\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1684\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/bhRPe6KP8iw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bhRPe6KP8iw\" data-description=\"Gestational diabetes\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1684\">Gestational diabetes</a></td></tr><tr><td><span ><small>JJ Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2856\" data-mediaid=\"2856\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2856\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2856\" data-mediaid=\"2856\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2856\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "9773": {
+                "concept_text": "Gestational diabetes can be diagnosed by either a:\n   - fasting glucose is >= 5.6 mmol/L, or\n   -  2-hour glucose level of >= 7.8 mmol/L\n   - '5678'",
+                "concept_percentile": "98"
+            },
+            "11068": {
+                "concept_text": "In gestational diabetes, if blood glucose targets are not met with diet/metformin then insulin should be added",
+                "concept_percentile": "61"
+            },
+            "11344": {
+                "concept_text": "Gestational diabetes: if the fasting plasma glucose is < 7 mmol/l a trial of diet and exercise should be offered for 1-2 weeks",
+                "concept_percentile": "99"
+            },
+            "12470": {
+                "concept_text": "Existing T2DM who becomes pregnant --> stop all medications except metformin and start insulin",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

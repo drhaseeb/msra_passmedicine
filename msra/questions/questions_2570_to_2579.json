@@ -1,0 +1,860 @@
+[
+    {
+        "question_id": "1479_B_222",
+        "new_question_id": "1599",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1184",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Must inform DVLA immediately and have a medical assessment before a decision is made as to whether she can continue driving",
+            "Can start driving if symptom free after 1 month - no need to inform the DVLA",
+            "Can start driving if symptom free after 3 months - no need to inform the DVLA",
+            "Can start driving immediately if symptom free -no need to inform the DVLA",
+            "Can start driving if symptom free after 2 months and must inform the DVLA",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 66-year-old woman comes to see you following her first TIA (transient ischaemic attack). She reports that she is generally fit and well so was shocked to find out that she had had a 'mini stroke' she is keen to get back to her usual day to day activities and would like to know more about when she can start driving her car again.<br /><br />Which one of the following would you advise?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "For group 1 drivers, following a single TIA they can start driving if symptom-free for 1 month and there is no need for them to inform the DVLA.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 66-year-old woman comes to see you following her first TIA (transient ischaemic attack). She reports that she is generally fit and well so was shocked to find out that she had had a 'mini stroke' she is keen to get back to her usual day to day activities and would like to know more about when she can start driving her car again.<br /><br />Which one of the following would you advise?",
+        "correct_answer": "2",
+        "question_notes": "For group 1 drivers, following a single TIA they can start driving if symptom-free for 1 month and there is no need for them to inform the DVLA.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "DVLA: neurological disorders",
+        "body": "The guidelines below relate to car/motorcycle use unless specifically stated. For obvious reasons, the rules relating to drivers of heavy goods vehicles tend to be much stricter<br /><br />Epilepsy/seizures - all patient must not drive and must inform the DVLA<br /><ul><li>first unprovoked/isolated seizure: <span class=\"concept\" data-cid=\"202\">6 months</span> off if there are no relevant structural abnormalities on brain imaging and no definite epileptiform activity on EEG. If these conditions are not met then this is increased to 12 months</li><li>for patients with established epilepsy or those with multiple unprovoked seizures: <ul><li>may qualify for a driving licence if they have been free from any seizure for <span class=\"concept\" data-cid=\"10622\">12 months</span></li><li>if there have been no seizures for 5 years (with medication if necessary) a 'til 70 licence is usually restored</li></ul></li><li>withdrawawl of epilepsy medication: should not drive whilst anti-epilepsy medication is being withdrawn and for 6 months after the last dose</li></ul><br />Syncope<br /><ul><li>simple faint: <span class=\"concept\" data-cid=\"206\">no restriction</span></li><li>single episode, explained and treated: 4 weeks off</li><li>single episode, unexplained: 6 months off</li><li>two or more episodes: 12 months off</li></ul><br />Other conditions<br /><ul><li>stroke or TIA: <span class=\"concept\" data-cid=\"207\">1 month</span> off driving, may not need to inform DVLA if no residual neurological deficit</li><li>multiple TIAs over short period of times: <span class=\"concept\" data-cid=\"205\">3 months</span> off driving and inform DVLA</li><li>craniotomy e.g. For meningioma: 1 year off driving*</li><li>pituitary tumour: craniotomy: 6 months; trans-sphenoidal surgery 'can drive when there is no debarring residual impairment likely to affect safe driving'</li><li>narcolepsy/cataplexy: cease driving on diagnosis, can restart once 'satisfactory control of symptoms'</li><li>chronic neurological disorders e.g. multiple sclerosis, motor neuron disease: DVLA should be informed, complete PK1 form (application for driving licence holders state of health)</li></ul><br /><br />*if the tumour is a benign meningioma and there is no seizure history, licence can be reconsidered 6 months after surgery if remains seizure free",
+        "notes_hash": "89524e3bb23d1d5e0ac0fb2c0b0717d3",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4997",
+        "up_votes": "61",
+        "down_votes": "62",
+        "column_array": [
+            0,
+            "1170",
+            "2399",
+            "573",
+            "512",
+            "343",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DVLA</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1108\" data-linkid=\"1108\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1108\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">37</span><button type=\"button\" style=\"\" id=\"link_dislike_1108\" data-linkid=\"1108\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1108\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">68</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals\">Fitness to drive guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "202": {
+                "concept_text": "Patients cannot drive for 6 months following a first unprovoked or isolated seizure if brain imaging and EEG normal",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1710",
+        "new_question_id": "6105",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1994",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pulmonary embolism",
+            "Cardiogenic shock",
+            "Papillary muscle rupture",
+            "Ventricular fibrillation",
+            "Complete heart block",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man with no significant past medical history is admitted to the Emergency Department. His ECG is consistent with an anterior myocardial infarction. Unfortunately he develops cardiac arrest shortly after arriving in the department. What is the most common cause of death in patients following a myocardial infarction?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most common cause of death in patients following a myocardial infarction is <b>ventricular fibrillation</b>. Ventricular fibrillation is a life-threatening arrhythmia characterized by rapid, chaotic electrical activity in the ventricles, leading to loss of coordinated contraction and effective circulation. It often occurs within the first few hours after an acute myocardial infarction and is responsible for a significant proportion of sudden cardiac deaths.<br /><br /><b>Pulmonary embolism</b> is not the most common cause of death following a myocardial infarction. While it can occur as a complication due to immobility or deep vein thrombosis, it is less likely than ventricular fibrillation to be the primary cause of death in this scenario.<br /><br />Similarly, <b>cardiogenic shock</b> can occur as a result of severe pump failure due to extensive myocardial damage following an infarction. It results in inadequate tissue perfusion and multiorgan dysfunction. Although cardiogenic shock has high mortality rates, it is still less common than ventricular fibrillation as the immediate cause of death after an acute myocardial infarction.<br /><br /><b>Papillary muscle rupture</b> is another potential complication that can occur after a myocardial infarction but is relatively rare. The rupture usually involves one or more papillary muscles that support the mitral valve apparatus, leading to severe mitral regurgitation and left-sided heart failure. This condition requires urgent surgical intervention but is not the most common cause of death following an MI.<br /><br />Finally, <b>complete heart block</b>, or third-degree atrioventricular block, may develop as a result of ischemic damage to the conduction system during an MI. This condition can lead to syncope or sudden cardiac arrest if untreated; however, it remains less common than ventricular fibrillation as the primary cause of death post-myocardial infarction.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man with no significant past medical history is admitted to the Emergency Department. His ECG is consistent with an anterior myocardial infarction. Unfortunately he develops cardiac arrest shortly after arriving in the department. What is the most common cause of death in patients following a myocardial infarction?",
+        "correct_answer": "4",
+        "question_notes": "The most common cause of death in patients following a myocardial infarction is <b>ventricular fibrillation</b>. Ventricular fibrillation is a life-threatening arrhythmia characterized by rapid, chaotic electrical activity in the ventricles, leading to loss of coordinated contraction and effective circulation. It often occurs within the first few hours after an acute myocardial infarction and is responsible for a significant proportion of sudden cardiac deaths.<br /><br /><b>Pulmonary embolism</b> is not the most common cause of death following a myocardial infarction. While it can occur as a complication due to immobility or deep vein thrombosis, it is less likely than ventricular fibrillation to be the primary cause of death in this scenario.<br /><br />Similarly, <b>cardiogenic shock</b> can occur as a result of severe pump failure due to extensive myocardial damage following an infarction. It results in inadequate tissue perfusion and multiorgan dysfunction. Although cardiogenic shock has high mortality rates, it is still less common than ventricular fibrillation as the immediate cause of death after an acute myocardial infarction.<br /><br /><b>Papillary muscle rupture</b> is another potential complication that can occur after a myocardial infarction but is relatively rare. The rupture usually involves one or more papillary muscles that support the mitral valve apparatus, leading to severe mitral regurgitation and left-sided heart failure. This condition requires urgent surgical intervention but is not the most common cause of death following an MI.<br /><br />Finally, <b>complete heart block</b>, or third-degree atrioventricular block, may develop as a result of ischemic damage to the conduction system during an MI. This condition can lead to syncope or sudden cardiac arrest if untreated; however, it remains less common than ventricular fibrillation as the primary cause of death post-myocardial infarction.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Myocardial infarction: complications",
+        "body": "Patients are at risk of a number of immediate, early and late complications following a myocardial infarction (MI).<br /><br /><h5 class='notes-heading'>Cardiac arrest</h5><br />This most commonly occurs due to patients developing ventricular fibrillation and is the most common cause of death following a MI. Patients are managed as per the ALS protocol with defibrillation.<br /><br /><h5 class='notes-heading'>Cardiogenic shock</h5><br />If a large part of the ventricular myocardium is damaged in the infarction the ejection fraction of the heart may decrease to the point that the patient develops cardiogenic shock. This is difficult to treat. Other causes of cardiogenic shock include the 'mechanical' complications such as left ventricular free wall rupture as listed below. Patients may require inotropic support and/or an intra-aortic balloon pump.<br /><br /><h5 class='notes-heading'>Chronic heart failure</h5><br />As described above, if the patient survives the acute phase their ventricular myocardium may be dysfunctional resulting in chronic heart failure. Loop diuretics such as furosemide will decrease fluid overload. Both ACE-inhibitors and beta-blockers have been shown to improve the long-term prognosis of patients with chronic heart failure.<br /><br /><h5 class='notes-heading'>Tachyarrhythmias</h5><br /><span class=\"concept\" data-cid=\"6891\">Ventricular fibrillation</span>, as mentioned above, is the most common cause of death following a MI. Other common arrhythmias including ventricular tachycardia.<br /><br /><h5 class='notes-heading'>Bradyarrhythmias</h5><br />Atrioventricular block is more common following <span class=\"concept\" data-cid=\"7726\">inferior myocardial infarctions</span>.<br /><br /><h5 class='notes-heading'>Pericarditis</h5><br /><span class=\"concept\" data-cid=\"4052\">Pericarditis in the first 48 hours following a transmural MI is common</span> (c. 10% of patients). The pain is typical for pericarditis (worse on lying flat etc), a pericardial rub may be heard and a pericardial effusion may be demonstrated with an echocardiogram.<br /><br /><span class=\"concept\" data-cid=\"6892\">Dressler's syndrome</span> tends to occur around <span class=\"concept\" data-cid=\"1868\">2-6 weeks</span> following a MI. The underlying pathophysiology is thought to be an autoimmune reaction against antigenic proteins formed as the myocardium recovers. It is characterised by a combination of <span class=\"concept\" data-cid=\"6897\">fever</span>, <span class=\"concept\" data-cid=\"6898\">pleuritic pain</span>, pericardial effusion and a raised ESR. It is treated with NSAIDs.<br /><br /><span class=\"concept\" data-cid=\"6893\"><h5 class='notes-heading'>Left ventricular aneurysm</h5></span><br /><br />The ischaemic damage sustained may weaken the myocardium resulting in aneurysm formation. This is typically associated with <span class=\"concept\" data-cid=\"6900\">persistent ST elevation</span> and left ventricular failure. Thrombus may form within the aneurysm increasing the risk of stroke. Patients are therefore anticoagulated.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg095b.png\" data-fancybox=\"gallery\" data-caption=\"Left ventricular aneurysm. ST-elevation with QS-waves and upright T-waves. The T/QRS ratio is much more suggestive of an LV aneurysm rather than an acute myocardial infarction. - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg095.png\" alt=\"\" /></a></div></div></div><br /><span class=\"concept\" data-cid=\"6894\"><h5 class='notes-heading'>Left ventricular free wall rupture</h5></span><br /><br />This is seen in around 3% of MIs and occurs around 1-2 weeks afterwards. Patients present with acute heart failure secondary to cardiac tamponade (<span class=\"concept\" data-cid=\"6899\">raised JVP, pulsus paradoxus</span>, diminished heart sounds). Urgent pericardiocentesis and thoracotomy are required.<br /><br /><span class=\"concept\" data-cid=\"6895\"><h5 class='notes-heading'>Ventricular septal defect</h5></span><br /><br />Rupture of the interventricular septum usually occurs in the first week and is seen in around 1-2% of patients. Features: acute heart failure associated with a pan-systolic murmur. An echocardiogram is diagnostic and will exclude acute mitral regurgitation which presents in a similar fashion. Urgent surgical correction is needed.<br /><br /><h5 class='notes-heading'>Acute mitral regurgitation</h5><br />More common with infero-posterior infarction and may be due to <span class=\"concept\" data-cid=\"5382\">ischaemia or rupture of the papillary muscle</span>. Acute hypotension and <span class=\"concept\" data-cid=\"9166\">pulmonary oedema</span> may occur. An early-to-mid systolic murmur is typically heard. Patients are treated with vasodilator therapy but often require emergency surgical repair.",
+        "notes_hash": "5683d376eef16e9a6a9598d1113aa6e7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7112",
+        "up_votes": "39",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "66",
+            "1077",
+            "679",
+            "4883",
+            "407",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>European Society of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1300\" data-linkid=\"1300\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1300\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">53</span><button type=\"button\" style=\"\" id=\"link_dislike_1300\" data-linkid=\"1300\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1300\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">30</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.escardio.org/static_file/Escardio/Guidelines/2017%20STEMI%20ehx393_web%20addenda%20-%20FOR%20WEB.pdf\">2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "5382": {
+                "concept_text": "Rupture of the papillary muscle due to a myocardial infarction --> acute mitral regurgitation --> widespread systolic murmur, hypotension, pulmonary oedema",
+                "concept_percentile": "60"
+            },
+            "6891": {
+                "concept_text": "A man develops a cardiac arrest shortly after being admitted with a myocardial infarction. The ECG monitor shows rapid, irregular waveforms - ventricular fibrillation",
+                "concept_percentile": "36"
+            },
+            "6892": {
+                "concept_text": "A man presents with central, pleuritic chest pain and fever 4 weeks following a myocardial infarction. The ESR is elevated - Dressler's syndrome",
+                "concept_percentile": "64"
+            },
+            "6893": {
+                "concept_text": "A patient is noted to have persistent ST elevation 4 weeks after sustaining a myocardial infarction. Examination reveals bibasal crackles and the presence of a third and fourth heart sound - left ventricular aneurysm",
+                "concept_percentile": "27"
+            },
+            "6894": {
+                "concept_text": "A patient develops acute heart failure 10 days following a myocardial infarction. On examination he has a raised JVP, pulsus paradoxus and diminished heart sounds - left ventricular free wall rupture",
+                "concept_percentile": "42"
+            },
+            "6895": {
+                "concept_text": "A patient develops acute heart failure 5 days after a myocardial infarction. A new pan-systolic murmur is noted on examination - ventricular septal defect",
+                "concept_percentile": "32"
+            },
+            "6897": {
+                "concept_text": "Dressler's syndrome - persistent fever following a myocardial infarction",
+                "concept_percentile": "41"
+            },
+            "6898": {
+                "concept_text": "Pleuritic chest pain, MI 4 weeks ago - Dressler syndrome",
+                "concept_percentile": "60"
+            },
+            "6899": {
+                "concept_text": "Sudden heart failure, raised JVP, pulsus parodoxus, recent MI - left ventricular free wall rupture",
+                "concept_percentile": "71"
+            },
+            "6900": {
+                "concept_text": "Persistent ST elevation following recent MI, no chest pain - left ventricular aneurysm",
+                "concept_percentile": "70"
+            },
+            "7726": {
+                "concept_text": "AV block can occur following an inferior MI",
+                "concept_percentile": "69"
+            },
+            "9166": {
+                "concept_text": "Flash pulmonary oedema can occur after acute mitral valve regurgitation due to myocardial infarction",
+                "concept_percentile": "96"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21905_B_21",
+        "new_question_id": "34126",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "5053",
+        "notes_id_link": "1_1800",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Lateral medullary syndrome",
+            "Left cranial nerve VII lower motor neuron lesion",
+            "Left cranial nerve VII upper motor neuron lesion",
+            "Right cranial nerve VII lower motor neuron lesion",
+            "Right cranial nerve VII upper motor neuron lesion",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 50-year-old man presents with a facial droop. On examination, he has a crooked smile that droops on the left. He cannot close his left eye or wrinkle the left side of his forehead.  He has no upper or lower limb weakness or sensory changes.<br /><br />What is the most likely cause of this presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Left cranial nerve VII lower motor neuron lesion </b> is correct as it would present with left-sided facial weakness without forehead sparing.<br /><br /><b> Lateral medullary syndrome </b> is incorrect as it is caused by ischemia to the lateral medulla oblongata. It would present with vertigo, dizziness, nystagmus, ataxia, nausea and vomiting, and dysphagia. <br /><br /><b>Left cranial nerve VII upper motor neuron lesion  </b> is incorrect as it would present with right-sided facial weakness with forehead sparing.<br /><br /><b>Right cranial nerve VII lower motor neuron lesion </b> is incorrect as it would present with right-sided facial weakness without forehead sparing.<br /><br /><b>Right cranial nerve VII upper motor neuron lesion </b> is incorrect as it would present with left-sided facial weakness with forehead sparing.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50-year-old man presents with a facial droop. On examination, he has a crooked smile that droops on the left. He cannot close his left eye or wrinkle the left side of his forehead.  He has no upper or lower limb weakness or sensory changes.<br /><br />What is the most likely cause of this presentation?",
+        "correct_answer": "2",
+        "question_notes": "<b>Left cranial nerve VII lower motor neuron lesion </b> is correct as it would present with left-sided facial weakness without forehead sparing.<br /><br /><b> Lateral medullary syndrome </b> is incorrect as it is caused by ischemia to the lateral medulla oblongata. It would present with vertigo, dizziness, nystagmus, ataxia, nausea and vomiting, and dysphagia. <br /><br /><b>Left cranial nerve VII upper motor neuron lesion  </b> is incorrect as it would present with right-sided facial weakness with forehead sparing.<br /><br /><b>Right cranial nerve VII lower motor neuron lesion </b> is incorrect as it would present with right-sided facial weakness without forehead sparing.<br /><br /><b>Right cranial nerve VII upper motor neuron lesion </b> is incorrect as it would present with left-sided facial weakness with forehead sparing.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Bell's palsy",
+        "body": "Bell's palsy may be defined as an acute, unilateral, idiopathic, facial nerve paralysis. The aetiology is unknown although the role of the herpes simplex virus has been investigated previously. The peak incidence is 20-40 years and the condition is more common in pregnant women.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"5053\">lower motor neuron facial nerve palsy &rarr; forehead affected</span><ul><li>in contrast, an upper motor neuron lesion 'spares' the upper face</li></ul></li><li>patients may also notice <ul><li>post-auricular pain (may precede paralysis)</li><li>altered taste</li><li>dry eyes</li><li>hyperacusis</li></ul></li></ul><br />Management<br /><ul><li>in the past a variety of treatment options have been proposed including no treatment, prednisolone only and a combination of antivirals and prednisolone</li><li>there is consensus that all patients should receive oral prednisolone within 72 hours of onset of Bell's palsy</li><li>there is an ongoing debate as to the value of adding in antiviral medications #link26 <ul><li>Antiviral treatments alone are not recommended</li><li>UpToDate recommends the addition of antivirals for severe facial palsy</li></ul></li><li><span class=\"concept\" data-cid=\"11758\">eye care</span> is important to prevent exposure keratopathy<ul><li>prescription of artificial tears and eye lubricants should be considered</li><li>If they are unable to close the eye at bedtime, they should tape it closed using microporous tape</li></ul></li></ul><br />Follow-up<br /><ul><li>if the paralysis shows no sign of improvement after <concepts1970>3 weeks, refer urgently to ENT</span></li><li>a referral to <span class=\"concept\" data-cid=\"1150\">plastic surgery</span> may be appropriate for patients with more long-standing weakness e.g. several months</li></ul><br />Prognosis<br /><ul><li>most people with Bell's palsy make a <span class=\"concept\" data-cid=\"1965\">full recovery within 3-4 months</span></li><li>if untreated around 15% of patients have permanent moderate to severe weakness</li></ul>",
+        "notes_hash": "59ca8ed5a5b140eef0bfdbdbbbf96db4",
+        "knowledge_graph_node_id_link": 1143,
+        "concept": "Bell's palsy is a lower motor neuron condition. Unlike UMN conditions of the face, in LMN conditions the entire side of the patients face is affected",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "5576",
+        "up_votes": "24",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "76",
+            "3500",
+            "721",
+            "892",
+            "387",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ic1hKbk4CKc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\">Bell's palsy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_944\" data-mediaid=\"944\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_944\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_944\" data-mediaid=\"944\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_944\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5053": {
+                "concept_text": "Bell's palsy is a lower motor neuron condition. Unlike UMN conditions of the face, in LMN conditions the entire side of the patients face is affected",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_60",
+        "new_question_id": "15476",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3815",
+        "notes_id_link": "1_626",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassure her that this is normal development",
+            "Advise her that breast development is not a sign of puberty",
+            "Refer to paediatric specialist for further investigation",
+            "Check sex hormone levels",
+            "Ask the mother to bring back the child in 2 weeks if breast development continues",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother brings in her 9-year-old daughter to the GP surgery. She is concerned because she noticed that for the last 2 months, her daughter has been showing signs of breast development. She is wondering whether her daughter is undergoing an abnormally early puberty.<br /><br />What would be your management plan?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Precocious puberty is the development of secondary sexual characteristics before 8 years in girls and 9 years in boys. This girl is entering puberty within the normal time frame hence the mother can be reassured.<br /><br />Option 2 is not correct because breast development is a sign of puberty.<br /><br />There is no need to refer to the paediatric specialist or check sex hormones as the child is developing normally.<br /><br />Option 5 is not correct as the breast development will continue as part of the normal pubertal development.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother brings in her 9-year-old daughter to the GP surgery. She is concerned because she noticed that for the last 2 months, her daughter has been showing signs of breast development. She is wondering whether her daughter is undergoing an abnormally early puberty.<br /><br />What would be your management plan?",
+        "correct_answer": "1",
+        "question_notes": "Precocious puberty is the development of secondary sexual characteristics before 8 years in girls and 9 years in boys. This girl is entering puberty within the normal time frame hence the mother can be reassured.<br /><br />Option 2 is not correct because breast development is a sign of puberty.<br /><br />There is no need to refer to the paediatric specialist or check sex hormones as the child is developing normally.<br /><br />Option 5 is not correct as the breast development will continue as part of the normal pubertal development.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Precocious puberty",
+        "body": "Definition<br /><ul><li>'development of secondary sexual characteristics before 8 years in females and 9 years in males'</li><li>more common in females</li></ul><br />Some other terms<br /><ul><li>thelarche (the first stage of breast development)</li><li>adrenarche (the first stage of pubic hair development)</li></ul><br />May be classified into:<br /><br />1. Gonadotrophin dependent ('central', 'true')<br /><ul><li>due to premature activation of the hypothalamic-pituitary-gonadal axis</li><li>FSH & LH raised</li></ul> <br />2. Gonadotrophin independent ('pseudo', 'false')<br /><ul><li>due to excess sex hormones</li><li>FSH & LH low</li></ul><br />Males - uncommon and usually has an organic cause<br /><br />Testes<br /><ul><li>bilateral enlargement = gonadotrophin release from intracranial lesion</li><li>unilateral enlargement = gonadal tumour</li><li>small testes = adrenal cause (tumour or adrenal hyperplasia)</li></ul><br /><br />Females - usually idiopathic or familial and follows normal sequence of puberty<br /><br />Organic causes<br /><ul><li>are rare, associated with rapid onset, neurological symptoms and signs and dissonance</li><li>e.g. McCune Albright syndrome</li></ul>",
+        "notes_hash": "ce095066fd7f61246f3dac3be42428fc",
+        "knowledge_graph_node_id_link": 11412,
+        "concept": "Precocious puberty is the development of secondary sexual characteristics before 8 years in girls and 9 years in boys",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "4436",
+        "up_votes": "23",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "3472",
+            "40",
+            "534",
+            "362",
+            "28",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oBubqC5mnFI\" data-description=\"Precocious puberty\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1450\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/oBubqC5mnFI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oBubqC5mnFI\" data-description=\"Precocious puberty\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1450\">Precocious puberty</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2562\" data-mediaid=\"2562\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2562\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2562\" data-mediaid=\"2562\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2562\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "7577_B_5",
+        "new_question_id": "40205",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "3051",
+        "notes_id_link": "1_551",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Absent corneal reflex",
+            "Holmes-Adie pupil",
+            "Inferolateral deviation of the affected eye",
+            "Peripheral visual field loss",
+            "Relative afferent pupillary defect (RAPD)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old woman with type 1 diabetes mellitus presents to the emergency department with blurry vision in her right eye. She describes her vision in that eye as 'foggy and washed out'. This began several hours ago and there is associated pain worse on eye movement. The external appearance of her eyes looks normal with no signs of trauma or infection. Her most recent HbA1c and capillary blood glucose are within normal limits. <br /><br />What examination finding is associated with the suspected condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Relative afferent pupillary defect (RAPD)</b> is the correct answer. The patient's demographic and history suggest that she has optic neuritis. This can be an early sign of multiple sclerosis but can also be associated with diabetes or syphilis. RAPD is strongly associated with optic neuritis. This is demonstrated by the 'swinging light test'. In a relatively dark room, a light is shone on the unaffected eye. This would cause both pupils to constrict as normal. However, when the light is swung over to the affected eye, both pupils will dilate. <br /><br /><b>Absent corneal reflex</b> is not associated with optic neuritis.  Associated conditions include lesions to the ophthalmic branch of the trigeminal nerve or temporal and zygomatic branches of the facial nerve.  The reflex can also be diminished or absent in patients who wear contact lenses. <br /><br /><b>Holmes-Adie pupil</b> is a benign condition that is often seen in women. It describes a dilated pupil that will respond (constrict) to accommodation but very slowly reacts to light. The pupil is also very slow to dilate back to normal size. Deep tendon reflexes may also be reduced or absent. <br /><br /><b>Inferolateral deviation of the affected eye</b> is associated with oculomotor nerve palsy. Optic neuritis causes pain that is worse on eye movement but not paralysis.<br /><br /><b>Peripheral visual field loss</b> is more commonly associated with conditions such as diabetic retinopathy, glaucoma, and stroke. In optic neuritis, the visual field deficit tends to be more central.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman with type 1 diabetes mellitus presents to the emergency department with blurry vision in her right eye. She describes her vision in that eye as 'foggy and washed out'. This began several hours ago and there is associated pain worse on eye movement. The external appearance of her eyes looks normal with no signs of trauma or infection. Her most recent HbA1c and capillary blood glucose are within normal limits. <br /><br />What examination finding is associated with the suspected condition?",
+        "correct_answer": "5",
+        "question_notes": "<b>Relative afferent pupillary defect (RAPD)</b> is the correct answer. The patient's demographic and history suggest that she has optic neuritis. This can be an early sign of multiple sclerosis but can also be associated with diabetes or syphilis. RAPD is strongly associated with optic neuritis. This is demonstrated by the 'swinging light test'. In a relatively dark room, a light is shone on the unaffected eye. This would cause both pupils to constrict as normal. However, when the light is swung over to the affected eye, both pupils will dilate. <br /><br /><b>Absent corneal reflex</b> is not associated with optic neuritis.  Associated conditions include lesions to the ophthalmic branch of the trigeminal nerve or temporal and zygomatic branches of the facial nerve.  The reflex can also be diminished or absent in patients who wear contact lenses. <br /><br /><b>Holmes-Adie pupil</b> is a benign condition that is often seen in women. It describes a dilated pupil that will respond (constrict) to accommodation but very slowly reacts to light. The pupil is also very slow to dilate back to normal size. Deep tendon reflexes may also be reduced or absent. <br /><br /><b>Inferolateral deviation of the affected eye</b> is associated with oculomotor nerve palsy. Optic neuritis causes pain that is worse on eye movement but not paralysis.<br /><br /><b>Peripheral visual field loss</b> is more commonly associated with conditions such as diabetic retinopathy, glaucoma, and stroke. In optic neuritis, the visual field deficit tends to be more central.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Optic neuritis",
+        "body": "Causes<br /><ul><li><span class=\"concept\" data-cid=\"11248\">multiple sclerosis</span>: the commonest associated disease</li><li>diabetes</li><li>syphilis</li></ul><br /><span class=\"concept\" data-cid=\"1298\">Features</span><br /><ul><li>unilateral decrease in visual acuity over hours or days</li><li><span class=\"concept\" data-cid=\"3251\">poor discrimination of colours, 'red desaturation'</span></li><li>pain worse on eye movement</li><li><span class=\"concept\" data-cid=\"3051\">relative afferent pupillary defect</span></li><li><span class=\"concept\" data-cid=\"9128\">central scotoma</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"11902\">MRI of the brain and orbits with gadolinium contrast</span> is diagnostic in most cases</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"1623\">high-dose steroids</span></li><li>recovery usually takes 4-6 weeks</li></ul><br />Prognosis<br /><ul><li>MRI: if > 3 white-matter lesions, 5-year risk of developing multiple sclerosis is c. 50%</li></ul>",
+        "notes_hash": "8164d05999353b07683d775fbc1e56d2",
+        "knowledge_graph_node_id_link": 1371,
+        "concept": "Optic neuritis is associated with relative afferent pupillary defect",
+        "concept_percentile": "73",
+        "concept_colour": "rgb(137,255,0)",
+        "number_attempts": "3949",
+        "up_votes": "17",
+        "down_votes": "31",
+        "column_array": [
+            0,
+            "232",
+            "312",
+            "84",
+            "499",
+            "2822",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "1298": {
+                "concept_text": "Subacute unilateral visual loss, eye pain worse on movements --> ?optic neuritis",
+                "concept_percentile": "73"
+            },
+            "3051": {
+                "concept_text": "Optic neuritis is associated with relative afferent pupillary defect",
+                "concept_percentile": "73"
+            },
+            "3251": {
+                "concept_text": "Colour vision ('red desaturation') is affected in optic neuritis",
+                "concept_percentile": "78"
+            },
+            "9128": {
+                "concept_text": "A central scotoma is a feature of optic neuritis",
+                "concept_percentile": "91"
+            },
+            "11248": {
+                "concept_text": "Multiple sclerosis is the most common cause of optic neuritis",
+                "concept_percentile": "52"
+            },
+            "11902": {
+                "concept_text": "Suspected optic neuritis: MRI of the brain and orbits with gadolinium contrast is the investigation of choice",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21184_B_21",
+        "new_question_id": "33868",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "313",
+        "notes_id_link": "1_1490",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise that a plaster be worn over the good eye before follow up in 6 to 8 weeks",
+            "Advise that the child is seen by her optometrist",
+            "Reassurance",
+            "Reassurance with follow up in 6 months",
+            "Referral to ophthalmology",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother brings her 7-year-old son into the surgery due to concerns about his eyes. She thinks her son's left eye is 'turned outwards'. Her son denies any changes in his vision. <br /><br />Examination of the child reveals a left exotropia. The child is asked to cover his right eye whilst focusing on a fixed point, at which point the left eye moves medially to take up fixation. <br /><br />What is the most appropriate management of this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The term exotropia describes an outwardly turned eye. Children with a squint require referral to the local paediatric eye service for assessment of the type and severity of the squint. <br /><br /><b>Advising that a plaster be worn over the good eye before follow-up in 6 to 8 weeks</b> is inappropriate. Whilst eye patching is often used as a treatment of a squint, it's important to first directly address the potential causes (e.g. space-occupying lesion) and correct any refractive error. Therefore treatment should be initiated by the local paediatric eye service.<br /><br /><b>Advising that the child is seen by her optometrist</b> is incorrect. Optometrists generally test vision and correct refractive errors. They are not medical doctors. Whilst this may be part of managing patients with a squint, a full assessment of the child should be performed by an ophthalmologist in order to assess for, and treat any medical/surgical causes (such as retinoblastoma).<br /><br /><b>Reassurance</b> is inappropriate as if left alone, squints get worse and are associated with changes in visual acuity. Here the vision in the non-dominant eye would gradually become worse, the development of which is referred to as amblyopia.  Early treatment is associated with improved outcomes. For the same reason, <b>reassurance with follow-up in 6 months</b> would also be inappropriate.<br /><br /><b>Referral to ophthalmology</b> is the most appropriate next step for the reasons listed above.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother brings her 7-year-old son into the surgery due to concerns about his eyes. She thinks her son's left eye is 'turned outwards'. Her son denies any changes in his vision. <br /><br />Examination of the child reveals a left exotropia. The child is asked to cover his right eye whilst focusing on a fixed point, at which point the left eye moves medially to take up fixation. <br /><br />What is the most appropriate management of this patient?",
+        "correct_answer": "5",
+        "question_notes": "The term exotropia describes an outwardly turned eye. Children with a squint require referral to the local paediatric eye service for assessment of the type and severity of the squint. <br /><br /><b>Advising that a plaster be worn over the good eye before follow-up in 6 to 8 weeks</b> is inappropriate. Whilst eye patching is often used as a treatment of a squint, it's important to first directly address the potential causes (e.g. space-occupying lesion) and correct any refractive error. Therefore treatment should be initiated by the local paediatric eye service.<br /><br /><b>Advising that the child is seen by her optometrist</b> is incorrect. Optometrists generally test vision and correct refractive errors. They are not medical doctors. Whilst this may be part of managing patients with a squint, a full assessment of the child should be performed by an ophthalmologist in order to assess for, and treat any medical/surgical causes (such as retinoblastoma).<br /><br /><b>Reassurance</b> is inappropriate as if left alone, squints get worse and are associated with changes in visual acuity. Here the vision in the non-dominant eye would gradually become worse, the development of which is referred to as amblyopia.  Early treatment is associated with improved outcomes. For the same reason, <b>reassurance with follow-up in 6 months</b> would also be inappropriate.<br /><br /><b>Referral to ophthalmology</b> is the most appropriate next step for the reasons listed above.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Squint",
+        "body": "Squint (strabismus) is characterised by misalignment of the visual axes. Squints may be divided into concomitant (common) and paralytic (rare). It is important to detect as uncorrected may lead to <span class=\"concept\" data-cid=\"11675\">amblyopia</span> (the brain fails to fully process inputs from one eye and over time favours the other eye).<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Concomitant</b></th><th><b>Paralytic</b></th></tr></thead><tbody><tr><td>Due to imbalance in extraocular muscles<br />Convergent is more common than divergent</td><td>Due to paralysis of extraocular muscles</td></tr></tbody></table></div><br />Detection of a squint may be made by the corneal light reflection test - holding a light source 30cm from the child's face to see if the light reflects symmetrically on the pupils<br /><br />The cover test is used to identify the nature of the squint<br /><ul><li>ask the child to focus on an object</li><li>cover one eye</li><li>observe movement of uncovered eye</li><li>cover other eye and repeat test </li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"313\">referral to secondary care</span><ul><li>eye patches may help prevent amblyopia</li></ul></li></ul>",
+        "notes_hash": "5cd17b915776b0ceba3f1f583581d06a",
+        "knowledge_graph_node_id_link": 11236,
+        "concept": "Refer children with a squint to ophthalmology",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "4779",
+        "up_votes": "21",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "849",
+            "203",
+            "58",
+            "108",
+            "3560",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Ophthalmologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2084\" data-linkid=\"2084\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2084\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_2084\" data-linkid=\"2084\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2084\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcophth.ac.uk/wp-content/uploads/2021/08/2012-SCI-250-Guidelines-for-Management-of-Strabismus-in-Childhood-2012.pdf\">2012 Guidelines for the Management of Strabismus in Childhood </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Wf8DGL7WE8U\" data-description=\"Cover Test\" data-upvotes=\"49\" data-downvotes=\"1\" data-media=\"223\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Wf8DGL7WE8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Wf8DGL7WE8U\" data-description=\"Cover Test\" data-upvotes=\"49\" data-downvotes=\"1\" data-media=\"223\">Cover Test</a></td></tr><tr><td><span ><small>U-M Kellogg Eye Center - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_367\" data-mediaid=\"367\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_367\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">49</span><button type=\"button\" style=\"\" id=\"media_dislike_367\" data-mediaid=\"367\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_367\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ortazh01baM\" data-description=\"Corneal reflections\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"1070\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ortazh01baM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ortazh01baM\" data-description=\"Corneal reflections\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"1070\">Corneal reflections</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1864\" data-mediaid=\"1864\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1864\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1864\" data-mediaid=\"1864\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1864\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "313": {
+                "concept_text": "Refer children with a squint to ophthalmology",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22486_B_169",
+        "new_question_id": "36263",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3054",
+        "notes_id_link": "1_300",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diffuse systemic sclerosis",
+            "Limited systemic sclerosis",
+            "Primary Raynaud's phenomenon",
+            "Rheumatoid arthritis",
+            "Systemic lupus erythematosus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old woman presents to her GP with several months of progressive symmetrical swelling and stiffness of her fingers. Her symptoms are worse in cold weather. She also complains of more frequent 'heartburn' recently. On examination, there are three spider naevi on her face, and her fingers are red, mildly swollen, and shiny. Examination of the heart and lungs was normal. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Limited systemic sclerosis (CREST syndrome)</b> is the correct answer. The patient has Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly and telangiectasia. Calcinosis doesn't always occur. Importantly there is no evidence of any systemic fibrosis, and therefore limited systemic fibrosis is the most likely diagnosis. <br /><br /><b>Diffuse systemic sclerosis</b> is not the most likely diagnosis. There is no evidence of any systemic fibrosis needed to confirm a diagnosis of diffuse disease. Furthermore diffuse systemic sclerosis often doesn't present in the same CREST pattern as limited systemic sclerosis. <br /><br /><b>Rheumatoid arthritis</b> is an important differential diagnosis, however would not be correct in this case. This commonly presents with small joint swelling in the hands and is often associated with Raynaud's phenomenon. However, the systemic features are more typical of systemic sclerosis.  <br /><br /><b>Primary Raynaud's phenomenon</b> is wrong in this case as there are symptoms suggestive of systemic sclerotic disease. Primary Raynaud's phenomenon is common and so should be ruled out if possible. <br /><br /><b>Systemic lupus erythematosus</b> could present in this way but it is not typical. A more common presentation would be arthralgia, mouth ulcers, photosensitivity and a malar rash.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old woman presents to her GP with several months of progressive symmetrical swelling and stiffness of her fingers. Her symptoms are worse in cold weather. She also complains of more frequent 'heartburn' recently. On examination, there are three spider naevi on her face, and her fingers are red, mildly swollen, and shiny. Examination of the heart and lungs was normal. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "<b>Limited systemic sclerosis (CREST syndrome)</b> is the correct answer. The patient has Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly and telangiectasia. Calcinosis doesn't always occur. Importantly there is no evidence of any systemic fibrosis, and therefore limited systemic fibrosis is the most likely diagnosis. <br /><br /><b>Diffuse systemic sclerosis</b> is not the most likely diagnosis. There is no evidence of any systemic fibrosis needed to confirm a diagnosis of diffuse disease. Furthermore diffuse systemic sclerosis often doesn't present in the same CREST pattern as limited systemic sclerosis. <br /><br /><b>Rheumatoid arthritis</b> is an important differential diagnosis, however would not be correct in this case. This commonly presents with small joint swelling in the hands and is often associated with Raynaud's phenomenon. However, the systemic features are more typical of systemic sclerosis.  <br /><br /><b>Primary Raynaud's phenomenon</b> is wrong in this case as there are symptoms suggestive of systemic sclerotic disease. Primary Raynaud's phenomenon is common and so should be ruled out if possible. <br /><br /><b>Systemic lupus erythematosus</b> could present in this way but it is not typical. A more common presentation would be arthralgia, mouth ulcers, photosensitivity and a malar rash.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Systemic sclerosis",
+        "body": "Systemic sclerosis is a condition of unknown aetiology characterised by hardened, sclerotic skin and other connective tissues. It is four times more common in females.<br /><br />There are three patterns of disease:<br /><br />Limited cutaneous systemic sclerosis<br /><ul><li>Raynaud's may be the first sign</li><li>scleroderma affects face and <span class=\"concept\" data-cid=\"2653\">distal limbs</span> predominately</li><li>associated with <span class=\"concept\" data-cid=\"620\">anti-centromere antibodies</span></li><li>a subtype of limited systemic sclerosis is CREST syndrome: Calcinosis, Raynaud's phenomenon, oEsophageal dysmotility, Sclerodactyly, Telangiectasia</li></ul><br />Diffuse cutaneous systemic sclerosis<br /><ul><li>scleroderma affects trunk and proximal limbs predominately</li><li>associated with <span class=\"concept\" data-cid=\"12008\">anti scl-70 antibodies</span></li><li>the most common cause of death is now respiratory involvement, which is seen in around 80%: <span class=\"concept\" data-cid=\"9152\">interstitial lung disease (ILD) and pulmonary arterial hypertension (PAH)</span></li><li>other complications include renal disease and hypertension<ul><li>patients with renal disease should be started on an <span class=\"concept\" data-cid=\"9584\">ACE inhibitor - captopril is typically used</span> due to its rapid onset and short half-life, allowing for dose titration</li><li>ACE inhibitors target the underlying mechanism by reducing efferent arteriolar vasoconstriction and limiting renin-angiotensin system activation</li></ul></li><li>poor prognosis</li></ul><br />Scleroderma (without internal organ involvement)<br /><ul><li><span class=\"concept\" data-cid=\"11590\">tightening and fibrosis of skin</span></li><li>may be manifest as plaques (morphoea) or linear</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd088b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd088.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd089b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd089.jpg\" alt=\"\" /></a></div></div></div><br />Antibodies<br /><ul><li>ANA positive in 90%</li><li>RF positive in 30%</li><li>anti-scl-70 antibodies associated with diffuse cutaneous systemic sclerosis<ul><li><span class=\"concept\" data-cid=\"12079\">associated with a higher risk of severe interstitial lung disease</span></li></ul></li><li>anti-centromere antibodies associated with limited cutaneous systemic sclerosis</li></ul>",
+        "notes_hash": "d60b421afd2455e574d59c6974aced2d",
+        "knowledge_graph_node_id_link": 11029,
+        "concept": "CREST syndrome is a subtype of limited systemic sclerosis and includes: calcinosis, Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly, telangiectasia",
+        "concept_percentile": "71",
+        "concept_colour": "rgb(147,255,0)",
+        "number_attempts": "3665",
+        "up_votes": "2",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "848",
+            "2511",
+            "122",
+            "60",
+            "124",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1223\" data-linkid=\"1223\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1223\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1223\" data-linkid=\"1223\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1223\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/systemic-sclerosis/\">Systemic sclerosis</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vez85zdCw-A\" data-description=\"Systemic Sclerosis and Scleroderma\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"1043\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vez85zdCw-A/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vez85zdCw-A\" data-description=\"Systemic Sclerosis and Scleroderma\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"1043\">Systemic Sclerosis and Scleroderma</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1825\" data-mediaid=\"1825\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1825\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1825\" data-mediaid=\"1825\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1825\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J2SgVdhxObI\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1122\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/J2SgVdhxObI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J2SgVdhxObI\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1122\">Scleroderma</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1942\" data-mediaid=\"1942\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1942\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1942\" data-mediaid=\"1942\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1942\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ai1JC34jMXA\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1405\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ai1JC34jMXA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ai1JC34jMXA\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1405\">Scleroderma</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2472\" data-mediaid=\"2472\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2472\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2472\" data-mediaid=\"2472\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2472\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9290_B_5",
+        "new_question_id": "20310",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "10045",
+        "notes_id_link": "1_1648",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Fitzpatrick type 1",
+            "Fitzpatrick type 2",
+            "Fitzpatrick type 3",
+            "Fitzpatrick type 5",
+            "Fitzpatrick type 6",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old female attends dermatology clinic having been referred by her GP with a mole that has recently changed colour. On questioning, she states that she always burns and never tans if exposed to sun. She has pale skin and red hair.<br /><br />Which grade most accurately reflects this skin type in the Fitzpatrick system?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>Fitzpatrick type 1</b>. This patient demonstrates the classic features of Fitzpatrick type 1 skin: very fair skin, red hair, and a complete inability to tan with consistent burning when exposed to sunlight. This phenotype is associated with the lowest levels of melanin production and therefore the highest risk of UV damage and skin cancers. These individuals require rigorous sun protection and should be counselled accordingly.<br /><br /><b>Fitzpatrick type 2</b> is incorrect because while these individuals also have fair skin, they typically have blonde hair and may occasionally develop a light tan, albeit with difficulty and usually after burning. The patient's description of never tanning excludes this classification.<br /><br /><b>Fitzpatrick type 3</b> is incorrect as this describes individuals who sometimes burn but can achieve a moderate tan. These people typically have darker blonde to light brown hair and cream-coloured skin at baseline, which doesn't match our patient's description.<br /><br /><b>Fitzpatrick type 5</b> is incorrect as this describes individuals with naturally brown skin who rarely burn and tan easily. This typically includes people of South Asian, Middle Eastern, or Latino descent, which is clearly not consistent with our patient's phenotype.<br /><br /><b>Fitzpatrick type 6</b> is incorrect as this describes individuals with very dark brown to black skin who never burn and always tan darkly. This typically includes people of African or Aboriginal descent, which is entirely inconsistent with our patient's described features.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old female attends dermatology clinic having been referred by her GP with a mole that has recently changed colour. On questioning, she states that she always burns and never tans if exposed to sun. She has pale skin and red hair.<br /><br />Which grade most accurately reflects this skin type in the Fitzpatrick system?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Fitzpatrick type 1</b>. This patient demonstrates the classic features of Fitzpatrick type 1 skin: very fair skin, red hair, and a complete inability to tan with consistent burning when exposed to sunlight. This phenotype is associated with the lowest levels of melanin production and therefore the highest risk of UV damage and skin cancers. These individuals require rigorous sun protection and should be counselled accordingly.<br /><br /><b>Fitzpatrick type 2</b> is incorrect because while these individuals also have fair skin, they typically have blonde hair and may occasionally develop a light tan, albeit with difficulty and usually after burning. The patient's description of never tanning excludes this classification.<br /><br /><b>Fitzpatrick type 3</b> is incorrect as this describes individuals who sometimes burn but can achieve a moderate tan. These people typically have darker blonde to light brown hair and cream-coloured skin at baseline, which doesn't match our patient's description.<br /><br /><b>Fitzpatrick type 5</b> is incorrect as this describes individuals with naturally brown skin who rarely burn and tan easily. This typically includes people of South Asian, Middle Eastern, or Latino descent, which is clearly not consistent with our patient's phenotype.<br /><br /><b>Fitzpatrick type 6</b> is incorrect as this describes individuals with very dark brown to black skin who never burn and always tan darkly. This typically includes people of African or Aboriginal descent, which is entirely inconsistent with our patient's described features.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Skin type",
+        "body": "Skin type is an important risk factor for skin cancer. Skin types may be classified according to Fitzpatrick classification:<br /><ul><li>I: <span class=\"concept\" data-cid=\"10045\">Never tans, always burns (often red hair, freckles, and blue eyes)</span></li><li>II: Usually tans, always burns</li><li>III: Always tans, sometimes burns (usually dark hair and brown eyes)</li><li>IV: Always tans, rarely burns (olive skin)</li><li>V: Sunburn and tanning after extreme UV exposure (brown skin, e.g. Indian)</li><li>VI: <span class=\"concept\" data-cid=\"3557\">Black skin (e.g. Afro-Caribbean), never tans, never burns</span></li></ul>",
+        "notes_hash": "72e75c23de424a0412ca8d74e6f25bea",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Fitzpatrick skin type 1 = pale skin, with features such as freckles, blue eyes, red hair. Always burns, never tans ",
+        "concept_percentile": "28",
+        "concept_colour": "rgb(255,142,0)",
+        "number_attempts": "7046",
+        "up_votes": "34",
+        "down_votes": "58",
+        "column_array": [
+            0,
+            "4765",
+            "847",
+            "834",
+            "414",
+            "186",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 11,
+        "concepts_for_notes": {
+            "10045": {
+                "concept_text": "Fitzpatrick skin type 1 = pale skin, with features such as freckles, blue eyes, red hair. Always burns, never tans ",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1187",
+        "new_question_id": "59090",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "12424",
+        "notes_id_link": "1_2945",
+        "theme": "Management of varicella exposure in pregnancy",
+        "instruction": "",
+        "options": [
+            "",
+            "Immediate hospital admission for intravenous aciclovir",
+            "Reassurance only as the risk period has passed",
+            "Oral aciclovir for 7 days",
+            "Urgent obstetric ultrasound scan",
+            "Varicella-zoster immunoglobulin injection",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old woman who is 24 weeks pregnant attends the antenatal clinic. She reports that her 4-year-old son developed chickenpox 8 days ago. She has no history of chickenpox and is concerned about the risk to her unborn baby. Her VZV IgG result is negative. She is otherwise well with no medical conditions.<br /><br />What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Oral aciclovir for 7 days</b> is the most appropriate management for this pregnant woman with significant varicella exposure and no immunity. According to UK guidelines, oral antivirals are now the first-line treatment for post-exposure prophylaxis in at-risk groups, including pregnant women. The timing is critical - antivirals should be started from day 7 to day 14 after the first day of exposure. In this case, the patient presents 8 days after her son developed chickenpox, making this the optimal time to initiate treatment. Pregnancy is a high-risk condition for severe varicella infection, with potential complications for both mother and fetus. The negative VZV IgG confirms her susceptibility. A 7-day course of oral aciclovir (or valaciclovir) provides effective post-exposure prophylaxis to reduce the risk of developing chickenpox or attenuate the severity if infection occurs.<br /><br /><b>Immediate hospital admission for intravenous aciclovir</b> is not indicated at this stage. Intravenous aciclovir would be appropriate for treating established, severe varicella infection, particularly in immunocompromised patients or those with complications. This patient is currently asymptomatic and has only been exposed to varicella. Oral antivirals are sufficient for post-exposure prophylaxis in this scenario.<br /><br /><b>Reassurance only as the risk period has passed</b> is incorrect. The risk period has not passed; in fact, this is precisely when intervention is needed. The incubation period for chickenpox is typically 10-21 days after exposure, and prophylactic treatment should be initiated around day 7 post-exposure to be most effective. Without intervention, this susceptible pregnant woman remains at significant risk of developing chickenpox.<br /><br /><b>Urgent obstetric ultrasound scan</b> is not the appropriate first-line management. While ultrasound monitoring may be considered if the patient develops chickenpox (particularly if exposure occurred between 13-20 weeks when the risk of congenital varicella syndrome is highest), the immediate priority is preventing or attenuating infection through antiviral prophylaxis.<br /><br /><b>Varicella-zoster immunoglobulin injection</b> is no longer available in the UK as of September 2024. Oral antivirals have replaced VZIG as the first-line post-exposure prophylaxis for all at-risk groups, including pregnant women. Even when VZIG was available, it needed to be administered within 10 days of exposure, ideally as soon as possible.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old woman who is 24 weeks pregnant attends the antenatal clinic. She reports that her 4-year-old son developed chickenpox 8 days ago. She has no history of chickenpox and is concerned about the risk to her unborn baby. Her VZV IgG result is negative. She is otherwise well with no medical conditions.<br /><br />What is the most appropriate management?",
+        "correct_answer": "3",
+        "question_notes": "<b>Oral aciclovir for 7 days</b> is the most appropriate management for this pregnant woman with significant varicella exposure and no immunity. According to UK guidelines, oral antivirals are now the first-line treatment for post-exposure prophylaxis in at-risk groups, including pregnant women. The timing is critical - antivirals should be started from day 7 to day 14 after the first day of exposure. In this case, the patient presents 8 days after her son developed chickenpox, making this the optimal time to initiate treatment. Pregnancy is a high-risk condition for severe varicella infection, with potential complications for both mother and fetus. The negative VZV IgG confirms her susceptibility. A 7-day course of oral aciclovir (or valaciclovir) provides effective post-exposure prophylaxis to reduce the risk of developing chickenpox or attenuate the severity if infection occurs.<br /><br /><b>Immediate hospital admission for intravenous aciclovir</b> is not indicated at this stage. Intravenous aciclovir would be appropriate for treating established, severe varicella infection, particularly in immunocompromised patients or those with complications. This patient is currently asymptomatic and has only been exposed to varicella. Oral antivirals are sufficient for post-exposure prophylaxis in this scenario.<br /><br /><b>Reassurance only as the risk period has passed</b> is incorrect. The risk period has not passed; in fact, this is precisely when intervention is needed. The incubation period for chickenpox is typically 10-21 days after exposure, and prophylactic treatment should be initiated around day 7 post-exposure to be most effective. Without intervention, this susceptible pregnant woman remains at significant risk of developing chickenpox.<br /><br /><b>Urgent obstetric ultrasound scan</b> is not the appropriate first-line management. While ultrasound monitoring may be considered if the patient develops chickenpox (particularly if exposure occurred between 13-20 weeks when the risk of congenital varicella syndrome is highest), the immediate priority is preventing or attenuating infection through antiviral prophylaxis.<br /><br /><b>Varicella-zoster immunoglobulin injection</b> is no longer available in the UK as of September 2024. Oral antivirals have replaced VZIG as the first-line post-exposure prophylaxis for all at-risk groups, including pregnant women. Even when VZIG was available, it needed to be administered within 10 days of exposure, ideally as soon as possible.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Chickenpox exposure in at risk groups",
+        "body": "Whilst chickenpox is generally a mild condition in children with normal immune systems, serious systemic disease may occur in at-risk groups. It also poses special risks to pregnant women, particularly to the developing fetus. It is therefore important to know how to manage varicella exposure in these special groups.<br /><br />Post-exposure prophylaxis criteria<br /><ul><li>The following criteria should be met to determine who would benefit from active post-exposure prophylaxis:<ul><li>Significant exposure to chickenpox or herpes zoster</li><li>Exposure to limited, covered-up shingles may not warrant post-exposure prophylaxis</li><li>The infectious period for chickenpox is from 24 hours prior to rash onset to 5 days after rash first appears in immunocompetent individuals</li><li>For immunosuppressed individuals, the infectious period extends until all lesions have crusted over</li></ul></li><li>A clinical condition that increases the risk of severe varicella<ul><li>Immunosuppressed patients (including those on long-term steroids, methotrexate and other common <li>immunosuppressants)</li><li>Neonates (particularly those in specific high-risk categories)</li><li>Pregnant women</li></ul></li><li>No antibodies to the varicella virus<ul><li><span class=\"concept\" data-cid=\"12423\">Ideally all at-risk exposed patients should have urgent blood test for varicella antibodies (can be performed within 24 hours)</span></li><li>This should not delay post-exposure prophylaxis past 7 days after initial contact</li><li>For immunocompetent individuals: VZV IgG <100 mIU/ml indicates susceptibility</li><li>For immunosuppressed patients: VZV IgG <150 mIU/ml indicates need for treatment</li></ul></li></ul><br /><b>Current treatment recommendations</b><br /><br />Varicella-zoster immunoglobulin (VZIG) is no longer available in the UK as of September 2024. Oral antivirals are now the first-line treatment for post-exposure prophylaxis in all at-risk groups.<br /><br />First-line treatment: <span class=\"concept\" data-cid=\"12424\">Oral antivirals</span><br /><ul><li>Patients who fulfill the above criteria should be given oral aciclovir or valaciclovir:<ul><li>Timing: Start from day 7 to day 14 after the first day of exposure</li><li>Duration: 7-day course</li><li>Late presentation: Can be started up to day 14 after exposure if necessary</li></ul></li></ul><br />The management of chickenpox exposure in pregnancy is an important topic that is covered in more detail in a separate entry to the textbook.",
+        "notes_hash": "53ee8c3cadf8f9612161c4e94aef6d0e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Oral antivirals should be used for at risk individuals exposed to varicella, starting on day 7 from the date of exposure",
+        "concept_percentile": "78",
+        "concept_colour": "rgb(112,255,0)",
+        "number_attempts": "5299",
+        "up_votes": "11",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "220",
+            "767",
+            "1682",
+            "35",
+            "2595",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Greenbook</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2040\" data-linkid=\"2040\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2040\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_2040\" data-linkid=\"2040\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2040\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/varicella-the-green-book-chapter-34\">Varicella</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "12423": {
+                "concept_text": "At-risk patients who are exposed to varicella should have an urgent blood test for VZV IgG antibodies",
+                "concept_percentile": "48"
+            },
+            "12424": {
+                "concept_text": "Oral antivirals should be used for at risk individuals exposed to varicella, starting on day 7 from the date of exposure",
+                "concept_percentile": "78"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_1383",
+        "new_question_id": "28349",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "9710",
+        "notes_id_link": "1_296",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Anaplastic carcinoma",
+            "Follicular adenoma",
+            "Follicular carcinoma",
+            "Medullary carcinoma",
+            "Papillary carcinoma",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old female presents to her general practitioner complaining of a lump in her neck. On examination, you find a 2cm neck lump midway down her trachea and palpable enlarged lymph nodes on the right side. <br /><br />You suspect a thyroid malignancy and send her for further imaging which confirms this, but fortunately, her prognosis is considered to be excellent.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is papillary carcinoma. It is the most common type of thyroid cancer, accounting for 70% of the cases. It usually presents in young females with a neck lump  with tendency to spread to cervical lymph nodes early and it has an excellent prognosis.<br /><br />Anaplastic carcinoma presents with a rapidly growing neck mass that gives her pressure symptoms (difficulty swallowing). This type of cancer represents 1% of thyroid cancers, it is not responsive to treatment and has a very poor prognosis. <br /><br />Follicular adenoma will usually present as a solitary thyroid nodule, with a firm to hard consistency and it is typically painless. It usually grows slowly. <br /><br />Follicular carcinoma has a peak onset ages 40 through 60. The most common presentation of thyroid cancer is an asymptomatic thyroid mass or nodule that can be felt in the neck. <br /><br />Medullary carcinoma arises from C cells derived from the neural crest and not thyroid tissue. As a consequence, serum calcitonin levels are often raised.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old female presents to her general practitioner complaining of a lump in her neck. On examination, you find a 2cm neck lump midway down her trachea and palpable enlarged lymph nodes on the right side. <br /><br />You suspect a thyroid malignancy and send her for further imaging which confirms this, but fortunately, her prognosis is considered to be excellent.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is papillary carcinoma. It is the most common type of thyroid cancer, accounting for 70% of the cases. It usually presents in young females with a neck lump  with tendency to spread to cervical lymph nodes early and it has an excellent prognosis.<br /><br />Anaplastic carcinoma presents with a rapidly growing neck mass that gives her pressure symptoms (difficulty swallowing). This type of cancer represents 1% of thyroid cancers, it is not responsive to treatment and has a very poor prognosis. <br /><br />Follicular adenoma will usually present as a solitary thyroid nodule, with a firm to hard consistency and it is typically painless. It usually grows slowly. <br /><br />Follicular carcinoma has a peak onset ages 40 through 60. The most common presentation of thyroid cancer is an asymptomatic thyroid mass or nodule that can be felt in the neck. <br /><br />Medullary carcinoma arises from C cells derived from the neural crest and not thyroid tissue. As a consequence, serum calcitonin levels are often raised.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Thyroid cancer",
+        "body": "Features of hyperthyroidism or hypothyroidism are not commonly seen in patients with thyroid malignancies as they rarely secrete thyroid hormones<br /><br /><h5 class='notes-heading'>Main points</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type</b></th><th><b>Percentage</b></th><th></th></tr></thead><tbody><tr><td>Papillary</td><td>70%</td><td>Often young females - <span class=\"concept\" data-cid=\"9710\">excellent prognosis</span></td></tr><tr><td>Follicular</td><td>20%</td></tr><tr><td>Medullary</td><td>5%</td><td>Cancer of parafollicular (C) cells, secrete <span class=\"concept\" data-cid=\"618\">calcitonin</span>, part of <span class=\"concept\" data-cid=\"2200\">MEN-2</span></td></tr><tr><td>Anaplastic</td><td>1%</td><td><span class=\"concept\" data-cid=\"616\">Not responsive to treatment, can cause pressure symptoms</span></td></tr><tr><td>Lymphoma</td><td>Rare</td><td>Associated with <span class=\"concept\" data-cid=\"617\">Hashimoto's thyroiditis</span></td></tr></tbody></table></div><br />Management of papillary and follicular cancer<br /><ul><li>total thyroidectomy</li><li>followed by radioiodine (I-131) to kill residual cells</li><li>monitoring:<ul><li>neck ultrasound</li><li>papillary/follicular carcinoma: <span class=\"concept\" data-cid=\"12469\">yearly thyroglobulin levels</span> to detect early recurrent disease</li><li>medullary carcinoma: <span class=\"concept\" data-cid=\"618\">calcitonin</span> + carcinoembryonic antigen</li></ul></li></ul><br /><h5 class='notes-heading'>Further information</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Type</b></th><th><b>Notes</b></th></tr></thead><tbody><tr><td>Papillary carcinoma</td><td><ul><li>Usually contain a mixture of papillary and colloidal filled follicles</li><li>Histologically tumour has papillary projections and pale empty nuclei</li><li>Seldom encapsulated</li><li>Lymph node metastasis predominate</li><li>Haematogenous metastasis rare</td></tr><tr><td></li></ul>Follicular adenoma</td><td><ul><li>Usually present as a solitary thyroid nodule</li><li>Malignancy can only be excluded on formal histological assessment</td></tr><tr><td></li></ul>Follicular carcinoma</td><td><ul><li>May appear macroscopically encapsulated, microscopically capsular invasion is seen. Without this finding the lesion is a follicular adenoma.</li><li>Vascular invasion predominates</li><li>Multifocal disease raree</td></tr><tr><td></li></ul>Medullary carcinoma</td><td><ul><li>C cells derived from neural crest and not thyroid tissue</li><li>Serum calcitonin levels often raised</li><li>Familial genetic disease accounts for up to 20% cases</li><li>Both lymphatic and haematogenous metastasis are recognised, nodal disease is associated with a very poor prognosis.</td></tr><tr><td></li></ul>Anaplastic carcinoma</td><td><ul><li>Most common in elderly females</li><li>Local invasion is a common feature</li><li>Treatment is by resection where possible, palliation may be achieved through isthmusectomy and radiotherapy. Chemotherapy is ineffective.</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "8d350ffc4f0752a1984b975730702d5b",
+        "knowledge_graph_node_id_link": 1206,
+        "concept": "Papillary thyroid cancer shows excellent prognosis, despite the tendency to spread to cervical lymph nodes early",
+        "concept_percentile": "48",
+        "concept_colour": "rgb(255,244,0)",
+        "number_attempts": "3074",
+        "up_votes": "12",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "39",
+            "790",
+            "555",
+            "415",
+            "1275",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thyroid Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_295\" data-linkid=\"295\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_295\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_295\" data-linkid=\"295\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_295\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://onlinelibrary.wiley.com/doi/pdf/10.1111/cen.12515\">2014 Guidelines for the Management of Thyroid Cancer</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/BM2u1PcdOuA\" data-description=\"Thyroid Nodule\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1059\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/BM2u1PcdOuA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/BM2u1PcdOuA\" data-description=\"Thyroid Nodule\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1059\">Thyroid Nodule</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1848\" data-mediaid=\"1848\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1848\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1848\" data-mediaid=\"1848\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1848\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ewV9xHCg9vM\" data-description=\"Thyroid cancer\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"573\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ewV9xHCg9vM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ewV9xHCg9vM\" data-description=\"Thyroid cancer\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"573\">Thyroid cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_982\" data-mediaid=\"982\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_982\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_982\" data-mediaid=\"982\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_982\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "9710": {
+                "concept_text": "Papillary thyroid cancer shows excellent prognosis, despite the tendency to spread to cervical lymph nodes early",
+                "concept_percentile": "48"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

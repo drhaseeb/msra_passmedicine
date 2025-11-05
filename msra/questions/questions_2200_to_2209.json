@@ -1,0 +1,963 @@
+[
+    {
+        "question_id": "1108_B_131",
+        "new_question_id": "10519",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_834",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "MRI scan",
+            "Ultrasound guided biopsy",
+            "Non-contrast CT scan",
+            "Contrast-enhanced CT scan",
+            "PET scan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 71-year-old patient with a 2-month history of a cough and associated weight loss shows a suspicious lung mass on chest X-ray. Which of the following is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "NICE recommends that patients with known or suspected lung cancer are offered a contrast-enhanced CT scan of the chest, liver and adrenals.<br /><br />MRI is not usually used to assess non-small cell lung cancer.<br /><br />Biopsy should not be performed before a CT scan.<br /><br />Non-contrast CT scan is less accurate than contrast CT scan in this setting, and so is not advised. <br /><br />PET scan should not be offered at this stage. <br /><br />References:<br />NICE (2011). Lung cancer: diagnosis and management.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 71-year-old patient with a 2-month history of a cough and associated weight loss shows a suspicious lung mass on chest X-ray. Which of the following is the most appropriate next step?",
+        "correct_answer": "4",
+        "question_notes": "NICE recommends that patients with known or suspected lung cancer are offered a contrast-enhanced CT scan of the chest, liver and adrenals.<br /><br />MRI is not usually used to assess non-small cell lung cancer.<br /><br />Biopsy should not be performed before a CT scan.<br /><br />Non-contrast CT scan is less accurate than contrast CT scan in this setting, and so is not advised. <br /><br />PET scan should not be offered at this stage. <br /><br />References:<br />NICE (2011). Lung cancer: diagnosis and management.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Lung cancer: investigation",
+        "body": "<span class=\"concept\" data-cid=\"12521\">Chest x-ray</span><br /><ul><li>still the first-line investigation done in patients with suspected lung cancer who present to primary care</li><li>in <span class=\"concept\" data-cid=\"887\">around 10% of patients subsequently diagnosed with lung cancer the chest x-ray was reported as normal</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb969b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing a cancer in the left lung - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb969.jpg\" alt=\"\" /></a></div></div></div><br />CT <br /><ul><li>is the investigation of choice to investigate suspected lung cancer</li></ul><br />Bronchoscopy<br /><ul><li>this allows a biopsy to be taken to obtain a histological diagnosis sometimes aided by endobronchial ultrasound</li></ul><br />PET scanning<br /><ul><li>is typically done in non-small cell lung cancer to establish eligibility for curative treatment</li><li>uses 18-fluorodeoxygenase which is preferentially taken up by neoplastic tissue</li><li>has been shown to improve diagnostic sensitivity of both local and distant metastasis spread in non-small cell lung cancer</li></ul><br />Bloods<br /><ul><li><span class=\"concept\" data-cid=\"5495\">raised platelets may be seen</span></li></ul>",
+        "notes_hash": "4f7af8b1ee18971f1223a4f7ec9b1a96",
+        "knowledge_graph_node_id_link": 1029,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6000",
+        "up_votes": "20",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "100",
+            "414",
+            "1231",
+            "4031",
+            "224",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_600\" data-linkid=\"600\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_600\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_600\" data-linkid=\"600\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_600\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/4/368\">2012 PET/CT in oncology review</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1123\" data-linkid=\"1123\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1123\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_1123\" data-linkid=\"1123\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1123\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/lung-cancer-3\">Lung cancer review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/5DmUfK5gz5g\" data-description=\"Cancers of the lung\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"421\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/5DmUfK5gz5g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/5DmUfK5gz5g\" data-description=\"Cancers of the lung\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"421\">Cancers of the lung</a></td></tr><tr><td><span ><small>MedLecturesMadeEasy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_729\" data-mediaid=\"729\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_729\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_729\" data-mediaid=\"729\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_729\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FT3gPPSxcvQ\" data-description=\"Lung Cancer: An Overview\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1226\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FT3gPPSxcvQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FT3gPPSxcvQ\" data-description=\"Lung Cancer: An Overview\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1226\">Lung Cancer: An Overview</a></td></tr><tr><td><span ><small>Oncology for Medical Students - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2144\" data-mediaid=\"2144\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2144\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2144\" data-mediaid=\"2144\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2144\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/elTZWoWfY10\" data-description=\"Lung cancer\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"837\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/elTZWoWfY10/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/elTZWoWfY10\" data-description=\"Lung cancer\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"837\">Lung cancer</a></td></tr><tr><td><span ><small> Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1464\" data-mediaid=\"1464\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1464\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1464\" data-mediaid=\"1464\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1464\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "887": {
+                "concept_text": "In around 10% of patients subsequently diagnosed with lung cancer the chest x-ray was reported as normal",
+                "concept_percentile": "12"
+            },
+            "12521": {
+                "concept_text": "Chest x-ray is still the first-line investigation done in patients with suspected lung cancer who present to primary care",
+                "concept_percentile": "16"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1521",
+        "new_question_id": "49620",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3026",
+        "notes_id_link": "1_2627",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Juvenile idiopathic arthritis",
+            "Legg-Calve-Perthes' disease",
+            "Osgood-Schlatter disease",
+            "Slipped upper femoral epiphysis",
+            "Transient synovitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-year-old boy is taken to see the GP by his mother. He has been complaining of pain in the left hip for the past 48 hours and his mother noticed him limping while playing with friends. He has no significant past medical history except for a minor viral upper respiratory tract infection one week ago.<br /><br />On examination, there is no obvious swelling or deformity of the hip. Some movement of the hip is tolerated, but excess motion causes him to complain of pain. His observations are within normal limits.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This young boy's presentation is most suggestive of <b>transient synovitis</b>, a relatively common condition that usually affects children between the ages of three and eight. It is the most common cause of hip pain in children and typically occurs following a recent viral infection, as seen here. It is characterised by a limp or refusal to weight bear, and groin/hip pain. In the absence of red flag features (such as high fever), it may be monitored in primary care; it is self-limiting. <br /><br /><b>Juvenile idiopathic arthritis</b> is incorrect. This diagnosis can only be made after 6 weeks of objective arthritis in the joint, including stiffness in the morning or after inactivity. <br /><br /><b>Legg-Calve-Perthes' disease</b> is incorrect. This condition is more common in boys, although it presents with a much more insidious limp, gradually occurring over weeks to months. The presentation in this scenario is far more acute.<br /><br /><b>Osgood-Schlatter disease</b> is incorrect. This causes knee pain, rather than hip pain. It is usually localised to the tibial tuberosity and occurs in slightly older children. It is caused by multiple small avulsion fractures.<br /><br /><b>Slipped upper femoral epiphysis</b> is incorrect. This tends to occur in slightly older children, typically during the adolescent growth spurt, and particularly in children who are overweight. In a child aged 6, transient synovitis is more likely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-year-old boy is taken to see the GP by his mother. He has been complaining of pain in the left hip for the past 48 hours and his mother noticed him limping while playing with friends. He has no significant past medical history except for a minor viral upper respiratory tract infection one week ago.<br /><br />On examination, there is no obvious swelling or deformity of the hip. Some movement of the hip is tolerated, but excess motion causes him to complain of pain. His observations are within normal limits.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This young boy's presentation is most suggestive of <b>transient synovitis</b>, a relatively common condition that usually affects children between the ages of three and eight. It is the most common cause of hip pain in children and typically occurs following a recent viral infection, as seen here. It is characterised by a limp or refusal to weight bear, and groin/hip pain. In the absence of red flag features (such as high fever), it may be monitored in primary care; it is self-limiting. <br /><br /><b>Juvenile idiopathic arthritis</b> is incorrect. This diagnosis can only be made after 6 weeks of objective arthritis in the joint, including stiffness in the morning or after inactivity. <br /><br /><b>Legg-Calve-Perthes' disease</b> is incorrect. This condition is more common in boys, although it presents with a much more insidious limp, gradually occurring over weeks to months. The presentation in this scenario is far more acute.<br /><br /><b>Osgood-Schlatter disease</b> is incorrect. This causes knee pain, rather than hip pain. It is usually localised to the tibial tuberosity and occurs in slightly older children. It is caused by multiple small avulsion fractures.<br /><br /><b>Slipped upper femoral epiphysis</b> is incorrect. This tends to occur in slightly older children, typically during the adolescent growth spurt, and particularly in children who are overweight. In a child aged 6, transient synovitis is more likely.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Transient synovitis",
+        "body": "Transient synovitis is sometimes referred to as irritable hip. It generally presents as acute hip pain following a recent viral infection. It is the commonest cause of hip pain in children. The typical age group is <span class=\"concept\" data-cid=\"3026\">3-8 years</span>.<br /><br /><span class=\"concept\" data-cid=\"2372\">Features</span><br /><ul><li>limp/refusal to weight bear</li><li>groin or hip pain</li><li>a <span class=\"concept\" data-cid=\"2977\">low-grade fever</span> is present in a minority of patients<ul><li>high fever should raise the suspicion of other causes such as septic arthritis</li></ul></li></ul><br />NICE help us with the difficult task of excluding septic arthritis and other serious diagnoses in children who present with a limp. They suggest:<br /><ul><li><span class=\"concept\" data-cid=\"11508\">fever</span> is a red flag, indicating the need for urgent specialist assessment</li><li><span class=\"concept\" data-cid=\"11509\">children may be monitored in primary care</span> (with a presumptive diagnosis of transient synovitis)  '<i>If the child is aged 3-9 years, well, afebrile, mobile but limping, and has had the symptoms for less than 72 hours</i></li></ul><br />Transient synovitis is <span class=\"concept\" data-cid=\"2817\">self-limiting</span>, requiring only rest and analgesia.",
+        "notes_hash": "248c3996a519f74a90050bf0a40c93a5",
+        "knowledge_graph_node_id_link": 1102,
+        "concept": "Transient synovitis is most commonly seen in children aged 3-8 years",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "4493",
+        "up_votes": "10",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "164",
+            "303",
+            "75",
+            "198",
+            "3753",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"3\" data-media=\"1420\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uKmFTtCPdKM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"3\" data-media=\"1420\">Paediatric Limp: Differential Frameworks</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2493\" data-mediaid=\"2493\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2493\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_2493\" data-mediaid=\"2493\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2493\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2372": {
+                "concept_text": "A child with hip pain, limp and recent infective illness --> ? transient synovitis",
+                "concept_percentile": "82"
+            },
+            "2977": {
+                "concept_text": "Transient synovitis is often associated with a mild fever",
+                "concept_percentile": "79"
+            },
+            "3026": {
+                "concept_text": "Transient synovitis is most commonly seen in children aged 3-8 years",
+                "concept_percentile": "61"
+            },
+            "11508": {
+                "concept_text": "If a child with a limp/hip pain has a fever they should be referred for same-day assessment, even if a diagnosis of transient synovitis is suspected",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_34",
+        "new_question_id": "14640",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3034",
+        "notes_id_link": "1_1039",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Vitamin D replacement",
+            "Radiotherapy",
+            "Alendronate",
+            "Cinacalcet",
+            "Oral phosphate binders",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 52-year-old male patient presents to the GP surgery with a 3-year history of progressively worsening hip and back pain. He reports the hip pain is worse on weight-bearing and improves with rest. On examination, you noticed frontal bossing and bowing of the legs. <br /><br />What is the most appropriate first-line treatment for his condition ?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has Paget's disease and the first line treatments are bisphosphonates<br /><br />Vitamin D replacement is not a treatment of the Paget's disease.<br /><br />Radiotherapy is a treatment for osteosarcoma.<br /><br />Cinacalcet is used to treat hypercalcaemia secondary to hyperparathyroidism.<br /><br />Oral phosphate binders are used in renal failure.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 52-year-old male patient presents to the GP surgery with a 3-year history of progressively worsening hip and back pain. He reports the hip pain is worse on weight-bearing and improves with rest. On examination, you noticed frontal bossing and bowing of the legs. <br /><br />What is the most appropriate first-line treatment for his condition ?",
+        "correct_answer": "3",
+        "question_notes": "This patient has Paget's disease and the first line treatments are bisphosphonates<br /><br />Vitamin D replacement is not a treatment of the Paget's disease.<br /><br />Radiotherapy is a treatment for osteosarcoma.<br /><br />Cinacalcet is used to treat hypercalcaemia secondary to hyperparathyroidism.<br /><br />Oral phosphate binders are used in renal failure.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Paget's disease of the bone",
+        "body": "Paget's disease is a disease of increased but uncontrolled bone turnover. It is thought to be primarily a disorder of osteoclasts, with <span class=\"concept\" data-cid=\"8023\">excessive osteoclastic resorption followed by increased osteoblastic activity</span>. Paget's disease is common (UK prevalence 5%) but symptomatic in only 1 in 20 patients. The <span class=\"concept\" data-cid=\"5017\">skull, spine/pelvis, and long bones of the lower extremities are most commonly affected</span>.<br /><br />Predisposing factors<br /><ul><li>increasing age</li><li>male sex</li><li>northern latitude</li><li>family history</li></ul><br />Clinical features - only 5% of patients are symptomatic<br /><ul><li>the stereotypical presentation is an <span class=\"concept\" data-cid=\"154\">older male with bone pain and an isolated raised ALP</span></li><li>bone pain (e.g. pelvis, lumbar spine, femur)</li><li>classical, untreated features: bowing of tibia, bossing of skull</li></ul><br />Investigations<br /><ul><li>bloods<ul><li>raised alkaline phosphatase (ALP) </li><li>calcium and phosphate are typically normal. Hypercalcaemia may occasionally occur with prolonged immobilisation</li></ul></li><li>other markers of bone turnover include<ul><li>procollagen type I N-terminal propeptide (PINP)</li><li>serum C-telopeptide (CTx)</li><li>urinary N-telopeptide (NTx)</li><li><span class=\"concept\" data-cid=\"8994\">urinary hydroxyproline</span></li></ul></li><li>x-rays<ul><li><span class=\"concept\" data-cid=\"12327\">plain radiographs are the first-line investigation and are usually diagnostic</span></li><li>osteolysis in early disease &rarr; mixed lytic/sclerotic lesions later</li><li>skull x-ray: thickened vault, osteoporosis circumscripta</li></ul></li><li>bone scintigraphy<ul><li>increased uptake is seen focally at the sites of active bone lesions</li></ul></li></ul><br />Management<br /><ul><li>indications for treatment include <ul><li>bone pain</li><li>skull or long bone deformity</li><li>fracture</li><li>periarticular Paget's</li></ul></li><li><span class=\"concept\" data-cid=\"3034\">bisphosphonate</span> (either oral risedronate or IV zoledronate)</li><li>calcitonin is less commonly used now</li></ul><br />Complications<br /><ul><li>deafness (cranial nerve entrapment)</li><li>bone sarcoma (1% if affected for > 10 years)</li><li>fractures</li><li>skull thickening</li><li>high-output cardiac failure</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb013b.jpg\" data-fancybox=\"gallery\" data-caption=\"The radiograph demonstrates marked thickening of the calvarium. There are also ill-defined sclerotic and lucent areas throughout. These features are consistent with Paget's disease.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb013.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb194b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pelvic x-ray from an elderly man with Paget's disease. There is a smooth cortical expansion of the left hemipelvic bones with diffuse increased bone density and coarsening of trabeculae.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb194.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb104b.jpg\" data-fancybox=\"gallery\" data-caption=\"Isotope bone scan from a patient with Paget's disease showing a typical distribution in the spine, asymmetrical pelvic disease and proximal long bones.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb104.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "9660365e60d1d4d2f3f41bc330b9488e",
+        "knowledge_graph_node_id_link": 1298,
+        "concept": "Paget's disease of the bone is treated with bisphosphonates",
+        "concept_percentile": "97",
+        "concept_colour": "rgb(15,255,0)",
+        "number_attempts": "4584",
+        "up_votes": "53",
+        "down_votes": "81",
+        "column_array": [
+            0,
+            "2646",
+            "92",
+            "1351",
+            "314",
+            "181",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Radiopaedia.org</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1267\" data-linkid=\"1267\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1267\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1267\" data-linkid=\"1267\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1267\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/paget-disease-bone\">Paget disease (bone)</a></td></tr></table><br><br><table style='width:100%'><tr><td>Journal of Bone and Mineral Research</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1520\" data-linkid=\"1520\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1520\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_1520\" data-linkid=\"1520\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1520\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbmr.3657\">2019 Paget's disease of the bone guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NVcYG3_B8HU\" data-description=\"Paget's Disease of the bone\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1545\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NVcYG3_B8HU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NVcYG3_B8HU\" data-description=\"Paget's Disease of the bone\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1545\">Paget's Disease of the bone</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2699\" data-mediaid=\"2699\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2699\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2699\" data-mediaid=\"2699\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2699\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e6yNx74wEKI\" data-description=\"Paget's disease of the bone\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"736\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/e6yNx74wEKI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e6yNx74wEKI\" data-description=\"Paget's disease of the bone\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"736\">Paget's disease of the bone</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1285\" data-mediaid=\"1285\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1285\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_1285\" data-mediaid=\"1285\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1285\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "154": {
+                "concept_text": "Paget's disease - old man, bone pain, raised ALP",
+                "concept_percentile": "75"
+            },
+            "3034": {
+                "concept_text": "Paget's disease of the bone is treated with bisphosphonates",
+                "concept_percentile": "97"
+            },
+            "5017": {
+                "concept_text": "Paget's disease of the bone generally affects the skull, spine/pelvis, and long bones of the lower extremities",
+                "concept_percentile": "82"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1702",
+        "new_question_id": "8629",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_453",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tricyclic overdose",
+            "Myocardial ischaemia",
+            "Hyperkalaemia",
+            "Anaemia",
+            "Wolff-Parkinson White syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 70-year-old man is reviewed. For the past two weeks his family report that he has been generally unwell, 'not himself' and lethargic. His past history includes ischaemic heart disease (myocardial infarction 8 years ago), chronic kidney disease (stage 4) and depression (for which he takes imipramine). Physical examination is unremarkable with no new findings. You obtain an ECG:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051c.jpg'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><br />Which one of the following is most likely to explain the changes seen on the ECG?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The standout feature of this ECG is the tall 'tented' T waves in the anterior leads. This finding is associated with hyperkalaemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 70-year-old man is reviewed. For the past two weeks his family report that he has been generally unwell, 'not himself' and lethargic. His past history includes ischaemic heart disease (myocardial infarction 8 years ago), chronic kidney disease (stage 4) and depression (for which he takes imipramine). Physical examination is unremarkable with no new findings. You obtain an ECG:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg051c.jpg'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><br />Which one of the following is most likely to explain the changes seen on the ECG?",
+        "correct_answer": "3",
+        "question_notes": "The standout feature of this ECG is the tall 'tented' T waves in the anterior leads. This finding is associated with hyperkalaemia.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hyperkalaemia",
+        "body": "Plasma potassium levels are regulated by a number of factors including aldosterone, acid-base balance and insulin levels. Metabolic acidosis is associated with hyperkalaemia as hydrogen and potassium ions compete with each other for exchange with sodium ions across cell membranes and in the distal tubule. ECG changes seen in hyperkalaemia include tall-tented T waves, small P waves, widened QRS leading to a sinusoidal pattern and asystole<br /><br />Causes of hyperkalaemia:<br /><ul><li><span class=\"concept\" data-cid=\"5045\">acute kidney injury</span></li><li>drugs*: potassium sparing diuretics, <span class=\"concept\" data-cid=\"7712\">ACE inhibitors</span>, <span class=\"concept\" data-cid=\"7713\">angiotensin 2 receptor blockers</span>, <span class=\"concept\" data-cid=\"7711\">spironolactone</span>, <span class=\"concept\" data-cid=\"7714\">ciclosporin</span>, <span class=\"concept\" data-cid=\"9809\">heparin</span>**</li><li><span class=\"concept\" data-cid=\"7715\">metabolic acidosis</span></li><li><span class=\"concept\" data-cid=\"7716\">Addison's disease</span></li><li><span class=\"concept\" data-cid=\"7717\">rhabdomyolysis</span></li><li><span class=\"concept\" data-cid=\"7718\">massive blood transfusion</span></li></ul><br />Foods that are high in potassium:<br /><ul><li>salt substitutes (i.e. Contain potassium rather than sodium)</li><li>bananas, oranges, kiwi fruit, avocado, spinach, tomatoes</li></ul><br />*beta-blockers interfere with potassium transport into cells and can potentially cause hyperkalaemia in renal failure patients - remember beta-agonists, e.g. Salbutamol, are sometimes used as emergency treatment<br /><br />**both unfractionated and low-molecular weight heparin can cause hyperkalaemia. This is thought to be caused by inhibition of aldosterone secretion",
+        "notes_hash": "3ca592c962bd13f80f77c8090a222211",
+        "knowledge_graph_node_id_link": 10293,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5661",
+        "up_votes": "38",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "411",
+            "167",
+            "4873",
+            "29",
+            "181",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>National Kidney Foundation</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_531\" data-linkid=\"531\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_531\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_531\" data-linkid=\"531\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_531\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.kidney.org/nutrition/Kidney-Disease-Stages-1-4\">Renal Diet</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1499\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wrij_7e5OrQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1499\">Understanding Hyperkalaemia (High Potassium)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2640\" data-mediaid=\"2640\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2640\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2640\" data-mediaid=\"2640\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2640\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"19\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"19\">Hyperkalemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_40\" data-mediaid=\"40\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_40\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_40\" data-mediaid=\"40\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_40\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5045": {
+                "concept_text": "AKI may result in hyperkalemia ",
+                "concept_percentile": "50"
+            },
+            "7711": {
+                "concept_text": "Spironolactone causes hyperkalaemia",
+                "concept_percentile": "16"
+            },
+            "7712": {
+                "concept_text": "ACE inhibitors causes hyperkalaemia",
+                "concept_percentile": "73"
+            },
+            "7713": {
+                "concept_text": "Angiotensin 2 receptor blockers causes hyperkalaemia",
+                "concept_percentile": "62"
+            },
+            "7714": {
+                "concept_text": "Ciclosporin causes hyperkalaemia",
+                "concept_percentile": "8"
+            },
+            "7715": {
+                "concept_text": "Metabolic acidosis causes hyperkalaemia",
+                "concept_percentile": "65"
+            },
+            "7716": {
+                "concept_text": "Addison's disease causes hyperkalaemia",
+                "concept_percentile": "43"
+            },
+            "7717": {
+                "concept_text": "Rhabdomyolysis causes hyperkalaemia",
+                "concept_percentile": "26"
+            },
+            "7718": {
+                "concept_text": "Massive blood transfusion causes hyperkalaemia",
+                "concept_percentile": "24"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12729_B_258",
+        "new_question_id": "55351",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "6693",
+        "notes_id_link": "1_207",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bendroflumethiazide",
+            "Bisoprolol",
+            "Eplerenone",
+            "Lisinopril",
+            "St John's wort",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old woman presents to the emergency department with new onset lethargy, nausea and visual disturbances. She has a history of hypertension and atrial fibrillation and takes digoxin for rate control. Her heart rate is 85 bpm, and an ECG shows ST-segment depression and T-wave flattening. <br /><br />Blood tests show the following: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Serum digoxin level</td><td>2.8 ng/mL</td><td>(0.8-2.0)</td></tr></tbody></table></div><br />What is the most likely precipitant of this clinical picture?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Bendroflumethiazide</b> is the correct answer. Bendroflumethiazide is a thiazide diuretic that causes potassium loss, leading to hypokalaemia. Hypokalaemia makes the heart more sensitive to the effects of digoxin, exacerbating its toxic effects. Digoxin toxicity can cause ECG changes such as ST-segment depression and T-wave flattening, along with symptoms such as nausea, dizziness, lethargy, and vision changes, as described in the scenario. Blood tests confirm that digoxin concentration is raised, although digoxin toxicity can even occur when the concentration is within the therapeutic range. <br /><br /><b> Bisoprolol </b> is a beta-blocker and does not directly impact potassium levels or digoxin clearance. However, both digoxin and bisoprolol can increase the risk of bradycardia. <br /><br /><b> Eplerenone </b> is a potassium-sparing diuretic, which tends to increase potassium levels rather than lower them, which is protective against digoxin toxicity. The BNF states that it very slightly increases the exposure to digoxin. However, it is much less likely than bendroflumethiazide to cause digoxin toxicity, and the BNF states this as a mild caution. <br /><br /><b> Lisinopril </b> is an ACE inhibitor, which can increase potassium rather than lower it, reducing the risk of digoxin toxicity.  <br /><br /><b> St John's wort </b> is a herbal supplement known to reduce the effectiveness of many drugs by inducing cytochrome P450 liver enzymes. It would more likely decrease digoxin levels rather than increase them, making it an unlikely precipitant of digoxin toxicity.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old woman presents to the emergency department with new onset lethargy, nausea and visual disturbances. She has a history of hypertension and atrial fibrillation and takes digoxin for rate control. Her heart rate is 85 bpm, and an ECG shows ST-segment depression and T-wave flattening. <br /><br />Blood tests show the following: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Serum digoxin level</td><td>2.8 ng/mL</td><td>(0.8-2.0)</td></tr></tbody></table></div><br />What is the most likely precipitant of this clinical picture?",
+        "correct_answer": "1",
+        "question_notes": "<b>Bendroflumethiazide</b> is the correct answer. Bendroflumethiazide is a thiazide diuretic that causes potassium loss, leading to hypokalaemia. Hypokalaemia makes the heart more sensitive to the effects of digoxin, exacerbating its toxic effects. Digoxin toxicity can cause ECG changes such as ST-segment depression and T-wave flattening, along with symptoms such as nausea, dizziness, lethargy, and vision changes, as described in the scenario. Blood tests confirm that digoxin concentration is raised, although digoxin toxicity can even occur when the concentration is within the therapeutic range. <br /><br /><b> Bisoprolol </b> is a beta-blocker and does not directly impact potassium levels or digoxin clearance. However, both digoxin and bisoprolol can increase the risk of bradycardia. <br /><br /><b> Eplerenone </b> is a potassium-sparing diuretic, which tends to increase potassium levels rather than lower them, which is protective against digoxin toxicity. The BNF states that it very slightly increases the exposure to digoxin. However, it is much less likely than bendroflumethiazide to cause digoxin toxicity, and the BNF states this as a mild caution. <br /><br /><b> Lisinopril </b> is an ACE inhibitor, which can increase potassium rather than lower it, reducing the risk of digoxin toxicity.  <br /><br /><b> St John's wort </b> is a herbal supplement known to reduce the effectiveness of many drugs by inducing cytochrome P450 liver enzymes. It would more likely decrease digoxin levels rather than increase them, making it an unlikely precipitant of digoxin toxicity.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Digoxin and digoxin toxicity",
+        "body": "Digoxin is a cardiac glycoside now mainly used for rate control in the management of atrial fibrillation. As it has <span class=\"concept\" data-cid=\"9729\">positive inotropic properties it is sometimes used for improving symptoms (but not mortality) in patients with heart failure</span>.<br /><br />Mechanism of action<br /><ul><li>decreases conduction through the atrioventricular node which slows the ventricular rate in atrial fibrillation and flutter</li><li>increases the force of cardiac muscle contraction due to <span class=\"concept\" data-cid=\"515\">inhibition of the Na<sup>+</sup>/K<sup>+</sup> ATPase pump</span>. Also stimulates vagus nerve</li><li><span class=\"concept\" data-cid=\"2300\">digoxin has a narrow therapeutic index</span></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"9713\">digoxin level is not monitored routinely, except in suspected toxicity</span></li><li><span class=\"concept\" data-cid=\"9529\">if toxicity is suspected, digoxin concentrations should be measured within 8 to 12 hours of the last dose</span></li></ul><br /><br /><h5 class='notes-heading'>Digoxin toxicity</h5><br />Plasma concentration alone does not determine whether a patient has developed digoxin toxicity. <span class=\"concept\" data-cid=\"9763\">Toxicity may occur even when the concentration is within the therapeutic range</span>. The BNF advises that the likelihood of toxicity increases progressively from 1.5 to 3 mcg/l.<br /><br />Features<br /><ul><li>generally unwell, lethargy, nausea & vomiting, <span class=\"concept\" data-cid=\"6686\">anorexia</span>, <span class=\"concept\" data-cid=\"6687\">confusion</span>, <span class=\"concept\" data-cid=\"6688\">yellow-green vision</span></li><li>arrhythmias (e.g. <span class=\"concept\" data-cid=\"6698\">AV block</span>, <span class=\"concept\" data-cid=\"6696\">bradycardia</span>)</li><li><span class=\"concept\" data-cid=\"1975\">gynaecomastia</span></li></ul><br />Precipitating factors<br /><ul><li>classically: <span class=\"concept\" data-cid=\"3487\">hypokalaemia</span><ul><li><span class=\"concept\" data-cid=\"9922\">digoxin normally binds to the ATPase pump on the same site as potassium. Hypokalaemia &rarr; digoxin more easily bind to the ATPase pump &rarr; increased inhibitory effects</span></li></ul></li><li>increasing age</li><li><span class=\"concept\" data-cid=\"3525\">renal failure</span></li><li>myocardial ischaemia</li><li>hypomagnesaemia, hypercalcaemia, hypernatraemia, acidosis</li><li>hypoalbuminaemia</li><li>hypothermia</li><li>hypothyroidism</li><li>drugs: <span class=\"concept\" data-cid=\"6689\">amiodarone</span>, <span class=\"concept\" data-cid=\"3589\">quinidine</span>, <span class=\"concept\" data-cid=\"6690\">verapamil</span>, <span class=\"concept\" data-cid=\"6691\">diltiazem</span>, <span class=\"concept\" data-cid=\"6692\">spironolactone</span> (competes for secretion in distal convoluted tubule therefore reduce excretion), <span class=\"concept\" data-cid=\"6695\">ciclosporin</span>. Also drugs which cause hypokalaemia e.g. <span class=\"concept\" data-cid=\"6693\">thiazides</span> and <span class=\"concept\" data-cid=\"6694\">loop diuretics</span></li></ul><br /><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"3526\">Digibind</span></li><li>correct arrhythmias</li><li>monitor potassium</li></ul>",
+        "notes_hash": "8fc8ff1fc4bf18fc30889a3341ff6293",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Thiazides may cause precipitation of digoxin toxicity",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "6404",
+        "up_votes": "13",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "4143",
+            "198",
+            "412",
+            "334",
+            "1317",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GI6c0OwhuPg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\">Digoxin Mnemonic - Cardiac Glycosides (Inotropes)</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2822\" data-mediaid=\"2822\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2822\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_2822\" data-mediaid=\"2822\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2822\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "515": {
+                "concept_text": "Digoxin - inhibits the Na<sup>+</sup>/K<sup>+</sup> ATPase pump",
+                "concept_percentile": "11"
+            },
+            "1975": {
+                "concept_text": "Gynaecomastia is a recognised side effect of digoxin",
+                "concept_percentile": "40"
+            },
+            "3487": {
+                "concept_text": "Hypokalaemia predisposes patients to digoxin toxicity",
+                "concept_percentile": "89"
+            },
+            "3589": {
+                "concept_text": "Type 1 diabetes often presents with the triad of weight loss, polyuria and polydipsia ",
+                "concept_percentile": "3"
+            },
+            "6686": {
+                "concept_text": "Digoxin may cause anorexia",
+                "concept_percentile": "8"
+            },
+            "6687": {
+                "concept_text": "Digoxin may cause confusion",
+                "concept_percentile": "15"
+            },
+            "6688": {
+                "concept_text": "Digoxin may cause yellow-green vision",
+                "concept_percentile": "39"
+            },
+            "6689": {
+                "concept_text": "Amiodarone may cause precipitation of digoxin toxicity - if starting amiodarone on a patient taking digoxin the dose should be reduced",
+                "concept_percentile": "17"
+            },
+            "6690": {
+                "concept_text": "Verapamil may cause precipitation of digoxin toxicity",
+                "concept_percentile": "20"
+            },
+            "6691": {
+                "concept_text": "Diltiazem may cause precipitation of digoxin toxicity",
+                "concept_percentile": "51"
+            },
+            "6693": {
+                "concept_text": "Thiazides may cause precipitation of digoxin toxicity",
+                "concept_percentile": "54"
+            },
+            "6694": {
+                "concept_text": "Loop diuretics may cause precipitation of digoxin toxicity",
+                "concept_percentile": "38"
+            },
+            "6695": {
+                "concept_text": "Ciclosporin may cause precipitation of digoxin toxicity",
+                "concept_percentile": "8"
+            },
+            "9713": {
+                "concept_text": "Digoxin level is not monitored routinely, except in suspected toxicity ",
+                "concept_percentile": "60"
+            },
+            "9763": {
+                "concept_text": "Digoxin toxicity may occur even when the concentration is within the therapeutic range",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2067",
+        "new_question_id": "1358",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1137",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Admit urgently",
+            "Urgent bloods and review tomorrow",
+            "Prescribe regular codeine and review in 1 week",
+            "Prescribe Oramorph and review tomorrow",
+            "Dip urine and prescribe oral antibiotics if positive",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Tom is an 8-year-old boy with known sickle cell disease who presents with very mild pain in his lower back for 2 days. His observations include a blood pressure of 95/60 mmHg, heart rate of 108 bpm, respiratory rate of 32/min and a temperature of 38.1 degrees centigrade. The examination is normal and there is no obvious source of infection. He is in mild pain and is already taking regular paracetamol and ibuprofen. What would be the correct management?<br />",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>Admit urgently</b>. In a child with sickle cell disease presenting with fever (temperature >38\u00b0C), urgent hospital admission is mandatory regardless of how well they appear. This is because these patients are functionally asplenic and are at high risk of overwhelming sepsis, particularly from encapsulated organisms such as <i>Streptococcus pneumoniae</i>. The presence of pain, even if mild, could indicate an early vaso-occlusive crisis. The tachycardia and tachypnoea also suggest systemic involvement. These patients require immediate assessment, blood cultures, and intravenous antibiotics as per national guidelines.<br /><br /><b>Urgent bloods and review tomorrow</b> is incorrect because waiting until tomorrow could be dangerous given the risk of rapid deterioration in febrile sickle cell patients. These patients require immediate intervention, not delayed assessment.<br /><br /><b>Prescribe regular codeine and review in 1 week</b> is incorrect for two reasons. Firstly, it fails to address the fever, which is the most concerning feature. Secondly, codeine is not recommended in children due to variable metabolism and risk of respiratory depression.<br /><br /><b>Prescribe Oramorph and review tomorrow</b> is incorrect because while pain management is important, the fever requires immediate attention and hospital admission. Additionally, reviewing tomorrow is too late given the risk of sepsis.<br /><br /><b>Dip urine and prescribe oral antibiotics if positive</b> is incorrect because even if a urinary tract infection is identified, oral antibiotics would be insufficient treatment in a febrile sickle cell patient. These patients require intravenous antibiotics and close monitoring due to their immunocompromised status.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Tom is an 8-year-old boy with known sickle cell disease who presents with very mild pain in his lower back for 2 days. His observations include a blood pressure of 95/60 mmHg, heart rate of 108 bpm, respiratory rate of 32/min and a temperature of 38.1 degrees centigrade. The examination is normal and there is no obvious source of infection. He is in mild pain and is already taking regular paracetamol and ibuprofen. What would be the correct management?<br />",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Admit urgently</b>. In a child with sickle cell disease presenting with fever (temperature >38\u00b0C), urgent hospital admission is mandatory regardless of how well they appear. This is because these patients are functionally asplenic and are at high risk of overwhelming sepsis, particularly from encapsulated organisms such as <i>Streptococcus pneumoniae</i>. The presence of pain, even if mild, could indicate an early vaso-occlusive crisis. The tachycardia and tachypnoea also suggest systemic involvement. These patients require immediate assessment, blood cultures, and intravenous antibiotics as per national guidelines.<br /><br /><b>Urgent bloods and review tomorrow</b> is incorrect because waiting until tomorrow could be dangerous given the risk of rapid deterioration in febrile sickle cell patients. These patients require immediate intervention, not delayed assessment.<br /><br /><b>Prescribe regular codeine and review in 1 week</b> is incorrect for two reasons. Firstly, it fails to address the fever, which is the most concerning feature. Secondly, codeine is not recommended in children due to variable metabolism and risk of respiratory depression.<br /><br /><b>Prescribe Oramorph and review tomorrow</b> is incorrect because while pain management is important, the fever requires immediate attention and hospital admission. Additionally, reviewing tomorrow is too late given the risk of sepsis.<br /><br /><b>Dip urine and prescribe oral antibiotics if positive</b> is incorrect because even if a urinary tract infection is identified, oral antibiotics would be insufficient treatment in a febrile sickle cell patient. These patients require intravenous antibiotics and close monitoring due to their immunocompromised status.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Sickle-cell crises: management",
+        "body": "<span class=\"concept\" data-cid=\"4199\">General management</span><br /><ul><li>analgesia e.g. opiates</li><li>rehydrate</li><li>oxygen</li><li>consider antibiotics if evidence of infection</li><li>blood transfusion<ul><li>indications include:  severe or symptomatic anaemia, pregnancy, pre-operative</li><li>do not rapidly reduce the percentage of Hb S containing cells</li></ul></li><li>exchange transfusion<ul><li>indications include: acute vaso-occlusive crisis (stroke, acute chest syndrome, multiorgan failure, splenic sequestration crisis</li><li><span class=\"concept\" data-cid=\"4065\">rapidly reduce the percentage of Hb S containing cells</span></li></ul></li></ul>",
+        "notes_hash": "c01b46f0cc86c82ebb48782ecd39e0b6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5092",
+        "up_votes": "31",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "4587",
+            "205",
+            "53",
+            "69",
+            "178",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_376\" data-linkid=\"376\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_376\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_376\" data-linkid=\"376\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_376\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg143/chapter/1-Recommendations\">2012 Sickle cell disease: managing acute painful episodes in hospital</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"239\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fIIJmg_1hv0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"239\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_400\" data-mediaid=\"400\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_400\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_400\" data-mediaid=\"400\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_400\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "4065": {
+                "concept_text": "Exchange transfusions are a way of reducing the number of sickle red cells and increasing the number of normal red cells, in order to improve oxygenation",
+                "concept_percentile": "39"
+            },
+            "4199": {
+                "concept_text": "The main components for managing sickle cell crisis should be analgesia, oxygen, and IV fluids. You can also consider antibiotics if you suspect an infection, and transfusion if the Hb is low",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5250_B_3",
+        "new_question_id": "15883",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "4128",
+        "notes_id_link": "1_1919",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Call the microbiologist on call",
+            "Call the anaesthetist on call",
+            "Move the patient to the paediatric ward",
+            "Perform full ear nose and throat examination",
+            "Obtain intravenous access",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are the paediatric SHO on call. You are asked to attend the emergency department to assess a 2-year-old with stridor. When you attend you find the patient sat on his mothers knee leaning forward and drooling. There is audible stridor from the end of the bed. The brief history you obtain reveals the patient has not engaged with the childhood vaccination programme.<br /><br />Which of the following is the most appropriate course of action?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is displaying signs of acute epiglottitis. You should not perform invasive examinations including ear nose and throat examinations without a secure airway as this may lead distress and further occlusion of the airway. Basic observations including respiratory rate /min and oxygen saturations may be appropriate if this does not lead to distress however intravenous cannulation is likely to distress the child. The senior paediatric team should be called as should an anaesthetist.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are the paediatric SHO on call. You are asked to attend the emergency department to assess a 2-year-old with stridor. When you attend you find the patient sat on his mothers knee leaning forward and drooling. There is audible stridor from the end of the bed. The brief history you obtain reveals the patient has not engaged with the childhood vaccination programme.<br /><br />Which of the following is the most appropriate course of action?",
+        "correct_answer": "2",
+        "question_notes": "This patient is displaying signs of acute epiglottitis. You should not perform invasive examinations including ear nose and throat examinations without a secure airway as this may lead distress and further occlusion of the airway. Basic observations including respiratory rate /min and oxygen saturations may be appropriate if this does not lead to distress however intravenous cannulation is likely to distress the child. The senior paediatric team should be called as should an anaesthetist.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Stridor in children",
+        "body": "Causes of stridor in children include:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Cause</th><th>Notes</th></tr></thead><tbody><tr><td><b>Croup</b></td><td>Croup is a form of upper respiratory tract infection seen in infants and toddlers. It is characterised by stridor which is caused by a combination of laryngeal oedema and secretions. Parainfluenza viruses account for the majority of cases.<br /><br />Epidemiology<br /><ul><li>peak incidence at 6 months - 3 years</li><li>more common in autumn</li></ul><br />Features<br /><ul><li>stridor</li><li>barking cough (worse at night)</li><li>fever</li><li>coryzal symptoms</td></tr><tr><td></li></ul><b>Acute epiglottitis </b></td><td>Acute epiglottitis is rare but serious infection caused by <i>Haemophilus influenzae</i> type B. Prompt recognition and treatment is essential as airway obstruction may develop. Epiglottitis generally occurs in children between the ages of 2 and 6 years. The incidence of epiglottitis has decreased since the introduction of the Hib vaccine<br /><br />Features<br /><ul><li>rapid onset</li><li>unwell, toxic child</li><li>stridor</li><li>drooling of saliva</td></tr><tr><td></li></ul><b>Inhaled foreign body</b></td><td>Symptoms depend on the site of impaction<br /><br />Features are of sudden onset<br /><ul><li>coughing</li><li>choking</li><li>vomiting</li><li>stridor</td></tr><tr><td></li></ul><b>Laryngomalacia</b></td><td>Congenital abnormality of the larynx. <br /><br />Infants typical present at 4 weeks of age with:<br /><ul><li>stridor</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "10f48df1b6e5808d9afbfaee491a4ee8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "You should not attempt to perform an oral or throat examination a child with suspected acute epiglottitis",
+        "concept_percentile": "59",
+        "concept_colour": "rgb(209,255,0)",
+        "number_attempts": "6544",
+        "up_votes": "40",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "26",
+            "5950",
+            "233",
+            "128",
+            "207",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EAWjRXNBudY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\">Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1470\" data-mediaid=\"1470\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1470\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1470\" data-mediaid=\"1470\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1470\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XTyNhbJAkwQ\" data-description=\"Laryngomalacia - audio\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"170\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XTyNhbJAkwQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XTyNhbJAkwQ\" data-description=\"Laryngomalacia - audio\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"170\">Laryngomalacia - audio</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_297\" data-mediaid=\"297\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_297\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_297\" data-mediaid=\"297\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_297\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"171\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gYhGIFQcCnU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"171\">Stridor - audio</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_298\" data-mediaid=\"298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_298\" data-mediaid=\"298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4eOKqQvvU94\" data-description=\"Laryngomalacia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"289\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4eOKqQvvU94/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4eOKqQvvU94\" data-description=\"Laryngomalacia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"289\">Laryngomalacia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_491\" data-mediaid=\"491\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_491\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_491\" data-mediaid=\"491\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_491\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1285",
+        "new_question_id": "4710",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1796",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Lumbar spine x-ray",
+            "Arrange physiotherapy",
+            "Refer for duplex scan",
+            "Refer for MRI",
+            "Perform a myeloma screen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old man presents with back pain that comes on when he walks. After taking a full history and completing a neurological and vascular examination which is normal a diagnosis of spinal stenosis is suspected. After prescribing analgesia, what is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Refer for MRI</b>. In a patient with suspected spinal stenosis, an MRI scan is the most appropriate next step. This is because it can provide detailed images of the spinal cord and surrounding structures, allowing for a clear visualisation of any narrowing (stenosis) that may be present. According to the UK's National Institute for Health and Care Excellence (NICE), MRI is recommended as the first-line imaging modality in patients with suspected lumbar spinal stenosis.<br /><br />Discussing each of the incorrect answers:<br /><br /><b>Lumbar spine x-ray</b>: While this can show changes related to aging or injury, it does not provide a detailed image of soft tissues such as intervertebral discs or nerves. Therefore, it would not be sufficient in identifying spinal stenosis.<br /><br /><b>Arrange physiotherapy</b>: Physiotherapy can indeed be beneficial in managing symptoms associated with spinal stenosis such as pain and mobility issues. However, before starting treatment, confirmation of the diagnosis via appropriate imaging (MRI) is important.<br /><br /><b>Refer for duplex scan</b>: Duplex scanning combines traditional ultrasound with Doppler ultrasound to visualize blood flow in vessels. It would be useful if there was suspicion of vascular disease causing claudication symptoms mimicking spinal stenosis but given that vascular examination was normal, this option would not be relevant in this case.<br /><br /><b>Perform a myeloma screen</b>: Myeloma screening involves blood tests to detect abnormal proteins produced by malignant plasma cells. While back pain could indeed be a symptom of multiple myeloma, there are no other accompanying signs or symptoms suggestive of this condition presented in this scenario such as anaemia or renal impairment. Hence, performing a myeloma screen wouldn't be necessary at this point without additional supporting evidence.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old man presents with back pain that comes on when he walks. After taking a full history and completing a neurological and vascular examination which is normal a diagnosis of spinal stenosis is suspected. After prescribing analgesia, what is the most appropriate next step?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Refer for MRI</b>. In a patient with suspected spinal stenosis, an MRI scan is the most appropriate next step. This is because it can provide detailed images of the spinal cord and surrounding structures, allowing for a clear visualisation of any narrowing (stenosis) that may be present. According to the UK's National Institute for Health and Care Excellence (NICE), MRI is recommended as the first-line imaging modality in patients with suspected lumbar spinal stenosis.<br /><br />Discussing each of the incorrect answers:<br /><br /><b>Lumbar spine x-ray</b>: While this can show changes related to aging or injury, it does not provide a detailed image of soft tissues such as intervertebral discs or nerves. Therefore, it would not be sufficient in identifying spinal stenosis.<br /><br /><b>Arrange physiotherapy</b>: Physiotherapy can indeed be beneficial in managing symptoms associated with spinal stenosis such as pain and mobility issues. However, before starting treatment, confirmation of the diagnosis via appropriate imaging (MRI) is important.<br /><br /><b>Refer for duplex scan</b>: Duplex scanning combines traditional ultrasound with Doppler ultrasound to visualize blood flow in vessels. It would be useful if there was suspicion of vascular disease causing claudication symptoms mimicking spinal stenosis but given that vascular examination was normal, this option would not be relevant in this case.<br /><br /><b>Perform a myeloma screen</b>: Myeloma screening involves blood tests to detect abnormal proteins produced by malignant plasma cells. While back pain could indeed be a symptom of multiple myeloma, there are no other accompanying signs or symptoms suggestive of this condition presented in this scenario such as anaemia or renal impairment. Hence, performing a myeloma screen wouldn't be necessary at this point without additional supporting evidence.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Lower back pain",
+        "body": "Lower back pain (LBP) is one of the most common presentations seen in practice. Whilst the majority of presentations will be of a non-specific muscular nature it is worth keeping in mind possible causes which may need specific treatment. <br /><br />Red flags for lower back pain<br /><ul><li>age < 20 years or > 50 years</li><li>history of previous malignancy</li><li>night pain</li><li>history of trauma</li><li>systemically unwell e.g. weight loss, fever</li></ul><br />The table below indicates some specific causes of LBP:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Facet joint</b></th><th>May be acute or chronic<br />Pain worse in the morning and on standing<br />On examination there may be pain over the facets. The pain is typically worse on extension of the back</th></tr></thead><tbody><tr><td><b>Spinal stenosis</b></td><td>Usually gradual onset<br />Unilateral or bilateral leg pain (with or without back pain), numbness, and weakness which is worse on walking. Resolves when sits down. Pain may be described as 'aching', 'crawling'.<br />Relieved by sitting down, leaning forwards and crouching down<br />Clinical examination is often normal<br />Requires MRI to confirm diagnosis</td></tr><tr><td><b>Ankylosing spondylitis</b></td><td>Typically a young man who presents with lower back pain and stiffness<br />Stiffness is usually worse in morning and improves with activity<br />Peripheral arthritis (25%, more common if female)</td></tr><tr><td><b>Peripheral arterial disease</b></td><td>Pain on walking, relieved by rest<br />Absent or weak foot pulses and other signs of limb ischaemia<br />Past history may include smoking and other vascular diseases</td></tr></tbody></table></div>",
+        "notes_hash": "39f58dc7b5285cf29db1dcd28548598d",
+        "knowledge_graph_node_id_link": 10192,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5253",
+        "up_votes": "30",
+        "down_votes": "62",
+        "column_array": [
+            0,
+            "403",
+            "1356",
+            "39",
+            "3363",
+            "92",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1471\" data-linkid=\"1471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1471\" data-linkid=\"1471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng59/chapter/Recommendations\">2016 Low back pain guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2087",
+        "new_question_id": "2045",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1248",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Gestational diabetes",
+            "Placental abruption",
+            "Molar pregnancy",
+            "Placenta praevia",
+            "Ectopic pregnancy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old woman at ten weeks gestation presents to her general practitioner with intermittent vaginal bleeding over the previous month and hyperemesis. Obstetric examination reveals a non-tender, large-for-dates uterus. These symptoms are strongly suggestive of which condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Although placental abruption, placenta praevia and ectopic pregnancy can cause vaginal bleeding they do not present with a non-tender, large-for-dates uterus. Gestational diabetes is not associated with vaginal bleeding or hyperemesis.<br /><br />Molar pregnancy is a form of gestational trophoblastic disease. In a normal pregnancy, half of the chromosomes come from the father and half come from the mother. Molar pregnancies may be partial or complete. A complete hydatidiform mole has a 46 XX or 46 XY karyotype with all of the genetic material deriving from the father. This is most commonly due to abnormal fertilisation of an empty ovum. A partial hydatidiform mole has a karyotype of 69 XXX or 69 XXY and contains both maternal and paternal chromosomes. Neither pregnancy can produce a viable fetus.<br /><br />The most common presenting symptom of a molar pregnancy is vaginal bleeding, which may be light or heavy. Uterine size may be large-for-dates in around one quarter of complete molar pregnancies. Complete hydatidiform moles contain large amounts of abnormal chorionic villi, which produce high volumes of beta hCG. This can lead to sequelae such as hyperemesis, hyperthyroidism and other symptoms. Women aged under 20 years and over 35 years are at higher risk of having a molar pregnancy.<br /><br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old woman at ten weeks gestation presents to her general practitioner with intermittent vaginal bleeding over the previous month and hyperemesis. Obstetric examination reveals a non-tender, large-for-dates uterus. These symptoms are strongly suggestive of which condition?",
+        "correct_answer": "3",
+        "question_notes": "Although placental abruption, placenta praevia and ectopic pregnancy can cause vaginal bleeding they do not present with a non-tender, large-for-dates uterus. Gestational diabetes is not associated with vaginal bleeding or hyperemesis.<br /><br />Molar pregnancy is a form of gestational trophoblastic disease. In a normal pregnancy, half of the chromosomes come from the father and half come from the mother. Molar pregnancies may be partial or complete. A complete hydatidiform mole has a 46 XX or 46 XY karyotype with all of the genetic material deriving from the father. This is most commonly due to abnormal fertilisation of an empty ovum. A partial hydatidiform mole has a karyotype of 69 XXX or 69 XXY and contains both maternal and paternal chromosomes. Neither pregnancy can produce a viable fetus.<br /><br />The most common presenting symptom of a molar pregnancy is vaginal bleeding, which may be light or heavy. Uterine size may be large-for-dates in around one quarter of complete molar pregnancies. Complete hydatidiform moles contain large amounts of abnormal chorionic villi, which produce high volumes of beta hCG. This can lead to sequelae such as hyperemesis, hyperthyroidism and other symptoms. Women aged under 20 years and over 35 years are at higher risk of having a molar pregnancy.<br /><br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Gestational trophoblastic disorders",
+        "body": "Describes a spectrum of disorders originating from the placental trophoblast:<br /><ul><li>complete hydatidiform mole</li><li>partial hydatidiform mole</li><li>choriocarcinoma</li></ul><br /><h5 class='notes-heading'>Complete hydatidiform mole</h5><br />Benign tumour of trophoblastic material. Occurs when an empty egg is fertilized by a single sperm that then duplicates its own DNA, hence the all 46 chromosomes are of paternal origin<br /><br />Features<br /><ul><li>bleeding in first or early second trimester</li><li>exaggerated symptoms of pregnancy e.g. hyperemesis</li><li>uterus large for dates</li><li>very high serum levels of human chorionic gonadotropin (hCG)</li><li>hypertension and hyperthyroidism* may be seen</li></ul><br />Management<br /><ul><li>urgent referral to specialist centre - evacuation of the uterus is performed</li><li>effective contraception is recommended to avoid pregnancy in the next 12 months</li></ul><br />Around 2-3% go on to develop choriocarcinoma<br /><br />In a <b>partial mole</b> a normal haploid egg may be fertilized by two sperms, or by one sperm with duplication of the paternal chromosomes. Therefore the DNA is both maternal and paternal in origin. Usually triploid - e.g. 69 XXX or 69 XXY. Fetal parts may be seen<br /><br />*hCG can mimic thyroid-stimulating hormone (TSH)",
+        "notes_hash": "59fde8fc1b2c1a4ff77eb74ed1497ad1",
+        "knowledge_graph_node_id_link": 11436,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5178",
+        "up_votes": "34",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "269",
+            "68",
+            "4582",
+            "195",
+            "64",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>RCOG</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_85\" data-linkid=\"85\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_85\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_85\" data-linkid=\"85\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_85\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg_38.pdf\">2010 Management of gestational trophoblastic disease</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_384",
+        "new_question_id": "3793",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_165",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Phenytoin",
+            "Lamotrigine",
+            "Sodium valproate",
+            "Ethosuximide",
+            "Levetiracetam",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 47-year-old female is reviewed in the neurology clinic. She was diagnosed with epilepsy whilst a teenager and her seizures are well controlled. She is however concerned about increasing numbness of her fingers and soles of her feet. Which one of the following medications is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Phenytoin</b>. Phenytoin, an antiepileptic drug, can cause peripheral neuropathy, a condition that results in numbness and tingling in the extremities. This side effect is more common with chronic use and high doses of phenytoin. It's important to note that this symptom could also be due to other causes such as diabetes or vitamin B12 deficiency and therefore should be evaluated further.<br /><br /><b>Lamotrigine</b> is not typically associated with peripheral neuropathy. Instead, it's more commonly linked with skin reactions (including potentially serious ones like Stevens-Johnson syndrome), dizziness, ataxia, and blurred vision.<br /><br /><b>Sodium valproate</b>, while a common treatment for epilepsy, does not typically cause peripheral neuropathy either. Its main side effects are gastrointestinal disturbances (nausea, vomiting), tremor, weight gain and hair loss. In rare cases, it can cause serious conditions like liver toxicity and pancreatitis.<br /><br /><b>Ethosuximide</b> is generally used for absence seizures rather than generalized seizures. The most common side effects include gastrointestinal disturbances (nausea, vomiting), lethargy or fatigue but not peripheral neuropathy.<br /><br />Finally, <b>Levetiracetam</b> can cause psychiatric symptoms including mood swings and aggression as well as somnolence but it doesn't usually lead to peripheral neuropathy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 47-year-old female is reviewed in the neurology clinic. She was diagnosed with epilepsy whilst a teenager and her seizures are well controlled. She is however concerned about increasing numbness of her fingers and soles of her feet. Which one of the following medications is most likely to be responsible?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Phenytoin</b>. Phenytoin, an antiepileptic drug, can cause peripheral neuropathy, a condition that results in numbness and tingling in the extremities. This side effect is more common with chronic use and high doses of phenytoin. It's important to note that this symptom could also be due to other causes such as diabetes or vitamin B12 deficiency and therefore should be evaluated further.<br /><br /><b>Lamotrigine</b> is not typically associated with peripheral neuropathy. Instead, it's more commonly linked with skin reactions (including potentially serious ones like Stevens-Johnson syndrome), dizziness, ataxia, and blurred vision.<br /><br /><b>Sodium valproate</b>, while a common treatment for epilepsy, does not typically cause peripheral neuropathy either. Its main side effects are gastrointestinal disturbances (nausea, vomiting), tremor, weight gain and hair loss. In rare cases, it can cause serious conditions like liver toxicity and pancreatitis.<br /><br /><b>Ethosuximide</b> is generally used for absence seizures rather than generalized seizures. The most common side effects include gastrointestinal disturbances (nausea, vomiting), lethargy or fatigue but not peripheral neuropathy.<br /><br />Finally, <b>Levetiracetam</b> can cause psychiatric symptoms including mood swings and aggression as well as somnolence but it doesn't usually lead to peripheral neuropathy.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Phenytoin",
+        "body": "Phenytoin is used in the management of seizures.<br /><br />Mechanism of action<br /><ul><li><span class=\"concept\" data-cid=\"6341\">binds to sodium channels increasing their refractory period</span></li></ul><br /><h5 class='notes-heading'>Adverse effects</h5><br />Phenytoin is associated with a large number of adverse effects. These may be divided into acute, chronic, idiosyncratic and teratogenic. <span class=\"concept\" data-cid=\"5034\">Phenytoin is also an inducer of the P450 system</span>.<br /><br />Acute<br /><ul><li>initially: <span class=\"concept\" data-cid=\"6326\">dizziness</span>, <span class=\"concept\" data-cid=\"6327\">diplopia</span>, <span class=\"concept\" data-cid=\"6328\">nystagmus</span>, <span class=\"concept\" data-cid=\"6329\">slurred speech</span>, <span class=\"concept\" data-cid=\"6330\">ataxia</span></li><li>later: <span class=\"concept\" data-cid=\"6342\">confusion</span>, seizures</li></ul><br />Chronic<br /><ul><li>common: <span class=\"concept\" data-cid=\"6331\">gingival hyperplasia</span> (secondary to increased expression of platelet derived growth factor, PDGF), <span class=\"concept\" data-cid=\"6332\">hirsutism</span>, <span class=\"concept\" data-cid=\"6333\">coarsening of facial features</span>, drowsiness</li><li><span class=\"concept\" data-cid=\"6334\">megaloblastic anaemia</span> (secondary to altered folate metabolism)</li><li><span class=\"concept\" data-cid=\"6335\">peripheral neuropathy</span></li><li>enhanced vitamin D metabolism causing <span class=\"concept\" data-cid=\"6336\">osteomalacia</span></li><li><span class=\"concept\" data-cid=\"3671\">lymphadenopathy</span></li><li><span class=\"concept\" data-cid=\"6344\">dyskinesia</span></li></ul><br />Idiosyncratic<br /><ul><li><span class=\"concept\" data-cid=\"6337\">fever</span></li><li>rashes, including severe reactions such as <span class=\"concept\" data-cid=\"6338\">toxic epidermal necrolysis</span></li><li><span class=\"concept\" data-cid=\"6339\">hepatitis</span></li><li>Dupuytren's contracture*</li><li><span class=\"concept\" data-cid=\"6340\">aplastic anaemia</span></li><li>drug-induced lupus</li></ul><br />Teratogenic<br /><ul><li>associated with <span class=\"concept\" data-cid=\"6340\">cleft palate and congenital heart disease</span></li></ul><br /><h5 class='notes-heading'>Monitoring</h5><br />Phenytoin levels do not need to be monitored routinely but <b>trough levels, immediately before dose</b> should be checked if:<br /><ul><li>adjustment of phenytoin dose</li><li>suspected toxicity</li><li>detection of non-adherence to the prescribed medication</li></ul><br />*although not listed in the BNF",
+        "notes_hash": "5c23af28c1ae457428c3c546c410a6cd",
+        "knowledge_graph_node_id_link": 10647,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4918",
+        "up_votes": "36",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "2997",
+            "480",
+            "975",
+            "217",
+            "249",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_391\" data-linkid=\"391\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_391\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_391\" data-linkid=\"391\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_391\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/phenytoin.html\">Phenytoin</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "5034": {
+                "concept_text": "Phenytoin is a P450 enzyme inducer",
+                "concept_percentile": "16"
+            },
+            "6326": {
+                "concept_text": "Phenytoin may cause dizziness",
+                "concept_percentile": "1"
+            },
+            "6327": {
+                "concept_text": "Phenytoin may cause diplopia",
+                "concept_percentile": "2"
+            },
+            "6328": {
+                "concept_text": "Phenytoin may cause nystagmus",
+                "concept_percentile": "2"
+            },
+            "6329": {
+                "concept_text": "Phenytoin may cause slurred speech",
+                "concept_percentile": "4"
+            },
+            "6330": {
+                "concept_text": "Phenytoin may cause ataxia",
+                "concept_percentile": "1"
+            },
+            "6331": {
+                "concept_text": "Phenytoin may cause gingival hyperplasia",
+                "concept_percentile": "12"
+            },
+            "6332": {
+                "concept_text": "Phenytoin may cause hirsutism",
+                "concept_percentile": "7"
+            },
+            "6333": {
+                "concept_text": "Phenytoin may cause coarsening of facial features",
+                "concept_percentile": "2"
+            },
+            "6334": {
+                "concept_text": "Phenytoin may cause megaloblastic anaemia",
+                "concept_percentile": "12"
+            },
+            "6335": {
+                "concept_text": "Phenytoin may cause peripheral neuropathy",
+                "concept_percentile": "20"
+            },
+            "6336": {
+                "concept_text": "Phenytoin may cause osteomalacia",
+                "concept_percentile": "3"
+            },
+            "6337": {
+                "concept_text": "Phenytoin may cause fever",
+                "concept_percentile": "1"
+            },
+            "6338": {
+                "concept_text": "Phenytoin may cause toxic epidermal necrolysis",
+                "concept_percentile": "8"
+            },
+            "6339": {
+                "concept_text": "Phenytoin may cause hepatotoxicity",
+                "concept_percentile": "15"
+            },
+            "6340": {
+                "concept_text": "Phenytoin may cause myelosuppression/agranulocytosis",
+                "concept_percentile": "12"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

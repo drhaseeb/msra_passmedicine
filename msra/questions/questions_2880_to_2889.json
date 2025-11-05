@@ -1,0 +1,904 @@
+[
+    {
+        "question_id": "1_B_1138",
+        "new_question_id": "7901",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "6088",
+        "notes_id_link": "1_314",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Fluconazole",
+            "Sodium valproate",
+            "Allopurinol",
+            "Isoniazid",
+            "Carbamazepine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Concurrent use of which one of the following would make combined oral contraceptive pill less effective?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Carbamazepine</b>. Carbamazepine is an inducer of the cytochrome P450 enzyme system, specifically CYP3A4. This means that it increases the rate at which other drugs metabolised by this enzyme are broken down. The combined oral contraceptive pill (COCP) is metabolised by CYP3A4 and so if a patient was taking carbamazepine concurrently with COCP, the efficacy of the contraceptive pill would be reduced due to increased metabolism leading to lower blood levels.<br /><br /><b>Fluconazole</b> does not interact with COCP in a manner that reduces its effectiveness. Fluconazole is an inhibitor of cytochrome P450 enzymes, but it primarily inhibits CYP2C9 and CYP2C19, not CYP3A4 which metabolises COCP. Therefore, it does not affect the metabolism and efficacy of COCP.<br /><br /><b>Sodium valproate</b> also does not reduce the effectiveness of COCP. Sodium valproate can increase the levels of sex hormone binding globulin (SHBG), potentially leading to changes in free hormone levels. However, these changes do not impact the contraceptive effectiveness of COCP.<br /><br /><b>Allopurinol</b> has no known interaction with COCP that would reduce its effectiveness. Allopurinol is used for gout and works by reducing uric acid production; it does not interact with cytochrome P450 enzymes or hormonal pathways that could affect COCP.<br /><br />Finally, <b>Isoniazid</b>, an antitubercular drug, also doesn't have any significant interaction with COCP which could make it less effective. Although isoniazid can induce certain cytochrome P450 enzymes leading to increased metabolism of some drugs, this effect isn't significant enough to alter the efficacy of COCP.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Concurrent use of which one of the following would make combined oral contraceptive pill less effective?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Carbamazepine</b>. Carbamazepine is an inducer of the cytochrome P450 enzyme system, specifically CYP3A4. This means that it increases the rate at which other drugs metabolised by this enzyme are broken down. The combined oral contraceptive pill (COCP) is metabolised by CYP3A4 and so if a patient was taking carbamazepine concurrently with COCP, the efficacy of the contraceptive pill would be reduced due to increased metabolism leading to lower blood levels.<br /><br /><b>Fluconazole</b> does not interact with COCP in a manner that reduces its effectiveness. Fluconazole is an inhibitor of cytochrome P450 enzymes, but it primarily inhibits CYP2C9 and CYP2C19, not CYP3A4 which metabolises COCP. Therefore, it does not affect the metabolism and efficacy of COCP.<br /><br /><b>Sodium valproate</b> also does not reduce the effectiveness of COCP. Sodium valproate can increase the levels of sex hormone binding globulin (SHBG), potentially leading to changes in free hormone levels. However, these changes do not impact the contraceptive effectiveness of COCP.<br /><br /><b>Allopurinol</b> has no known interaction with COCP that would reduce its effectiveness. Allopurinol is used for gout and works by reducing uric acid production; it does not interact with cytochrome P450 enzymes or hormonal pathways that could affect COCP.<br /><br />Finally, <b>Isoniazid</b>, an antitubercular drug, also doesn't have any significant interaction with COCP which could make it less effective. Although isoniazid can induce certain cytochrome P450 enzymes leading to increased metabolism of some drugs, this effect isn't significant enough to alter the efficacy of COCP.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "P450 enzyme system",
+        "body": "Induction usually requires prolonged exposure to the inducing drug, as opposed to P450 inhibitors, where effects are often seen rapidly<br /><br />Inducers of the P450 system include<br /><ul><li>antiepileptics: <span class=\"concept\" data-cid=\"5034\">phenytoin</span>, <span class=\"concept\" data-cid=\"6088\">carbamazepine</span></li><li>barbiturates: <span class=\"concept\" data-cid=\"6089\">phenobarbitone</span></li><li><span class=\"concept\" data-cid=\"6090\">rifampicin</span></li><li><span class=\"concept\" data-cid=\"1708\">St John's Wort</span></li><li><span class=\"concept\" data-cid=\"6091\">chronic alcohol intake</span></li><li>griseofulvin</li><li><span class=\"concept\" data-cid=\"6092\">smoking</span> (affects CYP1A2, reason why smokers require more aminophylline)</li></ul><br />Inhibitors of the P450 system include<br /><ul><li>antibiotics: <span class=\"concept\" data-cid=\"6093\">ciprofloxacin</span>, <span class=\"concept\" data-cid=\"5560\">erythromycin</span></li><li><span class=\"concept\" data-cid=\"635\">isoniazid</span></li><li><span class=\"concept\" data-cid=\"6094\">cimetidine</span>,<span class=\"concept\" data-cid=\"6095\">omeprazole</span></li><li><span class=\"concept\" data-cid=\"6096\">amiodarone</span></li><li><span class=\"concept\" data-cid=\"6097\">allopurinol</span></li><li>imidazoles: <span class=\"concept\" data-cid=\"6098\">ketoconazole, fluconazole</span></li><li>SSRIs: <span class=\"concept\" data-cid=\"6099\">fluoxetine</span>, <span class=\"concept\" data-cid=\"6100\">sertraline</span></li><li><span class=\"concept\" data-cid=\"6101\">ritonavir</span></li><li><span class=\"concept\" data-cid=\"1331\">sodium valproate</span></li><li><span class=\"concept\" data-cid=\"6102\">acute alcohol intake</span></li><li>quinupristin</li></ul>",
+        "notes_hash": "3b0eeac0f6274669ce48b312627a2997",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Carbamazepine is a P450 enzyme inductor",
+        "concept_percentile": "47",
+        "concept_colour": "rgb(255,239,0)",
+        "number_attempts": "4646",
+        "up_votes": "23",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "301",
+            "917",
+            "127",
+            "645",
+            "2656",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OhIopfQm9_w\" data-description=\"P450 Enzyme System (Inducers, Inhibitors, & Subtypes)\" data-upvotes=\"25\" data-downvotes=\"0\" data-media=\"1179\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OhIopfQm9_w/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OhIopfQm9_w\" data-description=\"P450 Enzyme System (Inducers, Inhibitors, & Subtypes)\" data-upvotes=\"25\" data-downvotes=\"0\" data-media=\"1179\">P450 Enzyme System (Inducers, Inhibitors, & Subtypes)</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2035\" data-mediaid=\"2035\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2035\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"media_dislike_2035\" data-mediaid=\"2035\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2035\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "635": {
+                "concept_text": "Isoniazid <b>inhibits</b> the P450 system",
+                "concept_percentile": "36"
+            },
+            "1331": {
+                "concept_text": "Sodium valproate is an P450 inhibitor",
+                "concept_percentile": "28"
+            },
+            "1708": {
+                "concept_text": "St John's Wort is an enzyme inducer and can reduce the effectiveness of the combined oral contraceptive pill",
+                "concept_percentile": "42"
+            },
+            "5034": {
+                "concept_text": "Phenytoin is a P450 enzyme inducer",
+                "concept_percentile": "16"
+            },
+            "5560": {
+                "concept_text": "Macrolide antibiotics are potent inhibitors of cytochrome P450 enzymes and may elevate the INR if co-prescribed with warfarin",
+                "concept_percentile": "17"
+            },
+            "6088": {
+                "concept_text": "Carbamazepine is a P450 enzyme inductor",
+                "concept_percentile": "47"
+            },
+            "6089": {
+                "concept_text": "Phenobarbitone is a P450 enzyme inductor",
+                "concept_percentile": "15"
+            },
+            "6090": {
+                "concept_text": "Rifampicin is a P450 enzyme inductor",
+                "concept_percentile": "51"
+            },
+            "6091": {
+                "concept_text": "Chronic alcohol intake is a P450 enzyme inductor",
+                "concept_percentile": "26"
+            },
+            "6092": {
+                "concept_text": "Smoking is a P450 enzyme inductor",
+                "concept_percentile": "14"
+            },
+            "6093": {
+                "concept_text": "Ciprofloxacin is a P450 enzyme inhibitor",
+                "concept_percentile": "19"
+            },
+            "6094": {
+                "concept_text": "Cimetidine is a P450 enzyme inhibitor",
+                "concept_percentile": "1"
+            },
+            "6095": {
+                "concept_text": "Omeprazole is a P450 enzyme inhibitor",
+                "concept_percentile": "4"
+            },
+            "6096": {
+                "concept_text": "Amiodarone is a P450 enzyme inhibitor",
+                "concept_percentile": "19"
+            },
+            "6097": {
+                "concept_text": "Allopurinol is a P450 enzyme inhibitor",
+                "concept_percentile": "6"
+            },
+            "6098": {
+                "concept_text": "Fluconazole/ketoconazole are P450 enzyme inhibitors",
+                "concept_percentile": "5"
+            },
+            "6099": {
+                "concept_text": "Fluoxetine is a P450 enzyme inhibitor",
+                "concept_percentile": "4"
+            },
+            "6100": {
+                "concept_text": "Sertraline is a P450 enzyme inhibitor",
+                "concept_percentile": "14"
+            },
+            "6101": {
+                "concept_text": "Ritonavir is a P450 enzyme inhibitor",
+                "concept_percentile": "5"
+            },
+            "6102": {
+                "concept_text": "Acute alcohol intake is a P450 enzyme inhibitor",
+                "concept_percentile": "20"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9844",
+        "new_question_id": "6514",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2164",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Smoking",
+            "Obesity",
+            "Previous caesarean sections",
+            "Twin pregnancies",
+            "Endometriosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old old woman who is 34 weeks pregnant is investigated following vaginal blood loss. She is found to have placenta accreta. Which one of the following is the most important risk factor for this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Previous caesarean sections</b>. Placenta accreta is a serious pregnancy condition that occurs when the placenta grows too deeply into the uterine wall. Typically, the placenta detaches from the uterine wall after childbirth. However, with placenta accreta, part or all of the placenta remains attached. This can cause severe blood loss after delivery. The most important risk factor for developing placenta accreta is previous caesarean sections. With each subsequent caesarean section, the risk of developing placenta accreta increases due to scarring and abnormal adherence of the placenta to the myometrium.<br /><br /><b>Smoking</b> has been associated with a wide range of complications during pregnancy including preterm birth, low birth weight, and ectopic pregnancy. However, it is not considered a significant risk factor for placenta accreta.<br /><br />While <b>Obesity</b> can increase the risk of many complications during pregnancy such as gestational diabetes and pre-eclampsia, it does not significantly increase the risk of developing placenta accreta.<br /><br /><b>Twin pregnancies</b> are associated with an increased risk of several obstetric complications including preterm birth and gestational hypertension but they do not specifically increase the risk for placenta accreta.<br /><br />Finally, although <b>Endometriosis</b>, a condition where tissue similar to the lining inside the uterus is found outside this area can lead to fertility issues and is associated with an increased risk of certain adverse pregnancy outcomes, it is not directly linked with an elevated risk of developing placenta accreta.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old old woman who is 34 weeks pregnant is investigated following vaginal blood loss. She is found to have placenta accreta. Which one of the following is the most important risk factor for this condition?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Previous caesarean sections</b>. Placenta accreta is a serious pregnancy condition that occurs when the placenta grows too deeply into the uterine wall. Typically, the placenta detaches from the uterine wall after childbirth. However, with placenta accreta, part or all of the placenta remains attached. This can cause severe blood loss after delivery. The most important risk factor for developing placenta accreta is previous caesarean sections. With each subsequent caesarean section, the risk of developing placenta accreta increases due to scarring and abnormal adherence of the placenta to the myometrium.<br /><br /><b>Smoking</b> has been associated with a wide range of complications during pregnancy including preterm birth, low birth weight, and ectopic pregnancy. However, it is not considered a significant risk factor for placenta accreta.<br /><br />While <b>Obesity</b> can increase the risk of many complications during pregnancy such as gestational diabetes and pre-eclampsia, it does not significantly increase the risk of developing placenta accreta.<br /><br /><b>Twin pregnancies</b> are associated with an increased risk of several obstetric complications including preterm birth and gestational hypertension but they do not specifically increase the risk for placenta accreta.<br /><br />Finally, although <b>Endometriosis</b>, a condition where tissue similar to the lining inside the uterus is found outside this area can lead to fertility issues and is associated with an increased risk of certain adverse pregnancy outcomes, it is not directly linked with an elevated risk of developing placenta accreta.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Placenta accreta",
+        "body": "Placenta accreta describes the attachment of the placenta to the myometrium, due to a defective decidua basalis. As the placenta does not properly separate during labour there is a risk of <span class=\"concept\" data-cid=\"11766\">postpartum haemorrhage</span>.<br /><br />Risk factors<br /><ul><li>previous caesarean section</li><li>placenta praevia</li></ul><br />Strictly speaking, there are 3 different types of placenta accreta, depending on the degree of invasion although this is quite small print:<br /><ul><li>accreta: chorionic villi attach to the myometrium, rather than being restricted within the decidua basalis</li><li><span class=\"concept\" data-cid=\"11765\">increta</span>: chorionic villi invade into the myometrium</li><li><span class=\"concept\" data-cid=\"11836\">percreta</span>: chorionic villi invade through the perimetrium</li></ul>",
+        "notes_hash": "1e122800c4ab3538c3b48a8e3a131e7a",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4124",
+        "up_votes": "3",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "689",
+            "75",
+            "2634",
+            "286",
+            "440",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9290_B_18",
+        "new_question_id": "20838",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "10386",
+        "notes_id_link": "1_1110",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Allopurinol",
+            "Amitriptyline",
+            "Diclofenac",
+            "Nefopam",
+            "Sulfasalazine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman attends her GP with increasing shortness of breath. After a thorough history and examination, an outpatient CT scan of the chest is arranged. The CT scan shows evidence of lung fibrosis which is thought to be the cause of the patient's symptoms.<br /><br />The patient's past medical history includes rheumatoid arthritis and gout.<br /><br />Which of the patient's prescribed medications is most likely to cause lung fibrosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Sulfasalazine, like many disease-modifying anti-rheumatic drugs, can cause interstitial lung disease. Of the medications listed, this is the most likely to cause the changes seen on the patient's CT scan.<br /><br />None of the other medications listed are strongly associated with the development of lung fibrosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman attends her GP with increasing shortness of breath. After a thorough history and examination, an outpatient CT scan of the chest is arranged. The CT scan shows evidence of lung fibrosis which is thought to be the cause of the patient's symptoms.<br /><br />The patient's past medical history includes rheumatoid arthritis and gout.<br /><br />Which of the patient's prescribed medications is most likely to cause lung fibrosis?",
+        "correct_answer": "5",
+        "question_notes": "Sulfasalazine, like many disease-modifying anti-rheumatic drugs, can cause interstitial lung disease. Of the medications listed, this is the most likely to cause the changes seen on the patient's CT scan.<br /><br />None of the other medications listed are strongly associated with the development of lung fibrosis.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Drugs causing lung fibrosis",
+        "body": "Causes<br /><ul><li>amiodarone</li><li>cytotoxic agents: busulphan, <span class=\"concept\" data-cid=\"3425\">bleomycin</span></li><li>anti-rheumatoid drugs: <span class=\"concept\" data-cid=\"177\">methotrexate</span>, <span class=\"concept\" data-cid=\"10386\">sulfasalazine</span></li><li><span class=\"concept\" data-cid=\"1340\">nitrofurantoin</span></li><li><span class=\"concept\" data-cid=\"5553\">ergot-derived dopamine receptor agonists (bromocriptine, cabergoline, pergolide)</span></li></ul>",
+        "notes_hash": "b1f148ba5c6a31a8c5383764e6a81ceb",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Sulfasalazine can cause lung fibrosis",
+        "concept_percentile": "91",
+        "concept_colour": "rgb(45,255,0)",
+        "number_attempts": "4970",
+        "up_votes": "30",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "725",
+            "198",
+            "89",
+            "125",
+            "3833",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "177": {
+                "concept_text": "Methotrexate may cause lung fibrosis",
+                "concept_percentile": "75"
+            },
+            "10386": {
+                "concept_text": "Sulfasalazine can cause lung fibrosis",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4564_B_50",
+        "new_question_id": "15344",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3694",
+        "notes_id_link": "1_1399",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Normally no treatment is required",
+            "Children should be circumcised to reduce risk of urine collecting under foreskin",
+            "Corrective surgery at around 12 months of age is required and children should not be circumcised",
+            "Corrective surgery at around 12 months of age is required and children should be circumcised prior to surgery",
+            "Corrective surgery at around 3 years of age is required and children should not be circumcised",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A father comes to see you as his newborn son has been diagnosed with hypospadias. He would like advice on how this could be treated and if there is anything he can do to prevent it worsening? <br /><br />What should you tell him?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>Corrective surgery at around 12 months of age is required and children should not be circumcised</b>. Hypospadias is a congenital condition where the opening of the urethra is on the underside of the penis, rather than at the tip. It's typically corrected by surgery when the child is around 6 to 12 months old, according to UK guidelines. Circumcision should not be done prior to hypospadias repair because the foreskin may be needed for surgical repair.<br /><br /><b>Normally no treatment is required</b> is incorrect. Although some mild forms of hypospadias might not require intervention, in most cases surgical correction will be necessary to allow normal urination and sexual function in later life.<br /><br /><b>Children should be circumcised to reduce risk of urine collecting under foreskin</b> is incorrect as well. While circumcision can prevent certain issues such as phimosis (tight foreskin) and balanitis (inflammation of glans), it does not directly address or prevent the worsening of hypospadias. Furthermore, as mentioned earlier, the foreskin may be needed for surgical correction of this condition.<br /><br /><b>Corrective surgery at around 12 months of age is required and children should be circumcised prior to surgery</b>, this option is also incorrect. As previously stated, circumcision prior to corrective surgery for hypospadias should generally be avoided because the foreskin can often provide valuable tissue needed for the repair process.<br /><br />Lastly, <b>Corrective surgery at around 3 years of age is required and children should not be circumcised</b> isn't right either. While there's some variation in timing based on individual circumstances, most surgeons prefer to perform hypospadias repair between 6-12 months of age. This allows for early correction while minimising memory or trauma associated with surgery.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A father comes to see you as his newborn son has been diagnosed with hypospadias. He would like advice on how this could be treated and if there is anything he can do to prevent it worsening? <br /><br />What should you tell him?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Corrective surgery at around 12 months of age is required and children should not be circumcised</b>. Hypospadias is a congenital condition where the opening of the urethra is on the underside of the penis, rather than at the tip. It's typically corrected by surgery when the child is around 6 to 12 months old, according to UK guidelines. Circumcision should not be done prior to hypospadias repair because the foreskin may be needed for surgical repair.<br /><br /><b>Normally no treatment is required</b> is incorrect. Although some mild forms of hypospadias might not require intervention, in most cases surgical correction will be necessary to allow normal urination and sexual function in later life.<br /><br /><b>Children should be circumcised to reduce risk of urine collecting under foreskin</b> is incorrect as well. While circumcision can prevent certain issues such as phimosis (tight foreskin) and balanitis (inflammation of glans), it does not directly address or prevent the worsening of hypospadias. Furthermore, as mentioned earlier, the foreskin may be needed for surgical correction of this condition.<br /><br /><b>Corrective surgery at around 12 months of age is required and children should be circumcised prior to surgery</b>, this option is also incorrect. As previously stated, circumcision prior to corrective surgery for hypospadias should generally be avoided because the foreskin can often provide valuable tissue needed for the repair process.<br /><br />Lastly, <b>Corrective surgery at around 3 years of age is required and children should not be circumcised</b> isn't right either. While there's some variation in timing based on individual circumstances, most surgeons prefer to perform hypospadias repair between 6-12 months of age. This allows for early correction while minimising memory or trauma associated with surgery.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hypospadias",
+        "body": "Hypospadias is a congenital abnormality of the penis which occurs in approximately 3/1,000 male infants. There appears to be a significant genetic element, with further male children having a risk of around 5-15%.<br /><br />It is usually identified on the newborn baby check. If missed, parents may notice an abnormal urine stream.<br /><br />Hypospadias is characterised by<br /><ul><li>a ventral urethral meatus</li><li>a hooded prepuce</li><li>chordee (ventral curvature of the penis) in more severe forms</li><li>the urethral meatus may open more proximally in the more severe variants. However, 75% of the openings are distally located.</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd548b.jpg\" data-fancybox=\"gallery\" data-caption=\"Diagram showing the different variants of hypospadias. Credit: Centers for Disease Control and Prevention\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd548.jpg\" alt=\"\" /></a></div></div></div><br />Hypospadias most commonly occurs as an isolated disorder. However, associated conditions include <span class=\"concept\" data-cid=\"11170\">cryptorchidism (present in 10%)</span> and inguinal hernia.<br /><br />Management<br /><ul><li>once hypospadias has been identified, infants should be referred to specialist services</li><li>corrective surgery is typically performed when the child is around <span class=\"concept\" data-cid=\"3694\">12 months</span> of age</li><li>it is essential that the child is <span class=\"concept\" data-cid=\"11171\">not circumcised prior to the surgery</span> as the foreskin may be used in the corrective procedure</li><li>in boys with very distal disease, no treatment may be needed.</li></ul>",
+        "notes_hash": "350aeb13cdbf2134e175a6d9c7faae2c",
+        "knowledge_graph_node_id_link": 11063,
+        "concept": "Hypospadias surgery is typically performed at around 12 months of age",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "6117",
+        "up_votes": "13",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "467",
+            "311",
+            "3528",
+            "1042",
+            "769",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a0/Hypospadias_and_epispadias.webm\" data-description=\"Hypospadias &amp; epispadias\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"17\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a0/Hypospadias_and_epispadias.webm\" data-description=\"Hypospadias &amp; epispadias\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"17\">Hypospadias &amp; epispadias</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_36\" data-mediaid=\"36\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_36\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_36\" data-mediaid=\"36\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_36\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "3694": {
+                "concept_text": "Hypospadias surgery is typically performed at around 12 months of age",
+                "concept_percentile": "66"
+            },
+            "11171": {
+                "concept_text": "Circumcision should not be performed for infants with hypospadias - the foreskin may be used in the corrective procedure",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "797_B_2099",
+        "new_question_id": "2163",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1282",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Left occiput posterior",
+            "Occiput anterior",
+            "Right occiput posterior",
+            "Left occiput anterior",
+            "Right occiput anterior",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 24-year-old nulliparous woman presents in established labour. Currently, she is contracting every 3 to 5 minutes, for 45 seconds duration. You perform a cervical exam and observe that she is 7cm dilated. The fetal skull and sutures are readily palpable. <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the current position of the fetal vertex shown in this image? <br /><br />",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 24-year-old nulliparous woman presents in established labour. Currently, she is contracting every 3 to 5 minutes, for 45 seconds duration. You perform a cervical exam and observe that she is 7cm dilated. The fetal skull and sutures are readily palpable. <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd518b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the current position of the fetal vertex shown in this image? <br /><br />",
+        "correct_answer": "1",
+        "question_notes": "<CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd520b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER>",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Labour (normal)",
+        "body": "Labour may be defined as the onset of regular and painful contractions associated with cervical dilation and descent of the presenting part<br /><br />Signs of labour include<br /><ul><li>regular and painful uterine contractions</li><li>a show (shedding of mucous plug)</li><li>rupture of the membranes (not always)</li><li>shortening and dilation of the cervix</li></ul><br />Labour may be divided in to three stages<br /><ul><li>stage 1: from the onset of true labour to when the cervix is fully dilated</li><li>stage 2: from full dilation to delivery of the fetus</li><li>stage 3: from delivery of fetus to when the placenta and membranes have been completely delivered</li></ul><br /><h5 class='notes-heading'>Monitoring</h5><br />Monitoring in Labour<br /><ul><li>FHR monitored every 15min (or continuously via CTG)</li><li>Contractions assessed every 30min</li><li>Maternal pulse rate assessed every 60min</li><li>Maternal BP and temp should be checked every 4 hours</li><li>VE should be offered every 4 hours to check progression of labour</li><li>Maternal urine should be checked for ketones and protein every 4 hours</li></ul>",
+        "notes_hash": "6f58d72b1b2a2ab4ea3b07e00acbe08c",
+        "knowledge_graph_node_id_link": 1240,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4121",
+        "up_votes": "36",
+        "down_votes": "70",
+        "column_array": [
+            0,
+            "2036",
+            "143",
+            "1038",
+            "495",
+            "409",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/7/7c/Stages_of_labor.webm\" data-description=\"Stages of labor\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"217\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/7/7c/Stages_of_labor.webm\" data-description=\"Stages of labor\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"217\">Stages of labor</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_359\" data-mediaid=\"359\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_359\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_359\" data-mediaid=\"359\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_359\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 10,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2091",
+        "new_question_id": "61177",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4683",
+        "notes_id_link": "1_418",
+        "theme": "Managing delirium in a patient with Parkinson's disease.",
+        "instruction": "",
+        "options": [
+            "",
+            "Haloperidol",
+            "Lorazepam",
+            "Olanzapine",
+            "Risperidone",
+            "Diazepam",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 82-year-old man with Parkinson's disease was admitted with a urinary tract infection. Overnight, he becomes acutely agitated and distressed, attempting to climb out of bed. He does not respond to verbal de-escalation.<br /><br />Select the single most appropriate pharmacological agent from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Lorazepam</b> is the most appropriate choice. The patient has delirium, likely secondary to his urinary tract infection, on a background of Parkinson's disease. The management of delirium should first focus on identifying and treating the underlying cause and using non-pharmacological de-escalation techniques. However, as these have failed and the patient is distressed and at risk of harm, short-term pharmacological intervention is required. In patients with Parkinson's disease or Dementia with Lewy Bodies, antipsychotics with significant dopamine (D2) receptor blocking activity are relatively contraindicated. They can severely worsen motor symptoms (bradykinesia, rigidity, tremor) and can precipitate neuroleptic malignant syndrome. NICE guidelines (CG103) recommend that if urgent sedation is required in this patient group, a short-acting benzodiazepine such as lorazepam is the preferred first-line agent. It provides effective sedation without interfering with the dopaminergic system. Its short half-life and lack of active metabolites make it safer than long-acting benzodiazepines in older adults, reducing the risk of accumulation, prolonged sedation, and falls.<br /><br /><b>Haloperidol</b> is incorrect. While it is recommended by NICE as a first-line pharmacological option for managing delirium in the general adult population, it is a potent typical antipsychotic with strong D2 receptor antagonist properties. In a patient with Parkinson's disease, a condition characterised by dopamine deficiency in the nigrostriatal pathway, administering a D2 blocker can be catastrophic. It is highly likely to cause a severe and potentially irreversible exacerbation of their parkinsonian motor symptoms, leading to profound rigidity and immobility. This is a critical safety issue and a key contraindication to remember in clinical practice.<br /><br /><b>Olanzapine</b> is an incorrect choice. It is an atypical antipsychotic, and while it has a lower affinity for D2 receptors compared to haloperidol, its dopamine-blocking effect is still significant. It carries a substantial risk of worsening motor symptoms in patients with Parkinson's disease. Although previously recommended for delirium, current NICE guidelines no longer advocate for its use in this context for any patient group. For patients with Parkinson's disease who require an antipsychotic (e.g., for persistent psychosis), agents with very low D2 affinity like quetiapine or clozapine are considered, but lorazepam remains the first choice for acute behavioural disturbance.<br /><br /><b>Risperidone</b> is also incorrect. Among the atypical antipsychotics, risperidone is known to have one of the highest risks of causing extrapyramidal side effects, second only to typical antipsychotics. Its D2 receptor antagonism is significant, particularly at doses required to manage agitation. Using risperidone in a patient with Parkinson's disease would pose an unacceptably high risk of worsening their underlying motor condition. Therefore, it should be avoided in this clinical scenario.<br /><br /><b>Diazepam</b> is not the most appropriate choice. Although it is a benzodiazepine, it is a long-acting agent with active metabolites (such as nordazepam) that also have long half-lives. In an older adult, particularly one who is acutely unwell with delirium, metabolic clearance is often reduced. This can lead to drug accumulation, resulting in prolonged sedation, an increased risk of falls, and a potential paradoxical worsening of confusion. For these reasons, if a benzodiazepine is indicated for acute sedation in an older person, a short-acting agent without active metabolites, like lorazepam, is strongly preferred.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 82-year-old man with Parkinson's disease was admitted with a urinary tract infection. Overnight, he becomes acutely agitated and distressed, attempting to climb out of bed. He does not respond to verbal de-escalation.<br /><br />Select the single most appropriate pharmacological agent from the options below.",
+        "correct_answer": "2",
+        "question_notes": "<b>Lorazepam</b> is the most appropriate choice. The patient has delirium, likely secondary to his urinary tract infection, on a background of Parkinson's disease. The management of delirium should first focus on identifying and treating the underlying cause and using non-pharmacological de-escalation techniques. However, as these have failed and the patient is distressed and at risk of harm, short-term pharmacological intervention is required. In patients with Parkinson's disease or Dementia with Lewy Bodies, antipsychotics with significant dopamine (D2) receptor blocking activity are relatively contraindicated. They can severely worsen motor symptoms (bradykinesia, rigidity, tremor) and can precipitate neuroleptic malignant syndrome. NICE guidelines (CG103) recommend that if urgent sedation is required in this patient group, a short-acting benzodiazepine such as lorazepam is the preferred first-line agent. It provides effective sedation without interfering with the dopaminergic system. Its short half-life and lack of active metabolites make it safer than long-acting benzodiazepines in older adults, reducing the risk of accumulation, prolonged sedation, and falls.<br /><br /><b>Haloperidol</b> is incorrect. While it is recommended by NICE as a first-line pharmacological option for managing delirium in the general adult population, it is a potent typical antipsychotic with strong D2 receptor antagonist properties. In a patient with Parkinson's disease, a condition characterised by dopamine deficiency in the nigrostriatal pathway, administering a D2 blocker can be catastrophic. It is highly likely to cause a severe and potentially irreversible exacerbation of their parkinsonian motor symptoms, leading to profound rigidity and immobility. This is a critical safety issue and a key contraindication to remember in clinical practice.<br /><br /><b>Olanzapine</b> is an incorrect choice. It is an atypical antipsychotic, and while it has a lower affinity for D2 receptors compared to haloperidol, its dopamine-blocking effect is still significant. It carries a substantial risk of worsening motor symptoms in patients with Parkinson's disease. Although previously recommended for delirium, current NICE guidelines no longer advocate for its use in this context for any patient group. For patients with Parkinson's disease who require an antipsychotic (e.g., for persistent psychosis), agents with very low D2 affinity like quetiapine or clozapine are considered, but lorazepam remains the first choice for acute behavioural disturbance.<br /><br /><b>Risperidone</b> is also incorrect. Among the atypical antipsychotics, risperidone is known to have one of the highest risks of causing extrapyramidal side effects, second only to typical antipsychotics. Its D2 receptor antagonism is significant, particularly at doses required to manage agitation. Using risperidone in a patient with Parkinson's disease would pose an unacceptably high risk of worsening their underlying motor condition. Therefore, it should be avoided in this clinical scenario.<br /><br /><b>Diazepam</b> is not the most appropriate choice. Although it is a benzodiazepine, it is a long-acting agent with active metabolites (such as nordazepam) that also have long half-lives. In an older adult, particularly one who is acutely unwell with delirium, metabolic clearance is often reduced. This can lead to drug accumulation, resulting in prolonged sedation, an increased risk of falls, and a potential paradoxical worsening of confusion. For these reasons, if a benzodiazepine is indicated for acute sedation in an older person, a short-acting agent without active metabolites, like lorazepam, is strongly preferred.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Acute confusional state",
+        "body": "Acute confusional state is also known as delirium or acute organic brain syndrome. It affects up to 30% of elderly patients admitted to hospital.<br /><br />Predisposing factors include:<br /><ul><li>age > 65 years</li><li>background of dementia</li><li>significant injury e.g. hip fracture</li><li>frailty or multimorbidity</li><li>polypharmacy</li></ul><br />The precipitating events are often multifactorial and may include:<br /><ul><li>infection: particularly urinary tract infections</li><li>metabolic: e.g. hypercalcaemia, hypoglycaemia, hyperglycaemia, dehydration</li><li><span class=\"concept\" data-cid=\"1315\">change of environment</span></li><li>any significant cardiovascular, respiratory, neurological or endocrine condition</li><li>severe pain</li><li>alcohol withdrawal</li><li><span class=\"concept\" data-cid=\"1314\">constipation</span></li></ul><br />Features - a wide variety of presentations<br /><ul><li>memory disturbances (loss of short term > long term)</li><li>may be very agitated or withdrawn</li><li>disorientation</li><li>mood change</li><li>visual hallucinations</li><li>disturbed sleep cycle</li><li>poor attention</li></ul><br />Management<br /><ul><li>treatment of the underlying cause</li><li>modification of the environment</li><li>if pharmacological therapy is required and no Parkinson\u2019s disease is present<span class=\"concept\" data-cid=\"11082\">haloperidol</span> 0.5 mg may be used first-line</li><li>the 2010 NICE delirium guidelines advocate the use of <span class=\"concept\" data-cid=\"11082\">haloperidol</span> or olanzapine</li><li>in patients with Parkinson\u2019s disease, lorazepam is preferred if urgent treatment is required, or an atypical antipsychotic (e.g. <span class=\"concept\" data-cid=\"11204\">quetiapine</span>, clozapine) may be used<ul><li>careful reduction of the Parkinson medication may be helpful</li></ul></li><li>note that olanzapine is no longer recommended for delirium</li></ul>",
+        "notes_hash": "a33597350498f5e832045672f1166491",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Typical antipsychotics should be avoided in delirious patients with a background of Parkinson's disease",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "70",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "14",
+            "52",
+            "2",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_677\" data-linkid=\"677\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_677\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_677\" data-linkid=\"677\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_677\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg103/chapter/1-guidance\">2010 Delirium guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qmMYsVaZ0zo\" data-description=\"Delirium\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"325\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/qmMYsVaZ0zo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qmMYsVaZ0zo\" data-description=\"Delirium\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"325\">Delirium</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_551\" data-mediaid=\"551\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_551\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_551\" data-mediaid=\"551\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_551\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "1314": {
+                "concept_text": "Constipation can cause delirium in the elderly",
+                "concept_percentile": "58"
+            },
+            "1315": {
+                "concept_text": "New surroundings can cause delirium in cognitively impaired patients",
+                "concept_percentile": "75"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_715",
+        "new_question_id": "7996",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_329",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Retinal transplant",
+            "Intravitreal ranibizumab",
+            "Explain no other medical therapies currently available",
+            "Photodynamic therapy",
+            "Photocoagulation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 71-year-old female with dry age-related macular degeneration is reviewed. Unfortunately her eyesight has deteriorated over the past six months. She has never smoked and is taking antioxidant supplements. What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Explain no other medical therapies currently available</b>. Dry age-related macular degeneration (AMD) is a chronic, progressive disease that primarily affects the central vision. There is currently no cure for dry AMD according to UK guidelines, and management mainly involves monitoring for conversion to wet AMD and supportive measures such as low vision aids and antioxidant supplements in certain cases. <br /><br /><b>Retinal transplant</b> is not a feasible option for AMD. While theoretically it may seem like replacing the damaged retina could restore vision, in practice this is not currently possible due to technical difficulties with integrating a transplanted retina into the existing retinal circuitry.<br /><br /><b>Intravitreal ranibizumab</b> is an anti-VEGF therapy used in the treatment of wet AMD, but not dry AMD. Wet AMD involves abnormal blood vessel growth under the retina which can leak fluid or blood, damaging the macula and causing rapid central vision loss. Ranibizumab works by inhibiting VEGF, a protein that promotes new blood vessel formation. However, this would not be effective in dry AMD where there are no abnormal blood vessels to target.<br /><br /><b>Photodynamic therapy</b> also targets abnormal blood vessels and thus has its place in treating wet AMD but not dry AMD. It involves injecting a light-sensitive drug into the bloodstream which accumulates in the abnormal vessels under the retina, then activating it with laser light via an intravenous line which damages these vessels.<br /><br />Finally, <b>photocoagulation</b>, which uses laser energy to seal leaking blood vessels in the eye, was previously used as a treatment for wet AMD but has largely been replaced by anti-VEGF therapies like ranibizumab because they have better outcomes. Again photocoagulation would not help in dry AMD where there are no leaking vessels present.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 71-year-old female with dry age-related macular degeneration is reviewed. Unfortunately her eyesight has deteriorated over the past six months. She has never smoked and is taking antioxidant supplements. What is the most appropriate next step?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Explain no other medical therapies currently available</b>. Dry age-related macular degeneration (AMD) is a chronic, progressive disease that primarily affects the central vision. There is currently no cure for dry AMD according to UK guidelines, and management mainly involves monitoring for conversion to wet AMD and supportive measures such as low vision aids and antioxidant supplements in certain cases. <br /><br /><b>Retinal transplant</b> is not a feasible option for AMD. While theoretically it may seem like replacing the damaged retina could restore vision, in practice this is not currently possible due to technical difficulties with integrating a transplanted retina into the existing retinal circuitry.<br /><br /><b>Intravitreal ranibizumab</b> is an anti-VEGF therapy used in the treatment of wet AMD, but not dry AMD. Wet AMD involves abnormal blood vessel growth under the retina which can leak fluid or blood, damaging the macula and causing rapid central vision loss. Ranibizumab works by inhibiting VEGF, a protein that promotes new blood vessel formation. However, this would not be effective in dry AMD where there are no abnormal blood vessels to target.<br /><br /><b>Photodynamic therapy</b> also targets abnormal blood vessels and thus has its place in treating wet AMD but not dry AMD. It involves injecting a light-sensitive drug into the bloodstream which accumulates in the abnormal vessels under the retina, then activating it with laser light via an intravenous line which damages these vessels.<br /><br />Finally, <b>photocoagulation</b>, which uses laser energy to seal leaking blood vessels in the eye, was previously used as a treatment for wet AMD but has largely been replaced by anti-VEGF therapies like ranibizumab because they have better outcomes. Again photocoagulation would not help in dry AMD where there are no leaking vessels present.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Age-related macular degeneration",
+        "body": "Age-related macular degeneration is the most common cause of blindness in the UK. Degeneration of the central retina (macula) is the key feature with changes usually bilateral. ARMD is characterised by degeneration of retinal photoreceptors that results in the formation of drusen which can be seen on fundoscopy and retinal photography. It is more common with advancing age and is more common in females.<br /><br />Risk factors<br /><ul><li>advancing age itself is the greatest risk factor for ARMD<ul><li>the risk of ARMD increases 3 fold for patients aged older than 75 years, versus those aged 65-74.</li></ul></li><li><span class=\"concept\" data-cid=\"640\">smoking</span><ul><li>current smokers are twice as likely as non-smokers to have ARMD related visual loss, and ex-smokers have a slightly increased risk of developing the condition, (OR 1.13). </li></ul></li><li>family history is also a strong risk factor for developing ARMD<ul><li>first degree relatives of a sufferer of ARMD are thought to be four times more likely to inherit the condition.</li></ul></li><li>other risk factors for developing the condition include those associated with an increased risk of ischaemic cardiovascular disease, such as hypertension, dyslipidaemia and diabetes mellitus. </li></ul><br /><br /><h5 class='notes-heading'>Classification</h5><br />Traditionally two forms of macular degeneration are seen:<br /><ul><li>dry macular degeneration<ul><li>90% of cases</li><li>also known as atrophic</li><li>characterised by <span class=\"concept\" data-cid=\"639\">drusen</span>  - yellow round spots in Bruch's membrane</li></ul></li><li>wet macular degeneration<ul><li>10% of cases</li><li>also known as exudative or neovascular macular degeneration</li><li>characterised by <span class=\"concept\" data-cid=\"11900\">choroidal neovascularisation</span></li><li>leakage of serous fluid and blood can subsequently result in a rapid loss of vision</li><li>carries the worst prognosis</li></ul></li></ul><br />Recently there has been a move to a more updated classification:<br /><ul><li>early age-related macular degeneration (non-exudative, age-related maculopathy): drusen and alterations to the retinal pigment epithelium (RPE)</li><li>late age-related macular degeneration (neovascularisation, exudative)</li></ul><br /><h5 class='notes-heading'>Clinical features</h5><br />Patients typically present with a subacute onset of visual loss with:<br /><ul><li>a reduction in visual acuity, particularly for near field objects<ul><li>gradual in dry ARMD </li><li>subacute in wet ARMD</li></ul></li><li><span class=\"concept\" data-cid=\"12500\">worse in the centre of vision</span> (e.g. difficulty reading, recognising faces, driving)</li><li>difficulties in dark adaptation with an overall deterioration in vision at night</li><li>fluctuations in visual disturbance which may vary significantly from day to day</li><li>they may also suffer from photopsia, (a perception of flickering or flashing lights), and glare around objects</li><li>visual hallucinations may also occur resulting in Charles-Bonnet syndrome</li></ul><br />Signs:<br /><ul><li>distortion of line perception may be noted on <span class=\"concept\" data-cid=\"11392\">Amsler grid testing</span></li><li>fundoscopy reveals the presence of drusen, yellow areas of pigment deposition in the macular area, which may become confluent in late disease to form a macular scar.</li><li>in wet ARMD well demarcated red patches may be seen which represent intra-retinal or sub-retinal fluid leakage or haemorrhage. </li></ul>   <br />Investigations:<br /><ul><li>slit-lamp microscopy is the initial investigation of choice, to identify any pigmentary, exudative or haemorrhagic changes affecting the retina which may identify the presence of ARMD. This is usually accompanied by colour fundus photography to provide a baseline against which changes can be identified over time.</li><li>fluorescein angiography is utilised if neovascular ARMD is suspected, as this can guide intervention with anti-VEGF therapy. This may be complemented with indocyanine green angiography to visualise any changes in the choroidal circulation. </li><li>optical coherence tomography is used to visualise the retina in three dimensions because it can reveal areas of disease which aren't visible using microscopy alone. </li></ul><br /><h5 class='notes-heading'>Management</h5><br />Treatment<br /><ul><li>the AREDS trial examined the treatment of dry ARMD in 3640 subjects. It showed that a combination of zinc with anti-oxidant vitamins A,C and E reduced progression of the disease by around one third. Patients with more extensive drusen seemed to benefit most from the intervention. Treatment is therefore recommended in patients with at least moderate category dry ARMD. </li><li><span class=\"concept\" data-cid=\"4069\">vascular endothelial growth factor (VEGF)</span> <ul><li>VEGR is a potent mitogen and drives increased vascular permeability in patients with wet ARMD</li><li>a number of trials have shown that use of anti-VEGF agents can limit progression of wet ARMD and stabilise or reverse visual loss</li><li>evidence suggests that they should be instituted within the first two months of diagnosis of wet ARMD if possible</li><li>examples of anti-VEGF agents include ranibizumab, <span class=\"concept\" data-cid=\"11448\">bevacizumab</span> and pegaptanib,. The agents are usually administered by 4 weekly injection. </li></ul></li><li>laser photocoagulation does slow progression of ARMD where there is new vessel formation, although there is a risk of acute visual loss after treatment, which may be increased in patients with sub-foveal ARMD. For this reason anti-VEGF therapies are usually preferred.</li></ul>",
+        "notes_hash": "09af800e13bb1ef3f1990b7d53bc66af",
+        "knowledge_graph_node_id_link": 1286,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6081",
+        "up_votes": "27",
+        "down_votes": "34",
+        "column_array": [
+            0,
+            "112",
+            "1504",
+            "3277",
+            "443",
+            "745",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Webvision</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_410\" data-linkid=\"410\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_410\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">42</span><button type=\"button\" style=\"\" id=\"link_dislike_410\" data-linkid=\"410\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_410\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">42</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://webvision.med.utah.edu/book/part-xii-cell-biology-of-retinal-degenerations/age-related-macular-degeneration-amd/\">Age related macular degeneration fundoscopy findings</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "639": {
+                "concept_text": "<b>D</b>rusen = <b>D</b>ry macular degeneration",
+                "concept_percentile": "67"
+            },
+            "640": {
+                "concept_text": "Macular degeneration - smoking is risk factor",
+                "concept_percentile": "80"
+            },
+            "11392": {
+                "concept_text": "Amsler grid testing (to check for distortion of line perception) may be useful in testing patients with suspected age related macular degeneration",
+                "concept_percentile": "85"
+            },
+            "12500": {
+                "concept_text": "Elderly patient, gradual, central visual loss --> age-related macular degeneration",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4285_B_9",
+        "new_question_id": "15802",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4074",
+        "notes_id_link": "1_1510",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral antibiotics",
+            "Chloramphenicol eye drops",
+            "Oily tear eye drops",
+            "Eyelid hygiene with warm compresses, lid massage and lid margin cleaning",
+            "Omega-3 rich diet",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old female patient presented with itchy, sore and red eyelids stuck together with crusts seen on the eyelashes as well as gritty sensation in both her eyes. <br /><br />Which ONE of the following is the first-line treatment of this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question tests your ability to recognise this is blepharitis. The above mentioned are all treatment for blepharitis but the first line of treatment is eyelid hygiene with warm compresses, lid massage, and lid margin cleaning. <br /><br />You can then try chloramphenicol eye drops and if it still doesn't work, oral antibiotics. Oily tear eye drops can help if the blepharitis is causing quick evaporation of tears. There's some evidence with taking an omega-3 rich diet which helps improve blepharitis. However, these aren't first-line treatments.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old female patient presented with itchy, sore and red eyelids stuck together with crusts seen on the eyelashes as well as gritty sensation in both her eyes. <br /><br />Which ONE of the following is the first-line treatment of this condition?",
+        "correct_answer": "4",
+        "question_notes": "This question tests your ability to recognise this is blepharitis. The above mentioned are all treatment for blepharitis but the first line of treatment is eyelid hygiene with warm compresses, lid massage, and lid margin cleaning. <br /><br />You can then try chloramphenicol eye drops and if it still doesn't work, oral antibiotics. Oily tear eye drops can help if the blepharitis is causing quick evaporation of tears. There's some evidence with taking an omega-3 rich diet which helps improve blepharitis. However, these aren't first-line treatments.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Blepharitis",
+        "body": "Blepharitis is inflammation of the eyelid margins. It may due to either meibomian gland dysfunction (common, posterior blepharitis) or <span class=\"concept\" data-cid=\"10526\">seborrhoeic dermatitis</span>/staphylococcal infection (less common, anterior blepharitis). Blepharitis is also more common in patients with rosacea<br /><br />The meibomian glands secrete oil on to the eye surface to prevent rapid evaporation of the tear film. Any problem affecting the meibomian glands (as in blepharitis) can hence cause drying of the eyes which in turns leads to irritation<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"4300\">symptoms are usually bilateral</span></li><li><span class=\"concept\" data-cid=\"4300\">grittiness</span> and discomfort, particularly around the eyelid margins</li><li>eyes may be sticky in the morning</li><li>eyelid margins may be red. Swollen eyelids may be seen in staphylococcal blepharitis</li><li>styes and chalazions are more common in patients with blepharitis</li><li>secondary conjunctivitis may occur</li></ul><br />Management<br /><ul><li>softening of the lid margin using <span class=\"concept\" data-cid=\"4074\">hot compresses</span> twice a day</li><li><span class=\"concept\" data-cid=\"4375\">'lid hygiene'</span> - mechanical removal of the debris from lid margins<ul><li>cotton wool buds dipped in a mixture of cooled boiled water and baby shampoo is often used</li><li>an alternative is sodium bicarbonate, a teaspoonful in a cup of cooled water that has recently been boiled</li></ul></li><li>artificial tears may be given for symptom relief in people with dry eyes or an abnormal tear film</li></ul>",
+        "notes_hash": "be0ed402afb2f247fde1213e7443fd80",
+        "knowledge_graph_node_id_link": 1358,
+        "concept": "1st line of treatment for blepharitis is hot compresses",
+        "concept_percentile": "68",
+        "concept_colour": "rgb(163,255,0)",
+        "number_attempts": "4141",
+        "up_votes": "22",
+        "down_votes": "57",
+        "column_array": [
+            0,
+            "25",
+            "978",
+            "14",
+            "3114",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "4074": {
+                "concept_text": "1st line of treatment for blepharitis is hot compresses",
+                "concept_percentile": "68"
+            },
+            "4375": {
+                "concept_text": "Blepharitis is a common, chronic condition which is managed initially with good lid hygiene techniques",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_21",
+        "new_question_id": "13875",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "2454",
+        "notes_id_link": "1_1622",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "You will complete it putting pneumonia in part 1a",
+            "The acute hospital doctors caring for the patient will complete it putting pneumonia as part 1a",
+            "The case will be referred to the coroner",
+            "A post mortem will occur to determine the cause of death",
+            "The death certificate will be completed by the hospital doctors with old age as the part 1a",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are the foundation year two doctor on a placement in older adult mental health. You have been caring for a 71-year-old gentleman with psychotic depression who is being held under the mental health act.<br /><br />He develops fever, cough productive of green sputum and tachycardia. He is admitted to the local hospital where dies of a pneumonia.<br /><br />Your consultant, trained in psychiatry with no recent experience in general medicine, asks what the next step will be with regards to the death certificate.",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "As the patient died whilst under the mental health act the case must be reported to the coroner.<br /><br />Therefore either yourself or the acute hospital doctors completing the certificate would not be the initial step.<br /><br />Although requiring reporting to the coroner a post mortem is not likely to occur.<br /><br />Old age cannot be used on a death certificate if the patient is under 80 years old.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are the foundation year two doctor on a placement in older adult mental health. You have been caring for a 71-year-old gentleman with psychotic depression who is being held under the mental health act.<br /><br />He develops fever, cough productive of green sputum and tachycardia. He is admitted to the local hospital where dies of a pneumonia.<br /><br />Your consultant, trained in psychiatry with no recent experience in general medicine, asks what the next step will be with regards to the death certificate.",
+        "correct_answer": "3",
+        "question_notes": "As the patient died whilst under the mental health act the case must be reported to the coroner.<br /><br />Therefore either yourself or the acute hospital doctors completing the certificate would not be the initial step.<br /><br />Although requiring reporting to the coroner a post mortem is not likely to occur.<br /><br />Old age cannot be used on a death certificate if the patient is under 80 years old.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Sectioning under the Mental Health Act",
+        "body": "This is used for someone who will not be admitted voluntarily. Patients who are under the influence of alcohol or drugs are specifically excluded<br /><br />Section 2<br /><ul><li>admission for assessment for up to 28 days, not renewable</li><li>an Approved Mental Health Professional (AMHP) or rarely the nearest relative (NR) makes the application on the recommendation of 2 doctors</li><li>one of the doctors should be 'approved' under Section 12(2) of the Mental Health Act (usually a consultant psychiatrist)</li><li><span class=\"concept\" data-cid=\"10030\">treatment can be given against a patient's wishes</span></li></ul><br />Section 3<br /><ul><li>admission for treatment for up to 6 months, can be renewed</li><li>AMHP along with 2 doctors, both of which must have seen the patient within the past 24 hours</li><li><span class=\"concept\" data-cid=\"10030\">treatment can be given against a patient's wishes</span></li></ul><br />Section 4<br /><ul><li>72 hour assessment order</li><li>used as an emergency, when a section 2 would involve an unacceptable delay</li><li>a GP and an AMHP or NR</li><li>often changed to a section 2 upon arrival at hospital</li></ul><br />Section 5(2)<br /><ul><li>a patient who is a voluntary patient in hospital can be legally detained by a doctor for 72 hours</li></ul><br />Section 5(4)<br /><ul><li>similar to section 5(2), allows a nurse to detain a patient who is voluntarily in hospital for 6 hours</li></ul><br />Section 17a<br /><ul><li>Supervised Community Treatment (Community Treatment Order)</li><li><span class=\"concept\" data-cid=\"10028\">can be used to recall a patient to hospital for treatment if they do not comply with conditions of the order in the community, such as complying with medication</span> </li></ul><br />Section 135<br /><ul><li>a court order can be obtained to allow the police to break into a property to remove a person to a Place of Safety</li></ul><br />Section 136<br /><ul><li>someone found in a public place who appears to have a mental disorder can be taken by the police to a Place of Safety</li><li><span class=\"concept\" data-cid=\"10029\">can only be used for up to 24 hours, whilst a Mental Health Act assessment is arranged</span></li></ul>",
+        "notes_hash": "e9b35e851b3d04042cc752b60be36fe2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Any person whose death occurs whilst under the mental health act, regardless of cause, must be reported to the coroner",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "5056",
+        "up_votes": "51",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "302",
+            "992",
+            "3573",
+            "137",
+            "52",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W7E_EaXWvgw\" data-description=\"Mental Health Act Made Simple (Most Commonly Used Sections)\" data-upvotes=\"47\" data-downvotes=\"1\" data-media=\"1371\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W7E_EaXWvgw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W7E_EaXWvgw\" data-description=\"Mental Health Act Made Simple (Most Commonly Used Sections)\" data-upvotes=\"47\" data-downvotes=\"1\" data-media=\"1371\">Mental Health Act Made Simple (Most Commonly Used Sections)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2410\" data-mediaid=\"2410\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2410\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">47</span><button type=\"button\" style=\"\" id=\"media_dislike_2410\" data-mediaid=\"2410\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2410\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "10028": {
+                "concept_text": "A community treatment order (CTO) can be used to recall a patient to hospital for treatment if they do not comply with conditions of the order in the community, such as complying with medication",
+                "concept_percentile": "43"
+            },
+            "10029": {
+                "concept_text": "A Section 136 can only be used for up to 24 hours, whilst a Mental Health Act assessment is arranged",
+                "concept_percentile": "50"
+            },
+            "10030": {
+                "concept_text": "Treatment can be given against a patient's wishes if they are under a section 2 or 3",
+                "concept_percentile": "64"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5650_B_602",
+        "new_question_id": "26050",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "5437",
+        "notes_id_link": "1_1645",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Artificial tears",
+            "Oral corticosteroids",
+            "Topical aciclovir",
+            "Topical chloramphenicol",
+            "Topical corticosteroids",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old female teacher presents to emergency eye casualty with unilateral right-sided red eye which is acutely painful.  She complains of burning pain around the eye, photophobia and you note her eye is tearing excessively.  Fluorescein staining shows a linear, branching epithelial defect.  She is not a contact lens wearer and she has no past medical history of note.  <br /><br />Which option below is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is presenting with symptoms of herpes simplex keratitis - painful red eye with photophobia and epiphora.  This diagnosis is further supported by abnormal fluorescein staining, typical appearance is a linear branching corneal ulcer.  The management for this condition is topical aciclovir.<br /><br />Artificial tears are used to manage the irritation symptoms of conditions that cause dry eyes (such as Sjogren's syndrome, autoimmune thyroid disease, and uveitis).  <br /><br />Topical chloramphenicol is used in the management of bacterial conjunctivitis (which would present with a painful eye with conjunctival injection but fluorescein staining would be unremarkable, usually).  <br /><br />Topical corticosteroids are contraindicated in active herpes simplex keratitis.  If the patient presenting using systemic corticosteroids for a different condition, these should not be stopped but the patient must be treated with aggressive, systemic antiviral therapy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old female teacher presents to emergency eye casualty with unilateral right-sided red eye which is acutely painful.  She complains of burning pain around the eye, photophobia and you note her eye is tearing excessively.  Fluorescein staining shows a linear, branching epithelial defect.  She is not a contact lens wearer and she has no past medical history of note.  <br /><br />Which option below is the most appropriate management?",
+        "correct_answer": "3",
+        "question_notes": "This patient is presenting with symptoms of herpes simplex keratitis - painful red eye with photophobia and epiphora.  This diagnosis is further supported by abnormal fluorescein staining, typical appearance is a linear branching corneal ulcer.  The management for this condition is topical aciclovir.<br /><br />Artificial tears are used to manage the irritation symptoms of conditions that cause dry eyes (such as Sjogren's syndrome, autoimmune thyroid disease, and uveitis).  <br /><br />Topical chloramphenicol is used in the management of bacterial conjunctivitis (which would present with a painful eye with conjunctival injection but fluorescein staining would be unremarkable, usually).  <br /><br />Topical corticosteroids are contraindicated in active herpes simplex keratitis.  If the patient presenting using systemic corticosteroids for a different condition, these should not be stopped but the patient must be treated with aggressive, systemic antiviral therapy.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Herpes simplex keratitis",
+        "body": "Herpes simplex keratitis most commonly presents with a dendritic corneal ulcer.<br /><br />Features<br /><ul><li>red, painful eye</li><li>photophobia</li><li>epiphora</li><li>visual acuity may be decreased</li><li>fluorescein staining may show an epithelial ulcer</li></ul><br />Management<br /><ul><li>immediate referral to an ophthalmologist</li><li><span class=\"concept\" data-cid=\"5437\">topical aciclovir</span></li></ul>",
+        "notes_hash": "d7b0465c8ef5fdd8fa12f69c2467db34",
+        "knowledge_graph_node_id_link": 1355,
+        "concept": "Treatment for herpes simplex keratitis is topical aciclovir",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "6252",
+        "up_votes": "16",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "202",
+            "147",
+            "3879",
+            "1345",
+            "679",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>American Acadamy of Ophthalmology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1136\" data-linkid=\"1136\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1136\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1136\" data-linkid=\"1136\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1136\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.aao.org/eye-health/diseases/herpes-keratitis\">What is Herpes Keratitis?</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "5437": {
+                "concept_text": "Treatment for herpes simplex keratitis is topical aciclovir",
+                "concept_percentile": "76"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

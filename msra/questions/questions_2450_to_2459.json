@@ -1,0 +1,875 @@
+[
+    {
+        "question_id": "1_E_19",
+        "new_question_id": "4192",
+        "question_type": "1",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1703",
+        "theme": "Chest pain",
+        "instruction": "For each one of the following scenarios select the most likely diagnosis:",
+        "options": [
+            "",
+            "Myocardial infarction",
+            "Gastro-oesophageal reflux disease",
+            "Anxiety",
+            "Pleurisy",
+            "Pneumothorax",
+            "Pericarditis",
+            "Myocarditis",
+            "Pneumonia",
+            "Pulmonary embolism",
+            "Shingles"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 42-year-old overweight man presents with a two day history of anterior chest pain that is worse on deep inspiration and lying down",
+            "N 67-lrne-byq srznyr jvgu n uvfgbel bs puebavp ylzcubplgvp yrhxnrzvn cerfragf jvgu n 3 qnl uvfgbel bs oheavat cnva va gur evtug ybjre purfg jnyy. Pyvavpny rknzvangvba vf haerznexnoyr",
+            "N 25-lrne-byq zna jvgu n uvfgbel bs Znesna'f qvfrnfr cerfragf jvgu fhqqra bafrg fubegarff bs oerngu naq cyrhevgvp purfg cnva"
+        ],
+        "answers": [
+            "6",
+            "10",
+            "5"
+        ],
+        "notes": [
+            "",
+            "Pain and paraesthesia often precede the classic vesicular rash seen in shingles.",
+            "Pneumothoraces are more common in patients with Marfan's disease."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old overweight man presents with a two day history of anterior chest pain that is worse on deep inspiration and lying down",
+        "correct_answer": "6",
+        "question_notes": "",
+        "answer_order": "6",
+        "answer": "6",
+        "title": "Chest pain",
+        "body": "The table below gives characteristic exam question features for conditions causing chest pain<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Condition</b></th><th><b>Characteristic exam feature</b></th></tr></thead><tbody><tr><td>Myocardial infarction</td><td>Cardiac-sounding pain<br /><ul><li>heavy, central chest pain they may radiate to the neck and left arm</li><li>nausea, sweating</li><li>elderly patients and diabetics may experience no pain</li></ul><br />Risk factors for cardiovascular disease</td></tr><tr><td>Pneumothorax</td><td>History of asthma, Marfan's etc<br />Sudden dyspnoea and pleuritic chest pain</td></tr><tr><td>Pulmonary embolism</td><td>Sudden dyspnoea and pleuritic chest pain<br />Calf pain/swelling<br />Current combined pill user, malignancy</td></tr><tr><td>Pericarditis</td><td>Sharp pain relieved by sitting forwards<br />May be pleuritic in nature</td></tr><tr><td>Dissecting aortic aneurysm</td><td>'Tearing' chest pain radiating through to the back<br />Unequal upper limb blood pressure</td></tr><tr><td>Gastro-oesophageal reflux disease</td><td>Burning retrosternal pain<br />Other possible symptoms include regurgitation and dysphagia</td></tr><tr><td>Musculoskeletal chest pain</td><td>One of the most common diagnoses made in the Emergency Department. The pain is often worse on movement or palpation.<br /><br />May be precipitated by trauma or coughing</td></tr><tr><td>Shingles</td><td>Pain often precedes the rash</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Further notes</h5><br /><b>Aortic dissection</b><br /><ul><li>This occurs when there is a flap or filling defect within the aortic intima. Blood tracks into the medial layer and splits the tissues with the subsequent creation of a false lumen. It most commonly occurs in the ascending aorta or just distal to the left subclavian artery (less common). It is most common in Afro-carribean males aged 50-70 years. </li><li>Patients usually present with a tearing intrascapular pain, which may be similar to the pain of a myocardial infarct. </li><li>The dissection may spread either proximally or distally with subsequent disruption to the arterial branches that are encountered. </li><li>In the Stanford classification system the disease is classified into lesions with a proximal origin (Type A) and those that commence distal to the left subclavian (Type B).</li><li>Diagnosis may be suggested by a chest x-ray showing a widened mediastinum. Confirmation of the diagnosis is usually made by use of CT angiography</li><li>Proximal (Type A) lesions are usually treated surgically, type B lesions are usually managed non operatively.</li></ul><br /><b>Pulmonary embolism</b><br /><ul><li>Typically sudden onset of chest pain, haemoptysis, hypoxia and small pleural effusions may be present. </li><li>Most patients will have an underlying deep vein thrombosis</li><li>Diagnosis may be suggested by various ECG findings including S waves in lead I, Q waves in lead III and inverted T waves in lead III. Confirmation of the diagnosis is usually made through use of CT pulmonary angiography.</li><li>Treatment is with anticoagulation, in those patients who develop a cardiac arrest or severe compromise from their PE, consideration may be given to thrombolysis.</li></ul><br /><b>Myocardial infarction</b><br /><ul><li>Traditionally described as sudden onset of central, crushing chest pain. It may radiate into the neck and down the left arm. Signs of autonomic dysfunction may be present. The presenting features may be atypical in the elderly and those with diabetes.</li><li>Diagnosis is made through identification of new and usually dynamic ECG changes (and cardiac enzyme changes). Inferior and anterior infarcts may be distinguished by the presence of specific ECG changes (usually II, III and aVF for inferior, leads V1-V5 for anterior).</li><li>Treatment is with oral antiplatelet agents, primary coronary angioplasty and/ or thrombolysis.</li></ul><br /><b>Perforated peptic ulcer</b><br /><ul><li>Patients usually develop sudden onset of epigastric abdominal pain, it may be soon followed by generalised abdominal pain.</li><li>There may be features of antecendant abdominal discomfort, the pain of gastric ulcer is typically worse immediately after eating.</li><li>Diagnosis may be made by erect chest x-ray which may show a small amount of free intra-abdominal air (very large amounts of air are more typically associated with colonic perforation).</li><li>Treatment is usually with a laparotomy, small defects may be excised and overlaid with an omental patch, larger defects are best managed with a partial gastrectomy.</li></ul><br /><b>Boerhaaves syndrome</b><br /><ul><li>Spontaneous rupture of the oesophagus that occurs as a result of repeated episodes of vomiting.</li><li>The rupture is usually distally sited and on the left side.</li><li>Patients usually give a history of sudden onset of severe chest pain that may complicate severe vomiting.</li><li>Severe sepsis occurs secondary to mediastinitis.</li><li>Diagnosis is CT contrast swallow.</li><li>Treatment is with thoracotomy and lavage, if less than 12 hours after onset then primary repair is usually feasible, surgery delayed beyond 12 hours is best managed by insertion of a T tube to create a controlled fistula between oesophagus and skin.</li><li>Delays beyond 24 hours are associated with a very high mortality rate.</li></ul>",
+        "notes_hash": "29172145afb6f1a35a4288da78565736",
+        "knowledge_graph_node_id_link": 10003,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7717",
+        "up_votes": "39",
+        "down_votes": "76",
+        "column_array": [
+            0,
+            "5157",
+            "4407",
+            "6017",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20654_B_97",
+        "new_question_id": "34979",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11554",
+        "notes_id_link": "1_914",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Give IV potassium replacement",
+            "Give calcium gluconate IV",
+            "Give ibuprofen and colchicine",
+            "Record a posterior ECG",
+            "Request a CT aortogram",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 59-year-old patient is brought in by ambulance to the Emergency Department with severe, central chest pain, shortness of breath and diaphoresis. <br /><br />The ECG performed on scene by the paramedics shows ST depression in V1-V3 with tall, broad R waves and upright T waves. <br /><br />What is the next appropriate course of action?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Record a posterior ECG</b> is the correct answer. This patient has presented with features suggestive of myocardial infarction (MI), chest pain, dyspnoea and diaphoresis. The ECG carried out on scene shows changes that should alert the clinician to the need to perform a posterior ECG. This involves placing leads V4-V6 on that patient's back to make leads V7-V9. V7 should be placed in the left posterior axillary line, V8 at the tip of the left scapula and V9 in the left paraspinal region, all in the same horizontal plane as V4-6. ST-elevation and Q waves in these leads confirm posterior infarction and the patient should be transferred for primary percutaneous coronary intervention as soon as possible. Posterior MIs are often missed so it is important to have a high index of suspicion and a low threshold for getting a posterior ECG. Remember to hand-write on the print-out that leads V4-6 are actually V7-9. <br /><br />This patient has presented with symptoms of acute coronary syndrome (ACS). The ECG features are consistent with a posterior MI. Although ST depression can be a feature of hypokalaemia, this is not the most likely diagnosis in this case, so <b>giving IV potassium replacement</b> would be incorrect. <br /><br /><b>Give calcium gluconate IV</b> is incorrect. This is given in severe hyperkalaemia to stabilise the myocardium. ECG features of hyperkalaemia include tall tented T waves, PR prolongation and QRS widening. Symptoms include palpitations, weakness, fatigue and syncope. This presentation would be more consistent with ACS. <br /><br /><b>Giving ibuprofen and colchicine</b> would be the appropriate management for a diagnosis of pericarditis. This would typically present with chest pain that is worse on lying flat. Classical ECG changes in pericarditis would be wide-spread concave ST elevation, with PR depression and reciprocal changes in aVR and V1. The clinical picture and ECG changes in this case are more consistent with ACS. <br /><br />A <b>CT aortogram</b> is used to investigate for aortic dissection. This can present with severe chest pain, breathlessness and sweating and would be a sensible differential to rule out. The pain is classically tearing in nature, however, chest pain is not always present or can be atypical. ECG can be normal or can show ST elevation. It would be best in this scenario to record a posterior ECG to investigate for posterior MI prior to investigating for an aortic dissection due to the classic features of ACS in the history.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 59-year-old patient is brought in by ambulance to the Emergency Department with severe, central chest pain, shortness of breath and diaphoresis. <br /><br />The ECG performed on scene by the paramedics shows ST depression in V1-V3 with tall, broad R waves and upright T waves. <br /><br />What is the next appropriate course of action?",
+        "correct_answer": "4",
+        "question_notes": "<b>Record a posterior ECG</b> is the correct answer. This patient has presented with features suggestive of myocardial infarction (MI), chest pain, dyspnoea and diaphoresis. The ECG carried out on scene shows changes that should alert the clinician to the need to perform a posterior ECG. This involves placing leads V4-V6 on that patient's back to make leads V7-V9. V7 should be placed in the left posterior axillary line, V8 at the tip of the left scapula and V9 in the left paraspinal region, all in the same horizontal plane as V4-6. ST-elevation and Q waves in these leads confirm posterior infarction and the patient should be transferred for primary percutaneous coronary intervention as soon as possible. Posterior MIs are often missed so it is important to have a high index of suspicion and a low threshold for getting a posterior ECG. Remember to hand-write on the print-out that leads V4-6 are actually V7-9. <br /><br />This patient has presented with symptoms of acute coronary syndrome (ACS). The ECG features are consistent with a posterior MI. Although ST depression can be a feature of hypokalaemia, this is not the most likely diagnosis in this case, so <b>giving IV potassium replacement</b> would be incorrect. <br /><br /><b>Give calcium gluconate IV</b> is incorrect. This is given in severe hyperkalaemia to stabilise the myocardium. ECG features of hyperkalaemia include tall tented T waves, PR prolongation and QRS widening. Symptoms include palpitations, weakness, fatigue and syncope. This presentation would be more consistent with ACS. <br /><br /><b>Giving ibuprofen and colchicine</b> would be the appropriate management for a diagnosis of pericarditis. This would typically present with chest pain that is worse on lying flat. Classical ECG changes in pericarditis would be wide-spread concave ST elevation, with PR depression and reciprocal changes in aVR and V1. The clinical picture and ECG changes in this case are more consistent with ACS. <br /><br />A <b>CT aortogram</b> is used to investigate for aortic dissection. This can present with severe chest pain, breathlessness and sweating and would be a sensible differential to rule out. The pain is classically tearing in nature, however, chest pain is not always present or can be atypical. ECG can be normal or can show ST elevation. It would be best in this scenario to record a posterior ECG to investigate for posterior MI prior to investigating for an aortic dissection due to the classic features of ACS in the history.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "ECG: coronary territories",
+        "body": "The table below shows the correlation between ECG changes and coronary territories:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>ECG changes</b></th><th><b>Coronary artery</b></th></tr></thead><tbody><tr><td><b>Anteroseptal</b></td><td><span class=\"concept\" data-cid=\"8257\">V1-V4</span></td><td>Left anterior descending</td></tr><tr><td><b>Inferior</b></td><td><span class=\"concept\" data-cid=\"8258\">II, III, aVF</span></td><td><span class=\"concept\" data-cid=\"915\">Right coronary</span></td></tr><tr><td><b>Anterolateral</b></td><td>V1-6, I, aVL</td><td>Proximal left anterior descending</td></tr><tr><td><b>Lateral</b></td><td><span class=\"concept\" data-cid=\"8259\">I, aVL +/- V5-6</span></td><td><span class=\"concept\" data-cid=\"4142\">Left circumflex</span></td></tr><tr><td><b>Posterior</b></td><td><span class=\"concept\" data-cid=\"4141\">Changes in V1-3</span><br /><br /><span class=\"concept\" data-cid=\"10019\">Reciprocal changes of STEMI</span> are typically seen:<br /><ul><li>horizontal ST depression</li><li>tall, broad R waves</li><li>upright T waves</li><li>dominant R wave in V2</li></ul><br />Posterior infarction is confirmed by ST elevation and Q waves in <span class=\"concept\" data-cid=\"11554\">posterior leads (V7-9)</span></td><td>Usually left circumflex, also right coronary</td></tr></tbody></table></div><br />It should be remembered that a <span class=\"concept\" data-cid=\"9647\">new left bundle branch block (LBBB)</span> may point towards a diagnosis of acute coronary syndrome.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the correlation between ECG changes and coronary territories in acute coronary syndrome<br /></div>",
+        "notes_hash": "d9dc01438aaffe4cb31bc2261e5e181e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) ",
+        "concept_percentile": "38",
+        "concept_colour": "rgb(255,193,0)",
+        "number_attempts": "5567",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "201",
+            "2379",
+            "124",
+            "2619",
+            "244",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>University of Massachusetts Medical School</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_659\" data-linkid=\"659\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_659\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_659\" data-linkid=\"659\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_659\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">36</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://escholarship.umassmed.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1019&context=oapubs\">Classic circumflex infarction ECG</a></td></tr></table><br><br><table style='width:100%'><tr><td>Postgraduate Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1017\" data-linkid=\"1017\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1017\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1017\" data-linkid=\"1017\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1017\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">48</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://pmj.bmj.com/content/79/935/490.full\">ECG correlation with coronary anatomy</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "915": {
+                "concept_text": "Inferior MI - right coronary artery lesion",
+                "concept_percentile": "41"
+            },
+            "8257": {
+                "concept_text": "Ischaemic changes in leads V1-V4 - left anterior descending",
+                "concept_percentile": "50"
+            },
+            "8258": {
+                "concept_text": "Ischaemic changes in leads II, III, aVF - right coronary",
+                "concept_percentile": "68"
+            },
+            "8259": {
+                "concept_text": "Ischaemic changes in leads I, aVL +/- V5-6 - left circumflex",
+                "concept_percentile": "40"
+            },
+            "11554": {
+                "concept_text": "Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) ",
+                "concept_percentile": "38"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2158",
+        "new_question_id": "1240",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1092",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral doxycycline",
+            "Recommend termination of pregnancy and administer antibiotic therapy",
+            "Repeat test in 4 weeks and treat if still positive",
+            "IM benzathine penicillin G",
+            "IM human normal immunoglobulin (HNIG)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A pregnant woman is found to have tested positive syphilis during her routine booking visit bloods. She is currently 12 weeks pregnant. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The 2008 British Association for Sexual Health and HIV (BASHH) guidelines recommend IM benzathine penicillin G in this scenario.<br /><br />Doxycycline should not be used in pregnancy. Immunoglobulins are used to provide protection against viral illnesses such as rubella.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A pregnant woman is found to have tested positive syphilis during her routine booking visit bloods. She is currently 12 weeks pregnant. What is the most appropriate management?",
+        "correct_answer": "4",
+        "question_notes": "The 2008 British Association for Sexual Health and HIV (BASHH) guidelines recommend IM benzathine penicillin G in this scenario.<br /><br />Doxycycline should not be used in pregnancy. Immunoglobulins are used to provide protection against viral illnesses such as rubella.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Syphilis: management",
+        "body": "Management<br /><ul><li><span class=\"concept\" data-cid=\"6114\">intramuscular benzathine penicillin is the first-line management</span></li><li>alternatives: doxycycline</li><li><span class=\"concept\" data-cid=\"11975\">nontreponemal (rapid plasma reagin [RPR] or Venereal Disease Research Laboratory [VDRL]) titres should be monitored after treatment to assess the response</span><ul><li>a fourfold decline in titres (e.g. 1:16 &rarr; 1:4 or 1:32 &rarr; 1:8)is often considered an adequate response to treatment</li></ul></li><li>the Jarisch-Herxheimer reaction is sometimes seen following treatment<ul><li><span class=\"concept\" data-cid=\"1870\">fever, rash, tachycardia after the first dose of antibiotic</span></li><li><span class=\"concept\" data-cid=\"9001\">in contrast to anaphylaxis, there is no wheeze or hypotension</span></li><li>it is thought to be due to the release of endotoxins following bacterial death and typically occurs within a few hours of treatment</li><li><span class=\"concept\" data-cid=\"5843\">no treatment is needed</span> other than antipyretics if required</li></ul></li></ul>",
+        "notes_hash": "0a22893ed9df8b12f9c74fb8a4591b4e",
+        "knowledge_graph_node_id_link": 1137,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5364",
+        "up_votes": "39",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "328",
+            "211",
+            "132",
+            "4469",
+            "224",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for Sexual Health and HIV</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_106\" data-linkid=\"106\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_106\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_106\" data-linkid=\"106\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_106\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashh.org/documents/UK%20syphilis%20guidelines%202015.pdf\">UK National Guidelines on the Management of Syphilis 2015</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l9o6icvgr1s\" data-description=\"Syphilis\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"504\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/l9o6icvgr1s/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l9o6icvgr1s\" data-description=\"Syphilis\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"504\">Syphilis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_881\" data-mediaid=\"881\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_881\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_881\" data-mediaid=\"881\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_881\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "6114": {
+                "concept_text": "Syphilis: intramuscular benzathine penicillin is first-line",
+                "concept_percentile": "48"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_566",
+        "new_question_id": "9583",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "790",
+        "notes_id_link": "1_624",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Asymptomatic patient with fasting glucose 7.9 mmol/L on one occasion",
+            "Symptomatic patient with fasting glucose 6.8 mmol/L on two occasions",
+            "Glycosuria +++",
+            "Asymptomatic patient with random glucose 22.0 mmol/L on one occasion",
+            "Symptomatic patient with random glucose 12.0 mmol/L on one occasion",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which of the following results establishes a diagnosis of diabetes mellitus?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Symptomatic patient with random glucose 12.0 mmol/L on one occasion</b>. According to UK diagnostic criteria for diabetes mellitus, a diagnosis can be established in a patient with classic symptoms of hyperglycaemia (polyuria, polydipsia, unexplained weight loss) and a random plasma glucose \u226511.1 mmol/L. This patient has symptoms suggestive of diabetes and a random glucose of 12.0 mmol/L, which exceeds the diagnostic threshold of 11.1 mmol/L. In symptomatic patients, a single measurement above this threshold is sufficient for diagnosis without the need for a confirmatory test.<br /><br /><b>Asymptomatic patient with fasting glucose 7.9 mmol/L on one occasion</b> is incorrect. While this value is elevated (normal fasting glucose is <6.0 mmol/L), it falls into the 'impaired fasting glycaemia' category (6.1-6.9 mmol/L according to WHO criteria, or 5.6-6.9 mmol/L according to ADA criteria). For an asymptomatic patient, a fasting glucose \u22657.0 mmol/L is required for diagnosis, and this should be confirmed with a second test on another day. This patient's value of 7.9 mmol/L would warrant a repeat test, but a single measurement is insufficient for diagnosis in an asymptomatic individual.<br /><br /><b>Symptomatic patient with fasting glucose 6.8 mmol/L on two occasions</b> is incorrect. Despite having symptoms and two consistent measurements, the fasting glucose value of 6.8 mmol/L falls below the diagnostic threshold of \u22657.0 mmol/L required for diabetes diagnosis. This value falls into the 'impaired fasting glycaemia' category and would be classified as prediabetes, not diabetes mellitus. The presence of symptoms would prompt further investigation, possibly including an oral glucose tolerance test.<br /><br /><b>Glycosuria +++</b> is incorrect. While glycosuria (glucose in the urine) can suggest hyperglycaemia, it is not diagnostic of diabetes mellitus. The renal threshold for glucose reabsorption varies between individuals (typically around 10 mmol/L), and glycosuria can occur in other conditions such as pregnancy, certain medications, or renal tubular disorders. Additionally, some individuals may have a low renal threshold and exhibit glycosuria with normal blood glucose levels (renal glycosuria). Diagnosis of diabetes must be based on blood glucose measurements, not urinary findings.<br /><br /><b>Asymptomatic patient with random glucose 22.0 mmol/L on one occasion</b> is incorrect, though this requires careful explanation. While this value is significantly elevated and strongly suggestive of diabetes, UK guidelines specify that in asymptomatic individuals, a single random glucose measurement\u2014regardless of how high\u2014is insufficient for diagnosis. The correct approach would be to perform a confirmatory test, either a fasting glucose or HbA1c. However, it's worth noting that in clinical practice, such a markedly elevated value (22.0 mmol/L) would prompt immediate action and treatment might be initiated while awaiting confirmation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which of the following results establishes a diagnosis of diabetes mellitus?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Symptomatic patient with random glucose 12.0 mmol/L on one occasion</b>. According to UK diagnostic criteria for diabetes mellitus, a diagnosis can be established in a patient with classic symptoms of hyperglycaemia (polyuria, polydipsia, unexplained weight loss) and a random plasma glucose \u226511.1 mmol/L. This patient has symptoms suggestive of diabetes and a random glucose of 12.0 mmol/L, which exceeds the diagnostic threshold of 11.1 mmol/L. In symptomatic patients, a single measurement above this threshold is sufficient for diagnosis without the need for a confirmatory test.<br /><br /><b>Asymptomatic patient with fasting glucose 7.9 mmol/L on one occasion</b> is incorrect. While this value is elevated (normal fasting glucose is <6.0 mmol/L), it falls into the 'impaired fasting glycaemia' category (6.1-6.9 mmol/L according to WHO criteria, or 5.6-6.9 mmol/L according to ADA criteria). For an asymptomatic patient, a fasting glucose \u22657.0 mmol/L is required for diagnosis, and this should be confirmed with a second test on another day. This patient's value of 7.9 mmol/L would warrant a repeat test, but a single measurement is insufficient for diagnosis in an asymptomatic individual.<br /><br /><b>Symptomatic patient with fasting glucose 6.8 mmol/L on two occasions</b> is incorrect. Despite having symptoms and two consistent measurements, the fasting glucose value of 6.8 mmol/L falls below the diagnostic threshold of \u22657.0 mmol/L required for diabetes diagnosis. This value falls into the 'impaired fasting glycaemia' category and would be classified as prediabetes, not diabetes mellitus. The presence of symptoms would prompt further investigation, possibly including an oral glucose tolerance test.<br /><br /><b>Glycosuria +++</b> is incorrect. While glycosuria (glucose in the urine) can suggest hyperglycaemia, it is not diagnostic of diabetes mellitus. The renal threshold for glucose reabsorption varies between individuals (typically around 10 mmol/L), and glycosuria can occur in other conditions such as pregnancy, certain medications, or renal tubular disorders. Additionally, some individuals may have a low renal threshold and exhibit glycosuria with normal blood glucose levels (renal glycosuria). Diagnosis of diabetes must be based on blood glucose measurements, not urinary findings.<br /><br /><b>Asymptomatic patient with random glucose 22.0 mmol/L on one occasion</b> is incorrect, though this requires careful explanation. While this value is significantly elevated and strongly suggestive of diabetes, UK guidelines specify that in asymptomatic individuals, a single random glucose measurement\u2014regardless of how high\u2014is insufficient for diagnosis. The correct approach would be to perform a confirmatory test, either a fasting glucose or HbA1c. However, it's worth noting that in clinical practice, such a markedly elevated value (22.0 mmol/L) would prompt immediate action and treatment might be initiated while awaiting confirmation.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Diabetes mellitus (type 2): diagnosis",
+        "body": "The diagnosis of type 2 diabetes mellitus can be made by either a plasma glucose or a HbA1c sample. Diagnostic criteria vary according to whether the patient is symptomatic (polyuria, polydipsia etc) or not.<br /><br />If the patient is symptomatic: #link12 <br /><ul><li>fasting glucose greater than or equal to <span class=\"concept\" data-cid=\"790\">7.0 mmol/l</span></li><li>random glucose greater than or equal to <span class=\"concept\" data-cid=\"790\">11.1 mmol/l</span> (or after 75g oral glucose tolerance test)</li></ul><br />If the patient is <span class=\"concept\" data-cid=\"9497\">asymptomatic the above criteria apply but must be demonstrated on two separate occasions.</span><br /><br />When HbA1c is used for the diagnosis of diabetes:<br /><ul><li>a HbA1c of greater than or equal to <span class=\"concept\" data-cid=\"789\">48 mmol/mol</span> (6.5%) is diagnostic of diabetes mellitus</li><li>a HbAlc value of less than 48 mmol/mol (6.5%) does not exclude diabetes (i.e. it is not as sensitive as fasting samples for detecting diabetes)</li><li>in patients without symptoms, <span class=\"concept\" data-cid=\"12336\">the test must be repeated to confirm the diagnosis</span></li><li>it should be remembered that misleading HbA1c results can be caused by increased red cell turnover (see below)</li></ul><br />Conditions where <span class=\"concept\" data-cid=\"791\">HbA1c may not be used for diagnosis</span>: #link11 <br /><ul><li>haemoglobinopathies</li><li>haemolytic anaemia</li><li>untreated iron deficiency anaemia</li><li>suspected gestational diabetes</li><li>children</li><li>HIV</li><li>chronic kidney disease</li><li>people taking medication that may cause hyperglycaemia (for example corticosteroids)</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd521b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd521.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd521b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the spectrum of diabetes diagnosis<br /></div><br /><h5 class='notes-heading'>Impaired fasting glucose and impaired glucose tolerance</h5><br />A fasting glucose greater than or equal to 6.1 but less than 7.0 mmol/l implies impaired fasting glucose (IFG)<br /><br />Impaired glucose tolerance (IGT) is defined as fasting plasma glucose less than 7.0 mmol/l and OGTT 2-hour value  greater than or equal to 7.8 mmol/l but less than 11.1 mmol/l<br /><br />Diabetes UK suggests:<br /><ul><li>'People with IFG should then be offered an oral glucose tolerance test to rule out a diagnosis of diabetes. A result below 11.1 mmol/l but above 7.8 mmol/l indicates that the person doesn't have diabetes but does have IGT.'</li></ul>",
+        "notes_hash": "ac100a93aee43466a81d52195c428ddf",
+        "knowledge_graph_node_id_link": 1223,
+        "concept": "Diabetes meliitus diagnosis: fasting > 7.0, random > 11.1 - if asymptomatic need two readings",
+        "concept_percentile": "93",
+        "concept_colour": "rgb(35,255,0)",
+        "number_attempts": "6001",
+        "up_votes": "48",
+        "down_votes": "28",
+        "column_array": [
+            0,
+            "535",
+            "1133",
+            "165",
+            "588",
+            "3580",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Diabetes UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_521\" data-linkid=\"521\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_521\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_521\" data-linkid=\"521\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_521\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.diabetes.org.uk/Professionals/Position-statements-reports/Diagnosis-ongoing-management-monitoring/New_diagnostic_criteria_for_diabetes\">New diagnostic criteria for diabetes</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_380\" data-linkid=\"380\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_380\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_380\" data-linkid=\"380\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_380\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"400\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W0KPwTy0W9k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"400\">Diabetes Type II Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_684\" data-mediaid=\"684\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_684\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_684\" data-mediaid=\"684\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_684\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "789": {
+                "concept_text": "Diabetes mellitus - HbA1c of 48 mmol/mol (6.5%) or greater is diagnostic",
+                "concept_percentile": "50"
+            },
+            "790": {
+                "concept_text": "Diabetes meliitus diagnosis: fasting > 7.0, random > 11.1 - if asymptomatic need two readings",
+                "concept_percentile": "93"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_226",
+        "new_question_id": "15187",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3639",
+        "notes_id_link": "1_914",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "I, aVL, V5 and V6",
+            "II, III and aVF",
+            "V1-V4",
+            "V1-2",
+            "Global ST elevation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man calls an ambulance as he has central crushing chest pain that radiates to his left arm and jaw. As he arrives at the emergency department his heart rate is found to be 50/min. An ECG is performed which shows ST elevation and bradycardia with a 1st-degree heart block. <br /><br />Given the history, which of the following are the leads will most likely show the ST elevation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about the presentation of an ST-elevated myocardial infarction. The patient has presented 1st-degree heart block following his MI and so we can work out that his MI has most likely affected the inferior leads (right coronary arteries also provide blood supply to the AV node). Therefore the question requires you to know that leads II, III and aVF represent the inferior heart and the right coronary artery.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man calls an ambulance as he has central crushing chest pain that radiates to his left arm and jaw. As he arrives at the emergency department his heart rate is found to be 50/min. An ECG is performed which shows ST elevation and bradycardia with a 1st-degree heart block. <br /><br />Given the history, which of the following are the leads will most likely show the ST elevation?",
+        "correct_answer": "2",
+        "question_notes": "This question is asking about the presentation of an ST-elevated myocardial infarction. The patient has presented 1st-degree heart block following his MI and so we can work out that his MI has most likely affected the inferior leads (right coronary arteries also provide blood supply to the AV node). Therefore the question requires you to know that leads II, III and aVF represent the inferior heart and the right coronary artery.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "ECG: coronary territories",
+        "body": "The table below shows the correlation between ECG changes and coronary territories:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>ECG changes</b></th><th><b>Coronary artery</b></th></tr></thead><tbody><tr><td><b>Anteroseptal</b></td><td><span class=\"concept\" data-cid=\"8257\">V1-V4</span></td><td>Left anterior descending</td></tr><tr><td><b>Inferior</b></td><td><span class=\"concept\" data-cid=\"8258\">II, III, aVF</span></td><td><span class=\"concept\" data-cid=\"915\">Right coronary</span></td></tr><tr><td><b>Anterolateral</b></td><td>V1-6, I, aVL</td><td>Proximal left anterior descending</td></tr><tr><td><b>Lateral</b></td><td><span class=\"concept\" data-cid=\"8259\">I, aVL +/- V5-6</span></td><td><span class=\"concept\" data-cid=\"4142\">Left circumflex</span></td></tr><tr><td><b>Posterior</b></td><td><span class=\"concept\" data-cid=\"4141\">Changes in V1-3</span><br /><br /><span class=\"concept\" data-cid=\"10019\">Reciprocal changes of STEMI</span> are typically seen:<br /><ul><li>horizontal ST depression</li><li>tall, broad R waves</li><li>upright T waves</li><li>dominant R wave in V2</li></ul><br />Posterior infarction is confirmed by ST elevation and Q waves in <span class=\"concept\" data-cid=\"11554\">posterior leads (V7-9)</span></td><td>Usually left circumflex, also right coronary</td></tr></tbody></table></div><br />It should be remembered that a <span class=\"concept\" data-cid=\"9647\">new left bundle branch block (LBBB)</span> may point towards a diagnosis of acute coronary syndrome.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the correlation between ECG changes and coronary territories in acute coronary syndrome<br /></div>",
+        "notes_hash": "d9dc01438aaffe4cb31bc2261e5e181e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A right coronary infarct supplies the AV node so can cause arrhythmias after infarction ",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "7270",
+        "up_votes": "165",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "636",
+            "4871",
+            "1330",
+            "164",
+            "269",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>University of Massachusetts Medical School</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_659\" data-linkid=\"659\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_659\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_659\" data-linkid=\"659\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_659\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">36</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://escholarship.umassmed.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1019&context=oapubs\">Classic circumflex infarction ECG</a></td></tr></table><br><br><table style='width:100%'><tr><td>Postgraduate Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1017\" data-linkid=\"1017\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1017\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1017\" data-linkid=\"1017\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1017\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">48</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://pmj.bmj.com/content/79/935/490.full\">ECG correlation with coronary anatomy</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "915": {
+                "concept_text": "Inferior MI - right coronary artery lesion",
+                "concept_percentile": "41"
+            },
+            "8257": {
+                "concept_text": "Ischaemic changes in leads V1-V4 - left anterior descending",
+                "concept_percentile": "50"
+            },
+            "8258": {
+                "concept_text": "Ischaemic changes in leads II, III, aVF - right coronary",
+                "concept_percentile": "68"
+            },
+            "8259": {
+                "concept_text": "Ischaemic changes in leads I, aVL +/- V5-6 - left circumflex",
+                "concept_percentile": "40"
+            },
+            "11554": {
+                "concept_text": "Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) ",
+                "concept_percentile": "38"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2288",
+        "new_question_id": "61416",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "12289",
+        "notes_id_link": "1_327",
+        "theme": "Uncontrolled asthma on moderate-dose MART next step",
+        "instruction": "",
+        "options": [
+            "",
+            "Add a long-acting muscarinic antagonist",
+            "Add a leukotriene receptor antagonist",
+            "Increase to high-dose MART",
+            "Measure fractional exhaled nitric oxide and blood eosinophils",
+            "Refer to a respiratory specialist",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old woman with asthma remains symptomatic despite using a moderate-dose ICS/formoterol combination inhaler as maintenance and reliever therapy (MART). Adherence and inhaler technique are satisfactory. She reports using her reliever 4-5 times weekly and occasional nocturnal symptoms.<br /><br />Select the single most appropriate next investigation.",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Measure fractional exhaled nitric oxide and blood eosinophils</b> is the correct answer. According to the 2024 joint NICE/BTS/SIGN guidelines, this patient is at step 3 of the treatment pathway, receiving moderate-dose Maintenance and Reliever Therapy (MART). As her asthma is not controlled despite satisfactory adherence and technique, the next step (Step 4) is to investigate for evidence of type 2 inflammation by measuring biomarkers. These are fractional exhaled nitric oxide (FeNO) and the peripheral blood eosinophil count. The results of these tests guide subsequent management. If either the FeNO or eosinophil count is raised, this indicates underlying type 2 inflammation, and the patient should be referred to a specialist for consideration of biologic therapies. If both biomarkers are normal, a trial of add-on therapy with either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic antagonist (LAMA) can be initiated in primary care. This represents a significant shift in asthma management towards a more personalised approach, using biomarkers to stratify patients and target treatments more effectively.<br /><br /><b>Add a long-acting muscarinic antagonist</b> is incorrect. While adding a LAMA is a therapeutic option for patients with uncontrolled asthma on moderate-dose MART, it is not the initial next step. The guidelines recommend first checking FeNO and blood eosinophils. A trial of a LAMA is only recommended if these biomarkers are not raised. Proceeding directly to adding a LAMA would bypass the crucial step of phenotyping the patient's asthma, potentially delaying referral for more effective specialist treatments like biologics if type 2 inflammation is present.<br /><br /><b>Add a leukotriene receptor antagonist</b> is incorrect for similar reasons to adding a LAMA. An LTRA is a valid add-on therapy at this stage of management, but its initiation is conditional on the results of biomarker testing. The 2024 guidelines clearly state that FeNO and blood eosinophils should be checked first. If these are normal, a trial of an LTRA (or a LAMA) is then appropriate. Therefore, this is a plausible but premature action.<br /><br /><b>Increase to high-dose MART</b> is incorrect. Previously, escalating the dose of inhaled corticosteroid (ICS) was a standard step. However, the current guidelines advise against routinely escalating to high-dose ICS in primary care. The risks of systemic side effects increase significantly with high-dose ICS, and patients at this stage require specialist evaluation. The guidelines state that patients on a treatment regimen containing a high-dose ICS, or those being considered for it, should be referred to a respiratory specialist. This allows for confirmation of the diagnosis, assessment of comorbidities, and consideration of steroid-sparing advanced therapies.<br /><br /><b>Refer to a respiratory specialist</b> is incorrect at this specific point. While referral is an important part of the asthma pathway, it is premature to refer this patient without first performing the recommended investigations. The referral decision is guided by the biomarker results. If FeNO or eosinophils are raised, referral is the correct next step. However, if they are normal, management can continue in primary care with a trial of an LTRA or LAMA. Therefore, the investigation must precede the decision to refer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old woman with asthma remains symptomatic despite using a moderate-dose ICS/formoterol combination inhaler as maintenance and reliever therapy (MART). Adherence and inhaler technique are satisfactory. She reports using her reliever 4-5 times weekly and occasional nocturnal symptoms.<br /><br />Select the single most appropriate next investigation.",
+        "correct_answer": "4",
+        "question_notes": "<b>Measure fractional exhaled nitric oxide and blood eosinophils</b> is the correct answer. According to the 2024 joint NICE/BTS/SIGN guidelines, this patient is at step 3 of the treatment pathway, receiving moderate-dose Maintenance and Reliever Therapy (MART). As her asthma is not controlled despite satisfactory adherence and technique, the next step (Step 4) is to investigate for evidence of type 2 inflammation by measuring biomarkers. These are fractional exhaled nitric oxide (FeNO) and the peripheral blood eosinophil count. The results of these tests guide subsequent management. If either the FeNO or eosinophil count is raised, this indicates underlying type 2 inflammation, and the patient should be referred to a specialist for consideration of biologic therapies. If both biomarkers are normal, a trial of add-on therapy with either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic antagonist (LAMA) can be initiated in primary care. This represents a significant shift in asthma management towards a more personalised approach, using biomarkers to stratify patients and target treatments more effectively.<br /><br /><b>Add a long-acting muscarinic antagonist</b> is incorrect. While adding a LAMA is a therapeutic option for patients with uncontrolled asthma on moderate-dose MART, it is not the initial next step. The guidelines recommend first checking FeNO and blood eosinophils. A trial of a LAMA is only recommended if these biomarkers are not raised. Proceeding directly to adding a LAMA would bypass the crucial step of phenotyping the patient's asthma, potentially delaying referral for more effective specialist treatments like biologics if type 2 inflammation is present.<br /><br /><b>Add a leukotriene receptor antagonist</b> is incorrect for similar reasons to adding a LAMA. An LTRA is a valid add-on therapy at this stage of management, but its initiation is conditional on the results of biomarker testing. The 2024 guidelines clearly state that FeNO and blood eosinophils should be checked first. If these are normal, a trial of an LTRA (or a LAMA) is then appropriate. Therefore, this is a plausible but premature action.<br /><br /><b>Increase to high-dose MART</b> is incorrect. Previously, escalating the dose of inhaled corticosteroid (ICS) was a standard step. However, the current guidelines advise against routinely escalating to high-dose ICS in primary care. The risks of systemic side effects increase significantly with high-dose ICS, and patients at this stage require specialist evaluation. The guidelines state that patients on a treatment regimen containing a high-dose ICS, or those being considered for it, should be referred to a respiratory specialist. This allows for confirmation of the diagnosis, assessment of comorbidities, and consideration of steroid-sparing advanced therapies.<br /><br /><b>Refer to a respiratory specialist</b> is incorrect at this specific point. While referral is an important part of the asthma pathway, it is premature to refer this patient without first performing the recommended investigations. The referral decision is guided by the biomarker results. If FeNO or eosinophils are raised, referral is the correct next step. However, if they are normal, management can continue in primary care with a trial of an LTRA or LAMA. Therefore, the investigation must precede the decision to refer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Asthma: management in adults",
+        "body": "In 2024 NICE, the British Thoracic Society and SIGN produced joint guidelines on the management of asthma following many years of conflicting guidelines. The new guidelines represent a major step change in the management of asthma is both diagnosed and treated.<br /><br />For many years patients with asthma were started on a short-acting beta-2 agonist (SABA) inhaler before 'stepping up' to a regular inhaled corticosteroid with a SABA as required. The new guidelines now advocate the use of combined inhalers (ICS + long-acting beta-2 agonist) as reliever therapy or regularly, depending on the severity of asthma. Given the prevalence of asthma, it is likely that doctors will have to deal with patients on 'conventional' asthma treatments for many years to come. The joint guidelines therefore include guidance on how to manage these patients if their current treatment is controlling their symptoms sufficiently.<br /><br /><h5 class='notes-heading'>Management of adult patients aged children aged \u2265 12 years with newly diagnosed asthma</h5><br />Step 1 <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a><ul><li>a <span class=\"concept\" data-cid=\"12286\">low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler to be taken as needed for symptom relief</span><ul><li>this is termed anti-inflammatory reliever (AIR) therapy</li></ul></li><li>if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:<ul><li><span class=\"concept\" data-cid=\"12295\">start treatment with low-dose MART</span> (maintenance and reliever therapy, see below)</li><li>treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)</li></ul></li></ul><br />Step 2  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li><span class=\"concept\" data-cid=\"12287\">a low-dose MART</span><ul><li>MART describes using an inhaled corticosteroid (ICS)/formoterol combination inhaler for daily maintenance therapy and the relief of symptoms as needed, i.e. regularly and as required</li></ul></li></ul><br />Step 3<br /><ul><li>a <span class=\"concept\" data-cid=\"12288\">moderate-dose MART</span></li></ul><br />Step 4<br /><ul><li><span class=\"concept\" data-cid=\"12289\">check the fractional exhaled nitric oxide (FeNO) level if available, and the blood eosinophil count</span>  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20(FeNO)%20level%20if%20available' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>if <span class=\"concept\" data-cid=\"12290\">either of these is raised, refer to a specialist in asthma care</span></li><li>if <span class=\"concept\" data-cid=\"12291\">neither FeNO nor eosinophil count is raised, consider a trial of either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic receptor antagonist (LAMA)</span> used in addition to moderate-dose MART</li><li>if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)</li></ul></li></ul><br />Step 5<br /><ul><li><span class=\"concept\" data-cid=\"12292\">refer people to a specialist in asthma care</span> when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602b.png\" data-fancybox=\"gallery\" data-caption=\"Algorithm showing pharmacological management of asthma in people aged 12 years and over\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Transferring people aged 12 and over from other treatment pathways</h5><br />There will be many people whose asthma was managed according to the previous guidelines that present with uncontrolled asthmatic symptoms. The guidelines give advice on how these people should be switched:  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Transferring%20people%20aged%2012%20and%20over%20from%20other%20treatment%20pathways,-These%20recommendations%20are' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Existing asthma treatment</th><th>New asthma treatment</th></tr></thead><tbody><tr><td>SABA as required only</td><td><span class=\"concept\" data-cid=\"12293\"> Low-dose ICS/formoterol combination inhaler used as needed (as-needed AIR therapy)</span></td></tr><tr><td>SABA as required + regular low-dose ICS<br />SABA as required + regular low-dose ICS/LABA <br />SABA as required + regular low-dose ICS + LTRA <br />SABA as required + regular low-dose ICS/LABA + LTRA</td><td><span class=\"concept\" data-cid=\"12294\">Regular low-dose regular ICS/formoterol combination inhaler (MART therapy)</span></td></tr><tr><td>SABA as required + regular moderate-dose ICS<br />SABA as required + regular moderate-dose ICS/LABA  <br />SABA as required + regular moderate-dose ICS + LTRA or LAMA<br />SABA as required + regular moderate-dose ICS/LABA + LTRA or LAMA</td><td>Regular moderate-dose MART therapy</td></tr><tr><td>Treatment regime containing a high-dose ICS</td><td>Refer to a respiratory specialist</td></tr></tbody></table></div>",
+        "notes_hash": "b11ce0ccb8c27014563f244a47ea595b",
+        "knowledge_graph_node_id_link": 11377,
+        "concept": "Asthma: adults not controlled on moderate-dose MART &rarr; check the FeNO level if available, and the blood eosinophil count",
+        "concept_percentile": "36",
+        "concept_colour": "rgb(255,183,0)",
+        "number_attempts": "297",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "15",
+            "22",
+            "23",
+            "155",
+            "82",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2123\" data-linkid=\"2123\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2123\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">48</span><button type=\"button\" style=\"\" id=\"link_dislike_2123\" data-linkid=\"2123\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2123\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng245/chapter/Recommendations\">2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hjdIyyC8T-E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\">Inhaler and Nebuliser Explanation</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_225\" data-mediaid=\"225\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_225\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_225\" data-mediaid=\"225\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_225\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "12286": {
+                "concept_text": "Asthma: adults and children \u2265 12 years first-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler as required",
+                "concept_percentile": "55"
+            },
+            "12287": {
+                "concept_text": "Asthma: adults and children \u2265 12 years second-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler regularly and as required (MART)",
+                "concept_percentile": "35"
+            },
+            "12288": {
+                "concept_text": "Asthma: adults and children \u2265 12 years not controlled on low-dose MART --> moderate-dose MART\n",
+                "concept_percentile": "27"
+            },
+            "12289": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART --> check the FeNO level if available, and the blood eosinophil count",
+                "concept_percentile": "36"
+            },
+            "12290": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if either FeNO level or blood eosinophil raised then --> refer to a respiratory specialist",
+                "concept_percentile": "35"
+            },
+            "12291": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if neither FeNO level nor blood eosinophil raised -->  trial of either a LTRA or a LAMA",
+                "concept_percentile": "49"
+            },
+            "12292": {
+                "concept_text": "Refer adults to a respiratory specialist when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA",
+                "concept_percentile": "20"
+            },
+            "12294": {
+                "concept_text": "Adults with asthma who are poorly controlled on SABA prn + regularly ICS --> regular low-dose regular ICS/formoterol combination inhaler (MART therapy)",
+                "concept_percentile": "100"
+            },
+            "12295": {
+                "concept_text": "If an adult presents with highly symptomatic asthma (for example, regular nocturnal waking) or with a severe exacerbation then treat the acute symptoms and start MART",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_128",
+        "new_question_id": "9826",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "814",
+        "notes_id_link": "1_678",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Seborrhoeic dermatitis",
+            "Pompholyx",
+            "Polymorphic eruption of pregnancy",
+            "Lichen planus",
+            "Pemphigoid gestationis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old female in her third trimester of pregnancy mentions during an antenatal appointment that she has noticed an itchy rash around her umbilicus. This is her second pregnancy and she had no similar problems in her first pregnancy. Examination reveals blistering lesions in the peri-umbilical region and on her arms. What is the likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Pemphigoid gestationis</b>, also known as herpes gestationis (despite having no relation to herpes virus infection). This is an autoimmune blistering disorder specific to pregnancy, typically presenting in the second or third trimester. The condition is characterised by intensely pruritic urticarial plaques that progress to tense vesicles and bullae. The pathognomonic feature is the initial appearance of lesions in the periumbilical region, which then spread to other areas of the body. The condition is caused by autoantibodies targeting BP180 (collagen XVII) in the basement membrane zone, leading to separation at the dermo-epidermal junction.<br /><br /><b>Seborrhoeic dermatitis</b> is incorrect as it typically affects sebum-rich areas such as the scalp, face, and chest, presenting with erythematous patches with greasy-looking yellowish scales. It does not present with blisters and is not specifically associated with pregnancy.<br /><br /><b>Pompholyx</b> (dyshidrotic eczema) is incorrect as this condition specifically affects the hands and feet, particularly the palms and soles, causing intense pruritus and small, deep-seated vesicles. It does not occur in the periumbilical region.<br /><br /><b>Polymorphic eruption of pregnancy</b> (PEP), whilst being a pregnancy-specific dermatosis, is incorrect because it typically starts within striae on the abdomen and spares the periumbilical region - the opposite distribution to pemphigoid gestationis. PEP also presents with urticarial papules and plaques rather than frank blistering.<br /><br /><b>Lichen planus</b> is incorrect as it typically presents with purple, polygonal, pruritic papules, often affecting the flexor surfaces of the wrists and ankles, as well as oral mucosa. It is not specifically associated with pregnancy and does not typically present with blisters as the primary lesion.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old female in her third trimester of pregnancy mentions during an antenatal appointment that she has noticed an itchy rash around her umbilicus. This is her second pregnancy and she had no similar problems in her first pregnancy. Examination reveals blistering lesions in the peri-umbilical region and on her arms. What is the likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Pemphigoid gestationis</b>, also known as herpes gestationis (despite having no relation to herpes virus infection). This is an autoimmune blistering disorder specific to pregnancy, typically presenting in the second or third trimester. The condition is characterised by intensely pruritic urticarial plaques that progress to tense vesicles and bullae. The pathognomonic feature is the initial appearance of lesions in the periumbilical region, which then spread to other areas of the body. The condition is caused by autoantibodies targeting BP180 (collagen XVII) in the basement membrane zone, leading to separation at the dermo-epidermal junction.<br /><br /><b>Seborrhoeic dermatitis</b> is incorrect as it typically affects sebum-rich areas such as the scalp, face, and chest, presenting with erythematous patches with greasy-looking yellowish scales. It does not present with blisters and is not specifically associated with pregnancy.<br /><br /><b>Pompholyx</b> (dyshidrotic eczema) is incorrect as this condition specifically affects the hands and feet, particularly the palms and soles, causing intense pruritus and small, deep-seated vesicles. It does not occur in the periumbilical region.<br /><br /><b>Polymorphic eruption of pregnancy</b> (PEP), whilst being a pregnancy-specific dermatosis, is incorrect because it typically starts within striae on the abdomen and spares the periumbilical region - the opposite distribution to pemphigoid gestationis. PEP also presents with urticarial papules and plaques rather than frank blistering.<br /><br /><b>Lichen planus</b> is incorrect as it typically presents with purple, polygonal, pruritic papules, often affecting the flexor surfaces of the wrists and ankles, as well as oral mucosa. It is not specifically associated with pregnancy and does not typically present with blisters as the primary lesion.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Skin disorders associated with pregnancy",
+        "body": "Atopic eruption of pregnancy<br /><ul><li>is the <span class=\"concept\" data-cid=\"10472\">commonest skin disorder found in pregnancy</span></li><li>it typically presents as an eczematous, itchy red rash.</li><li>no specific treatment is needed</li></ul><br />Polymorphic eruption of pregnancy<br /><ul><li>pruritic condition associated with last trimester</li><li>lesions often first appear in abdominal striae</li><li>management depends on severity: emollients, mild potency topical steroids and oral steroids may be used</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx021.jpg' /></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'></td></tr></table></CENTER><div class='imagetext'>Polymorphic eruption of pregnancy</div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd022b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd022.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd022b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Polymorphic eruption of pregnancy</div><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img027.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><div class='imagetext'>Polymorphic eruption of pregnancy</div><br />Pemphigoid gestationis<br /><ul><li>pruritic blistering lesions</li><li>often develop in peri-umbilical region, later spreading to the trunk, back, buttocks and arms</li><li>usually presents 2nd or 3rd trimester and is rarely seen in the first pregnancy</li><li>oral corticosteroids are usually required</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd019b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd019.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd019b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Pemphigoid gestationis</div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd020b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd020.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd020b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Pemphigoid gestationis</div>",
+        "notes_hash": "fe1305c052c980013d100b94a1ddecf2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Polymorphic eruption of pregnancy is not associated with blistering",
+        "concept_percentile": "49",
+        "concept_colour": "rgb(255,249,0)",
+        "number_attempts": "5162",
+        "up_votes": "55",
+        "down_votes": "45",
+        "column_array": [
+            0,
+            "22",
+            "117",
+            "2651",
+            "33",
+            "2339",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1081\" data-linkid=\"1081\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1081\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1081\" data-linkid=\"1081\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1081\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/polymorphic-eruption-of-pregnancy/\">Polymorphic eruption of pregnancy</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1080\" data-linkid=\"1080\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1080\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1080\" data-linkid=\"1080\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1080\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/pemphigoid-gestationis/\">Pemphigoid gestationis</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2046",
+        "new_question_id": "11612",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "0",
+        "notes_id_link": "9_8",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Left hemicolectomy",
+            "Low anterior resection",
+            "Total colectomy",
+            "Hartmann's procedure",
+            "Abdominoperineal resection",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Harold, 75, has a known sigmoid colon tumour that was graded as T3N0M0. Surgeons recommended surgery as the first line treatment for this and it was scheduled for next week. However, he has just been brought to the emergency department with intense abdominal pain, which was found to be due to a perforation. Which of the following operations is most appropriate for Harold?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "A Hartmann's procedure would be the most preferable surgery for the patient in this scenario. The important pieces of information to consider when answering this question are the urgency of the operation and the location of the malignancy. This patient has presented to hospital as an emergency perforation, resulting from his malignancy. Therefore, the surgery for this patient needs to be appropriate for an emergency situation. Under routine circumstances, this patient would receive surgery that would consist of resection of the relevant section of bowel and then anastomosis of the two ends. However, in emergency situations anastomosis is not a preferable surgical option. <br /><br />Hartmann's procedure involves resection of the relevant portion of bowel and formation of an end colostomy/ileostomy. In the future patients can undergo a reversal of Hartmann's procedure, whereby the end colostomy is closed following the formation of a colorectal anastomosis, restoring continuity of the bowels. This makes it the ideal surgical procedure for emergency situations. Furthermore, this operation involves resection of the sigmoid colon, where this patients tumour is located.<br /><br />Abdominoperineal resections and low anterior resections are used to treat rectal malignancies, and are therefore inappropriate responses to this question. A total colectomy is not required in this patient, as it is only the sigmoid colon that is affected, meaning removal of the entire colon is an out of proportion response to the problem. A left hemicolectomy, could at first glance, appear a correct answer. However, the emergency of the patients situation dictates that anastomosis formation is not advisable, meaning a Hartmann's procedure is more appropriate, and the correct answer for this scenario.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Harold, 75, has a known sigmoid colon tumour that was graded as T3N0M0. Surgeons recommended surgery as the first line treatment for this and it was scheduled for next week. However, he has just been brought to the emergency department with intense abdominal pain, which was found to be due to a perforation. Which of the following operations is most appropriate for Harold?",
+        "correct_answer": "4",
+        "question_notes": "A Hartmann's procedure would be the most preferable surgery for the patient in this scenario. The important pieces of information to consider when answering this question are the urgency of the operation and the location of the malignancy. This patient has presented to hospital as an emergency perforation, resulting from his malignancy. Therefore, the surgery for this patient needs to be appropriate for an emergency situation. Under routine circumstances, this patient would receive surgery that would consist of resection of the relevant section of bowel and then anastomosis of the two ends. However, in emergency situations anastomosis is not a preferable surgical option. <br /><br />Hartmann's procedure involves resection of the relevant portion of bowel and formation of an end colostomy/ileostomy. In the future patients can undergo a reversal of Hartmann's procedure, whereby the end colostomy is closed following the formation of a colorectal anastomosis, restoring continuity of the bowels. This makes it the ideal surgical procedure for emergency situations. Furthermore, this operation involves resection of the sigmoid colon, where this patients tumour is located.<br /><br />Abdominoperineal resections and low anterior resections are used to treat rectal malignancies, and are therefore inappropriate responses to this question. A total colectomy is not required in this patient, as it is only the sigmoid colon that is affected, meaning removal of the entire colon is an out of proportion response to the problem. A left hemicolectomy, could at first glance, appear a correct answer. However, the emergency of the patients situation dictates that anastomosis formation is not advisable, meaning a Hartmann's procedure is more appropriate, and the correct answer for this scenario.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Colorectal cancer: management",
+        "body": "Management strategies depend on the tumour's location, stage, histological type, and the patient's overall health status.<br /><br /><h5 class='notes-heading'>Staging</h5><br />All patients with newly diagnosed colorectal cancer should have the following for staging:<br /><ul><li>carcinoembryonic antigen (CEA)</li><li>CT of the chest, abdomen and pelvis</li><li>their entire colon should have been evaluated with colonoscopy or CT colonography</li><li>patients whose tumours lie below the peritoneal reflection should have their mesorectum evaluated with MRI. </li></ul><br />The TNM (Tumour, Node, Metastasis) staging system is commonly used to stage CRC, aiding in prognosis and treatment planning. Once their staging is complete patients should be discussed within a dedicated colorectal MDT meeting and a treatment plan formulated.<br /><br /><h5 class='notes-heading'>Treatment of colonic cancer</h5><br />Surgery<br /><ul><li>Cancer of the colon is nearly always treated with surgery</li><li>Resectional surgery is the only option for cure in patients with colon cancer.</li><li>The procedure is tailored to the patient and the tumour location as detailed below</li><li>Some patients may have confounding factors that will govern the choice of procedure, for example a tumour in a patient from a HNPCC family may be better served with a panproctocolectomy rather than segmental resection. </li><li>Anastomosis<ul><li>Following resection the decision has to be made regarding restoration of continuity. </li><li>For an anastomosis to heal the key technical factors include; adequate blood supply, mucosal apposition and no tissue tension</li></ul></li><li>Obstruction<ul><li>When a colonic cancer presents with an obstructing lesion; the options are to either stent it or resect</li><li>In modern practice it is unusual to simply defunction a colonic tumour with a proximal loop stoma. This differs from the situation in the rectum (see below). </li></ul></li></ul><br />The operations for cancer are segmental resections based on blood supply and lymphatic drainage:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Site of cancer</b></th><th><b>\tType of resection</b></th><th><b>\tAnastomosis</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11356\">Caecal, ascending or proximal transverse colon</span></td><td>\t Right hemicolectomy</td><td>\t \tIleo-colic</td></tr><tr><td><span class=\"concept\" data-cid=\"11355\">Distal transverse, descending colon</span></td><td>\t Left hemicolectomy\t</td><td>\t Colo-colon\t</td></tr><tr><td>Sigmoid colon\t</td><td>\t High anterior resection\t</td><td>\t Colo-rectal\t</td></tr><tr><td>Upper rectum\t</td><td>\t Anterior resection (TME)\t</td><td>\t Colo-rectal\t</td></tr><tr><td>Low rectum\t</td><td>\t Anterior resection (Low TME)\t</td><td>\t Colo-rectal<br />(+/- Defunctioning stoma)</td></tr><tr><td><span class=\"concept\" data-cid=\"11410\">Anal verge</span>\t</td><td>\t Abdomino-perineal excision of rectum\t</td><td>\t None\t</td></tr></tbody></table></div><br />Chemotherapy<br /><ul><li>Used in the neoadjuvant setting (particularly for rectal cancers), adjuvant setting, and for metastatic disease</li><li>Common regimens include FOLFOX and FOLFIRI.</li></ul> <br />Radiation Therapy <br /><ul><li>Predominantly used for rectal cancers in the neoadjuvant or adjuvant setting.</li></ul><br />Targeted Therapies<br /><ul><li>Bevacizumab (anti-VEGF) and Cetuximab (anti-EGFR), particularly for metastatic disease</li></ul><br /><h5 class='notes-heading'>Emergency surgery</h5><br />In the emergency setting where the <span class=\"concept\" data-cid=\"11357\">bowel has perforated the risk of an anastomosis is much greater</span>, particularly when the anastomosis is colon-colon. In this situation, an end colostomy is often safer and can be reversed later. When resection of the sigmoid colon is performed and an end colostomy is fashioned the operation is referred to as a <span class=\"concept\" data-cid=\"3974\">Hartmann's procedure</span>. Whilst left-sided resections are more risky, ileo-colic anastomoses are relatively safe even in the emergency setting and do not need to be defunctioned.",
+        "notes_hash": "9559f6d3bd4075368964b192385881a2",
+        "knowledge_graph_node_id_link": 1008,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6106",
+        "up_votes": "58",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "913",
+            "674",
+            "194",
+            "4116",
+            "209",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_611\" data-linkid=\"611\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_611\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_611\" data-linkid=\"611\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_611\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922600/\">2012 Gastrointestinal oncology - what you need to know</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A6v-y6hr4EQ\" data-description=\"Colorectal Cancer - Overview\" data-upvotes=\"16\" data-downvotes=\"2\" data-media=\"419\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/A6v-y6hr4EQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A6v-y6hr4EQ\" data-description=\"Colorectal Cancer - Overview\" data-upvotes=\"16\" data-downvotes=\"2\" data-media=\"419\">Colorectal Cancer - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_722\" data-mediaid=\"722\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_722\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_722\" data-mediaid=\"722\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_722\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0wLV2wJrBxg\" data-description=\"Colorectal Cancer Surgery: principles and types\" data-upvotes=\"34\" data-downvotes=\"7\" data-media=\"1205\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0wLV2wJrBxg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0wLV2wJrBxg\" data-description=\"Colorectal Cancer Surgery: principles and types\" data-upvotes=\"34\" data-downvotes=\"7\" data-media=\"1205\">Colorectal Cancer Surgery: principles and types</a></td></tr><tr><td><span ><small>Oncology for Medical Students - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2113\" data-mediaid=\"2113\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2113\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"media_dislike_2113\" data-mediaid=\"2113\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2113\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cVTeLRdf3eE\" data-description=\"Colorectal carcinoma\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"570\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cVTeLRdf3eE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cVTeLRdf3eE\" data-description=\"Colorectal carcinoma\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"570\">Colorectal carcinoma</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_975\" data-mediaid=\"975\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_975\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_975\" data-mediaid=\"975\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_975\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "11355": {
+                "concept_text": "Distal transverse or descending colon cancer --> left hemicolectomy",
+                "concept_percentile": "2"
+            },
+            "11356": {
+                "concept_text": "Caecal, ascending or proximal transverse colon cancer --> right hemicolectomy",
+                "concept_percentile": "44"
+            },
+            "11357": {
+                "concept_text": "In an emergency setting, if a colonic tumour is associated with perforation the risk of an anastomosis is greater --> end colostomy",
+                "concept_percentile": "65"
+            },
+            "11410": {
+                "concept_text": "Rectal cancer on the anal verge -->\t Abdomino-perineal excision of rectum",
+                "concept_percentile": "30"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4285_B_10",
+        "new_question_id": "16219",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4075",
+        "notes_id_link": "1_882",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Optic disc swelling",
+            "Recurrence of cataract",
+            "Corneal ulcer",
+            "Posterior capsule opacification",
+            "Cystoid macular oedema",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 80-year-old gentleman presented with painless, blurring of vision in his right eye. Otherwise, he had no other ocular symptoms. He is normally fit and well and his only past medical history included bilateral cataract surgery about 5 years ago. <br /><br />Which ONE of the following is the most likely cause of his blurring of vision?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Posterior capsule opacification often happens years after cataract surgery and is often the most common cause of blurring of vision years after cataract surgery. Once a cataract surgery is done, it is impossible to get a recurrence of cataract because the lens has already been replaced with an artificial lens. Cystoid macular oedema can occur days to weeks after cataract surgery due to inflammation and can cause blurring of vision. But in this case, our patient had cataract surgery years ago so this is unlikely. Optic disc swelling can certainly cause blurring of vision, but there was no history of eye pain indicating optic neuritis or signs of raised intracranial pressure. So optic disc swelling is unlikely to be the cause. Corneal ulcer is simply wrong because there is no pain or any history e.g. contact lens wearer, herpes simplex/zoster infection suggesting an infection of the ulcer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 80-year-old gentleman presented with painless, blurring of vision in his right eye. Otherwise, he had no other ocular symptoms. He is normally fit and well and his only past medical history included bilateral cataract surgery about 5 years ago. <br /><br />Which ONE of the following is the most likely cause of his blurring of vision?",
+        "correct_answer": "4",
+        "question_notes": "Posterior capsule opacification often happens years after cataract surgery and is often the most common cause of blurring of vision years after cataract surgery. Once a cataract surgery is done, it is impossible to get a recurrence of cataract because the lens has already been replaced with an artificial lens. Cystoid macular oedema can occur days to weeks after cataract surgery due to inflammation and can cause blurring of vision. But in this case, our patient had cataract surgery years ago so this is unlikely. Optic disc swelling can certainly cause blurring of vision, but there was no history of eye pain indicating optic neuritis or signs of raised intracranial pressure. So optic disc swelling is unlikely to be the cause. Corneal ulcer is simply wrong because there is no pain or any history e.g. contact lens wearer, herpes simplex/zoster infection suggesting an infection of the ulcer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Cataracts",
+        "body": "A cataract is a common eye condition where the lens of the eye gradually opacifies i.e. becomes cloudy. This cloudiness makes it more difficult for light to reach the back of the eye (retina), thus causing reduced/blurred vision. Cataracts are the leading cause of curable blindness worldwide.<br /><br />Epidemiology<br /><ul><li>Cataracts are more common in women than in men</li><li>The incidence of cataracts increases with age. One study found that 30% of individuals aged 65 and over had a visually-impairing cataract in either one or both eyes</li></ul>\t<br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"9546\">Normal ageing process: most common cause</span></li></ul><br />Other possible causes<br /><ul><li>Smoking</li><li>Increased alcohol consumption</li><li>Trauma</li><li>Diabetes mellitus</li><li><span class=\"concept\" data-cid=\"6026\">Long-term corticosteroids</span></li><li>Radiation exposure</li><li><span class=\"concept\" data-cid=\"5143\">Myotonic dystrophy</span></li><li>Metabolic disorders: <span class=\"concept\" data-cid=\"5142\">hypocalcaemia</span></li></ul><br />Patients typically present with a gradual onset of:<br /><ul><li>Reduced vision</li><li>Faded colour vision: making it more difficult to distinguish different colours</li><li>Glare: lights appear brighter than usual</li><li>Halos around lights</li></ul><br />Signs:<br /><ul><li>A Defect in the red reflex: the red reflex is essentially the reddish-orange reflection seen through an ophthalmoscope when a light is shone on the retina. Cataracts will prevent light from getting to the retina, hence you see a defect in the red reflex.</li></ul><br />Investigations:<br /><ul><li>Ophthalmoscopy: done after pupil dilation. Findings: normal fundus and optic nerve</li><li>Slit-lamp examination. Findings: visible cataract </li></ul><br />Classification<br /><ul><li><span class=\"concept\" data-cid=\"9420\">Nuclear</span>: change lens refractive index, common in old age</li><li>Polar: localized, commonly inherited, lie in the visual axis</li><li>Subcapsular: due to <span class=\"concept\" data-cid=\"2728\">steroid</span> use, just deep to the lens capsule, in the visual axis</li><li>Dot opacities: common in normal lenses, also seen in diabetes and myotonic dystrophy</li></ul><br />Management<br /><ul><li>Non-surgical: In the early stages, age-related cataracts can be managed conservatively by prescribing stronger glasses/contact lens, or by encouraging the use of brighter lighting. These options help optimise vision but do not actually slow down the progression of cataracts, therefore surgery will eventually be needed.</li><li>Surgery: Surgery is the only effective treatment for cataracts. This involves removing the cloudy lens and replacing this with an artificial one. <span class=\"concept\" data-cid=\"9745\">NICE suggests that referral for surgery should be dependent upon whether a visual impairment is present, impact on quality of life, and patient choice</span>. Also whether both eyes are affected and the possible risks and benefits of surgery should be taken into account.  Prior to cataract surgery, patients should be provided with information on the refractive implications of various types of intraocular lenses. After cataract surgery, patients should be advised on the use of eye drops and eyewear, what to do if vision changes and the management of other ocular problems. Cataract surgery has a high success rate with 85-90% of patients achieving 6/12 corrected vision (on a Snellen chart) postoperatively. </li></ul>\t<br />Complications following surgery<br /><ul><li><span class=\"concept\" data-cid=\"4075\">Posterior capsule opacification</span>: thickening of the lens capsule</li><li>Retinal detachment</li><li>Posterior capsule rupture</li><li><span class=\"concept\" data-cid=\"10758\">Endophthalmitis</span>: inflammation of aqueous and/or vitreous humour</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd136b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd136.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd136b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>A hypermature age-related cortico-nuclear cataract with a brunescent (brown) nucleus. Credit National Eye Institute, National Institutes of Health.</div>",
+        "notes_hash": "b1b2cc7f17a6fa11510249e9ec2910de",
+        "knowledge_graph_node_id_link": 1242,
+        "concept": "Blurring of vision again years after cataract surgery can occur due to posterior capsule opacification",
+        "concept_percentile": "57",
+        "concept_colour": "rgb(219,255,0)",
+        "number_attempts": "4152",
+        "up_votes": "56",
+        "down_votes": "31",
+        "column_array": [
+            0,
+            "200",
+            "1260",
+            "66",
+            "2464",
+            "162",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1359\" data-linkid=\"1359\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1359\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1359\" data-linkid=\"1359\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1359\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng77/chapter/Recommendations\">2017 Cataracts in adults: management</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "4075": {
+                "concept_text": "Blurring of vision again years after cataract surgery can occur due to posterior capsule opacification",
+                "concept_percentile": "57"
+            },
+            "5142": {
+                "concept_text": "Hypocalcaemia is a cause of cataracts",
+                "concept_percentile": "80"
+            },
+            "5143": {
+                "concept_text": "Cataracts are associated with myotonic dystrophy",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_505",
+        "new_question_id": "9729",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_657",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hypertriglyceridaemia",
+            "Hypercholesterolaemia",
+            "Hypothyroidism",
+            "Wilson's disease",
+            "Diabetes mellitus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 40-year-old man presents to surgery as he has noted an abnormality around his right eye:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img006.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer to this question is <b>Hypercholesterolaemia</b>. The image shows xanthelasma, which are yellowish plaques that commonly occur on or around the eyelids. Xanthelasma is often associated with hypercholesterolaemia, a condition characterised by high levels of cholesterol in the blood. Hypercholesterolaemia can lead to atherosclerosis and subsequently cardiovascular diseases. <br /><br /><b>Hypertriglyceridaemia</b> is an incorrect option. While it is true that hypertriglyceridaemia can also cause xanthoma (fatty deposits under the skin), these usually present as eruptive xanthomas (small red-yellow bumps) or tuberous xanthomas (larger nodules), rather than xanthelasma.<br /><br /><b>Hypothyroidism</b>, another incorrect option, can sometimes be associated with hypercholesterolaemia due to decreased metabolism of lipids. However, hypothyroidism itself would not directly cause xanthelasma. Hypothyroidism presents with symptoms such as fatigue, weight gain, cold intolerance, constipation, and dry skin.<br /><br />The diagnosis of <b>Wilson's disease</b> does not fit the given scenario either. Wilson's disease is a rare inherited disorder causing copper to accumulate in vital organs like the liver and brain. The classic ocular manifestation in Wilson's disease is Kayser-Fleischer rings - copper deposition at the corneal limbus - rather than xanthelasma.<br /><br />Lastly, <b>Diabetes mellitus</b> is also an incorrect answer for this case scenario. Diabetes could lead to various eye problems like diabetic retinopathy or cataracts but it does not cause xanthelasma. It's important for medical students to remember that while diabetes and hyperlipidemias often coexist due to their common risk factors, they are distinct conditions with different manifestations and complications.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 40-year-old man presents to surgery as he has noted an abnormality around his right eye:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img006.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer to this question is <b>Hypercholesterolaemia</b>. The image shows xanthelasma, which are yellowish plaques that commonly occur on or around the eyelids. Xanthelasma is often associated with hypercholesterolaemia, a condition characterised by high levels of cholesterol in the blood. Hypercholesterolaemia can lead to atherosclerosis and subsequently cardiovascular diseases. <br /><br /><b>Hypertriglyceridaemia</b> is an incorrect option. While it is true that hypertriglyceridaemia can also cause xanthoma (fatty deposits under the skin), these usually present as eruptive xanthomas (small red-yellow bumps) or tuberous xanthomas (larger nodules), rather than xanthelasma.<br /><br /><b>Hypothyroidism</b>, another incorrect option, can sometimes be associated with hypercholesterolaemia due to decreased metabolism of lipids. However, hypothyroidism itself would not directly cause xanthelasma. Hypothyroidism presents with symptoms such as fatigue, weight gain, cold intolerance, constipation, and dry skin.<br /><br />The diagnosis of <b>Wilson's disease</b> does not fit the given scenario either. Wilson's disease is a rare inherited disorder causing copper to accumulate in vital organs like the liver and brain. The classic ocular manifestation in Wilson's disease is Kayser-Fleischer rings - copper deposition at the corneal limbus - rather than xanthelasma.<br /><br />Lastly, <b>Diabetes mellitus</b> is also an incorrect answer for this case scenario. Diabetes could lead to various eye problems like diabetic retinopathy or cataracts but it does not cause xanthelasma. It's important for medical students to remember that while diabetes and hyperlipidemias often coexist due to their common risk factors, they are distinct conditions with different manifestations and complications.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hyperlipidaemia: xanthomata",
+        "body": "Characteristic xanthomata seen in hyperlipidaemia:<br /><br />Palmar xanthoma<br /><ul><li>remnant hyperlipidaemia </li><li>may less commonly be seen in familial hypercholesterolaemia </li></ul><br />Eruptive xanthoma are due to high triglyceride levels and present as multiple red/yellow vesicles on the extensor surfaces (e.g. elbows, knees)<br /><br />Causes of eruptive xanthoma<br /><ul><li>familial hypertriglyceridaemia </li><li>lipoprotein lipase deficiency</li></ul><br />Tendon xanthoma, tuberous xanthoma, xanthelasma<br /><ul><li>familial hypercholesterolaemia</li><li>remnant hyperlipidaemia</li></ul><br /><h5 class='notes-heading'>Xanthelasma</h5><br />Xanthelasma are yellowish papules and plaques caused by localized accumulation of lipid deposits commonly seen on the eyelid. They are also seen in patients without lipid abnormalities.<br /><br />Management of xanthelasma, options include:<br /><ul><li>surgical excision</li><li>topical trichloroacetic acid</li><li>laser therapy</li><li>electrodesiccation</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd084b.jpg\" data-fancybox=\"gallery\" data-caption=\"Xanthelasma around the left eye\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd084.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "5c474460383f7834968a30bdca2145db",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "8017",
+        "up_votes": "25",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "1477",
+            "6312",
+            "15",
+            "173",
+            "39",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_63\" data-linkid=\"63\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_63\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_63\" data-linkid=\"63\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_63\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/xanthomas/\">Xanthomas</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

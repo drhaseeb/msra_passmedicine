@@ -1,0 +1,825 @@
+[
+    {
+        "question_id": "22486_B_137",
+        "new_question_id": "35004",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "10196",
+        "notes_id_link": "1_2577",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "12-monthly ultrasound assessment",
+            "3-monthly ultrasound assessment",
+            "6-monthly ultrasound assessment",
+            "Referral to stop smoking services",
+            "Urgent referral to vascular surgery",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man attends an abdominal aortic aneurysm (AAA) screening offered by his GP. On ultrasound, it is revealed that he has a supra-renal aneurysm that is 4.9 cm in diameter. When questioned he says he has no symptoms. <br /><br />How should this patient be managed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>3-monthly ultrasound assessment</b> is currently recommended for medium aneurysms (4.5-5.4cm). These aneurysms have a higher chance of rupture, and so should be monitored on a 3-monthly basis to make sure that there is no rapid diameter increase.<br /><br /><b>12-monthly ultrasound assessment </b>should be considered for small AAAs (<4.5cm). These aneurysms have a low risk of rupture, and so should be monitored infrequently to make sure there is no growth. <br /><br /><b>6-monthly ultrasound assessment</b> is not currently used to monitor AAA. <br /><br /><b>Referral to stop-smoking services</b> should be considered for any patients found to have a AAA who are still smoking. Smoking is one of the main risk factors for both the development and rupture of an AAA. This does not address the need for regular screening, however, and there is also no mention of smoking in this patient's history. <br /><br /><b>Urgent surgical referral to vascular surgery </b>should be considered for any patient with a large aneurysm (>5.4cm) or a rapidly enlarging aneurysm. These aneurysms have a very high chance of rupture, and so should be referred urgently for endovascular or open repair.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man attends an abdominal aortic aneurysm (AAA) screening offered by his GP. On ultrasound, it is revealed that he has a supra-renal aneurysm that is 4.9 cm in diameter. When questioned he says he has no symptoms. <br /><br />How should this patient be managed?",
+        "correct_answer": "2",
+        "question_notes": "<b>3-monthly ultrasound assessment</b> is currently recommended for medium aneurysms (4.5-5.4cm). These aneurysms have a higher chance of rupture, and so should be monitored on a 3-monthly basis to make sure that there is no rapid diameter increase.<br /><br /><b>12-monthly ultrasound assessment </b>should be considered for small AAAs (<4.5cm). These aneurysms have a low risk of rupture, and so should be monitored infrequently to make sure there is no growth. <br /><br /><b>6-monthly ultrasound assessment</b> is not currently used to monitor AAA. <br /><br /><b>Referral to stop-smoking services</b> should be considered for any patients found to have a AAA who are still smoking. Smoking is one of the main risk factors for both the development and rupture of an AAA. This does not address the need for regular screening, however, and there is also no mention of smoking in this patient's history. <br /><br /><b>Urgent surgical referral to vascular surgery </b>should be considered for any patient with a large aneurysm (>5.4cm) or a rapidly enlarging aneurysm. These aneurysms have a very high chance of rupture, and so should be referred urgently for endovascular or open repair.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Abdominal aortic aneursym: screening and management of unruptured aneurysms",
+        "body": "The majority of patients who develop an abdominal aortic aneurysm (AAA) are <span class=\"concept\" data-cid=\"11531\">asymptomatic</span>. Given the high mortality associated with a ruptured AAA it is therefore beneficial to screen patients. Screening for an abdominal aortic aneurysm consists of a <span class=\"concept\" data-cid=\"4115\">single abdominal ultrasound for males aged 65.</span><br /><br /><br /><h5 class='notes-heading'>Screening outcome</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Aorta width</th><th>Interpretation</th><th>Action</th></tr></thead><tbody><tr><td>< 3 cm</td><td>Normal</td><td><span class=\"concept\" data-cid=\"12384\">No further action</span></td></tr><tr><td>3 - 4.4 cm</td><td>Small aneurysm</td><td><span class=\"concept\" data-cid=\"12385\">Rescan every 12 months</span></td></tr><tr><td>4.5 - 5.4 cm</td><td>Medium aneurysm</td><td><span class=\"concept\" data-cid=\"10196\">Rescan every 3 months</span></td></tr><tr><td>\u2265  5.5cm</td><td>Large aneurysm</td><td><span class=\"concept\" data-cid=\"10334\">Refer within 2 weeks to vascular surgery for probable intervention</span><br />Only found in 1 per 1,000 screened patients</td></tr></tbody></table></div><br /><br /><h5 class='notes-heading'>Further management</h5><br />Low rupture risk<br /><ul><li>asymptomatic, <span class=\"concept\" data-cid=\"2255\">aortic diameter < 5.5cm (i.e. small and medium aneurysms)</span></li><li>abdominal US surveillance (on time-scales outlines above) and optimise cardiovascular risk factors (e.g. stop smoking)</li></ul><br />High rupture risk<br /><ul><li><span class=\"concept\" data-cid=\"1299\">symptomatic</span>, <span class=\"concept\" data-cid=\"4026\">aortic diameter >=5.5cm</span> or <span class=\"concept\" data-cid=\"2256\">rapidly enlarging (>1cm/year)</span></li><li><span class=\"concept\" data-cid=\"10334\">refer within 2 weeks to vascular surgery for probable intervention</span></li><li>treat with elective endovascular repair (EVAR) or open repair if unsuitable. In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm. A complication of EVAR is an endo-leak, where the stent fails to exclude blood from the aneurysm, and usually presents without symptoms on routine follow-up.</li></ul>",
+        "notes_hash": "e6b2a9dff5b9bbadbe570a4b5fc4eeaa",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "AAA screening: 4.5-5.4cm is a medium aneurysm and requires 3-monthly ultrasound assessment",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "6034",
+        "up_votes": "34",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "1407",
+            "1874",
+            "1214",
+            "79",
+            "1460",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LdM8Zo5SL64\" data-description=\"Understanding Abdominal Aortic Aneurysms\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"1296\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LdM8Zo5SL64/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LdM8Zo5SL64\" data-description=\"Understanding Abdominal Aortic Aneurysms\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"1296\">Understanding Abdominal Aortic Aneurysms</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2292\" data-mediaid=\"2292\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2292\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2292\" data-mediaid=\"2292\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2292\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4115": {
+                "concept_text": "Screening for an abdominal aortic aneurysm consists of a single abdominal ultrasound for males aged 65",
+                "concept_percentile": "99"
+            },
+            "10196": {
+                "concept_text": "AAA screening: 4.5-5.4cm is a medium aneurysm and requires 3-monthly ultrasound assessment",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5070_B_135",
+        "new_question_id": "17128",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "5017",
+        "notes_id_link": "1_1039",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rib bones",
+            "Pelvis",
+            "Carpal bones",
+            "Radius",
+            "Humerus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 48-year-old male presents to his GP with bone pain for the past few weeks. He has also had a reduction in his hearing recently. His blood results show an isolated rise in alkaline phosphate.<br /><br />Given the likely diagnosis, which bone is most likely to be in pain?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient most likely has Paget's disease of the bone.<br /><br />It is easy to remember which bones are most commonly affected by Paget's disease by drawing an imaginary line down the centre of a patient. The bones covered are the skull, vertebral bones and pelvis. Along with the femur and tibia, these are the most commonly affected bones by Paget's disease. <br /><br />The radius, humerus, carpal bones and rib bones are not as commonly affected as the aforementioned bones.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 48-year-old male presents to his GP with bone pain for the past few weeks. He has also had a reduction in his hearing recently. His blood results show an isolated rise in alkaline phosphate.<br /><br />Given the likely diagnosis, which bone is most likely to be in pain?",
+        "correct_answer": "2",
+        "question_notes": "This patient most likely has Paget's disease of the bone.<br /><br />It is easy to remember which bones are most commonly affected by Paget's disease by drawing an imaginary line down the centre of a patient. The bones covered are the skull, vertebral bones and pelvis. Along with the femur and tibia, these are the most commonly affected bones by Paget's disease. <br /><br />The radius, humerus, carpal bones and rib bones are not as commonly affected as the aforementioned bones.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Paget's disease of the bone",
+        "body": "Paget's disease is a disease of increased but uncontrolled bone turnover. It is thought to be primarily a disorder of osteoclasts, with <span class=\"concept\" data-cid=\"8023\">excessive osteoclastic resorption followed by increased osteoblastic activity</span>. Paget's disease is common (UK prevalence 5%) but symptomatic in only 1 in 20 patients. The <span class=\"concept\" data-cid=\"5017\">skull, spine/pelvis, and long bones of the lower extremities are most commonly affected</span>.<br /><br />Predisposing factors<br /><ul><li>increasing age</li><li>male sex</li><li>northern latitude</li><li>family history</li></ul><br />Clinical features - only 5% of patients are symptomatic<br /><ul><li>the stereotypical presentation is an <span class=\"concept\" data-cid=\"154\">older male with bone pain and an isolated raised ALP</span></li><li>bone pain (e.g. pelvis, lumbar spine, femur)</li><li>classical, untreated features: bowing of tibia, bossing of skull</li></ul><br />Investigations<br /><ul><li>bloods<ul><li>raised alkaline phosphatase (ALP) </li><li>calcium and phosphate are typically normal. Hypercalcaemia may occasionally occur with prolonged immobilisation</li></ul></li><li>other markers of bone turnover include<ul><li>procollagen type I N-terminal propeptide (PINP)</li><li>serum C-telopeptide (CTx)</li><li>urinary N-telopeptide (NTx)</li><li><span class=\"concept\" data-cid=\"8994\">urinary hydroxyproline</span></li></ul></li><li>x-rays<ul><li><span class=\"concept\" data-cid=\"12327\">plain radiographs are the first-line investigation and are usually diagnostic</span></li><li>osteolysis in early disease &rarr; mixed lytic/sclerotic lesions later</li><li>skull x-ray: thickened vault, osteoporosis circumscripta</li></ul></li><li>bone scintigraphy<ul><li>increased uptake is seen focally at the sites of active bone lesions</li></ul></li></ul><br />Management<br /><ul><li>indications for treatment include <ul><li>bone pain</li><li>skull or long bone deformity</li><li>fracture</li><li>periarticular Paget's</li></ul></li><li><span class=\"concept\" data-cid=\"3034\">bisphosphonate</span> (either oral risedronate or IV zoledronate)</li><li>calcitonin is less commonly used now</li></ul><br />Complications<br /><ul><li>deafness (cranial nerve entrapment)</li><li>bone sarcoma (1% if affected for > 10 years)</li><li>fractures</li><li>skull thickening</li><li>high-output cardiac failure</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb013b.jpg\" data-fancybox=\"gallery\" data-caption=\"The radiograph demonstrates marked thickening of the calvarium. There are also ill-defined sclerotic and lucent areas throughout. These features are consistent with Paget's disease.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb013.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb194b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pelvic x-ray from an elderly man with Paget's disease. There is a smooth cortical expansion of the left hemipelvic bones with diffuse increased bone density and coarsening of trabeculae.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb194.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb104b.jpg\" data-fancybox=\"gallery\" data-caption=\"Isotope bone scan from a patient with Paget's disease showing a typical distribution in the spine, asymmetrical pelvic disease and proximal long bones.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb104.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "9660365e60d1d4d2f3f41bc330b9488e",
+        "knowledge_graph_node_id_link": 1298,
+        "concept": "Paget's disease of the bone generally affects the skull, spine/pelvis, and long bones of the lower extremities",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "5310",
+        "up_votes": "28",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "583",
+            "3439",
+            "328",
+            "104",
+            "856",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Radiopaedia.org</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1267\" data-linkid=\"1267\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1267\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1267\" data-linkid=\"1267\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1267\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/paget-disease-bone\">Paget disease (bone)</a></td></tr></table><br><br><table style='width:100%'><tr><td>Journal of Bone and Mineral Research</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1520\" data-linkid=\"1520\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1520\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_1520\" data-linkid=\"1520\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1520\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbmr.3657\">2019 Paget's disease of the bone guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NVcYG3_B8HU\" data-description=\"Paget's Disease of the bone\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1545\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NVcYG3_B8HU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NVcYG3_B8HU\" data-description=\"Paget's Disease of the bone\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1545\">Paget's Disease of the bone</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2699\" data-mediaid=\"2699\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2699\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2699\" data-mediaid=\"2699\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2699\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e6yNx74wEKI\" data-description=\"Paget's disease of the bone\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"736\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/e6yNx74wEKI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e6yNx74wEKI\" data-description=\"Paget's disease of the bone\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"736\">Paget's disease of the bone</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1285\" data-mediaid=\"1285\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1285\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_1285\" data-mediaid=\"1285\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1285\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "154": {
+                "concept_text": "Paget's disease - old man, bone pain, raised ALP",
+                "concept_percentile": "75"
+            },
+            "3034": {
+                "concept_text": "Paget's disease of the bone is treated with bisphosphonates",
+                "concept_percentile": "97"
+            },
+            "5017": {
+                "concept_text": "Paget's disease of the bone generally affects the skull, spine/pelvis, and long bones of the lower extremities",
+                "concept_percentile": "82"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2290",
+        "new_question_id": "61418",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "4795",
+        "notes_id_link": "1_2212",
+        "theme": "Acute heart failure with persistent hypoxia despite initial treatment",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous morphine",
+            "Continuous positive airway pressure",
+            "Intravenous dobutamine",
+            "Intubation and mechanical ventilation",
+            "Intravenous aminophylline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old woman presents to the Emergency Department with acute breathlessness. She has a history of hypertension. On examination, she has bilateral basal crackles and her oxygen saturations are 88% on 15L oxygen via a non-rebreathe mask. She has been given intravenous furosemide and GTN infusion but remains severely dyspnoeic.<br /><br />Select the single most appropriate next step in management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Continuous positive airway pressure</b> is the correct answer in this scenario. This patient presents with acute heart failure causing pulmonary oedema, evidenced by acute breathlessness, bilateral basal crackles, and hypoxia. Despite initial treatment with oxygen, intravenous loop diuretics (furosemide), and vasodilators (GTN), she remains severely dyspnoeic with persistent hypoxia on maximal oxygen therapy. This represents respiratory failure secondary to acute heart failure not responding to initial medical management. CPAP is specifically indicated in this situation as it improves oxygenation by recruiting alveoli, reduces the work of breathing, and decreases both preload and afterload on the heart. Studies have shown that CPAP reduces the need for intubation and may improve mortality in acute cardiogenic pulmonary oedema. It should be considered early in patients who remain hypoxic despite maximal oxygen therapy and initial medical treatment, before they deteriorate further requiring invasive ventilation.<br /><br /><b>Intravenous morphine</b> was historically used routinely in acute heart failure to reduce dyspnoea and anxiety. However, NICE guidelines now recommend against routine use of opiates in acute heart failure. Some studies have suggested increased morbidity in patients given opiates, possibly due to respiratory depression, reduced respiratory drive, and delayed mobilisation. Whilst it may provide symptomatic relief, it does not address the underlying respiratory failure and would be inappropriate when a more effective intervention (CPAP) is available. In this patient with significant hypoxia, morphine could worsen respiratory depression.<br /><br /><b>Intravenous dobutamine</b> is an inotropic agent used in acute heart failure complicated by cardiogenic shock or severe hypotension (typically systolic BP < 85 mmHg) with evidence of hypoperfusion. This patient has no mention of hypotension or shock, and the primary problem is respiratory failure from pulmonary oedema rather than inadequate cardiac output with end-organ hypoperfusion. Dobutamine would not be the appropriate next step when the patient requires ventilatory support for respiratory failure. Inotropes are reserved for patients with severe left ventricular dysfunction and potentially reversible cardiogenic shock.<br /><br /><b>Intubation and mechanical ventilation</b> represents invasive ventilatory support and should be reserved for patients who fail to respond to non-invasive ventilation or who have absolute indications for intubation (such as reduced consciousness, inability to protect airway, or cardiovascular instability). This patient should be given a trial of CPAP first, as non-invasive ventilation has been shown to reduce the need for intubation in acute cardiogenic pulmonary oedema. Invasive ventilation carries significant risks including ventilator-associated pneumonia, sedation requirements, and prolonged ICU stay, so should be avoided if possible.<br /><br /><b>Intravenous aminophylline</b> is a bronchodilator sometimes used in severe acute asthma or exacerbations of COPD. It has no role in the management of acute heart failure and pulmonary oedema. This patient's presentation is consistent with cardiogenic pulmonary oedema rather than bronchospasm, with bilateral basal crackles rather than wheeze. Aminophylline has a narrow therapeutic window and significant side effects including arrhythmias, which could be particularly dangerous in a patient with acute heart failure. The appropriate management is to address the respiratory failure with CPAP.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old woman presents to the Emergency Department with acute breathlessness. She has a history of hypertension. On examination, she has bilateral basal crackles and her oxygen saturations are 88% on 15L oxygen via a non-rebreathe mask. She has been given intravenous furosemide and GTN infusion but remains severely dyspnoeic.<br /><br />Select the single most appropriate next step in management from the options below.",
+        "correct_answer": "2",
+        "question_notes": "<b>Continuous positive airway pressure</b> is the correct answer in this scenario. This patient presents with acute heart failure causing pulmonary oedema, evidenced by acute breathlessness, bilateral basal crackles, and hypoxia. Despite initial treatment with oxygen, intravenous loop diuretics (furosemide), and vasodilators (GTN), she remains severely dyspnoeic with persistent hypoxia on maximal oxygen therapy. This represents respiratory failure secondary to acute heart failure not responding to initial medical management. CPAP is specifically indicated in this situation as it improves oxygenation by recruiting alveoli, reduces the work of breathing, and decreases both preload and afterload on the heart. Studies have shown that CPAP reduces the need for intubation and may improve mortality in acute cardiogenic pulmonary oedema. It should be considered early in patients who remain hypoxic despite maximal oxygen therapy and initial medical treatment, before they deteriorate further requiring invasive ventilation.<br /><br /><b>Intravenous morphine</b> was historically used routinely in acute heart failure to reduce dyspnoea and anxiety. However, NICE guidelines now recommend against routine use of opiates in acute heart failure. Some studies have suggested increased morbidity in patients given opiates, possibly due to respiratory depression, reduced respiratory drive, and delayed mobilisation. Whilst it may provide symptomatic relief, it does not address the underlying respiratory failure and would be inappropriate when a more effective intervention (CPAP) is available. In this patient with significant hypoxia, morphine could worsen respiratory depression.<br /><br /><b>Intravenous dobutamine</b> is an inotropic agent used in acute heart failure complicated by cardiogenic shock or severe hypotension (typically systolic BP < 85 mmHg) with evidence of hypoperfusion. This patient has no mention of hypotension or shock, and the primary problem is respiratory failure from pulmonary oedema rather than inadequate cardiac output with end-organ hypoperfusion. Dobutamine would not be the appropriate next step when the patient requires ventilatory support for respiratory failure. Inotropes are reserved for patients with severe left ventricular dysfunction and potentially reversible cardiogenic shock.<br /><br /><b>Intubation and mechanical ventilation</b> represents invasive ventilatory support and should be reserved for patients who fail to respond to non-invasive ventilation or who have absolute indications for intubation (such as reduced consciousness, inability to protect airway, or cardiovascular instability). This patient should be given a trial of CPAP first, as non-invasive ventilation has been shown to reduce the need for intubation in acute cardiogenic pulmonary oedema. Invasive ventilation carries significant risks including ventilator-associated pneumonia, sedation requirements, and prolonged ICU stay, so should be avoided if possible.<br /><br /><b>Intravenous aminophylline</b> is a bronchodilator sometimes used in severe acute asthma or exacerbations of COPD. It has no role in the management of acute heart failure and pulmonary oedema. This patient's presentation is consistent with cardiogenic pulmonary oedema rather than bronchospasm, with bilateral basal crackles rather than wheeze. Aminophylline has a narrow therapeutic window and significant side effects including arrhythmias, which could be particularly dangerous in a patient with acute heart failure. The appropriate management is to address the respiratory failure with CPAP.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Heart failure: acute management",
+        "body": "Recommended treatments for all patients<br /><ul><li><span class=\"concept\" data-cid=\"1323\">IV loop diuretics</span><ul><li>e.g. furosemide or bumetanide</li></ul></li></ul><br />Possible additional treatments<br /><ul><li>oxygen<ul><li>this should be given in line with British Thoracic Society guidelines, i.e. keep oxygen saturations at 94-98%</li></ul></li><li>vasodilators <ul><li>e.g. IV GTN, isosorbide dinitrate or sodium nitroprusside infusion</li><li>reduce preload and afterload</li><li>nitrates should not be routinely given to all patients, may be considered if systolic BP > 100 mmHg</li><li>they may, however, have a role if <span class=\"concept\" data-cid=\"11412\">concomitant myocardial ischaemia, severe hypertension</span> or regurgitant aortic or mitral valve disease</li><li>the major side-effect/contraindication is hypotension</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing pulmonary oedema - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944.jpg\" alt=\"\" /></a></div></div></div><br />Patients with respiratory failure<br /><ul><li><span class=\"concept\" data-cid=\"4795\">CPAP</span> </li></ul><br />Patients with hypotension (e.g. < 85 mmHg)/cardiogenic shock<br /><ul><li>this can be a difficult scenario to manage<ul><li>some of the treatments typically used for acute heart failure (e.g. loop diuretics and nitrates) may exacerbate the hypotension</li></ul></li><li><span class=\"concept\" data-cid=\"11580\">inotropic agents</span><ul><li>e.g. dobutamine</li><li>should be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock </li></ul></li><li>vasopressor agents <ul><li>e.g. norepinephrine</li><li>normally only used if insufficient response to inotropes and evidence of end-organ hypoperfusion</li></ul></li><li>mechanical circulatory assistance<ul><li>e.g. intra-aortic balloon counterpulsation or ventricular assist devices</li></ul></li></ul><br />Other treatments<br /><ul><li><span class=\"concept\" data-cid=\"1937\">opiates</span><ul><li>NICE state 'do not routinely offer opiates to people with acute heart failure'</li><li>they were previously used routinely and help to reduce dyspnoea/distress in patients</li><li>however some studies have suggested increased morbidity in patients given opiates</li></ul></li></ul><br />General points<br /><ul><li>regular medication for heart failure such as beta-blockers ACE-inhibitors should be continued<ul><li><span class=\"concept\" data-cid=\"11413\">beta-blockers</span> should only be stopped if the patient has heart rate less than 50 beats per minute, second or third degree atrioventricular block, or shock</li></ul></li></ul>",
+        "notes_hash": "4cfe617b6bef1a9a0bf323f21a860ea0",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Acute heart failure not responding to treatment - consider CPAP",
+        "concept_percentile": "92",
+        "concept_colour": "rgb(40,255,0)",
+        "number_attempts": "440",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "30",
+            "310",
+            "49",
+            "41",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_387\" data-linkid=\"387\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_387\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_387\" data-linkid=\"387\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_387\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg187/chapter/1-Recommendations\">2014 Acute heart failure: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"478\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OHQK5PUTQ_0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"478\">CPAP and Non-Invasive Ventilation in 5 minutes</a></td></tr><tr><td><span ><small>Nick Smith - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_841\" data-mediaid=\"841\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_841\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_841\" data-mediaid=\"841\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_841\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"412\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/o1LAJ-EBFTc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"412\">Pulmonary oedema</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_705\" data-mediaid=\"705\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_705\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_705\" data-mediaid=\"705\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_705\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "1323": {
+                "concept_text": "IV loop diuretic is the treatment for acute pulmonary oedema",
+                "concept_percentile": "79"
+            },
+            "4795": {
+                "concept_text": "Acute heart failure not responding to treatment - consider CPAP",
+                "concept_percentile": "92"
+            },
+            "11412": {
+                "concept_text": "For patients with acute heart failure, nitrates may be useful if the patient has a systolic BP > 100 mmHg. Particularly useful if concomitant myocardial ischaemia or severe hypertension",
+                "concept_percentile": "100"
+            },
+            "11580": {
+                "concept_text": "Acute heart failure with hypotension - inotropes (e.g. dobutamine) be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock\n",
+                "concept_percentile": "80"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_79",
+        "new_question_id": "3278",
+        "question_type": "1",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1551",
+        "theme": "Bleeding in pregnancy",
+        "instruction": "For each one of the following scenarios select the most likely diagnosis:",
+        "options": [
+            "",
+            "Placental abruption",
+            "Ectopic pregnancy",
+            "Threatened miscarriage",
+            "Hydatidiform mole",
+            "Vasa praevia",
+            "Placenta praevia",
+            "Bloody show",
+            "Missed (delayed) miscarriage",
+            "Inevitable miscarriage",
+            ""
+        ],
+        "num_of_options": 9,
+        "questions": [
+            "A 25-year-old woman at 25 weeks gestation presents with constant lower abdominal pain and a small amount of vaginal bleeding. On examination blood pressure is 90 / 60 mmHg",
+            "G 31-ekgx-urj cusgt vxkyktzy cozn vgotrkyy bgmotgr hrkkjotm gz 15 ckkqy mkyzgzout. Ynk ngy tuz ekz ngj gte gtzktgzgr igxk jkyvozk yallkxotm lxus ykbkxk busozotm. Ut kdgsotgzout znk azkxay oy rgxmk lux jgzky",
+            "G 19-ekgx-urj cusgt vxkyktzy cozn g zcu jge noyzuxe ul iktzxgr ruckx ghjusotgr vgot gtj utk jge noyzuxe ul bgmotgr hrkkjotm. Nkx rgyz vkxouj cgy 8 ckkqy gmu. Ut kdgsotgzout nkx ikxbod oy zktjkx zu zuain"
+        ],
+        "answers": [
+            "1",
+            "4",
+            "2"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman at 25 weeks gestation presents with constant lower abdominal pain and a small amount of vaginal bleeding. On examination blood pressure is 90 / 60 mmHg",
+        "correct_answer": "1",
+        "question_notes": "",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Bleeding in pregnancy",
+        "body": "The table below outlines the major causes of bleeding during pregnancy. Antepartum haemorrhage is defined as bleeding after 24 weeks<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>1st trimester</b></th><th><b>2nd trimester</b></th><th><b>3rd trimester</b></th></tr></thead><tbody><tr><td>Spontaneous abortion<br />Ectopic pregnancy<br />Hydatidiform mole</td><td>Spontaneous abortion<br />Hydatidiform mole<br />Placental abruption<br /></td><td>Bloody show<br />Placental abruption<br />Placenta praevia<br />Vasa praevia</td></tr></tbody></table></div><br />Alongside the pregnancy related causes, conditions such as sexually transmitted infections and cervical polyps should be excluded. <br /><br />The table below outlines the key features of each condition:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Spontaneous abortion</b></th><th><b>Threatened miscarriage</b> -  painless vaginal bleeding typically around 6-9 weeks<br /><b>Missed (delayed) miscarriage</b> -  light vaginal bleeding and symptoms of pregnancy  disappear<br /><b>Inevitable miscarriage</b> - complete or incomplete depending or whether all fetal and placental tissue has been expelled.  <b>Incomplete miscarriage</b> - heavy bleeding and crampy, lower abdo pain. <b>Complete miscarriage</b> - little bleeding</th></tr></thead><tbody><tr><td><b>Ectopic pregnancy</b></td><td>Typically history of 6-8 weeks amenorrhoea with lower abdominal pain (usually unilateral) initially and vaginal bleeding later. Shoulder tip pain and cervical excitation may be present</td></tr><tr><td><b>Hydatidiform mole</b></td><td>Typically bleeding in first or early second trimester associated with exaggerated symptoms of pregnancy e.g. hyperemesis. The uterus may be large for dates and serum hCG is very high</td></tr><tr><td><b>Placental abruption</b></td><td>Constant lower abdominal pain and, woman may be more shocked than is expected by visible blood loss. Tender, tense uterus* with normal lie and presentation. Fetal heart may be distressed</td></tr><tr><td><b>Placental praevia</b></td><td>Vaginal bleeding, no pain. Non-tender uterus* but lie and presentation may be abnormal</td></tr><tr><td><b>Vasa praevia</b></td><td>Rupture of membranes followed immediately by vaginal bleeding. Fetal bradycardia is classically seen</td></tr></tbody></table></div><br />*vaginal examination should not be performed in primary care for suspected antepartum haemorrhage - women with placenta praevia may haemorrhage",
+        "notes_hash": "b8bdbe63879a7a0e4a3d6a041cc97301",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4723",
+        "up_votes": "27",
+        "down_votes": "34",
+        "column_array": [
+            0,
+            "3451",
+            "4010",
+            "2389",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xnRIF8SDYf8\" data-description=\"Placenta previa\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"28\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xnRIF8SDYf8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xnRIF8SDYf8\" data-description=\"Placenta previa\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"28\">Placenta previa</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2001\" data-mediaid=\"2001\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2001\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2001\" data-mediaid=\"2001\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2001\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aMrRR3Igslk\" data-description=\"Ectopic pregnancy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"595\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aMrRR3Igslk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aMrRR3Igslk\" data-description=\"Ectopic pregnancy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"595\">Ectopic pregnancy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2003\" data-mediaid=\"2003\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2003\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2003\" data-mediaid=\"2003\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2003\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7TmtJPpeiSo\" data-description=\"Miscarriage Basics and Types\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1014\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/7TmtJPpeiSo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7TmtJPpeiSo\" data-description=\"Miscarriage Basics and Types\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1014\">Miscarriage Basics and Types</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2006\" data-mediaid=\"2006\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2006\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2006\" data-mediaid=\"2006\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2006\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"20\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vHjQMa02PUM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"20\">Placental abruption - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2002\" data-mediaid=\"2002\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2002\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2002\" data-mediaid=\"2002\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2002\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CHujIc_BZ4c\" data-description=\"Miscarriage\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"594\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CHujIc_BZ4c/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CHujIc_BZ4c\" data-description=\"Miscarriage\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"594\">Miscarriage</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2005\" data-mediaid=\"2005\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2005\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2005\" data-mediaid=\"2005\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2005\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16767_B_104",
+        "new_question_id": "41357",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_171",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diabetic maculopathy",
+            "Hypertensive retinopathy",
+            "Preproliferative diabetic retinopathy",
+            "Proliferative diabetic retinopathy",
+            "Wet age-related macular degeneration",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 76-year-old man is seen in eye clinic for a regular check-up. This is the first time he has attended. He has not noticed any changes to his vision and feels well in himself. He has a history of hypertension, type 2 diabetes, and previous myocardial infarction.<br /><br />He undergoes fundoscopic examination which shows the following:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The image shows a fundoscopy slide of the left eye in an asymptomatic patient with a background of type 2 diabetes and hypertension which should raise suspicion of either hypertension- or diabetes-related eye disease. Fundoscopy findings in this image are outlined below:<br /><br />1. Hard exudates, indicating lipid/protein deposits. These are clearly seen as yellow deposits on the left side of the image. Hard exudates are seen in both hypertensive and diabetic retinopathy.<br /><br />2. Scattered dot/blot haemorrhages, most easily seen surrounding the area of hard exudate, and flame haemorrhage in the upper right quadrant of the image. These indicate bleeding retinal vessels and are also seen in both diabetic and hypertensive eye disease.<br /><br />3. There are no signs of AV nipping (seen by focal narrowing of venules where they cross the arteries) or silver wiring (where arterioles appear white as a result of occlusion of the vessels), which are suggestive of hypertensive retinopathy. There is no obvious neovascularisation in this image.<br /><br />4. There are no obvious changes to the optic disc. The margins are well-demarcated and the cup-to-disc ratio is normal (<0.5).<br /><br /><b>Preproliferative diabetic retinopathy</b> is the correct answer. This patient has a background of type 2 diabetes and fundoscopic signs consistent with diabetic neuropathy - the presence of hard exudates and scattered haemorrhages. As there is no sign of neovascularisation, this is likely to represent preproliferative, as opposed to proliferative retinopathy.<br /><br /><b>Diabetic maculopathy</b> is incorrect. This is a sight-threatening condition and a sign of severe diabetic eye disease. You would expect a history of visual changes in patients with diabetic maculopathy, which is not the case here. Further, as the haemorrhages are seen outside of the macula, this condition can be effectively ruled out.<br /><br /><b>Hypertensive retinopathy</b> is incorrect. This patient has a history of hypertension and changes on fundoscopy which should raise suspicion of hypertensive retinopathy. However, the absence of vascular changes such as AV nipping or silver wiring should lower suspicion of hypertensive disease as these are early signs of this condition. Further, hard exudates are typically only seen in advanced disease, at which point one would expect a history of vision changes and more advanced signs on fundoscopy such as retinal ischaemia and large haemorrhages. As these are not present, hypertensive retinopathy is unlikely.<br /><br /><b>Proliferative diabetic retinopathy</b> is incorrect. Proliferative retinopathy is characterised by neovascularisation - the formation of new blood vessels in the retina. There is no neovascularisation in this fundoscopy and thus proliferative retinopathy can be ruled out.<br /><br /><b>Wet age-related macular degeneration</b> (ARMD) is incorrect. Wet ARMD is differentiated from dry ARMD by the presence of neovascularisation, driven by vascular endothelial growth factor (VEGF). It commonly causes visual changes in patients. As there are no signs of neovascularisation in this image, and the patient is not complaining of changes in his vision, wet ARMD can be ruled out.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 76-year-old man is seen in eye clinic for a regular check-up. This is the first time he has attended. He has not noticed any changes to his vision and feels well in himself. He has a history of hypertension, type 2 diabetes, and previous myocardial infarction.<br /><br />He undergoes fundoscopic examination which shows the following:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The image shows a fundoscopy slide of the left eye in an asymptomatic patient with a background of type 2 diabetes and hypertension which should raise suspicion of either hypertension- or diabetes-related eye disease. Fundoscopy findings in this image are outlined below:<br /><br />1. Hard exudates, indicating lipid/protein deposits. These are clearly seen as yellow deposits on the left side of the image. Hard exudates are seen in both hypertensive and diabetic retinopathy.<br /><br />2. Scattered dot/blot haemorrhages, most easily seen surrounding the area of hard exudate, and flame haemorrhage in the upper right quadrant of the image. These indicate bleeding retinal vessels and are also seen in both diabetic and hypertensive eye disease.<br /><br />3. There are no signs of AV nipping (seen by focal narrowing of venules where they cross the arteries) or silver wiring (where arterioles appear white as a result of occlusion of the vessels), which are suggestive of hypertensive retinopathy. There is no obvious neovascularisation in this image.<br /><br />4. There are no obvious changes to the optic disc. The margins are well-demarcated and the cup-to-disc ratio is normal (<0.5).<br /><br /><b>Preproliferative diabetic retinopathy</b> is the correct answer. This patient has a background of type 2 diabetes and fundoscopic signs consistent with diabetic neuropathy - the presence of hard exudates and scattered haemorrhages. As there is no sign of neovascularisation, this is likely to represent preproliferative, as opposed to proliferative retinopathy.<br /><br /><b>Diabetic maculopathy</b> is incorrect. This is a sight-threatening condition and a sign of severe diabetic eye disease. You would expect a history of visual changes in patients with diabetic maculopathy, which is not the case here. Further, as the haemorrhages are seen outside of the macula, this condition can be effectively ruled out.<br /><br /><b>Hypertensive retinopathy</b> is incorrect. This patient has a history of hypertension and changes on fundoscopy which should raise suspicion of hypertensive retinopathy. However, the absence of vascular changes such as AV nipping or silver wiring should lower suspicion of hypertensive disease as these are early signs of this condition. Further, hard exudates are typically only seen in advanced disease, at which point one would expect a history of vision changes and more advanced signs on fundoscopy such as retinal ischaemia and large haemorrhages. As these are not present, hypertensive retinopathy is unlikely.<br /><br /><b>Proliferative diabetic retinopathy</b> is incorrect. Proliferative retinopathy is characterised by neovascularisation - the formation of new blood vessels in the retina. There is no neovascularisation in this fundoscopy and thus proliferative retinopathy can be ruled out.<br /><br /><b>Wet age-related macular degeneration</b> (ARMD) is incorrect. Wet ARMD is differentiated from dry ARMD by the presence of neovascularisation, driven by vascular endothelial growth factor (VEGF). It commonly causes visual changes in patients. As there are no signs of neovascularisation in this image, and the patient is not complaining of changes in his vision, wet ARMD can be ruled out.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Diabetic retinopathy",
+        "body": "Diabetic retinopathy is the most common cause of blindness in adults aged 35-65 years-old. <br /><br /><h5 class='notes-heading'>Pathophysiology</h5><br />Hyperglycaemia is thought to cause increased retinal blood flow and abnormal metabolism in the retinal vessel walls. This precipitates damage to endothelial cells and pericytes<br /><br />Endothelial dysfunction leads to increased vascular permeability which causes the characteristic exudates seen on fundoscopy. Pericyte dysfunction predisposes to the formation of microaneurysms. Neovasculization is thought to be caused by the production of growth factors in response to retinal ischaemia<br /><br /><br /><h5 class='notes-heading'>Classification</h5><br />Patients are typically classified into those with non-proliferative diabetic retinopathy (NPDR), proliferative retinopathy (PDR) and maculopathy.<br /><br /><h6 class='notes-subheading'>Non-proliferative diabetic retinopathy</h6><br />Mild NPDR<br /><ul><li>1 or more microaneurysm</li></ul><br />Moderate NPDR<br /><ul><li>microaneurysms</li><li>blot haemorrhages </li><li>hard exudates</li><li>cotton wool spots  ('soft exudates' -  <span class=\"concept\" data-cid=\"11238\">represent areas of retinal infarction</span>), venous beading/looping and intraretinal microvascular abnormalities (IRMA) less severe than in severe NPDR</li></ul><br />Severe NPDR<br /><ul><li>blot haemorrhages and microaneurysms in 4 quadrants</li><li>venous beading in at least 2 quadrants</li><li>IRMA in at least 1 quadrant</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pre-proliferative diabetic retinopathy\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd576.jpg\" alt=\"\" /></a></div></div></div><br /><h6 class='notes-subheading'>Proliferative diabetic retinopathy</h6><br />Key features<br /><ul><li>retinal neovascularisation - may lead to vitrous haemorrhage</li><li>fibrous tissue forming anterior to retinal disc</li><li>more common in Type I DM, 50% blind in 5 years</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img055b.jpg\" data-fancybox=\"gallery\" data-caption=\"Proliferative diabetic retinopathy\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img055.jpg\" alt=\"\" /></a></div></div></div><br /><h6 class='notes-subheading'>Maculopathy</h6><br />Key features<br /><ul><li>based on location rather than severity, anything is potentially serious</li><li>hard exudates and other 'background' changes on macula</li><li>check visual acuity</li><li>more common in Type II DM</li></ul><br /><h5 class='notes-heading'>Management</h5><br />All patients<br /><ul><li>optimise glycaemic control, blood pressure and hyperlipidemia</li><li>regular review by ophthalmology</li></ul><br />Maculopathy<br /><ul><li>if there is a change in visual acuity then intravitreal vascular endothelial growth factor (VEGF) inhibitors </li></ul><br />Non-proliferative retinopathy<br /><ul><li>regular observation</li><li>if severe/very severe consider panretinal laser photocoagulation</li></ul><br />Proliferative retinopathy<br /><ul><li><span class=\"concept\" data-cid=\"11714\">panretinal laser photocoagulation</span><ul><li>following treatment around 50% of patients develop a <span class=\"concept\" data-cid=\"12018\">noticeable reduction in their visual fields</span> due to the scarring of peripheral retinal tissue</li><li>other complications include a <span class=\"concept\" data-cid=\"12109\">decrease in night vision</span> (rods are predominantly responsible for vision in low light conditions, the majority of rod cells are located in the peripheral retina), a generalised decrease in visual acuity and macular oedema</li></ul></li><li><span class=\"concept\" data-cid=\"11787\">intravitreal VEGF inhibitors</span><ul><li>often now used in combination with panretinal laser photocoagulation</li><li>examples include ranibizumab</li><li>strong evidence base suggests they both slow progression of proliferative diabetic retinopathy and improve visual acuity</li></ul></li><li>if severe or vitreous haemorrhage: vitreoretinal surgery</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img053b.jpg\" data-fancybox=\"gallery\" data-caption=\"Diabetic retinopathy previously treated with panretinal laser photocoagulation\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img053.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "a416f2274fd2e167a59ce8ad52a5a61b",
+        "knowledge_graph_node_id_link": 11092,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4713",
+        "up_votes": "39",
+        "down_votes": "60",
+        "column_array": [
+            0,
+            "669",
+            "873",
+            "2037",
+            "681",
+            "453",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 11,
+        "concepts_for_notes": {
+            "11238": {
+                "concept_text": "In diabetic retinopathy, cotton wool spots represent areas of retinal infarction",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_169",
+        "new_question_id": "4737",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1800",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ramsey-Hunt syndrome",
+            "Bell's palsy",
+            "Stroke",
+            "Multiple sclerosis",
+            "Parotid tumour",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 56-year-old woman presents with facial asymmetry. Whilst brushing her teeth this morning she noted that the right hand corner of her mouth was drooping. She is generally well but noted some pain behind her right ear yesterday and says her right eye is becoming dry. On examination she has a complete paralysis of the facial nerve on the right side, extending from the forehead to the mouth. Ear, nose and throat examination is normal. Clinical examination of the peripheral nervous system is normal. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The pain around the ear raises the possibility of Ramsey-Hunt syndrome but this is actually quite common in Bell's palsy - some studies suggest it is seen in 50% of patients. The normal ear exam also goes against this diagnosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 56-year-old woman presents with facial asymmetry. Whilst brushing her teeth this morning she noted that the right hand corner of her mouth was drooping. She is generally well but noted some pain behind her right ear yesterday and says her right eye is becoming dry. On examination she has a complete paralysis of the facial nerve on the right side, extending from the forehead to the mouth. Ear, nose and throat examination is normal. Clinical examination of the peripheral nervous system is normal. What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "The pain around the ear raises the possibility of Ramsey-Hunt syndrome but this is actually quite common in Bell's palsy - some studies suggest it is seen in 50% of patients. The normal ear exam also goes against this diagnosis.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Bell's palsy",
+        "body": "Bell's palsy may be defined as an acute, unilateral, idiopathic, facial nerve paralysis. The aetiology is unknown although the role of the herpes simplex virus has been investigated previously. The peak incidence is 20-40 years and the condition is more common in pregnant women.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"5053\">lower motor neuron facial nerve palsy &rarr; forehead affected</span><ul><li>in contrast, an upper motor neuron lesion 'spares' the upper face</li></ul></li><li>patients may also notice <ul><li>post-auricular pain (may precede paralysis)</li><li>altered taste</li><li>dry eyes</li><li>hyperacusis</li></ul></li></ul><br />Management<br /><ul><li>in the past a variety of treatment options have been proposed including no treatment, prednisolone only and a combination of antivirals and prednisolone</li><li>there is consensus that all patients should receive oral prednisolone within 72 hours of onset of Bell's palsy</li><li>there is an ongoing debate as to the value of adding in antiviral medications #link26 <ul><li>Antiviral treatments alone are not recommended</li><li>UpToDate recommends the addition of antivirals for severe facial palsy</li></ul></li><li><span class=\"concept\" data-cid=\"11758\">eye care</span> is important to prevent exposure keratopathy<ul><li>prescription of artificial tears and eye lubricants should be considered</li><li>If they are unable to close the eye at bedtime, they should tape it closed using microporous tape</li></ul></li></ul><br />Follow-up<br /><ul><li>if the paralysis shows no sign of improvement after <concepts1970>3 weeks, refer urgently to ENT</span></li><li>a referral to <span class=\"concept\" data-cid=\"1150\">plastic surgery</span> may be appropriate for patients with more long-standing weakness e.g. several months</li></ul><br />Prognosis<br /><ul><li>most people with Bell's palsy make a <span class=\"concept\" data-cid=\"1965\">full recovery within 3-4 months</span></li><li>if untreated around 15% of patients have permanent moderate to severe weakness</li></ul>",
+        "notes_hash": "59ca8ed5a5b140eef0bfdbdbbbf96db4",
+        "knowledge_graph_node_id_link": 1143,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5677",
+        "up_votes": "50",
+        "down_votes": "44",
+        "column_array": [
+            0,
+            "1221",
+            "4305",
+            "60",
+            "20",
+            "71",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ic1hKbk4CKc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\">Bell's palsy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_944\" data-mediaid=\"944\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_944\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_944\" data-mediaid=\"944\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_944\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "5053": {
+                "concept_text": "Bell's palsy is a lower motor neuron condition. Unlike UMN conditions of the face, in LMN conditions the entire side of the patients face is affected",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_616",
+        "new_question_id": "3907",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "381",
+        "notes_id_link": "1_1669",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Age",
+            "Serum creatinine",
+            "Ethnicity",
+            "Gender",
+            "Serum urea",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old man with chronic kidney disease secondary to diabetes mellitus is reviewed. When assessing his estimated glomerular filtration rate (eGFR), which one of the following variables is not required by the Modification of Diet in Renal Disease (MDRD) equation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>serum urea</b>. The Modification of Diet in Renal Disease (MDRD) equation is a widely used formula to estimate the glomerular filtration rate (eGFR) in patients with chronic kidney disease. It requires four variables: age, serum creatinine, ethnicity, and gender. Serum urea is not included in the MDRD equation.<br /><br /><b>Age</b> is an essential variable in the MDRD equation because the eGFR declines naturally with age. Therefore, it's crucial to adjust for age when calculating eGFR to avoid overestimating kidney function in older individuals.<br /><br /><b>Serum creatinine</b> is a key component of the MDRD equation since it's a marker of kidney function. Creatinine is a waste product generated by muscle metabolism and excreted by the kidneys. When kidney function declines, serum creatinine levels rise, indicating reduced eGFR.<br /><br /><b>Ethnicity</b> also plays a role in the MDRD equation as certain ethnic groups, particularly those of African descent, have been found to have higher average muscle mass and consequently higher baseline serum creatinine levels. Therefore, incorporating ethnicity into the equation helps ensure accurate estimation of eGFR across different populations.<br /><br /><b>Gender</b> is another important variable in the MDRD equation since men typically have more muscle mass than women and thus produce more creatinine. Including gender allows for more accurate estimation of eGFR by accounting for these differences between males and females.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old man with chronic kidney disease secondary to diabetes mellitus is reviewed. When assessing his estimated glomerular filtration rate (eGFR), which one of the following variables is not required by the Modification of Diet in Renal Disease (MDRD) equation?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>serum urea</b>. The Modification of Diet in Renal Disease (MDRD) equation is a widely used formula to estimate the glomerular filtration rate (eGFR) in patients with chronic kidney disease. It requires four variables: age, serum creatinine, ethnicity, and gender. Serum urea is not included in the MDRD equation.<br /><br /><b>Age</b> is an essential variable in the MDRD equation because the eGFR declines naturally with age. Therefore, it's crucial to adjust for age when calculating eGFR to avoid overestimating kidney function in older individuals.<br /><br /><b>Serum creatinine</b> is a key component of the MDRD equation since it's a marker of kidney function. Creatinine is a waste product generated by muscle metabolism and excreted by the kidneys. When kidney function declines, serum creatinine levels rise, indicating reduced eGFR.<br /><br /><b>Ethnicity</b> also plays a role in the MDRD equation as certain ethnic groups, particularly those of African descent, have been found to have higher average muscle mass and consequently higher baseline serum creatinine levels. Therefore, incorporating ethnicity into the equation helps ensure accurate estimation of eGFR across different populations.<br /><br /><b>Gender</b> is another important variable in the MDRD equation since men typically have more muscle mass than women and thus produce more creatinine. Including gender allows for more accurate estimation of eGFR by accounting for these differences between males and females.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Chronic kidney disease: eGFR and classification",
+        "body": "Serum creatinine may not provide an accurate estimate of renal function due to differences in muscle. For this reason, formulas were developed to help estimate the glomerular filtration rate (estimated GFR or eGFR). The most commonly used formula is the Modification of Diet in Renal Disease (MDRD) equation, which uses the <span class=\"concept\" data-cid=\"381\">following variables</span>:<br /><ul><li>serum creatinine</li><li>age</li><li>gender</li><li>ethnicity</li></ul><br />Factors which may affect the result<br /><ul><li>pregnancy</li><li>muscle mass (e.g. amputees, body-builders)</li><li><span class=\"concept\" data-cid=\"5804\">eating red meat</span> 12 hours prior to the sample being taken</li></ul><br />CKD may be classified according to GFR:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>CKD stage</b></th><th><b>GFR range</b></th></tr></thead><tbody><tr><td>1</td><td>Greater than 90 ml/min, with some sign of kidney damage on other tests (<span class=\"concept\" data-cid=\"380\">if all the kidney tests* are normal, there is no CKD</span>)</td></tr><tr><td>2</td><td>60-90 ml/min with some sign of kidney damage (<span class=\"concept\" data-cid=\"380\">if kidney tests* are normal, there is no CKD</span>)</td></tr><tr><td>3a</td><td>45-59 ml/min, a moderate reduction in kidney function</td></tr><tr><td>3b</td><td>30-44 ml/min, a moderate reduction in kidney function</td></tr><tr><td>4</td><td>15-29 ml/min, a severe reduction in kidney function</td></tr><tr><td>5</td><td>Less than 15 ml/min, established kidney failure - dialysis or a kidney transplant may be needed</td></tr></tbody></table></div><br />*i.e. normal U&Es and no proteinuria",
+        "notes_hash": "82aba4b67400dede0405156e3c37c219",
+        "knowledge_graph_node_id_link": 1222,
+        "concept": "eGFR variables - CAGE - <b>C</b>reatinine, <b>A</b>ge, <b>G</b>ender, <b>E</b>thnicity",
+        "concept_percentile": "35",
+        "concept_colour": "rgb(255,178,0)",
+        "number_attempts": "7072",
+        "up_votes": "23",
+        "down_votes": "48",
+        "column_array": [
+            0,
+            "241",
+            "201",
+            "2469",
+            "970",
+            "3191",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_441\" data-linkid=\"441\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_441\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_441\" data-linkid=\"441\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_441\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg182/chapter/key-priorities-for-implementation\">2014 Chronic kidney disease guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fv53QZRk4hs\" data-description=\"Chronic kidney disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"301\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fv53QZRk4hs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fv53QZRk4hs\" data-description=\"Chronic kidney disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"301\">Chronic kidney disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_512\" data-mediaid=\"512\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_512\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_512\" data-mediaid=\"512\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_512\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aD4R82r5hoY\" data-description=\"Understanding Chronic Kidney Disease (CKD)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1425\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aD4R82r5hoY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aD4R82r5hoY\" data-description=\"Understanding Chronic Kidney Disease (CKD)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1425\">Understanding Chronic Kidney Disease (CKD)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2511\" data-mediaid=\"2511\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2511\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2511\" data-mediaid=\"2511\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2511\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "380": {
+                "concept_text": "CKD: only diagnose stages 1 & 2 if supporting evidence to accompany eGFR",
+                "concept_percentile": "96"
+            },
+            "381": {
+                "concept_text": "eGFR variables - CAGE - <b>C</b>reatinine, <b>A</b>ge, <b>G</b>ender, <b>E</b>thnicity",
+                "concept_percentile": "35"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "25698_B_87",
+        "new_question_id": "42993",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "3422",
+        "notes_id_link": "1_282",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amylase three times the upper limit of normal",
+            "Chest x-ray showing bilateral infiltrates",
+            "Echocardiogram showing abnormal left ventricular systolic function",
+            "Raised BNP levels",
+            "Raised pulmonary capillary wedge pressure",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old patient was admitted to the intensive care unit 5 days ago with severe COVID-19. <br /><br />On assessment today he is dyspnoeic and the medical team suspects he may have developed acute respiratory distress syndrome (ARDS).<br /><br />What finding on assessment would be consistent with this diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Chest x-ray showing bilateral infiltrates</b> is correct. Chest x-ray with bilateral diffuse alveolar opacities is consistent with the Berlin criteria that are used to diagnose ARDS. Other criteria include an acute onset (within one week), a pO2/FiO2 ratio < 40kPa, and respiratory failure not fully explained by cardiac failure or fluid overload. <br /><br /><b>Amylase three times the upper limit of normal</b> is a sign of pancreatitis, not ARDS. While pancreatitis is a cause of acute respiratory distress syndrome, in this patient the likely underlying cause is COVID-19. <br /><br /><b>Echocardiogram showing abnormal left ventricular systolic function</b> is incorrect. Abnormal left ventricular systolic function is suggestive of cardiogenic pulmonary oedema rather than ARDS.<br /><br /><b>Raised BNP levels</b> would suggest a cardiogenic cause of respiratory distress and thus make a diagnosis of ARDS less likely. Typically, BNP levels >500 nanograms make heart failure likely. <br /><br /><b>Raised pulmonary capillary wedge pressure</b> is incorrect. ARDS is non-cardiogenic pulmonary oedema, however, a raised pulmonary wedge pressure is suggestive of a cardiac cause. In general, a pulmonary capillary wedge pressure less than 19mmHg would be suggestive of ARDS.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old patient was admitted to the intensive care unit 5 days ago with severe COVID-19. <br /><br />On assessment today he is dyspnoeic and the medical team suspects he may have developed acute respiratory distress syndrome (ARDS).<br /><br />What finding on assessment would be consistent with this diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "<b>Chest x-ray showing bilateral infiltrates</b> is correct. Chest x-ray with bilateral diffuse alveolar opacities is consistent with the Berlin criteria that are used to diagnose ARDS. Other criteria include an acute onset (within one week), a pO2/FiO2 ratio < 40kPa, and respiratory failure not fully explained by cardiac failure or fluid overload. <br /><br /><b>Amylase three times the upper limit of normal</b> is a sign of pancreatitis, not ARDS. While pancreatitis is a cause of acute respiratory distress syndrome, in this patient the likely underlying cause is COVID-19. <br /><br /><b>Echocardiogram showing abnormal left ventricular systolic function</b> is incorrect. Abnormal left ventricular systolic function is suggestive of cardiogenic pulmonary oedema rather than ARDS.<br /><br /><b>Raised BNP levels</b> would suggest a cardiogenic cause of respiratory distress and thus make a diagnosis of ARDS less likely. Typically, BNP levels >500 nanograms make heart failure likely. <br /><br /><b>Raised pulmonary capillary wedge pressure</b> is incorrect. ARDS is non-cardiogenic pulmonary oedema, however, a raised pulmonary wedge pressure is suggestive of a cardiac cause. In general, a pulmonary capillary wedge pressure less than 19mmHg would be suggestive of ARDS.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Acute respiratory distress syndrome",
+        "body": "Acute respiratory distress syndrome (ARDS) is caused by the increased permeability of alveolar capillaries leading to fluid accumulation in the alveoli, i.e. non-cardiogenic pulmonary oedema. It is a serious condition that has a mortality of around 40% and is associated with significant morbidity in those who survive.<br /><br />Causes<br /><ul><li>infection: sepsis, pneumonia</li><li>massive blood transfusion</li><li>trauma</li><li>smoke inhalation</li><li><span class=\"concept\" data-cid=\"5481\">acute pancreatitis</span></li><li>Covid-19</li><li>cardio-pulmonary bypass</li></ul><br />Clinical features are typically of an acute onset and severe:<br /><ul><li>dyspnoea</li><li>elevated respiratory rate</li><li>bilateral lung crackles</li><li>low oxygen saturations</li></ul><br />A chest x-ray and arterial blood gases are the key investigations.<br /><br /><span class=\"concept\" data-cid=\"3422\">Criteria (American-European Consensus Conference)</span><br /><ul><li>acute onset (within 1 week of a known risk factor)</li><li>pulmonary oedema: bilateral infiltrates on chest x-ray ('not fully explained by effusions, lobar/lung collapse or nodules)</li><li><span class=\"concept\" data-cid=\"9586\">non-cardiogenic (pulmonary artery wedge pressure needed if doubt)</span></li><li><span class=\"concept\" data-cid=\"9539\">pO2/FiO2 < 40kPa (300 mmHg)</span></li></ul><br />Management<br /><ul><li>due to the severity of the condition patients are generally managed in ITU</li><li>oxygenation/ventilation to treat the hypoxaemia</li><li>general organ support e.g. vasopressors as needed</li><li>treatment of the underlying cause e.g. antibiotics for sepsis</li><li>certain strategies such as <span class=\"concept\" data-cid=\"11907\">prone positioning</span> and muscle relaxation have been shown to improve outcome in ARDS</li></ul>",
+        "notes_hash": "74a688cafb60f8b2a492825c881581f1",
+        "knowledge_graph_node_id_link": 1504,
+        "concept": "Diagnostic criteria for ARDS; Clinical + CXR + pO2/fiO2 < 40kPa (300 mmHg)",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "5162",
+        "up_votes": "5",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "143",
+            "3348",
+            "124",
+            "114",
+            "1433",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_586\" data-linkid=\"586\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_586\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_586\" data-linkid=\"586\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_586\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/11/6/615\">2011 Acute lung injury review</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1195\" data-linkid=\"1195\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1195\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_1195\" data-linkid=\"1195\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1195\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/acute-respiratory-distress-syndrome-1\">Acute respiratory distress syndrome</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aG6fYRYBPUI\" data-description=\"Respiratory distress syndrome\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1356\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aG6fYRYBPUI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aG6fYRYBPUI\" data-description=\"Respiratory distress syndrome\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1356\">Respiratory distress syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2385\" data-mediaid=\"2385\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2385\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2385\" data-mediaid=\"2385\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2385\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3422": {
+                "concept_text": "Diagnostic criteria for ARDS; Clinical + CXR + pO2/fiO2 < 40kPa (300 mmHg)",
+                "concept_percentile": "82"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1363",
+        "new_question_id": "1322",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "181",
+        "notes_id_link": "1_1130",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Adenovirus",
+            "Rhinovirus",
+            "Herpes simplex virus",
+            "Epstein-Barr virus",
+            "Picornavirus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following viruses is associated with nasopharyngeal carcinoma?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Epstein-Barr virus (EBV)</b>. EBV, also known as human herpesvirus 4, has a well-established association with nasopharyngeal carcinoma (NPC), particularly in Southeast Asian populations. The virus infects epithelial cells and B lymphocytes, leading to latent infection. In nasopharyngeal tissue, EBV can trigger oncogenic transformation through various mechanisms, including the expression of latent viral proteins such as LMP1 and EBNA1, which interfere with cellular signalling pathways and promote carcinogenesis. The virus is detected in nearly all cases of undifferentiated nasopharyngeal carcinoma.<br /><br /><b>Adenovirus</b> is incorrect. Whilst adenoviruses can cause upper respiratory tract infections, conjunctivitis, and gastroenteritis, they have not been associated with nasopharyngeal carcinoma. They are non-enveloped DNA viruses that typically cause self-limiting infections in immunocompetent hosts.<br /><br /><b>Rhinovirus</b> is incorrect. Rhinoviruses are the predominant cause of the common cold and are responsible for many upper respiratory tract infections. They are RNA viruses belonging to the Picornaviridae family and have not been linked to any human cancers.<br /><br /><b>Herpes simplex virus</b> is incorrect. While HSV-1 and HSV-2 are members of the herpesvirus family like EBV, they are not associated with nasopharyngeal carcinoma. HSV typically causes oral and genital lesions and can cause encephalitis in severe cases, but it has not been implicated in nasopharyngeal oncogenesis.<br /><br /><b>Picornavirus</b> is incorrect. Picornaviruses are a family of RNA viruses that include rhinoviruses and enteroviruses. While they can cause various human diseases including respiratory infections, meningitis, and myocarditis, they have not been associated with the development of nasopharyngeal carcinoma or any other human cancers.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following viruses is associated with nasopharyngeal carcinoma?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Epstein-Barr virus (EBV)</b>. EBV, also known as human herpesvirus 4, has a well-established association with nasopharyngeal carcinoma (NPC), particularly in Southeast Asian populations. The virus infects epithelial cells and B lymphocytes, leading to latent infection. In nasopharyngeal tissue, EBV can trigger oncogenic transformation through various mechanisms, including the expression of latent viral proteins such as LMP1 and EBNA1, which interfere with cellular signalling pathways and promote carcinogenesis. The virus is detected in nearly all cases of undifferentiated nasopharyngeal carcinoma.<br /><br /><b>Adenovirus</b> is incorrect. Whilst adenoviruses can cause upper respiratory tract infections, conjunctivitis, and gastroenteritis, they have not been associated with nasopharyngeal carcinoma. They are non-enveloped DNA viruses that typically cause self-limiting infections in immunocompetent hosts.<br /><br /><b>Rhinovirus</b> is incorrect. Rhinoviruses are the predominant cause of the common cold and are responsible for many upper respiratory tract infections. They are RNA viruses belonging to the Picornaviridae family and have not been linked to any human cancers.<br /><br /><b>Herpes simplex virus</b> is incorrect. While HSV-1 and HSV-2 are members of the herpesvirus family like EBV, they are not associated with nasopharyngeal carcinoma. HSV typically causes oral and genital lesions and can cause encephalitis in severe cases, but it has not been implicated in nasopharyngeal oncogenesis.<br /><br /><b>Picornavirus</b> is incorrect. Picornaviruses are a family of RNA viruses that include rhinoviruses and enteroviruses. While they can cause various human diseases including respiratory infections, meningitis, and myocarditis, they have not been associated with the development of nasopharyngeal carcinoma or any other human cancers.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Epstein-Barr virus: associated conditions",
+        "body": "<span class=\"concept\" data-cid=\"181\">Malignancies associated with EBV infection</span><br /><ul><li><span class=\"concept\" data-cid=\"3428\">Burkitt's lymphoma</span>*</li><li>Hodgkin's lymphoma</li><li>nasopharyngeal carcinoma</li><li>HIV-associated central nervous system lymphomas</li></ul><br />The non-malignant condition <span class=\"concept\" data-cid=\"9744\">hairy leukoplakia is also associated with EBV infection</span>.<br /><br />*EBV is currently thought to be associated with both African and sporadic Burkitt's",
+        "notes_hash": "646665113f982a0e89b938ab0e3aaab3",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "EBV: associated malignancies: <br /><ul><li>Burkitt's lymphoma</li><li>Hodgkin's lymphoma</li><li>nasopharyngeal carcinoma</li></ul>",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "6410",
+        "up_votes": "31",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "761",
+            "318",
+            "694",
+            "4244",
+            "393",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eNwnbOkRhCo\" data-description=\"Epstein Barr Virus (EBV) and Cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"411\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eNwnbOkRhCo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eNwnbOkRhCo\" data-description=\"Epstein Barr Virus (EBV) and Cancer\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"411\">Epstein Barr Virus (EBV) and Cancer</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_704\" data-mediaid=\"704\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_704\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_704\" data-mediaid=\"704\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_704\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"841\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ax-adlhQMVc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"841\">Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1480\" data-mediaid=\"1480\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1480\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1480\" data-mediaid=\"1480\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1480\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "181": {
+                "concept_text": "EBV: associated malignancies: \r\n   - Burkitt's lymphoma\r\n   - Hodgkin's lymphoma\r\n   - nasopharyngeal carcinoma",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4693_B_22",
+        "new_question_id": "16185",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4357",
+        "notes_id_link": "1_508",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Retinal detachment",
+            "Retinitis pigmentosa",
+            "Macular degeneration",
+            "Diabetic retinopathy",
+            "Hypertensive retinopathy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 24-year-old man presents to his general practitioner complaining of gradually worsening tunnel vision and night blindness over the last year. He thinks his grandfather had a similar problem but is not clear on the cause. On examination of the fundus you see bone-spicule pigmentation in the peripheral retina.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Retinitis pigmentosa is a classically inherited retinal disorder, characterised by tunnel vision and night blindness due to its effect on the peripheral retina. Fundoscopy reveals 'bone-spicule' pigmentation in the peripheral retina.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 24-year-old man presents to his general practitioner complaining of gradually worsening tunnel vision and night blindness over the last year. He thinks his grandfather had a similar problem but is not clear on the cause. On examination of the fundus you see bone-spicule pigmentation in the peripheral retina.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Retinitis pigmentosa is a classically inherited retinal disorder, characterised by tunnel vision and night blindness due to its effect on the peripheral retina. Fundoscopy reveals 'bone-spicule' pigmentation in the peripheral retina.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Retinitis pigmentosa",
+        "body": "Retinitis pigmentosa primarily affects the peripheral retina resulting in tunnel vision<br /><br />Features<br /><ul><li>night blindness is often the initial sign</li><li>tunnel vision due to loss of the peripheral retina (occasionally referred to as funnel vision)</li><li>fundoscopy: <span class=\"concept\" data-cid=\"4357\">black bone spicule-shaped pigmentation</span> in the peripheral retina, mottling of the retinal pigment epithelium</li></ul><br />Associated diseases<br /><ul><li>Refsum disease: cerebellar ataxia, peripheral neuropathy, deafness, ichthyosis</li><li>Usher syndrome</li><li>abetalipoproteinemia</li><li>Lawrence-Moon-Biedl syndrome</li><li>Kearns-Sayre syndrome</li><li>Alport's syndrome</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb014b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb014.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href=''  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb014b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Fundus showing changes secondary to retinitis pigmentosa</div>",
+        "notes_hash": "3cd61210f6c3d35c7c4db2be6d30b062",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Retinitis pigmentosa classically presents with black bone-spicule pigmentation on fundoscopy",
+        "concept_percentile": "48",
+        "concept_colour": "rgb(255,244,0)",
+        "number_attempts": "4721",
+        "up_votes": "26",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "78",
+            "4383",
+            "223",
+            "19",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4357": {
+                "concept_text": "Retinitis pigmentosa classically presents with black bone-spicule pigmentation on fundoscopy",
+                "concept_percentile": "48"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

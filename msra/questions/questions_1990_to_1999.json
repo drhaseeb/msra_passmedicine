@@ -1,0 +1,850 @@
+[
+    {
+        "question_id": "999_B_2112",
+        "new_question_id": "61193",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "644",
+        "notes_id_link": "1_331",
+        "theme": "H. pylori testing in a patient taking a PPI",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise stopping omeprazole for 2 weeks then perform a urea breath test",
+            "Arrange an immediate urea breath test",
+            "Arrange a serum H. pylori antibody test",
+            "Arrange an immediate stool antigen test",
+            "Refer for upper GI endoscopy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old woman presents with dyspepsia. She has been taking over-the-counter omeprazole for three weeks, which has partially relieved her symptoms. The GP wishes to test for <i>H. pylori</i> infection.<br /><br />Select the single most appropriate next step in management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Advise stopping omeprazole for 2 weeks then perform a urea breath test</b> is the correct answer. According to UK NICE guidelines (NG184), the first-line investigation for suspected <i>H. pylori</i> in patients under 55 with no alarm symptoms is a non-invasive test. The two recommended tests are the 13C-urea breath test or the stool antigen test. Both tests rely on detecting active bacterial presence. Proton pump inhibitors (PPIs) like omeprazole suppress <i>H. pylori</i> activity, including the production of the urease enzyme which is fundamental to the mechanism of the urea breath test. This suppression can lead to a false-negative result. Therefore, to ensure the accuracy of the test, it is essential that the patient stops taking any PPIs for at least two weeks before the test is performed. Similarly, any antibiotic use should be stopped for at least four weeks. This patient has no alarm features, so a 'test and treat' strategy is appropriate, and advising a washout period before the most sensitive non-invasive test is the correct management.<br /><br /><b>Arrange an immediate urea breath test</b> is incorrect. Performing the test while the patient is actively taking a PPI would significantly increase the likelihood of a false-negative result. The patient's recent use of omeprazole for three weeks will have suppressed the bacterial load and its urease activity, rendering the test unreliable. The test should be delayed until after the recommended two-week washout period to maximise its diagnostic accuracy.<br /><br /><b>Arrange a serum H. pylori antibody test</b> is not the most appropriate next step. While serology is a non-invasive test for <i>H. pylori</i>, it has lower sensitivity and specificity compared to the urea breath test or stool antigen test. A major limitation is that it detects IgG antibodies, which can remain positive for years even after successful eradication of the infection. Therefore, it cannot reliably distinguish between a current, active infection and a past, resolved infection. NICE guidelines recommend the urea breath test or stool antigen test as the preferred first-line non-invasive methods.<br /><br /><b>Arrange an immediate stool antigen test</b> is incorrect for the same reason that an immediate urea breath test is incorrect. The stool antigen test also detects active infection and its accuracy is similarly compromised by recent PPI use. The same recommendation applies: PPIs must be stopped for at least two weeks before the test is performed to avoid a false-negative result. While a stool antigen test is a valid alternative to the urea breath test, performing it immediately is inappropriate.<br /><br /><b>Refer for upper GI endoscopy</b> is not indicated at this stage. An urgent referral for endoscopy is reserved for patients with dyspepsia who have alarm features (such as anaemia, weight loss, dysphagia, persistent vomiting, or an epigastric mass) or for those aged 55 and over with new-onset dyspepsia. This 45-year-old patient has no alarm features mentioned. The recommended management pathway is a non-invasive 'test and treat' strategy, which is more cost-effective and less invasive for this low-risk patient group.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old woman presents with dyspepsia. She has been taking over-the-counter omeprazole for three weeks, which has partially relieved her symptoms. The GP wishes to test for <i>H. pylori</i> infection.<br /><br />Select the single most appropriate next step in management from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Advise stopping omeprazole for 2 weeks then perform a urea breath test</b> is the correct answer. According to UK NICE guidelines (NG184), the first-line investigation for suspected <i>H. pylori</i> in patients under 55 with no alarm symptoms is a non-invasive test. The two recommended tests are the 13C-urea breath test or the stool antigen test. Both tests rely on detecting active bacterial presence. Proton pump inhibitors (PPIs) like omeprazole suppress <i>H. pylori</i> activity, including the production of the urease enzyme which is fundamental to the mechanism of the urea breath test. This suppression can lead to a false-negative result. Therefore, to ensure the accuracy of the test, it is essential that the patient stops taking any PPIs for at least two weeks before the test is performed. Similarly, any antibiotic use should be stopped for at least four weeks. This patient has no alarm features, so a 'test and treat' strategy is appropriate, and advising a washout period before the most sensitive non-invasive test is the correct management.<br /><br /><b>Arrange an immediate urea breath test</b> is incorrect. Performing the test while the patient is actively taking a PPI would significantly increase the likelihood of a false-negative result. The patient's recent use of omeprazole for three weeks will have suppressed the bacterial load and its urease activity, rendering the test unreliable. The test should be delayed until after the recommended two-week washout period to maximise its diagnostic accuracy.<br /><br /><b>Arrange a serum H. pylori antibody test</b> is not the most appropriate next step. While serology is a non-invasive test for <i>H. pylori</i>, it has lower sensitivity and specificity compared to the urea breath test or stool antigen test. A major limitation is that it detects IgG antibodies, which can remain positive for years even after successful eradication of the infection. Therefore, it cannot reliably distinguish between a current, active infection and a past, resolved infection. NICE guidelines recommend the urea breath test or stool antigen test as the preferred first-line non-invasive methods.<br /><br /><b>Arrange an immediate stool antigen test</b> is incorrect for the same reason that an immediate urea breath test is incorrect. The stool antigen test also detects active infection and its accuracy is similarly compromised by recent PPI use. The same recommendation applies: PPIs must be stopped for at least two weeks before the test is performed to avoid a false-negative result. While a stool antigen test is a valid alternative to the urea breath test, performing it immediately is inappropriate.<br /><br /><b>Refer for upper GI endoscopy</b> is not indicated at this stage. An urgent referral for endoscopy is reserved for patients with dyspepsia who have alarm features (such as anaemia, weight loss, dysphagia, persistent vomiting, or an epigastric mass) or for those aged 55 and over with new-onset dyspepsia. This 45-year-old patient has no alarm features mentioned. The recommended management pathway is a non-invasive 'test and treat' strategy, which is more cost-effective and less invasive for this low-risk patient group.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "<i>Helicobacter pylori</i>: tests",
+        "body": "Urea breath test<br /><ul><li>patients consume a drink containing carbon isotope 13 (13C) enriched urea</li><li>urea is broken down by <i>H. pylori</i> urease</li><li>after 30 mins patient exhale into a glass tube</li><li>mass spectrometry analysis calculates the amount of 13C CO2</li><li>should not be performed within <span class=\"concept\" data-cid=\"644\">4 weeks of treatment with an antibacterial or within 2 weeks of an antisecretory drug (e.g. a proton pump inhibitor)</span></li><li>sensitivity 95-98%, specificity 97-98%</li><li>may be used to check for <i>H. pylori</i> <span class=\"concept\" data-cid=\"4190\">eradication</span></li></ul><br />Rapid urease test (e.g. CLO test)<br /><ul><li>biopsy sample is mixed with urea and pH indicator</li><li>colour change if H pylori urease activity</li><li>sensitivity 90-95%, specificity 95-98%</li></ul><br />Serum antibody<br /><ul><li>remains positive after eradication</li><li>sensitivity 85%, specificity 80%</li></ul><br />Culture of gastric biopsy<br /><ul><li>provide information on antibiotic sensitivity</li><li>sensitivity 70%, specificity 100%</li></ul><br />Gastric biopsy<br /><ul><li>histological evaluation alone, no culture</li><li>sensitivity 95-99%, specificity 95-99%</li></ul><br />Stool antigen test<br /><ul><li>sensitivity 90%, specificity 95%</li></ul>",
+        "notes_hash": "3412b5c27ebf1e1354a7877f26dada5c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Urea breath test - no antibiotics in past 4 weeks, no antisecretory drugs (e.g. PPI) in past 2 weeks",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "4042",
+        "up_votes": "7",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "3199",
+            "371",
+            "98",
+            "321",
+            "53",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2075\" data-linkid=\"2075\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2075\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_2075\" data-linkid=\"2075\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2075\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/helicobacter-pylori-infection.html\">Helicobacter pylori infection</a></td></tr></table><br><br><table style='width:100%'><tr><td>Public Health England</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_834\" data-linkid=\"834\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_834\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_834\" data-linkid=\"834\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_834\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/helicobacter-pylori-diagnosis-and-treatment\">Helicobacter Pylori: Diagnosis and Treatment</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x3aZDY9Q_Qk\" data-description=\"Helicobacter pylori\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"810\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x3aZDY9Q_Qk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x3aZDY9Q_Qk\" data-description=\"Helicobacter pylori\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"810\">Helicobacter pylori</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1405\" data-mediaid=\"1405\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1405\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1405\" data-mediaid=\"1405\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1405\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-shOXdsJeA\" data-description=\"Helicobacter pylori\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"274\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/y-shOXdsJeA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-shOXdsJeA\" data-description=\"Helicobacter pylori\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"274\">Helicobacter pylori</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_468\" data-mediaid=\"468\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_468\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_468\" data-mediaid=\"468\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_468\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "644": {
+                "concept_text": "Urea breath test - no antibiotics in past 4 weeks, no antisecretory drugs (e.g. PPI) in past 2 weeks",
+                "concept_percentile": "67"
+            },
+            "4190": {
+                "concept_text": "Urea breath test is the only test recommended for <i>H. pylori</i> post-eradication therapy",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12389_B_79",
+        "new_question_id": "28971",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "11297",
+        "notes_id_link": "1_677",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Aphthous ulceration",
+            "Aspirin sensitivity and nasal polyps",
+            "Formation of new skin lesions at sites of skin injury",
+            "Rash is worsened by sun exposure",
+            "Significant ulceration after minor skin injury",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 21-year-old man presents to his GP with an itchy rash. This has been coming on for the past three months and is characterised by red, scaly patches of skin, most prominent on the back of his elbows and the front of his knees. He has suffered with dandruff for some time. He has no past medical or family history and is not taking any medication.<br /><br />What finding is most likely to be present in this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is presenting with a history suggestive of chronic plaque psoriasis. The Koebner phenomenon describes the tendency for new skin lesions to form at sites of cutaneous injury. It is not clear why this occurs, but it is observed in chronic plaque psoriasis and vitiligo.<br /><br />Aphthous ulceration is the formation of ulcers on the oral and genital mucous membranes. It may be idiopathic but is also associated with connective tissue diseases including Behcet's and systemic lupus erythematosus (SLE). It is not a feature associated with psoriasis.<br /><br />Aspirin sensitivity and nasal polyps are two aspects of Samter's triad, the third being chronic asthma, not psoriasis. Samter's triad is seen in aspirin-exacerbated respiratory disease, where hypersensitivity to aspirin results in asthmatic symptoms.<br /><br />Photosensitive rash is primarily associated with SLE and other connective tissue diseases including dermatomyositis. It may rarely be seen in psoriasis, but the majority of psoriasis patients actually experience an improvement in symptoms when exposed to UV light, and so this is not the most likely feature.<br /><br />Significant ulceration after minor skin injury is referred to as pathergy, and is seen primarily in Behcet's disease and pyoderma gangrenosum. These patients may experience ulcer formation following venesection, and the pathergy test can be used in the diagnostic work-up of these conditions. It is not associated with psoriasis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 21-year-old man presents to his GP with an itchy rash. This has been coming on for the past three months and is characterised by red, scaly patches of skin, most prominent on the back of his elbows and the front of his knees. He has suffered with dandruff for some time. He has no past medical or family history and is not taking any medication.<br /><br />What finding is most likely to be present in this patient?",
+        "correct_answer": "3",
+        "question_notes": "This patient is presenting with a history suggestive of chronic plaque psoriasis. The Koebner phenomenon describes the tendency for new skin lesions to form at sites of cutaneous injury. It is not clear why this occurs, but it is observed in chronic plaque psoriasis and vitiligo.<br /><br />Aphthous ulceration is the formation of ulcers on the oral and genital mucous membranes. It may be idiopathic but is also associated with connective tissue diseases including Behcet's and systemic lupus erythematosus (SLE). It is not a feature associated with psoriasis.<br /><br />Aspirin sensitivity and nasal polyps are two aspects of Samter's triad, the third being chronic asthma, not psoriasis. Samter's triad is seen in aspirin-exacerbated respiratory disease, where hypersensitivity to aspirin results in asthmatic symptoms.<br /><br />Photosensitive rash is primarily associated with SLE and other connective tissue diseases including dermatomyositis. It may rarely be seen in psoriasis, but the majority of psoriasis patients actually experience an improvement in symptoms when exposed to UV light, and so this is not the most likely feature.<br /><br />Significant ulceration after minor skin injury is referred to as pathergy, and is seen primarily in Behcet's disease and pyoderma gangrenosum. These patients may experience ulcer formation following venesection, and the pathergy test can be used in the diagnostic work-up of these conditions. It is not associated with psoriasis.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Koebner phenomenon",
+        "body": "The Koebner phenomenon describes skin lesions that appear at the site of injury. It is seen in:<br /><ul><li><span class=\"concept\" data-cid=\"11297\">psoriasis</span></li><li>vitiligo</li><li>warts</li><li>lichen planus</li><li>lichen sclerosus</li><li>molluscum contagiosum</li></ul>",
+        "notes_hash": "17846d0177e3a8c1e4393418e6a57969",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Psoriasis commonly exhibits the Koebner phenomenon",
+        "concept_percentile": "72",
+        "concept_colour": "rgb(142,255,0)",
+        "number_attempts": "3897",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "247",
+            "448",
+            "2038",
+            "993",
+            "171",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_124\" data-linkid=\"124\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_124\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_124\" data-linkid=\"124\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_124\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/the-koebner-phenomenon/\">Koebner phenonmen </a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "11297": {
+                "concept_text": "Psoriasis commonly exhibits the Koebner phenomenon",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12941_B_301",
+        "new_question_id": "41002",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "10480",
+        "notes_id_link": "1_1791",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Atenolol",
+            "Bisoprolol",
+            "Diltiazem",
+            "Isosorbide mononitrate",
+            "Paracetamol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 64-year-old man presents to his general practitioner due to ongoing episodes of central chest pain on exertion. He has no chest pain at rest. Six months ago, he was diagnosed with angina and was started on verapamil and GTN spray.<br /><br />Past medical history includes hypertension, osteoarthritis of the right knee, and asthma.<br /><br />What medication should be prescribed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This scenario describes a 64-year-old man presenting with recurrent episodes of chest pain during exertion, likely secondary to poorly controlled stable angina. From the stem, we know that the patient is already on verapamil (a calcium channel blocker). Calcium channel blockers and/or beta-blockers are first-line therapy for treating stable angina, but due to the patient's history of asthma, beta-blockers are likely contraindicated.<br /><br />As first-line therapy has not been successful, the patient should try the next line of therapy, which can include long-acting nitrates (such as <b>isosorbide mononitrate</b>), ivabradine, nicorandil, or ranolazine.<br /><br /><b>Atenolol</b> is not a correct answer. Whilst beta-blockers are also an option for first-line therapy for angina treatment, the patient has a history of asthma and likely should be avoided. Furthermore, as the patient is established on verapamil, they should aim to avoid introducing a beta-blocker due to the increased risk of associated cardiovascular adverse effects.<br /><br /><b>Bisoprolol</b> is not correct. Like atenolol, bisoprolol is a beta-blocker that should be avoided in patients with a history of asthma or bronchospasm. Also as mentioned above, as the patient is taking verapamil, the introduction of beta-blockers should be avoided due to the risk of cardiovascular adverse effects.<br /><br /><b>Diltiazem</b> is incorrect. Diltiazem is a rate-limiting calcium channel blocker, similar to verapamil. Both can be used in angina, however as verapamil has not successfully managed symptoms, it is likely that instead of adding diltiazem, the next line of treatment should be started.<br /><br /><b>Paracetamol</b> is not a correct answer. Whilst paracetamol can be used for analgesia, it does not act to prevent further episodes of angina.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 64-year-old man presents to his general practitioner due to ongoing episodes of central chest pain on exertion. He has no chest pain at rest. Six months ago, he was diagnosed with angina and was started on verapamil and GTN spray.<br /><br />Past medical history includes hypertension, osteoarthritis of the right knee, and asthma.<br /><br />What medication should be prescribed?",
+        "correct_answer": "4",
+        "question_notes": "This scenario describes a 64-year-old man presenting with recurrent episodes of chest pain during exertion, likely secondary to poorly controlled stable angina. From the stem, we know that the patient is already on verapamil (a calcium channel blocker). Calcium channel blockers and/or beta-blockers are first-line therapy for treating stable angina, but due to the patient's history of asthma, beta-blockers are likely contraindicated.<br /><br />As first-line therapy has not been successful, the patient should try the next line of therapy, which can include long-acting nitrates (such as <b>isosorbide mononitrate</b>), ivabradine, nicorandil, or ranolazine.<br /><br /><b>Atenolol</b> is not a correct answer. Whilst beta-blockers are also an option for first-line therapy for angina treatment, the patient has a history of asthma and likely should be avoided. Furthermore, as the patient is established on verapamil, they should aim to avoid introducing a beta-blocker due to the increased risk of associated cardiovascular adverse effects.<br /><br /><b>Bisoprolol</b> is not correct. Like atenolol, bisoprolol is a beta-blocker that should be avoided in patients with a history of asthma or bronchospasm. Also as mentioned above, as the patient is taking verapamil, the introduction of beta-blockers should be avoided due to the risk of cardiovascular adverse effects.<br /><br /><b>Diltiazem</b> is incorrect. Diltiazem is a rate-limiting calcium channel blocker, similar to verapamil. Both can be used in angina, however as verapamil has not successfully managed symptoms, it is likely that instead of adding diltiazem, the next line of treatment should be started.<br /><br /><b>Paracetamol</b> is not a correct answer. Whilst paracetamol can be used for analgesia, it does not act to prevent further episodes of angina.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Angina pectoris: drug management",
+        "body": "The management of stable angina comprises lifestyle changes, medication, percutaneous coronary intervention and surgery. NICE produced guidelines in 2011 covering the management of stable angina<br /><br />Medication<br /><ul><li>all patients should receive aspirin and a statin in the absence of any contraindication</li><li><span class=\"concept\" data-cid=\"8532\">sublingual glyceryl trinitrate</span> to abort angina attacks</li><li>NICE recommend using either a <span class=\"concept\" data-cid=\"8533\">beta-blocker or a calcium channel blocker</span> first-line based on 'comorbidities, contraindications and the person's preference'</li><li>if a calcium channel blocker is used as monotherapy a rate-limiting one such as verapamil or diltiazem should be used</li><li>if used in combination with a beta-blocker then use a longer-acting dihydropyridine calcium channel blocker (e.g. amlodipine, modified-release nifedipine)<ul><li>remember that beta-blockers should not be prescribed concurrently with verapamil (risk of complete heart block)</li></ul></li><li>if there is a poor response to initial treatment then medication should be <span class=\"concept\" data-cid=\"8534\">increased to the maximum tolerated dose</span> (e.g. for atenolol 100mg od)</li><li>if a patient is still symptomatic after monotherapy with a beta-blocker add a <span class=\"concept\" data-cid=\"8535\">calcium channel blocker</span> and vice versa</li><li>if a patient is on monotherapy and cannot tolerate the addition of a calcium channel blocker or a beta-blocker then consider one of the following drugs:<ul><li>a long-acting nitrate</li><li>ivabradine</li><li>nicorandil</li><li>ranolazine</li></ul></li><li>if a patient is taking both a beta-blocker and a calcium-channel blocker then only add a third drug whilst a patient is awaiting assessment for PCI or CABG</li></ul><br />Nitrate tolerance<br /><ul><li>many patients who take nitrates develop tolerance and experience reduced efficacy</li><li>NICE advises that patients who take standard-release isosorbide mononitrate should use an <span class=\"concept\" data-cid=\"11043\">asymmetric dosing interval</span> to maintain a daily nitrate-free time of 10-14 hours to minimise the development of nitrate tolerance</li><li>this effect is not seen in patients who take once-daily modified-release isosorbide mononitrate</li></ul>",
+        "notes_hash": "5ee390ae970ff29e6eea9046dc53e577",
+        "knowledge_graph_node_id_link": 1228,
+        "concept": "For a patient with symptomatic stable angina on a calcium channel blocker but with a contraindication to a beta-blocker, the next line treatment should be long-acting nitrate, ivabradine, nicorandil or ranolazine",
+        "concept_percentile": "85",
+        "concept_colour": "rgb(76,255,0)",
+        "number_attempts": "8054",
+        "up_votes": "38",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "273",
+            "1137",
+            "1234",
+            "5312",
+            "98",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_693\" data-linkid=\"693\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_693\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_693\" data-linkid=\"693\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_693\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg126/chapter/1-Guidance\">2011 Stable angina guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_832\" data-linkid=\"832\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_832\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_832\" data-linkid=\"832\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_832\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">34</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/media/1461/qrg151.pdf\">2018 Management of stable angina</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_618\" data-linkid=\"618\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_618\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">30</span><button type=\"button\" style=\"\" id=\"link_dislike_618\" data-linkid=\"618\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_618\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873712/\">2013 Pharmacological treatment of chronic stable angina pectoris </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/7XkOuo5DwAU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\">Stable Angina: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1354\" data-mediaid=\"1354\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1354\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_1354\" data-mediaid=\"1354\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1354\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Zp3XNG92aec/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\">Angina pectoris (stable, unstable, prinzmetal, vasospastic)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_48\" data-mediaid=\"48\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_48\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_48\" data-mediaid=\"48\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_48\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "8533": {
+                "concept_text": "A beta-blocker or a calcium channel blocker is used first-line to prevent angina attacks ",
+                "concept_percentile": "78"
+            },
+            "8535": {
+                "concept_text": "If angina is not controlled with a beta-blocker, a longer-acting dihydropyridine calcium channel blocker should be added",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14688_B_435",
+        "new_question_id": "28481",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3568",
+        "notes_id_link": "1_239",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intra-articular glucocorticoids",
+            "Methotrexate",
+            "NSAID",
+            "Oral glucocorticoids",
+            "Sulfasalazine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old female presents to her general practitioner with a 10-day history of asymmetrical oligoarthritis predominantly affecting her lower limbs, associated with dysuria and conjunctivitis. She is usually well apart from suffering from a diarrhoea illness 1 month ago. <br /><br />What is the most appropriate first-line management of this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has presented with an asymmetrical oligoarthritis associated with dysuria (urethritis) and conjunctivitis, preceded by a diarrhoea illness. This is a classical presentation of reactive arthritis (previously known as Reiter's syndrome). This condition results after exposure to certain gastrointestinal and genitourinary infections. The most commonly implicated bacteria are <i>Chlamydia trachomatis</i>, <i>Salmonella enterica</i> and <i>Campylobacter jejuni</i>. As there are no contra-indications, the first-line management of this patient should be with NSAIDs.<br /><br />Intra-articular glucocorticoids are incorrect. This may be considered in reactive arthritis cases limited to a small number of joints that are resistant to NSAID management. <br /><br />Methotrexate is incorrect. Methotrexate may be considered in cases of chronic reactive arthritis refractory to management with both NSAIDs and glucocorticoids. <br /><br />Oral glucocorticoids are incorrect, although this may be considered if management with NSAIDs fails to control the patient's symptoms. <br /><br />Sulfasalazine, a disease-modifying anti-rheumatic drug (DMARD) is incorrect. Sulfasalazine may be considered in cases of chronic reactive arthritis refractory to management with both NSAIDs and glucocorticoids.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old female presents to her general practitioner with a 10-day history of asymmetrical oligoarthritis predominantly affecting her lower limbs, associated with dysuria and conjunctivitis. She is usually well apart from suffering from a diarrhoea illness 1 month ago. <br /><br />What is the most appropriate first-line management of this patient?",
+        "correct_answer": "3",
+        "question_notes": "This patient has presented with an asymmetrical oligoarthritis associated with dysuria (urethritis) and conjunctivitis, preceded by a diarrhoea illness. This is a classical presentation of reactive arthritis (previously known as Reiter's syndrome). This condition results after exposure to certain gastrointestinal and genitourinary infections. The most commonly implicated bacteria are <i>Chlamydia trachomatis</i>, <i>Salmonella enterica</i> and <i>Campylobacter jejuni</i>. As there are no contra-indications, the first-line management of this patient should be with NSAIDs.<br /><br />Intra-articular glucocorticoids are incorrect. This may be considered in reactive arthritis cases limited to a small number of joints that are resistant to NSAID management. <br /><br />Methotrexate is incorrect. Methotrexate may be considered in cases of chronic reactive arthritis refractory to management with both NSAIDs and glucocorticoids. <br /><br />Oral glucocorticoids are incorrect, although this may be considered if management with NSAIDs fails to control the patient's symptoms. <br /><br />Sulfasalazine, a disease-modifying anti-rheumatic drug (DMARD) is incorrect. Sulfasalazine may be considered in cases of chronic reactive arthritis refractory to management with both NSAIDs and glucocorticoids.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Reactive arthritis",
+        "body": "Reactive arthritis is one of the HLA-B27 associated seronegative spondyloarthropathies. It encompasses what was formerly called Reiter's syndrome*, a term which described a classic triad of urethritis, conjunctivitis and arthritis following a dysenteric illness during the Second World War. Later studies identified patients who developed symptoms following a sexually transmitted infection (post-STI, now sometimes referred to as sexually acquired reactive arthritis, SARA).<br /><br />Reactive arthritis is defined as an arthritis that develops following an infection where the organism cannot be recovered from the joint.<br /><br /><div class='alert alert-warning'>'Can't see, pee or climb a tree'<br /></div><br />Epidemiology<br /><ul><li>post-STI form much more common in men (e.g. 10:1)</li><li>post-dysenteric form equal sex incidence</li></ul><br />The table below shows the organisms that are most commonly associated with reactive arthritis:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Post-dysenteric form</b></th><th><b>Post-STI form</b></th></tr></thead><tbody><tr><td><i>Shigella</i> flexneri<br /><i><i>Salmonella</i> typhi</i>murium<br /><i>Salmonella</i> enteritidis<br /><i>Yersinia enterocolitica</i><br /><i>Campylobacter</i></td><td><i><i>Chlamydia</i> trachomatis</i></td></tr></tbody></table></div><br />Management<br /><ul><li>symptomatic: analgesia, <span class=\"concept\" data-cid=\"3568\">NSAIDS</span>, intra-articular steroids</li><li>sulfasalazine and methotrexate are sometimes used for persistent disease</li><li>symptoms rarely last more than 12 months</li></ul><br />*as Reiter was a member of the Nazi party the term is no longer used",
+        "notes_hash": "9c5e9d46f09f11e8b88c9779b31a2e6e",
+        "knowledge_graph_node_id_link": 1211,
+        "concept": "Acute reactive arthritis can be treated with NSAIDs, as long as there are no contraindications ",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "5570",
+        "up_votes": "11",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "69",
+            "215",
+            "3718",
+            "1331",
+            "237",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/snjGL2x6Eus\" data-description=\"Reactive arthritis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1041\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/snjGL2x6Eus/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/snjGL2x6Eus\" data-description=\"Reactive arthritis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1041\">Reactive arthritis</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1822\" data-mediaid=\"1822\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1822\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1822\" data-mediaid=\"1822\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1822\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZzWtNKPdUdc\" data-description=\"Reactive arthritis\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1270\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZzWtNKPdUdc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZzWtNKPdUdc\" data-description=\"Reactive arthritis\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1270\">Reactive arthritis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2246\" data-mediaid=\"2246\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2246\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2246\" data-mediaid=\"2246\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2246\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3568": {
+                "concept_text": "Acute reactive arthritis can be treated with NSAIDs, as long as there are no contraindications ",
+                "concept_percentile": "80"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2216_B_24",
+        "new_question_id": "12218",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "1195",
+        "notes_id_link": "1_1914",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "CT angiogram of the cerebral blood vessels.",
+            "CT scan of the brain",
+            "Lumbar puncture",
+            "Urea and electrolytes",
+            "Arterial blood gas",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a looking after an elderly lady on the acute medical unit.  She suffers from hypertension only.  She has been admitted with an intracerebral bleed and is awaiting a neurosurgical bed for observation. However, during the day she becomes more unresponsive. She is localising and only opens eyes to pain. Which investigation is the most important  in this situation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "In these patients, CT of the brain can diagnose or rule out hydrocephalus quickly. <br /><br />CT angiograms are normally used for locating the source of subarachnoid bleeds and are not indicated here.<br /><br />Arterial blood will show if the patient is retaining carbon dioxide, and is appropriate for patients with COPD, but this lady has no underlying lung pathology. <br /><br />Hyponatraemia is common in patients with intracranial bleeds but does not present in such a way.  It is often asymptomatic but can cause seizures if the sodium is very low. <br /><br />Lumbar punctures will give you a measurement of the intracranial pressure, but should not be done without a CT scan first in these patients.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a looking after an elderly lady on the acute medical unit.  She suffers from hypertension only.  She has been admitted with an intracerebral bleed and is awaiting a neurosurgical bed for observation. However, during the day she becomes more unresponsive. She is localising and only opens eyes to pain. Which investigation is the most important  in this situation?",
+        "correct_answer": "2",
+        "question_notes": "In these patients, CT of the brain can diagnose or rule out hydrocephalus quickly. <br /><br />CT angiograms are normally used for locating the source of subarachnoid bleeds and are not indicated here.<br /><br />Arterial blood will show if the patient is retaining carbon dioxide, and is appropriate for patients with COPD, but this lady has no underlying lung pathology. <br /><br />Hyponatraemia is common in patients with intracranial bleeds but does not present in such a way.  It is often asymptomatic but can cause seizures if the sodium is very low. <br /><br />Lumbar punctures will give you a measurement of the intracranial pressure, but should not be done without a CT scan first in these patients.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Head injury: types of traumatic brain injury",
+        "body": "Basics<br /><ul><li>primary brain injury may be focal (contusion/haematoma) or diffuse (diffuse axonal injury)</li><li>diffuse axonal injury occurs as a result of mechanical shearing following deceleration, causing disruption and tearing of axons</li><li>intra-cranial haematomas can be extradural, subdural or intracerebral, while contusions may occur adjacent to (coup) or contralateral (contre-coup) to the side of impact</li><li>secondary brain injury occurs when cerebral oedema, ischaemia, infection, tonsillar or tentorial herniation exacerbates the original injury. The normal cerebral auto regulatory processes are disrupted following trauma rendering the brain more susceptible to blood flow changes and hypoxia</li><li>the Cushings reflex (hypertension and bradycardia) often occurs late and is usually a pre terminal event</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type of injury</b></th><th><b>Notes</b></th></tr></thead><tbody><tr><td><b>Extradural (epidural) haematoma</b></td><td>Bleeding into the space between the dura mater and the skull. Often results from acceleration-deceleration trauma or a blow to the side of the head. The majority of epidural haematomas occur in the temporal region where skull fractures cause a rupture of the middle meningeal artery.<br /><br />Features<br /><ul><li>features of raised intracranial pressure</li><li>some patients may exhibit a <span class=\"concept\" data-cid=\"8294\">lucid interval</span></td></tr><tr><td></li></ul><b>Subdural haematoma</b></td><td>Bleeding into the outermost meningeal layer. Most commonly occur around the frontal and parietal lobes.<br /><br />Risk factors include <span class=\"concept\" data-cid=\"8295\">old age, alcoholism</span> and anticoagulation.<br /><br />Slower onset of symptoms than a epidural haematoma. There may be <span class=\"concept\" data-cid=\"485\">fluctuating confusion/consciousness</span></td></tr><tr><td><b>Subarachnoid haemorrhage</b></td><td>Classically causes a <span class=\"concept\" data-cid=\"8296\">sudden occipital headache</span>. Usually occurs spontaneously in the context of a ruptured cerebral aneurysm but may be seen in association with other injuries when a patient has sustained a traumatic brain injury</td></tr><tr><td><b>Intracerebral haematoma</b></td><td>An intracerebral (or intraparenchymal) haemorrhage is a collection of blood within the substance of the brain. <br /><br />Causes / risk factors include: hypertension, vascular lesion (e.g. aneurysm or arteriovenous malformation), cerebral amyloid angiopathy, trauma, brain tumour or infarct (particularly in stroke patients undergoing thrombolysis). <br /><br />Patients will present similarly to an ischaemic stroke (which is why it is crucial to obtain a CT in head in all stroke patients prior to thrombolysis) or with a decrease in consciousness. <br /><br />CT imaging will show a hyperdensity (bright lesion) within the substance of the brain. <br /><br />Treatment is often conservative under the care of stroke physicians, but large clots in patients with impaired consciousness may warrant surgical evacuation.</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Image gallery</h5><br />Extradural (epidural) haematoma:<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb033b.jpg\" data-fancybox=\"gallery\" data-caption=\"Extradural (epidural) haematoma - Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb033.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb032b.jpg\" data-fancybox=\"gallery\" data-caption=\"Extradural (epidural) haematoma -  Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb032.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb034b.jpg\" data-fancybox=\"gallery\" data-caption=\"Extradural (epidural) haematoma -  Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb034.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb989b.jpg\" data-fancybox=\"gallery\" data-caption=\"Non-contrast CT image of a traumatic extradural hematoma in the left frontal-temporal region.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb989.jpg\" alt=\"\" /></a></div></div></div><br />Subdural haematoma:<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb946b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT (non-contrast) showing subdural haematoma in an elderly woman. Mass effect and midline shift -  Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb946.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb031b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subdural haematoma -  Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb031.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb002b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subdural haematoma -  Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb002.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb983b.jpg\" data-fancybox=\"gallery\" data-caption=\"There is a large crescent-shaped area of high density over the right side of the brain, extending from the top (right medial convexity) to the bottom (right temporal lobe). This has caused a midline shift of brain structures, along with subfalcine herniation (where brain tissue is pushed under the falx cerebri).\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb983.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb985b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subdural haematoma with significant midline shift\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb985.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb986b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subdural haematoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb986.jpg\" alt=\"\" /></a></div></div></div><br />Subarachnoid haemorrhage:<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb035b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subarachnoid haemorrhage - Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb035.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb179b.jpg\" data-fancybox=\"gallery\" data-caption=\"Subarachnoid haemorrhage - Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb179.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb988b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT showing a subarachnoid haemorrhage as a white area in the centre (marked by the arrow) and stretching into the sulci to either side\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb988.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "f5da6e37a541dec359bc01152644ed9e",
+        "knowledge_graph_node_id_link": 11199,
+        "concept": "Patients with intracranial bleeds, who become unresponsive should receive an urgent CT scan to check for hydrocephalus",
+        "concept_percentile": "45",
+        "concept_colour": "rgb(255,229,0)",
+        "number_attempts": "6027",
+        "up_votes": "16",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "1168",
+            "4468",
+            "100",
+            "63",
+            "228",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_217\" data-linkid=\"217\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_217\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_217\" data-linkid=\"217\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_217\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg176/chapter/1-Recommendations\">2014 Head injury guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kb_wzb7-rvE\" data-description=\"Intracranial Haemorrhage Types\" data-upvotes=\"37\" data-downvotes=\"3\" data-media=\"280\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Kb_wzb7-rvE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kb_wzb7-rvE\" data-description=\"Intracranial Haemorrhage Types\" data-upvotes=\"37\" data-downvotes=\"3\" data-media=\"280\">Intracranial Haemorrhage Types</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_479\" data-mediaid=\"479\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_479\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">37</span><button type=\"button\" style=\"\" id=\"media_dislike_479\" data-mediaid=\"479\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_479\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hssdJu-81g4\" data-description=\"Traumatic brain injury: pathology review\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"1259\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hssdJu-81g4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hssdJu-81g4\" data-description=\"Traumatic brain injury: pathology review\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"1259\">Traumatic brain injury: pathology review</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2220\" data-mediaid=\"2220\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2220\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_2220\" data-mediaid=\"2220\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2220\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/opnVo7GNZ68\" data-description=\"Intracranial bleeds - Subdural and Extradural haematoma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"318\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/opnVo7GNZ68/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/opnVo7GNZ68\" data-description=\"Intracranial bleeds - Subdural and Extradural haematoma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"318\">Intracranial bleeds - Subdural and Extradural haematoma</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_540\" data-mediaid=\"540\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_540\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_540\" data-mediaid=\"540\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_540\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "485": {
+                "concept_text": "Fluctuating confusion/consciousness? - subdural haematoma",
+                "concept_percentile": "77"
+            },
+            "8294": {
+                "concept_text": "Head injury, lucid interval - extradural (epidural) haematoma",
+                "concept_percentile": "67"
+            },
+            "8295": {
+                "concept_text": "Elderly, alcoholic, head injury, insidiuous onset symptom - subdural haematoma",
+                "concept_percentile": "36"
+            },
+            "8296": {
+                "concept_text": "Sudden occipital headache - subarachnoid haemorrhage",
+                "concept_percentile": "4"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4693_B_30",
+        "new_question_id": "16193",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "4365",
+        "notes_id_link": "1_2361",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tendon rupture",
+            "5th metacarpal 'Boxer's' fracture",
+            "Ulnar dislocation",
+            "Scaphoid fracture",
+            "1st metacarpal fracture",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 18-year-old male presents to the emergency department after punching a wall, complaining of hand pain. He has swelling and pain over the ulnar side of his hand.<br /><br />What is the most likely diagnosis based on his mechanism of injury?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is 5th metacarpal 'Boxer's' fracture. This injury commonly occurs when someone punches a hard surface with a clenched fist, causing an axial load along the metacarpal shaft. The fifth metacarpal is particularly vulnerable due to its relatively mobile nature and its position on the ulnar aspect of the hand. The fracture typically results in volar angulation of the metacarpal head due to the pull of the interossei muscles. The presentation of ulnar-sided hand pain and swelling following a punch injury is highly characteristic of this fracture pattern.<br /><br /><b>Tendon rupture</b> is less likely in this scenario. While tendon injuries can occur with direct trauma, they are more commonly associated with cutting injuries or forceful pulling against resistance. Additionally, tendon ruptures typically present with loss of specific movements rather than generalised pain and swelling.<br /><br /><b>Ulnar dislocation</b> is an uncommon injury that typically occurs with high-energy trauma or falls onto an outstretched hand. The mechanism described (punching) would be unlikely to cause dislocation of the ulna, which would also present with more widespread forearm pain and deformity.<br /><br /><b>Scaphoid fracture</b> typically occurs following a fall onto an outstretched hand with the wrist in extension. The mechanism of punching a wall would not typically cause this injury, and the pain would be localised to the anatomical snuffbox rather than the ulnar side of the hand.<br /><br /><b>1st metacarpal fracture</b>, also known as Bennett's fracture when involving the base, typically occurs from axial loading of the partially flexed thumb. This would be unlikely with a direct punch using a clenched fist, where the thumb is typically tucked and protected. The pain would also be localised to the radial aspect of the hand rather than the ulnar side.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 18-year-old male presents to the emergency department after punching a wall, complaining of hand pain. He has swelling and pain over the ulnar side of his hand.<br /><br />What is the most likely diagnosis based on his mechanism of injury?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is 5th metacarpal 'Boxer's' fracture. This injury commonly occurs when someone punches a hard surface with a clenched fist, causing an axial load along the metacarpal shaft. The fifth metacarpal is particularly vulnerable due to its relatively mobile nature and its position on the ulnar aspect of the hand. The fracture typically results in volar angulation of the metacarpal head due to the pull of the interossei muscles. The presentation of ulnar-sided hand pain and swelling following a punch injury is highly characteristic of this fracture pattern.<br /><br /><b>Tendon rupture</b> is less likely in this scenario. While tendon injuries can occur with direct trauma, they are more commonly associated with cutting injuries or forceful pulling against resistance. Additionally, tendon ruptures typically present with loss of specific movements rather than generalised pain and swelling.<br /><br /><b>Ulnar dislocation</b> is an uncommon injury that typically occurs with high-energy trauma or falls onto an outstretched hand. The mechanism described (punching) would be unlikely to cause dislocation of the ulna, which would also present with more widespread forearm pain and deformity.<br /><br /><b>Scaphoid fracture</b> typically occurs following a fall onto an outstretched hand with the wrist in extension. The mechanism of punching a wall would not typically cause this injury, and the pain would be localised to the anatomical snuffbox rather than the ulnar side of the hand.<br /><br /><b>1st metacarpal fracture</b>, also known as Bennett's fracture when involving the base, typically occurs from axial loading of the partially flexed thumb. This would be unlikely with a direct punch using a clenched fist, where the thumb is typically tucked and protected. The pain would also be localised to the radial aspect of the hand rather than the ulnar side.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Boxer fracture",
+        "body": "Boxer fracture describes a <span class=\"concept\" data-cid=\"4365\">minimally displaced fracture of the fifth metacarpal</span>. This typically results following the patient punching a hard surface, for example a wall.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb231b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb231.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb231b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Boxer fracture of the 5th metacarpal</div>",
+        "notes_hash": "2306f32718f7cbd14297216e088aec06",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A 'Boxer fracture' typically occurs when the patient punches a hard surfaces, and describes a minimally displaced 5th metacarpal fracture",
+        "concept_percentile": "55",
+        "concept_colour": "rgb(229,255,0)",
+        "number_attempts": "4991",
+        "up_votes": "30",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "34",
+            "4567",
+            "121",
+            "194",
+            "75",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 10,
+        "concepts_for_notes": {
+            "4365": {
+                "concept_text": "A 'Boxer fracture' typically occurs when the patient punches a hard surfaces, and describes a minimally displaced 5th metacarpal fracture",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1035",
+        "new_question_id": "2982",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "313",
+        "notes_id_link": "1_1490",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise that referral to secondary care should be delayed until 5 years of age, when surgery may be contemplated",
+            "Refer to ophthalmology",
+            "Refer to paediatric physiotherapy for eye movement exercises",
+            "Reassure mother that the majority of squints improve with age",
+            "Refer to optometry for an eye-patch",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 3-year-old child is brought to surgery as her mother has noticed that she is 'cross-eyed'. The corneal light reflection test confirms this. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most appropriate management for a 3-year-old child presenting with 'cross-eyed' or strabismus symptoms, confirmed by the corneal light reflection test, is to <b>refer to ophthalmology</b>. This is because strabismus can lead to amblyopia (lazy eye), which if left untreated can result in permanent vision loss. Early referral allows for assessment and treatment if necessary, which may include glasses, patching or surgery. According to UK guidelines, any child under the age of 4 years with suspected squint should be referred to an ophthalmologist immediately.<br /><br />The option <b>advise that referral to secondary care should be delayed until 5 years of age, when surgery may be contemplated</b>, is incorrect. Delaying referral and treatment could potentially allow the development of amblyopia, which can lead to irreversible visual loss. Furthermore, surgical intervention may not always be required as treatment will depend on the type and cause of the squint.<br /><br />The suggestion to <b>refer to paediatric physiotherapy for eye movement exercises</b> is also inappropriate in this case. While eye exercises may help certain types of strabismus where there is poor eye muscle coordination (convergence insufficiency), they are generally not effective for other forms of squint.<br /><br />Reassuring the mother that <b>the majority of squints improve with age</b> is misleading and potentially dangerous advice. While some children may outgrow intermittent or small-angle squints, many do not. Furthermore, persistent squints can lead to complications such as lazy eye or psychosocial problems related to appearance.<br /><br />Lastly, referring the child <b>to optometry for an eye-patch</b> without a comprehensive evaluation by an ophthalmologist could delay necessary treatment. Eye patches are commonly used in treating lazy eye (amblyopia) rather than strabismus itself - they force the brain to use the 'weaker' eye by covering up the stronger one. However, it's crucial that an ophthalmologist first assesses the situation before initiating such treatment.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 3-year-old child is brought to surgery as her mother has noticed that she is 'cross-eyed'. The corneal light reflection test confirms this. What is the most appropriate management?",
+        "correct_answer": "2",
+        "question_notes": "The most appropriate management for a 3-year-old child presenting with 'cross-eyed' or strabismus symptoms, confirmed by the corneal light reflection test, is to <b>refer to ophthalmology</b>. This is because strabismus can lead to amblyopia (lazy eye), which if left untreated can result in permanent vision loss. Early referral allows for assessment and treatment if necessary, which may include glasses, patching or surgery. According to UK guidelines, any child under the age of 4 years with suspected squint should be referred to an ophthalmologist immediately.<br /><br />The option <b>advise that referral to secondary care should be delayed until 5 years of age, when surgery may be contemplated</b>, is incorrect. Delaying referral and treatment could potentially allow the development of amblyopia, which can lead to irreversible visual loss. Furthermore, surgical intervention may not always be required as treatment will depend on the type and cause of the squint.<br /><br />The suggestion to <b>refer to paediatric physiotherapy for eye movement exercises</b> is also inappropriate in this case. While eye exercises may help certain types of strabismus where there is poor eye muscle coordination (convergence insufficiency), they are generally not effective for other forms of squint.<br /><br />Reassuring the mother that <b>the majority of squints improve with age</b> is misleading and potentially dangerous advice. While some children may outgrow intermittent or small-angle squints, many do not. Furthermore, persistent squints can lead to complications such as lazy eye or psychosocial problems related to appearance.<br /><br />Lastly, referring the child <b>to optometry for an eye-patch</b> without a comprehensive evaluation by an ophthalmologist could delay necessary treatment. Eye patches are commonly used in treating lazy eye (amblyopia) rather than strabismus itself - they force the brain to use the 'weaker' eye by covering up the stronger one. However, it's crucial that an ophthalmologist first assesses the situation before initiating such treatment.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Squint",
+        "body": "Squint (strabismus) is characterised by misalignment of the visual axes. Squints may be divided into concomitant (common) and paralytic (rare). It is important to detect as uncorrected may lead to <span class=\"concept\" data-cid=\"11675\">amblyopia</span> (the brain fails to fully process inputs from one eye and over time favours the other eye).<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Concomitant</b></th><th><b>Paralytic</b></th></tr></thead><tbody><tr><td>Due to imbalance in extraocular muscles<br />Convergent is more common than divergent</td><td>Due to paralysis of extraocular muscles</td></tr></tbody></table></div><br />Detection of a squint may be made by the corneal light reflection test - holding a light source 30cm from the child's face to see if the light reflects symmetrically on the pupils<br /><br />The cover test is used to identify the nature of the squint<br /><ul><li>ask the child to focus on an object</li><li>cover one eye</li><li>observe movement of uncovered eye</li><li>cover other eye and repeat test </li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"313\">referral to secondary care</span><ul><li>eye patches may help prevent amblyopia</li></ul></li></ul>",
+        "notes_hash": "5cd17b915776b0ceba3f1f583581d06a",
+        "knowledge_graph_node_id_link": 11236,
+        "concept": "Refer children with a squint to ophthalmology",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "6329",
+        "up_votes": "25",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "372",
+            "3876",
+            "316",
+            "566",
+            "1199",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Ophthalmologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2084\" data-linkid=\"2084\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2084\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_2084\" data-linkid=\"2084\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2084\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcophth.ac.uk/wp-content/uploads/2021/08/2012-SCI-250-Guidelines-for-Management-of-Strabismus-in-Childhood-2012.pdf\">2012 Guidelines for the Management of Strabismus in Childhood </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Wf8DGL7WE8U\" data-description=\"Cover Test\" data-upvotes=\"49\" data-downvotes=\"1\" data-media=\"223\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Wf8DGL7WE8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Wf8DGL7WE8U\" data-description=\"Cover Test\" data-upvotes=\"49\" data-downvotes=\"1\" data-media=\"223\">Cover Test</a></td></tr><tr><td><span ><small>U-M Kellogg Eye Center - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_367\" data-mediaid=\"367\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_367\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">49</span><button type=\"button\" style=\"\" id=\"media_dislike_367\" data-mediaid=\"367\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_367\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ortazh01baM\" data-description=\"Corneal reflections\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"1070\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ortazh01baM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ortazh01baM\" data-description=\"Corneal reflections\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"1070\">Corneal reflections</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1864\" data-mediaid=\"1864\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1864\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1864\" data-mediaid=\"1864\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1864\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "313": {
+                "concept_text": "Refer children with a squint to ophthalmology",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_620",
+        "new_question_id": "8791",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "984",
+        "notes_id_link": "1_478",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral doxycycline",
+            "Oral erythromycin",
+            "No antibiotic prophylaxis needed",
+            "Oral ofloxacin",
+            "Oral clindamycin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old female with a history of mitral regurgitation attends her dentist, who intends to perform dental polishing. She is known to be penicillin allergic. What prophylaxis against infective endocarditis should be given?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The 2008 NICE guidelines have fundamentally changed the approach to infective endocarditis prophylaxis",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old female with a history of mitral regurgitation attends her dentist, who intends to perform dental polishing. She is known to be penicillin allergic. What prophylaxis against infective endocarditis should be given?",
+        "correct_answer": "3",
+        "question_notes": "The 2008 NICE guidelines have fundamentally changed the approach to infective endocarditis prophylaxis",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Infective endocarditis: prophylaxis",
+        "body": "The 2008 guidelines from NICE have radically changed the list of procedures for which antibiotic prophylaxis is recommended<br /><br />NICE recommends the <span class=\"concept\" data-cid=\"984\">following procedures do not require prophylaxis</span>:<br /><ul><li>dental procedures</li><li>upper and lower gastrointestinal tract procedures</li><li>genitourinary tract; this includes urological, gynaecological and obstetric procedures and childbirth</li><li>upper and lower respiratory tract; this includes ear, nose and throat procedures and bronchoscopy</li></ul><br />The guidelines do however suggest:<br /><ul><li>any episodes of infection in people at risk of infective endocarditis should be investigated and treated promptly to reduce the risk of endocarditis developing</li><li>if a person at risk of infective endocarditis is receiving antimicrobial therapy because they are undergoing a gastrointestinal or genitourinary procedure at a site where there is a suspected infection they should be given an antibiotic that covers organisms that cause infective endocarditis</li></ul><br />It is important to note that these recommendations are not in keeping with the American Heart Association/European Society of Cardiology guidelines which still advocate antibiotic prophylaxis for high-risk patients who are undergoing dental procedures.",
+        "notes_hash": "8bca21fc0179240b27139fe924888882",
+        "knowledge_graph_node_id_link": 1155,
+        "concept": "Antibiotic prohylaxis to prevent infective endocarditis is not routinely recommended in the UK for dental and other procedures",
+        "concept_percentile": "42",
+        "concept_colour": "rgb(255,214,0)",
+        "number_attempts": "7000",
+        "up_votes": "16",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "424",
+            "598",
+            "5680",
+            "73",
+            "225",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1157\" data-linkid=\"1157\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1157\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1157\" data-linkid=\"1157\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1157\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/cardiovascular-system-infections-antibacterial-therapy.html\">Infective endocarditis guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1156\" data-linkid=\"1156\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1156\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"link_dislike_1156\" data-linkid=\"1156\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1156\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG64/chapter/Recommendations\">2008 Prophylaxis against infective endocarditis</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/10RaKBTTyeo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1375\">Infective Endocarditis</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2422\" data-mediaid=\"2422\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2422\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2422\" data-mediaid=\"2422\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2422\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "984": {
+                "concept_text": "Antibiotic prohylaxis to prevent infective endocarditis is not routinely recommended in the UK for dental and other procedures",
+                "concept_percentile": "42"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21386_B_252",
+        "new_question_id": "47550",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "9179",
+        "notes_id_link": "10_226",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "IM glucagon",
+            "IV atropine",
+            "IV labetalol",
+            "IV lipid emulsion",
+            "IV magnesium sulfate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 47-year-old man is brought to the emergency department with a laceration on his left arm after falling at home. There was copious blood at the scene and the patient received a transfusion of one unit of packed red blood cells on arrival at the hospital.<br /><br />The patient remains haemodynamically stable throughout and his wound is numbed with 10mls of 2% lidocaine prior to suturing by a junior member of the team.<br /><br />Before suturing can begin the patient becomes profoundly tachycardia and hypotensive with a heart rate of 150 bpm and blood pressure of 70/40mmHg.<br /><br />What is the most appropriate reversal agent?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>IV lipid emulsion</b> is the correct answer. The patient's presentation is consistent with acute local anaesthetic toxicity, characterised by cardiovascular and neurological deterioration after local anaesthetic administration. Toxicity may develop from excess local administration or from accidental intravenous administration, with the latter most likely in this case.<br /><br />IV lipid emulsion is thought to treat local anaesthetic toxicity by shunting lipid-soluble local anaesthetic drugs away from the 'plasma phase', in which cardiac and neurological effects occur, and into the 'lipid phase'. Local anaesthetics can be metabolised and excreted from the lipid phase, reducing systemic toxicity.<br /><br /><b>IM glucagon</b> is incorrect. Intravenous, rather than intramuscular glucagon may be used to treat acute beta-blocker toxicity, not local anaesthetic toxicity. Glucagon exerts positive inotropy and chronotropy independently of adrenergic receptors.<br /><br /><b>IV atropine</b> is incorrect. Atropine is a muscarinic antagonist that may be used to treat both organophosphate activity and bradycardia in hypotensive patients.<br /><br /><b>IV labetalol</b> is incorrect. Labetalol is a nonselective beta-adrenoreceptor antagonist that may be used in hypertensive emergencies, such as accelerated hypertension. Labetalol is not used in the treatment of acute local anaesthetic toxicity.<br /><br /><b>IV magnesium sulfate</b> is incorrect. Magnesium sulphate may be used to treat severe asthma, pre-eclampsia, seizures, and severe arrhythmias. As this patient likely has acute local anaesthetic toxicity, magnesium sulphate will not address the precipitant of the patient's arrhythmias and therefore IV lipid emulsion is a more appropriate initial reversal agent.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 47-year-old man is brought to the emergency department with a laceration on his left arm after falling at home. There was copious blood at the scene and the patient received a transfusion of one unit of packed red blood cells on arrival at the hospital.<br /><br />The patient remains haemodynamically stable throughout and his wound is numbed with 10mls of 2% lidocaine prior to suturing by a junior member of the team.<br /><br />Before suturing can begin the patient becomes profoundly tachycardia and hypotensive with a heart rate of 150 bpm and blood pressure of 70/40mmHg.<br /><br />What is the most appropriate reversal agent?",
+        "correct_answer": "4",
+        "question_notes": "<b>IV lipid emulsion</b> is the correct answer. The patient's presentation is consistent with acute local anaesthetic toxicity, characterised by cardiovascular and neurological deterioration after local anaesthetic administration. Toxicity may develop from excess local administration or from accidental intravenous administration, with the latter most likely in this case.<br /><br />IV lipid emulsion is thought to treat local anaesthetic toxicity by shunting lipid-soluble local anaesthetic drugs away from the 'plasma phase', in which cardiac and neurological effects occur, and into the 'lipid phase'. Local anaesthetics can be metabolised and excreted from the lipid phase, reducing systemic toxicity.<br /><br /><b>IM glucagon</b> is incorrect. Intravenous, rather than intramuscular glucagon may be used to treat acute beta-blocker toxicity, not local anaesthetic toxicity. Glucagon exerts positive inotropy and chronotropy independently of adrenergic receptors.<br /><br /><b>IV atropine</b> is incorrect. Atropine is a muscarinic antagonist that may be used to treat both organophosphate activity and bradycardia in hypotensive patients.<br /><br /><b>IV labetalol</b> is incorrect. Labetalol is a nonselective beta-adrenoreceptor antagonist that may be used in hypertensive emergencies, such as accelerated hypertension. Labetalol is not used in the treatment of acute local anaesthetic toxicity.<br /><br /><b>IV magnesium sulfate</b> is incorrect. Magnesium sulphate may be used to treat severe asthma, pre-eclampsia, seizures, and severe arrhythmias. As this patient likely has acute local anaesthetic toxicity, magnesium sulphate will not address the precipitant of the patient's arrhythmias and therefore IV lipid emulsion is a more appropriate initial reversal agent.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Local anaesthetic agents",
+        "body": "<b>Lidocaine</b><br /><ul><li>An amide</li><li>Local anaesthetic and a less commonly used antiarrhythmic (<span class=\"concept\" data-cid=\"5185\">affects Na channels</span> in the axon)</li><li>Hepatic metabolism, protein bound, renally excreted</li><li>Toxicity: due to IV or excess administration. Increased risk if liver dysfunction or low protein states.  Note acidosis causes lidocaine to detach from protein binding. <span class=\"concept\" data-cid=\"9179\">Local anesthetic toxicity can be treated with IV 20% lipid emulsion</span></li><li>Drug interactions: Beta blockers, ciprofloxacin, phenytoin</li><li>Features of toxicity: Initial CNS over activity then depression as lidocaine initially blocks inhibitory pathways then blocks both inhibitory and activating pathways.  Cardiac arrhythmias.</li><li>Increased doses may be used when combined with adrenaline to limit systemic absorption.</li></ul><br /><b>Cocaine</b><br /><ul><li>Pure cocaine is a salt, usually cocaine hydrochloride. It is supplied for local anaesthetic purposes as a paste.</li><li>It is supplied for clinical use in concentrations of 4 and 10%. It may be applied topically to the nasal mucosa. It has a rapid onset of action and has the additional advantage of causing marked vasoconstriction.</li><li>It is lipophillic and will readily cross the blood brain barrier. Its systemic effects also include cardiac arrhythmias and tachycardia.</li><li>Apart from its limited use in ENT surgery it is otherwise used rarely in mainstream surgical practice.</li></ul><br /><b>Bupivacaine</b><br /><ul><li>Bupivacaine binds to the intracellular portion of sodium channels and blocks sodium influx into nerve cells, which prevents depolarization.</li><li>It has a much longer duration of action than lignocaine and this is of use in that it may be used for topical wound infiltration at the conclusion of surgical procedures with long duration analgesic effect.</li><li>It is cardiotoxic and is therefore contra indicated in regional blockage in case the tourniquet fails.</li><li>Levobupivicaine (Chirocaine) is less cardiotoxic and causes less vasodilation.</li></ul><br /><b>Prilocaine</b><br /><ul><li>Similar mechanism of action to other local anaesthetic agents. However, it is far less cardiotoxic and is therefore the agent of choice for intravenous regional anaesthesia e.g. Biers Block.</li></ul><br />All local anaesthetic agents dissociate in tissues and this contributes to their therapeutic effect. The dissociation constant shifts in tissues that are acidic e.g. where an abscess is present, and this reduces the efficacy.<br /><br /><b>Doses of local anaesthetics</b><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Agent</b></th><th><b>Dose plain</b></th><th><b>Dose with adrenaline</b></th></tr></thead><tbody><tr><td>Lignocaine</td><td>3mg/Kg</td><td>7mg/Kg</td></tr><tr><td>Bupivacaine</td><td>2mg/Kg</td><td>2mg/Kg</td></tr><tr><td>Prilocaine</td><td>6mg/Kg</td><td>9mg/Kg</td></tr></tbody></table></div>These are a guide only as actual doses depend on site of administration, tissue vascularity and co-morbidities.<br /><br /><div class='alert alert-warning'><b>Maximum total local anaesthetic doses</b><br /><ul><li>Lignocaine 1% plain - 3mg/ Kg - 200mg (20ml)</li><li>Lignocaine 1% with 1 in 200,000 adrenaline - 7mg/Kg - 500mg (50ml)</li><li>Bupivicaine 0.5% - 2mg/kg- 150mg (30ml)</li></ul><i>Maximum doses are based on ideal body weight</i><br /></div><br /><b>Effects of adrenaline</b><br />Adrenaline may be added to local anaesthetic drugs. It prolongs the duration of action at the site of injection and permits usage of higher doses (see above). It is contra indicated in patients taking MAOI's or tricyclic antidepressants. The toxicity of bupivacaine is related to protein binding and addition of adrenaline to this drug does not permit increases in the total dose of bupivacaine, in contrast to the situation with lignocaine.",
+        "notes_hash": "0bda24b8399193e3ea23bd62248ca874",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Local anesthetic toxicity can be treated with IV 20% lipid emulsion ",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "5213",
+        "up_votes": "22",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "380",
+            "757",
+            "217",
+            "3412",
+            "447",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wx3dZmv5pM0\" data-description=\"General & local anaesthetics\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"622\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wx3dZmv5pM0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wx3dZmv5pM0\" data-description=\"General & local anaesthetics\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"622\">General & local anaesthetics</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1064\" data-mediaid=\"1064\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1064\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1064\" data-mediaid=\"1064\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1064\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/URtm1e6R2yQ\" data-description=\"Local anesthetics\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1353\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/URtm1e6R2yQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/URtm1e6R2yQ\" data-description=\"Local anesthetics\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1353\">Local anesthetics</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2381\" data-mediaid=\"2381\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2381\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2381\" data-mediaid=\"2381\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2381\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WeJ1V2NG1pk\" data-description=\"Local anaesthetic toxicity\" data-upvotes=\"13\" data-downvotes=\"5\" data-media=\"849\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WeJ1V2NG1pk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WeJ1V2NG1pk\" data-description=\"Local anaesthetic toxicity\" data-upvotes=\"13\" data-downvotes=\"5\" data-media=\"849\">Local anaesthetic toxicity</a></td></tr><tr><td><span ><small>Kloss and Bruce - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1490\" data-mediaid=\"1490\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1490\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_1490\" data-mediaid=\"1490\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1490\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "9179": {
+                "concept_text": "Local anesthetic toxicity can be treated with IV 20% lipid emulsion ",
+                "concept_percentile": "80"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5478_B_4",
+        "new_question_id": "16465",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4539",
+        "notes_id_link": "1_993",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rheumatoid arthritis",
+            "Ankylosing spondylitis",
+            "Pneumonia",
+            "Sarcoidosis",
+            "Tuberculosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22-year-old woman presents to the ophthalmologist with bilateral painful red eyes. Examination revealed bilateral anterior uveitis. Further history revealed that she has recently visited her GP surgery several times due to troublesome dry cough. The ophthalmologist ordered several blood examinations and a chest x-ray. Blood examinations revealed raised angiotensin-converting enzyme levels and chest x-ray showed bilateral hilar lymphadenopathy.<br /><br />Which one of the following is the cause of uveitis in this woman?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Uveitis is the most common ophthalmological manifestation of sarcoidosis. Bilateral recurrent uveitis with a history of pulmonary disease should direct us to rule out sarcoidosis. The first two options are not correct as they do not involve a dry cough. Rheumatoid arthritis affects the small joints of hands, feet, and wrists. Ankylosing spondylitis mostly involves the spine with the common complaint of back pain and stiffness which are not mentioned in this question. Tuberculosis and pneumonia are almost always accompanied by a high-grade fever which again isn't mentioned in this scenario.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22-year-old woman presents to the ophthalmologist with bilateral painful red eyes. Examination revealed bilateral anterior uveitis. Further history revealed that she has recently visited her GP surgery several times due to troublesome dry cough. The ophthalmologist ordered several blood examinations and a chest x-ray. Blood examinations revealed raised angiotensin-converting enzyme levels and chest x-ray showed bilateral hilar lymphadenopathy.<br /><br />Which one of the following is the cause of uveitis in this woman?",
+        "correct_answer": "4",
+        "question_notes": "Uveitis is the most common ophthalmological manifestation of sarcoidosis. Bilateral recurrent uveitis with a history of pulmonary disease should direct us to rule out sarcoidosis. The first two options are not correct as they do not involve a dry cough. Rheumatoid arthritis affects the small joints of hands, feet, and wrists. Ankylosing spondylitis mostly involves the spine with the common complaint of back pain and stiffness which are not mentioned in this question. Tuberculosis and pneumonia are almost always accompanied by a high-grade fever which again isn't mentioned in this scenario.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Anterior uveitis",
+        "body": "Anterior uveitis is one of the important differentials of a red eye. It is also referred to as iritis. Anterior uveitis describes inflammation of the anterior portion of the uvea - <span class=\"concept\" data-cid=\"9550\">iris and ciliary body</span>. It is associated with <span class=\"concept\" data-cid=\"4071\">HLA-B27</span> and may be seen in association with other HLA-B27 linked conditions (see below).<br /><br /><span class=\"concept\" data-cid=\"3293\">Features</span><br /><ul><li>acute onset</li><li>ocular discomfort & pain (may increase with use)</li><li>pupil may be small +/- irregular due to sphincter muscle contraction</li><li>photophobia (often intense)</li><li>blurred vision</li><li><span class=\"concept\" data-cid=\"3944\">red eye</span></li><li>lacrimation</li><li>ciliary flush: a ring of red spreading outwards</li><li>hypopyon; describes pus and inflammatory cells in the anterior chamber, often resulting in a visible fluid level</li><li>visual acuity initially normal &rarr; impaired</li></ul><br />Associated conditions<br /><ul><li><span class=\"concept\" data-cid=\"4360\">ankylosing spondylitis</span></li><li><span class=\"concept\" data-cid=\"4072\">reactive arthritis</span></li><li>ulcerative colitis, Crohn's disease</li><li>Behcet's disease</li><li><span class=\"concept\" data-cid=\"4539\">sarcoidosis</span>: bilateral disease may be seen</li></ul><br /><span class=\"concept\" data-cid=\"9593\">Management</span><br /><ul><li><span class=\"concept\" data-cid=\"4825\">urgent review by ophthalmology</span></li><li>cycloplegics (dilates the pupil which helps to relieve pain and photophobia) e.g. Atropine, cyclopentolate</li><li>steroid eye drops</li></ul>",
+        "notes_hash": "98f8d6a7e92be8476af2f3991d58ac59",
+        "knowledge_graph_node_id_link": 1131,
+        "concept": "Bilateral anterior uveitis in young adults could be an early manifestation of sarcoidosis",
+        "concept_percentile": "84",
+        "concept_colour": "rgb(81,255,0)",
+        "number_attempts": "4309",
+        "up_votes": "28",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "83",
+            "354",
+            "15",
+            "3772",
+            "85",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3293": {
+                "concept_text": "Anterior uveitis presents with acutely painful red eye, photophobia, small pupil, reduced visual acuity. It is often associated with pus in the anterior chamber (a hypopyon)",
+                "concept_percentile": "70"
+            },
+            "3944": {
+                "concept_text": "Anterior uveitis is an important differential of a red eye",
+                "concept_percentile": "48"
+            },
+            "4071": {
+                "concept_text": "Anterior uveitis is commonly seen in conditions of HLA-B27",
+                "concept_percentile": "40"
+            },
+            "4072": {
+                "concept_text": "In reactive arthritis, you should suspect anterior uveitis besides conjunctivitis",
+                "concept_percentile": "78"
+            },
+            "4360": {
+                "concept_text": "Anterior uveitis is associated with ankylosing spondylitis",
+                "concept_percentile": "63"
+            },
+            "4539": {
+                "concept_text": "Bilateral anterior uveitis in young adults could be an early manifestation of sarcoidosis",
+                "concept_percentile": "84"
+            },
+            "4825": {
+                "concept_text": "The most appropriate treatment of a patient with signs and symptoms consistent with anterior uveitis is urgent, same day referral for assessment by an opthalmologist",
+                "concept_percentile": "99"
+            },
+            "9593": {
+                "concept_text": "Anterior uveitis is most likely to be treated with a steroid + cycloplegic (mydriatic) drops",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

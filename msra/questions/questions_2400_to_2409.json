@@ -1,0 +1,912 @@
+[
+    {
+        "question_id": "1_B_1953",
+        "new_question_id": "7263",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_245",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Digoxin",
+            "Furosemide",
+            "Glyceryl trinitrate (GTN)",
+            "Ramipril",
+            "Bumetanide",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 73 year old woman presents to the Emergency Department with progressive shortness of breath.  On examination the patient has an S3 gallop rhythm, bibasal crepitations and pitting oedema up to both knees.  An ECG shows signs of left ventricular hypertrophy and a chest X-ray shows small bilateral pleural effusions, cardiomegaly and upper lobe diversion.<br /><br />Given the likely diagnosis, which of the following drugs has been shown to improve long-term survival?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has features of congestive heart failure.  While loop diuretics (furosemide, bumetanide) and nitrates are important in the management of acute or decompensated cardiac failure, they have no effect on long-term survival.  <br /><br />The following drugs have all been shown to reduce mortality in patients with left ventricular failure:<br /><ul><li>ACE-inhibitors</li><li>Beta-blockers</li><li>Angiotensin receptor blockers</li><li>Aldosterone antagonists</li><li>Hydralazine and nitrates</li></ul><br />Digoxin has been shown to reduce hospital admissions but not mortality.  It is generally used in patients with worsening heart failure despite first or second line treatments, or in patients with co-existant atrial fibrillation<br /><br />References:<br />https://www.nice.org.uk/guidance/cg108<br />The Digitalis Investigation Group. The Effect of Digoxin on Mortality and Morbidity in Patients with Heart Failure. N Engl J Med. 1997;336:525-533",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 73 year old woman presents to the Emergency Department with progressive shortness of breath.  On examination the patient has an S3 gallop rhythm, bibasal crepitations and pitting oedema up to both knees.  An ECG shows signs of left ventricular hypertrophy and a chest X-ray shows small bilateral pleural effusions, cardiomegaly and upper lobe diversion.<br /><br />Given the likely diagnosis, which of the following drugs has been shown to improve long-term survival?",
+        "correct_answer": "4",
+        "question_notes": "This patient has features of congestive heart failure.  While loop diuretics (furosemide, bumetanide) and nitrates are important in the management of acute or decompensated cardiac failure, they have no effect on long-term survival.  <br /><br />The following drugs have all been shown to reduce mortality in patients with left ventricular failure:<br /><ul><li>ACE-inhibitors</li><li>Beta-blockers</li><li>Angiotensin receptor blockers</li><li>Aldosterone antagonists</li><li>Hydralazine and nitrates</li></ul><br />Digoxin has been shown to reduce hospital admissions but not mortality.  It is generally used in patients with worsening heart failure despite first or second line treatments, or in patients with co-existant atrial fibrillation<br /><br />References:<br />https://www.nice.org.uk/guidance/cg108<br />The Digitalis Investigation Group. The Effect of Digoxin on Mortality and Morbidity in Patients with Heart Failure. N Engl J Med. 1997;336:525-533",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Chronic heart failure: drug management",
+        "body": "NICE issued updated guidelines on management in 2018, key points are summarised here.<br /><br />Whilst loop diuretics play an important role in managing fluid overload it should be remembered that no long-term reduction in mortality has been demonstrated for <span class=\"concept\" data-cid=\"4533\">loop diuretics</span> such as furosemide.<br /><br /><h5 class='notes-heading'>First-line therapy</h5><br />The first-line treatment for all patients is both an <span class=\"concept\" data-cid=\"1608\"><b>ACE-inhibitor</b> and a <b>beta-blocker</b></span><br /><ul><li>generally, <span class=\"concept\" data-cid=\"8883\">one drug should be started at a time</span>. NICE advise that clinical judgement is used when determining which one to start first</li><li>beta-blockers licensed to treat heart failure in the UK include <span class=\"concept\" data-cid=\"9704\">bisoprolol, carvedilol, and nebivolol</span>.</li><li>ACE-inhibitors and beta-blockers have no effect on mortality in heart failure with <span class=\"concept\" data-cid=\"8881\"><i>preserved</i></span> ejection fraction </li></ul><br /><h5 class='notes-heading'>Second-line therapy</h5><br />The standard second-line treatment is an <span class=\"concept\" data-cid=\"9528\"><b>aldosterone antagonist</b></span><br /><ul><li>these are sometimes referred to as mineralocorticoid receptor antagonists. Examples include spironolactone and eplerenone</li><li>it should be remembered that both ACE inhibitors (which the patient is likely to already be on) and aldosterone antagonists both cause hyperkalaemia - therefore potassium should be monitored </li></ul><br />There is an increasing role for <span class=\"concept\" data-cid=\"11988\"><b>SGLT-2 inhibitors</b></span> in the management of heart failure with a reduced ejection fraction<br /><ul><li>these drugs reduce glucose reabsorption and increase urinary glucose excretion</li><li>examples include canagliflozin, dapagliflozin and empagliflozin</li><li>the evidence base shows  SGLT-2 inhibitors reduced hospitalisation secondary to heart failure and cardiovascular death</li><li>international guidelines widely recommend their usage. In terms of NICE, a technology appraisal from 2021 support the use of dapagliflozin as an add-on to optimised standard care</li></ul><br /><h5 class='notes-heading'>Third-line therapy</h5><br />Third-line treatment should be initiated by a specialist. Options include ivabradine, sacubitril-valsartan, hydralazine in combination with nitrate, digoxin and cardiac resynchronisation therapy<br /><ul><li>ivabradine<ul><li>criteria: <span class=\"concept\" data-cid=\"10964\">sinus rhythm > 75/min and a left ventricular fraction < 35%</span></li></ul></li><li><span class=\"concept\" data-cid=\"2407\">sacubitril-valsartan</span><ul><li>criteria: left ventricular fraction < 35%</li><li>is considered in heart failure with reduced ejection fraction who are symptomatic on ACE inhibitors or ARBs</li><li><span class=\"concept\" data-cid=\"9700\">should be initiated following ACEi or ARB wash-out period</span></li></ul></li><li>digoxin<ul><li>digoxin has also not been proven to reduce mortality in patients with heart failure. It may however improve symptoms due to its inotropic properties</li><li>it is strongly indicated if there is coexistent <span class=\"concept\" data-cid=\"2862\">atrial fibrillation</span></li></ul></li><li>hydralazine in combination with nitrate<ul><li>this may be particularly indicated in <span class=\"concept\" data-cid=\"3665\">Afro-Caribbean patients</span></li></ul></li><li>cardiac resynchronisation therapy<ul><li>indications include a <span class=\"concept\" data-cid=\"10963\">widened QRS (e.g. left bundle branch block) complex on ECG</span></li></ul></li></ul><br />Other treatments<br /><ul><li>offer <span class=\"concept\" data-cid=\"9705\"><b>annual influenza vaccine</b></span></li><li>offer one-off <b>pneumococcal vaccine</b><ul><li>adults usually require just one dose but those with asplenia, splenic dysfunction or chronic kidney disease need a booster every 5 years</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd975b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd975.png\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "ef7b09917f0a69047baab0b3496da189",
+        "knowledge_graph_node_id_link": 1072,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "8023",
+        "up_votes": "36",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "704",
+            "1123",
+            "77",
+            "5775",
+            "344",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_265\" data-linkid=\"265\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_265\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_265\" data-linkid=\"265\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_265\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ta267/chapter/1-Guidance\">2012 Guidance on ivabradine</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1065\" data-linkid=\"1065\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1065\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_1065\" data-linkid=\"1065\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1065\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng106/chapter/Recommendations\">2018 Chronic heart failure guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q2t9sFITAIY\" data-description=\"Chronic Heart Failure: Visual Explanation for Students\" data-upvotes=\"23\" data-downvotes=\"0\" data-media=\"775\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/q2t9sFITAIY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q2t9sFITAIY\" data-description=\"Chronic Heart Failure: Visual Explanation for Students\" data-upvotes=\"23\" data-downvotes=\"0\" data-media=\"775\">Chronic Heart Failure: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1347\" data-mediaid=\"1347\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1347\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"media_dislike_1347\" data-mediaid=\"1347\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1347\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ifxS8JMJR6k\" data-description=\"Heart failure\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"914\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ifxS8JMJR6k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ifxS8JMJR6k\" data-description=\"Heart failure\" data-upvotes=\"4\" data-downvotes=\"3\" data-media=\"914\">Heart failure</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1586\" data-mediaid=\"1586\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1586\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1586\" data-mediaid=\"1586\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1586\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ItKGeEbzAis\" data-description=\"Heart failure with reduced and preserved ejection fraction\" data-upvotes=\"6\" data-downvotes=\"6\" data-media=\"1467\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ItKGeEbzAis/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ItKGeEbzAis\" data-description=\"Heart failure with reduced and preserved ejection fraction\" data-upvotes=\"6\" data-downvotes=\"6\" data-media=\"1467\">Heart failure with reduced and preserved ejection fraction</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2582\" data-mediaid=\"2582\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2582\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2582\" data-mediaid=\"2582\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2582\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "1608": {
+                "concept_text": "Patients with heart failure with reduced LVEF should be given a beta blocker and an ACE inhibitor as first-line treatment",
+                "concept_percentile": "78"
+            },
+            "2862": {
+                "concept_text": "Digoxin is strongly indicated if there is co-existent atrial fibrillation with chronic heart failure",
+                "concept_percentile": "89"
+            },
+            "9528": {
+                "concept_text": "Offer a mineralcorticoid receptor antagonist, in addition to an ACE inhibitor (or ARB) and beta-blocker, to people who have heart failure with reduced ejection fraction if they continue to have symptoms of heart failure",
+                "concept_percentile": "86"
+            },
+            "11988": {
+                "concept_text": "SGLT-2 inhibitors should be considered as second-line therapy in patients with HFrEF in addition to optimised standard care",
+                "concept_percentile": "60"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9473",
+        "new_question_id": "6095",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1990",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Clopidogrel",
+            "Bendroflumethiazide",
+            "Atenolol",
+            "Simvastatin",
+            "Isosorbide mononitrate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old man who has type 1 diabetes mellitus complains of reduced hypoglycaemic awareness. This has been a problem since he was discharged from hospital a few weeks ago. During his admission a number of new medications were started. Which one of the following is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is <b>Atenolol</b>. Atenolol is a beta-blocker, which can mask the symptoms of hypoglycaemia, such as tachycardia and tremors, by blocking the effects of adrenaline. This can lead to reduced hypoglycaemic awareness in patients with diabetes mellitus. Additionally, beta-blockers may impair glucose metabolism and delay recovery from hypoglycaemia.<br /><br />Now let's discuss the other options:<br /><br /><b>Clopidogrel</b> is an antiplatelet agent that helps prevent blood clots. It has no direct effect on blood glucose levels or hypoglycaemic awareness. It is typically prescribed for patients with a history of myocardial infarction or stroke to reduce the risk of future thrombotic events.<br /><br /><b>Bendroflumethiazide</b> is a thiazide diuretic used primarily for treating hypertension. While it can cause changes in glucose tolerance and potentially worsen glycaemic control, it does not directly affect hypoglycaemic awareness.<br /><br /><b>Simvastatin</b> belongs to the class of statins, which are used to lower cholesterol levels and reduce cardiovascular risk. Statins have no significant impact on blood glucose levels or hypoglycaemic awareness in diabetic patients.<br /><br />Finally, <b>Isosorbide mononitrate</b> is a long-acting nitrate used for managing angina pectoris. It works by relaxing blood vessels and increasing oxygen supply to the heart muscle. Isosorbide mononitrate does not influence blood glucose levels or hypoglycaemic awareness.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old man who has type 1 diabetes mellitus complains of reduced hypoglycaemic awareness. This has been a problem since he was discharged from hospital a few weeks ago. During his admission a number of new medications were started. Which one of the following is most likely to be responsible?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer in this case is <b>Atenolol</b>. Atenolol is a beta-blocker, which can mask the symptoms of hypoglycaemia, such as tachycardia and tremors, by blocking the effects of adrenaline. This can lead to reduced hypoglycaemic awareness in patients with diabetes mellitus. Additionally, beta-blockers may impair glucose metabolism and delay recovery from hypoglycaemia.<br /><br />Now let's discuss the other options:<br /><br /><b>Clopidogrel</b> is an antiplatelet agent that helps prevent blood clots. It has no direct effect on blood glucose levels or hypoglycaemic awareness. It is typically prescribed for patients with a history of myocardial infarction or stroke to reduce the risk of future thrombotic events.<br /><br /><b>Bendroflumethiazide</b> is a thiazide diuretic used primarily for treating hypertension. While it can cause changes in glucose tolerance and potentially worsen glycaemic control, it does not directly affect hypoglycaemic awareness.<br /><br /><b>Simvastatin</b> belongs to the class of statins, which are used to lower cholesterol levels and reduce cardiovascular risk. Statins have no significant impact on blood glucose levels or hypoglycaemic awareness in diabetic patients.<br /><br />Finally, <b>Isosorbide mononitrate</b> is a long-acting nitrate used for managing angina pectoris. It works by relaxing blood vessels and increasing oxygen supply to the heart muscle. Isosorbide mononitrate does not influence blood glucose levels or hypoglycaemic awareness.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Insulin therapy: side-effects",
+        "body": "Hypoglycaemia<br /><ul><li>patients should be taught the signs of hypoglycaemia: sweating, anxiety, blurred vision, confusion, aggression</li><li>conscious patients should take 10-20g of a short-acting carbohydrate (e.g. a glass of Lucozade or non-diet drink, three or more glucose tablets, glucose gel)</li><li><span class=\"concept\" data-cid=\"3822\">every person treated with insulin should have a glucagon kit</span> for emergencies where the patient is not able to orally ingest a short-acting carbohydrate</li><li>patients who have frequent hypoglycaemic episodes may develop reduced awareness. If this develops then allowing glycaemic control to slip for a period of time may restore their awareness</li><li>beta-blockers reduce hypoglycaemic awareness</li></ul><br /><span class=\"concept\" data-cid=\"9348\">Lipodystrophy</span><br /><ul><li>typically presents as <span class=\"concept\" data-cid=\"9721\">atrophy/lumps of subcutaneous fat</span></li><li>can be prevented by rotating the injection site</li><li>may cause erractic insulin absorption</li></ul>",
+        "notes_hash": "2851bf1b8145ee88c1836dfd67d71f46",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5148",
+        "up_votes": "56",
+        "down_votes": "33",
+        "column_array": [
+            0,
+            "91",
+            "2277",
+            "1992",
+            "333",
+            "455",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2072",
+        "new_question_id": "61148",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "12084",
+        "notes_id_link": "1_2773",
+        "theme": "First-line management of mild Alzheimer's disease",
+        "instruction": "",
+        "options": [
+            "",
+            "Commence donepezil",
+            "Commence memantine",
+            "Commence sertraline",
+            "Refer for group cognitive stimulation therapy",
+            "Commence risperidone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old woman is diagnosed with mild Alzheimer's disease following a 12-month history of progressive memory loss. Her Addenbrooke's Cognitive Examination (ACE-III) score is 78/100 and brain imaging has excluded other pathologies. She has no significant comorbidities.<br /><br />Select the single most appropriate management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Commence donepezil</b> is the correct answer. This patient has a diagnosis of mild Alzheimer's disease, confirmed by her clinical history, cognitive scoring (ACE-III 78/100 is consistent with mild dementia), and imaging that has excluded other causes. According to UK NICE guidelines (NG97), acetylcholinesterase (AChE) inhibitors are the first-line pharmacological treatment for managing symptoms of mild-to-moderate Alzheimer's disease. Donepezil is one of the three recommended AChE inhibitors, alongside galantamine and rivastigmine. These drugs work by increasing the levels of acetylcholine, a neurotransmitter involved in memory and learning, in the brain. While they do not cure the disease or halt its progression, they can temporarily improve cognitive symptoms and activities of daily living for some patients. Given the diagnosis and stage of her disease, initiating an AChE inhibitor is the most appropriate next step in her management plan.<br /><br /><b>Commence memantine</b> is incorrect. Memantine is an NMDA receptor antagonist. While it is used in the management of Alzheimer's disease, its use is specifically recommended by NICE for patients with moderate disease who are intolerant of AChE inhibitors, or as an add-on therapy to an AChE inhibitor in moderate or severe disease. It can also be used as monotherapy in severe Alzheimer's disease. As this patient has mild disease, memantine is not the appropriate first-line agent.<br /><br /><b>Commence sertraline</b> is incorrect. Sertraline is a selective serotonin reuptake inhibitor (SSRI) used to treat depression. While depression can coexist with dementia and may present with cognitive symptoms (pseudodementia), the scenario describes a progressive cognitive decline characteristic of Alzheimer's, not primarily mood symptoms. NICE guidance specifically advises against using antidepressants for mild depression in people with dementia. There is no indication of depression in this vignette, making sertraline an inappropriate choice for managing her primary symptoms.<br /><br /><b>Refer for group cognitive stimulation therapy</b> is an important part of dementia management but is not the single most appropriate option in this context. NICE recommends that all patients with mild-to-moderate dementia are offered group cognitive stimulation therapy. This is a key non-pharmacological intervention. However, it should be offered alongside, not instead of, appropriate pharmacological treatment. Given the confirmed diagnosis of mild Alzheimer's, initiating an AChE inhibitor is a crucial step that directly targets the neurochemical deficit and should not be delayed. Therefore, commencing donepezil is the most appropriate initial management step.<br /><br /><b>Commence risperidone</b> is incorrect. Risperidone is an atypical antipsychotic. The use of antipsychotics in patients with dementia is strictly limited due to the significant increased risk of stroke and mortality. Their use is reserved for managing severe non-cognitive symptoms, such as psychosis or agitation, that are causing severe distress or pose a risk of harm to the patient or others, and only after other non-pharmacological strategies have failed. This patient's presentation is purely of cognitive decline, with no mention of such behavioural disturbances, making risperidone inappropriate and potentially harmful.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old woman is diagnosed with mild Alzheimer's disease following a 12-month history of progressive memory loss. Her Addenbrooke's Cognitive Examination (ACE-III) score is 78/100 and brain imaging has excluded other pathologies. She has no significant comorbidities.<br /><br />Select the single most appropriate management from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Commence donepezil</b> is the correct answer. This patient has a diagnosis of mild Alzheimer's disease, confirmed by her clinical history, cognitive scoring (ACE-III 78/100 is consistent with mild dementia), and imaging that has excluded other causes. According to UK NICE guidelines (NG97), acetylcholinesterase (AChE) inhibitors are the first-line pharmacological treatment for managing symptoms of mild-to-moderate Alzheimer's disease. Donepezil is one of the three recommended AChE inhibitors, alongside galantamine and rivastigmine. These drugs work by increasing the levels of acetylcholine, a neurotransmitter involved in memory and learning, in the brain. While they do not cure the disease or halt its progression, they can temporarily improve cognitive symptoms and activities of daily living for some patients. Given the diagnosis and stage of her disease, initiating an AChE inhibitor is the most appropriate next step in her management plan.<br /><br /><b>Commence memantine</b> is incorrect. Memantine is an NMDA receptor antagonist. While it is used in the management of Alzheimer's disease, its use is specifically recommended by NICE for patients with moderate disease who are intolerant of AChE inhibitors, or as an add-on therapy to an AChE inhibitor in moderate or severe disease. It can also be used as monotherapy in severe Alzheimer's disease. As this patient has mild disease, memantine is not the appropriate first-line agent.<br /><br /><b>Commence sertraline</b> is incorrect. Sertraline is a selective serotonin reuptake inhibitor (SSRI) used to treat depression. While depression can coexist with dementia and may present with cognitive symptoms (pseudodementia), the scenario describes a progressive cognitive decline characteristic of Alzheimer's, not primarily mood symptoms. NICE guidance specifically advises against using antidepressants for mild depression in people with dementia. There is no indication of depression in this vignette, making sertraline an inappropriate choice for managing her primary symptoms.<br /><br /><b>Refer for group cognitive stimulation therapy</b> is an important part of dementia management but is not the single most appropriate option in this context. NICE recommends that all patients with mild-to-moderate dementia are offered group cognitive stimulation therapy. This is a key non-pharmacological intervention. However, it should be offered alongside, not instead of, appropriate pharmacological treatment. Given the confirmed diagnosis of mild Alzheimer's, initiating an AChE inhibitor is a crucial step that directly targets the neurochemical deficit and should not be delayed. Therefore, commencing donepezil is the most appropriate initial management step.<br /><br /><b>Commence risperidone</b> is incorrect. Risperidone is an atypical antipsychotic. The use of antipsychotics in patients with dementia is strictly limited due to the significant increased risk of stroke and mortality. Their use is reserved for managing severe non-cognitive symptoms, such as psychosis or agitation, that are causing severe distress or pose a risk of harm to the patient or others, and only after other non-pharmacological strategies have failed. This patient's presentation is purely of cognitive decline, with no mention of such behavioural disturbances, making risperidone inappropriate and potentially harmful.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Alzheimer's disease: management",
+        "body": "Alzheimer's disease is a progressive degenerative disease of the brain accounting for the majority of dementia seen in the UK<br /><br />Non-pharmacological management<br /><ul><li>NICE recommend <i>offering</i> 'a range of activities to promote wellbeing that are tailored to the person's preference'</li><li>NICE recommend <i>offering</i> group cognitive stimulation therapy for patients with mild and moderate dementia</li><li>other options to <i>consider</i> include group reminiscence therapy and cognitive rehabilitation</li></ul><br />Pharmacological management<br /><ul><li>NICE updated it's dementia guidelines in 2018</li><li>the three <span class=\"concept\" data-cid=\"12084\">acetylcholinesterase inhibitors</span> (<span class=\"concept\" data-cid=\"8520\">donepezil</span>, <span class=\"concept\" data-cid=\"8521\">galantamine</span> and <span class=\"concept\" data-cid=\"8522\">rivastigmine</span>) as options for managing mild to moderate Alzheimer's disease</li><li><span class=\"concept\" data-cid=\"8523\">memantine</span> (an NMDA receptor antagonist) is in simple terms the '<span class=\"concept\" data-cid=\"5360\">second-line</span>' treatment for Alzheimer's, NICE recommend it is used in the following situation reserved for patients with <ul><li>moderate Alzheimer's who are intolerant of, or have a contraindication to, acetylcholinesterase inhibitors</li><li>as an add-on drug to acetylcholinesterase inhibitors for patients with moderate or severe Alzheimer's</li><li>monotherapy in severe Alzheimer's</li></ul></li></ul><br />Managing non-cognitive symptoms<br /><ul><li>NICE does not recommend antidepressants for mild to moderate depression in patients with dementia</li><li><span class=\"concept\" data-cid=\"5364\">antipsychotics</span> should only be used for patients at risk of harming themselves or others, or when the agitation, hallucinations or delusions are causing them severe distress</li></ul><br />Donepezil<br /><ul><li><span class=\"concept\" data-cid=\"2601\">is relatively contraindicated in patients with bradycardia</span></li><li>adverse effects include <span class=\"concept\" data-cid=\"2631\">insomnia</span></li></ul>",
+        "notes_hash": "c408955e8041edfbc2de461a76e74b11",
+        "knowledge_graph_node_id_link": 1085,
+        "concept": "Acetylcholinesterase inhibitors (donepezil, galantamine or rivastigmine) are first-line for mild-moderate Alzheimer's disease",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "691",
+        "up_votes": "0",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "375",
+            "205",
+            "4",
+            "99",
+            "8",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1348\" data-linkid=\"1348\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1348\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_1348\" data-linkid=\"1348\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1348\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng97/chapter/Recommendations\">2018 Dementia guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>Alzheimer's Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1349\" data-linkid=\"1349\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1349\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1349\" data-linkid=\"1349\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1349\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.wamhinpc.org.uk/sites/default/files/dementia-practical-toolkit-for-clinicians.pdf\">Helping you to assess cognition -  A practical toolkit for clinicians</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gKZhp2JNYyI\" data-description=\"Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1366\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gKZhp2JNYyI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gKZhp2JNYyI\" data-description=\"Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1366\">Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2403\" data-mediaid=\"2403\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2403\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2403\" data-mediaid=\"2403\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2403\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/euzRPrvrwj0\" data-description=\"Pharmacology - DRUGS FOR ALZHEIMER'S DISEASE\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"1068\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/euzRPrvrwj0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/euzRPrvrwj0\" data-description=\"Pharmacology - DRUGS FOR ALZHEIMER'S DISEASE\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"1068\">Pharmacology - DRUGS FOR ALZHEIMER'S DISEASE</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1862\" data-mediaid=\"1862\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1862\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1862\" data-mediaid=\"1862\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1862\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2601": {
+                "concept_text": "Donepezil is generally avoided (relative contraindication) in patients with bradycardia and is used with caution in other cardiac abnormalities",
+                "concept_percentile": "51"
+            },
+            "8523": {
+                "concept_text": "Memantine - NMDA receptor antagonist",
+                "concept_percentile": "51"
+            },
+            "12084": {
+                "concept_text": "Acetylcholinesterase inhibitors (donepezil, galantamine or rivastigmine) are first-line for mild-moderate Alzheimer's disease",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1325",
+        "new_question_id": "57299",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "12326",
+        "notes_id_link": "1_1568",
+        "theme": "Woman with urgency incontinence and myasthenia gravis; next management step",
+        "instruction": "",
+        "options": [
+            "",
+            "Botulinum toxin injections",
+            "Oral anticholinergic medication",
+            "Sacral nerve stimulation",
+            "Clean intermittent self-catheterisation",
+            "Pelvic floor physiotherapy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 56-year-old woman presents to the urology clinic with a history of urgency incontinence that has not improved despite bladder retraining exercises. She also has a diagnosis of myasthenia gravis, for which she is on pyridostigmine. Her physical examination is unremarkable, and her urinalysis shows no signs of infection. Given her condition and current treatment, what is the next most appropriate management option?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Botulinum toxin injections</b> are the correct choice in this scenario. Botulinum toxin is effective in treating urgency incontinence by relaxing the bladder muscle, thus reducing involuntary contractions. This approach is particularly useful when anticholinergics are contraindicated or have failed, as in this patient with myasthenia gravis where anticholinergic drugs can exacerbate muscle weakness.<br /><br /><b>Oral anticholinergic medication</b>, such as oxybutynin or tolterodine, would typically be considered for urgency incontinence but are contraindicated in patients with myasthenia gravis due to their potential to worsen neuromuscular symptoms.<br /><br /><b>Sacral nerve stimulation</b> is another option for managing refractory overactive bladder symptoms; however, it is generally considered after less invasive treatments have been tried and failed. It involves surgical implantation and may not be immediately appropriate given other non-surgical options available.<br /><br /><b>Clean intermittent self-catheterisation</b> is primarily indicated for patients who cannot empty their bladders effectively rather than those with urgency incontinence without urinary retention issues.<br /><br /><b>Pelvic floor physiotherapy</b>, including pelvic floor muscle training (PFMT), might benefit some patients with urinary incontinence but has already been attempted through bladder retraining exercises without success. Therefore, it's unlikely to provide additional benefit compared to botulinum toxin injections.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 56-year-old woman presents to the urology clinic with a history of urgency incontinence that has not improved despite bladder retraining exercises. She also has a diagnosis of myasthenia gravis, for which she is on pyridostigmine. Her physical examination is unremarkable, and her urinalysis shows no signs of infection. Given her condition and current treatment, what is the next most appropriate management option?",
+        "correct_answer": "1",
+        "question_notes": "<b>Botulinum toxin injections</b> are the correct choice in this scenario. Botulinum toxin is effective in treating urgency incontinence by relaxing the bladder muscle, thus reducing involuntary contractions. This approach is particularly useful when anticholinergics are contraindicated or have failed, as in this patient with myasthenia gravis where anticholinergic drugs can exacerbate muscle weakness.<br /><br /><b>Oral anticholinergic medication</b>, such as oxybutynin or tolterodine, would typically be considered for urgency incontinence but are contraindicated in patients with myasthenia gravis due to their potential to worsen neuromuscular symptoms.<br /><br /><b>Sacral nerve stimulation</b> is another option for managing refractory overactive bladder symptoms; however, it is generally considered after less invasive treatments have been tried and failed. It involves surgical implantation and may not be immediately appropriate given other non-surgical options available.<br /><br /><b>Clean intermittent self-catheterisation</b> is primarily indicated for patients who cannot empty their bladders effectively rather than those with urgency incontinence without urinary retention issues.<br /><br /><b>Pelvic floor physiotherapy</b>, including pelvic floor muscle training (PFMT), might benefit some patients with urinary incontinence but has already been attempted through bladder retraining exercises without success. Therefore, it's unlikely to provide additional benefit compared to botulinum toxin injections.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Urinary incontinence",
+        "body": "Urinary incontinence (UI) is a common problem, affecting around 4-5% of the population. It is more common in elderly females. <br /><br />Risk factors<br /><ul><li>advancing age</li><li>previous pregnancy and childbirth</li><li>high body mass index</li><li>hysterectomy</li><li>family history</li></ul><br />Classification<br /><ul><li><span class=\"concept\" data-cid=\"11615\">overactive bladder (OAB)/urge incontinence</span><ul><li>due to detrusor overactivity</li><li>the urge to urinate is quickly followed by uncontrollable leakage ranging from a few drops to complete bladder emptying</li></ul></li><li>stress incontinence: leaking small amounts when <span class=\"concept\" data-cid=\"4783\">coughing or laughing</span></li><li>mixed incontinence: both urge and stress</li><li>overflow incontinence: due to <span class=\"concept\" data-cid=\"4782\">bladder outlet obstruction</span>, e.g. due to prostate enlargement</li><li><span class=\"concept\" data-cid=\"11553\">functional incontinence</span><ul><li>comorbid physical conditions impair the patient's ability to get to a bathroom in time</li><li>causes include dementia, sedating medication and injury/illness resulting in decreased ambulation</li></ul></li></ul><br />Initial investigation<br /><ul><li>bladder diaries should be completed for a minimum of 3 days</li><li>vaginal examination to exclude pelvic organ prolapse and ability to initiate voluntary contraction of pelvic floor muscles ('Kegel' exercises)</li><li><span class=\"concept\" data-cid=\"2860\">urine dipstick and culture</span></li><li>urodynamic studies<ul><li><span class=\"concept\" data-cid=\"12421\">not routinely required before starting initial conservative treatment for urinary incontinence</span></li><li>may be considered if the diagnosis is uncertain,  mixed incontinence is suspected or surgical intervention is planned</li></ul></li></ul><br /><h6 class='notes-subheading'>Management depends on whether urge or stress UI is the predominant picture</h6> <br /><br />If urge incontinence is predominant:<br /><ul><li><span class=\"concept\" data-cid=\"342\">bladder retraining</span> (lasts for a minimum of 6 weeks, the idea is to gradually increase the intervals between voiding) </li><li><span class=\"concept\" data-cid=\"4664\">bladder stabilising drugs: antimuscarinics are first-line</span><ul><li>NICE recommend oxybutynin (immediate release), tolterodine (immediate release) or darifenacin (once daily preparation)</li><li><span class=\"concept\" data-cid=\"8320\"> avoid immediate-release oxybutynin in frail older women</span></li><li>solifenacin is an alternative antimuscarinic agent</li></ul></li><li>mirabegron (a <span class=\"concept\" data-cid=\"2295\">beta-3 agonist</span>) may be useful if there is concern about anticholinergic side-effects in <span class=\"concept\" data-cid=\"7869\">frail elderly patients</span></li><li>if <span class=\"concept\" data-cid=\"12317\">troublesome nocturia is a feature, desmopressin</span> may be considered</li><li>for women with overactive bladder that has not responded to non-surgical management:<ul><li>if urodynamic investigations determine that detrusor overactivity is causing her overactive bladder symptoms then consider <span class=\"concept\" data-cid=\"12326\">botulinum toxin type A bladder wall injection</span></li></ul></li></ul><br />If stress incontinence is predominant:<br /><ul><li>lifestyle measures, e.g. weight reduction, reducing caffeine intake</li><li><span class=\"concept\" data-cid=\"342\">pelvic floor muscle training</span><ul><li>NICE recommend at least 8 contractions performed 3 times per day for a minimum of 3 months</li></ul></li><li>surgical procedures include:<ul><li>mid-urethral tape procedures (still recommended by NICE but only after discussing risks and benefits)</li><li>intramural bulking agent injections</li><li>colposuspension</li></ul></li><li><span class=\"concept\" data-cid=\"11018\">duloxetine</span> may be offered to women if they decline surgical procedures<ul><li>a combined noradrenaline and serotonin reuptake inhibitor</li><li>mechanism of action: increased synaptic concentration of noradrenaline and serotonin within the pudendal nerve &rarr; increased stimulation of urethral striated muscles within the sphincter &rarr; enhanced contraction</li></ul></li></ul>",
+        "notes_hash": "6003d1ac7f9e8dcae13affdb7cd360c6",
+        "knowledge_graph_node_id_link": 10100,
+        "concept": "Botulinum toxin type A bladder wall injections may be considered for refactory overactive bladder symptoms",
+        "concept_percentile": "91",
+        "concept_colour": "rgb(45,255,0)",
+        "number_attempts": "5742",
+        "up_votes": "15",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "2315",
+            "2179",
+            "247",
+            "418",
+            "583",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_272\" data-linkid=\"272\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_272\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_272\" data-linkid=\"272\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_272\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">37</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng123/chapter/Recommendations\">2019 urinary incontinence guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "342": {
+                "concept_text": "Urinary incontinence - first-line treatment:\r\n   - urge incontinence: bladder retraining\r\n   - stress incontinence: pelvic floor muscle training",
+                "concept_percentile": "64"
+            },
+            "2860": {
+                "concept_text": "Urine dipstick test and culture should be done as part of the basic investigations for urinary incontinence",
+                "concept_percentile": "71"
+            },
+            "4664": {
+                "concept_text": "Patients with urge incontinence who have failed bladder retraining can trial bladder stabilising drugs (antimuscarinics) such as oxybutynin, tolterodine or darifenacin",
+                "concept_percentile": "85"
+            },
+            "4782": {
+                "concept_text": "Bladder still palpable after urination, think retention with urinary overflow ",
+                "concept_percentile": "85"
+            },
+            "4783": {
+                "concept_text": "Urinary incontinence when coughing is most likely to be due to stress incontinence",
+                "concept_percentile": "29"
+            },
+            "11018": {
+                "concept_text": "Duloxetine may be used in patients with stress incontinence who don't respond to pelvic floor muscle exercises and decline surgical intervention",
+                "concept_percentile": "83"
+            },
+            "12326": {
+                "concept_text": "Botulinum toxin type A bladder wall injections may be considered for refactory overactive bladder symptoms",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_167",
+        "new_question_id": "30515",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "10496",
+        "notes_id_link": "1_1890",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amlodipine",
+            "Bendroflumethiazide",
+            "Indapamide",
+            "Enalapril",
+            "Verapamil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 49-year-old male presents to his general practitioner because he has noticed an increase in his blood pressure. He routinely measures it as he is known to have bilateral renal artery stenosis. The doctor measures his blood pressure in the clinic, the result is 160/101 mmHg. He is otherwise feeling well in himself, and he is not taking any drugs routinely. <br /><br />Which one of the following antihypertensive drugs is contraindicated for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is enalapril. Enalapril is an ACE-inhibitor drug, that acts by stopping the version between angiotensin I to angiotensin II. The initiation of an ACE inhibitor in a patient with bilateral renal artery stenosis causes the creatinine to increase dramatically as a result of angiotensin II constricting the efferent arteriole, subsequently leading to dilatation of the efferent arteriole and reduced filtration. Counterintuitively, sometimes ACE inhibitors can be used to treat hypertension due to renal artery stenosis, but they need to be closely monitored as this could precipitate severe renal impairment. <br /><br />Amlodipine is a calcium channel blocker used to treat hypertension. It is appropriate to prescribe for this patient as it has no contraindications for renovascular disease. <br /><br />Bendroflumethiazide is a thiazides diuretic. It works by acting on the nephron mainly at the proximal part of the distal tubule. Sodium excretion and urine volume are increased by interference with transfer across cell membranes, reducing blood volume.<br /><br />Indapamide is a thiazade-like diuretic. It can be used in this type of patient, even if usually it is not the first-line management. <br /><br />Verapamil is a calcium channel blocker. It can be used in patients with renovascular disease. It should not be given with beta-blockers as may cause heart block.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 49-year-old male presents to his general practitioner because he has noticed an increase in his blood pressure. He routinely measures it as he is known to have bilateral renal artery stenosis. The doctor measures his blood pressure in the clinic, the result is 160/101 mmHg. He is otherwise feeling well in himself, and he is not taking any drugs routinely. <br /><br />Which one of the following antihypertensive drugs is contraindicated for this patient?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is enalapril. Enalapril is an ACE-inhibitor drug, that acts by stopping the version between angiotensin I to angiotensin II. The initiation of an ACE inhibitor in a patient with bilateral renal artery stenosis causes the creatinine to increase dramatically as a result of angiotensin II constricting the efferent arteriole, subsequently leading to dilatation of the efferent arteriole and reduced filtration. Counterintuitively, sometimes ACE inhibitors can be used to treat hypertension due to renal artery stenosis, but they need to be closely monitored as this could precipitate severe renal impairment. <br /><br />Amlodipine is a calcium channel blocker used to treat hypertension. It is appropriate to prescribe for this patient as it has no contraindications for renovascular disease. <br /><br />Bendroflumethiazide is a thiazides diuretic. It works by acting on the nephron mainly at the proximal part of the distal tubule. Sodium excretion and urine volume are increased by interference with transfer across cell membranes, reducing blood volume.<br /><br />Indapamide is a thiazade-like diuretic. It can be used in this type of patient, even if usually it is not the first-line management. <br /><br />Verapamil is a calcium channel blocker. It can be used in patients with renovascular disease. It should not be given with beta-blockers as may cause heart block.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "ACE inhibitors",
+        "body": "Angiotensin-converting enzyme (ACE) inhibitors are now the established first-line treatment in younger patients with hypertension and are also extensively used to treat heart failure. They are known to be less effective in treating hypertensive Afro-Caribbean patients. ACE inhibitors are also used to treat diabetic nephropathy and have a role in the secondary prevention of ischaemic heart disease.<br /><br />Mechanism of action:<br /><ul><li>inhibits the conversion angiotensin I to angiotensin II<ul><li>&rarr; decrease in angiotensin II levels &rarr; to vasodilation and reduced blood pressure</li><li>&rarr; decrease in angiotensin II levels &rarr; reduced stimulation for aldosterone release &rarr; decrease in sodium and water retention by the kidneys</li></ul></li><li>renoprotective mechanism<ul><li>angiotensin II constricts the efferent glomerular arterioles </li><li>ACE inhibitors therefore lead to <span class=\"concept\" data-cid=\"12098\">dilation of the efferent arterioles</span> &rarr; reduced glomerular capillary pressure &rarr; decreased mechanical stress on the delicate filtration barriers of the glomeruli</li><li>this is particularly important in diabetic nephropathy</li></ul></li><li><span class=\"concept\" data-cid=\"5284\">ACE inhibitors are activated by phase 1 metabolism in the liver </span></li></ul><br />Side-effects:<br /><ul><li>cough<ul><li>occurs in around 15% of patients and may occur up to a year after starting treatment</li><li>thought to be due to <span class=\"concept\" data-cid=\"2034\">increased bradykinin levels</span></li></ul></li><li><span class=\"concept\" data-cid=\"2270\">angioedema</span>: may occur up to a year after starting treatment</li><li><span class=\"concept\" data-cid=\"5266\">hyperkalaemia</span></li><li>first-dose hypotension: more common in patients taking diuretics</li></ul><br />Cautions and contraindications<br /><ul><li><span class=\"concept\" data-cid=\"3346\">pregnancy</span> and breastfeeding - avoid</li><li><span class=\"concept\" data-cid=\"10496\">renovascular disease</span> - may result in renal impairment</li><li><span class=\"concept\" data-cid=\"3361\">aortic stenosis</span> - may result in hypotension</li><li>hereditary of idiopathic angioedema</li><li><span class=\"concept\" data-cid=\"10244\">specialist advice should be sought before starting ACE inhibitors in patients with a potassium >= 5.0 mmol/L</span></li></ul><br />Interactions<br /><ul><li>patients receiving high-dose diuretic therapy (more than 80 mg of furosemide a day)<ul><li>significantly increases the risk of hypotension</li></ul></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"3883\">urea and electrolytes should be checked before treatment is initiated and after increasing the dose</span><ul><li>a rise in the creatinine and potassium may be expected after starting ACE inhibitors</li><li><span class=\"concept\" data-cid=\"3884\">acceptable changes are an increase in serum creatinine, up to 30% from baseline</span> and an increase in potassium up to 5.5 mmol/l.</li><li>significant renal impairment may occur in patients who have undiagnosed <span class=\"concept\" data-cid=\"10906\">bilateral renal artery stenosis</span></li></ul></li></ul><br />Examples of common ACE inhibitors<br /><ul><li>ramipril</li><li>enalapril</li><li>lisinopril</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div>",
+        "notes_hash": "b9bc8382b304704c258a375c1f412b6c",
+        "knowledge_graph_node_id_link": 10620,
+        "concept": "ACE inhibitors - contraindicated in patients with renovascular disease",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "6108",
+        "up_votes": "32",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "376",
+            "636",
+            "191",
+            "4486",
+            "419",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_471\" data-linkid=\"471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">63</span><button type=\"button\" style=\"\" id=\"link_dislike_471\" data-linkid=\"471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">41</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg182/chapter/1-recommendations\">2014 Chronic kidney disease guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1747\" data-linkid=\"1747\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1747\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">62</span><button type=\"button\" style=\"\" id=\"link_dislike_1747\" data-linkid=\"1747\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1747\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug-class/angiotensin-converting-enzyme-inhibitors.html\">ACE inhibitors</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2270": {
+                "concept_text": "Drug-induced angioedema without urticaria is most frequently associated with angiotensin converting enzyme inhibitors or, less frequently, angiotensin II receptor blockers",
+                "concept_percentile": "91"
+            },
+            "3883": {
+                "concept_text": "Urea and electrolytes should be checked at baseline, within two weeks of initiation and after any change of dose. They should be rechecked at 1, 3, and 6 months after establishing maintenance dose",
+                "concept_percentile": "37"
+            },
+            "3884": {
+                "concept_text": "An increase in serum creatinine up to 30% from baseline is acceptable when initiating ACE inhibitor treatment",
+                "concept_percentile": "83"
+            },
+            "5266": {
+                "concept_text": "ACE inhibitor causes hyperkalaemia ",
+                "concept_percentile": "57"
+            },
+            "10496": {
+                "concept_text": "ACE inhibitors - contraindicated in patients with renovascular disease",
+                "concept_percentile": "77"
+            },
+            "10906": {
+                "concept_text": "After starting an ACE inhibitor, significant renal impairment may occur if the patient has undiagnosed bilateral renal artery stenosis",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2210",
+        "new_question_id": "2967",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11003",
+        "notes_id_link": "1_1486",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "The District Nurse phones the surgery when she is visiting a patient at home to do a dressing for a wound.  She wants to check the patient's medical records to see if the patient has been fully vaccinated against tetanus.  How many doses of tetanus vaccine generally confers life-long protection?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "Five doses of tetanus vaccine generally provides life-long protection.  However, patients with high-risk tetanus-prone wounds such as compound fractures or burns that have been contaminated with soil, or that have extensive dead tissue, should receive tetanus immunoglobulin.  Further details about this can be found the Green Book (see link below).  Giving a dose of tetanus vaccine at the time of an injury might not boost immunity quick enough to prevent tetanus developing.  <br /><br />Source: Green Book Chapter 30<br />https://www.gov.uk/government/uploads/system/uploads/attachment</td><td>data/file/148506/Green-Book-Chapter-30-dh</td><td>103982.pdf<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "The District Nurse phones the surgery when she is visiting a patient at home to do a dressing for a wound.  She wants to check the patient's medical records to see if the patient has been fully vaccinated against tetanus.  How many doses of tetanus vaccine generally confers life-long protection?",
+        "correct_answer": "5",
+        "question_notes": "Five doses of tetanus vaccine generally provides life-long protection.  However, patients with high-risk tetanus-prone wounds such as compound fractures or burns that have been contaminated with soil, or that have extensive dead tissue, should receive tetanus immunoglobulin.  Further details about this can be found the Green Book (see link below).  Giving a dose of tetanus vaccine at the time of an injury might not boost immunity quick enough to prevent tetanus developing.  <br /><br />Source: Green Book Chapter 30<br />https://www.gov.uk/government/uploads/system/uploads/attachment</td><td>data/file/148506/Green-Book-Chapter-30-dh</td><td>103982.pdf<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Tetanus: vaccination",
+        "body": "The tetanus vaccine is a cell-free purified toxin that is normally given as part of a combined vaccine.<br /><br />Tetanus vaccine is currently given in the UK as part of the routine immunisation schedule at:<br /><ul><li>2 months</li><li>3 months</li><li>4 months</li><li>3-5 years</li><li>13-18 years</li></ul><br />This, therefore, provides <span class=\"concept\" data-cid=\"11003\">5 doses</span> of tetanus-containing vaccine. Five doses is now considered to provide adequate long-term protection against tetanus.<br /><br /><h5 class='notes-heading'>Management of wounds</h5><br />The Greenbook contains the full criteria. The information below is only an abbreviated summary:<br /><br />The first step is to classify the wound:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Clean wound</th><th>Tetanus prone wound</th><th>High-risk tetanus prone wound</th></tr></thead><tbody><tr><td>Wounds less than 6 hours old, non-penetrating with negligible tissue damage</td><td><ul><li>puncture-type injuries acquired in a contaminated environment e.g. gardening injuries</li><li>wounds containing foreign bodies</li><li>compound fractures</li><li>wounds or burns with systemic sepsis</li><li>certain animal bites and scratches</td><td></li><li>heavy contamination with material likely to contain tetanus spores e.g. soil, manure</li><li>wounds or burns that show extensive devitalised tissue</li><li>wounds or burns that require surgical intervention</td></tr></tbody></table></div></li></ul><br /><br />Patient has had a full course of tetanus vaccines, with the last dose < 10 years ago<br /><ul><li><span class=\"concept\" data-cid=\"11004\">no vaccine nor tetanus immunoglobulin is required, regardless of the wound severity</span></li></ul><br />Patient has had a full course of tetanus vaccines, with the last dose > 10 years ago<br /><ul><li>if tetanus prone wound: reinforcing dose of vaccine</li><li>high-risk wounds (e.g. compound fractures, delayed surgical intervention, significant degree of devitalised tissue): reinforcing dose of vaccine + tetanus immunoglobulin</li></ul><br />If <span class=\"concept\" data-cid=\"11005\">vaccination history is incomplete or unknown</span><br /><ul><li>reinforcing dose of vaccine, regardless of the wound severity</li><li>for tetanus prone and high-risk wounds: reinforcing dose of vaccine + tetanus immunoglobulin</li></ul>",
+        "notes_hash": "02e357f53c1066e4e24d84099e55d5b7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "In the UK, 5 doses of the tetanus vaccine are given over the course of the routine immunisation schedule",
+        "concept_percentile": "44",
+        "concept_colour": "rgb(255,224,0)",
+        "number_attempts": "5366",
+        "up_votes": "17",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "186",
+            "647",
+            "1350",
+            "407",
+            "2776",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Department of Health</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_968\" data-linkid=\"968\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_968\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_968\" data-linkid=\"968\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_968\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/tetanus-the-green-book-chapter-30\">Tetanus guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3HiLr3I9zG4\" data-description=\"Clostridium tetani (tetanus)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1137\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3HiLr3I9zG4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3HiLr3I9zG4\" data-description=\"Clostridium tetani (tetanus)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1137\">Clostridium tetani (tetanus)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1963\" data-mediaid=\"1963\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1963\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1963\" data-mediaid=\"1963\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1963\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "11003": {
+                "concept_text": "In the UK, 5 doses of the tetanus vaccine are given over the course of the routine immunisation schedule",
+                "concept_percentile": "44"
+            },
+            "11004": {
+                "concept_text": "If a patient has had 5 doses of tetanus vaccine, with the last dose < 10 years ago, they don't require a booster vaccine nor immunoglobulins, regardless of how severe the wound is",
+                "concept_percentile": "72"
+            },
+            "11005": {
+                "concept_text": "Patients with an uncertain tetanus vaccination history should be given a booster vaccine + immunoglobulin, unless the wound is very minor and < 6 hours old",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2063",
+        "new_question_id": "61139",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "12518",
+        "notes_id_link": "1_1900",
+        "theme": "Benzodiazepine withdrawal management plan",
+        "instruction": "",
+        "options": [
+            "",
+            "Reduce dose by 2.5mg every week",
+            "Reduce dose by 2.5mg every 2 weeks",
+            "Reduce dose by 5mg every 2 weeks",
+            "Reduce dose by 5mg every 4 weeks",
+            "Stop immediately and review in one week",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old woman has been taking diazepam 20mg daily for generalised anxiety for two years. She feels her anxiety is now well-controlled with psychological therapy and wishes to stop her medication. She has no other significant medical history.<br /><br />Select the single most appropriate management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct management plan for this patient is to <b>Reduce dose by 2.5mg every 2 weeks</b>. According to UK guidelines (BNF), when withdrawing a benzodiazepine, the dose should be tapered gradually to avoid withdrawal symptoms. The recommended rate is to reduce the total daily dose in steps of approximately one-eighth (range 1/10 to 1/4) every fortnight. For this patient, the daily dose is 20mg. One-eighth of 20mg is 2.5mg. Therefore, a reduction of 2.5mg every two weeks is the most appropriate starting point. This patient has been on diazepam for two years, making physiological dependence highly likely. A slow, structured withdrawal is essential for patient safety and to increase the likelihood of successfully stopping the medication. Diazepam is the preferred agent for tapering due to its long half-life, which leads to a smoother decline in plasma concentrations and less severe withdrawal effects compared to short-acting benzodiazepines.<br /><br /><b>Reduce dose by 2.5mg every week</b> is incorrect. While the dose reduction step of 2.5mg (one-eighth of the total dose) is appropriate, the frequency is too rapid. Reducing the dose on a weekly basis is twice as fast as the recommended fortnightly interval. This accelerated schedule does not allow sufficient time for the patient's GABAergic system to adapt to the lower dose, significantly increasing the risk of precipitating a benzodiazepine withdrawal syndrome. Symptoms can include insomnia, irritability, anxiety, tremor, and perceptual disturbances, which could be distressing and lead to the patient abandoning the withdrawal attempt.<br /><br /><b>Reduce dose by 5mg every 2 weeks</b> is also an incorrect and overly aggressive approach. A 5mg reduction from a 20mg daily dose represents a reduction of one-quarter of the total dose. While the BNF suggests a range of 1/10 to 1/4, starting at the fastest end of this range is generally not advisable for a patient on long-term therapy. A more cautious initial reduction is safer and better tolerated. A 25% dose reduction every two weeks could easily provoke withdrawal symptoms and is not the standard first-line approach.<br /><br /><b>Reduce dose by 5mg every 4 weeks</b> is incorrect as an initial plan. This regimen, which involves a 25% dose reduction every month, is excessively slow. While a very slow taper may eventually be necessary for patients who find the standard rate difficult to tolerate, it is not the recommended starting point. The initial plan should follow the standard guidance, with the pace adjusted later according to the patient's individual response and withdrawal symptoms. Starting too slowly can unnecessarily prolong the withdrawal process.<br /><br /><b>Stop immediately and review in one week</b> is dangerous and is contraindicated. Abrupt cessation of a benzodiazepine after two years of continuous use will almost certainly cause a severe withdrawal syndrome. This can include life-threatening complications such as seizures, in addition to significant psychological and physical distress. This management plan is contrary to all established safety guidelines for managing benzodiazepine dependence and would represent a significant clinical error.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old woman has been taking diazepam 20mg daily for generalised anxiety for two years. She feels her anxiety is now well-controlled with psychological therapy and wishes to stop her medication. She has no other significant medical history.<br /><br />Select the single most appropriate management from the options below.",
+        "correct_answer": "2",
+        "question_notes": "The correct management plan for this patient is to <b>Reduce dose by 2.5mg every 2 weeks</b>. According to UK guidelines (BNF), when withdrawing a benzodiazepine, the dose should be tapered gradually to avoid withdrawal symptoms. The recommended rate is to reduce the total daily dose in steps of approximately one-eighth (range 1/10 to 1/4) every fortnight. For this patient, the daily dose is 20mg. One-eighth of 20mg is 2.5mg. Therefore, a reduction of 2.5mg every two weeks is the most appropriate starting point. This patient has been on diazepam for two years, making physiological dependence highly likely. A slow, structured withdrawal is essential for patient safety and to increase the likelihood of successfully stopping the medication. Diazepam is the preferred agent for tapering due to its long half-life, which leads to a smoother decline in plasma concentrations and less severe withdrawal effects compared to short-acting benzodiazepines.<br /><br /><b>Reduce dose by 2.5mg every week</b> is incorrect. While the dose reduction step of 2.5mg (one-eighth of the total dose) is appropriate, the frequency is too rapid. Reducing the dose on a weekly basis is twice as fast as the recommended fortnightly interval. This accelerated schedule does not allow sufficient time for the patient's GABAergic system to adapt to the lower dose, significantly increasing the risk of precipitating a benzodiazepine withdrawal syndrome. Symptoms can include insomnia, irritability, anxiety, tremor, and perceptual disturbances, which could be distressing and lead to the patient abandoning the withdrawal attempt.<br /><br /><b>Reduce dose by 5mg every 2 weeks</b> is also an incorrect and overly aggressive approach. A 5mg reduction from a 20mg daily dose represents a reduction of one-quarter of the total dose. While the BNF suggests a range of 1/10 to 1/4, starting at the fastest end of this range is generally not advisable for a patient on long-term therapy. A more cautious initial reduction is safer and better tolerated. A 25% dose reduction every two weeks could easily provoke withdrawal symptoms and is not the standard first-line approach.<br /><br /><b>Reduce dose by 5mg every 4 weeks</b> is incorrect as an initial plan. This regimen, which involves a 25% dose reduction every month, is excessively slow. While a very slow taper may eventually be necessary for patients who find the standard rate difficult to tolerate, it is not the recommended starting point. The initial plan should follow the standard guidance, with the pace adjusted later according to the patient's individual response and withdrawal symptoms. Starting too slowly can unnecessarily prolong the withdrawal process.<br /><br /><b>Stop immediately and review in one week</b> is dangerous and is contraindicated. Abrupt cessation of a benzodiazepine after two years of continuous use will almost certainly cause a severe withdrawal syndrome. This can include life-threatening complications such as seizures, in addition to significant psychological and physical distress. This management plan is contrary to all established safety guidelines for managing benzodiazepine dependence and would represent a significant clinical error.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Benzodiazepines",
+        "body": "Benzodiazepines enhance the effect of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) by increasing the <b>frequency</b> of chloride channels. They therefore are used for a variety of purposes:<br /><ul><li>sedation</li><li>hypnotic</li><li>anxiolytic </li><li>anticonvulsant</li><li>muscle relaxant</li></ul><br />Patients commonly develop a tolerance and dependence to benzodiazepines and care should therefore be exercised on prescribing these drugs. The Committee on Safety of Medicines advises that benzodiazepines are only prescribed for a short period of time (2-4 weeks).<br /><br />The BNF gives advice on how to withdraw a benzodiazepine. The dose should be withdrawn in steps of about <span class=\"concept\" data-cid=\"12518\">1/8 (range 1/10 to 1/4) of the daily dose every fortnight</span>. A suggested protocol for patients experiencing difficulty is given:<br /><ul><li>switch patients to the equivalent dose of diazepam</li><li>reduce dose of diazepam every 2-3 weeks in steps of 2 or 2.5 mg</li><li>time needed for withdrawal can vary from 4 weeks to a year or more</li></ul><br />If patients withdraw too quickly from benzodiazepines they may experience benzodiazepine withdrawal syndrome, a condition very similar to alcohol withdrawal syndrome. This may occur up to 3 weeks after stopping a long-acting drug. Features include:<br /><ul><li>insomnia</li><li>irritability</li><li>anxiety</li><li>tremor</li><li>loss of appetite</li><li>tinnitus</li><li>perspiration</li><li>perceptual disturbances</li><li>seizures</li></ul><br /><div class='alert alert-warning'>GABA<sub>A</sub> drugs<br /><ul><li>benzodiazipines increase the <b>frequency</b> of chloride channels</li><li>barbiturates increase the <b>duration</b> of chloride channel opening</li></ul><br /><b>Freq</b>uently <b>Ben</b>d  - <b>Dur</b>ing <b>Barb</b>eque<br /><br />...or...<br /><br />Barbi<b>durat</b>es increase <b>durat</b>ion & <b>Fre</b>ndodiazepines increase <b>fre</b>quency<br /></div>",
+        "notes_hash": "eb9d96b5aa49475798ff324ff4c1c402",
+        "knowledge_graph_node_id_link": 10652,
+        "concept": "Stopping benzodiazepines: the dose should be withdrawn in steps of about 1/8 of the daily dose every fortnight",
+        "concept_percentile": "92",
+        "concept_colour": "rgb(40,255,0)",
+        "number_attempts": "302",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "90",
+            "143",
+            "37",
+            "28",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4ZHudeMho8g\" data-description=\"Benzodiazepines, bariburates and hypnotics (made easy)\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"731\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4ZHudeMho8g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4ZHudeMho8g\" data-description=\"Benzodiazepines, bariburates and hypnotics (made easy)\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"731\">Benzodiazepines, bariburates and hypnotics (made easy)</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1275\" data-mediaid=\"1275\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1275\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1275\" data-mediaid=\"1275\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1275\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "12518": {
+                "concept_text": "Stopping benzodiazepines: the dose should be withdrawn in steps of about 1/8 of the daily dose every fortnight",
+                "concept_percentile": "92"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4285_B_13",
+        "new_question_id": "17682",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "5430",
+        "notes_id_link": "1_1509",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Chloramphenicol ointment",
+            "Fusidic acid eye drops",
+            "Oral antibiotics",
+            "Steroid eye drops",
+            "Watch and wait",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old pregnant woman presented to your GP clinic with a one-week history of mild pain and redness in both eyes. On examination, the conjunctiva looked diffusely injected with some purulent discharges and crusted eyelids.<br /><br />Which ONE of the following is the treatment you should start for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Topical fusidic acid eye drops should be used to treat bacterial conjunctivitis in pregnant women. <br /><br />Chloramphenicol ointment or eye drops can be used to treat bacterial conjunctivitis but it is advised not to in pregnant patients. <br /><br />Oral antibiotics are normally not required to treat bacterial conjunctivitis. <br /><br />Steroid eye drops have no use in this condition.<br /><br />One can normally watch and wait for viral conjunctivitis but not for bacterial conjunctivitis. Some clinicians may start topical antibiotics to prevent a secondary bacterial infection supposedly.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old pregnant woman presented to your GP clinic with a one-week history of mild pain and redness in both eyes. On examination, the conjunctiva looked diffusely injected with some purulent discharges and crusted eyelids.<br /><br />Which ONE of the following is the treatment you should start for this patient?",
+        "correct_answer": "2",
+        "question_notes": "Topical fusidic acid eye drops should be used to treat bacterial conjunctivitis in pregnant women. <br /><br />Chloramphenicol ointment or eye drops can be used to treat bacterial conjunctivitis but it is advised not to in pregnant patients. <br /><br />Oral antibiotics are normally not required to treat bacterial conjunctivitis. <br /><br />Steroid eye drops have no use in this condition.<br /><br />One can normally watch and wait for viral conjunctivitis but not for bacterial conjunctivitis. Some clinicians may start topical antibiotics to prevent a secondary bacterial infection supposedly.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Infective conjunctivitis",
+        "body": "Conjunctivitis is the most common eye problem presenting to primary care. It is characterised by sore, red eyes associated with a sticky discharge<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Type</th><th>Features</th></tr></thead><tbody><tr><td><b>Bacterial conjunctivitis</b></td><td><span class=\"concept\" data-cid=\"3545\">Purulent discharge</span> <br />Eyes may be 'stuck together' in the morning)</td></tr><tr><td><b>Viral conjunctivitis</b></td><td>Serous discharge<br />Recent URTI<br />Preauricular lymph nodes</td></tr></tbody></table></div><br />Management of infective conjunctivitis<br /><ul><li>normally a self-limiting condition that usually settles without treatment within 1-2 weeks</li><li>topical antibiotic therapy is commonly offered to patients, e.g. Chloramphenicol. Chloramphenicol drops are given 2-3 hourly initially whereas chloramphenicol ointment is given qds initially</li><li>topical fusidic acid is an alternative and should be used for pregnant women. Treatment is twice daily</li><li>contact lens users<ul><li>topical fluoresceins should be used to identify any corneal staining</li><li>treatment as above</li><li><span class=\"concept\" data-cid=\"11753\">contact lens should not be worn</span> during an episode of conjunctivitis</li></ul></li><li>advice should be given not to share towels</li><li>school exclusion is not necessary</li></ul>",
+        "notes_hash": "16ce56853209bba2dea07111cabd4061",
+        "knowledge_graph_node_id_link": 1270,
+        "concept": "Topical fusidic acid should be used to treat bacterial conjunctivitis in pregnant women",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5728",
+        "up_votes": "82",
+        "down_votes": "43",
+        "column_array": [
+            0,
+            "3424",
+            "1578",
+            "237",
+            "90",
+            "399",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 10,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16215_B_230",
+        "new_question_id": "25152",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11151",
+        "notes_id_link": "1_279",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ejection systolic, louder on expiration",
+            "Ejection systolic, louder on inspiration",
+            "Holo-systolic, louder on expiration",
+            "Holo-systolic, louder on inspiration",
+            "Late systolic",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 2-year-old boy is seen by the general practitioner as his parents are concerned that he is struggling to gain weight and is excessively short of breath on exertion. He was previously diagnosed with congenital pulmonary stenosis which was managed conservatively however the parents are now questioning whether surgical intervention may be required.<br /><br />What murmur is likely to be heard on examination?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Pulmonary stenosis causes an ejection systolic murmur that is louder on inspiration. This is due to blood flowing through the narrow pulmonary valve throughout systole. It is affected by inspiration as this increases venous blood return to the right side of the heart.<br /><br />An ejection systolic murmur that is louder on expiration is characteristic of aortic stenosis as expiration increases blood flow to the left side of the heart but decreases return to the right, therefore causing the murmur in tricuspid regurgitation to be quieter not louder.<br /><br />A holo-systolic murmur that is louder on expiration is indicative of mitral regurgitation.<br /><br />A holo-systolic murmur that is louder on inspiration is indicative of tricuspid regurgitation.<br /><br />Late systolic murmurs indicate mitral valve prolapse and coarctation of the aorta but not pulmonary stenosis.<br /><br />A mid-systolic click is caused by prolapse of the mitral valve, not pulmonary stenosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 2-year-old boy is seen by the general practitioner as his parents are concerned that he is struggling to gain weight and is excessively short of breath on exertion. He was previously diagnosed with congenital pulmonary stenosis which was managed conservatively however the parents are now questioning whether surgical intervention may be required.<br /><br />What murmur is likely to be heard on examination?",
+        "correct_answer": "2",
+        "question_notes": "Pulmonary stenosis causes an ejection systolic murmur that is louder on inspiration. This is due to blood flowing through the narrow pulmonary valve throughout systole. It is affected by inspiration as this increases venous blood return to the right side of the heart.<br /><br />An ejection systolic murmur that is louder on expiration is characteristic of aortic stenosis as expiration increases blood flow to the left side of the heart but decreases return to the right, therefore causing the murmur in tricuspid regurgitation to be quieter not louder.<br /><br />A holo-systolic murmur that is louder on expiration is indicative of mitral regurgitation.<br /><br />A holo-systolic murmur that is louder on inspiration is indicative of tricuspid regurgitation.<br /><br />Late systolic murmurs indicate mitral valve prolapse and coarctation of the aorta but not pulmonary stenosis.<br /><br />A mid-systolic click is caused by prolapse of the mitral valve, not pulmonary stenosis.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Murmurs",
+        "body": "Ejection systolic<br /><ul><li>louder on expiration<ul><li><span class=\"concept\" data-cid=\"6722\">aortic stenosis</span></li><li><span class=\"concept\" data-cid=\"6724\">hypertrophic obstructive cardiomyopathy</span></li></ul></li><li><span class=\"concept\" data-cid=\"11151\">louder on inspiration</span><ul><li><span class=\"concept\" data-cid=\"6723\">pulmonary stenosis</span></li><li><span class=\"concept\" data-cid=\"6726\">atrial septal defect</span></li></ul></li><li>also: <span class=\"concept\" data-cid=\"6725\">tetralogy of Fallot</span></li></ul><br />Holosystolic (pansystolic)<br /><ul><li><span class=\"concept\" data-cid=\"6727\">mitral</span>/<span class=\"concept\" data-cid=\"6728\">tricuspid regurgitation</span> (high-pitched and 'blowing' in character)<ul><li><span class=\"concept\" data-cid=\"11150\">tricuspid regurgitation becomes louder during inspiration, unlike mitral reguritation</span></li><li>during inspiration, the venous blood flow into the right atrium and ventricle are increased &rarr; increases the stroke volume of the right ventricle during systole</li></ul></li><li><span class=\"concept\" data-cid=\"6727\">ventricular septal defect ('harsh' in character)</span></li></ul><br />Late systolic<br /><ul><li><span class=\"concept\" data-cid=\"6734\">mitral valve prolapse</span></li><li>coarctation of aorta</li></ul><br />Early diastolic<br /><ul><li><span class=\"concept\" data-cid=\"6730\">aortic regurgitation</span> (high-pitched and 'blowing' in character)</li><li><span class=\"concept\" data-cid=\"6731\">Graham-Steel murmur (pulmonary regurgitation, again high-pitched and 'blowing' in character)</span></li></ul><br />Mid-late diastolic<br /><ul><li><span class=\"concept\" data-cid=\"6732\">mitral stenosis</span> ('rumbling' in character)</li><li><span class=\"concept\" data-cid=\"6733\">Austin-Flint murmur (severe aortic regurgitation, again is 'rumbling' in character)</span></li></ul><br />Continuous machine-like murmur<br /><ul><li>patent ductus arteriosus</li></ul><br /><div class='alert alert-warning'>RILE<br /><b>R</b>ight-sided murmur &rarr; heard best on <b>I</b>nspiration<br /><b>L</b>eft-sided murmur &rarr; heard best on <b>E</b>xpiration<br /></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb007b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb007.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='https://en.wikipedia.org/wiki/Main_Page'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb007b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER>",
+        "notes_hash": "1ff6fa70ccdb2dc11b10e56443d340df",
+        "knowledge_graph_node_id_link": 10010,
+        "concept": "Pulmonary stenosis is louder on inspiration",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "5410",
+        "up_votes": "3",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "1134",
+            "2947",
+            "511",
+            "680",
+            "138",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>University of Washington</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_553\" data-linkid=\"553\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_553\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">41</span><button type=\"button\" style=\"\" id=\"link_dislike_553\" data-linkid=\"553\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_553\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://depts.washington.edu/physdx/heart/demo.html\">Audio clips of common murmurs / heart sounds</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/teJcTTVZnzs\" data-description=\"Heart Murmurs - Locations, Maneuvers, Buzzwords\" data-upvotes=\"18\" data-downvotes=\"0\" data-media=\"1230\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/teJcTTVZnzs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/teJcTTVZnzs\" data-description=\"Heart Murmurs - Locations, Maneuvers, Buzzwords\" data-upvotes=\"18\" data-downvotes=\"0\" data-media=\"1230\">Heart Murmurs - Locations, Maneuvers, Buzzwords</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2161\" data-mediaid=\"2161\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2161\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"media_dislike_2161\" data-mediaid=\"2161\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2161\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZUHpAaVpiY8\" data-description=\"Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 2\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"168\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZUHpAaVpiY8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZUHpAaVpiY8\" data-description=\"Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 2\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"168\">Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 2</a></td></tr><tr><td><span ><small>KhanAcademy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_288\" data-mediaid=\"288\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_288\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_288\" data-mediaid=\"288\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_288\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wYZbMoWjLEg\" data-description=\"Heart Murmurs and Heart Sounds\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"964\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wYZbMoWjLEg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wYZbMoWjLEg\" data-description=\"Heart Murmurs and Heart Sounds\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"964\">Heart Murmurs and Heart Sounds</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1665\" data-mediaid=\"1665\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1665\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1665\" data-mediaid=\"1665\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1665\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6YY3OOPmUDA\" data-description=\"Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 1\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"167\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/6YY3OOPmUDA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6YY3OOPmUDA\" data-description=\"Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 1\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"167\">Systolic murmurs, diastolic murmurs, and extra heart sounds - Part 1</a></td></tr><tr><td><span ><small>KhanAcademy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_287\" data-mediaid=\"287\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_287\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_287\" data-mediaid=\"287\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_287\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sGHV5_ieDP4\" data-description=\"How to identify murmurs\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"169\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sGHV5_ieDP4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sGHV5_ieDP4\" data-description=\"How to identify murmurs\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"169\">How to identify murmurs</a></td></tr><tr><td><span ><small>KhanAcademy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_289\" data-mediaid=\"289\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_289\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_289\" data-mediaid=\"289\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_289\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "6722": {
+                "concept_text": "Aortic stenosis - ejection systolic murmur",
+                "concept_percentile": "6"
+            },
+            "6723": {
+                "concept_text": "Pulmonary stenosis - ejection systolic murmur",
+                "concept_percentile": "31"
+            },
+            "6724": {
+                "concept_text": "Hypertrophic obstructive cardiomyopathy - ejection systolic murmur",
+                "concept_percentile": "36"
+            },
+            "6725": {
+                "concept_text": "Tetralogy of Fallot - ejection systolic murmur",
+                "concept_percentile": "17"
+            },
+            "6726": {
+                "concept_text": "Atrial septal defect - ejection systolic murmur louder on inspiration",
+                "concept_percentile": "13"
+            },
+            "6727": {
+                "concept_text": "Mitral regurgitation - holosystolic murmur, high-pitched and 'blowing' in character",
+                "concept_percentile": "26"
+            },
+            "6728": {
+                "concept_text": "Tricuspid regurgitation - holosystolic murmur, high-pitched and 'blowing' in character",
+                "concept_percentile": "16"
+            },
+            "6730": {
+                "concept_text": "Aortic regurgitation - early diastolic murmur, high-pitched and 'blowing' in character",
+                "concept_percentile": "66"
+            },
+            "6731": {
+                "concept_text": "Graham-Steel murmur (pulmonary regurgitation) - early diastolic murmur, high-pitched and 'blowing' in character",
+                "concept_percentile": "15"
+            },
+            "6732": {
+                "concept_text": "Mitral stenosis - mid-late diastolic murmur, 'rumbling' in character",
+                "concept_percentile": "33"
+            },
+            "6733": {
+                "concept_text": "Austin-Flint murmur (severe aortic regurgitation) - mid-late diastolic murmur, 'rumbling' in character",
+                "concept_percentile": "20"
+            },
+            "6734": {
+                "concept_text": "Mitral valve prolapse - late systolic murmur",
+                "concept_percentile": "8"
+            },
+            "11151": {
+                "concept_text": "Pulmonary stenosis is louder on inspiration",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_33",
+        "new_question_id": "10678",
+        "question_type": "1",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_867",
+        "theme": "Hypertension: secondary causes",
+        "instruction": "For each one of the following select the most likely diagnosis:",
+        "options": [
+            "",
+            "Adult polycystic kidney disease",
+            "Cushing's syndrome",
+            "Congenital adrenal hyperplasia",
+            "Primary hyperaldosteronism",
+            "Phaeochromocytoma",
+            "Acromegaly",
+            "Bartter's syndrome",
+            "Medication-induced",
+            "Renal artery stenosis",
+            "Pregnancy-induced hypertension"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 28-year-old who is 10 weeks pregnant is noted to be hypertensive on her booking visit. Blood show a potassium of 3.1 mmol/l. Clinical examination is unremarkable",
+            "S 39-qwsj-gdv esf hjwkwflk oalz zwsvsuzwk sfv wpuwkkanw kowslafy. Zw sdkg jwhgjlk kgew nakmsd dgkk. Nakmsd xawdvk lwklafy jwnwsdk talwehgjsd zweasfghas.",
+            "S 68-qwsj-gdv oalz s zaklgjq gx akuzsweau zwsjl vakwskw ak kwwf af lzw zqhwjlwfkagf udafau. Vwkhalw xgmj sflazqhwjlwfkanwk zak tdggv hjwkkmjw ak 172/94 eeZy. Sf stvgeafsd mdljskgmfv kzgok skqeewljausd cavfwqk"
+        ],
+        "answers": [
+            "4",
+            "6",
+            "9"
+        ],
+        "notes": [
+            "At 10 weeks\u2019 gestation, pregnancy-induced hypertension is not possible - it only develops after 20 weeks.<br /><br />Her first antenatal review has simply unmasked an existing hypertensive disorder.<br />The decisive clue is hypokalaemia, which points to a mineralocorticoid excess state.<br /><br />Among the listed options, only primary hyperaldosteronism (Conn\u2019s syndrome) reliably produces hypertension with low potassium in an otherwise well young adult.<br /><br />Cushing\u2019s syndrome or renal artery stenosis might raise BP but would not cause such isolated biochemical findings, and there are no steroidal or renal features.<br /><br />Thus, the combination of early discovery, normal examination, and biochemical hypokalaemia makes primary hyperaldosteronism by far the most convincing diagnosis.",
+            "The key to this question is linking the systemic and local features.<br /><br />Headache and bitemporal hemianopia indicate a mass in the pituitary fossa, compressing the optic chiasm.<br /><br />Of the listed causes of secondary hypertension, only acromegaly arises from a growth hormone\u2013secreting pituitary adenoma, capable of such compression.<br /><br />The accompanying hyperhidrosis strengthens the case - it is a hallmark of GH excess, not phaeochromocytoma, where sweating would occur in short-lived paroxysms rather than being constant.<br /><br />Therefore, the presence of sustained sweating, local mass effect, and characteristic visual disturbance decisively identifies acromegaly as the underlying cause of hypertension.",
+            "This is classic resistant hypertension in an older patient with atherosclerotic disease - the demographic and the context both point to renal artery stenosis.<br /><br />The ultrasound finding of unequal kidney size is not incidental: the chronically underperfused kidney becomes small from ischaemic atrophy.<br /><br />No endocrine cause (such as Conn\u2019s or Cushing\u2019s) would explain this imaging pattern, and medication-induced hypertension would not cause kidney asymmetry.<br /><br />In practice, the renin\u2013angiotensin system is chronically stimulated on the affected side, sustaining high BP despite maximal therapy.<br /><br />The combination of resistant hypertension, vascular history, and renal asymmetry is virtually diagnostic of renal artery stenosis."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old who is 10 weeks pregnant is noted to be hypertensive on her booking visit. Blood show a potassium of 3.1 mmol/l. Clinical examination is unremarkable",
+        "correct_answer": "4",
+        "question_notes": "At 10 weeks\u2019 gestation, pregnancy-induced hypertension is not possible - it only develops after 20 weeks.<br /><br />Her first antenatal review has simply unmasked an existing hypertensive disorder.<br />The decisive clue is hypokalaemia, which points to a mineralocorticoid excess state.<br /><br />Among the listed options, only primary hyperaldosteronism (Conn\u2019s syndrome) reliably produces hypertension with low potassium in an otherwise well young adult.<br /><br />Cushing\u2019s syndrome or renal artery stenosis might raise BP but would not cause such isolated biochemical findings, and there are no steroidal or renal features.<br /><br />Thus, the combination of early discovery, normal examination, and biochemical hypokalaemia makes primary hyperaldosteronism by far the most convincing diagnosis.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hypertension: secondary causes",
+        "body": "It is thought that between 5-10% of patients diagnosed with hypertension have <span class=\"concept\" data-cid=\"4658\"><b>primary hyperaldosteronism</b></span>, including Conn's syndrome. This makes it the single most common cause of secondary hypertension.<br /><br />Renal disease accounts for a large percentage of the other cases of secondary hypertension. Conditions which may increase the blood pressure include:<br /><ul><li>glomerulonephritis</li><li>pyelonephritis</li><li>adult polycystic kidney disease</li><li>renal artery stenosis</li></ul><br />Endocrine disorders (other than primary hyperaldosteronism) may also result in increased blood pressure:<br /><ul><li>phaeochromocytoma</li><li>Cushing's syndrome</li><li>Liddle's syndrome</li><li>congenital adrenal hyperplasia (11-beta hydroxylase deficiency)</li><li>acromegaly</li></ul><br />Drug causes:<br /><ul><li><span class=\"concept\" data-cid=\"6029\">steroids</span></li><li>monoamine oxidase inhibitors</li><li>the combined oral contraceptive pill</li><li>NSAIDs</li><li>leflunomide</li></ul><br />Other causes include:<br /><ul><li>pregnancy</li><li>coarctation of the aorta</li></ul>",
+        "notes_hash": "833f76ed420679554f234744b0a96f99",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4159",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "1768",
+            "2146",
+            "2411",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/01/Hypertension_video.webm\" data-description=\"Hypertension\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"391\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/01/Hypertension_video.webm\" data-description=\"Hypertension\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"391\">Hypertension</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1736\" data-mediaid=\"1736\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1736\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1736\" data-mediaid=\"1736\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1736\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4658": {
+                "concept_text": "Primary hyperaldosteronism is the most common cause of secondary hypertension",
+                "concept_percentile": "84"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

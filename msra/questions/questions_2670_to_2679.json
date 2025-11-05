@@ -1,0 +1,847 @@
+[
+    {
+        "question_id": "5592_B_751",
+        "new_question_id": "40539",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "603",
+        "notes_id_link": "1_269",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amlodipine",
+            "Bisoprolol",
+            "Doxazosin",
+            "Indapamide",
+            "Lisinopril",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 57-year-old woman visits her general practitioner for a follow up appointment. She has a past medical history of type 2 diabetes mellitus for which she takes metformin and sitagliptin. In her previous visit, she was noted to have a blood pressure of 161/88mmHg and was advised to complete 7 days of ambulatory blood pressure monitoring.<br /><br />In the clinic, her average ambulatory blood pressure is recorded as 158/74mmHg. The remainder of her observations are stable and her cardiorespiratory examination is unremarkable.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Blood sugar</td><td>6.2 mmol/L</td></tr></tbody></table></div><br />What is the recommended agent to manage this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Lisinopril</b> is correct. This patient has hypertension with an elevated ambulatory blood pressure. Current guidelines recommend strict blood pressure control for patients with diabetes mellitus with a target blood pressure of < 140/90mmHg. Regardless of the age at presentation with hypertension, the recommended management is the initiation of an angiotensin-converting enzyme inhibitor (e.g. lisinopril) or an angiotensin-receptor blocker.<br /><br /><b>Amlodipine</b> is incorrect. As the patient is > 55 years of age, this would usually be the agent of choice to manage blood pressure. However, as the patient also has a diagnosis of type 2 diabetes mellitus, an ACE inhibitor is recommended as it is also reno-protective.<br /><br /><b>Bisoprolol</b> is incorrect. This is not usually used in the management of blood pressure until the later stages after ACE inhibitors, calcium channel blockers, and thiazide-like diuretics have been tried.<br /><br /><b>Doxazosin</b> is incorrect. Like beta-blockers, doxazosin is not usually added to the management of blood pressure until the later stages of the disease. <br /><br /><b>Indapamide</b> is incorrect. This may be added as a second-line agent in the management of blood pressure, but is not given in the first instance.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 57-year-old woman visits her general practitioner for a follow up appointment. She has a past medical history of type 2 diabetes mellitus for which she takes metformin and sitagliptin. In her previous visit, she was noted to have a blood pressure of 161/88mmHg and was advised to complete 7 days of ambulatory blood pressure monitoring.<br /><br />In the clinic, her average ambulatory blood pressure is recorded as 158/74mmHg. The remainder of her observations are stable and her cardiorespiratory examination is unremarkable.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Blood sugar</td><td>6.2 mmol/L</td></tr></tbody></table></div><br />What is the recommended agent to manage this patient?",
+        "correct_answer": "5",
+        "question_notes": "<b>Lisinopril</b> is correct. This patient has hypertension with an elevated ambulatory blood pressure. Current guidelines recommend strict blood pressure control for patients with diabetes mellitus with a target blood pressure of < 140/90mmHg. Regardless of the age at presentation with hypertension, the recommended management is the initiation of an angiotensin-converting enzyme inhibitor (e.g. lisinopril) or an angiotensin-receptor blocker.<br /><br /><b>Amlodipine</b> is incorrect. As the patient is > 55 years of age, this would usually be the agent of choice to manage blood pressure. However, as the patient also has a diagnosis of type 2 diabetes mellitus, an ACE inhibitor is recommended as it is also reno-protective.<br /><br /><b>Bisoprolol</b> is incorrect. This is not usually used in the management of blood pressure until the later stages after ACE inhibitors, calcium channel blockers, and thiazide-like diuretics have been tried.<br /><br /><b>Doxazosin</b> is incorrect. Like beta-blockers, doxazosin is not usually added to the management of blood pressure until the later stages of the disease. <br /><br /><b>Indapamide</b> is incorrect. This may be added as a second-line agent in the management of blood pressure, but is not given in the first instance.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Diabetes mellitus: hypertension management",
+        "body": "Patient with diabetes mellitus have traditionally had their blood pressure controlled more aggressively to help reduce their overall cardiovascular risk. However, a 2013 Cochrane review cast doubt on the wisdom of lower blood pressure targets for patients with diabetes. It compared patients who had tight blood pressure control (targets < 130/85 mmHg) with more relaxed control (< 140-160/90-100 mmHg). Patients who were more tightly controlled had a slightly reduced rate of stroke but otherwise, outcomes were not significantly different.<br /><br />In light of this, NICE recommends a <span class=\"concept\" data-cid=\"604\">blood pressure target of < 140/90 mmHg for type 2 diabetics</span>, the same as for patients without diabetes.<br /><br />For patients with type 1 diabetes, NICE recommends:<br /><br /><div class='bs-callout bs-callout-default'><i><br />Intervention levels for recommending blood pressure management should be <span class=\"concept\" data-cid=\"10779\">135/85 mmHg</span> unless the adult with type 1 diabetes has albuminuria or 2 or more features of metabolic syndrome, in which case it should be 130/80 mmHg<br /></i></div><br />Because <span class=\"concept\" data-cid=\"603\">ACE inhibitors/or angiotensin-II receptor antagonist (A2RBs)</span> have a renoprotective effect in diabetes they are the first-line antihypertensive regardless of age. A2RBs are preferred for black African or African-Caribbean diabetic patients. Further management then reverts to that of non-diabetic patients.<br /><br />Remember that autonomic neuropathy may result in more postural symptoms in patients taking antihypertensive therapy.<br /><br />The routine use of beta-blockers in uncomplicated hypertension should be avoided, particularly when given in combination with thiazides, as they may cause insulin resistance, impair insulin secretion and alter the autonomic response to hypoglycaemia.",
+        "notes_hash": "ab49ae44665f6e7947630f3ed4154374",
+        "knowledge_graph_node_id_link": 10924,
+        "concept": "Hypertension in diabetics - ACE inhibitors/A2RBs are first-line regardless of age",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "7687",
+        "up_votes": "22",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "1436",
+            "32",
+            "35",
+            "69",
+            "6115",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1486\" data-linkid=\"1486\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1486\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1486\" data-linkid=\"1486\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1486\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "603": {
+                "concept_text": "Hypertension in diabetics - ACE inhibitors/A2RBs are first-line regardless of age",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_714",
+        "new_question_id": "9190",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_551",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Eye pain worse on movement",
+            "Relative afferent pupillary defect",
+            "Poor discrimination of colours, 'red desaturation'",
+            "Sudden onset of visual loss",
+            "Central scotoma",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Each one of the following is typical of optic neuritis, except:",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is 'Sudden onset of visual loss' as optic neuritis typically presents with subacute visual loss developing over hours to days, rather than a sudden onset. The inflammation of the optic nerve characteristically causes a progressive deterioration of vision over a short period.<br /><br /><b>Eye pain worse on movement</b> is a classic feature of optic neuritis, occurring in approximately 90% of cases. The pain typically precedes or accompanies visual loss and is exacerbated by eye movements due to inflammation of the optic nerve and its surrounding tissues stretching during movement.<br /><br /><b>Relative afferent pupillary defect (RAPD)</b> is a characteristic finding in unilateral or asymmetric optic neuritis. When the affected eye is illuminated, there is a reduced pupillary constriction compared to illumination of the unaffected eye, demonstrating impaired transmission of light signals through the affected optic nerve.<br /><br /><b>Poor discrimination of colours, 'red desaturation'</b> is a typical early manifestation of optic neuritis. Patients often report that colours, particularly red, appear washed out or less vibrant in the affected eye compared to the normal eye. This occurs due to inflammation affecting the optic nerve fibres that carry colour vision information.<br /><br /><b>Central scotoma</b> is a classic finding in optic neuritis where patients experience a central visual field defect. This occurs because the papillomacular bundle, which serves central vision, is preferentially affected by the inflammatory process. The central scotoma may be absolute or relative and is typically demonstrated on visual field testing.<br /><br />These features form part of the typical presentation of optic neuritis, which is often associated with demyelinating conditions such as multiple sclerosis. The condition most commonly affects young adults, particularly females, and usually shows improvement within weeks to months, either spontaneously or with corticosteroid treatment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Each one of the following is typical of optic neuritis, except:",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is 'Sudden onset of visual loss' as optic neuritis typically presents with subacute visual loss developing over hours to days, rather than a sudden onset. The inflammation of the optic nerve characteristically causes a progressive deterioration of vision over a short period.<br /><br /><b>Eye pain worse on movement</b> is a classic feature of optic neuritis, occurring in approximately 90% of cases. The pain typically precedes or accompanies visual loss and is exacerbated by eye movements due to inflammation of the optic nerve and its surrounding tissues stretching during movement.<br /><br /><b>Relative afferent pupillary defect (RAPD)</b> is a characteristic finding in unilateral or asymmetric optic neuritis. When the affected eye is illuminated, there is a reduced pupillary constriction compared to illumination of the unaffected eye, demonstrating impaired transmission of light signals through the affected optic nerve.<br /><br /><b>Poor discrimination of colours, 'red desaturation'</b> is a typical early manifestation of optic neuritis. Patients often report that colours, particularly red, appear washed out or less vibrant in the affected eye compared to the normal eye. This occurs due to inflammation affecting the optic nerve fibres that carry colour vision information.<br /><br /><b>Central scotoma</b> is a classic finding in optic neuritis where patients experience a central visual field defect. This occurs because the papillomacular bundle, which serves central vision, is preferentially affected by the inflammatory process. The central scotoma may be absolute or relative and is typically demonstrated on visual field testing.<br /><br />These features form part of the typical presentation of optic neuritis, which is often associated with demyelinating conditions such as multiple sclerosis. The condition most commonly affects young adults, particularly females, and usually shows improvement within weeks to months, either spontaneously or with corticosteroid treatment.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Optic neuritis",
+        "body": "Causes<br /><ul><li><span class=\"concept\" data-cid=\"11248\">multiple sclerosis</span>: the commonest associated disease</li><li>diabetes</li><li>syphilis</li></ul><br /><span class=\"concept\" data-cid=\"1298\">Features</span><br /><ul><li>unilateral decrease in visual acuity over hours or days</li><li><span class=\"concept\" data-cid=\"3251\">poor discrimination of colours, 'red desaturation'</span></li><li>pain worse on eye movement</li><li><span class=\"concept\" data-cid=\"3051\">relative afferent pupillary defect</span></li><li><span class=\"concept\" data-cid=\"9128\">central scotoma</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"11902\">MRI of the brain and orbits with gadolinium contrast</span> is diagnostic in most cases</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"1623\">high-dose steroids</span></li><li>recovery usually takes 4-6 weeks</li></ul><br />Prognosis<br /><ul><li>MRI: if > 3 white-matter lesions, 5-year risk of developing multiple sclerosis is c. 50%</li></ul>",
+        "notes_hash": "8164d05999353b07683d775fbc1e56d2",
+        "knowledge_graph_node_id_link": 1371,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "3926",
+        "up_votes": "42",
+        "down_votes": "94",
+        "column_array": [
+            0,
+            "288",
+            "223",
+            "262",
+            "2040",
+            "1113",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "1298": {
+                "concept_text": "Subacute unilateral visual loss, eye pain worse on movements --> ?optic neuritis",
+                "concept_percentile": "73"
+            },
+            "3051": {
+                "concept_text": "Optic neuritis is associated with relative afferent pupillary defect",
+                "concept_percentile": "73"
+            },
+            "3251": {
+                "concept_text": "Colour vision ('red desaturation') is affected in optic neuritis",
+                "concept_percentile": "78"
+            },
+            "9128": {
+                "concept_text": "A central scotoma is a feature of optic neuritis",
+                "concept_percentile": "91"
+            },
+            "11248": {
+                "concept_text": "Multiple sclerosis is the most common cause of optic neuritis",
+                "concept_percentile": "52"
+            },
+            "11902": {
+                "concept_text": "Suspected optic neuritis: MRI of the brain and orbits with gadolinium contrast is the investigation of choice",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "15199_B_21",
+        "new_question_id": "36286",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "478",
+        "notes_id_link": "1_189",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Autoimmune encephalitis",
+            "Bacterial meningitis",
+            "Cryptococcal meningoencephalitis",
+            "Cytomegalovirus encephalitis",
+            "Herpes simplex encephalitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old man is admitted to the hospital following a generalised seizure. He reports feeling unwell with fever and headache for the past 2 days, and his mother describes his recent behaviour as unusually irritable. He has no past medical history.<br /><br />On examination, there is mild nuchal rigidity and hyperreflexia in the lower limbs. A CT head shows bilateral hypodensities in the temporal lobes.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Herpes simplex encephalitis</b> (HSE) is the commonest cause of sporadic encephalitis and most commonly affects those <20 and >50. In contrast to other forms of encephalitis (e.g. CMV, cryptococcal), it often affects immunocompetent individuals (as well as the immunocompromised). HSE often has a prodrome of fever, headache and malaise followed by acute encephalopathy: focal neurological deficits, seizures, confusion and behavioural changes and potentially meningeal signs. Classically, HSE causes temporal lobe changes (hypodensities on CT, or hyperintensities on MRI) and <b><i>bilateral temporal lobe changes</i></b> are pathognomonic of HSE. (Note: although not required in this question, do be aware of the clinical features of temporal lobe changes e.g. aphasia, hemiparesis, memory loss etc since some questions may require you to infer temporal lobe involvement without imaging results).<br /><br /><b>Autoimmune encephalitis</b> is typically the result of a paraneoplastic syndrome (usually secondary to small cell lung cancer or ovarian teratoma). The absence of evidence of malignancy makes this diagnosis unlikely.<br /><br /><b>Bacterial meningitis</b> is more common than HSE but is less likely to cause seizures, behavioural changes and confusion (unless there is simultaneous encephalitis i.e. meningoencephalitis). CT or MRI head in meningitis typically shows meningeal enhancement as opposed to temporal lobe changes. <br /><br /><b>Cryptococcal meningoencephalitis</b> is caused by the yeast <i>Cryptococcus neoformans</i> and typically only affects those with severe immunodeficiency (especially AIDS). It has a subacute presentation, with symptoms progressing over several weeks (as opposed to a few days).<br /><br /><b>Cytomegalovirus encephalitis</b> almost always occurs in patients with severe immunodeficiency. In those with HIV, it typically occurs once the CD4 count is <50. It may cause symptoms similar to those in the question stem (i.e. those of encephalopathy) but is unlikely given the temporal lobe changes and lack of evidence of immunodeficiency.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old man is admitted to the hospital following a generalised seizure. He reports feeling unwell with fever and headache for the past 2 days, and his mother describes his recent behaviour as unusually irritable. He has no past medical history.<br /><br />On examination, there is mild nuchal rigidity and hyperreflexia in the lower limbs. A CT head shows bilateral hypodensities in the temporal lobes.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "<b>Herpes simplex encephalitis</b> (HSE) is the commonest cause of sporadic encephalitis and most commonly affects those <20 and >50. In contrast to other forms of encephalitis (e.g. CMV, cryptococcal), it often affects immunocompetent individuals (as well as the immunocompromised). HSE often has a prodrome of fever, headache and malaise followed by acute encephalopathy: focal neurological deficits, seizures, confusion and behavioural changes and potentially meningeal signs. Classically, HSE causes temporal lobe changes (hypodensities on CT, or hyperintensities on MRI) and <b><i>bilateral temporal lobe changes</i></b> are pathognomonic of HSE. (Note: although not required in this question, do be aware of the clinical features of temporal lobe changes e.g. aphasia, hemiparesis, memory loss etc since some questions may require you to infer temporal lobe involvement without imaging results).<br /><br /><b>Autoimmune encephalitis</b> is typically the result of a paraneoplastic syndrome (usually secondary to small cell lung cancer or ovarian teratoma). The absence of evidence of malignancy makes this diagnosis unlikely.<br /><br /><b>Bacterial meningitis</b> is more common than HSE but is less likely to cause seizures, behavioural changes and confusion (unless there is simultaneous encephalitis i.e. meningoencephalitis). CT or MRI head in meningitis typically shows meningeal enhancement as opposed to temporal lobe changes. <br /><br /><b>Cryptococcal meningoencephalitis</b> is caused by the yeast <i>Cryptococcus neoformans</i> and typically only affects those with severe immunodeficiency (especially AIDS). It has a subacute presentation, with symptoms progressing over several weeks (as opposed to a few days).<br /><br /><b>Cytomegalovirus encephalitis</b> almost always occurs in patients with severe immunodeficiency. In those with HIV, it typically occurs once the CD4 count is <50. It may cause symptoms similar to those in the question stem (i.e. those of encephalopathy) but is unlikely given the temporal lobe changes and lack of evidence of immunodeficiency.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Herpes simplex encephalitis",
+        "body": "Herpes simplex (HSV) encephalitis is a common topic in the exam. The virus characteristically affects the <span class=\"concept\" data-cid=\"478\">temporal lobes</span> - questions may give the result of imaging or describe temporal lobe signs e.g. aphasia.<br /><br /><span class=\"concept\" data-cid=\"12141\">Features</span><br /><ul><li>fever, headache, psychiatric symptoms, seizures, vomiting</li><li>focal features e.g. aphasia</li><li>peripheral lesions (e.g. cold sores) have no relation to the presence of HSV encephalitis</li></ul><br />Pathophysiology<br /><ul><li>HSV-1 is responsible for 95% of cases in adults</li><li>typically affects temporal and inferior frontal lobes</li></ul><br />Investigation<br /><ul><li>CSF: <span class=\"concept\" data-cid=\"11472\">lymphocytosis, elevated protein</span></li><li>PCR for HSV</li><li>CT: medial temporal and inferior frontal changes (e.g. petechial haemorrhages) - normal in one-third of patients</li><li>MRI is better</li><li><span class=\"concept\" data-cid=\"12539\">EEG pattern</span><ul><li>unilateral or bilateral periodic sharp-and-slow-wave complexes at 2\u20133 Hz over the temporal lobes (periodic lateralised epileptiform discharges)</li><li>seen in ~80% of cases</li></ul></li></ul><br />Treatment<br /><ul><li>intravenous aciclovir</li></ul><br />The prognosis is dependent on whether aciclovir is commenced early. If treatment is started promptly the mortality is 10-20%. Left untreated the mortality approaches 80%<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb122b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb122.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb122b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>MRI of a patient with HSV encephalitis. There is hyperintensity of the affected white matter and cortex in the medial temporal lobes and insular cortex.</div>",
+        "notes_hash": "576b8a7e86f4a56e372d27baaef35306",
+        "knowledge_graph_node_id_link": 1301,
+        "concept": "CT head showing temporal lobe changes - think herpes simplex encephalitis",
+        "concept_percentile": "75",
+        "concept_colour": "rgb(127,255,0)",
+        "number_attempts": "4559",
+        "up_votes": "76",
+        "down_votes": "36",
+        "column_array": [
+            0,
+            "281",
+            "771",
+            "866",
+            "533",
+            "2108",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oD26ys9P1Ks\" data-description=\"Herpes simplex encephalitis\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"406\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/oD26ys9P1Ks/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oD26ys9P1Ks\" data-description=\"Herpes simplex encephalitis\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"406\">Herpes simplex encephalitis</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_699\" data-mediaid=\"699\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_699\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_699\" data-mediaid=\"699\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_699\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "478": {
+                "concept_text": "CT head showing temporal lobe changes - think herpes simplex encephalitis",
+                "concept_percentile": "75"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1663_B_10",
+        "new_question_id": "3858",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_166",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Continue alendronate",
+            "Change alendronate to strontium ranelate",
+            "Change alendronate to risedronate",
+            "Change alendronate to raloxifene",
+            "Change alendronate to denosumab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old female was recently started on alendronate for treatment of osteoporosis following a fragility fracture. She returns to your clinic as she has suffered troubling upper gastrointestinal side effects. What is the most appropriate next step in her management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "NICE guidance recommends that if patients suffer significant upper gastrointestinal side effects from the use of alendronate, then this should first be changed to risedronate or etidronate",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old female was recently started on alendronate for treatment of osteoporosis following a fragility fracture. She returns to your clinic as she has suffered troubling upper gastrointestinal side effects. What is the most appropriate next step in her management?",
+        "correct_answer": "3",
+        "question_notes": "NICE guidance recommends that if patients suffer significant upper gastrointestinal side effects from the use of alendronate, then this should first be changed to risedronate or etidronate",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Osteoporosis: management",
+        "body": "The National Osteoporosis Guideline Group (NOGG) updated their guidelines in 2021. NICE guidelines also have a section on the management of osteoporosis, largely based on the NOGG guidelines. Remember that osteporosis is usually asymptomatic until a fracture occurs. When thinking about osteoporosis management it is useful to think about a number of potential clinical scenarios:<br /><ul><li>a patient who has been identified as being at high risk of a fragility fracture based on a QFracture or FRAX score (please see the textbook entry on 'Osteoporosis: assessing risk')</li><li>a patient who is about to start treatment that puts them at significant risk of developing osteoporosis - the most common example is longer-term glucocorticoids</li><li>a patient who has just had a fragility fracture e.g. a symptomatic osteoporotic vertebral fracture</li></ul><br /><h5 class='notes-heading'>General management points</h5><br />General points about the management of all patients<br /><ul><li>all patients who are at risk of osteoporosis or have osteoporosis should be given advice regarding:<ul><li>lifestyle changes: a healthy, balanced diet, moderation of alcohol consumption and avoidance of smoking</li><li>a sufficient dietary calcium and vitamin D intake:  supplementation should be offered to all women unless the clinician is confident they have adequate calcium intake and are vitamin D replete</li><li>encourage a combination of regular weight-bearing and muscle strengthening exercise</li></ul></li><li>secondary causes of osteoporosis should be considered and treated<ul><li>e.g. hypogonadism in women or men e.g. hormone replacement therapy for premature menopause</li></ul></li><li>bisphosphonates are the first-line drug treatment for patients at risk of fragility fractures<ul><li>oral bisphosphonates such as alendronate and risedronate are typically first-line. These are often taken weekly are need taking in a particular way to minimise the risk of oesophageal side-effects</li><li>however, the NOGG recommend IV zoledronate as the first-line treatment following a hip fracture. This is given yearly</li></ul></li><li>denosumab is generally used as a second-line treatment</li><li>other possible treatment options include: <ul><li>strontium ranelate</li><li>raloxifene</li><li>teriparatide</li><li>romosozumab</li></ul></li></ul><br /><h5 class='notes-heading'>Clinical scenarios</h5><br />Fragility risk fracture assessment<br /><ul><li><span class=\"concept\" data-cid=\"12227\">if a patient is deemed high-risk based on a QFracture or FRAX score they should have a DEXA scan to assess bone mineral density (BMD)</span><ul><li>the BMD threshold for defining osteoporosis is a T-score of - 2.5 SD or below</li><li>some patients may not be suitable for BMD assessment due to frailty etc.</li></ul></li><li>general osteoporosis management as above</li><li>oral bisphosphonates are used first-line e.g. alendronate or risedronate</li></ul><br />Postmenopausal women, and men age \u226550, who are treated with oral glucocorticoids:<br /><ul><li>if starting \u22657.5 mg/day prednisolone or equivalent for the next 3 months, start bone protective treatment at the same time </li><li>general osteoporosis management as above</li><li><span class=\"concept\" data-cid=\"12228\">don't wait for a DEXA scan before starting treatment</span></li><li>oral bisphosphonates are used first-line e.g. alendronate or risedronate</li></ul><br />A <span class=\"concept\" data-cid=\"12229\">postmenopausal woman, or a man age \u226550 has a symptomatic osteoporotic vertebral fracture</span>:<br /><ul><li>general osteoporosis management as above</li><li>start treatment straight away - oral bisphosphonates are used first-line e.g. alendronate or risedronate</li></ul><br />Hip fracture in older adults<br /><ul><li>in <span class=\"concept\" data-cid=\"12229\">older adults a hip fracture is a manifestation of osteoporosis</span><ul><li><span class=\"concept\" data-cid=\"11815\">following a fragility fracture in women \u2265 75 years, a DEXA scan is not necessary to diagnose osteoporosis and hence commence a bisphosphonate</span></li><li>BMD should be measured, but this acts as a baseline rather than determining whether treatment should be given</li></ul></li><li>bisphosphonates should be given first-line<ul><li>NOGG recommends IV zoledronate but local guidelines may vary and oral bisphosphonates are often used</li></ul></li></ul><br /><h5 class='notes-heading'>Follow-up</h5><br />Plan to prescribe <span class=\"concept\" data-cid=\"7877\">oral bisphosphonates for at least 5 years</span>, or intravenous bisphosphonates for at least 3 years and then re-assess fracture risk.<br /><br /><h5 class='notes-heading'>Supplementary notes on treatment</h5><br />Bisphosphonates<br /><ul><li>bisphosphonates bind to hydroxyapatite in bone, inhibiting osteoclast-mediated bone resorption</li><li>common side effects include gastrointestinal discomfort, oesophagitis, and hypocalcaemia. Atypical femoral fractures and osteonecrosis of the jaw are rare but serious risks.</li><li>available in oral and intravenous formulations. Oral bisphosphonates should be taken with a full glass of water, on an empty stomach, and the patient should remain upright for at least 30 minutes afterwards.</li></ul><br />Denosumab<br /><ul><li>human monoclonal antibody that inhibits RANK ligand, which in turn inhibits the maturation of osteoclasts</li><li>also used for cancer patients with bone metastases to reduce skeletal-related events.</li><li>given as a single subcutaneous injection every 6 months</li></ul><br />Raloxifene <br /><ul><li>selective oestrogen receptor modulator (SERM)</li><li>has been shown to prevent bone loss and to reduce the risk of vertebral fractures, but has not yet been shown to reduce the risk of non-vertebral fractures</li><li>has been shown to increase bone density in the spine and proximal femur</li><li>may worsen menopausal symptoms</li><li>increased risk of thromboembolic events</li><li>may decrease the risk of breast cancer</li></ul><br />Strontium ranelate <br /><ul><li>'dual action bone agent' - increases deposition of new bone by osteoblasts (promotes differentiation of pre-osteoblast to osteoblast) and reduces the resorption of bone by inhibiting osteoclasts</li><li>concerns regarding the safety profile of strontium have been raised recently. It should only be prescribed by a specialist in secondary care</li><li>due to these concerns the European Medicines Agency in 2014 said it should only be used by people for whom there are no other treatments for osteoporosis</li><li>increased risk of cardiovascular events: any history of cardiovascular disease or significant risk of cardiovascular disease is a contraindication</li><li>increased risk of thromboembolic events: a Drug Safety Update in 2012 recommended it is not used in patients with a history of venous thromboembolism</li><li>may cause serious skin reactions such as Stevens Johnson syndrome</li></ul><br />Teriparatide<br /><ul><li>recombinant form of parathyroid hormone</li><li>very effective at increasing bone mineral density but role in the management of osteoporosis yet to be clearly defined</li></ul><br />Romosozumab<br /><ul><li>a monoclonal antibody that inhibits sclerostin, thereby increasing bone formation and decreasing bone resorption</li><li>this dual action significantly improves bone density and reduces fracture risk.</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb167b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb167.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb167b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>MRI showing osteoporotic fractures of the 10th and 12th thoracic vertebrae.</div>",
+        "notes_hash": "faf778f243e7726ef987b68f270f3f91",
+        "knowledge_graph_node_id_link": 10843,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5291",
+        "up_votes": "52",
+        "down_votes": "57",
+        "column_array": [
+            0,
+            "421",
+            "199",
+            "2416",
+            "245",
+            "2010",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>The National Osteoporosis Guideline Group</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1421\" data-linkid=\"1421\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1421\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1421\" data-linkid=\"1421\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1421\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nogg.org.uk/sites/nogg/download/NOGG-Guideline-2021-g.pdf\">2021 Clinical guideline for the prevention and treatment of osteoporosis</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_874\" data-linkid=\"874\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_874\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_874\" data-linkid=\"874\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_874\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/TA161/chapter/1-guidance\">2008 Osteoporosis: secondary prevention</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DBZIBFC8ang\" data-description=\"Osteoporosis pharmacology, prevention and treatment\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"1279\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/DBZIBFC8ang/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DBZIBFC8ang\" data-description=\"Osteoporosis pharmacology, prevention and treatment\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"1279\">Osteoporosis pharmacology, prevention and treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2260\" data-mediaid=\"2260\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2260\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2260\" data-mediaid=\"2260\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2260\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "11866_B_32",
+        "new_question_id": "30293",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11215",
+        "notes_id_link": "1_1720",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Nitrofurantoin for 3 days",
+            "Trimethoprim for 3 days",
+            "Gentamicin for 5 days",
+            "Trimethoprim for 5 days",
+            "Nitrofurantoin for 7 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 40-year-old man presents to his GP with dysuria and urinary frequency since yesterday. He has also noticed his urine is cloudy and foul-smelling. He has no flank pain and is systemically well. He has never experienced similar symptoms before.<br /><br />His urinalysis is positive for nitrites and leucocytes. <br /><br />What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This man has classical symptoms of a lower UTI (dysuria, urinary frequency) and has signs on urinalysis consistent with this diagnosis (nitrates and leucocytes). There is no suggestion of an upper UTI (he is systemically well with no flank pain) or prostatitis (again he is systemically well with no lower back/rectal pain reported). <br /><br />Trimethoprim or nitrofurantoin are both appropriate first-line antibiotics for suspected lower urinary tract infections. However, whilst a 3-day course is acceptable in women, men must be treated for 7 days and may need to be referred to a Urologist if they get a recurrence.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 40-year-old man presents to his GP with dysuria and urinary frequency since yesterday. He has also noticed his urine is cloudy and foul-smelling. He has no flank pain and is systemically well. He has never experienced similar symptoms before.<br /><br />His urinalysis is positive for nitrites and leucocytes. <br /><br />What is the most appropriate first-line treatment?",
+        "correct_answer": "5",
+        "question_notes": "This man has classical symptoms of a lower UTI (dysuria, urinary frequency) and has signs on urinalysis consistent with this diagnosis (nitrates and leucocytes). There is no suggestion of an upper UTI (he is systemically well with no flank pain) or prostatitis (again he is systemically well with no lower back/rectal pain reported). <br /><br />Trimethoprim or nitrofurantoin are both appropriate first-line antibiotics for suspected lower urinary tract infections. However, whilst a 3-day course is acceptable in women, men must be treated for 7 days and may need to be referred to a Urologist if they get a recurrence.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Urinary tract infection in adults: management",
+        "body": "<h5 class='notes-heading'>Lower urinary tract infections</h5><br />Non-pregnant women<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>NICE recommend <span class=\"concept\" data-cid=\"6116\"><b>trimethoprim or nitrofurantoin</b></span> for <span class=\"concept\" data-cid=\"11482\"><b>3 days</b></span></li><li>send a urine culture if:<ul><li><span class=\"concept\" data-cid=\"10467\">aged > 65 years</span></li><li><span class=\"concept\" data-cid=\"5063\">visible or non-visible haematuria</span></li></ul></li></ul><br />Pregnant women <br /><ul><li>if the pregnant woman is symptomatic: <ul><li>a urine culture should be sent in all cases</li><li>should be treated with an antibiotic for <span class=\"concept\" data-cid=\"10877\">7 days</span></li><li><span class=\"concept\" data-cid=\"10876\">first-line: nitrofurantoin</span> (<span class=\"concept\" data-cid=\"5061\">should be avoided near term</span>)</li><li>second-line: <span class=\"concept\" data-cid=\"11739\">amoxicillin or cefalexin</span></li><li><span class=\"concept\" data-cid=\"3201\">trimethoprim is teratogenic</span> in the first trimester and should be avoided during pregnancy</li></ul></li><li>asymptomatic bacteriuria in pregnant women:<ul><li>a urine culture should be performed routinely at the first antenatal visit</li><li>NICE recommend <span class=\"concept\" data-cid=\"419\">an immediate antibiotic prescription</span> of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course</li><li>the rationale of treating asymptomatic bacteriuria is the significant risk of progression to acute pyelonephritis</li><li>a further urine culture should be sent following completion of treatment as a <span class=\"concept\" data-cid=\"420\">test of cure</span></li></ul></li><li>women who suffer regular urinary tract infections following sexual intercourse can be offered <span class=\"concept\" data-cid=\"10529\">post-coital antibiotic prophylaxis</span> - single dose trimethoprim or nitrofurantoin are used first-line</li></ul><br />Men<br /><ul><li><span class=\"concept\" data-cid=\"10336\">an immediate antibiotic prescription should be offered</span> for <span class=\"concept\" data-cid=\"11214\"><b>7 days</b></span></li><li>as with non-pregnant women, <span class=\"concept\" data-cid=\"11215\">trimethoprim or nitrofurantoin</span> should be offered first-line unless prostatitis is suspected</li><li><span class=\"concept\" data-cid=\"11899\">a urine culture should be sent in all cases</span> before antibiotics are started</li><li>NICE state: <i>'<span class=\"concept\" data-cid=\"11213\">Referral to urology is not routinely required for men</span> who have had one uncomplicated lower urinary tract infection (UTI).'</i></li></ul><br />Catherised patients<br /><ul><li><span class=\"concept\" data-cid=\"4449\">do not treat asymptomatic bacteria in catheterised patients</span></li><li>if the patient is symptomatic they should be treated with an antibiotic<ul><li><span class=\"concept\" data-cid=\"5120\">a 7-day, rather than a 3-day course should be given</span></li><li>consider <span class=\"concept\" data-cid=\"11743\">removing or changing</span> the catheter as soon as possible if it has been in place for longer than 7 days</li></ul></li></ul>   <br /><br /><h5 class='notes-heading'>Acute pyelonephritis</h5><br />For patients with sign of acute pyelonephritis hospital admission should be considered<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>the BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days</li></ul>",
+        "notes_hash": "5cc1a10907b708a4f6aee5157927f8f9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "6004",
+        "up_votes": "33",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "603",
+            "186",
+            "12",
+            "290",
+            "4913",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1863\" data-linkid=\"1863\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1863\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1863\" data-linkid=\"1863\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1863\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/urinary-tract-infections.html\">Urinary-tract infections</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1vIHTAnBmuU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\">Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2039\" data-mediaid=\"2039\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2039\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2039\" data-mediaid=\"2039\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2039\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "419": {
+                "concept_text": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+                "concept_percentile": "70"
+            },
+            "4449": {
+                "concept_text": "Do not treat asymptomatic bacteria in catheterised patients",
+                "concept_percentile": "61"
+            },
+            "6116": {
+                "concept_text": "Trimethoprim or nitrofurantoin are the first-line antibiotics for lower UTIs",
+                "concept_percentile": "11"
+            },
+            "10467": {
+                "concept_text": "An MSU should be sent for all women over > 65-years-old with a suspected urinary tract infection",
+                "concept_percentile": "99"
+            },
+            "10876": {
+                "concept_text": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+                "concept_percentile": "69"
+            },
+            "10877": {
+                "concept_text": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+                "concept_percentile": "36"
+            },
+            "11215": {
+                "concept_text": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+                "concept_percentile": "83"
+            },
+            "11482": {
+                "concept_text": "Non-pregnant women with uncomplicated lower UTI only need 3 days of antibiotics",
+                "concept_percentile": "45"
+            },
+            "11743": {
+                "concept_text": "Consider removing or changing the catheter if a UTI develops",
+                "concept_percentile": "38"
+            },
+            "11899": {
+                "concept_text": "All men with a suspected UTI should have a urine culture sent before starting antibiotics",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_203",
+        "new_question_id": "1626",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1185",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise him to self certify for 5 days and then continue working",
+            "Advise him that he may continue driving as long as is blood pressure is not consistently above 180mmHg systolic or above 100mmHg diastolic",
+            "Advise him to contact the DVLA immediately to let them know about the diagnosis and stop driving in the interim",
+            "Advise him that he can continue working as long as he checks his blood pressure every 12 hours",
+            "Advise him that a diagnosis of high blood pressure means he can only work for 40 hours or less a week",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old bus driver comes to see you as he has noticed that for the past 2 weeks he has had a frontal headache. You perform 3 blood pressure readings, the lowest of which is 170/100mmHg. A 24-hour tape reveals average blood pressure readings of 160/90mmHg. You discuss starting medication for hypertension with him. He is happy to start taking medication, however, is worried about the impact that this diagnosis will have on his job. <br /><br />Which one of the following would you advise?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Those driving cars or motorcycles need not notify the DVLA about their hypertension. However, they should not drive if their symptoms would prevent them from driving safely. <br /><br />The same rules apply to those who drive buses and lorries. However, if their resting blood pressure is consistently above 180mmHg systolic or above 100mmHg diastolic they should stop driving and inform the DVLA<br /><br />Source : https://www.gov.uk/guidance/cardiovascular-disorders-assessing-fitness-to-drive#hypertension",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old bus driver comes to see you as he has noticed that for the past 2 weeks he has had a frontal headache. You perform 3 blood pressure readings, the lowest of which is 170/100mmHg. A 24-hour tape reveals average blood pressure readings of 160/90mmHg. You discuss starting medication for hypertension with him. He is happy to start taking medication, however, is worried about the impact that this diagnosis will have on his job. <br /><br />Which one of the following would you advise?",
+        "correct_answer": "2",
+        "question_notes": "Those driving cars or motorcycles need not notify the DVLA about their hypertension. However, they should not drive if their symptoms would prevent them from driving safely. <br /><br />The same rules apply to those who drive buses and lorries. However, if their resting blood pressure is consistently above 180mmHg systolic or above 100mmHg diastolic they should stop driving and inform the DVLA<br /><br />Source : https://www.gov.uk/guidance/cardiovascular-disorders-assessing-fitness-to-drive#hypertension",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "DVLA: cardiovascular disorders",
+        "body": "The guidelines below relate to car/motorcycle use unless specifically stated. For obvious reasons, the rules relating to drivers of heavy goods vehicles tend to be much stricter<br /><br />Specific rules<br /><ul><li><span class=\"concept\" data-cid=\"211\">hypertension</span> <ul><li>can drive unless treatment causes unacceptable side effects, no need to notify DVLA</li><li>if Group 2 Entitlement the disqualifies from driving if resting BP consistently 180 mmHg systolic or more and/or 100 mm Hg diastolic or more</li></ul></li><li><span class=\"concept\" data-cid=\"209\">angioplasty (elective)</span> - 1 week off driving</li><li>CABG - 4 weeks off driving</li><li>a<span class=\"concept\" data-cid=\"208\">cute coronary syndrome</span>- 4 weeks off driving<ul><li>1 week if successfully treated by angioplasty</li></ul></li><li>angina - driving must cease if symptoms occur at rest/at the wheel</li><li><span class=\"concept\" data-cid=\"4325\">pacemaker insertion</span> - 1 week off driving</li><li>implantable cardioverter-defibrillator (ICD)<ul><li>if implanted for sustained ventricular arrhythmia: cease driving for 6 months</li><li>if implanted prophylactically then cease driving for 1 month. Having an <span class=\"concept\" data-cid=\"210\">ICD results in a permanent bar for Group 2 drivers</span></li></ul></li><li>successful catheter ablation for an arrhythmia- 2 days off driving</li><li>aortic aneurysm of 6cm or more - notify DVLA. Licensing will be permitted subject to annual review. <ul><li>an aortic diameter of 6.5 cm or more disqualifies patients from driving</li></ul></li><li>heart transplant: do not drive for 6 weeks, no need to notify DVLA</li></ul>",
+        "notes_hash": "35cb1d8b0db5a30e06a38e6d56cc0c4b",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "8468",
+        "up_votes": "43",
+        "down_votes": "41",
+        "column_array": [
+            0,
+            "467",
+            "6010",
+            "1118",
+            "644",
+            "229",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DVLA</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1109\" data-linkid=\"1109\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1109\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">55</span><button type=\"button\" style=\"\" id=\"link_dislike_1109\" data-linkid=\"1109\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1109\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">27</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals\">Fitness to drive guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_511",
+        "new_question_id": "37271",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3272",
+        "notes_id_link": "1_2657",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Check the mass again in three months",
+            "Discharge and safety netting",
+            "Prescribe oral antibiotics",
+            "Refer for aspiration",
+            "Refer for surgical excision",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old woman presents to her general practitioner concerned about a lump in her breast. She first noticed it three weeks ago while showering and it is causing her trouble in wearing her bra. <br /><br />On examination, a 4 cm, firm, non-tethered lump can be felt in the upper left quadrant of the right breast. The contour and surface are smooth, the overlying skin is intact and it does not transilluminate. The doctor refers her for a triple assessment which shows a fibroadenoma. <br /><br />What is the next treatment in her care?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>refer for surgical excision</b>. This patient is presenting with a breast lump which has the classical feature of a fibroadenoma, a benign mass developing from the whole lobule. They are usually described as 'breast mice' as they are small, firm, smooth masses which are non-tethered to the underlying structures and hence move freely around. They are usually treated conservatively, but they are referred for surgical excision if they are more than 3 cm in size, as in this case, due to discomfort. <br /><br /><b>Check the mass again in three months</b> is incorrect, as fibroadenomas, especially if diagnosed via triple assessment, very rarely will develop into cancer. The reason for excision is discomfort, which the patient is feeling in this case. <br /><br /><b>Discharge and safety netting</b> is an incorrect option as the patient is experiencing discomfort due to the mass and hence it should be removed. <br /><br /><b>Prescribe oral antibiotics</b> is incorrect as this management plan would be implemented in cases of mastitis, an inflammation of the nipple often occurring during breastfeeding. It would present with burning pain and generalised malaise, which are absent in this case. <br /><br /><b>Refer for aspiration</b> is incorrect as this is the management plan for breast cyst. This would present with a smooth discrete lump which might be fluctuant. But in this case, the triple assessment confirmed a fibroadenoma, making the option incorrect.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old woman presents to her general practitioner concerned about a lump in her breast. She first noticed it three weeks ago while showering and it is causing her trouble in wearing her bra. <br /><br />On examination, a 4 cm, firm, non-tethered lump can be felt in the upper left quadrant of the right breast. The contour and surface are smooth, the overlying skin is intact and it does not transilluminate. The doctor refers her for a triple assessment which shows a fibroadenoma. <br /><br />What is the next treatment in her care?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>refer for surgical excision</b>. This patient is presenting with a breast lump which has the classical feature of a fibroadenoma, a benign mass developing from the whole lobule. They are usually described as 'breast mice' as they are small, firm, smooth masses which are non-tethered to the underlying structures and hence move freely around. They are usually treated conservatively, but they are referred for surgical excision if they are more than 3 cm in size, as in this case, due to discomfort. <br /><br /><b>Check the mass again in three months</b> is incorrect, as fibroadenomas, especially if diagnosed via triple assessment, very rarely will develop into cancer. The reason for excision is discomfort, which the patient is feeling in this case. <br /><br /><b>Discharge and safety netting</b> is an incorrect option as the patient is experiencing discomfort due to the mass and hence it should be removed. <br /><br /><b>Prescribe oral antibiotics</b> is incorrect as this management plan would be implemented in cases of mastitis, an inflammation of the nipple often occurring during breastfeeding. It would present with burning pain and generalised malaise, which are absent in this case. <br /><br /><b>Refer for aspiration</b> is incorrect as this is the management plan for breast cyst. This would present with a smooth discrete lump which might be fluctuant. But in this case, the triple assessment confirmed a fibroadenoma, making the option incorrect.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Breast fibroadenoma",
+        "body": "Fibroadenoma basics<br /><ul><li>Develop from a whole lobule</li><li><span class=\"concept\" data-cid=\"4786\">Mobile, firm, smooth breast lump - a 'breast mouse'</span></li><li>12% of all breast masses</li><li>Over a 2 year period up to 30% will get smaller</li><li>No increase in risk of malignancy</li><li><span class=\"concept\" data-cid=\"3272\">If >3cm surgical excision is usual</span></li></ul>",
+        "notes_hash": "2d7a7ad259402fab2b51115735c7430e",
+        "knowledge_graph_node_id_link": 1177,
+        "concept": "Breast fibroadenoma: surgical excision is usual if >3cm",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4476",
+        "up_votes": "41",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "594",
+            "1721",
+            "6",
+            "136",
+            "2019",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3272": {
+                "concept_text": "Breast fibroadenoma: surgical excision is usual if >3cm",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_737",
+        "new_question_id": "3771",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1645",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Topical steroid and review in 2 days",
+            "Refer immediately to ophthalmology",
+            "Treat with subcutaneous sumatriptan",
+            "Topical aciclovir and review in 2 days",
+            "Topical chloramphenicol and review in 2 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old woman presents with a one-day history of a painful and red left eye. She describes how her eye is continually streaming tears. On examination she exhibits a degree of photophobia in the affected eye and fluorescein staining demonstrates a small, feathery area of abnormal uptake. Visual acuity is 6/6 in both eyes. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient may have a corneal abrasion or a dendritic corneal ulcer, particularly given the photophobia. The feathery pattern however points more towards a herpes simplex keratitis. Such a patient should be reviewed immediately by an ophthalmologist. Giving a topical steroid in this situation could be disastrous as it may worsen the infection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman presents with a one-day history of a painful and red left eye. She describes how her eye is continually streaming tears. On examination she exhibits a degree of photophobia in the affected eye and fluorescein staining demonstrates a small, feathery area of abnormal uptake. Visual acuity is 6/6 in both eyes. What is the most appropriate management?",
+        "correct_answer": "2",
+        "question_notes": "This patient may have a corneal abrasion or a dendritic corneal ulcer, particularly given the photophobia. The feathery pattern however points more towards a herpes simplex keratitis. Such a patient should be reviewed immediately by an ophthalmologist. Giving a topical steroid in this situation could be disastrous as it may worsen the infection.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Herpes simplex keratitis",
+        "body": "Herpes simplex keratitis most commonly presents with a dendritic corneal ulcer.<br /><br />Features<br /><ul><li>red, painful eye</li><li>photophobia</li><li>epiphora</li><li>visual acuity may be decreased</li><li>fluorescein staining may show an epithelial ulcer</li></ul><br />Management<br /><ul><li>immediate referral to an ophthalmologist</li><li><span class=\"concept\" data-cid=\"5437\">topical aciclovir</span></li></ul>",
+        "notes_hash": "d7b0465c8ef5fdd8fa12f69c2467db34",
+        "knowledge_graph_node_id_link": 1355,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5125",
+        "up_votes": "34",
+        "down_votes": "59",
+        "column_array": [
+            0,
+            "114",
+            "3341",
+            "33",
+            "994",
+            "643",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>American Acadamy of Ophthalmology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1136\" data-linkid=\"1136\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1136\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1136\" data-linkid=\"1136\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1136\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.aao.org/eye-health/diseases/herpes-keratitis\">What is Herpes Keratitis?</a></td></tr></table>",
+        "media": "",
+        "comment_count": 13,
+        "concepts_for_notes": {
+            "5437": {
+                "concept_text": "Treatment for herpes simplex keratitis is topical aciclovir",
+                "concept_percentile": "76"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "19895_B_44",
+        "new_question_id": "39892",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "1128",
+        "notes_id_link": "1_2158",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Broca's aphasia",
+            "Conduction aphasia",
+            "Global aphasia",
+            "Transcortical motor aphasia",
+            "Wernicke's aphasia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old man is diagnosed with an acute ischaemic stroke. On assessment, you identify a right superior visual field defect. He is aphasic. His speech is fluent and voluminous but makes little sense. His comprehension and production of written language are also impaired. <br /><br />What type of aphasia does this represent?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Wernicke's aphasia</b> is correct. Associated with lesions in the posterior superior temporal gyrus, it is sometimes termed fluent aphasia or receptive aphasia. Speech remains fluent but makes little sense and commonly includes nonsense or irrelevant words. Interestingly, the person does not realise they are using incorrect words. <br /><br /><b>Broca's aphasia</b> is incorrect. This is classically caused by lesions affecting the frontal lobe and is called non-fluent or expressive aphasia. Patients have difficulty speaking fluently, and their speech may be limited to a few words at a time. Speech is halting or effortful. Generally, there are able to understand speech well and maintain the ability to read. <br /><br /><b>Conduction aphasia</b> is incorrect. This refers to a syndrome of fluent aphasia with preserved comprehension but frequent paraphasic errors (errors in the selection of words). Patients often try repeatedly to correct their errors. <br /><br /><b>Global aphasia</b> is incorrect. This is the most severe type of aphasia. Patients can only produce a few recognisable words. They understand very little or no spoken language. It is caused by extensive injury affecting both Broca's and Wernicke's areas. <br /><br /><b>Transcortical motor aphasia</b> is incorrect. Often the result of recovery from Broca's aphasia and is characterised by non-fluent speech and good comprehension. They have difficulty initiating speech.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old man is diagnosed with an acute ischaemic stroke. On assessment, you identify a right superior visual field defect. He is aphasic. His speech is fluent and voluminous but makes little sense. His comprehension and production of written language are also impaired. <br /><br />What type of aphasia does this represent?",
+        "correct_answer": "5",
+        "question_notes": "<b>Wernicke's aphasia</b> is correct. Associated with lesions in the posterior superior temporal gyrus, it is sometimes termed fluent aphasia or receptive aphasia. Speech remains fluent but makes little sense and commonly includes nonsense or irrelevant words. Interestingly, the person does not realise they are using incorrect words. <br /><br /><b>Broca's aphasia</b> is incorrect. This is classically caused by lesions affecting the frontal lobe and is called non-fluent or expressive aphasia. Patients have difficulty speaking fluently, and their speech may be limited to a few words at a time. Speech is halting or effortful. Generally, there are able to understand speech well and maintain the ability to read. <br /><br /><b>Conduction aphasia</b> is incorrect. This refers to a syndrome of fluent aphasia with preserved comprehension but frequent paraphasic errors (errors in the selection of words). Patients often try repeatedly to correct their errors. <br /><br /><b>Global aphasia</b> is incorrect. This is the most severe type of aphasia. Patients can only produce a few recognisable words. They understand very little or no spoken language. It is caused by extensive injury affecting both Broca's and Wernicke's areas. <br /><br /><b>Transcortical motor aphasia</b> is incorrect. Often the result of recovery from Broca's aphasia and is characterised by non-fluent speech and good comprehension. They have difficulty initiating speech.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Aphasia",
+        "body": "The table below lists the major types of aphasia. Remember that dysarthria is different and refers to a motor speech disorder.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type of aphasia</b></th><th><b>Notes</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"1128\">Wernicke's (receptive) aphasia</span></td><td>Due to a lesion of the <span class=\"concept\" data-cid=\"4340\">superior temporal gyrus</span>. It is typically supplied by the inferior division of the <span class=\"concept\" data-cid=\"8758\">left MCA</span> <br /><br />This area 'forms' the speech before 'sending it' to Broca's area. Lesions result in sentences that make no sense, word substitution and neologisms but speech remains fluent - 'word salad'<br /><br />Comprehension is impaired</td></tr><tr><td><span class=\"concept\" data-cid=\"1130\">Broca's (expressive) aphasia</span></td><td>Due to a <span class=\"concept\" data-cid=\"9938\">lesion of the inferior frontal gyrus</span>. It is typically supplied by the superior division of the <span class=\"concept\" data-cid=\"8759\">left MCA</span> <br /><br />Speech is non-fluent, laboured, and halting. Repetition is impaired<br /><br />Comprehension is normal</td></tr><tr><td><span class=\"concept\" data-cid=\"1129\">Conduction aphasia</span></td><td><span class=\"concept\" data-cid=\"9941\">Classically due to a stroke affecting the arcuate fasiculus - the connection between Wernicke's and Broca's area</span><br /><br />Speech is fluent but repetition is poor. Aware of the errors they are making<br /><br />Comprehension is normal</td></tr><tr><td>Global aphasia</td><td>Large lesion affecting all 3 of the above areas resulting in severe expressive and receptive aphasia<br /><br />May still be able to communicate using gestures</td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd556b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd556.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd556b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the main types of aphasia</div>",
+        "notes_hash": "18f3cff49e46a12f14afa92687fac158",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Wernicke's dysphasia: speech fluent, comprehension abnormal, repetition impaired",
+        "concept_percentile": "59",
+        "concept_colour": "rgb(209,255,0)",
+        "number_attempts": "4160",
+        "up_votes": "17",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "834",
+            "236",
+            "668",
+            "43",
+            "2379",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/G9SZJxjDJpc\" data-description=\"Aphasia\" data-upvotes=\"12\" data-downvotes=\"6\" data-media=\"1204\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/G9SZJxjDJpc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/G9SZJxjDJpc\" data-description=\"Aphasia\" data-upvotes=\"12\" data-downvotes=\"6\" data-media=\"1204\">Aphasia</a></td></tr><tr><td><span ><small>Medicoapps - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2112\" data-mediaid=\"2112\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2112\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_2112\" data-mediaid=\"2112\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2112\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "1128": {
+                "concept_text": "Wernicke's dysphasia: speech fluent, comprehension abnormal, repetition impaired",
+                "concept_percentile": "59"
+            },
+            "1130": {
+                "concept_text": "Broca's dysphasia: speech non-fluent, comprehension normal, repetition impaired",
+                "concept_percentile": "71"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1891",
+        "new_question_id": "9506",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "777",
+        "notes_id_link": "1_611",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amoxicillin",
+            "Augmentin (amoxicillin and clavulinic acid)",
+            "Ciprofloxacin",
+            "Nitrofurantoin",
+            "Trimethoprim",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old woman presents to her GP with symptoms of dysuria and increased urinary frequency. She is otherwise systemically well with no signs of sepsis. Urine dip in the GP surgery shows blood, leukocytes, protein and nitrites. The patients medical history is significant only for asthma for which she takes salbutamol and beclomethasone inhalers, hypertension for which she takes amlodipine 10mg daily and ramipril 5mg daily, and chronic kidney disease, stage 3.<br /><br />Which of the following antibiotics is best avoided in the treatment of this patients urine infection?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This question is about antibiotic prescribing in chronic kidney disease (CKD). Many drugs need dose adjustment in renal disease due to changes in drug metabolism and also pharmacokinetics. Often this dose adjustment is made on the level of the estimated glomerular filtration rate (eGFR) which is a calculated surrogate of renal function using the serum creatinine. Stages of chronic kidney disease are classified according to the eGFR; stage 3 CKD equates to an eGFR of 30-59ml/min.<br /><br />Nitrofurantoin is a relatively old and unique antibiotic which has enjoyed a new lease of life with increasing antibiotic resistance. It is actually an inactive pro-drug which is reduced in vivo to active forms by the bacterial flavoprotein nitrofuran reductase, and it is these reduced forms of the drug which  exert their antibiotic properties by damaging bacterial proteins. In order to be effective at treating urinary tract infections, nitrofurantoin needs to be concentrated in the urine and an adequate glomerular filtration is required for this to occur. An eGFR of less than 40-60ml/min means that the drug is wholly ineffective as a bactericidal agent and is not recommended in patients with CKD stage 3 or worse due to the likelihood of treatment failure. Coupled with this is the risk of drug toxicity in the patient. Without adequate renal filtration, the drug is likely to accumulate. Although bacterial flavoproteins activate nitrofurantoin more readily, human enzymes can reduce this drug to generate many highly active radical species, which can cause side effects including peripheral neuropathy, which may not be reversible, hepatotoxicity and acute and chronic pulmonary reactions and fibrosis.<br /><br />Patients taking nitrofurantoin should be advised that this drug will discolour the urine. It is also a safe drug to use in pregnancy except at full term when there is a risk of haemolysis in the neonate.<br /><br />Amoxicillin and co-amoxiclav are widely used antibiotics in the treatment of urinary tract infections and are relatively safe in renal impairment. Dose reduction is recommended in severe chronic renal disease, i.e. an eGFR <15-30ml/min to avoid the risk of crystalluria. Similarly, a reduction in dose is necessary for ciprofloxacin in CKD to avoid crystalluria although this is recommended from an eGFR of 30-60ml/min.<br /><br />Trimethoprim is an antibiotic which is entirely safe to use in all but the most severe forms of chronic kidney disease where a modest dose adjustment is required. It should be noted however that use of trimethoprim is likely to affect the results of renal function tests since the drug inhibits tubular secretion of creatinine leading to a rise in serum levels in all patients, including those with previously normal renal function. This is without any effect on the glomerular filtration rate. ",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old woman presents to her GP with symptoms of dysuria and increased urinary frequency. She is otherwise systemically well with no signs of sepsis. Urine dip in the GP surgery shows blood, leukocytes, protein and nitrites. The patients medical history is significant only for asthma for which she takes salbutamol and beclomethasone inhalers, hypertension for which she takes amlodipine 10mg daily and ramipril 5mg daily, and chronic kidney disease, stage 3.<br /><br />Which of the following antibiotics is best avoided in the treatment of this patients urine infection?",
+        "correct_answer": "4",
+        "question_notes": "This question is about antibiotic prescribing in chronic kidney disease (CKD). Many drugs need dose adjustment in renal disease due to changes in drug metabolism and also pharmacokinetics. Often this dose adjustment is made on the level of the estimated glomerular filtration rate (eGFR) which is a calculated surrogate of renal function using the serum creatinine. Stages of chronic kidney disease are classified according to the eGFR; stage 3 CKD equates to an eGFR of 30-59ml/min.<br /><br />Nitrofurantoin is a relatively old and unique antibiotic which has enjoyed a new lease of life with increasing antibiotic resistance. It is actually an inactive pro-drug which is reduced in vivo to active forms by the bacterial flavoprotein nitrofuran reductase, and it is these reduced forms of the drug which  exert their antibiotic properties by damaging bacterial proteins. In order to be effective at treating urinary tract infections, nitrofurantoin needs to be concentrated in the urine and an adequate glomerular filtration is required for this to occur. An eGFR of less than 40-60ml/min means that the drug is wholly ineffective as a bactericidal agent and is not recommended in patients with CKD stage 3 or worse due to the likelihood of treatment failure. Coupled with this is the risk of drug toxicity in the patient. Without adequate renal filtration, the drug is likely to accumulate. Although bacterial flavoproteins activate nitrofurantoin more readily, human enzymes can reduce this drug to generate many highly active radical species, which can cause side effects including peripheral neuropathy, which may not be reversible, hepatotoxicity and acute and chronic pulmonary reactions and fibrosis.<br /><br />Patients taking nitrofurantoin should be advised that this drug will discolour the urine. It is also a safe drug to use in pregnancy except at full term when there is a risk of haemolysis in the neonate.<br /><br />Amoxicillin and co-amoxiclav are widely used antibiotics in the treatment of urinary tract infections and are relatively safe in renal impairment. Dose reduction is recommended in severe chronic renal disease, i.e. an eGFR <15-30ml/min to avoid the risk of crystalluria. Similarly, a reduction in dose is necessary for ciprofloxacin in CKD to avoid crystalluria although this is recommended from an eGFR of 30-60ml/min.<br /><br />Trimethoprim is an antibiotic which is entirely safe to use in all but the most severe forms of chronic kidney disease where a modest dose adjustment is required. It should be noted however that use of trimethoprim is likely to affect the results of renal function tests since the drug inhibits tubular secretion of creatinine leading to a rise in serum levels in all patients, including those with previously normal renal function. This is without any effect on the glomerular filtration rate. ",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Prescribing in patients with renal failure",
+        "body": "Questions regarding which drugs to avoid in renal failure are common<br /><br />Drugs to avoid in renal failure<br /><ul><li>antibiotics: tetracycline, nitrofurantoin</li><li>NSAIDs</li><li>lithium</li><li>metformin</li></ul><br />Drugs likely to accumulate in chronic kidney disease - need dose adjustment<br /><ul><li>most antibiotics including penicillins, cephalosporins, vancomycin, gentamicin, streptomycin</li><li>digoxin, atenolol</li><li>methotrexate</li><li>sulphonylureas</li><li>furosemide</li><li>opioids</li></ul><br />Drugs relatively safe - can sometimes use normal dose depending on the degree of chronic kidney disease<br /><ul><li>antibiotics: erythromycin, rifampicin</li><li>diazepam</li><li>warfarin</li></ul>",
+        "notes_hash": "04f3aefe28c5192c6904cba10f73aad7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Nitrofurantoin is best avoided in patients with CKD stage 3 or higher due to the significant risk of treatment failure and occurrence of side effects due to drug accumulation",
+        "concept_percentile": "84",
+        "concept_colour": "rgb(81,255,0)",
+        "number_attempts": "5620",
+        "up_votes": "155",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "116",
+            "316",
+            "1330",
+            "2394",
+            "1464",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 13,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

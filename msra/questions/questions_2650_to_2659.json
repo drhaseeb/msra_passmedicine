@@ -1,0 +1,819 @@
+[
+    {
+        "question_id": "1_B_1576",
+        "new_question_id": "3581",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "0",
+        "notes_id_link": "1_161",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "HBcAg",
+            "HBsAg",
+            "Hepatitis B viral load",
+            "anti-HBs",
+            "HBeAg",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old patient attends your GP clinic for a routine health check and requests screening for hepatitis B infection. They are unsure of their vaccination status and have no symptoms. You want to identify if they currently have an active hepatitis B infection.<br /><br />Which of the following is the most appropriate initial screening test?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The most appropriate initial screening test for current hepatitis B infection is hepatitis B surface antigen (HBsAg).<br /><br />HBsAg is the first serological marker to appear in acute infection and remains positive in chronic infection. Its presence indicates an active hepatitis B infection, whether acute or chronic. Therefore, it is the recommended screening test for identifying individuals who are currently infected.<br /><br />HBcAg (hepatitis B core antigen) is not detectable in blood, as it remains intracellular within infected hepatocytes. Instead, anti-HBc antibodies (particularly IgM and IgG) are used to assess prior exposure or ongoing infection, but they are not appropriate for first-line screening.<br /><br />Anti-HBs indicates immunity, either from past infection or successful vaccination, and would not detect current infection.<br /><br />HBeAg is a marker of viral replication and infectivity, but it is only present during a specific phase of infection and is not suitable for initial screening.<br /><br />Hepatitis B viral load (HBV DNA) is used for monitoring known cases of infection and assessing response to treatment, not for initial diagnosis.<br /><br />When screening asymptomatic patients or those with unknown status, HBsAg remains the gold-standard test to determine active infection. If positive, additional tests (anti-HBc, anti-HBs, HBV DNA) can be used to characterise the phase of infection, immunity status, or infectivity.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old patient attends your GP clinic for a routine health check and requests screening for hepatitis B infection. They are unsure of their vaccination status and have no symptoms. You want to identify if they currently have an active hepatitis B infection.<br /><br />Which of the following is the most appropriate initial screening test?",
+        "correct_answer": "2",
+        "question_notes": "The most appropriate initial screening test for current hepatitis B infection is hepatitis B surface antigen (HBsAg).<br /><br />HBsAg is the first serological marker to appear in acute infection and remains positive in chronic infection. Its presence indicates an active hepatitis B infection, whether acute or chronic. Therefore, it is the recommended screening test for identifying individuals who are currently infected.<br /><br />HBcAg (hepatitis B core antigen) is not detectable in blood, as it remains intracellular within infected hepatocytes. Instead, anti-HBc antibodies (particularly IgM and IgG) are used to assess prior exposure or ongoing infection, but they are not appropriate for first-line screening.<br /><br />Anti-HBs indicates immunity, either from past infection or successful vaccination, and would not detect current infection.<br /><br />HBeAg is a marker of viral replication and infectivity, but it is only present during a specific phase of infection and is not suitable for initial screening.<br /><br />Hepatitis B viral load (HBV DNA) is used for monitoring known cases of infection and assessing response to treatment, not for initial diagnosis.<br /><br />When screening asymptomatic patients or those with unknown status, HBsAg remains the gold-standard test to determine active infection. If positive, additional tests (anti-HBc, anti-HBs, HBV DNA) can be used to characterise the phase of infection, immunity status, or infectivity.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hepatitis B serology",
+        "body": "Interpreting hepatitis B serology is a dying art form which still occurs at regular intervals in medical exams. It is important to remember a few key facts:<br /><ul><li>surface antigen (HBsAg) is the first marker to appear and causes the production of anti-HBs</li><li><span class=\"concept\" data-cid=\"9391\">HBsAg normally implies acute disease (present for 1-6 months)</span></li><li>if HBsAg is present for > 6 months then this implies <span class=\"concept\" data-cid=\"8311\">chronic disease</span> (i.e. Infective)</li><li>Anti-HBs implies immunity (either exposure or immunisation). It is negative in chronic disease</li><li>Anti-HBc implies previous (or current) infection. IgM anti-HBc appears during acute or recent hepatitis B infection and is present for about 6 months. IgG anti-HBc persists</li><li>HbeAg results from breakdown of core antigen from infected liver cells as is, therefore, a marker of infectivity. Marker of HBV replication and infectivity</li></ul><br />Example results<br /><ul><li><span class=\"concept\" data-cid=\"9389\">previous immunisation: anti-HBs positive, all others negative</span></li><li><span class=\"concept\" data-cid=\"9390\">previous hepatitis B (> 6 months ago), not a carrier: anti-HBc positive, HBsAg negative</span></li><li>previous hepatitis B, now a carrier: anti-HBc positive, HBsAg positive</li></ul><br /><div class='alert alert-warning'>HBsAg = ongoing infection, either <span class=\"concept\" data-cid=\"9391\">acute</span> or <span class=\"concept\" data-cid=\"8311\">chronic</span> if present > 6 months<br /><br />anti-HB<b>c</b> = <b>c</b>aught, i.e. negative if immunized<br /></div>",
+        "notes_hash": "afc95bd0669ae1d4e5582976f757e05c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5085",
+        "up_votes": "5",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "475",
+            "3730",
+            "224",
+            "458",
+            "198",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Centers for Disease Control and Prevention</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_526\" data-linkid=\"526\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_526\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_526\" data-linkid=\"526\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_526\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.cdc.gov/hepatitis/hbv/pdfs/serologicchartv8.pdf\">Interpretation of Hepatitis B Serologic Test Results</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sndUqE1QAKU\" data-description=\"Interpreting Hepatitis B Serology Made Easy\" data-upvotes=\"77\" data-downvotes=\"6\" data-media=\"430\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sndUqE1QAKU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sndUqE1QAKU\" data-description=\"Interpreting Hepatitis B Serology Made Easy\" data-upvotes=\"77\" data-downvotes=\"6\" data-media=\"430\">Interpreting Hepatitis B Serology Made Easy</a></td></tr><tr><td><span ><small>Medical StudyBuddy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_746\" data-mediaid=\"746\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_746\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">77</span><button type=\"button\" style=\"\" id=\"media_dislike_746\" data-mediaid=\"746\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_746\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/h_9EBVPADNE\" data-description=\"Understanding Hepatitis B Serology Results\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"772\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/h_9EBVPADNE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/h_9EBVPADNE\" data-description=\"Understanding Hepatitis B Serology Results\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"772\">Understanding Hepatitis B Serology Results</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1344\" data-mediaid=\"1344\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1344\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_1344\" data-mediaid=\"1344\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1344\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/B9j3VuiU-s8\" data-description=\"Viral hepatitis\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"3\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/B9j3VuiU-s8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/B9j3VuiU-s8\" data-description=\"Viral hepatitis\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"3\">Viral hepatitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_574\" data-mediaid=\"574\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_574\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_574\" data-mediaid=\"574\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_574\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OVXKQ-Hup7M\" data-description=\"Interpreting Hepatitis B serology\" data-upvotes=\"5\" data-downvotes=\"4\" data-media=\"514\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OVXKQ-Hup7M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OVXKQ-Hup7M\" data-description=\"Interpreting Hepatitis B serology\" data-upvotes=\"5\" data-downvotes=\"4\" data-media=\"514\">Interpreting Hepatitis B serology</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_894\" data-mediaid=\"894\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_894\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_894\" data-mediaid=\"894\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_894\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "8311": {
+                "concept_text": "Positive anti-HBc IgG, negative anti-HBc IgM and negative anti-HBc in the presence of HBsAg implies chronic HBV infection",
+                "concept_percentile": "40"
+            },
+            "9389": {
+                "concept_text": "HBsAg negative, anti-HBs positive, IgG anti-HBc negative - previous immunisation",
+                "concept_percentile": "42"
+            },
+            "9390": {
+                "concept_text": "HBsAg negative, anti-HBs positive, IgG anti-HBc positive - previous infection, not a carrier",
+                "concept_percentile": "46"
+            },
+            "9391": {
+                "concept_text": "HBsAg positive, anti-HBs negative, IgM anti-HBc positive - acute infection",
+                "concept_percentile": "35"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2074",
+        "new_question_id": "6214",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2015",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise mother to stop breast feeding and treat mother and baby simultaneously",
+            "Continue breast feeding treat both the mother and baby simultaneously",
+            "stop breast feeding and treat the mother only",
+            "No treatment necessary, continue breast feeding",
+            "Continue breast feeding and only treat the mother",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An actively breast-feeding mother comes into the GP surgery complaining of a sore nipple, and presence of a white discharge from the nipple. You suspect that she has a candidal infection. What treatment and advice should be given?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Treatment of the candidal infection is necessary.  In order to fully treat the infection both the mother and child should be treated, usually with miconazole cream applied to the nipple post feed and the oral mucosa of the infant.  Breast feeding should be continued during treatment.<br /><br />Education to the mother should also be given: Good hand hygiene after nappy change, sterilisation of anything that the baby puts in their mouth (dummies, teats etc)",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An actively breast-feeding mother comes into the GP surgery complaining of a sore nipple, and presence of a white discharge from the nipple. You suspect that she has a candidal infection. What treatment and advice should be given?",
+        "correct_answer": "2",
+        "question_notes": "Treatment of the candidal infection is necessary.  In order to fully treat the infection both the mother and child should be treated, usually with miconazole cream applied to the nipple post feed and the oral mucosa of the infant.  Breast feeding should be continued during treatment.<br /><br />Education to the mother should also be given: Good hand hygiene after nappy change, sterilisation of anything that the baby puts in their mouth (dummies, teats etc)",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Breastfeeding problems",
+        "body": "'Minor' breastfeeding problems<br /><ul><li><span class=\"concept\" data-cid=\"9813\">frequent feeding in a breastfed infant is not alone a sign of low milk supply</span></li><li><span class=\"concept\" data-cid=\"9816\">nipple pain: may be caused by a poor latch</span> </li><li><span class=\"concept\" data-cid=\"9814\">blocked duct ('milk bleb')</span>: causes nipple pain when breastfeeding. Breastfeeding should continue. Advice should be sought regarding the positioning of the baby. Breast massage may also be tried</li><li>nipple candidiasis: <span class=\"concept\" data-cid=\"9817\">treatment for nipple candidiasis whilst breastfeeding should involve miconazole cream for the mother and nystatin suspension for the baby</span></li></ul><br /><br /><h5 class='notes-heading'>Mastitis</h5><br />Mastitis affects around 1 in 10 breastfeeding women. The BNF advises to treat 'if systemically unwell, if nipple fissure present, if symptoms do not improve after 12-24 hours of effective milk removal of if culture indicates infection'. The first-line antibiotic is flucloxacillin for 10-14 days. Breastfeeding or expressing should continue during treatment.<br /><br />If left untreated, mastitis may develop into a breast abscess. This generally requires incision and drainage.<br /><br /><br /><h5 class='notes-heading'>Engorgement</h5><br />Breast engorgement is one of the causes of breast pain in breastfeeding women. It usually occurs in the first few days after the infant is born and almost always affects both breasts. The pain or discomfort is typically worse just before a feed. Milk tends to not flow well from an engorged breast and the infant may find it difficult to attach and suckle. Fever may be present but usually settles within 24 hours. The breasts may appear red. Complications include blocked milk ducts, mastitis and difficulties with breastfeeding and, subsequently, milk supply. <br /><br />Although it may initially be painful, hand expression of milk may help relieve the discomfort of engorgement.<br /><br /><br /><h5 class='notes-heading'>Raynaud's disease of the nipple</h5><br />In <span class=\"concept\" data-cid=\"9812\">Raynaud's disease of the nipple, pain is often intermittent and present during and immediately after feeding</span>. Blanching of the nipple may be followed by cyanosis and/or erythema. Nipple pain resolves when nipples return to normal colour. <br /><br />Options of treatment for Raynaud's disease of the nipple include advice on minimising exposure to cold, use of heat packs following a breastfeed, avoiding caffeine and stopping smoking. If symptoms persist consider specialist referral for a trial of oral nifedipine (off-license).<br /><br /><br /><h5 class='notes-heading'>Concerns about poor infant weight gain</h5><br />Around 1 in 10 breastfed babies lose more than the 'cut-off' 10% threshold in the first week of life. This should prompt consideration of the above breastfeeding problems. The infant should also be examined to look for any underlying problems. <span class=\"concept\" data-cid=\"11141\">NICE recommends an 'expert' review of feeding if this occurs (e.g. midwife-led breastfeeding clinics)</span> and monitoring of weight until weight gain is satisfactory",
+        "notes_hash": "6ea3be55f7f63ed6c17cc4161cf3b944",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4970",
+        "up_votes": "72",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "929",
+            "2282",
+            "451",
+            "183",
+            "1125",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T0R33e_P_2Y\" data-description=\"Breastfeeding\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"658\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/T0R33e_P_2Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T0R33e_P_2Y\" data-description=\"Breastfeeding\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"658\">Breastfeeding</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1133\" data-mediaid=\"1133\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1133\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1133\" data-mediaid=\"1133\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1133\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_74",
+        "new_question_id": "27653",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "5743",
+        "notes_id_link": "1_1209",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Codeine",
+            "Doxazosin",
+            "Duloxetine",
+            "Finasteride",
+            "Loratadine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 79-year-old man is admitted to the orthogeriatric ward after a fall that resulted in a femoral fracture. He has a history of diabetes mellitus type 2, benign prostate hyperplasia, and severe hay fever. <br /><br />After a couple of days, the patient complaints of suprapubic discomfort and he is unable to pass urine. <br /><br />Which one of the following medications is most likely to have caused his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Codeine is an opioid, and a common side effect of this class of medication is urinary retention. Other drugs that can cause this are tricyclic antidepressants, anticholinergics, and NSAIDs. <br /><br />Doxazosin is an alpha-blocker and is used as a first-line treatment for improving the symptoms of benign prostatic hyperplasia. It works by reducing the resistance to bladder outflow, hence is used to treat retention. <br /><br />Duloxetine is an SNRI used to treat diabetic neuropathy and does not include urinary retention in its side effect profile. <br /><br />Finasteride is a 5-alpha reductase inhibitor, used as a second-line treatment for improving the symptoms of benign prostatic hyperplasia where alpha-blockers are not effective. It works by reducing prostatic bulk. <br /><br />Loratadine is a non-sedating antihistamine used for symptomatic relief of allergy. It does not cause urinary retention, but keep in mind that some older antihistamines can.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 79-year-old man is admitted to the orthogeriatric ward after a fall that resulted in a femoral fracture. He has a history of diabetes mellitus type 2, benign prostate hyperplasia, and severe hay fever. <br /><br />After a couple of days, the patient complaints of suprapubic discomfort and he is unable to pass urine. <br /><br />Which one of the following medications is most likely to have caused his symptoms?",
+        "correct_answer": "1",
+        "question_notes": "Codeine is an opioid, and a common side effect of this class of medication is urinary retention. Other drugs that can cause this are tricyclic antidepressants, anticholinergics, and NSAIDs. <br /><br />Doxazosin is an alpha-blocker and is used as a first-line treatment for improving the symptoms of benign prostatic hyperplasia. It works by reducing the resistance to bladder outflow, hence is used to treat retention. <br /><br />Duloxetine is an SNRI used to treat diabetic neuropathy and does not include urinary retention in its side effect profile. <br /><br />Finasteride is a 5-alpha reductase inhibitor, used as a second-line treatment for improving the symptoms of benign prostatic hyperplasia where alpha-blockers are not effective. It works by reducing prostatic bulk. <br /><br />Loratadine is a non-sedating antihistamine used for symptomatic relief of allergy. It does not cause urinary retention, but keep in mind that some older antihistamines can.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Drug-induced urinary retention",
+        "body": "The following drugs may cause urinary retention:<br /><ul><li><span class=\"concept\" data-cid=\"1732\">tricyclic antidepressants e.g. amitriptyline</span></li><li>anticholinergics e.g.  antipsychotics, <span class=\"concept\" data-cid=\"11719\">antihistamines</span></li><li><span class=\"concept\" data-cid=\"5743\">opioids</span></li><li>NSAIDs</li><li>disopyramide</li></ul>",
+        "notes_hash": "4db914bbabccd6b0bc860ce6ebfe3ff7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Opioid analgesia is a common cause of urinary retention ",
+        "concept_percentile": "78",
+        "concept_colour": "rgb(112,255,0)",
+        "number_attempts": "3869",
+        "up_votes": "5",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "1396",
+            "727",
+            "1203",
+            "309",
+            "234",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1732": {
+                "concept_text": "Amitriptyline can cause urinary retention ",
+                "concept_percentile": "77"
+            },
+            "5743": {
+                "concept_text": "Opioid analgesia is a common cause of urinary retention ",
+                "concept_percentile": "78"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_130",
+        "new_question_id": "17360",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "5167",
+        "notes_id_link": "1_1616",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hyporeflexia",
+            "Hypertonia",
+            "Hyperreflexia",
+            "Hypotonia",
+            "Spina bifida",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A newborn baby has been referred by the health visitor to the GP surgery as the health visitor is concerned about the appearance of the baby. On examination, you notice that the baby has upslanting palpebral fissures, prominent epicanthic folds, low-set ears and flat face. You perform a neurological examination.<br /><br />What would you expect to find?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Down's syndrome is a cause of hypotonia in neonates.<br /><br />Hyporeflexia is not the most common neurological presentation in Down's syndrome.<br /><br />Hyperreflexia is not a feature of Down's syndrome.<br /><br />Hypertonia is not a feature of Down's syndrome.<br /><br />Down's syndrome is not associated with spina bifida.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A newborn baby has been referred by the health visitor to the GP surgery as the health visitor is concerned about the appearance of the baby. On examination, you notice that the baby has upslanting palpebral fissures, prominent epicanthic folds, low-set ears and flat face. You perform a neurological examination.<br /><br />What would you expect to find?",
+        "correct_answer": "4",
+        "question_notes": "Down's syndrome is a cause of hypotonia in neonates.<br /><br />Hyporeflexia is not the most common neurological presentation in Down's syndrome.<br /><br />Hyperreflexia is not a feature of Down's syndrome.<br /><br />Hypertonia is not a feature of Down's syndrome.<br /><br />Down's syndrome is not associated with spina bifida.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hypotonia",
+        "body": "Hypotonia, or floppiness, may be central in origin or related to nerve and muscle problems. An acutely ill child (e.g. septicaemic) may be hypotonic on examination. Hypotonia associated with encephalopathy in the newborn period is most likely caused by hypoxic ischaemic encephalopathy<br /><br />Central causes<br /><ul><li>Down's syndrome</li><li>Prader-Willi syndrome</li><li>hypothyroidism</li><li>cerebral palsy (hypotonia may precede the development of spasticity)</li></ul><br />Neurological and muscular problems <br /><ul><li>spinal muscular atrophy</li><li>spina bifida</li><li>Guillain-Barre syndrome</li><li>myasthenia gravis</li><li>muscular dystrophy</li><li>myotonic dystrophy</li></ul>",
+        "notes_hash": "25ab751b8fb6f2e841e4763eb8293a3b",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Down's syndrome is a cause of hypotonia in neonates",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "5461",
+        "up_votes": "23",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "597",
+            "311",
+            "399",
+            "3967",
+            "187",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_716",
+        "new_question_id": "41278",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "10166",
+        "notes_id_link": "1_221",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Focal segmental glomerulosclerosis",
+            "IgA nephropathy",
+            "Minimal change disease",
+            "Post-streptococcal glomerulonephritis",
+            "Ureteric calculi",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old man presents to his general practitioner with a 1-day history of visible blood in his urine. He denies abdominal pain or pain when passing urine. Other than a brief coryzal illness 4 days ago, there is no past medical history of note and he takes no regular medications.<br /><br />His urine is analysed as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Blood</td><td>Positive</td></tr><tr><td>Protein</td><td>Trace positive</td></tr><tr><td>Leucocytes</td><td>Negative</td></tr><tr><td>Nitrites</td><td>Negative</td></tr><tr><td>Glucose</td><td>Negative</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>IgA nephropathy</b> is correct. This patient has new-onset haematuria following a recent upper respiratory tract infection. This is in keeping with a diagnosis of IgA nephropathy (also known as Berger's disease), the most common cause of haematuria worldwide. The disease commonly presents in young males and the onset is typically very acute, in contrast to post-streptococcal glomerulonephritis that presents following 2 weeks from an upper or lower respiratory tract infection.<br /><br /><b>Focal segmental glomerulosclerosis</b> is incorrect. This is a cause of nephrotic syndrome seen in children and adults. Unlike haematuria, as seen in this patient, proteinuria is a predominant feature in focal segmental glomerulosclerosis, making this diagnosis incorrect.<br /><br /><b>Minimal change disease</b> is incorrect. Although it is a common renal disease that affects children and young adults, the trace protein levels and high blood levels on urinalysis do not fit with the diagnosis (that typically presents with profound proteinuria, hypoalbuminemia, and oedema such as facial swelling).<br /><br /><b>Post-streptococcal glomerulonephritis</b> is incorrect. This is a very reasonable differential diagnosis given the history of haematuria following a recent respiratory tract infection. However, unlike this patient's presentation, those with post-streptococcal glomerulonephritis develop haematuria approximately 2 weeks following an acute infection.<br /><br /><b>Ureteric calculi</b> is incorrect. Although ureteric calculi are a cause of haematuria, the lack of abdominal pain and history of a recent coryzal illness makes IgA nephropathy to be a more likely diagnosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old man presents to his general practitioner with a 1-day history of visible blood in his urine. He denies abdominal pain or pain when passing urine. Other than a brief coryzal illness 4 days ago, there is no past medical history of note and he takes no regular medications.<br /><br />His urine is analysed as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Blood</td><td>Positive</td></tr><tr><td>Protein</td><td>Trace positive</td></tr><tr><td>Leucocytes</td><td>Negative</td></tr><tr><td>Nitrites</td><td>Negative</td></tr><tr><td>Glucose</td><td>Negative</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "<b>IgA nephropathy</b> is correct. This patient has new-onset haematuria following a recent upper respiratory tract infection. This is in keeping with a diagnosis of IgA nephropathy (also known as Berger's disease), the most common cause of haematuria worldwide. The disease commonly presents in young males and the onset is typically very acute, in contrast to post-streptococcal glomerulonephritis that presents following 2 weeks from an upper or lower respiratory tract infection.<br /><br /><b>Focal segmental glomerulosclerosis</b> is incorrect. This is a cause of nephrotic syndrome seen in children and adults. Unlike haematuria, as seen in this patient, proteinuria is a predominant feature in focal segmental glomerulosclerosis, making this diagnosis incorrect.<br /><br /><b>Minimal change disease</b> is incorrect. Although it is a common renal disease that affects children and young adults, the trace protein levels and high blood levels on urinalysis do not fit with the diagnosis (that typically presents with profound proteinuria, hypoalbuminemia, and oedema such as facial swelling).<br /><br /><b>Post-streptococcal glomerulonephritis</b> is incorrect. This is a very reasonable differential diagnosis given the history of haematuria following a recent respiratory tract infection. However, unlike this patient's presentation, those with post-streptococcal glomerulonephritis develop haematuria approximately 2 weeks following an acute infection.<br /><br /><b>Ureteric calculi</b> is incorrect. Although ureteric calculi are a cause of haematuria, the lack of abdominal pain and history of a recent coryzal illness makes IgA nephropathy to be a more likely diagnosis.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "IgA nephropathy",
+        "body": "IgA nephropathy (also known as Berger's disease) is the commonest cause of glomerulonephritis worldwide. It classically presents as <span class=\"concept\" data-cid=\"10166\">macroscopic haematuria in young people following an upper respiratory tract infection</span>. <br /><br />Associated conditions<br /><ul><li>alcoholic cirrhosis</li><li><span class=\"concept\" data-cid=\"3695\">coeliac disease</span>/dermatitis herpetiformis</li><li>Henoch-Schonlein purpura</li></ul><br />Pathophysiology<br /><ul><li>thought to be caused by <span class=\"concept\" data-cid=\"11060\">mesangial deposition of IgA immune complexes</span></li><li>there is considerable pathological overlap with Henoch-Schonlein purpura (HSP)</li><li>histology: <span class=\"concept\" data-cid=\"10161\">mesangial hypercellularity, positive immunofluorescence for IgA & C3</span></li></ul><br /><span class=\"concept\" data-cid=\"10166\">Presentations</span><br /><ul><li>young male, recurrent episodes of macroscopic haematuria</li><li>typically associated with a recent respiratory tract infection</li><li>nephrotic range proteinuria is rare</li><li>renal failure is unusual and seen in a minority of patients</li></ul><br />Differentiating between IgA nephropathy and post-streptococcal glomerulonephritis<br /><ul><li>post-streptococcal glomerulonephritis is associated with low complement levels</li><li>main symptom in post-streptococcal glomerulonephritis is proteinuria (although haematuria can occur)</li><li><span class=\"concept\" data-cid=\"11940\">there is typically an interval between URTI and the onset of renal problems in post-streptococcal glomerulonephritis</span></li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd901b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd901.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd901b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br /><span class=\"concept\" data-cid=\"11432\">Management</span><br /><ul><li>isolated hematuria, no or minimal proteinuria (less than 500 to 1000 mg/day), and a normal glomerular filtration rate (GFR)<ul><li>no treatment needed, other than follow-up to check renal function</li></ul></li><li>persistent proteinuria (above 500 to 1000 mg/day), a normal or only slightly reduced GFR <ul><li>initial treatment is with ACE inhibitors</li></ul></li><li>if there is active disease (e.g. falling GFR) or failure to respond to ACE inhibitors<ul><li>immunosuppression with corticosteroids</li></ul></li></ul><br />Prognosis<br /><ul><li>25% of patients develop ESRF</li><li>markers of good prognosis: frank haematuria</li><li>markers of poor prognosis: male gender, proteinuria (especially > 2 g/day), hypertension, smoking, hyperlipidaemia, ACE genotype DD</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb056b.jpg\" data-fancybox=\"gallery\" data-caption=\"Proliferation and hypercellularity of the mesangium is seen in the glomerulus\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb056.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb070b.jpg\" data-fancybox=\"gallery\" data-caption=\"Immunostaining for IgA in a patient with HSP\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb070.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "99df74cb2976786f5b04969065bb9338",
+        "knowledge_graph_node_id_link": 1305,
+        "concept": "IgA nephropathy classically presents as visible haematuria following a recent URTI",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "6033",
+        "up_votes": "46",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "62",
+            "3128",
+            "480",
+            "2314",
+            "49",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Journal of Royal College of Physicians of Edinburgh</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_42\" data-linkid=\"42\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_42\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_42\" data-linkid=\"42\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_42\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://eprints.gla.ac.uk/118420/7/118420.pdf\">What does STOP-IgAN tell us about how to treat IgA nephropathy?</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_606\" data-linkid=\"606\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_606\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_606\" data-linkid=\"606\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_606\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/Suppl_6/s27\">2012 Evaluation and management of IgA nephropathy</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4RyflZ3k5d8\" data-description=\"Understanding Nephritic Syndrome (With Pathology Made Easy)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1426\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4RyflZ3k5d8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4RyflZ3k5d8\" data-description=\"Understanding Nephritic Syndrome (With Pathology Made Easy)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1426\">Understanding Nephritic Syndrome (With Pathology Made Easy)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2520\" data-mediaid=\"2520\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2520\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2520\" data-mediaid=\"2520\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2520\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/p2wVB5gsiyA\" data-description=\"IgA nephropathy\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"204\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/p2wVB5gsiyA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/p2wVB5gsiyA\" data-description=\"IgA nephropathy\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"204\">IgA nephropathy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_339\" data-mediaid=\"339\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_339\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_339\" data-mediaid=\"339\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_339\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "10166": {
+                "concept_text": "IgA nephropathy classically presents as visible haematuria following a recent URTI",
+                "concept_percentile": "64"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "266_B_3458",
+        "new_question_id": "3831",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1654",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Urgent referral to oncology",
+            "Repeat PSA in 6 months",
+            "Repeat PSA in 3 months",
+            "Reassurance as within normal range",
+            "Repeat PSA in 1 month",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Nigel is a 53-year-old gentleman with a background of prostate cancer who underwent a complete prostatectomy 3 months ago. You have been asked to perform a PSA level after 3 months for routine surveillance. The result shows a PSA level of 2 ng/ml (normal upper range for his age group is 3.9 ng/ml). How would you manage this result?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Following a complete prostatectomy, the PSA level should be 'undetectable' which is defined usually as a value less than 0.2ng/ml. Therefore following 3 months a value of 2 (albeit within the normal range for patients who have not had treatment) would be considered a significantly elevated value and would, therefore, warrant urgent referral to oncology for further investigation. <br /><br />References:<br />Prostate Cancer Foundation - THE ROLE OF PSA<br />http://www.pcf.org/site/c.leJRIROrEpH/b.5837041/k.8FFF/The</td><td>Role</td><td>of</td><td>PSA.htm<br /><br />The American Cancer Society  - Following PSA levels during and after treatment<br />http://www.cancer.org/cancer/prostatecancer/detailedguide/prostate-cancer-treating-p-s-a-levels-after-treatment",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Nigel is a 53-year-old gentleman with a background of prostate cancer who underwent a complete prostatectomy 3 months ago. You have been asked to perform a PSA level after 3 months for routine surveillance. The result shows a PSA level of 2 ng/ml (normal upper range for his age group is 3.9 ng/ml). How would you manage this result?",
+        "correct_answer": "1",
+        "question_notes": "Following a complete prostatectomy, the PSA level should be 'undetectable' which is defined usually as a value less than 0.2ng/ml. Therefore following 3 months a value of 2 (albeit within the normal range for patients who have not had treatment) would be considered a significantly elevated value and would, therefore, warrant urgent referral to oncology for further investigation. <br /><br />References:<br />Prostate Cancer Foundation - THE ROLE OF PSA<br />http://www.pcf.org/site/c.leJRIROrEpH/b.5837041/k.8FFF/The</td><td>Role</td><td>of</td><td>PSA.htm<br /><br />The American Cancer Society  - Following PSA levels during and after treatment<br />http://www.cancer.org/cancer/prostatecancer/detailedguide/prostate-cancer-treating-p-s-a-levels-after-treatment",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Prostate cancer: PSA testing",
+        "body": "Prostate specific antigen (PSA) is a serine protease enzyme produced by normal and malignant prostate epithelial cells. It has become an important tumour marker but much controversy still exists regarding its usefulness as a screening tool. <br /><br />PSA testing should be:<br /><ul><li>considered in men with suspected prostate cancer</li><li>offered to men older than 50 years of age who request a PSA test</li></ul><br />Age-specific PSA thresholds for people with possible symptoms of prostate cancer are shown below. Patients who have a PSA above this level should be referred on the suspected cancer pathway referral (for an appointment within 2 weeks) if their PSA level is above the threshold for their age.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Age</b></th><th><b>PSA level (ng/ml)</b></th></tr></thead><tbody><tr><td>< 40\t</td><td>Use clinical judgement</td></tr><tr><td>40\u201349</td><td>\t> 2.5</td></tr><tr><td>50\u201359\t</td><td>> 3.5</td></tr><tr><td>60\u201369</td><td>\t> 4.5</td></tr><tr><td>70\u201379</td><td>\t> 6.5</td></tr><tr><td>> 79</td><td>\tUse clinical judgement</td></tr></tbody></table></div><br />PSA levels may also be raised by:<br /><ul><li>benign prostatic hyperplasia (BPH)</li><li><span class=\"concept\" data-cid=\"4722\">prostatitis and urinary tract infection (NICE recommend to postpone the PSA test for at least 6 weeks after treatment)</span></li><li>ejaculation (ideally not in the previous 48 hours)</li><li>vigorous exercise (ideally not in the previous 48 hours)</li><li>urinary retention</li><li>instrumentation of the urinary tract</li></ul><br />Poor specificity and sensitivity<br /><ul><li>around 33% of men with a PSA of 4-10 ng/ml will be found to have prostate cancer. With a PSA of 10-20 ng/ml this rises to 60% of men</li><li><span class=\"concept\" data-cid=\"4723\">around 15% with prostate cancer have a normal PSA</span></li><li>various methods are used to try and add greater meaning to a PSA level including age-adjusted upper limits and monitoring change in PSA level with time (PSA velocity or PSA doubling time)</li></ul>",
+        "notes_hash": "4411cbad95b90c348eb3893e2d3c4220",
+        "knowledge_graph_node_id_link": 1042,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4825",
+        "up_votes": "97",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "1269",
+            "1307",
+            "783",
+            "1265",
+            "201",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_202\" data-linkid=\"202\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_202\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"link_dislike_202\" data-linkid=\"202\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_202\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng131/chapter/Recommendations\">2019 prostate cancer guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8sC3s9Jek7U\" data-description=\"Prostate cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"602\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8sC3s9Jek7U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8sC3s9Jek7U\" data-description=\"Prostate cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"602\">Prostate cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1022\" data-mediaid=\"1022\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1022\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1022\" data-mediaid=\"1022\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1022\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gwGyv816CWs\" data-description=\"Prostate cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1391\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gwGyv816CWs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gwGyv816CWs\" data-description=\"Prostate cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1391\">Prostate cancer</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2450\" data-mediaid=\"2450\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2450\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2450\" data-mediaid=\"2450\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2450\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4722": {
+                "concept_text": "Avoid performing a prostate specific antigen test within 6 weeks of a UTI or prostatitis",
+                "concept_percentile": "70"
+            },
+            "4723": {
+                "concept_text": "Prostate cancer can be seen with a normal prostate specific antigen (PSA)",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9332",
+        "new_question_id": "8926",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "723",
+        "notes_id_link": "1_505",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Squamous cell carcinoma",
+            "Normal squamous epithelium",
+            "Adenocarcinoma",
+            "Leiomyoma",
+            "Metaplastic columnar epithelium",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old man with a 10-year history of gastro-oesophageal reflux disease is investigated for dysphagia. An endoscopy shows an obstructive lesion highly suspicious of oesophageal cancer. What is the biopsy most likely to show?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Adenocarcinoma</b>. In patients with long-standing gastro-oesophageal reflux disease (GORD), chronic exposure of the distal oesophagus to acidic gastric contents leads to metaplastic changes known as Barrett's oesophagus. This condition significantly increases the risk of developing oesophageal adenocarcinoma. The patient's 10-year history of GORD and presentation with dysphagia (a red flag symptom) strongly suggests malignant transformation of Barrett's oesophagus to adenocarcinoma.<br /><br /><b>Squamous cell carcinoma</b> is incorrect because although it is a common type of oesophageal cancer, it typically occurs in the upper and middle thirds of the oesophagus and is more commonly associated with smoking, alcohol consumption, and hot beverage consumption rather than GORD. It is more prevalent in developing countries and parts of Asia.<br /><br /><b>Normal squamous epithelium</b> is incorrect because the presence of an obstructive lesion on endoscopy indicates pathological changes. Normal squamous epithelium would not cause obstruction or dysphagia, and given the patient's history and symptoms, this finding would be highly unlikely.<br /><br /><b>Leiomyoma</b> is incorrect because although it is the most common benign tumour of the oesophagus, it typically presents as a smooth submucosal lesion rather than an obstructive mass. Furthermore, leiomyomas are not associated with GORD and are usually asymptomatic when small.<br /><br /><b>Metaplastic columnar epithelium</b> is incorrect because while this finding (Barrett's oesophagus) is indeed a precursor to adenocarcinoma and would be expected in someone with chronic GORD, the presence of an obstructive lesion suggests progression to malignancy rather than just metaplastic changes. Barrett's oesophagus alone would not cause significant obstruction.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old man with a 10-year history of gastro-oesophageal reflux disease is investigated for dysphagia. An endoscopy shows an obstructive lesion highly suspicious of oesophageal cancer. What is the biopsy most likely to show?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Adenocarcinoma</b>. In patients with long-standing gastro-oesophageal reflux disease (GORD), chronic exposure of the distal oesophagus to acidic gastric contents leads to metaplastic changes known as Barrett's oesophagus. This condition significantly increases the risk of developing oesophageal adenocarcinoma. The patient's 10-year history of GORD and presentation with dysphagia (a red flag symptom) strongly suggests malignant transformation of Barrett's oesophagus to adenocarcinoma.<br /><br /><b>Squamous cell carcinoma</b> is incorrect because although it is a common type of oesophageal cancer, it typically occurs in the upper and middle thirds of the oesophagus and is more commonly associated with smoking, alcohol consumption, and hot beverage consumption rather than GORD. It is more prevalent in developing countries and parts of Asia.<br /><br /><b>Normal squamous epithelium</b> is incorrect because the presence of an obstructive lesion on endoscopy indicates pathological changes. Normal squamous epithelium would not cause obstruction or dysphagia, and given the patient's history and symptoms, this finding would be highly unlikely.<br /><br /><b>Leiomyoma</b> is incorrect because although it is the most common benign tumour of the oesophagus, it typically presents as a smooth submucosal lesion rather than an obstructive mass. Furthermore, leiomyomas are not associated with GORD and are usually asymptomatic when small.<br /><br /><b>Metaplastic columnar epithelium</b> is incorrect because while this finding (Barrett's oesophagus) is indeed a precursor to adenocarcinoma and would be expected in someone with chronic GORD, the presence of an obstructive lesion suggests progression to malignancy rather than just metaplastic changes. Barrett's oesophagus alone would not cause significant obstruction.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Oesophageal cancer",
+        "body": "Until recent times oesophageal cancer was most commonly due to a squamous cell carcinoma but the incidence of adenocarcinoma is rising rapidly. Adenocarcinoma is now the most common type of oesophageal cancer and is more likely to develop in patients with a <span class=\"concept\" data-cid=\"723\">history of gastro-oesophageal reflux disease (GORD) or Barrett's</span>.<br /><br />The majority of adenocarcinomas are located near the gastroesophageal junction whereas squamous cell tumours are most commonly found in the upper two-thirds of the oesophagus.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th>Adenocarcinoma</th><th>Squamous cell cancer</th></tr></thead><tbody><tr><td><b>Epidemiology</b></td><td>Most common type in the UK/US</td><td>Most common type in the developing world</td></tr><tr><td><b>Location</b></td><td>Lower third - near the gastroesophageal junction</td><td>Upper two-thirds of the oesophagus</td></tr><tr><td><b>Risk factors</b></td><td><ul><li><span class=\"concept\" data-cid=\"723\">GORD</span></li><li><span class=\"concept\" data-cid=\"723\">Barrett's oesophagus</span></li><li>smoking</li><li>obesity</li></ul></td><td><ul><li><span class=\"concept\" data-cid=\"12348\">smoking</span></li><li><span class=\"concept\" data-cid=\"12348\">alcohol</span></li><li>achalasia</li><li><span class=\"concept\" data-cid=\"1933\">Plummer-Vinson syndrome</span></li><li>diets rich in nitrosamines</td></tr></tbody></table></div></li></ul><br />Features<br /><ul><li>dysphagia: the most common presenting symptom</li><li>anorexia and weight loss</li><li>vomiting</li><li>other possible features include: <ul><li><span class=\"concept\" data-cid=\"10981\">odynophagia</span></li><li><span class=\"concept\" data-cid=\"12367\">hoarseness</span>: advanced oesophageal tumours, especially in the upper third, may invade or compress the recurrent laryngeal nerve</li><li>melaena</li></ul></li></ul><br />Diagnosis<br /><ul><li>Upper GI endoscopy with biopsy is used for diagnosis</li><li><span class=\"concept\" data-cid=\"8995\">Endoscopic ultrasound</span>  is the preferred method for locoregional staging</li><li>CT scanning of the chest, abdomen and pelvis is used for initial staging<ul><li>FDG-PET CT may be used for detecting occult metastases if metastases are not seen on the initial staging CT scans. </li><li>Laparoscopy is sometimes performed to detect occult peritoneal disease</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb095b.jpg\" data-fancybox=\"gallery\" data-caption=\"Barium swallow - 5cm irregular narrowing of the mid-thoracic oesophagus with proximal shouldering- e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb095.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb197b.jpg\" data-fancybox=\"gallery\" data-caption=\"Barium swallow showing oesophageal cancer - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb197.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb096b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fluoroscopy - a region of fixed, irregular stricturing is seen in the distal oesophagus- e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb096.jpg\" alt=\"\" /></a></div></div></div><br />Treatment<br /><ul><li>Operable disease (T1N0M0) is best managed by <span class=\"concept\" data-cid=\"12070\">surgical resection</span> - the most common procedure is an Ivor-Lewis type oesophagectomy</li><li>The biggest surgical challenge is that of anastomotic leak, with an intrathoracic anastomosis resulting in mediastinitis</li><li>In addition to surgical resection many patients will be treated with adjuvant chemotherapy</li></ul>",
+        "notes_hash": "0fae7d191dd71c66d2b36b6d3155b561",
+        "knowledge_graph_node_id_link": 1039,
+        "concept": "Oesophageal adenocarcinoma is associated with GORD or Barrett's",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "5917",
+        "up_votes": "43",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "1346",
+            "9",
+            "3510",
+            "11",
+            "1041",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1746\" data-linkid=\"1746\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1746\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_1746\" data-linkid=\"1746\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1746\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng83/chapter/Recommendations\">2018 Oesophago-gastric cancer: assessment and management in adults guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8c8UkAqvZxk\" data-description=\"Oesophageal cancer\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1129\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8c8UkAqvZxk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8c8UkAqvZxk\" data-description=\"Oesophageal cancer\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1129\">Oesophageal cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1953\" data-mediaid=\"1953\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1953\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1953\" data-mediaid=\"1953\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1953\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "723": {
+                "concept_text": "Oesophageal adenocarcinoma is associated with GORD or Barrett's",
+                "concept_percentile": "86"
+            },
+            "10981": {
+                "concept_text": "Odynophagia is a concerning symptom that may be present in patients with oesophageal cancer",
+                "concept_percentile": "61"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22340_B_151",
+        "new_question_id": "38869",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3609",
+        "notes_id_link": "1_577",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Aortic valve",
+            "Mitral valve",
+            "No vegetations visible",
+            "Pulmonary valve",
+            "Tricuspid valve",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old patient attends the emergency department complaining of feeling generally unwell. He states that he is aching all over and has been waking up at night in a cold sweat. <br /><br />On examination, you note evidence of various injection marks on the antecubital fossa. His observations show a temperature of 38.1\u00baC, a heart rate of 122bpm, a blood pressure of 110/90mmHg, respiratory rate of 18/min and oxygen saturation of 98%. <br /><br />You request urgent blood cultures and an echocardiogram. <br /><br />What site is most likely affected given the diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Tricuspid valve</b> is correct. This patient is presenting with signs and symptoms that could indicate infective endocarditis. Moreover, the needle track marks in his antecubital fossa indicate that he is an intravenous drug user (IVDU). Patients with infective endocarditis will show vegetation on the valve affected. In IVDU the valve most commonly affected is the tricuspid valve. <br /><br /><b>Aortic valve, mitral valve and pulmonary valve</b> are all incorrect. This is because, as mentioned above, the tricuspid valve is the valve most commonly affected in infective endocarditis in IVDUs. <br /><br /><b>No vegetations visible</b> is incorrect. As mentioned above, the tricuspid valve is likely to show vegetation indicating infection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old patient attends the emergency department complaining of feeling generally unwell. He states that he is aching all over and has been waking up at night in a cold sweat. <br /><br />On examination, you note evidence of various injection marks on the antecubital fossa. His observations show a temperature of 38.1\u00baC, a heart rate of 122bpm, a blood pressure of 110/90mmHg, respiratory rate of 18/min and oxygen saturation of 98%. <br /><br />You request urgent blood cultures and an echocardiogram. <br /><br />What site is most likely affected given the diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "<b>Tricuspid valve</b> is correct. This patient is presenting with signs and symptoms that could indicate infective endocarditis. Moreover, the needle track marks in his antecubital fossa indicate that he is an intravenous drug user (IVDU). Patients with infective endocarditis will show vegetation on the valve affected. In IVDU the valve most commonly affected is the tricuspid valve. <br /><br /><b>Aortic valve, mitral valve and pulmonary valve</b> are all incorrect. This is because, as mentioned above, the tricuspid valve is the valve most commonly affected in infective endocarditis in IVDUs. <br /><br /><b>No vegetations visible</b> is incorrect. As mentioned above, the tricuspid valve is likely to show vegetation indicating infection.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Infective endocarditis: aetiology",
+        "body": "The strongest risk factor for developing infective endocarditis is a <span class=\"concept\" data-cid=\"754\">previous episode</span> of endocarditis. The following types of patients are affected:<br /><ul><li>previously normal valves (50%, typically acute presentation)<ul><li><span class=\"concept\" data-cid=\"10284\">the mitral valve is most commonly affected</span></li></ul></li><li>rheumatic valve disease (30%)</li><li>prosthetic valves</li><li>congenital heart defects</li><li>intravenous drug users (IVDUs)<ul><li> e.g. typically causing <span class=\"concept\" data-cid=\"3609\">tricuspid</span> lesion)</li></ul></li><li>others: <span class=\"concept\" data-cid=\"9673\">recent piercings</span></li></ul><br />Causes<br /><ul><li><i>Staphylococcus aureus</i><ul><li><span class=\"concept\" data-cid=\"755\">now the most common cause of infective endocarditis</span></li><li>particularly common in acute presentation and <span class=\"concept\" data-cid=\"4960\">IVDUs</span></li></ul></li><li><i>Streptococcus viridans</i> <ul><li>historically <i>Streptococcus viridans</i> was the most common cause of infective endocarditis. This is no longer the case, except in developing countries</li><li>technically <i>Streptococcus viridans</i> is a pseudotaxonomic term, referring to viridans streptococci, rather than a particular organism. The two most notable viridans streptococci are <i>Streptococcus mitis</i> and <i>Streptococcus sanguinis</i></li><li>they are both commonly found in the mouth and in particular dental plaque so endocarditis caused by these organisms is linked with <span class=\"concept\" data-cid=\"8813\">poor dental hygiene</span> or following a dental procedure</li></ul></li><li>coagulase-negative Staphylococci such as <span class=\"concept\" data-cid=\"12488\"><i>Staphylococcus epidermidis</i></span><ul><li>commonly colonize indwelling lines and are the most cause of endocarditis in patients following prosthetic valve surgery, usually the result of perioperative contamination.</li><li>after 2 months the spectrum of organisms which cause endocarditis return to normal (i.e. <i>Staphylococcus aureus</i> is the most common cause)</li></ul></li><li><i>Streptococcus bovis</i><ul><li>associated with <span class=\"concept\" data-cid=\"753\">colorectal cancer</span></li><li>the subtype <span class=\"concept\" data-cid=\"10668\"><i>Streptococcus gallolyticus</i></span> is most linked with colorectal cancer </li></ul></li><li>non-infective<ul><li>systemic lupus erythematosus (Libman-Sacks)</li><li>malignancy: marantic endocarditis</li></ul></li></ul><br />Culture negative causes<br /><ul><li>prior antibiotic therapy</li><li><i>Coxiella burnetii</i></li><li><i>Bartonella</i></li><li><i>Brucella</i></li><li>HACEK: <i>Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, Kingella</i>)</li></ul>",
+        "notes_hash": "4cc599f5421efad9246987cf3557f19a",
+        "knowledge_graph_node_id_link": 1155,
+        "concept": "Infective endocarditis in intravenous drug users most commonly affects the tricuspid valve",
+        "concept_percentile": "73",
+        "concept_colour": "rgb(137,255,0)",
+        "number_attempts": "6647",
+        "up_votes": "44",
+        "down_votes": "31",
+        "column_array": [
+            0,
+            "393",
+            "3148",
+            "79",
+            "86",
+            "2941",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_486\" data-linkid=\"486\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_486\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_486\" data-linkid=\"486\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_486\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG64/chapter/Recommendations\">2008 Prophylaxis against infective endocarditis</a></td></tr></table><br><br><table style='width:100%'><tr><td>American Heart Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_393\" data-linkid=\"393\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_393\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_393\" data-linkid=\"393\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_393\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ahajournals.org/doi/full/10.1161/circulationaha.105.165564\">Infective endocarditis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a2/Endocarditis.webm\" data-description=\"Endocarditis\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"66\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a2/Endocarditis.webm\" data-description=\"Endocarditis\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"66\">Endocarditis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_118\" data-mediaid=\"118\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_118\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_118\" data-mediaid=\"118\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_118\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/10RaKBTTyeo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1375\">Infective Endocarditis</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2419\" data-mediaid=\"2419\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2419\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2419\" data-mediaid=\"2419\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2419\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "3609": {
+                "concept_text": "Infective endocarditis in intravenous drug users most commonly affects the tricuspid valve",
+                "concept_percentile": "73"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4213_B_3",
+        "new_question_id": "20288",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "10023",
+        "notes_id_link": "1_1921",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Sodium valproate toxicity",
+            "Normal side effects of lithium",
+            "Normal side effects of sodium valproate",
+            "Lithium toxicity",
+            "Side effects of ibuprofen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old male informs his GP that he is feeling unwell. He has a past medical history of osteoarthritis and he has recently started taking ibuprofen over the counter. He also has bipolar disorder, for which he takes lithium and sodium valproate orally. <br /><br />He reports diarrhoea, vomiting, abdominal pain and blurred vision. On examination, his observations are within normal ranges, but you observe a coarse tremor and some muscle twitching. Neurological examination also reveals hyperreflexia. Abdominal examination reveals a mildly tender abdomen with no signs of peritonitis.<br /><br />There has been no recent changes in his medication. He informs you that he is fasting for religious reasons but is still taking all of his medication.<br /><br />What is the most likely cause of his current presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is displaying signs of lithium toxicity. It is likely that he has become dehydrated due to fasting and this has led to high serum lithium levels. The normal range is 0.4-1.0, toxicity symptoms are seen when levels are >1.5. Non-steroidal anti-inflammatory medications such as ibuprofen can also decrease lithium excretion so should not be used.<br /><br />Common side effects of lithium include a fine tremor, a metallic taste in the mouth, thirst, polyuria and weight gain.<br /><br />Side effects of sodium valproate include hair loss, nausea, diarrhoea, weight gain, drowsiness and a small increased risk of suicidal thoughts. Symptoms seen in sodium valproate toxicity include central nervous system depression up to and including coma, ataxia, tachycardia and electrolyte disturbances.<br /><br />Whilst ibuprofen can cause GI upset, it does not cause the majority of this patient's symptoms therefore is an incorrect answer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old male informs his GP that he is feeling unwell. He has a past medical history of osteoarthritis and he has recently started taking ibuprofen over the counter. He also has bipolar disorder, for which he takes lithium and sodium valproate orally. <br /><br />He reports diarrhoea, vomiting, abdominal pain and blurred vision. On examination, his observations are within normal ranges, but you observe a coarse tremor and some muscle twitching. Neurological examination also reveals hyperreflexia. Abdominal examination reveals a mildly tender abdomen with no signs of peritonitis.<br /><br />There has been no recent changes in his medication. He informs you that he is fasting for religious reasons but is still taking all of his medication.<br /><br />What is the most likely cause of his current presentation?",
+        "correct_answer": "4",
+        "question_notes": "This patient is displaying signs of lithium toxicity. It is likely that he has become dehydrated due to fasting and this has led to high serum lithium levels. The normal range is 0.4-1.0, toxicity symptoms are seen when levels are >1.5. Non-steroidal anti-inflammatory medications such as ibuprofen can also decrease lithium excretion so should not be used.<br /><br />Common side effects of lithium include a fine tremor, a metallic taste in the mouth, thirst, polyuria and weight gain.<br /><br />Side effects of sodium valproate include hair loss, nausea, diarrhoea, weight gain, drowsiness and a small increased risk of suicidal thoughts. Symptoms seen in sodium valproate toxicity include central nervous system depression up to and including coma, ataxia, tachycardia and electrolyte disturbances.<br /><br />Whilst ibuprofen can cause GI upset, it does not cause the majority of this patient's symptoms therefore is an incorrect answer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Lithium toxicity",
+        "body": "Lithium is a mood stabilising drug used most commonly prophylactically in bipolar disorder but also as an adjunct in refractory depression. It has a <span class=\"concept\" data-cid=\"3009\">very narrow therapeutic range</span> (0.4-1.0 mmol/L) and a long plasma half-life being excreted primarily by the kidneys. Lithium toxicity generally occurs following concentrations > 1.5 mmol/L. <br /><br />Toxicity may be precipitated by:<br /><ul><li><span class=\"concept\" data-cid=\"5756\">dehydration</span></li><li>renal failure</li><li>drugs: diuretics (especially <span class=\"concept\" data-cid=\"2773\">thiazides</span>), <span class=\"concept\" data-cid=\"9508\">ACE inhibitors</span>/<span class=\"concept\" data-cid=\"5727\">angiotensin II receptor blockers</span>, <span class=\"concept\" data-cid=\"9911\">NSAIDs</span> and metronidazole.</li></ul><br /><span class=\"concept\" data-cid=\"10023\">Features of toxicity</span><br /><ul><li><span class=\"concept\" data-cid=\"486\">coarse tremor (a fine tremor is seen in therapeutic levels)</span></li><li>hyperreflexia</li><li>acute confusion</li><li><span class=\"concept\" data-cid=\"11077\">polyuria</span></li><li>seizure</li><li>coma</li></ul><br />Management<br /><ul><li>mild-moderate toxicity may respond to volume resuscitation with normal saline<ul><li><span class=\"concept\" data-cid=\"12271\">IV fluids with isotonic saline</span>, until euvolemic, then typically twice maintenance rate</li><li>monitor serum sodium closely (every 4 hours with serial lithium concentrations) if there is a concern about lithium-induced nephrogenic diabetes insipidus</li></ul></li><li><span class=\"concept\" data-cid=\"5811\">haemodialysis may be needed in severe toxicity</span></li><li>sodium bicarbonate is sometimes used but there is limited evidence to support this<ul><li>by increasing the alkalinity of the urine it promotes lithium excretion</li></ul></li></ul>",
+        "notes_hash": "bfefd066fbcd5c12a220f2513832fb45",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Diarrhoea, vomiting, abdominal pain, coarse tremor, weakness, seizures, muscle twitches and blurred vision are among the signs and symptoms of lithium toxicity",
+        "concept_percentile": "69",
+        "concept_colour": "rgb(158,255,0)",
+        "number_attempts": "4865",
+        "up_votes": "28",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "232",
+            "117",
+            "31",
+            "4339",
+            "146",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2773": {
+                "concept_text": "Lithium toxicity can be precipitated by thiazides",
+                "concept_percentile": "73"
+            },
+            "9911": {
+                "concept_text": "Lithium toxicity can be precipitated by NSAIDs",
+                "concept_percentile": "68"
+            },
+            "10023": {
+                "concept_text": "Diarrhoea, vomiting, abdominal pain, coarse tremor, weakness, seizures, muscle twitches and blurred vision are among the signs and symptoms of lithium toxicity",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1148",
+        "new_question_id": "4460",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "430",
+        "notes_id_link": "1_1749",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "13 - 15 cm",
+            "15 - 17 cm",
+            "17 - 19 cm",
+            "18 - 22 cm",
+            "22 - 26 cm",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A pregnant woman presents for review. She is 24 weeks pregnant. What would be the expected symphysis-fundal height?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>22 - 26 cm</b>. Symphysis-fundal height (SFH) is a measure of the size of the uterus used to assess fetal growth and development. It is measured from the pubic symphysis to the top of the uterus (the fundus). In centimetres, it should roughly equal the gestational age in weeks after 20 weeks of gestation, hence at 24 weeks, it should be around 24 cm, but with a generally acceptable range between 22 - 26 cm.<br /><br /><b>13 - 15 cm</b> would be too small for a pregnancy at this gestational age. This could suggest intrauterine growth restriction or other complications such as oligohydramnios or placental insufficiency which are conditions where there's not enough amniotic fluid or the placenta isn't functioning properly.<br /><br /><b>15 - 17 cm</b>, similar to above, is also below the expected SFH for a woman who is 24 weeks pregnant. Again, this could indicate potential issues with fetal growth and would warrant further investigation.<br /><br />A measurement of <b>17 - 19 cm</b>, while closer to what might be expected, is still lower than usual for this stage of pregnancy. It may suggest that the fetus is smaller than average for its gestational age.<br /><br />Finally, <b>18 - 22 cm</b>, although closer to what we would expect at this stage, it's still on the lower end. This could potentially indicate that further assessment may be needed if coupled with other concerning signs or symptoms.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A pregnant woman presents for review. She is 24 weeks pregnant. What would be the expected symphysis-fundal height?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>22 - 26 cm</b>. Symphysis-fundal height (SFH) is a measure of the size of the uterus used to assess fetal growth and development. It is measured from the pubic symphysis to the top of the uterus (the fundus). In centimetres, it should roughly equal the gestational age in weeks after 20 weeks of gestation, hence at 24 weeks, it should be around 24 cm, but with a generally acceptable range between 22 - 26 cm.<br /><br /><b>13 - 15 cm</b> would be too small for a pregnancy at this gestational age. This could suggest intrauterine growth restriction or other complications such as oligohydramnios or placental insufficiency which are conditions where there's not enough amniotic fluid or the placenta isn't functioning properly.<br /><br /><b>15 - 17 cm</b>, similar to above, is also below the expected SFH for a woman who is 24 weeks pregnant. Again, this could indicate potential issues with fetal growth and would warrant further investigation.<br /><br />A measurement of <b>17 - 19 cm</b>, while closer to what might be expected, is still lower than usual for this stage of pregnancy. It may suggest that the fetus is smaller than average for its gestational age.<br /><br />Finally, <b>18 - 22 cm</b>, although closer to what we would expect at this stage, it's still on the lower end. This could potentially indicate that further assessment may be needed if coupled with other concerning signs or symptoms.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Symphysis-fundal height",
+        "body": "The symphysis-fundal height (SFH) is measured from the top of the pubic bone to the top of the uterus in centimetres<br /><br />It should match the gestational age in weeks to within 2 cm after 20 weeks, e.g. if 24 weeks then the a normal SFH = 22 to 26 cm",
+        "notes_hash": "9a0ae4aaeda2148cc300200f31a9c0da",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "After 20 weeks, symphysis-fundal height in cm = gestation in weeks",
+        "concept_percentile": "38",
+        "concept_colour": "rgb(255,193,0)",
+        "number_attempts": "6334",
+        "up_votes": "26",
+        "down_votes": "39",
+        "column_array": [
+            0,
+            "107",
+            "327",
+            "382",
+            "831",
+            "4687",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

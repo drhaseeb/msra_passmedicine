@@ -1,0 +1,861 @@
+[
+    {
+        "question_id": "4864_B_44",
+        "new_question_id": "14554",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3190",
+        "notes_id_link": "1_2567",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Chest X-ray",
+            "Ultrasound of liver",
+            "Blood film",
+            "Examination by an ophthalmologist",
+            "Lung function testing",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 44-year-old man is seen in the rheumatology clinic after being diagnosed with rheumatoid arthritis 4 months ago. He was initially started on methotrexate, however, was unable to tolerate its side effects. The consultant is considering starting the patient on hydroxychloroquine. <br /><br />What should occur before the patient commences treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Recent data suggest that retinopathy caused by hydroxychloroquine is more common than previously thought and the most recent RCOphth guidelines (March 2018) suggest colour retinal photography and spectral domain optical coherence tomography scanning of the macula for patients likely to be taking the drug for more than 5 years. <br /><br />Whilst it is advisable to carry out a full blood count plus renal and liver function tests upon initiating hydroxychloroquine, the other possible options would all be unnecessary.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 44-year-old man is seen in the rheumatology clinic after being diagnosed with rheumatoid arthritis 4 months ago. He was initially started on methotrexate, however, was unable to tolerate its side effects. The consultant is considering starting the patient on hydroxychloroquine. <br /><br />What should occur before the patient commences treatment?",
+        "correct_answer": "4",
+        "question_notes": "Recent data suggest that retinopathy caused by hydroxychloroquine is more common than previously thought and the most recent RCOphth guidelines (March 2018) suggest colour retinal photography and spectral domain optical coherence tomography scanning of the macula for patients likely to be taking the drug for more than 5 years. <br /><br />Whilst it is advisable to carry out a full blood count plus renal and liver function tests upon initiating hydroxychloroquine, the other possible options would all be unnecessary.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hydroxychloroquine",
+        "body": "Hydroxychloroquine is used in the management of rheumatoid arthritis and systemic/discoid lupus erythematosus. It is pharmacologically very similar to chloroquine which is used to treat certain types of malaria.<br /><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"1010\">bull's eye retinopathy - may result in severe and permanent visual loss</span><ul><li>recent data suggest that retinopathy caused by hydroxychloroquine is more common than previously thought and the most recent RCOphth guidelines (March 2018) suggest colour retinal photography and spectral domain optical coherence tomography scanning of the macula</li><li><span class=\"concept\" data-cid=\"3190\">baseline ophthalmological examination</span> and annual screening is generally recommened</li></ul></li></ul><br /><span class=\"concept\" data-cid=\"9895\">A contrast to many drugs used in rheumatology, hydroxychloroquine may be used if needed in pregnant women</span>.<br /><br />Monitoring<br /><ul><li>the BNF advises: '<i>Ask patient about visual symptoms and monitor visual acuity annually using the standard reading chart</i>'</li></ul>",
+        "notes_hash": "cde753ca28000d5294835b38d2259cad",
+        "knowledge_graph_node_id_link": 10878,
+        "concept": "Patients that will be taking hydroxychloroquine long-term now require baseline ophthalmologic examination at the outset of treatment",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "4283",
+        "up_votes": "31",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "364",
+            "141",
+            "234",
+            "3340",
+            "204",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Ophthalmologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1587\" data-linkid=\"1587\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1587\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_1587\" data-linkid=\"1587\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1587\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcophth.ac.uk/2018/03/rcophth-guideline-hydroxychloroquine-and-chloroquine-retinopathy-new-screening-recommendations-february-2018/\">2018 Hydroxychloroquine and Chloroquine Retinopathy: Recommendations on Screening</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1241\" data-linkid=\"1241\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1241\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1241\" data-linkid=\"1241\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1241\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/hydroxychloroquine-sulfate.html\">Hydroxychloroquine</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o38zHICkI5g\" data-description=\"Hydroxychloroquine (DMARD) - Pharmacology, mechanism of action, indication, side effects\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1113\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/o38zHICkI5g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o38zHICkI5g\" data-description=\"Hydroxychloroquine (DMARD) - Pharmacology, mechanism of action, indication, side effects\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1113\">Hydroxychloroquine (DMARD) - Pharmacology, mechanism of action, indication, side effects</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1927\" data-mediaid=\"1927\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1927\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1927\" data-mediaid=\"1927\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1927\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1010": {
+                "concept_text": "Hydroxychloroquine - may result in a severe and permanent retinopathy",
+                "concept_percentile": "51"
+            },
+            "3190": {
+                "concept_text": "Patients that will be taking hydroxychloroquine long-term now require baseline ophthalmologic examination at the outset of treatment",
+                "concept_percentile": "51"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2019",
+        "new_question_id": "1271",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1100",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Adie pupil",
+            "Marcus-Gunn pupil",
+            "Horner's syndrome",
+            "Hutchinson's pupil",
+            "Argyll-Robertson pupil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You examine a patient in the Emergency Department who was admitted following an accident on his motorbike. He is a known diabetic, with several recent admissions due to poor compliance to insulin treatment. His pupils are bilaterally small, accommodate, but do not constrict to light.<br /><br />Which of the following most accurately describes this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Disorder</th><th>Notes</th></tr></thead><tbody><tr><td>Adie pupil</td><td>Tonically dilated pupil, slowly reactive to light with more definite accommodation response. Caused by damage to parasympathetic innervation of the eye due to viral or bacterial infection. Commonly seen in females, accompanied by absent knee or ankle jerks.</td></tr><tr><td>Marcus-Gunn pupil</td><td>Relative afferent pupillary defect, seen during the swinging light examination of pupil response. The pupils constrict less and therefore appear to dilate when a light is swung from unaffected to affected eye. Most commonly caused by damage to the optic nerve or severe retinal disease.</td></tr><tr><td>Horner's syndrome</td><td>Miosis (pupillary constriction), ptosis (droopy eyelid), apparent enophthalmos (inset eyeball), with or without anhidrosis (decreased sweating) occurring on one side. Caused by damage to the sympathetic trunk on the same side as the symptoms, due to trauma, compression, infection, ischaemia or many others.</td></tr><tr><td>Hutchinson's</td><td>Unilaterally dilated pupil which is unresponsive to light. A result of compression of the occulomotor nerve of the same side, by an intracranial mass (e.g. tumour, haematoma)</td></tr><tr><td>Argyll-Robertson pupil</td><td>Bilaterally small pupils that accommodate but don't react to bright light. Causes include neurosyphilis and diabetes mellitus</td></tr></tbody></table></div>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You examine a patient in the Emergency Department who was admitted following an accident on his motorbike. He is a known diabetic, with several recent admissions due to poor compliance to insulin treatment. His pupils are bilaterally small, accommodate, but do not constrict to light.<br /><br />Which of the following most accurately describes this condition?",
+        "correct_answer": "5",
+        "question_notes": "<div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Disorder</th><th>Notes</th></tr></thead><tbody><tr><td>Adie pupil</td><td>Tonically dilated pupil, slowly reactive to light with more definite accommodation response. Caused by damage to parasympathetic innervation of the eye due to viral or bacterial infection. Commonly seen in females, accompanied by absent knee or ankle jerks.</td></tr><tr><td>Marcus-Gunn pupil</td><td>Relative afferent pupillary defect, seen during the swinging light examination of pupil response. The pupils constrict less and therefore appear to dilate when a light is swung from unaffected to affected eye. Most commonly caused by damage to the optic nerve or severe retinal disease.</td></tr><tr><td>Horner's syndrome</td><td>Miosis (pupillary constriction), ptosis (droopy eyelid), apparent enophthalmos (inset eyeball), with or without anhidrosis (decreased sweating) occurring on one side. Caused by damage to the sympathetic trunk on the same side as the symptoms, due to trauma, compression, infection, ischaemia or many others.</td></tr><tr><td>Hutchinson's</td><td>Unilaterally dilated pupil which is unresponsive to light. A result of compression of the occulomotor nerve of the same side, by an intracranial mass (e.g. tumour, haematoma)</td></tr><tr><td>Argyll-Robertson pupil</td><td>Bilaterally small pupils that accommodate but don't react to bright light. Causes include neurosyphilis and diabetes mellitus</td></tr></tbody></table></div>",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Argyll-Robertson pupil",
+        "body": "Argyll-Robertson pupil is one of the classic pupillary syndrome. It is sometimes seen in neurosyphilis. A mnemonic used for the Argyll-Robertson Pupil (ARP) is Accommodation Reflex Present (ARP) but Pupillary Reflex Absent (PRA)<br /><br />Features<br /><ul><li>small, irregular pupils</li><li>no response to light but there is a response to accommodate</li></ul><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"4073\">diabetes mellitus</span></li><li><span class=\"concept\" data-cid=\"6106\">syphilis</span></li></ul>",
+        "notes_hash": "64f084e750b81cd621749c45ad26a2e8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5633",
+        "up_votes": "70",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "507",
+            "738",
+            "208",
+            "256",
+            "3924",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Stanford Medicine</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_62\" data-linkid=\"62\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_62\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_62\" data-linkid=\"62\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_62\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://stanfordmedicine25.stanford.edu/the25/pupillary.html\">Pupillary Control: The Basics</a></td></tr></table>",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "4073": {
+                "concept_text": "Diabetes is now the most common cause of Argyll-Robertson pupil in the UK because neurosyphilis is now rarely seen",
+                "concept_percentile": "75"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1915",
+        "new_question_id": "60785",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "3296",
+        "notes_id_link": "1_1883",
+        "theme": "Management of a transilluminating scrotal swelling",
+        "instruction": "",
+        "options": [
+            "",
+            "Aspiration of the swelling",
+            "Refer to routine urology clinic",
+            "Urgent testicular ultrasound",
+            "Reassure and advise scrotal support",
+            "Request serum tumour markers",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man presents to his GP with a 6-month history of a painless, enlarging right scrotal swelling. On examination, there is a soft, fluctuant, 8cm swelling in the right hemiscrotum. The swelling is confined to the scrotum and transilluminates brightly with a pen torch. The underlying testis cannot be confidently palpated due to the size of the swelling. The left testis is unremarkable.<br /><br />What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Urgent testicular ultrasound</b> is the correct answer. While the clinical findings of a painless, fluctuant swelling that transilluminates are highly suggestive of a hydrocele, the inability to palpate the underlying testis is a significant red flag. A hydrocele can be primary (idiopathic) or secondary to an underlying pathology. Crucially, up to 10% of testicular tumours can present with a secondary or reactive hydrocele, which can mask the underlying solid mass. UK guidelines, including NICE guidance on suspected cancer (NG12), state that any man with a non-painful enlargement or change in shape or texture of the testis should be considered for an urgent ultrasound scan, to be performed within 2 weeks. As the testis cannot be adequately examined in this case, a tumour cannot be excluded clinically. Therefore, urgent imaging is mandatory to visualise the testis, confirm the nature of the swelling, and definitively rule out an underlying malignancy before any further management decisions are made. This is the safest and most appropriate course of action.<br /><br /><b>Aspiration of the swelling</b> is an incorrect next step. Aspiration is a therapeutic procedure for symptomatic hydroceles, not a first-line diagnostic tool. Performing aspiration before imaging is potentially dangerous. If an underlying testicular tumour is present, puncturing it with a needle could theoretically lead to tumour seeding along the needle tract or into the scrotum, and can cause a haematocele which complicates subsequent diagnosis and management. Aspiration should only be considered once a simple hydrocele has been confirmed on ultrasound and malignancy has been confidently excluded. It is generally reserved for older patients who are unfit for surgery, as recurrence rates are high.<br /><br /><b>Refer to routine urology clinic</b> is not the most appropriate next step. While this patient will likely require a urological opinion, a 'routine' referral is too slow given the possibility of an underlying testicular cancer. The inability to palpate the testis means that malignancy must be excluded urgently. The correct pathway is to arrange an urgent testicular ultrasound scan first. The results of this scan will then determine the urgency of the urology referral. If the ultrasound confirms a tumour, the patient would be referred via a 2-week wait cancer pathway. If it confirms a simple hydrocele, a routine referral for consideration of surgical management would then be appropriate.<br /><br /><b>Reassure and advise scrotal support</b> would be a premature and potentially unsafe action. This management is only appropriate for a patient with a confirmed, uncomplicated, and asymptomatic primary hydrocele where the underlying testis has been examined and found to be normal. In this scenario, the testis cannot be assessed, and therefore a serious underlying cause like a tumour has not been excluded. Providing false reassurance could lead to a significant delay in diagnosing a potentially curable malignancy. Scrotal support may provide symptomatic relief but does not address the fundamental need for a definitive diagnosis.<br /><br /><b>Request serum tumour markers</b> (AFP, \u03b2-hCG, LDH) is not the best initial step. While these markers are crucial in the staging and monitoring of testicular germ cell tumours, they are not a primary diagnostic tool for a scrotal mass. Ultrasound is the gold-standard initial investigation due to its high sensitivity for detecting testicular tumours. Furthermore, tumour markers can be normal in a significant proportion of testicular cancers, particularly early-stage seminomas. Therefore, a normal set of markers does not exclude cancer. These blood tests are typically requested by the urology or oncology team in conjunction with imaging, usually once an ultrasound has identified a solid testicular mass, not as a screening tool in primary care.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man presents to his GP with a 6-month history of a painless, enlarging right scrotal swelling. On examination, there is a soft, fluctuant, 8cm swelling in the right hemiscrotum. The swelling is confined to the scrotum and transilluminates brightly with a pen torch. The underlying testis cannot be confidently palpated due to the size of the swelling. The left testis is unremarkable.<br /><br />What is the most appropriate next step in management?",
+        "correct_answer": "3",
+        "question_notes": "<b>Urgent testicular ultrasound</b> is the correct answer. While the clinical findings of a painless, fluctuant swelling that transilluminates are highly suggestive of a hydrocele, the inability to palpate the underlying testis is a significant red flag. A hydrocele can be primary (idiopathic) or secondary to an underlying pathology. Crucially, up to 10% of testicular tumours can present with a secondary or reactive hydrocele, which can mask the underlying solid mass. UK guidelines, including NICE guidance on suspected cancer (NG12), state that any man with a non-painful enlargement or change in shape or texture of the testis should be considered for an urgent ultrasound scan, to be performed within 2 weeks. As the testis cannot be adequately examined in this case, a tumour cannot be excluded clinically. Therefore, urgent imaging is mandatory to visualise the testis, confirm the nature of the swelling, and definitively rule out an underlying malignancy before any further management decisions are made. This is the safest and most appropriate course of action.<br /><br /><b>Aspiration of the swelling</b> is an incorrect next step. Aspiration is a therapeutic procedure for symptomatic hydroceles, not a first-line diagnostic tool. Performing aspiration before imaging is potentially dangerous. If an underlying testicular tumour is present, puncturing it with a needle could theoretically lead to tumour seeding along the needle tract or into the scrotum, and can cause a haematocele which complicates subsequent diagnosis and management. Aspiration should only be considered once a simple hydrocele has been confirmed on ultrasound and malignancy has been confidently excluded. It is generally reserved for older patients who are unfit for surgery, as recurrence rates are high.<br /><br /><b>Refer to routine urology clinic</b> is not the most appropriate next step. While this patient will likely require a urological opinion, a 'routine' referral is too slow given the possibility of an underlying testicular cancer. The inability to palpate the testis means that malignancy must be excluded urgently. The correct pathway is to arrange an urgent testicular ultrasound scan first. The results of this scan will then determine the urgency of the urology referral. If the ultrasound confirms a tumour, the patient would be referred via a 2-week wait cancer pathway. If it confirms a simple hydrocele, a routine referral for consideration of surgical management would then be appropriate.<br /><br /><b>Reassure and advise scrotal support</b> would be a premature and potentially unsafe action. This management is only appropriate for a patient with a confirmed, uncomplicated, and asymptomatic primary hydrocele where the underlying testis has been examined and found to be normal. In this scenario, the testis cannot be assessed, and therefore a serious underlying cause like a tumour has not been excluded. Providing false reassurance could lead to a significant delay in diagnosing a potentially curable malignancy. Scrotal support may provide symptomatic relief but does not address the fundamental need for a definitive diagnosis.<br /><br /><b>Request serum tumour markers</b> (AFP, \u03b2-hCG, LDH) is not the best initial step. While these markers are crucial in the staging and monitoring of testicular germ cell tumours, they are not a primary diagnostic tool for a scrotal mass. Ultrasound is the gold-standard initial investigation due to its high sensitivity for detecting testicular tumours. Furthermore, tumour markers can be normal in a significant proportion of testicular cancers, particularly early-stage seminomas. Therefore, a normal set of markers does not exclude cancer. These blood tests are typically requested by the urology or oncology team in conjunction with imaging, usually once an ultrasound has identified a solid testicular mass, not as a screening tool in primary care.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Scrotal problems",
+        "body": "<h5 class='notes-heading'>Epididymal cysts</h5><br />Epididymal cysts are the most common cause of scrotal swellings seen in primary care. <br /><br />Features<br /><ul><li>separate from the body of the testicle</li><li>found posterior to the testicle</li></ul><br />Associated conditions<br /><ul><li>polycystic kidney disease </li><li>cystic fibrosis</li><li>von Hippel-Lindau syndrome</li></ul><br />Diagnosis may be confirmed by ultrasound.<br /><br />Management is usually supportive but surgical removal or sclerotherapy may be attempted for larger or symptomatic cysts.<br /><br /><h5 class='notes-heading'>Hydrocele</h5><br />A hydrocele describes the accumulation of fluid within the tunica vaginalis. They can be divided into communicating and non-communicating:<br /><ul><li>communicating: caused by patency of the processus vaginalis allowing peritoneal fluid to drain down into the scrotum. Communicating hydroceles are common in newborn males (clinically apparent in 5-10%) and usually resolve within the first few months of life</li><li>non-communicating: caused by excessive fluid production within the tunica vaginalis</li></ul><br />Hydroceles may develop secondary to:<br /><ul><li>epididymo-orchitis</li><li>testicular torsion</li><li>testicular tumours</li></ul><br />Features<br /><ul><li>soft, non-tender swelling of the hemi-scrotum. Usually anterior to and below the testicle</li><li>the swelling is confined to the scrotum, you can get 'above' the mass on examination</li><li>transilluminates with a pen torch</li><li>the testis may be difficult to palpate if the hydrocele is large</li></ul><br />Diagnosis may be clinical but ultrasound is required if there is any doubt about the diagnosis or if the underlying testis cannot be palpated.<br /><br />Management<br /><ul><li>infantile hydroceles are generally repaired if they do not resolve spontaneously by the age of 1-2 years</li><li>in adults a conservative approach may be taken depending on the severity of the presentation. Further investigation (e.g. ultrasound) is usually warranted however to exclude any underlying cause such as a tumour</li></ul><br /><h5 class='notes-heading'>Varicocele</h5><br />A varicocele is an abnormal enlargement of the testicular veins. They are usually asymptomatic but may be important as they are associated with infertility. <br /><br />Varicoceles are much more common on the left side (> 80%). Features:<br /><ul><li>classically described as a 'bag of worms'</li><li>subfertility</li></ul><br />Diagnosis<br /><ul><li>ultrasound with Doppler studies</li></ul><br />Management<br /><ul><li>usually conservative</li><li>occasionally surgery is required if the patient is troubled by pain. There is ongoing debate regarding the effectiveness of surgery to treat infertility</li></ul>",
+        "notes_hash": "5799a4dd1f941a59c608041f73df07d9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hydroceles are a cause of scrotal swelling which transilluminates with a pen torch and are confined to the scrotum",
+        "concept_percentile": "45",
+        "concept_colour": "rgb(255,229,0)",
+        "number_attempts": "1554",
+        "up_votes": "1",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "37",
+            "189",
+            "1176",
+            "125",
+            "27",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_622\" data-linkid=\"622\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_622\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_622\" data-linkid=\"622\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_622\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.patient.co.uk/doctor/Varicocele.htm\">Varicocele review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8278_B_2",
+        "new_question_id": "19393",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "9300",
+        "notes_id_link": "1_350",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ask her GP to repeat thyroid function tests (TFTs) in 6 weeks",
+            "Start levothyroxine",
+            "Stop antibiotics now and recheck TFTs tomorrow",
+            "Repeat TFTs tomorrow",
+            "Radio-isotope scan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "On the geriatrics ward round, you review an 89-year-old lady who was admitted with a community acquired pneumonia and acute kidney injury (AKI) requiring intravenous antibiotics and fluids. She was delirious on admission but this has been improving. Her confusion screen bloods are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Calcium</td><td>2.2 mmol/L</td><td>(2.1 - 2.6)</td></tr><tr><td>Phosphate</td><td>1.0 mmol/L</td><td>(0.8 - 1.4)</td></tr><tr><td>Magnesium</td><td>0.8 mmol/L</td><td>(0.7 - 1.0)</td></tr><tr><td>Vitamin B12</td><td>550 pg/ml</td><td>(110 - 1500)</td></tr><tr><td>Folate</td><td>5.6 \u00b5g/ml</td><td>(2.5 - 20)</td></tr><tr><td>Thyroid stimulating hormone (TSH)</td><td>4.6 mU/L</td><td>(0.5 - 5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>6.0 pmol/L</td><td>(9.0 - 18)</td></tr><tr><td>Free T3</td><td>3.6 pmol/L</td><td>(4 - 7.4)</td></tr></tbody></table></div><br />Her regular medications include: bisoprolol, digoxin, ramipril, atorvastatin and rivaroxaban.<br /><br />She is currently asymptomatic and feels much better on day 6 of her 7 day course of antibiotics.<br /><br />What is the most appropriate action for her abnormal thyroid function tests?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Abnormal TFTs are very common in elderly patients when they are unwell. This lady has no history of thyroid disease and is not currently on levothyroxine, which suggests that this is more likely to be sick euthyroid rather than a new presentation of hypothyroidism.<br /><br />Though starting levothyroxine may be reasonable, this would more preferably be done once the current illness had resolved.<br /><br />It is unlikely that her antibiotics are causing deranged TFTs, and given she is currently asymptomatic with her TFTs, it wouldn't be appropriate to discontinue her antibiotics before she has completed her course.<br /><br />Her thyroid function tests tomorrow are likely to be very similar.<br /><br />A radio-isotope scan is not indicated in this case as there is no suspicion of malignancy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "On the geriatrics ward round, you review an 89-year-old lady who was admitted with a community acquired pneumonia and acute kidney injury (AKI) requiring intravenous antibiotics and fluids. She was delirious on admission but this has been improving. Her confusion screen bloods are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Calcium</td><td>2.2 mmol/L</td><td>(2.1 - 2.6)</td></tr><tr><td>Phosphate</td><td>1.0 mmol/L</td><td>(0.8 - 1.4)</td></tr><tr><td>Magnesium</td><td>0.8 mmol/L</td><td>(0.7 - 1.0)</td></tr><tr><td>Vitamin B12</td><td>550 pg/ml</td><td>(110 - 1500)</td></tr><tr><td>Folate</td><td>5.6 \u00b5g/ml</td><td>(2.5 - 20)</td></tr><tr><td>Thyroid stimulating hormone (TSH)</td><td>4.6 mU/L</td><td>(0.5 - 5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>6.0 pmol/L</td><td>(9.0 - 18)</td></tr><tr><td>Free T3</td><td>3.6 pmol/L</td><td>(4 - 7.4)</td></tr></tbody></table></div><br />Her regular medications include: bisoprolol, digoxin, ramipril, atorvastatin and rivaroxaban.<br /><br />She is currently asymptomatic and feels much better on day 6 of her 7 day course of antibiotics.<br /><br />What is the most appropriate action for her abnormal thyroid function tests?",
+        "correct_answer": "1",
+        "question_notes": "Abnormal TFTs are very common in elderly patients when they are unwell. This lady has no history of thyroid disease and is not currently on levothyroxine, which suggests that this is more likely to be sick euthyroid rather than a new presentation of hypothyroidism.<br /><br />Though starting levothyroxine may be reasonable, this would more preferably be done once the current illness had resolved.<br /><br />It is unlikely that her antibiotics are causing deranged TFTs, and given she is currently asymptomatic with her TFTs, it wouldn't be appropriate to discontinue her antibiotics before she has completed her course.<br /><br />Her thyroid function tests tomorrow are likely to be very similar.<br /><br />A radio-isotope scan is not indicated in this case as there is no suspicion of malignancy.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Sick euthyroid syndrome",
+        "body": "In sick euthyroid syndrome (now referred to as non-thyroidal illness) it is often said that everything (TSH, thyroxine and T3) is low. In the <span class=\"concept\" data-cid=\"2813\">majority of cases however the TSH level is within the >normal</span> range (inappropriately normal given the low thyroxine and T3).<br /><br />Changes are reversible upon recovery from the systemic illness and hence <span class=\"concept\" data-cid=\"9300\">no treatment is usually needed</span>.",
+        "notes_hash": "d54add3030f61be71d9e1059b3caade0",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Sick euthyroid is common in unwell, elderly patients and often needs no treatment",
+        "concept_percentile": "84",
+        "concept_colour": "rgb(81,255,0)",
+        "number_attempts": "5583",
+        "up_votes": "28",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "5096",
+            "231",
+            "76",
+            "157",
+            "23",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "2813": {
+                "concept_text": "Sick euthyroid syndrome = low T3/T4 and normal TSH with acute illness",
+                "concept_percentile": "79"
+            },
+            "9300": {
+                "concept_text": "Sick euthyroid is common in unwell, elderly patients and often needs no treatment",
+                "concept_percentile": "84"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_254",
+        "new_question_id": "3467",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "345",
+        "notes_id_link": "1_1586",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassure trial of dermovate and review in 3 days",
+            "Refer urgently to hospital",
+            "Advise calamine lotion and review in 3 days",
+            "Advise that this is a self limiting illness and he should have regular paracetamol",
+            "Advise a course of flucloxacillin and review in 3 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother comes to see you with her 3-year-old son who suffers from eczema. She reports that his eczema has become a lot worse this week. He has developed widespread itchy blisters all over his body: including his face, torso, arms and legs. In addition to this, he is not acting like his usual self- eating and drinking less than usual and not playing with his favourite toys. He also has a temperature of 39\u00baC. <br /><br />Which one of the following is the most appropriate?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This child has eczema herpeticum which is a medical emergency. This child needs urgent admission and treatment with antivirals.<br /><br />Eczema herpeticum usually begins with a cluster of itchy and painful blisters. It can affect any site but is most often seen on the face and neck. Blisters can occur in normal skin or on skin that is affected by atopic dermatitis or another skin disease. The patient is unwell, swollen lymph nodes and a fever.<br /><br />All of the other options are incorrect as they would delay an urgent review.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother comes to see you with her 3-year-old son who suffers from eczema. She reports that his eczema has become a lot worse this week. He has developed widespread itchy blisters all over his body: including his face, torso, arms and legs. In addition to this, he is not acting like his usual self- eating and drinking less than usual and not playing with his favourite toys. He also has a temperature of 39\u00baC. <br /><br />Which one of the following is the most appropriate?",
+        "correct_answer": "2",
+        "question_notes": "This child has eczema herpeticum which is a medical emergency. This child needs urgent admission and treatment with antivirals.<br /><br />Eczema herpeticum usually begins with a cluster of itchy and painful blisters. It can affect any site but is most often seen on the face and neck. Blisters can occur in normal skin or on skin that is affected by atopic dermatitis or another skin disease. The patient is unwell, swollen lymph nodes and a fever.<br /><br />All of the other options are incorrect as they would delay an urgent review.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Eczema herpeticum",
+        "body": "Eczema herpeticum describes a severe primary infection of the skin by <span class=\"concept\" data-cid=\"10256\">herpes simplex virus</span> 1 or 2. <br /><br />It is more commonly seen in children with atopic eczema and often presents as a <span class=\"concept\" data-cid=\"10260\">rapidly progressing painful rash</span>. <br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd454b.jpg\" data-fancybox=\"gallery\" data-caption=\"This image shows a child with widespread monomorphic vesiculopustular and erosive lesions on the cheeks, perioral area, and chin, many with haemorrhagic crusting. The lesions are punched-out, confluent in areas, and set on a background of erythema, consistent with eczema herpeticum\u2014a disseminated herpes simplex virus (HSV) infection typically superimposed on atopic dermatitis. The distribution around the mouth and lower face is characteristic.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd454.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd050b.jpg\" data-fancybox=\"gallery\" data-caption=\"Eczema herpeticum\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd050.jpg\" alt=\"\" /></a></div></div></div><br />On examination, <span class=\"concept\" data-cid=\"10261\">monomorphic punched-out erosions (circular, depressed, ulcerated lesions) usually 1-3 mm in diameter</span> are typically seen.<br /><br />As it is potentially life-threatening children should be <span class=\"concept\" data-cid=\"10262\">admitted</span> for <span class=\"concept\" data-cid=\"345\">IV aciclovir</span>.",
+        "notes_hash": "24ffb2e3dec3f3543f328cfdfa457c0f",
+        "knowledge_graph_node_id_link": 11038,
+        "concept": "Eczema herpeticum is a serious condition that requires IV antivirals",
+        "concept_percentile": "88",
+        "concept_colour": "rgb(61,255,0)",
+        "number_attempts": "5410",
+        "up_votes": "35",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "37",
+            "5020",
+            "64",
+            "161",
+            "128",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_463\" data-linkid=\"463\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_463\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">43</span><button type=\"button\" style=\"\" id=\"link_dislike_463\" data-linkid=\"463\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_463\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/eczema-herpeticum/\">Eczema herpeticum</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "345": {
+                "concept_text": "Eczema herpeticum is a serious condition that requires IV antivirals",
+                "concept_percentile": "88"
+            },
+            "10256": {
+                "concept_text": "Eczema herpeticum is a primary infection of the skin caused by herpes simplex virus (HSV) and uncommonly coxsackievirus",
+                "concept_percentile": "82"
+            },
+            "10261": {
+                "concept_text": "Eczema herperticum rash can be described as monomorphic punched-out erosions (circular, depressed, ulcerated lesions) usually 1-3 mm in diameter",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "23539_B_378",
+        "new_question_id": "40490",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_859",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diagnosis unlikely - discharge with safety-netting",
+            "Immediately prescribe enoxaparin",
+            "Immediately prescribe rivaroxaban",
+            "Perform D-dimer testing",
+            "Perform proximal leg vein ultrasound scan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old woman presents to the emergency department with acute right lower calf pain. She denies any recent immobilisation, or surgery, combined oral contraceptive pill use, and has no past medical history. There has been no trauma.<br /><br />Her temperature is 37.1\u00baC, her heart rate is 95 bpm, and her blood pressure is 128/76 mmHg. There is no localised tenderness on palpation or pitting oedema. Her right calf is 2 cm larger than the left leg, however, the entire right leg is swollen. The left leg is unaffected.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />No delays in investigations or management are anticipated.<br /><br />What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Perform D-dimer testing</b> is correct. This patient has an acutely swollen and painful lower calf, which should raise suspicion of deep vein thrombosis (DVT). She has no history of immobilisation, surgery, oral combined contraceptive pill use, or cancer, and on examination, there is no localised tenderness, or pitting oedema, and her calf swelling is only 2 cm larger than the rest. However, her entire leg is swollen, which scores 1 point according to the 2-level DVT Wells test. An alternative diagnosis would be less likely given that there are no signs of other causes, such as trauma or infection (as she is afebrile). This makes her Wells score 1, meaning a DVT is unlikely. When patients present with features of a DVT, but a DVT is unlikely (their Wells score is 1 or less), the most appropriate next step is a D-dimer test within 4 hours to rule it out entirely. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Perform proximal leg vein ultrasound scan</b> is incorrect. This would be appropriate if her Wells score was 2 or more, making a DVT likely. Given that her Wells score is 1, the most appropriate next step is a D-dimer test within 4 hours. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Diagnosis unlikely - discharge with safety-netting</b> is incorrect. This would not be appropriate as her features are still suggestive of DVT, and the guidelines state that a Wells score of 1 or less still warrants D-dimer testing. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Immediately prescribe rivaroxaban</b> is incorrect. This would be appropriate if the D-dimer test could not be performed within the next 4 hours, however, there is no mention of delays in testing, therefore at this moment in time, D-dimer testing alone is the most appropriate option. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged. Rivaroxaban is a direct oral anticoagulant (DOAC), the new first-line treatment of VTEs (previously low molecular weight heparins).<br /><br /><b>Immediately prescribe enoxaparin</b> is incorrect. Similarly to the above, interim anticoagulation would be appropriate if the D-dimer testing could not be performed within the next 4 hours. Low molecular weight heparins (LMWHs) are only used as anticoagulation in VTEs if the patient has renal impairment. There is no mention of delays in testing, nor any mention of this patient having renal impairment, therefore at this moment in time, D-dimer testing alone is the most appropriate option. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old woman presents to the emergency department with acute right lower calf pain. She denies any recent immobilisation, or surgery, combined oral contraceptive pill use, and has no past medical history. There has been no trauma.<br /><br />Her temperature is 37.1\u00baC, her heart rate is 95 bpm, and her blood pressure is 128/76 mmHg. There is no localised tenderness on palpation or pitting oedema. Her right calf is 2 cm larger than the left leg, however, the entire right leg is swollen. The left leg is unaffected.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd954b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />No delays in investigations or management are anticipated.<br /><br />What is the most appropriate next step?",
+        "correct_answer": "4",
+        "question_notes": "<b>Perform D-dimer testing</b> is correct. This patient has an acutely swollen and painful lower calf, which should raise suspicion of deep vein thrombosis (DVT). She has no history of immobilisation, surgery, oral combined contraceptive pill use, or cancer, and on examination, there is no localised tenderness, or pitting oedema, and her calf swelling is only 2 cm larger than the rest. However, her entire leg is swollen, which scores 1 point according to the 2-level DVT Wells test. An alternative diagnosis would be less likely given that there are no signs of other causes, such as trauma or infection (as she is afebrile). This makes her Wells score 1, meaning a DVT is unlikely. When patients present with features of a DVT, but a DVT is unlikely (their Wells score is 1 or less), the most appropriate next step is a D-dimer test within 4 hours to rule it out entirely. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Perform proximal leg vein ultrasound scan</b> is incorrect. This would be appropriate if her Wells score was 2 or more, making a DVT likely. Given that her Wells score is 1, the most appropriate next step is a D-dimer test within 4 hours. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Diagnosis unlikely - discharge with safety-netting</b> is incorrect. This would not be appropriate as her features are still suggestive of DVT, and the guidelines state that a Wells score of 1 or less still warrants D-dimer testing. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.<br /><br /><b>Immediately prescribe rivaroxaban</b> is incorrect. This would be appropriate if the D-dimer test could not be performed within the next 4 hours, however, there is no mention of delays in testing, therefore at this moment in time, D-dimer testing alone is the most appropriate option. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged. Rivaroxaban is a direct oral anticoagulant (DOAC), the new first-line treatment of VTEs (previously low molecular weight heparins).<br /><br /><b>Immediately prescribe enoxaparin</b> is incorrect. Similarly to the above, interim anticoagulation would be appropriate if the D-dimer testing could not be performed within the next 4 hours. Low molecular weight heparins (LMWHs) are only used as anticoagulation in VTEs if the patient has renal impairment. There is no mention of delays in testing, nor any mention of this patient having renal impairment, therefore at this moment in time, D-dimer testing alone is the most appropriate option. If the D-dimer is negative, no further action is necessary. If it is positive, a lower limb ultrasound scan should be arranged.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Deep vein thrombosis: diagnosis and management",
+        "body": "NICE updated their guidelines on the investigation and management of venous thromboembolism (VTE) in 2020. Some of the key changes include recommending the following:<br /><ul><li>the use of direct oral anticoagulants (DOACs) as first-line treatment for most people with VTE, including as interim anticoagulants before a definite diagnosis is made</li><li>the <span class=\"concept\" data-cid=\"897\">use of DOACs in patients with active cancer</span>, as opposed to low-molecular weight heparin as was the previous recommendation</li><li>routine cancer screening is no longer recommended following a VTE diagnosis</li></ul><br />If a patient is suspected of having a DVT a two-level DVT Wells score should be performed:<br /><br /><h5 class='notes-heading'>Two-level DVT Wells score</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Clinical feature</b></th><th><b>Points</b></th></tr></thead><tbody><tr><td>Active cancer (treatment ongoing, within 6 months, or palliative)</td><td>1</td></tr><tr><td>Paralysis, paresis or recent plaster immobilisation of the lower extremities</td><td>1</td></tr><tr><td>Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia</td><td>1</td></tr><tr><td>Localised tenderness along the distribution of the deep venous system</td><td>1</td></tr><tr><td>Entire leg swollen</td><td>1</td></tr><tr><td>Calf swelling at least 3 cm larger than asymptomatic side</td><td>1</td></tr><tr><td>Pitting oedema confined to the symptomatic leg</td><td>1</td></tr><tr><td>Collateral superficial veins (non-varicose)</td><td>1</td></tr><tr><td>Previously documented DVT</td><td>1</td></tr><tr><td>An alternative diagnosis is at least as likely as DVT</td><td>-2</td></tr></tbody></table></div><br />Clinical probability simplified score<br /><ul><li>DVT likely: 2 points or more</li><li>DVT unlikely: 1 point or less</li></ul><br />If a <span class=\"concept\" data-cid=\"8512\">DVT is 'likely' (2 points or more)</span><br /><ul><li>a proximal leg vein ultrasound scan should be carried out within 4 hours<ul><li>if the result is positive then a diagnosis of DVT is made and anticoagulant treatment should start</li><li>if the result is negative a D-dimer test should be arranged.  A negative scan and negative D-dimer makes the diagnosis unlikely and alternative diagnoses should be considered</li></ul></li><li>if a proximal leg vein ultrasound scan cannot be carried out within 4 hours a D-dimer test should be performed and <span class=\"concept\" data-cid=\"11181\">interim therapeutic anticoagulation</span> administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)<ul><li>interim therapeutic anticoagulation used to mean giving low-molecular weight heparin</li><li>NICE updated their guidance in 2020. They now recommend using an anticoagulant that can be continued if the result is positive. </li><li>this means normally a direct oral anticoagulant (DOAC) such as apixaban or rivaroxaban</li></ul></li><li>if the <span class=\"concept\" data-cid=\"11182\">scan is negative but the D-dimer is positive</span>:<ul><li>stop interim therapeutic anticoagulation</li><li>offer a repeat proximal leg vein ultrasound scan 6 to 8 days later </li></ul></li></ul><br />If a <span class=\"concept\" data-cid=\"11180\">DVT is 'unlikely' (1 point or less)</span><br /><ul><li>perform a D-dimer test<ul><li>this should be done within 4 hours. If not, interim therapeutic anticoagulation should be given until the result is available</li><li>if the result is negative then DVT is unlikely and alternative diagnoses should be considered</li><li>if the result is positive then a proximal leg vein ultrasound scan should be carried out within 4 hours</li><li>if a proximal leg vein ultrasound scan cannot be carried out <span class=\"concept\" data-cid=\"11181\">within 4 hours interim therapeutic anticoagulation</span> should be administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)</li></ul></li></ul><br />D-dimer tests<br /><ul><li>NICE recommend either a point-of-care (finger prick) or laboratory-based test</li><li>age-adjusted cut-offs should be used for patients > 50 years old</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554b.png\" data-fancybox=\"gallery\" data-caption=\"Flow diagram for investigating suspected DVT using 2-level Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555b.png\" data-fancybox=\"gallery\" data-caption=\"2-level DVT Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555.png\" alt=\"\" /></a></div></div></div><br /><br /><h5 class='notes-heading'>Management</h5><br />The cornerstone of VTE management is anticoagulant therapy. This was historically done with warfarin, often preceded by heparin until the INR was stable. However, the development of DOACs, and an evidence base supporting their efficacy, has changed modern management.<br /><br />Choice of anticoagulant<br /><ul><li>the big change in the 2020 guidelines was the increased use of DOACs</li><li>apixaban or rivaroxaban (both DOACs) should be offered first-line following the diagnosis of a DVT<ul><li>instead of using low-molecular weight heparin (LMWH) until the diagnosis is confirmed, NICE now advocate using a <span class=\"concept\" data-cid=\"8024\">DOAC once a diagnosis is suspected</span>, with this continued if the diagnosis is confirmed</li><li>if neither apixaban or rivaroxaban are suitable then either LMWH followed by dabigatran or edoxaban OR LMWH followed by a vitamin K antagonist (VKA, i.e. warfarin)</li></ul></li><li>if the patient has active cancer<ul><li>previously LMWH was recommended</li><li>the <span class=\"concept\" data-cid=\"897\">new guidelines now recommend using a DOAC</span>, unless this is contraindicated</li></ul></li><li>if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA</li><li>if the patient has antiphospholipid syndrome (specifically 'triple positive' in the guidance) then LMWH followed by a VKA should be used</li></ul><br />Length of anticoagulation<br /><ul><li>all patients should have anticoagulation for at least 3 months</li><li>continuing anticoagulation after this period is partly determined by whether the VTE was provoked or unprovoked<ul><li>a provoked VTE is due to an obvious precipitating event e.g. immobilisation following major surgery. The implication is that this event was transient and the patient is no longer at increased risk</li><li>an unprovoked VTE occurs in the absence of an obvious precipitating event, i.e. there is a possibility that there are unknown factors (e.g. mild thrombophilia) making the patient more at risk from further clots</li></ul></li><li><span class=\"concept\" data-cid=\"898\">if the  VTE was provoked the treatment is typically stopped after the initial 3 months</span> (3 to 6 months for people with active cancer)</li><li><span class=\"concept\" data-cid=\"898\">if the VTE was unprovoked then treatment is typically continued for up to 3 further months (i.e. 6 months in total)</span><ul><li>NICE recommend that whether a patient has a total of 3-6 months anticoagulant is based upon balancing  a person's risk of VTE recurrence and their risk of bleeding</li><li>the ORBIT score can be used to help assess the risk of bleeding</li><li>NICE state: '<i>Explain to people with unprovoked DVT or PE and a low bleeding risk that the benefits of continuing anticoagulation treatment are likely to outweigh the risks. </i>'. The implication of this is that in the absence of a bleeding risk factors, patients are generally better off continuing anticoagulation for a total of 6 months</li></ul></li></ul>",
+        "notes_hash": "aa552e2b461ba513ff640bf604af7b5a",
+        "knowledge_graph_node_id_link": 1230,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4585",
+        "up_votes": "29",
+        "down_votes": "39",
+        "column_array": [
+            0,
+            "620",
+            "95",
+            "196",
+            "2793",
+            "881",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_631\" data-linkid=\"631\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_631\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"link_dislike_631\" data-linkid=\"631\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_631\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng158/chapter/Recommendations\">2020 Venous thromboembolism guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/POMdvRyxlFw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\">Understanding Deep Vein Thrombosis (DVT)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2298\" data-mediaid=\"2298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2298\" data-mediaid=\"2298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\">Deep vein thrombosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1632\" data-mediaid=\"1632\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1632\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1632\" data-mediaid=\"1632\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1632\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/2vVqBjk-oqQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\">Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1620\" data-mediaid=\"1620\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1620\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1620\" data-mediaid=\"1620\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1620\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "897": {
+                "concept_text": "Cancer patients with VTE - 6 months of a DOAC",
+                "concept_percentile": "90"
+            },
+            "898": {
+                "concept_text": "Venous thromoboembolism - length of anticoagulation\n   - provoked (e.g. recent surgery): 3 months\n   - unprovoked: 6 months",
+                "concept_percentile": "51"
+            },
+            "8024": {
+                "concept_text": "Patients with a suspected pulmonary embolism should be initially managed with a  direct oral anticoagulant (DOAC)",
+                "concept_percentile": "85"
+            },
+            "8512": {
+                "concept_text": "If a 2-level DVT Wells score is \u2265 2 points then arrange a proximal leg vein ultrasound scan within 4 hours",
+                "concept_percentile": "45"
+            },
+            "11180": {
+                "concept_text": "If a 2-level DVT Wells score is \u2264 1 point then arrange a D-dimer with result within 4 hours or interim anticoagulation whilst awaiting D-dimer",
+                "concept_percentile": "53"
+            },
+            "11181": {
+                "concept_text": "If investigating a suspected DVT, and either the D-dimer or scan cannot be done within 4 hours, then start a DOAC",
+                "concept_percentile": "59"
+            },
+            "11182": {
+                "concept_text": "DVT investigation: if the scan is negative, but the D-dimer is positive --> stop anticoagulation and repeat scan in 1 week",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_8967",
+        "new_question_id": "1454",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "8256",
+        "notes_id_link": "1_1162",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Multiple sclerosis",
+            "Chronic otitis media",
+            "Acoustic neuroma",
+            "Stroke",
+            "Labyrinthitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 77-year-old gentleman reports an ongoing feeling of ringing in his right ear for the past 3 months. For the past 3-weeks, he has also noticed that he struggles to hear from his right ear. <br /><br />On examination, Rinne's test shows that air conduction is louder than bone conduction in the right ear and Weber's test lateralises to the left ear.<br /><br />Unilateral tinnitus associated with deafness is likely to be a feature of which one of these conditions?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Unilateral tinnitus and deafness are classically associated with an acoustic neuroma.<br /><br />Multiple sclerosis (MS) is a demyelinating disease which is not associated with tinnitus or deafness.<br /><br />Chronic otitis media is a chronic inflammation of the middle ear and mastoid cavity. Clinical features include recurrent otorrhoea and conductive hearing loss.<br /><br />Labyrinthitis is an inflammation of the inner ear, that usually occurs following a viral infection and results in vertigo and hearing loss.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 77-year-old gentleman reports an ongoing feeling of ringing in his right ear for the past 3 months. For the past 3-weeks, he has also noticed that he struggles to hear from his right ear. <br /><br />On examination, Rinne's test shows that air conduction is louder than bone conduction in the right ear and Weber's test lateralises to the left ear.<br /><br />Unilateral tinnitus associated with deafness is likely to be a feature of which one of these conditions?",
+        "correct_answer": "3",
+        "question_notes": "Unilateral tinnitus and deafness are classically associated with an acoustic neuroma.<br /><br />Multiple sclerosis (MS) is a demyelinating disease which is not associated with tinnitus or deafness.<br /><br />Chronic otitis media is a chronic inflammation of the middle ear and mastoid cavity. Clinical features include recurrent otorrhoea and conductive hearing loss.<br /><br />Labyrinthitis is an inflammation of the inner ear, that usually occurs following a viral infection and results in vertigo and hearing loss.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Vestibular schwannoma (acoustic neuroma)",
+        "body": "Vestibular schwannomas (sometimes referred to as acoustic neuromas) account for approximately 5% of intracranial tumours and 90% of cerebellopontine angle tumours.<br /><br /><span class=\"concept\" data-cid=\"8256\">The classical history of vestibular schwannoma includes a combination of vertigo, hearing loss, tinnitus and an absent corneal reflex</span>. Features can be predicted by the <span class=\"concept\" data-cid=\"2223\">affected cranial nerves</span>:<br /><ul><li>cranial nerve VIII: vertigo, <span class=\"concept\" data-cid=\"4572\">unilateral sensorineural hearing loss</span>, <span class=\"concept\" data-cid=\"2419\">unilateral tinnitus</span></li><li>cranial nerve V: <span class=\"concept\" data-cid=\"187\">absent corneal reflex</span></li><li>cranial nerve VII: facial palsy</li></ul><br /><span class=\"concept\" data-cid=\"4368\">Bilateral vestibular schwannomas are seen in neurofibromatosis type 2</span>.<br /><br />Patients with a suspected vestibular schwannoma should be <span class=\"concept\" data-cid=\"1152\">referred urgently to ENT</span>. It should be noted though that the tumours are often slow growing, benign and often observed initially.<br /><br /><span class=\"concept\" data-cid=\"4042\">MRI of the cerebellopontine angle</span> is the investigation of choice. Audiometry is also important as only 5% of patients will have a normal audiogram.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb975b.jpg\" data-fancybox=\"gallery\" data-caption=\"Vestibular schwannoma at the right cerebellopontine angle - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb975.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb976b.jpg\" data-fancybox=\"gallery\" data-caption=\"MRI showing a vestibular schwannoma  - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb976.jpg\" alt=\"\" /></a></div></div></div><br />Management is with either surgery, radiotherapy or observation.",
+        "notes_hash": "9ba6813a20e85fc69cf667a45a0dc2cf",
+        "knowledge_graph_node_id_link": 1090,
+        "concept": "The classical history of vestibular schwannoma includes a combination of vertigo, hearing loss, tinnitus and an absent corneal reflex",
+        "concept_percentile": "62",
+        "concept_colour": "rgb(193,255,0)",
+        "number_attempts": "5316",
+        "up_votes": "27",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "68",
+            "140",
+            "4654",
+            "48",
+            "406",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1192\" data-linkid=\"1192\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1192\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_1192\" data-linkid=\"1192\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1192\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/acoustic-neuromas\">Acoustic neuroma</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wYVrveSDt5Y\" data-description=\"Understanding Acoustic Neuromas\" data-upvotes=\"13\" data-downvotes=\"2\" data-media=\"1256\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wYVrveSDt5Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wYVrveSDt5Y\" data-description=\"Understanding Acoustic Neuromas\" data-upvotes=\"13\" data-downvotes=\"2\" data-media=\"1256\">Understanding Acoustic Neuromas</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2216\" data-mediaid=\"2216\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2216\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_2216\" data-mediaid=\"2216\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2216\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "187": {
+                "concept_text": "Loss of corneal reflex - think acoustic neuroma",
+                "concept_percentile": "92"
+            },
+            "2223": {
+                "concept_text": "Cranial nerves V, VII and VIII are affected in vestibular schwannomas",
+                "concept_percentile": "98"
+            },
+            "2419": {
+                "concept_text": "Acoustic neuroma is an important differential diagnosis in patients with unilateral deafness or tinnitus",
+                "concept_percentile": "96"
+            },
+            "4368": {
+                "concept_text": "Bilateral acoustic neuromas are associated with neurofibromatosis type 2",
+                "concept_percentile": "44"
+            },
+            "8256": {
+                "concept_text": "The classical history of vestibular schwannoma includes a combination of vertigo, hearing loss, tinnitus and an absent corneal reflex",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1648_B_1",
+        "new_question_id": "8056",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "646",
+        "notes_id_link": "1_336",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral azithromycin",
+            "IM benzylpenicillin",
+            "IM ceftriaxone",
+            "Topical clotrimazole",
+            "Oral aciclovir",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old man attends the GUM clinic. He has had penile discharge for 5 days with some dysuria. Urethral swabs are taken and microscopy is positive for diplococci. Sensitivities are not currently available. He is diagnosed with gonorrhoea. What is the first line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Partner notification and treatment is also important in this scenario. A test of cure should be performed at 2 weeks in all patients with gonorrhoea.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old man attends the GUM clinic. He has had penile discharge for 5 days with some dysuria. Urethral swabs are taken and microscopy is positive for diplococci. Sensitivities are not currently available. He is diagnosed with gonorrhoea. What is the first line treatment?",
+        "correct_answer": "3",
+        "question_notes": "Partner notification and treatment is also important in this scenario. A test of cure should be performed at 2 weeks in all patients with gonorrhoea.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Gonorrhoea",
+        "body": "Gonorrhoea is caused by the <span class=\"concept\" data-cid=\"5851\">Gram-negative diplococcus</span> <i>Neisseria gonorrhoeae</i>. Acute infection can occur on any mucous membrane surface, typically genitourinary but also rectum and pharynx. The incubation period of gonorrhoea is 2-5 days<br /><br />Features<br /><ul><li>males: urethral discharge, dysuria</li><li>females: cervicitis e.g. leading to vaginal discharge</li><li>rectal and pharyngeal infection is usually asymptomatic</li></ul><br />Microbiology<br /><ul><li>immunisation is not possible and reinfection is common due to antigen variation of type IV pili (proteins which adhere to surfaces) and Opa proteins (surface proteins which bind to receptors on immune cells)</li></ul><br />Local complications that may develop include <span class=\"concept\" data-cid=\"3176\">urethral strictures</span>, epididymitis and salpingitis (hence may lead to infertility). Disseminated infection may occur - see below<br /><br />Management<br /><ul><li>ciprofloxacin used to be the treatment of choice. However, there is increased resistance to ciprofloxacin (around 36% in the UK) and therefore cephalosporins are now more widely used</li><li>there was a change in the 2019 British Society for Sexual Health and HIV (BASHH) guidelines. Previously the first-line treatment was IM ceftriaxone + oral azithromycin. The new first-line treatment is a single dose of <span class=\"concept\" data-cid=\"646\">IM ceftriaxone 1g</span> (i.e. no longer add azithromycin). If sensitivities are known (and the organism is sensitive to ciprofloxacin) then a single dose of oral ciprofloxacin 500mg should be given</li><li>if ceftriaxone is refused (e.g. needle-phobic) then <span class=\"concept\" data-cid=\"10869\">oral cefixime 400mg (single dose) + oral azithromycin 2g (single dose)</span> should be used</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Colorized scanning electron micrograph of <i>Neisseria gonorrhoeae</i>. Credit: NIAID</div><br />Disseminated gonococcal infection (DGI) and gonococcal arthritis may also occur, with gonococcal infection being the most common cause of septic arthritis in young adults. The pathophysiology of DGI is not fully understood but is thought to be due to haematogenous spread from mucosal infection (e.g. Asymptomatic genital infection). Initially there may be a classic triad of symptoms: tenosynovitis, migratory polyarthritis and dermatitis. Later complications include septic arthritis, endocarditis and perihepatitis (Fitz-Hugh-Curtis syndrome)<br /><br />Key features of disseminated gonococcal infection<br /><ul><li><span class=\"concept\" data-cid=\"9908\">tenosynovitis</span></li><li><span class=\"concept\" data-cid=\"9908\">migratory polyarthritis</span></li><li><span class=\"concept\" data-cid=\"9908\">dermatitis</span> (lesions can be maculopapular or vesicular)</li></ul>",
+        "notes_hash": "903cf24835ee30758f64ba1a699b7add",
+        "knowledge_graph_node_id_link": 1215,
+        "concept": "Intramuscular ceftriaxone is the treatment of choice for <i>Gonorrhoea</i>",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "5623",
+        "up_votes": "33",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "275",
+            "609",
+            "4702",
+            "19",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society for Sexual Health and HIV (BASHH)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_518\" data-linkid=\"518\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_518\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_518\" data-linkid=\"518\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_518\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashhguidelines.org/media/1208/gc-2019.pdf\">2019 Gonorrhoea guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2UsFW1foX4\" data-description=\"Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1546\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x2UsFW1foX4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2UsFW1foX4\" data-description=\"Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1546\">Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2700\" data-mediaid=\"2700\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2700\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2700\" data-mediaid=\"2700\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2700\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A0tQcKo4KqQ\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1123\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/A0tQcKo4KqQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A0tQcKo4KqQ\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1123\">Neisseria gonorrhoeae</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1943\" data-mediaid=\"1943\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1943\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1943\" data-mediaid=\"1943\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1943\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UBWxSAYJ4fk\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"969\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UBWxSAYJ4fk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UBWxSAYJ4fk\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"969\">Neisseria gonorrhoeae</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1678\" data-mediaid=\"1678\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1678\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1678\" data-mediaid=\"1678\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1678\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "646": {
+                "concept_text": "Intramuscular ceftriaxone is the treatment of choice for <i>Gonorrhoea</i>",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5384_B_18",
+        "new_question_id": "30592",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "9911",
+        "notes_id_link": "1_1921",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Abruptly stopping lithium",
+            "Caffeine",
+            "Cranberry juice",
+            "Drinking too much water",
+            "Ibuprofen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 53-year-old woman with a history of bipolar disorder, which is well controlled with lithium, presents with a 2-day history of confusion, diarrhoea and tremors. She takes regular analgesia for chronic back pain and has been feeling unwell recently.<br /><br />A blood test shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td></td><td>Value</td><td>Reference</td></tr><tr><td>Lithium (serum)</td><td>4.2 mmol/L</td><td>(0.6 - 1)</td></tr></tbody></table></div><br />Which of the following options is the likely cause of her symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Lithium has a tight therapeutic range, and levels should be closely monitored. Routine serum-lithium monitoring should be performed weekly after initiation and after each dose change until concentrations are stable, then every 3 months for the first year, and every 6 months thereafter. The level should be checked 12 hours after the last dose.<br /><br />Non-steroidal anti-inflammatory drugs (NSAIDs) decrease renal excretion of lithium, thus increasing plasma levels, leading to toxicity. Angiotensin-converting-enzyme inhibitors (ACE-I) and diuretics also increase the risk of lithium toxicity due to renal dysfunction. Therefore, their use is contraindicated with lithium.<br /><br />Abruptly stopping lithium would cause a decrease in lithium levels and not cause lithium toxicity.<br /><br />Caffeine reduces serum lithium levels as it increases renal excretion. Conversely, a drop in caffeine intake results in reduced lithium clearance and thus leads to lithium toxicity. Therefore, patients are advised to maintain the same amount of caffeine intake while taking lithium to avoid sudden changes in lithium levels. <br /><br />Cranberry juice does not interact with lithium. However, it increases the risk of rhabdomyolysis when taken with statins due to its inhibitory effect on cytochrome P450.<br /><br />Dehydration rather than drinking too much water increases the risk of lithium toxicity. This is because dehydration results in a build-up of lithium in the bloodstream due to reduced excretion.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 53-year-old woman with a history of bipolar disorder, which is well controlled with lithium, presents with a 2-day history of confusion, diarrhoea and tremors. She takes regular analgesia for chronic back pain and has been feeling unwell recently.<br /><br />A blood test shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td></td><td>Value</td><td>Reference</td></tr><tr><td>Lithium (serum)</td><td>4.2 mmol/L</td><td>(0.6 - 1)</td></tr></tbody></table></div><br />Which of the following options is the likely cause of her symptoms?",
+        "correct_answer": "5",
+        "question_notes": "Lithium has a tight therapeutic range, and levels should be closely monitored. Routine serum-lithium monitoring should be performed weekly after initiation and after each dose change until concentrations are stable, then every 3 months for the first year, and every 6 months thereafter. The level should be checked 12 hours after the last dose.<br /><br />Non-steroidal anti-inflammatory drugs (NSAIDs) decrease renal excretion of lithium, thus increasing plasma levels, leading to toxicity. Angiotensin-converting-enzyme inhibitors (ACE-I) and diuretics also increase the risk of lithium toxicity due to renal dysfunction. Therefore, their use is contraindicated with lithium.<br /><br />Abruptly stopping lithium would cause a decrease in lithium levels and not cause lithium toxicity.<br /><br />Caffeine reduces serum lithium levels as it increases renal excretion. Conversely, a drop in caffeine intake results in reduced lithium clearance and thus leads to lithium toxicity. Therefore, patients are advised to maintain the same amount of caffeine intake while taking lithium to avoid sudden changes in lithium levels. <br /><br />Cranberry juice does not interact with lithium. However, it increases the risk of rhabdomyolysis when taken with statins due to its inhibitory effect on cytochrome P450.<br /><br />Dehydration rather than drinking too much water increases the risk of lithium toxicity. This is because dehydration results in a build-up of lithium in the bloodstream due to reduced excretion.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Lithium toxicity",
+        "body": "Lithium is a mood stabilising drug used most commonly prophylactically in bipolar disorder but also as an adjunct in refractory depression. It has a <span class=\"concept\" data-cid=\"3009\">very narrow therapeutic range</span> (0.4-1.0 mmol/L) and a long plasma half-life being excreted primarily by the kidneys. Lithium toxicity generally occurs following concentrations > 1.5 mmol/L. <br /><br />Toxicity may be precipitated by:<br /><ul><li><span class=\"concept\" data-cid=\"5756\">dehydration</span></li><li>renal failure</li><li>drugs: diuretics (especially <span class=\"concept\" data-cid=\"2773\">thiazides</span>), <span class=\"concept\" data-cid=\"9508\">ACE inhibitors</span>/<span class=\"concept\" data-cid=\"5727\">angiotensin II receptor blockers</span>, <span class=\"concept\" data-cid=\"9911\">NSAIDs</span> and metronidazole.</li></ul><br /><span class=\"concept\" data-cid=\"10023\">Features of toxicity</span><br /><ul><li><span class=\"concept\" data-cid=\"486\">coarse tremor (a fine tremor is seen in therapeutic levels)</span></li><li>hyperreflexia</li><li>acute confusion</li><li><span class=\"concept\" data-cid=\"11077\">polyuria</span></li><li>seizure</li><li>coma</li></ul><br />Management<br /><ul><li>mild-moderate toxicity may respond to volume resuscitation with normal saline<ul><li><span class=\"concept\" data-cid=\"12271\">IV fluids with isotonic saline</span>, until euvolemic, then typically twice maintenance rate</li><li>monitor serum sodium closely (every 4 hours with serial lithium concentrations) if there is a concern about lithium-induced nephrogenic diabetes insipidus</li></ul></li><li><span class=\"concept\" data-cid=\"5811\">haemodialysis may be needed in severe toxicity</span></li><li>sodium bicarbonate is sometimes used but there is limited evidence to support this<ul><li>by increasing the alkalinity of the urine it promotes lithium excretion</li></ul></li></ul>",
+        "notes_hash": "bfefd066fbcd5c12a220f2513832fb45",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Lithium toxicity can be precipitated by NSAIDs",
+        "concept_percentile": "68",
+        "concept_colour": "rgb(163,255,0)",
+        "number_attempts": "4597",
+        "up_votes": "33",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "324",
+            "192",
+            "1028",
+            "92",
+            "2961",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "2773": {
+                "concept_text": "Lithium toxicity can be precipitated by thiazides",
+                "concept_percentile": "73"
+            },
+            "9911": {
+                "concept_text": "Lithium toxicity can be precipitated by NSAIDs",
+                "concept_percentile": "68"
+            },
+            "10023": {
+                "concept_text": "Diarrhoea, vomiting, abdominal pain, coarse tremor, weakness, seizures, muscle twitches and blurred vision are among the signs and symptoms of lithium toxicity",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_310",
+        "new_question_id": "32027",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1947",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Angioedema",
+            "Atopic dermatitis",
+            "Erythema multiforme",
+            "Henoch-Schonlein purpura",
+            "Urticaria",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old male presents to his general practitioner with a new-onset itchy rash on his back. He has a past medical history of hypertension managed with ramipril and asthma that he controls with a salbutamol inhaler. He works as a gardener and the pruritus is preventing him from doing his job. Otherwise, he feels well and does not complain of other symptoms. The rash is shown below:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Which one of the following is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is urticaria. This patient presents with severely itchy, smooth, slightly elevated papules. This is a classical presentation of urticaria (or hives), a vascular reaction of the skin, usually caused by an allergen, but sometimes the trigger is not identifiable. This patient works as a gardener, so it could have been possibly triggered by a species of plants he worked with. The first-line management option is an antihistamine.<br /><br />Angioedema is defined as the formation of oedema of the area beneath the skin or mucosa. The cause can be immunologic, non-immunologic, or idiopathic, and it is a recognised side effect of angiotensin-converting enzyme inhibitors such as ramipril. Sometimes, it can be accompanied by urticaria. But the patient does not complain of any other symptoms other than the rash, making the diagnosis unlikely. Additionally, angioedema is usually seen on the mouth and face rather than systemic and truncal skin. <br /><br />Atopic dermatitis (or eczema) is a common presentation, especially in children. It presents with pruritic, erythematous, and scaly skin lesions often localized to the flexural surfaces of the body. It is usually associated with asthma, that this patient has. But this patient presents with raised lesions and normal surrounding skin on the back rather than flexor surfaces making the diagnosis unlikely. <br /><br />Erythema multiforme is a hypersensitivity reaction usually triggered by infections. It is characterized by target lesions and is usually initially seen on the back of the hands or feet before spreading to the torso. Pruritus is occasionally seen and is usually mild, whilst this patient is very disturbed by the itchiness. <br /><br />Henoch-Schonlein purpura is an IgA mediated small vessel vasculitis. It is usually seen in children following an infection. It presents with a palpable purpuric rash (with localized oedema) over the buttocks and extensor surfaces of arms and legs. The lesions of the patient do not resemble the classical features of Henoch-Schonlein purpura.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old male presents to his general practitioner with a new-onset itchy rash on his back. He has a past medical history of hypertension managed with ramipril and asthma that he controls with a salbutamol inhaler. He works as a gardener and the pruritus is preventing him from doing his job. Otherwise, he feels well and does not complain of other symptoms. The rash is shown below:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Which one of the following is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is urticaria. This patient presents with severely itchy, smooth, slightly elevated papules. This is a classical presentation of urticaria (or hives), a vascular reaction of the skin, usually caused by an allergen, but sometimes the trigger is not identifiable. This patient works as a gardener, so it could have been possibly triggered by a species of plants he worked with. The first-line management option is an antihistamine.<br /><br />Angioedema is defined as the formation of oedema of the area beneath the skin or mucosa. The cause can be immunologic, non-immunologic, or idiopathic, and it is a recognised side effect of angiotensin-converting enzyme inhibitors such as ramipril. Sometimes, it can be accompanied by urticaria. But the patient does not complain of any other symptoms other than the rash, making the diagnosis unlikely. Additionally, angioedema is usually seen on the mouth and face rather than systemic and truncal skin. <br /><br />Atopic dermatitis (or eczema) is a common presentation, especially in children. It presents with pruritic, erythematous, and scaly skin lesions often localized to the flexural surfaces of the body. It is usually associated with asthma, that this patient has. But this patient presents with raised lesions and normal surrounding skin on the back rather than flexor surfaces making the diagnosis unlikely. <br /><br />Erythema multiforme is a hypersensitivity reaction usually triggered by infections. It is characterized by target lesions and is usually initially seen on the back of the hands or feet before spreading to the torso. Pruritus is occasionally seen and is usually mild, whilst this patient is very disturbed by the itchiness. <br /><br />Henoch-Schonlein purpura is an IgA mediated small vessel vasculitis. It is usually seen in children following an infection. It presents with a palpable purpuric rash (with localized oedema) over the buttocks and extensor surfaces of arms and legs. The lesions of the patient do not resemble the classical features of Henoch-Schonlein purpura.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Urticaria",
+        "body": "Urticaria describes a local or generalised superficial swelling of the skin. The most common cause of urticaria is allergy although non-allergic causes are seen.<br /><br />Features<br /><ul><li>pale, pink raised skin. Variously described as 'hives', 'wheals', 'nettle rash'</li><li>pruritic</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962.jpg\" data-fancybox=\"gallery\" data-caption=\"Urticarial rash on the back of a middle-aged man\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd962.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd116.jpg\" data-fancybox=\"gallery\" data-caption=\"A typical urticarial rash\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd116.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"11901\">non-sedating antihistamines (e.g. loratadine or cetirizine) are first-line</span><ul><li>this should be continued for up to 6 weeks following an episode of acute urticaria  #link51 </li></ul></li><li> a <span class=\"concept\" data-cid=\"12171\">sedating antihistamine</span> (e.g. chlorphenamine) may be considered for night-time use (in addition to day-time non-sedating antihistamine) for troublesome sleep symptoms  #link52 </li><li><span class=\"concept\" data-cid=\"1458\">prednisolone is used for severe or resistant episodes</span></li></ul>",
+        "notes_hash": "c665bed38ec8b6c1da7ca7cca919f906",
+        "knowledge_graph_node_id_link": 10477,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4982",
+        "up_votes": "17",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "162",
+            "729",
+            "557",
+            "45",
+            "3489",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_590\" data-linkid=\"590\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_590\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_590\" data-linkid=\"590\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_590\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/2/164.full.pdf\">2012 The urticarias: pathophysiology and management</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "11901": {
+                "concept_text": "Non-sedating antihistamines are first-line for acute urticaria",
+                "concept_percentile": "60"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

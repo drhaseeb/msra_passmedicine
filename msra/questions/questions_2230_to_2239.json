@@ -1,0 +1,887 @@
+[
+    {
+        "question_id": "4370_B_5",
+        "new_question_id": "12390",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "1556",
+        "notes_id_link": "1_504",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Faecal occult blood test",
+            "Repeat full blood count",
+            "Reassure that further tests are not required at this stage",
+            "Trial a course of steroids",
+            "Trial a course of azathioprine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 21-year-old woman complains of intermittent diarrhoea and constipation. She has bloating relieved by defecation and gains relief with hyoscine butylbromide (Buscopan). She denies weight loss and has no relevant family history,<br /><br />Coeliac disease screening was negative and both full blood count and CRP were normal.<br /><br />She is diagnosed with irritable bowel syndrome and has been given dietary advice and antispasmodics.<br /><br />Disagreeing with the diagnosis she requests further investigations.<br /><br />Which of the following is most appropriate?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This woman has the symptoms of irritable bowel syndrome. She does not describe any red flag symptoms and has unremarkable blood results.<br /><br />Repeating the full blood count is unlikely to add more to the clinical picture.<br /><br />Screening for colorectal cancer via faecal occult blood testing is not appropriate under the age of 60 or in symptomatic patients.<br /><br />Steroids and azathioprine are not used to treat irritable bowel symptoms, they are treatments for ulcerative colitis which is unlikely given this lady's symptoms and normal bloods.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 21-year-old woman complains of intermittent diarrhoea and constipation. She has bloating relieved by defecation and gains relief with hyoscine butylbromide (Buscopan). She denies weight loss and has no relevant family history,<br /><br />Coeliac disease screening was negative and both full blood count and CRP were normal.<br /><br />She is diagnosed with irritable bowel syndrome and has been given dietary advice and antispasmodics.<br /><br />Disagreeing with the diagnosis she requests further investigations.<br /><br />Which of the following is most appropriate?",
+        "correct_answer": "3",
+        "question_notes": "This woman has the symptoms of irritable bowel syndrome. She does not describe any red flag symptoms and has unremarkable blood results.<br /><br />Repeating the full blood count is unlikely to add more to the clinical picture.<br /><br />Screening for colorectal cancer via faecal occult blood testing is not appropriate under the age of 60 or in symptomatic patients.<br /><br />Steroids and azathioprine are not used to treat irritable bowel symptoms, they are treatments for ulcerative colitis which is unlikely given this lady's symptoms and normal bloods.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Colorectal cancer: screening",
+        "body": "Overview<br /><ul><li>most cancers develop from adenomatous polyps. Screening for colorectal cancer has been shown to reduce mortality by 16%</li><li>the NHS offers home-based, <b>Faecal Immunochemical Test (FIT)</b> screening to older adults</li><li>a one-off flexible sigmoidoscopy at the age of 55 years was trialled in England but was abandoned in 2021<ul><li>this mainly due to an inability to recruit enough clinical endoscopist, exacerbated by the covid-19 pandemic</li><li>the trial, partly funded by Cancer Research UK, had shown promising early results and it remains to be seen whether flexible sigmoidoscopy will be used as part of a future bowel screening programme</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Faecal Immunochemical Test (FIT) screening</h5><br />Key points<br /><ul><li>the NHS now has a national screening programme offering screening <span class=\"concept\" data-cid=\"3827\">every 2 years to all men and women aged 50 to 74 years</span>. <span class=\"concept\" data-cid=\"9760\">Patients aged over 74 years may request screening</span></li><li>eligible patients are sent Faecal Immunochemical Test (FIT) tests through the post</li><li>a type of faecal occult blood (FOB) test which uses antibodies that specifically recognise human haemoglobin (Hb)</li><li>used to detect, and can quantify, the amount of human blood in a single stool sample</li><li>advantages over conventional FOB tests is that it <span class=\"concept\" data-cid=\"9696\">only detects human haemoglobin</span>, as opposed to animal haemoglobin ingested through diet</li><li>only one faecal sample is needed compared to the 2-3 for conventional FOB tests</li><li>whilst a numerical value is generated, this is not reported to the patient or GP, who will instead be informed if the test is normal or abnormal</li><li>patients with abnormal results are offered a colonoscopy</li></ul><br />At colonoscopy, approximately:<br /><ul><li>5 out of 10 patients will have a normal exam</li><li>4 out of 10 patients will be found to have polyps which may be removed due to their premalignant potential</li><li>1 out of 10 patients will be found to have cancer</li></ul>",
+        "notes_hash": "f63f727d3a7448d1c4b939d2274e1b5f",
+        "knowledge_graph_node_id_link": 1008,
+        "concept": "Screening for colorectal cancer via faecal occult blood testing is not appropriate under the age of 60",
+        "concept_percentile": "59",
+        "concept_colour": "rgb(209,255,0)",
+        "number_attempts": "5368",
+        "up_votes": "29",
+        "down_votes": "68",
+        "column_array": [
+            0,
+            "1406",
+            "35",
+            "3735",
+            "110",
+            "82",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NHS</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_880\" data-linkid=\"880\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_880\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_880\" data-linkid=\"880\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_880\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/topic/population-screening-programmes/bowel\">Bowel Cancer Screening Programme</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_612\" data-linkid=\"612\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_612\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_612\" data-linkid=\"612\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_612\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922601/\">2012 Colonic polyps and an update on the bowel cancer screening programme</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A6v-y6hr4EQ\" data-description=\"Colorectal Cancer - Overview\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"419\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/A6v-y6hr4EQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A6v-y6hr4EQ\" data-description=\"Colorectal Cancer - Overview\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"419\">Colorectal Cancer - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_725\" data-mediaid=\"725\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_725\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_725\" data-mediaid=\"725\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_725\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cVTeLRdf3eE\" data-description=\"Colorectal carcinoma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"570\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cVTeLRdf3eE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cVTeLRdf3eE\" data-description=\"Colorectal carcinoma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"570\">Colorectal carcinoma</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_978\" data-mediaid=\"978\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_978\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_978\" data-mediaid=\"978\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_978\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1780",
+        "new_question_id": "9848",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "818",
+        "notes_id_link": "1_681",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Subacute sclerosing panencephalitis",
+            "Splenic rupture",
+            "Iron-deficiency anaemia",
+            "Encephalitis",
+            "Giant cell pneumonia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22-year-old man presents with fatigue and a persistently sore throat for the past two weeks. On examination his temperature is 37.8\u00baC, pulse 78/min, there is widespread cervical lymphadenopathy and evidence of palatal petechiae. Given the likely diagnosis, which one of the following complications is he at risk from?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is <b>splenic rupture</b>. The patient's presentation of fatigue, sore throat, fever, cervical lymphadenopathy, and palatal petechiae are suggestive of infectious mononucleosis (IM), which is most commonly caused by the Epstein-Barr virus (EBV). One of the potential complications of IM is splenomegaly, which increases the risk of splenic rupture. Splenic rupture is a rare but serious complication that can lead to life-threatening haemorrhage. Patients with IM should be advised to avoid contact sports or activities that could cause abdominal trauma until their spleen size returns to normal.<br /><br />The other options are incorrect for the following reasons:<br /><br /><b>Subacute sclerosing panencephalitis</b> is a rare and fatal complication of measles infection (<i>Measles morbillivirus</i>). It usually presents several years after the initial measles infection and causes progressive neurological deterioration. This option is not relevant to the patient's likely diagnosis of IM due to EBV.<br /><br /><b>Iron-deficiency anaemia</b> would not typically be a direct complication of infectious mononucleosis. While some patients with IM may experience mild anaemia due to bone marrow suppression or haemolysis, it would not typically present as iron-deficiency anaemia.<br /><br /><b>Encephalitis</b>, although a potential central nervous system complication of various viral infections, is not a common complication associated specifically with infectious mononucleosis caused by EBV. Encephalitis more commonly occurs in infections such as herpes simplex virus (HSV) and arboviruses.<br /><br /><b>Giant cell pneumonia</b>, also known as Hecht's pneumonia, is a severe form of interstitial pneumonia characterized by multinucleated giant cells. It is most commonly seen in immunocompromised individuals infected with viruses such as respiratory syncytial virus (RSV), measles, or parainfluenza. This complication is not typically associated with infectious mononucleosis due to EBV.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22-year-old man presents with fatigue and a persistently sore throat for the past two weeks. On examination his temperature is 37.8\u00baC, pulse 78/min, there is widespread cervical lymphadenopathy and evidence of palatal petechiae. Given the likely diagnosis, which one of the following complications is he at risk from?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer in this case is <b>splenic rupture</b>. The patient's presentation of fatigue, sore throat, fever, cervical lymphadenopathy, and palatal petechiae are suggestive of infectious mononucleosis (IM), which is most commonly caused by the Epstein-Barr virus (EBV). One of the potential complications of IM is splenomegaly, which increases the risk of splenic rupture. Splenic rupture is a rare but serious complication that can lead to life-threatening haemorrhage. Patients with IM should be advised to avoid contact sports or activities that could cause abdominal trauma until their spleen size returns to normal.<br /><br />The other options are incorrect for the following reasons:<br /><br /><b>Subacute sclerosing panencephalitis</b> is a rare and fatal complication of measles infection (<i>Measles morbillivirus</i>). It usually presents several years after the initial measles infection and causes progressive neurological deterioration. This option is not relevant to the patient's likely diagnosis of IM due to EBV.<br /><br /><b>Iron-deficiency anaemia</b> would not typically be a direct complication of infectious mononucleosis. While some patients with IM may experience mild anaemia due to bone marrow suppression or haemolysis, it would not typically present as iron-deficiency anaemia.<br /><br /><b>Encephalitis</b>, although a potential central nervous system complication of various viral infections, is not a common complication associated specifically with infectious mononucleosis caused by EBV. Encephalitis more commonly occurs in infections such as herpes simplex virus (HSV) and arboviruses.<br /><br /><b>Giant cell pneumonia</b>, also known as Hecht's pneumonia, is a severe form of interstitial pneumonia characterized by multinucleated giant cells. It is most commonly seen in immunocompromised individuals infected with viruses such as respiratory syncytial virus (RSV), measles, or parainfluenza. This complication is not typically associated with infectious mononucleosis due to EBV.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Infectious mononucleosis",
+        "body": "Infectious mononucleosis (glandular fever) is caused by the Epstein-Barr virus (EBV, also known as human herpesvirus 4, HHV-4) in 90% of cases. Less frequent causes include cytomegalovirus and HHV-6. It is most common in adolescents and young adults.<br /><br />The <span class=\"concept\" data-cid=\"7199\">classic triad of sore throat, pyrexia and lymphadenopathy</span> is seen in around 98% of patients:<br /><ul><li>sore throat</li><li>lymphadenopathy: may be present in the anterior and posterior triangles of the neck, in contrast to tonsillitis which typically only results in the upper anterior cervical chain being enlarged</li><li>pyrexia</li></ul><br />Other features include:<br /><ul><li>malaise, anorexia, headache</li><li><span class=\"concept\" data-cid=\"7200\">palatal petechiae</span></li><li><span class=\"concept\" data-cid=\"7201\">splenomegaly</span> - occurs in around 50% of patients and may rarely predispose to splenic rupture</li><li><span class=\"concept\" data-cid=\"7204\">hepatitis, transient rise in ALT</span></li><li>lymphocytosis: presence of 50% lymphocytes with at least 10% <span class=\"concept\" data-cid=\"816\">atypical lymphocytes</span></li><li><span class=\"concept\" data-cid=\"7202\">haemolytic anaemia</span> secondary to <span class=\"concept\" data-cid=\"7203\">cold agglutins (IgM)</span></li><li><span class=\"concept\" data-cid=\"817\">a maculopapular, pruritic rash develops in around 99% of patients who take ampicillin/amoxicillin whilst they have infectious mononucleosis</span></li></ul><br />Symptoms typically resolve after 2-4 weeks.<br /><br />Diagnosis<br /><ul><li><span class=\"concept\" data-cid=\"7205\">heterophil antibody test (Monospot test)</span><ul><li>NICE guidelines suggest FBC and Monospot in the 2nd week of the illness to confirm a diagnosis of glandular fever.</li></ul></li></ul><br />Management is <span class=\"concept\" data-cid=\"5073\">supportive</span> and includes:<br /><ul><li>rest during the early stages, drink plenty of fluid, avoid alcohol</li><li>simple analgesia for any aches or pains</li><li>consensus guidance in the UK is to <span class=\"concept\" data-cid=\"818\">avoid playing contact sports for 4 weeks after having glandular fever to reduce the risk of splenic rupture</span></li></ul><br />There is an interesting correlation between EBV and socioeconomic groups. Lower socioeconomic groups have high rates of EBV seropositivity, having frequently acquired EBV in early childhood when the primary infection is often subclinical. However, higher socioeconomic groups show a higher incidence of infectious mononucleosis, as acquiring EBV in adolescence or early adulthood results in symptomatic disease.",
+        "notes_hash": "7148aa0d2dccc7f1923822115776e6cb",
+        "knowledge_graph_node_id_link": 1075,
+        "concept": "Glandular fever: avoid contact sports for 4 weeks",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4948",
+        "up_votes": "20",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "710",
+            "3413",
+            "142",
+            "583",
+            "100",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_620\" data-linkid=\"620\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_620\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_620\" data-linkid=\"620\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_620\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/infectious-mononucleosis\">Infectious mononucleosis review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"841\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ax-adlhQMVc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ax-adlhQMVc\" data-description=\"Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"841\">Epstein Barr Virus and Infectious Mononucleosis (pathophysiology, investigations and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1479\" data-mediaid=\"1479\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1479\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1479\" data-mediaid=\"1479\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1479\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/28CNEVgF3kE\" data-description=\"EBV and Mononucleosis - Pathogenesis and Clinical Presentation\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"408\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/28CNEVgF3kE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/28CNEVgF3kE\" data-description=\"EBV and Mononucleosis - Pathogenesis and Clinical Presentation\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"408\">EBV and Mononucleosis - Pathogenesis and Clinical Presentation</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_701\" data-mediaid=\"701\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_701\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_701\" data-mediaid=\"701\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_701\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kKPkG1gflfo\" data-description=\"Epstein Barr Virus (EBV) Diagnosis and Testing\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"410\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/kKPkG1gflfo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kKPkG1gflfo\" data-description=\"Epstein Barr Virus (EBV) Diagnosis and Testing\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"410\">Epstein Barr Virus (EBV) Diagnosis and Testing</a></td></tr><tr><td><span ><small>macrophage - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_703\" data-mediaid=\"703\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_703\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_703\" data-mediaid=\"703\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_703\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "816": {
+                "concept_text": "Atypical lymphocytes - ?glandular fever",
+                "concept_percentile": "13"
+            },
+            "817": {
+                "concept_text": "URTI symptoms + amoxicillin --> rash ?glandular fever",
+                "concept_percentile": "61"
+            },
+            "818": {
+                "concept_text": "Glandular fever: avoid contact sports for 4 weeks",
+                "concept_percentile": "86"
+            },
+            "5073": {
+                "concept_text": "Infectious mononucleosis is generally a self-limiting condition",
+                "concept_percentile": "74"
+            },
+            "7199": {
+                "concept_text": "Young adult with sore throat, fever,  lethargy, cervical lymphadenopathy persisting > 1 week --> ?infectious mononucleosis",
+                "concept_percentile": "35"
+            },
+            "7200": {
+                "concept_text": "Infectious mononucleosis - palatal petechiae",
+                "concept_percentile": "35"
+            },
+            "7201": {
+                "concept_text": "Infectious mononucleosis - splenomegaly",
+                "concept_percentile": "36"
+            },
+            "7202": {
+                "concept_text": "Infectious mononucleosis - haemolytic anaemia",
+                "concept_percentile": "29"
+            },
+            "7203": {
+                "concept_text": "Infectious mononucleosis - cold agglutins (IgM)",
+                "concept_percentile": "29"
+            },
+            "7204": {
+                "concept_text": "Infectious mononucleosis - deranged liver function tests",
+                "concept_percentile": "40"
+            },
+            "7205": {
+                "concept_text": "Heterophile antibodies - infectious mononucleosis",
+                "concept_percentile": "6"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1031",
+        "new_question_id": "5311",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1829",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral prednisolone for 3 days",
+            "Admit for intravenous steroids",
+            "Give a stat dose or oral dexamethasone",
+            "Double his usual beclometasone dose",
+            "Do not give steroids",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 7-year-old boy is brought in due to an exacerbation of his asthma. On examination he has a bilateral expiratory wheeze but there are no signs of respiratory distress. His respiratory rate is 24 / min and PEF around 50% of normal. What is the most appropriate action with regards to steroid therapy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The 2016 British Thoracic Society guidelines state the following with respect to steroid treatment in children:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br /><ul><li>Use a dose of 10 mg prednisolone for children under 2 years of age, 20 mg for children aged 2-5 years and 30-40 mg for children >5 years. Those already receiving maintenance steroid tablets</li></ul>should receive 2 mg/kg prednisolone up to a maximum dose of 60 mg.<br /><ul><li>Repeat the dose of prednisolone in children who vomit and consider intravenous steroids in those who are unable to retain orally ingested medication.</li><li>Treatment for up to three days is usually sufficient, but the length of course should be tailored to the number of days necessary to bring about recovery. Tapering is unnecessary unless the course of steroids exceeds 14 days.</li></ul></i></i></div>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 7-year-old boy is brought in due to an exacerbation of his asthma. On examination he has a bilateral expiratory wheeze but there are no signs of respiratory distress. His respiratory rate is 24 / min and PEF around 50% of normal. What is the most appropriate action with regards to steroid therapy?",
+        "correct_answer": "1",
+        "question_notes": "The 2016 British Thoracic Society guidelines state the following with respect to steroid treatment in children:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br /><ul><li>Use a dose of 10 mg prednisolone for children under 2 years of age, 20 mg for children aged 2-5 years and 30-40 mg for children >5 years. Those already receiving maintenance steroid tablets</li></ul>should receive 2 mg/kg prednisolone up to a maximum dose of 60 mg.<br /><ul><li>Repeat the dose of prednisolone in children who vomit and consider intravenous steroids in those who are unable to retain orally ingested medication.</li><li>Treatment for up to three days is usually sufficient, but the length of course should be tailored to the number of days necessary to bring about recovery. Tapering is unnecessary unless the course of steroids exceeds 14 days.</li></ul></i></i></div>",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Asthma in children: management of acute attacks",
+        "body": "Children with severe or life threatening asthma should be transferred immediately to hospital. <br /><br /><h5 class='notes-heading'>Children between 2 and 5 years of age</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Moderate attack</b></th><th><b>Severe attack</b></th><th><b>Life-threatening attack</b></th></tr></thead><tbody><tr><td>SpO2 > 92%<br />No clinical features of severe asthma<br /></td><td>SpO2 < 92%<br />Too breathless to talk or feed<br />Heart rate > 140/min<br />Respiratory rate > 40/min<br />Use of accessory neck muscles <br /></td><td>SpO2 <92%<br />Silent chest<br />Poor respiratory effort<br />Agitation<br />Altered consciousness<br />Cyanosis</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Children greater than 5 years of age</h5><br />Attempt to measure PEF in all children aged > 5 years.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Moderate attack</b></th><th><b>Severe attack</b></th><th><b>Life-threatening attack</b></th></tr></thead><tbody><tr><td>SpO2 > 92%<br />PEF > 50% best or predicted<br />No clinical features of<br />severe asthma<br /></td><td>SpO2 < 92%<br />PEF 33-50% best or predicted<br />Can't complete sentences in one breath or too breathless to talk or feed<br />Heart rate > 125/min<br />Respiratory rate > 30/min<br />Use of accessory neck muscles<br /></td><td>SpO2 < 92%<br />PEF < 33% best or predicted<br />Silent chest<br />Poor respiratory effort<br />Altered consciousness<br />Cyanosis</td></tr></tbody></table></div><br />For children with mild to moderate acute asthma:<br /><br />Bronchodilator therapy<br /><ul><li>give a beta-2 agonist via a spacer (for a child < 3 years use a close-fitting mask)</li><li>give 1 puff every 30-60 seconds up to a maximum of 10 puffs</li><li>if symptoms are not controlled repeat beta-2 agonist and refer to hospital</li></ul><br /><span class=\"concept\" data-cid=\"11718\">Steroid therapy</span><br /><ul><li>should be given to all children with an asthma exacerbation</li><li>treatment should be given for 3-5 days</li></ul><br /><h5 class='notes-heading'>Usual prednisolone dose</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>Age</b></th><th><b>Dose as per BTS</b></th><th><b>Dose as per cBNF</b></th></tr></thead><tbody><tr><td>2 - 5 years</td><td>20 mg od</td><td>1-2 mg/kg od (max 40mg)</td></tr><tr><td>> 5 years</td><td>30 - 40 mg od</td><td>1-2 mg/kg od (max 40mg)</td></tr></tbody></table></div>",
+        "notes_hash": "6f9634a34c8b5c0b94395166e463bf3d",
+        "knowledge_graph_node_id_link": 10949,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5074",
+        "up_votes": "40",
+        "down_votes": "67",
+        "column_array": [
+            0,
+            "3413",
+            "542",
+            "560",
+            "242",
+            "317",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1470\" data-linkid=\"1470\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1470\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1470\" data-linkid=\"1470\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1470\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/\">2019 Asthma guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 10,
+        "concepts_for_notes": {
+            "11718": {
+                "concept_text": "Steroid therapy should be given to all children who have an asthma attack",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1826",
+        "new_question_id": "10640",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "898",
+        "notes_id_link": "1_859",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "6 week",
+            "3 months",
+            "6 months",
+            "12 months",
+            "Lifelong",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 64-year-old man with a history of depression and lumbar spinal stenosis presents with a swollen and painful left calf. He is seen in the DVT clinic and found to have a raised D-dimer. He therefore undergoes a Doppler scan which shows a proximal deep vein thrombosis. The patient reports being active and otherwise well. He has not recently had any surgery or been immobile for any prolonged period. He is started on a direct oral anticoagulant. <br /><br />What is the most appropriate duration of treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 64-year-old man with a history of depression and lumbar spinal stenosis presents with a swollen and painful left calf. He is seen in the DVT clinic and found to have a raised D-dimer. He therefore undergoes a Doppler scan which shows a proximal deep vein thrombosis. The patient reports being active and otherwise well. He has not recently had any surgery or been immobile for any prolonged period. He is started on a direct oral anticoagulant. <br /><br />What is the most appropriate duration of treatment?",
+        "correct_answer": "3",
+        "question_notes": "",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Deep vein thrombosis: diagnosis and management",
+        "body": "NICE updated their guidelines on the investigation and management of venous thromboembolism (VTE) in 2020. Some of the key changes include recommending the following:<br /><ul><li>the use of direct oral anticoagulants (DOACs) as first-line treatment for most people with VTE, including as interim anticoagulants before a definite diagnosis is made</li><li>the <span class=\"concept\" data-cid=\"897\">use of DOACs in patients with active cancer</span>, as opposed to low-molecular weight heparin as was the previous recommendation</li><li>routine cancer screening is no longer recommended following a VTE diagnosis</li></ul><br />If a patient is suspected of having a DVT a two-level DVT Wells score should be performed:<br /><br /><h5 class='notes-heading'>Two-level DVT Wells score</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Clinical feature</b></th><th><b>Points</b></th></tr></thead><tbody><tr><td>Active cancer (treatment ongoing, within 6 months, or palliative)</td><td>1</td></tr><tr><td>Paralysis, paresis or recent plaster immobilisation of the lower extremities</td><td>1</td></tr><tr><td>Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia</td><td>1</td></tr><tr><td>Localised tenderness along the distribution of the deep venous system</td><td>1</td></tr><tr><td>Entire leg swollen</td><td>1</td></tr><tr><td>Calf swelling at least 3 cm larger than asymptomatic side</td><td>1</td></tr><tr><td>Pitting oedema confined to the symptomatic leg</td><td>1</td></tr><tr><td>Collateral superficial veins (non-varicose)</td><td>1</td></tr><tr><td>Previously documented DVT</td><td>1</td></tr><tr><td>An alternative diagnosis is at least as likely as DVT</td><td>-2</td></tr></tbody></table></div><br />Clinical probability simplified score<br /><ul><li>DVT likely: 2 points or more</li><li>DVT unlikely: 1 point or less</li></ul><br />If a <span class=\"concept\" data-cid=\"8512\">DVT is 'likely' (2 points or more)</span><br /><ul><li>a proximal leg vein ultrasound scan should be carried out within 4 hours<ul><li>if the result is positive then a diagnosis of DVT is made and anticoagulant treatment should start</li><li>if the result is negative a D-dimer test should be arranged.  A negative scan and negative D-dimer makes the diagnosis unlikely and alternative diagnoses should be considered</li></ul></li><li>if a proximal leg vein ultrasound scan cannot be carried out within 4 hours a D-dimer test should be performed and <span class=\"concept\" data-cid=\"11181\">interim therapeutic anticoagulation</span> administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)<ul><li>interim therapeutic anticoagulation used to mean giving low-molecular weight heparin</li><li>NICE updated their guidance in 2020. They now recommend using an anticoagulant that can be continued if the result is positive. </li><li>this means normally a direct oral anticoagulant (DOAC) such as apixaban or rivaroxaban</li></ul></li><li>if the <span class=\"concept\" data-cid=\"11182\">scan is negative but the D-dimer is positive</span>:<ul><li>stop interim therapeutic anticoagulation</li><li>offer a repeat proximal leg vein ultrasound scan 6 to 8 days later </li></ul></li></ul><br />If a <span class=\"concept\" data-cid=\"11180\">DVT is 'unlikely' (1 point or less)</span><br /><ul><li>perform a D-dimer test<ul><li>this should be done within 4 hours. If not, interim therapeutic anticoagulation should be given until the result is available</li><li>if the result is negative then DVT is unlikely and alternative diagnoses should be considered</li><li>if the result is positive then a proximal leg vein ultrasound scan should be carried out within 4 hours</li><li>if a proximal leg vein ultrasound scan cannot be carried out <span class=\"concept\" data-cid=\"11181\">within 4 hours interim therapeutic anticoagulation</span> should be administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)</li></ul></li></ul><br />D-dimer tests<br /><ul><li>NICE recommend either a point-of-care (finger prick) or laboratory-based test</li><li>age-adjusted cut-offs should be used for patients > 50 years old</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554b.png\" data-fancybox=\"gallery\" data-caption=\"Flow diagram for investigating suspected DVT using 2-level Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd554.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555b.png\" data-fancybox=\"gallery\" data-caption=\"2-level DVT Wells test\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd555.png\" alt=\"\" /></a></div></div></div><br /><br /><h5 class='notes-heading'>Management</h5><br />The cornerstone of VTE management is anticoagulant therapy. This was historically done with warfarin, often preceded by heparin until the INR was stable. However, the development of DOACs, and an evidence base supporting their efficacy, has changed modern management.<br /><br />Choice of anticoagulant<br /><ul><li>the big change in the 2020 guidelines was the increased use of DOACs</li><li>apixaban or rivaroxaban (both DOACs) should be offered first-line following the diagnosis of a DVT<ul><li>instead of using low-molecular weight heparin (LMWH) until the diagnosis is confirmed, NICE now advocate using a <span class=\"concept\" data-cid=\"8024\">DOAC once a diagnosis is suspected</span>, with this continued if the diagnosis is confirmed</li><li>if neither apixaban or rivaroxaban are suitable then either LMWH followed by dabigatran or edoxaban OR LMWH followed by a vitamin K antagonist (VKA, i.e. warfarin)</li></ul></li><li>if the patient has active cancer<ul><li>previously LMWH was recommended</li><li>the <span class=\"concept\" data-cid=\"897\">new guidelines now recommend using a DOAC</span>, unless this is contraindicated</li></ul></li><li>if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA</li><li>if the patient has antiphospholipid syndrome (specifically 'triple positive' in the guidance) then LMWH followed by a VKA should be used</li></ul><br />Length of anticoagulation<br /><ul><li>all patients should have anticoagulation for at least 3 months</li><li>continuing anticoagulation after this period is partly determined by whether the VTE was provoked or unprovoked<ul><li>a provoked VTE is due to an obvious precipitating event e.g. immobilisation following major surgery. The implication is that this event was transient and the patient is no longer at increased risk</li><li>an unprovoked VTE occurs in the absence of an obvious precipitating event, i.e. there is a possibility that there are unknown factors (e.g. mild thrombophilia) making the patient more at risk from further clots</li></ul></li><li><span class=\"concept\" data-cid=\"898\">if the  VTE was provoked the treatment is typically stopped after the initial 3 months</span> (3 to 6 months for people with active cancer)</li><li><span class=\"concept\" data-cid=\"898\">if the VTE was unprovoked then treatment is typically continued for up to 3 further months (i.e. 6 months in total)</span><ul><li>NICE recommend that whether a patient has a total of 3-6 months anticoagulant is based upon balancing  a person's risk of VTE recurrence and their risk of bleeding</li><li>the ORBIT score can be used to help assess the risk of bleeding</li><li>NICE state: '<i>Explain to people with unprovoked DVT or PE and a low bleeding risk that the benefits of continuing anticoagulation treatment are likely to outweigh the risks. </i>'. The implication of this is that in the absence of a bleeding risk factors, patients are generally better off continuing anticoagulation for a total of 6 months</li></ul></li></ul>",
+        "notes_hash": "aa552e2b461ba513ff640bf604af7b5a",
+        "knowledge_graph_node_id_link": 1230,
+        "concept": "Venous thromoboembolism - length of anticoagulation<br /><ul><li>provoked (e.g. recent surgery): 3 months</li><li>unprovoked: 6 months</li></ul>",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "5620",
+        "up_votes": "33",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "79",
+            "833",
+            "4357",
+            "102",
+            "249",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_631\" data-linkid=\"631\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_631\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"link_dislike_631\" data-linkid=\"631\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_631\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng158/chapter/Recommendations\">2020 Venous thromboembolism guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/POMdvRyxlFw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/POMdvRyxlFw\" data-description=\"Understanding Deep Vein Thrombosis (DVT)\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1299\">Understanding Deep Vein Thrombosis (DVT)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2298\" data-mediaid=\"2298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2298\" data-mediaid=\"2298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Deep_vein_thrombosis.webm\" data-description=\"Deep vein thrombosis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"305\">Deep vein thrombosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1632\" data-mediaid=\"1632\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1632\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1632\" data-mediaid=\"1632\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1632\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/2vVqBjk-oqQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2vVqBjk-oqQ\" data-description=\"Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"938\">Deep Vein Thrombosis - Overview (pathophysiology, treatment, complications)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1620\" data-mediaid=\"1620\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1620\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1620\" data-mediaid=\"1620\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1620\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "897": {
+                "concept_text": "Cancer patients with VTE - 6 months of a DOAC",
+                "concept_percentile": "90"
+            },
+            "898": {
+                "concept_text": "Venous thromoboembolism - length of anticoagulation\n   - provoked (e.g. recent surgery): 3 months\n   - unprovoked: 6 months",
+                "concept_percentile": "51"
+            },
+            "8024": {
+                "concept_text": "Patients with a suspected pulmonary embolism should be initially managed with a  direct oral anticoagulant (DOAC)",
+                "concept_percentile": "85"
+            },
+            "8512": {
+                "concept_text": "If a 2-level DVT Wells score is \u2265 2 points then arrange a proximal leg vein ultrasound scan within 4 hours",
+                "concept_percentile": "45"
+            },
+            "11180": {
+                "concept_text": "If a 2-level DVT Wells score is \u2264 1 point then arrange a D-dimer with result within 4 hours or interim anticoagulation whilst awaiting D-dimer",
+                "concept_percentile": "53"
+            },
+            "11181": {
+                "concept_text": "If investigating a suspected DVT, and either the D-dimer or scan cannot be done within 4 hours, then start a DOAC",
+                "concept_percentile": "59"
+            },
+            "11182": {
+                "concept_text": "DVT investigation: if the scan is negative, but the D-dimer is positive --> stop anticoagulation and repeat scan in 1 week",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_447",
+        "new_question_id": "8622",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_452",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rifampicin is a potent liver enzyme inhibitor",
+            "Pyrazinamide should be added to therapy after 8 weeks",
+            "Major side-effects of pyrazinamide include peripheral neuropathy",
+            "Visual acuity should be checked before starting ethambutol",
+            "Ethambutol should only be added if drug-resistant tuberculosis is suspected",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is true regarding anti-tuberculous therapy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Rifampicin is a potent liver enzyme inducer. Pyrazinamide should be given for the first two months of therapy - side-effects include hepatitis and gout. Peripheral neuropathy is a side-effect of isoniazid",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is true regarding anti-tuberculous therapy?",
+        "correct_answer": "4",
+        "question_notes": "Rifampicin is a potent liver enzyme inducer. Pyrazinamide should be given for the first two months of therapy - side-effects include hepatitis and gout. Peripheral neuropathy is a side-effect of isoniazid",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Tuberculosis: management",
+        "body": "The standard therapy for treating <b>active tuberculosis</b> is:<br /><br />Initial phase - first 2 months (RIPE)<br /><ul><li>Rifampicin</li><li>Isoniazid</li><li>Pyrazinamide</li><li>Ethambutol (the 2006 NICE guidelines now recommend giving a 'fourth drug' such as ethambutol routinely - previously this was only added if drug-resistant tuberculosis was suspected)</li></ul><br />Continuation phase - next 4 months<br /><ul><li>Rifampicin</li><li>Isoniazid</li></ul><br />The treatment for <b>latent tuberculosis</b> is 3 months of isoniazid (with pyridoxine) and rifampicin OR 6 months of isoniazid (with pyridoxine)<br /><br />Patients with <b>meningeal tuberculosis</b> are treated for a prolonged period (at least 12 months) with the addition of steroids<br /><br /><b>Directly observed therapy</b> with a three times a week dosing regimen may be <br />indicated in certain groups, including:<br /><ul><li>homeless people with active tuberculosis</li><li>patients who are likely to have poor concordance</li><li>all prisoners with active or latent tuberculosis</li></ul><br /><br /><h5 class='notes-heading'>Complications of treatment</h5><br />Immune reconstitution disease<br /><ul><li>occurs typically 3-6 weeks after starting treatment</li><li>often presents with enlarging lymph nodes</li></ul><br />Drug adverse effects<br /><ul><li>rifampicin<ul><li>potent liver enzyme inducer</li><li>hepatitis, orange secretions</li><li>flu-like symptoms</li></ul></li><li>isoniazid<ul><li>peripheral neuropathy: prevent with pyridoxine (Vitamin B6)</li><li>hepatitis, agranulocytosis</li><li>liver enzyme inhibitor</li></ul></li><li>pyrazinamide<ul><li>hyperuricaemia causing gout</li><li>arthralgia, myalgia</li><li>hepatitis</li></ul></li><li>ethambutol<ul><li>optic neuritis: check visual acuity before and during treatment</li></ul></li></ul>",
+        "notes_hash": "0784e7395cb9987d82672f1bbbab1f84",
+        "knowledge_graph_node_id_link": 1138,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4954",
+        "up_votes": "46",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "420",
+            "84",
+            "710",
+            "3641",
+            "99",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Cochrane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_924\" data-linkid=\"924\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_924\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_924\" data-linkid=\"924\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_924\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.cochrane.org/CD002244/INFECTN_corticosteroids-managing-people-tuberculous-meningitis\">Corticosteroids for managing tuberculous meningitis</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_375\" data-linkid=\"375\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_375\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_375\" data-linkid=\"375\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_375\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng33/chapter/Recommendations\">2016 Tuberculosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6P6zBHpWiGA\" data-description=\"Tuberculosis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1231\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/6P6zBHpWiGA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6P6zBHpWiGA\" data-description=\"Tuberculosis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1231\">Tuberculosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2166\" data-mediaid=\"2166\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2166\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2166\" data-mediaid=\"2166\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2166\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_482",
+        "new_question_id": "1714",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "997",
+        "notes_id_link": "1_1201",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral alendronate + prednisolone",
+            "Oral alendronate",
+            "Oral prednisolone",
+            "Admit for IV pamidronate",
+            "Admit for IV normal saline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 69-year-old female with a history of multiple myeloma presents with confusion. Blood tests are taken and the following results are obtained:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Adjusted calcium</td><td>3.1 mmol/l</td></tr></tbody></table></div><br />What is the most appropriate initial management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Admit for IV normal saline</b>. This patient is presenting with hypercalcaemia, which is a common complication of multiple myeloma. The most common symptom of hypercalcaemia is confusion, as seen in this patient. The initial management for severe symptomatic hypercalcemia should be rehydration with intravenous (IV) normal saline to increase renal calcium excretion. According to the UK guidelines, bisphosphonates like pamidronate should only be considered after initial rehydration.<br /><br /><b>Oral alendronate + prednisolone</b> and <b>Oral alendronate</b> are not the best options in this case because they are used in the treatment of osteoporosis and not typically used for acute management of hypercalcaemia. Alendronate is a bisphosphonate that inhibits osteoclast-mediated bone resorption but it takes several days to have an effect on serum calcium levels.<br /><br /><b>Oral prednisolone</b> is incorrect as corticosteroids alone are not typically used in the management of hypercalcaemia associated with malignancy except in cases where there's known sensitivity such as lymphomas or myeloma with heavy proteinuria.<br /><br /><b>Admit for IV pamidronate</b> would be a suitable option after initial hydration has been achieved. Pamidronate is a bisphosphonate that can be used to reduce serum calcium levels by inhibiting osteoclast activity and reducing bone turnover, but it typically takes 2-4 days to lower serum calcium levels and therefore would not be the appropriate first step in management.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 69-year-old female with a history of multiple myeloma presents with confusion. Blood tests are taken and the following results are obtained:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Adjusted calcium</td><td>3.1 mmol/l</td></tr></tbody></table></div><br />What is the most appropriate initial management?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Admit for IV normal saline</b>. This patient is presenting with hypercalcaemia, which is a common complication of multiple myeloma. The most common symptom of hypercalcaemia is confusion, as seen in this patient. The initial management for severe symptomatic hypercalcemia should be rehydration with intravenous (IV) normal saline to increase renal calcium excretion. According to the UK guidelines, bisphosphonates like pamidronate should only be considered after initial rehydration.<br /><br /><b>Oral alendronate + prednisolone</b> and <b>Oral alendronate</b> are not the best options in this case because they are used in the treatment of osteoporosis and not typically used for acute management of hypercalcaemia. Alendronate is a bisphosphonate that inhibits osteoclast-mediated bone resorption but it takes several days to have an effect on serum calcium levels.<br /><br /><b>Oral prednisolone</b> is incorrect as corticosteroids alone are not typically used in the management of hypercalcaemia associated with malignancy except in cases where there's known sensitivity such as lymphomas or myeloma with heavy proteinuria.<br /><br /><b>Admit for IV pamidronate</b> would be a suitable option after initial hydration has been achieved. Pamidronate is a bisphosphonate that can be used to reduce serum calcium levels by inhibiting osteoclast activity and reducing bone turnover, but it typically takes 2-4 days to lower serum calcium levels and therefore would not be the appropriate first step in management.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Hypercalcaemia: management",
+        "body": "The initial management of hypercalcaemia is <span class=\"concept\" data-cid=\"997\">rehydration with normal saline</span>, typically 3-4 litres/day. Following rehydration bisphosphonates may be used. They typically take 2-3 days to work with maximal effect being seen at 7 days<br /><br />Other options include:<br /><ul><li>calcitonin - quicker effect than bisphosphonates</li><li>steroids in sarcoidosis</li></ul><br />Loop diuretics such as furosemide are sometimes used in hypercalcaemia, particularly in patients who cannot tolerate aggressive fluid rehydration. However, they should be used with caution as they may worsen electrolyte derangement and volume depletion.",
+        "notes_hash": "2183240d161bf88bdbd4bf3a8956731b",
+        "knowledge_graph_node_id_link": 10263,
+        "concept": "IV fluid therapy is the first-line management in patients with hypercalcaemia",
+        "concept_percentile": "43",
+        "concept_colour": "rgb(255,219,0)",
+        "number_attempts": "6160",
+        "up_votes": "31",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "206",
+            "180",
+            "44",
+            "502",
+            "5227",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1326\" data-linkid=\"1326\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1326\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1326\" data-linkid=\"1326\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1326\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/270\">Hypercalcaemia \u00e2\u20ac\u201c presentation and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"233\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/630hhyQ-jE0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"233\">Hypercalcemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_389\" data-mediaid=\"389\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_389\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_389\" data-mediaid=\"389\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_389\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1144\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Rs7MwyKZryY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1144\">Hypercalcemia in malignancy</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1979\" data-mediaid=\"1979\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1979\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1979\" data-mediaid=\"1979\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1979\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "997": {
+                "concept_text": "IV fluid therapy is the first-line management in patients with hypercalcaemia",
+                "concept_percentile": "43"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20654_B_111",
+        "new_question_id": "34720",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "2394",
+        "notes_id_link": "1_1978",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amlodipine",
+            "Dapagliflozin",
+            "Exenatide",
+            "Prednisolone",
+            "Ramipril",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "The GP is reviewing the routine blood results for a 67-year-old woman with a history of type 2 diabetes mellitus, giant cell arteritis and hypertension. Some of the results are as follows: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Hb</td><td>133 g/L</td><td>Male: (135-180)<br />Female: (115 - 160)</td></tr><tr><td>Mean cell volume</td><td>88 fl</td><td>82-100 fl</td></tr><tr><td>Platelets</td><td>390 * 10<sup>9</sup>/L</td><td>(150 - 400)</td></tr><tr><td>WBC</td><td>10.7 * 10<sup>9</sup>/L</td><td>(4.0 - 11.0)</td></tr><tr><td>Neutrophils</td><td>8.4 * 10<sup>9</sup>/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Lymphocytes</td><td>1.4 * 10<sup>9</sup>/L</td><td>(1.0 - 3.0)</td></tr></tbody></table></div><br />What is the likely explanation for the abnormality?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The abnormality is a slightly high neutrophil count of 8.4. <b>Prednisolone</b> is a corticosteroid that can be used in the treatment of giant cell arteritis. It can cause a high neutrophil count. <br /><br /><b>Amlodipine</b>, an antihypertensive drug, is not known to cause neutrophilia. Leucopenia (a low white cell count) is listed as a rare side effect of amlodipine. Common side-effects include headache, flushing and ankle swelling. <br /><br /><b>Dapagliflozin</b> is used in the management of type 2 diabetes mellitus. It is not associated with changes to white cell count. Common side effects include frequent urinary tract infections (due to the urinary excretion of high levels of glucose), dizziness and rash.<br /><br /><b>Exenatide</b> is a subcutaneous injection used in the management of type 2 diabetes mellitus. It is not known to cause changes to white cell count. Side effects include nausea, vomiting and diarrhoea. <br /><br /><b>Ramipril</b> is an antihypertensive. It does not cause neutrophilia. It has neutropenia listed as a rare side-effect. Other side effects include a dry cough, dizziness and headaches.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "The GP is reviewing the routine blood results for a 67-year-old woman with a history of type 2 diabetes mellitus, giant cell arteritis and hypertension. Some of the results are as follows: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Hb</td><td>133 g/L</td><td>Male: (135-180)<br />Female: (115 - 160)</td></tr><tr><td>Mean cell volume</td><td>88 fl</td><td>82-100 fl</td></tr><tr><td>Platelets</td><td>390 * 10<sup>9</sup>/L</td><td>(150 - 400)</td></tr><tr><td>WBC</td><td>10.7 * 10<sup>9</sup>/L</td><td>(4.0 - 11.0)</td></tr><tr><td>Neutrophils</td><td>8.4 * 10<sup>9</sup>/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Lymphocytes</td><td>1.4 * 10<sup>9</sup>/L</td><td>(1.0 - 3.0)</td></tr></tbody></table></div><br />What is the likely explanation for the abnormality?",
+        "correct_answer": "4",
+        "question_notes": "The abnormality is a slightly high neutrophil count of 8.4. <b>Prednisolone</b> is a corticosteroid that can be used in the treatment of giant cell arteritis. It can cause a high neutrophil count. <br /><br /><b>Amlodipine</b>, an antihypertensive drug, is not known to cause neutrophilia. Leucopenia (a low white cell count) is listed as a rare side effect of amlodipine. Common side-effects include headache, flushing and ankle swelling. <br /><br /><b>Dapagliflozin</b> is used in the management of type 2 diabetes mellitus. It is not associated with changes to white cell count. Common side effects include frequent urinary tract infections (due to the urinary excretion of high levels of glucose), dizziness and rash.<br /><br /><b>Exenatide</b> is a subcutaneous injection used in the management of type 2 diabetes mellitus. It is not known to cause changes to white cell count. Side effects include nausea, vomiting and diarrhoea. <br /><br /><b>Ramipril</b> is an antihypertensive. It does not cause neutrophilia. It has neutropenia listed as a rare side-effect. Other side effects include a dry cough, dizziness and headaches.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Corticosteroids",
+        "body": "Corticosteroids are amongst the most commonly prescribed therapies in clinical practice. They are used both systemically (oral or intravenous) or locally (skin creams, inhalers, eye drops, intra-articular). They augment and in some cases replace the natural glucocorticoid and mineralocorticoid activity of endogenous steroids.<br /><br />The relative glucocorticoid and mineralocorticoid activity of commonly used steroids is shown below:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Minimal glucocorticoid activity, very high mineralocorticoid activity, </b></th><th><b>Glucocorticoid activity, high mineralocorticoid activity, </b></th><th><b>Predominant glucocorticoid activity, low mineralocorticoid activity</b></th><th><b>Very high glucocorticoid activity, minimal mineralocorticoid activity</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11551\">Fludrocortisone</span></td><td>Hydrocortisone</td><td>Prednisolone</td><td><span class=\"concept\" data-cid=\"11552\">Dexamethasone</span><br />Betmethasone</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Side-effects</h5><br />The side effects of corticosteroids are numerous and represent the single greatest limitation on their usage. Side-effects are more common with systemic and prolonged therapy.<br /><br />Glucocorticoid side-effects<br /><ul><li>endocrine<ul><li><span class=\"concept\" data-cid=\"3342\">impaired glucose regulation</span></li><li><span class=\"concept\" data-cid=\"6013\">increased appetite/weight gain</span></li><li><span class=\"concept\" data-cid=\"6014\">hirsutism</span></li><li><span class=\"concept\" data-cid=\"6015\">hyperlipidaemia</span></li></ul></li><li><span class=\"concept\" data-cid=\"6016\">Cushing's syndrome</span><ul><li>moon face</li><li>buffalo hump</li><li>striae</li></ul></li><li>musculoskeletal<ul><li><span class=\"concept\" data-cid=\"4392\">osteoporosis</span></li><li><span class=\"concept\" data-cid=\"6017\">proximal myopathy</span></li><li><span class=\"concept\" data-cid=\"6018\">avascular necrosis of the femoral head</span></li></ul></li><li>immunosuppression<ul><li><span class=\"concept\" data-cid=\"6019\">increased susceptibility to severe infection</span></li><li><span class=\"concept\" data-cid=\"6020\">reactivation of tuberculosis</span></li></ul></li><li>psychiatric<ul><li><span class=\"concept\" data-cid=\"6021\">insomnia</span></li><li><span class=\"concept\" data-cid=\"2128\">mania</span></li><li><span class=\"concept\" data-cid=\"6022\">depression</span></li><li><span class=\"concept\" data-cid=\"2848\">psychosis</span></li></ul></li><li>gastrointestinal<ul><li><span class=\"concept\" data-cid=\"6023\">peptic ulceration</span></li><li><span class=\"concept\" data-cid=\"2995\">acute pancreatitis</span></li></ul></li><li>ophthalmic<ul><li><span class=\"concept\" data-cid=\"6025\">glaucoma</span></li><li><span class=\"concept\" data-cid=\"6026\">cataracts</span></li></ul></li><li><span class=\"concept\" data-cid=\"6027\">suppression of growth in children</span></li><li><span class=\"concept\" data-cid=\"6031\">intracranial hypertension</span></li><li><span class=\"concept\" data-cid=\"2394\">neutrophilia</span></li></ul><br />Mineralocorticoid side-effects<br /><ul><li><span class=\"concept\" data-cid=\"6028\">fluid retention</span></li><li><span class=\"concept\" data-cid=\"6029\">hypertension</span></li></ul><br />Selected points on the use of corticosteroids:<br /><ul><li><span class=\"concept\" data-cid=\"503\">patients on long-term steroids should have their doses doubled during intercurrent illness </span>  </li><li>longer-term systemic corticosteroids suppress the natural production of endogenous steroids. They should therefore <span class=\"concept\" data-cid=\"11703\">not be withdrawn abruptly, as this may precipitate an Addisonian crisis</span></li><li>the <span class=\"concept\" data-cid=\"11704\">BNF suggests gradual withdrawal of systemic corticosteroids if</span> patients have:<ul><li>received more than 40mg prednisolone daily for more than one week</li><li>received more than 3 weeks of treatment</li><li>recently received repeated courses</li></ul></li></ul>",
+        "notes_hash": "91ed1dfae2c81cac2530ebf422b78bb4",
+        "knowledge_graph_node_id_link": 10655,
+        "concept": "Corticosteroids can induce neutrophilia",
+        "concept_percentile": "58",
+        "concept_colour": "rgb(214,255,0)",
+        "number_attempts": "6548",
+        "up_votes": "17",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "59",
+            "575",
+            "248",
+            "5579",
+            "87",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "503": {
+                "concept_text": "Patients on long-term steroids should have their doses doubled during intercurrent illness",
+                "concept_percentile": "50"
+            },
+            "2128": {
+                "concept_text": "Increased risk of mania associated with long-term steroid use",
+                "concept_percentile": "21"
+            },
+            "2394": {
+                "concept_text": "Corticosteroids can induce neutrophilia",
+                "concept_percentile": "58"
+            },
+            "2848": {
+                "concept_text": "A rare but recognised complication of corticosteroid therapy is steroid psychosis",
+                "concept_percentile": "36"
+            },
+            "3342": {
+                "concept_text": "Use of corticosteroids can worsen diabetic control due to their anti-insulin effects",
+                "concept_percentile": "36"
+            },
+            "4392": {
+                "concept_text": "Long-term, systemic corticosteroids increase the risk of osteoporosis and fractures",
+                "concept_percentile": "74"
+            },
+            "11703": {
+                "concept_text": "Longer-term systemic corticosteroids suppress the natural production of endogenous steroids. They should therefore not be withdrawn abruptly, as this may precipitate an Addisonian crisis",
+                "concept_percentile": "84"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_18",
+        "new_question_id": "12403",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "1569",
+        "notes_id_link": "1_2004",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Avoidance of egg and egg products",
+            "Gradual reintroduction of egg based products using the egg ladder starting with scrambled egg",
+            "Gradual reintroduction of egg based products using the egg ladder",
+            "Regular chlorpheniramine",
+            "Prescribe an adrenaline pen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 3-year-old is brought to you in allergy clinic by his concerned parents. He has a past medical history of a mild non-IgE mediated egg allergy. What treatment would you recommend?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The egg ladder can be used to reintroduce egg in children with a non-IgE mediated allergy. In this case, chlorpheniramine (Piriton) is an inappropriate choice as it would cause drowsiness and would only give symptomatic relief. An adrenaline pen is not indicated. Scrambled egg is high up the egg ladder, instead, start with baked egg in biscuits.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 3-year-old is brought to you in allergy clinic by his concerned parents. He has a past medical history of a mild non-IgE mediated egg allergy. What treatment would you recommend?",
+        "correct_answer": "3",
+        "question_notes": "The egg ladder can be used to reintroduce egg in children with a non-IgE mediated allergy. In this case, chlorpheniramine (Piriton) is an inappropriate choice as it would cause drowsiness and would only give symptomatic relief. An adrenaline pen is not indicated. Scrambled egg is high up the egg ladder, instead, start with baked egg in biscuits.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Food allergy in children and young people",
+        "body": "The 2011 NICE guidelines differentiate between IgE mediated and non-IgE mediated allergies. It should be noted that the guidance does not govern food intolerance, which is not caused by immune system dysfunction.<br /><br />The first step is to identify possible food allergy and differentiate the possible causes:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>IgE-mediated</b></th><th><b>Non-IgE-mediated</b></th></tr></thead><tbody><tr><td>Skin<br /><ul><li>pruritus</li><li>erythema</li><li>urticaria</li><li>angioedema</li></ul><br />Gastrointestinal system<br /><ul><li>nausea \u0002</li><li>colicky abdominal pain \u0002</li><li>vomiting \u0002 </li><li>diarrhoea</li></ul><br /><br />Respiratory system<br /><ul><li>upper respiratory tract symptoms - nasal itching,sneezing, rhinorrhoea or congestion (with or without conjunctivitis)</li><li>lower respiratory tract symptoms - cough, chest tightness, wheezing or shortness of breath</li></ul><br />Symptoms of anaphylaxis<br /></td><td>Skin<br /><ul><li>pruritus</li><li>erythema</li><li>atopic eczema</li></ul><br />Gastrointestinal system<br /><ul><li>gastro-oesophageal reflux disease</li><li>\u0002loose or frequent stools</li><li>blood and/or mucus in stools</li><li>abdominal pain</li><li>infantile colic</li><li>food refusal or aversion</li><li>constipation</li><li>perianal redness</li><li>pallor and tiredness</li><li>faltering growth plus one or more gastrointestinal symptoms above (with or without significant atopic eczema)</td></tr></tbody></table></div></li></ul><br />If the history is suggestive of an IgE-mediated allergy<br /><ul><li>offer a skin prick test or blood tests for specific IgE antibodies to the suspected foods and likely co-allergens</li></ul><br />If the history is suggestive of an non-IgE-mediated allergy<br /><ul><li>eliminate the suspected allergen for 2-6 weeks, then reintroduce. NICE advise to 'consult a dietitian with appropriate competencies about nutritional adequacies, timings and follow-up'</li></ul>",
+        "notes_hash": "579517179e5f977a1c392b3497db69e7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "The egg ladder can be used to reintroduce egg in children with a non-IgE mediated allergy",
+        "concept_percentile": "43",
+        "concept_colour": "rgb(255,219,0)",
+        "number_attempts": "4635",
+        "up_votes": "38",
+        "down_votes": "60",
+        "column_array": [
+            0,
+            "570",
+            "747",
+            "3197",
+            "17",
+            "104",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_676\" data-linkid=\"676\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_676\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_676\" data-linkid=\"676\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_676\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG116/chapter/1-Guidance\">2011 Food allergy in children and young people</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WwehfCel36o\" data-description=\"Food allergy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"641\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WwehfCel36o/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WwehfCel36o\" data-description=\"Food allergy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"641\">Food allergy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1103\" data-mediaid=\"1103\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1103\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1103\" data-mediaid=\"1103\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1103\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 15,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1156",
+        "new_question_id": "1950",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1241",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Concurrent use of St John's Wort",
+            "Family history of thromboembolic disease in first degree relatives < 45 years",
+            "Immobility (e.g. wheelchair use)",
+            "Migraine with aura",
+            "Diabetes mellitus (diagnosed 11 years ago)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is an absolute contraindication to combined oral contraceptive pill use?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Migraine with aura</b>. According to the UK Medical Eligibility Criteria (UKMEC), migraine with aura is an absolute contraindication to combined oral contraceptive pill use due to the increased risk of stroke. The presence of aura in migraines is a significant risk factor for ischemic stroke, and when combined with the prothrombotic effect of oestrogen found in combined oral contraceptives, this risk is further amplified.<br /><br /><b>Concurrent use of St John's Wort</b> is not an absolute contraindication but it should be noted that St John's Wort can reduce the effectiveness of hormonal contraceptives including the combined pill. It does this by inducing liver enzymes which increase the metabolism of ethinylestradiol and progestogens. This may lead to breakthrough bleeding and/or contraceptive failure. Therefore, alternative or additional contraception methods are advised for users of St John's Wort.<br /><br /><b>Family history of thromboembolic disease in first degree relatives < 45 years</b> alone does not constitute an absolute contraindication to combined oral contraceptive use. However, if there are other personal risk factors such as obesity, smoking or immobilisation then a progestogen-only method or non-hormonal method may be more appropriate.<br /><br />As for <b>Immobility (e.g. wheelchair use)</b>, it increases the risk of venous thromboembolism but it is not considered as an absolute contraindication for using COCP according to UKMEC guidelines. The decision should be individualised taking into account other potential risk factors.<br /><br />Finally, <b>Diabetes mellitus (diagnosed 11 years ago)</b> isn't an absolute contraindication either unless it is associated with vascular complications or other severe comorbidities such as nephropathy, retinopathy or neuropathy. In these cases, alternative methods should be considered due to increased cardiovascular risks associated with oestrogen-containing contraceptives.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is an absolute contraindication to combined oral contraceptive pill use?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Migraine with aura</b>. According to the UK Medical Eligibility Criteria (UKMEC), migraine with aura is an absolute contraindication to combined oral contraceptive pill use due to the increased risk of stroke. The presence of aura in migraines is a significant risk factor for ischemic stroke, and when combined with the prothrombotic effect of oestrogen found in combined oral contraceptives, this risk is further amplified.<br /><br /><b>Concurrent use of St John's Wort</b> is not an absolute contraindication but it should be noted that St John's Wort can reduce the effectiveness of hormonal contraceptives including the combined pill. It does this by inducing liver enzymes which increase the metabolism of ethinylestradiol and progestogens. This may lead to breakthrough bleeding and/or contraceptive failure. Therefore, alternative or additional contraception methods are advised for users of St John's Wort.<br /><br /><b>Family history of thromboembolic disease in first degree relatives < 45 years</b> alone does not constitute an absolute contraindication to combined oral contraceptive use. However, if there are other personal risk factors such as obesity, smoking or immobilisation then a progestogen-only method or non-hormonal method may be more appropriate.<br /><br />As for <b>Immobility (e.g. wheelchair use)</b>, it increases the risk of venous thromboembolism but it is not considered as an absolute contraindication for using COCP according to UKMEC guidelines. The decision should be individualised taking into account other potential risk factors.<br /><br />Finally, <b>Diabetes mellitus (diagnosed 11 years ago)</b> isn't an absolute contraindication either unless it is associated with vascular complications or other severe comorbidities such as nephropathy, retinopathy or neuropathy. In these cases, alternative methods should be considered due to increased cardiovascular risks associated with oestrogen-containing contraceptives.<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Combined oral contraceptive pill: contraindications",
+        "body": "The decision of whether to start a women on the combined oral contraceptive pill is now guided by the UK Medical Eligibility Criteria (UKMEC). This scale categorises the potential cautions and contraindications according to a four point scale, as detailed below:<br /><ul><li>UKMEC 1: a condition for which there is no restriction for the use of the contraceptive method</li><li>UKMEC 2: advantages generally outweigh the disadvantages</li><li>UKMEC 3: disadvantages generally outweigh the advantages</li><li>UKMEC 4: represents an unacceptable health risk</li></ul><br />Examples of UKMEC 3 conditions include<br /><ul><li><span class=\"concept\" data-cid=\"7378\">more than 35 years old and smoking less than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"7379\">BMI > 35 kg/m^2</span>*</li><li><span class=\"concept\" data-cid=\"7380\">family history of thromboembolic disease in first degree relatives < 45 years</span></li><li><span class=\"concept\" data-cid=\"7381\">controlled hypertension</span></li><li><span class=\"concept\" data-cid=\"3569\">immobility e.g. wheel chair use</span></li><li><span class=\"concept\" data-cid=\"7410\">carrier of known gene mutations associated with breast cancer  (e.g. BRCA1/BRCA2)</span></li><li><span class=\"concept\" data-cid=\"10004\">current gallbladder disease</span></li></ul><br />Examples of UKMEC 4 conditions include <br /><ul><li><span class=\"concept\" data-cid=\"7384\">more than 35 years old and smoking more than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"4289\">migraine with aura</span></li><li><span class=\"concept\" data-cid=\"7386\">history of thromboembolic disease or thrombogenic mutation</span></li><li><span class=\"concept\" data-cid=\"7387\">history of stroke or ischaemic heart disease</span></li><li><span class=\"concept\" data-cid=\"1103\">breast feeding < 6 weeks post-partum</span></li><li><span class=\"concept\" data-cid=\"7389\">uncontrolled hypertension</span></li><li><span class=\"concept\" data-cid=\"7390\">current breast cancer</span></li><li><span class=\"concept\" data-cid=\"7391\">major surgery with prolonged immobilisation</span></li><li><span class=\"concept\" data-cid=\"11564\">positive antiphospholipid antibodies (e.g. in SLE)</span></li></ul><br />Diabetes mellitus diagnosed > 20 years ago is classified as UKMEC 3 or 4 depending on severity<br /><br />Changes in 2016<br /><ul><li><span class=\"concept\" data-cid=\"7383\">breast feeding 6 weeks - 6 months postpartum</span> was changed from UKMEC 3 &rarr; 2</li></ul>",
+        "notes_hash": "15c7e7457c88565620bc37b5c51d9ac3",
+        "knowledge_graph_node_id_link": 10894,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4940",
+        "up_votes": "31",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "85",
+            "415",
+            "285",
+            "4123",
+            "32",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_305\" data-linkid=\"305\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_305\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">27</span><button type=\"button\" style=\"\" id=\"link_dislike_305\" data-linkid=\"305\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_305\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-ukmec-summary-september-2019.pdf\">UK Medical Eligibility Criteria for Contraceptive Use</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3569": {
+                "concept_text": "Wheelchair users should not be prescribed the COCP as first-line contraceptive, as they are 'UKMEC 3'- risks outweigh benefits",
+                "concept_percentile": "68"
+            },
+            "11564": {
+                "concept_text": "Positive antiphospholipid antibodies (e.g. in SLE) is UKMEC 4 for the COCP",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9310_B_28",
+        "new_question_id": "24444",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "1231",
+        "notes_id_link": "1_146",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Adhesive capsulitis",
+            "Fibromyalgia",
+            "Hypothyroidism",
+            "Osteoarthritis",
+            "Polymyalgia rheumatica",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 63-year-old female presents to her GP with a 3-week history of bilateral shoulder pain. She also feels that her shoulders are stiff in the morning when she gets up, this seems to improve during the day. She generally feels tired. No other joints are affected. She has a history of right knee osteoarthritis.<br /><br />On examination, observations are normal. There is no swelling or erythema of the shoulders and she has a good range of movement bilaterally. Upper limb power is 5/5 bilaterally with normal sensation. <br /><br />Given the history, what is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has characteristic symptoms pf polymyalgia rheumatica (PMR).<br /><br />PMR should be suspected in patients over 50 years-old presenting with at least 2 weeks of bilateral shoulder and/or pelvic girdle pain and stiffness lasting for at least 45 minutes after waking or periods of rest. <br /><br />Systemic symptoms such as low-grade fever, fatigue, anorexia, weight loss, and depression can occur in 40-50% of patients.<br /><br />Osteoarthritis does not usually present this acutely and early morning stiffness for >30mins is not characteristic.<br /><br />Fibromyalgia is usually a chronic history and is unlikely to present this acutely. <br /><br />Hypothyroidism can present with fatigue and anorexia however shoulder stiffness is not a common presenting complaint. It is important to check thyroid function when considering a diagnosis of PMR.<br /><br />Adhesive capsulitis (frozen shoulder) can present with shoulder pain and stiffness however on examination you would usually find a restricted range of movement. Systemic symptoms are not common with frozen shoulder.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 63-year-old female presents to her GP with a 3-week history of bilateral shoulder pain. She also feels that her shoulders are stiff in the morning when she gets up, this seems to improve during the day. She generally feels tired. No other joints are affected. She has a history of right knee osteoarthritis.<br /><br />On examination, observations are normal. There is no swelling or erythema of the shoulders and she has a good range of movement bilaterally. Upper limb power is 5/5 bilaterally with normal sensation. <br /><br />Given the history, what is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This patient has characteristic symptoms pf polymyalgia rheumatica (PMR).<br /><br />PMR should be suspected in patients over 50 years-old presenting with at least 2 weeks of bilateral shoulder and/or pelvic girdle pain and stiffness lasting for at least 45 minutes after waking or periods of rest. <br /><br />Systemic symptoms such as low-grade fever, fatigue, anorexia, weight loss, and depression can occur in 40-50% of patients.<br /><br />Osteoarthritis does not usually present this acutely and early morning stiffness for >30mins is not characteristic.<br /><br />Fibromyalgia is usually a chronic history and is unlikely to present this acutely. <br /><br />Hypothyroidism can present with fatigue and anorexia however shoulder stiffness is not a common presenting complaint. It is important to check thyroid function when considering a diagnosis of PMR.<br /><br />Adhesive capsulitis (frozen shoulder) can present with shoulder pain and stiffness however on examination you would usually find a restricted range of movement. Systemic symptoms are not common with frozen shoulder.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Polymyalgia rheumatica",
+        "body": "Polymyalgia rheumatica (PMR) is a relatively common condition seen in older people characterised by muscle stiffness and raised inflammatory markers. Whilst it appears to be closely related to temporal arteritis the underlying cause is not fully understood and it does not appear to be a vasculitic process.<br /><br /><span class=\"concept\" data-cid=\"1231\">Features</span><br /><ul><li>typically patient > 60 years old</li><li>usually rapid onset (e.g. < 1 month)</li><li>aching, morning stiffness in proximal limb muscles<ul><li><span class=\"concept\" data-cid=\"3782\">weakness is not considered a symptom of polymyalgia rheumatica</span></li></ul></li><li>also mild polyarthralgia, lethargy, depression, low-grade fever, anorexia, night sweats</li></ul><br />Investigations<br /><ul><li><span class=\"concept\" data-cid=\"3407\">raised inflammatory markers</span> e.g. ESR > 40 mm/hr</li><li>note <span class=\"concept\" data-cid=\"10866\">creatine kinase</span> and EMG normal</li></ul><br />Treatment<br /><ul><li><span class=\"concept\" data-cid=\"11294\">prednisolone</span> e.g. 15mg/od<ul><li><span class=\"concept\" data-cid=\"10867\">patients typically respond dramatically to steroids, failure to do so should prompt consideration of an alternative diagnosis</span></li></ul></li></ul>",
+        "notes_hash": "4c8f9656ea7eb6974f7bd2436165ab5f",
+        "knowledge_graph_node_id_link": 1153,
+        "concept": "Polymyalgia rheumatic is characterised by abrupt onset of bilateral early morning stiffness in the over 60s ",
+        "concept_percentile": "71",
+        "concept_colour": "rgb(147,255,0)",
+        "number_attempts": "4484",
+        "up_votes": "25",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "278",
+            "395",
+            "18",
+            "342",
+            "3451",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society for Rheumatology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_542\" data-linkid=\"542\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_542\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_542\" data-linkid=\"542\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_542\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/rheumatology/article/49/1/186/1789113\">BSR and BHPR guidelines for the management of polymyalgia rheumatica</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2t71uY0o9c\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"21\" data-downvotes=\"1\" data-media=\"918\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x2t71uY0o9c/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2t71uY0o9c\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"21\" data-downvotes=\"1\" data-media=\"918\">Polymyalgia rheumatica</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1595\" data-mediaid=\"1595\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1595\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"media_dislike_1595\" data-mediaid=\"1595\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1595\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zNdCyRqReeo\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1414\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zNdCyRqReeo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zNdCyRqReeo\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1414\">Polymyalgia rheumatica</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2486\" data-mediaid=\"2486\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2486\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2486\" data-mediaid=\"2486\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2486\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mp7d6f_xu3Y\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"604\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/mp7d6f_xu3Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mp7d6f_xu3Y\" data-description=\"Polymyalgia rheumatica\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"604\">Polymyalgia rheumatica</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1025\" data-mediaid=\"1025\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1025\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1025\" data-mediaid=\"1025\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1025\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1231": {
+                "concept_text": "Polymyalgia rheumatic is characterised by abrupt onset of bilateral early morning stiffness in the over 60s ",
+                "concept_percentile": "71"
+            },
+            "3407": {
+                "concept_text": "Raised inflammatory markers are the key investigation in the diagnosis of polymyalgia rheumatica",
+                "concept_percentile": "74"
+            },
+            "10867": {
+                "concept_text": "Patients with polymyalgia rheumatica typically respond dramatically to steroids, failure to do so should prompt consideration of an alternative diagnosis",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

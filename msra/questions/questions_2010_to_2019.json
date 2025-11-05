@@ -1,0 +1,869 @@
+[
+    {
+        "question_id": "18521_B_32",
+        "new_question_id": "30957",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "494",
+        "notes_id_link": "1_1941",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "10mg hydrocortisone, 50mcg fludrocortisone",
+            "20mg hydrocortisone, 100mcg fludrocortisone",
+            "20mg hydrocortisone, 50mcg fludrocortisone",
+            "40mg hydrocortisone, 100mcg fludrocortisone",
+            "40mg hydrocortisone, 200mcg fludrocortisone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 38-year-old patient presents to the emergency department with vomiting and confusion. On further questioning, she reports six months of fatigue, weight loss and 'head rush' when standing.<br /><br />Blood tests show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>126 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>5.6 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Urea</td><td>6.8 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>95 \u00b5mol/L</td><td>(55 - 120)</td></tr></tbody></table></div><br />Once she is stabilised, she undergoes further tests and is prescribed a maintenance regime of 20mg hydrocortisone and 100mcg fludrocortisone daily.<br /><br />What dose of medication should she take if she becomes acutely unwell, for example with an infection?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient's presentation with vomiting and confusion, fatigue, weight loss and postural hypotension all point towards adrenal insufficiency.<br /><br />Her blood tests show hyponatraemia and hyperkalaemia due to aldosterone deficiency. When aldosterone is secreted, its action on the sodium-potassium pump in the distal convoluted tubule and collecting duct causes sodium reabsorption and potassium excretion. In its absence, the opposite happens; sodium is lost and potassium rises.<br /><br />The third clue to the diagnosis of Addison's is the steroid replacement regimen that is initiated.<br /><br />During intercurrent illness, patients should double their glucocorticoid dose to mimic the normal steroid response to illness, but keep their mineralocorticoid dose the same. 40mg hydrocortisone is double her usual dose (20mg) and 100mcg fludrocortisone is the same, so this is the correct option. This is in order to mimic the body's usual response to intercurrent illness, which involves increased secretion of glucocorticoids but unchanged mineralocorticoids secretion.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 38-year-old patient presents to the emergency department with vomiting and confusion. On further questioning, she reports six months of fatigue, weight loss and 'head rush' when standing.<br /><br />Blood tests show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>126 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>5.6 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Urea</td><td>6.8 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>95 \u00b5mol/L</td><td>(55 - 120)</td></tr></tbody></table></div><br />Once she is stabilised, she undergoes further tests and is prescribed a maintenance regime of 20mg hydrocortisone and 100mcg fludrocortisone daily.<br /><br />What dose of medication should she take if she becomes acutely unwell, for example with an infection?",
+        "correct_answer": "4",
+        "question_notes": "This patient's presentation with vomiting and confusion, fatigue, weight loss and postural hypotension all point towards adrenal insufficiency.<br /><br />Her blood tests show hyponatraemia and hyperkalaemia due to aldosterone deficiency. When aldosterone is secreted, its action on the sodium-potassium pump in the distal convoluted tubule and collecting duct causes sodium reabsorption and potassium excretion. In its absence, the opposite happens; sodium is lost and potassium rises.<br /><br />The third clue to the diagnosis of Addison's is the steroid replacement regimen that is initiated.<br /><br />During intercurrent illness, patients should double their glucocorticoid dose to mimic the normal steroid response to illness, but keep their mineralocorticoid dose the same. 40mg hydrocortisone is double her usual dose (20mg) and 100mcg fludrocortisone is the same, so this is the correct option. This is in order to mimic the body's usual response to intercurrent illness, which involves increased secretion of glucocorticoids but unchanged mineralocorticoids secretion.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Addison's disease: management",
+        "body": "Patients who have Addison's disease are usually given both glucocorticoid and mineralocorticoid replacement therapy.<br /><br />This usually means that patients take a combination of:<br /><ul><li><span class=\"concept\" data-cid=\"493\">hydrocortisone</span>: usually given in 2 or 3 divided doses. Patients typically require 20-30 mg per day, with the <span class=\"concept\" data-cid=\"11256\">majority given in the first half of the day</span></li><li><span class=\"concept\" data-cid=\"493\">fludrocortisone</span></li></ul><br />Patient education is important:<br /><ul><li>emphasise the importance of not missing glucocorticoid doses</li><li>consider MedicAlert bracelets and steroid cards</li><li>patients should be provided with <span class=\"concept\" data-cid=\"2445\">hydrocortisone for injection</span> with needles and syringes to treat an adrenal crisis</li><li>discuss how to adjust the glucocorticoid dose during an intercurrent illness (see below)</li></ul><br />Management of intercurrent illness<br /><ul><li>in simple terms the <span class=\"concept\" data-cid=\"494\">glucocorticoid dose should be doubled, with the fludrocortisone dose staying the same</span></li><li>the Addison's Clinical Advisory Panel have produced guidelines detailing particular scenarios - please see the CKS link for more details</li></ul>",
+        "notes_hash": "166e71d52791defe13da78d02e47e057",
+        "knowledge_graph_node_id_link": 1122,
+        "concept": "Addison's patient with intercurrent illness &rarr; double the glucocorticoids, keep fludrocortisone dose the same",
+        "concept_percentile": "71",
+        "concept_colour": "rgb(147,255,0)",
+        "number_attempts": "5647",
+        "up_votes": "39",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "59",
+            "118",
+            "40",
+            "4954",
+            "476",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1320\" data-linkid=\"1320\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1320\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1320\" data-linkid=\"1320\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1320\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/258\">2017 Adrenal insufficiency \u00e2\u20ac\u201c recognition and management </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"107\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"107\">Primary adrenal insufficiency (Addison's disease)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_190\" data-mediaid=\"190\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_190\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_190\" data-mediaid=\"190\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_190\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"243\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wqJUifWOGEo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"243\">Addison's disease</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_408\" data-mediaid=\"408\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_408\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_408\" data-mediaid=\"408\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_408\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1687\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1E0LcT-M1NY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1687\">Understanding Adrenal Insufficiency</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2862\" data-mediaid=\"2862\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2862\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2862\" data-mediaid=\"2862\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2862\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "493": {
+                "concept_text": "Addison's disease management - hydrocortisone + fludrocortisone",
+                "concept_percentile": "45"
+            },
+            "494": {
+                "concept_text": "Addison's patient with intercurrent illness --> double the glucocorticoids, keep fludrocortisone dose the same",
+                "concept_percentile": "71"
+            },
+            "2445": {
+                "concept_text": "Patients with Addison's should be given a hydrocortisone injection kit for adrenal crises",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2289",
+        "new_question_id": "61417",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "12290",
+        "notes_id_link": "1_327",
+        "theme": "Asthma uncontrolled on moderate-dose MART with raised biomarkers",
+        "instruction": "",
+        "options": [
+            "",
+            "Add leukotriene receptor antagonist",
+            "Add long-acting muscarinic antagonist",
+            "Increase to high-dose MART",
+            "Refer to respiratory specialist",
+            "Add oral theophylline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman with asthma attends for review. She uses a moderate-dose budesonide/formoterol MART inhaler but reports ongoing wheeze and nocturnal symptoms twice weekly. Examination reveals bilateral expiratory wheeze. Spirometry shows FEV1 78% predicted with reversibility.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FeNO</td><td>52 ppb</td><td>(<40)</td></tr><tr><td>Blood eosinophils</td><td>0.6 \u00d7 10<sup>9</sup>/L</td><td>(0.04-0.4)</td></tr></tbody></table></div><br />Select the single most appropriate next step in management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Refer to respiratory specialist</b> is the correct answer. This patient has asthma that is not controlled on moderate-dose MART therapy, as evidenced by her ongoing symptoms (wheeze and nocturnal symptoms twice weekly). According to the 2024 joint NICE/BTS/SIGN guidelines, when a patient on moderate-dose MART has uncontrolled symptoms, the next step is to check FeNO and blood eosinophil count. This patient has both an elevated FeNO (52 ppb, normal <40) and raised blood eosinophils (0.6 \u00d7 10\u2079/L, normal 0.04-0.4). When either of these biomarkers is raised in a patient with uncontrolled asthma on moderate-dose MART, the guidelines explicitly recommend referral to a specialist in asthma care. The elevated type 2 inflammatory markers suggest the patient may benefit from specialist assessment and consideration of biologic therapies or other advanced treatment options that require specialist initiation and monitoring.<br /><br /><b>Add leukotriene receptor antagonist</b> would be appropriate if neither FeNO nor eosinophil count were raised. The guidelines specify that when biomarkers are not elevated in patients uncontrolled on moderate-dose MART, a trial of either an LTRA or LAMA should be considered. However, with raised inflammatory markers as in this case, specialist referral takes precedence as the patient is likely to need more advanced therapeutic options.<br /><br /><b>Add long-acting muscarinic antagonist</b> is similarly only indicated when both FeNO and eosinophil count are not raised. Like the LTRA option, a LAMA can be trialled as an add-on therapy to moderate-dose MART when type 2 inflammatory markers are normal. The presence of elevated biomarkers in this patient indicates a different pathway is required.<br /><br /><b>Increase to high-dose MART</b> is not part of the current stepwise approach in the 2024 guidelines. The pathway moves from moderate-dose MART directly to checking biomarkers and either adding LTRA/LAMA (if biomarkers normal) or referring to specialist care (if biomarkers raised). High-dose inhaled corticosteroids are typically initiated by specialists rather than in primary care.<br /><br /><b>Add oral theophylline</b> is not recommended at this stage of the treatment pathway. Theophylline has a narrow therapeutic index and requires monitoring of plasma levels. It would only be considered under specialist guidance in patients with severe asthma, and certainly not before the appropriate step of specialist referral when biomarkers indicate type 2 inflammation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman with asthma attends for review. She uses a moderate-dose budesonide/formoterol MART inhaler but reports ongoing wheeze and nocturnal symptoms twice weekly. Examination reveals bilateral expiratory wheeze. Spirometry shows FEV1 78% predicted with reversibility.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FeNO</td><td>52 ppb</td><td>(<40)</td></tr><tr><td>Blood eosinophils</td><td>0.6 \u00d7 10<sup>9</sup>/L</td><td>(0.04-0.4)</td></tr></tbody></table></div><br />Select the single most appropriate next step in management from the options below.",
+        "correct_answer": "4",
+        "question_notes": "<b>Refer to respiratory specialist</b> is the correct answer. This patient has asthma that is not controlled on moderate-dose MART therapy, as evidenced by her ongoing symptoms (wheeze and nocturnal symptoms twice weekly). According to the 2024 joint NICE/BTS/SIGN guidelines, when a patient on moderate-dose MART has uncontrolled symptoms, the next step is to check FeNO and blood eosinophil count. This patient has both an elevated FeNO (52 ppb, normal <40) and raised blood eosinophils (0.6 \u00d7 10\u2079/L, normal 0.04-0.4). When either of these biomarkers is raised in a patient with uncontrolled asthma on moderate-dose MART, the guidelines explicitly recommend referral to a specialist in asthma care. The elevated type 2 inflammatory markers suggest the patient may benefit from specialist assessment and consideration of biologic therapies or other advanced treatment options that require specialist initiation and monitoring.<br /><br /><b>Add leukotriene receptor antagonist</b> would be appropriate if neither FeNO nor eosinophil count were raised. The guidelines specify that when biomarkers are not elevated in patients uncontrolled on moderate-dose MART, a trial of either an LTRA or LAMA should be considered. However, with raised inflammatory markers as in this case, specialist referral takes precedence as the patient is likely to need more advanced therapeutic options.<br /><br /><b>Add long-acting muscarinic antagonist</b> is similarly only indicated when both FeNO and eosinophil count are not raised. Like the LTRA option, a LAMA can be trialled as an add-on therapy to moderate-dose MART when type 2 inflammatory markers are normal. The presence of elevated biomarkers in this patient indicates a different pathway is required.<br /><br /><b>Increase to high-dose MART</b> is not part of the current stepwise approach in the 2024 guidelines. The pathway moves from moderate-dose MART directly to checking biomarkers and either adding LTRA/LAMA (if biomarkers normal) or referring to specialist care (if biomarkers raised). High-dose inhaled corticosteroids are typically initiated by specialists rather than in primary care.<br /><br /><b>Add oral theophylline</b> is not recommended at this stage of the treatment pathway. Theophylline has a narrow therapeutic index and requires monitoring of plasma levels. It would only be considered under specialist guidance in patients with severe asthma, and certainly not before the appropriate step of specialist referral when biomarkers indicate type 2 inflammation.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Asthma: management in adults",
+        "body": "In 2024 NICE, the British Thoracic Society and SIGN produced joint guidelines on the management of asthma following many years of conflicting guidelines. The new guidelines represent a major step change in the management of asthma is both diagnosed and treated.<br /><br />For many years patients with asthma were started on a short-acting beta-2 agonist (SABA) inhaler before 'stepping up' to a regular inhaled corticosteroid with a SABA as required. The new guidelines now advocate the use of combined inhalers (ICS + long-acting beta-2 agonist) as reliever therapy or regularly, depending on the severity of asthma. Given the prevalence of asthma, it is likely that doctors will have to deal with patients on 'conventional' asthma treatments for many years to come. The joint guidelines therefore include guidance on how to manage these patients if their current treatment is controlling their symptoms sufficiently.<br /><br /><h5 class='notes-heading'>Management of adult patients aged children aged \u2265 12 years with newly diagnosed asthma</h5><br />Step 1 <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a><ul><li>a <span class=\"concept\" data-cid=\"12286\">low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler to be taken as needed for symptom relief</span><ul><li>this is termed anti-inflammatory reliever (AIR) therapy</li></ul></li><li>if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:<ul><li><span class=\"concept\" data-cid=\"12295\">start treatment with low-dose MART</span> (maintenance and reliever therapy, see below)</li><li>treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)</li></ul></li></ul><br />Step 2  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li><span class=\"concept\" data-cid=\"12287\">a low-dose MART</span><ul><li>MART describes using an inhaled corticosteroid (ICS)/formoterol combination inhaler for daily maintenance therapy and the relief of symptoms as needed, i.e. regularly and as required</li></ul></li></ul><br />Step 3<br /><ul><li>a <span class=\"concept\" data-cid=\"12288\">moderate-dose MART</span></li></ul><br />Step 4<br /><ul><li><span class=\"concept\" data-cid=\"12289\">check the fractional exhaled nitric oxide (FeNO) level if available, and the blood eosinophil count</span>  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20(FeNO)%20level%20if%20available' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>if <span class=\"concept\" data-cid=\"12290\">either of these is raised, refer to a specialist in asthma care</span></li><li>if <span class=\"concept\" data-cid=\"12291\">neither FeNO nor eosinophil count is raised, consider a trial of either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic receptor antagonist (LAMA)</span> used in addition to moderate-dose MART</li><li>if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)</li></ul></li></ul><br />Step 5<br /><ul><li><span class=\"concept\" data-cid=\"12292\">refer people to a specialist in asthma care</span> when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602b.png\" data-fancybox=\"gallery\" data-caption=\"Algorithm showing pharmacological management of asthma in people aged 12 years and over\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Transferring people aged 12 and over from other treatment pathways</h5><br />There will be many people whose asthma was managed according to the previous guidelines that present with uncontrolled asthmatic symptoms. The guidelines give advice on how these people should be switched:  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Transferring%20people%20aged%2012%20and%20over%20from%20other%20treatment%20pathways,-These%20recommendations%20are' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Existing asthma treatment</th><th>New asthma treatment</th></tr></thead><tbody><tr><td>SABA as required only</td><td><span class=\"concept\" data-cid=\"12293\"> Low-dose ICS/formoterol combination inhaler used as needed (as-needed AIR therapy)</span></td></tr><tr><td>SABA as required + regular low-dose ICS<br />SABA as required + regular low-dose ICS/LABA <br />SABA as required + regular low-dose ICS + LTRA <br />SABA as required + regular low-dose ICS/LABA + LTRA</td><td><span class=\"concept\" data-cid=\"12294\">Regular low-dose regular ICS/formoterol combination inhaler (MART therapy)</span></td></tr><tr><td>SABA as required + regular moderate-dose ICS<br />SABA as required + regular moderate-dose ICS/LABA  <br />SABA as required + regular moderate-dose ICS + LTRA or LAMA<br />SABA as required + regular moderate-dose ICS/LABA + LTRA or LAMA</td><td>Regular moderate-dose MART therapy</td></tr><tr><td>Treatment regime containing a high-dose ICS</td><td>Refer to a respiratory specialist</td></tr></tbody></table></div>",
+        "notes_hash": "b11ce0ccb8c27014563f244a47ea595b",
+        "knowledge_graph_node_id_link": 11377,
+        "concept": "Asthma: adults not controlled on moderate-dose MART - if either FeNO level or blood eosinophil raised then &rarr; refer to a respiratory specialist",
+        "concept_percentile": "35",
+        "concept_colour": "rgb(255,178,0)",
+        "number_attempts": "416",
+        "up_votes": "1",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "100",
+            "47",
+            "65",
+            "202",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2123\" data-linkid=\"2123\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2123\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">48</span><button type=\"button\" style=\"\" id=\"link_dislike_2123\" data-linkid=\"2123\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2123\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng245/chapter/Recommendations\">2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hjdIyyC8T-E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\">Inhaler and Nebuliser Explanation</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_225\" data-mediaid=\"225\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_225\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_225\" data-mediaid=\"225\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_225\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "12286": {
+                "concept_text": "Asthma: adults and children \u2265 12 years first-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler as required",
+                "concept_percentile": "55"
+            },
+            "12287": {
+                "concept_text": "Asthma: adults and children \u2265 12 years second-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler regularly and as required (MART)",
+                "concept_percentile": "35"
+            },
+            "12288": {
+                "concept_text": "Asthma: adults and children \u2265 12 years not controlled on low-dose MART --> moderate-dose MART\n",
+                "concept_percentile": "27"
+            },
+            "12289": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART --> check the FeNO level if available, and the blood eosinophil count",
+                "concept_percentile": "36"
+            },
+            "12290": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if either FeNO level or blood eosinophil raised then --> refer to a respiratory specialist",
+                "concept_percentile": "35"
+            },
+            "12291": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if neither FeNO level nor blood eosinophil raised -->  trial of either a LTRA or a LAMA",
+                "concept_percentile": "49"
+            },
+            "12292": {
+                "concept_text": "Refer adults to a respiratory specialist when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA",
+                "concept_percentile": "20"
+            },
+            "12294": {
+                "concept_text": "Adults with asthma who are poorly controlled on SABA prn + regularly ICS --> regular low-dose regular ICS/formoterol combination inhaler (MART therapy)",
+                "concept_percentile": "100"
+            },
+            "12295": {
+                "concept_text": "If an adult presents with highly symptomatic asthma (for example, regular nocturnal waking) or with a severe exacerbation then treat the acute symptoms and start MART",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2146",
+        "new_question_id": "3600",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1612",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Erythema toxicum neonatorum",
+            "Infantile acne",
+            "Milia",
+            "Molluscum contagiosum",
+            "Folliculitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A neonate is brought to your surgery because his mother has noticed some skin lesions on his face.  On examination there are multiple tiny white papules on the nose.  What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Milia</b>, which are benign, 1-2mm white or yellow papules caused by retention of keratin within the epidermis. They commonly present on the nose, chin, and cheeks of neonates, affecting up to 50% of newborns. These lesions are completely harmless and typically resolve spontaneously within the first few weeks to months of life without requiring any treatment.<br /><br /><b>Erythema toxicum neonatorum</b> is incorrect as this condition presents as erythematous macules and papules with surrounding erythema, often described as having a 'flea-bitten' appearance. Unlike milia, these lesions are typically yellow-white in colour and appear on the trunk, face, and extremities, usually developing 24-48 hours after birth.<br /><br /><b>Infantile acne</b> is incorrect as this condition typically presents later, usually between 3-6 months of age, and consists of inflammatory papules, pustules, and occasionally nodules. The lesions are red rather than white and are more widespread across the face.<br /><br /><b>Molluscum contagiosum</b> is incorrect as this viral infection causes dome-shaped, umbilicated papules that are typically larger (2-5mm) than milia. It is caused by a poxvirus and is uncommon in neonates, being more prevalent in older children and immunocompromised individuals.<br /><br /><b>Folliculitis</b> is incorrect as this represents inflammation of hair follicles, presenting as erythematous papules and pustules centred on hair follicles. The lesions are typically red and inflamed rather than the characteristic white appearance of milia, and they may be tender to touch.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A neonate is brought to your surgery because his mother has noticed some skin lesions on his face.  On examination there are multiple tiny white papules on the nose.  What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Milia</b>, which are benign, 1-2mm white or yellow papules caused by retention of keratin within the epidermis. They commonly present on the nose, chin, and cheeks of neonates, affecting up to 50% of newborns. These lesions are completely harmless and typically resolve spontaneously within the first few weeks to months of life without requiring any treatment.<br /><br /><b>Erythema toxicum neonatorum</b> is incorrect as this condition presents as erythematous macules and papules with surrounding erythema, often described as having a 'flea-bitten' appearance. Unlike milia, these lesions are typically yellow-white in colour and appear on the trunk, face, and extremities, usually developing 24-48 hours after birth.<br /><br /><b>Infantile acne</b> is incorrect as this condition typically presents later, usually between 3-6 months of age, and consists of inflammatory papules, pustules, and occasionally nodules. The lesions are red rather than white and are more widespread across the face.<br /><br /><b>Molluscum contagiosum</b> is incorrect as this viral infection causes dome-shaped, umbilicated papules that are typically larger (2-5mm) than milia. It is caused by a poxvirus and is uncommon in neonates, being more prevalent in older children and immunocompromised individuals.<br /><br /><b>Folliculitis</b> is incorrect as this represents inflammation of hair follicles, presenting as erythematous papules and pustules centred on hair follicles. The lesions are typically red and inflamed rather than the characteristic white appearance of milia, and they may be tender to touch.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Milia",
+        "body": "Milia are small, benign, keratin-filled cysts that typically appear around the face. They may appear at any age but are more common in newborns.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd379b.jpg\" data-fancybox=\"gallery\" data-caption=\"This image shows numerous 1\u20132 mm white, pearly papules clustered on the nasal bridge and cheeks of a neonate, characteristic of milia. These benign, superficial epidermal inclusion cysts are common in newborns, typically resolving spontaneously within weeks. No treatment or investigation is required unless atypical or persistent.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd379.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "54ed2a22d1682769b30a0360005233b0",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6974",
+        "up_votes": "27",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "411",
+            "661",
+            "5219",
+            "529",
+            "154",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "343_B_8",
+        "new_question_id": "2997",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1495",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Fluoxetine",
+            "Quetiapine",
+            "Psychological intervention",
+            "Advise regards lifestyle and diet",
+            "Amitriptyline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are on  GP rotation and you assess a 21-year-old student who says that he feels really low. He believes that this has been going on for approximately 6 months now. You perform a PHQ-9 questionnaire which show that he has persistent mild depression. The first line treatment in this situation is:",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "This question assesses your understanding of the treatment of mild depression. The first line treatment in mild depression is psychological intervention, usually accessed via an IAPT (Improving Access to Psychological Therapies) referral. <br /><br />The reality may well be that you also trial a Serotonin Specific Reuptake Inhibitor (SSRI) whilst the patient enters the waiting list. However the NICE guidelines clearly state that the first line is to consider an IAPT referral and so this is the best answer in this situation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are on  GP rotation and you assess a 21-year-old student who says that he feels really low. He believes that this has been going on for approximately 6 months now. You perform a PHQ-9 questionnaire which show that he has persistent mild depression. The first line treatment in this situation is:",
+        "correct_answer": "3",
+        "question_notes": "This question assesses your understanding of the treatment of mild depression. The first line treatment in mild depression is psychological intervention, usually accessed via an IAPT (Improving Access to Psychological Therapies) referral. <br /><br />The reality may well be that you also trial a Serotonin Specific Reuptake Inhibitor (SSRI) whilst the patient enters the waiting list. However the NICE guidelines clearly state that the first line is to consider an IAPT referral and so this is the best answer in this situation.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Depression: NICE guidelines on management",
+        "body": "NICE updated its depression guidelines in 2022. It now favours a simple classification of depression severity<br /><ul><li>'less severe' depression: encompasses what was previously termed subthreshold and mild depression<ul><li>a PHQ-9 score of < 16</li></ul></li><li>'more severe' depression: encompasses what was previously termed moderate and severe depression<ul><li>a PHQ-9 score of  \u2265 16</li></ul></li></ul><br />The NICE guidelines are long and contain many important principles about dealing with patients who have depression. The following is a very brief section highlighting key points.<br /><br /><h5 class='notes-heading'>Management of less severe depression</h5><br />NICE lists a large number of interventions that may be used first-line. It encourages us to discuss treatment options with patients to reach a shared decision. They recommend considering <i>'the least intrusive and least resource intensive treatment first'</i>. It also recommends not routinely offering <i>'<span class=\"concept\" data-cid=\"11932\">antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference</span>'.</i><br /><br />Treatment options, listed in order of preference by NICE<br /><ul><li><span class=\"concept\" data-cid=\"11931\">guided self-help</span></li><li>group cognitive behavioural therapy (CBT)</li><li>group behavioural activation (BA)</li><li>individual CBT</li><li>individual BA</li><li>group exercise</li><li>group mindfulness and meditation</li><li>interpersonal psychotherapy (IPT)</li><li><span class=\"concept\" data-cid=\"10936\">selective serotonin reuptake inhibitors (SSRIs)</span></li><li>counselling</li><li>short-term psychodynamic psychotherapy (STPP)</li></ul><br /><h5 class='notes-heading'>Management of more severe depression</h5><br />Again, NICE recommend a shared decision should be made. <br /><br />Treatment options, listed in order of preference by NICE<br /><ul><li><span class=\"concept\" data-cid=\"11930\">a combination of individual cognitive behavioural therapy (CBT) and an antidepressant</span></li><li>individual CBT</li><li>individual behavioural activation (BA)</li><li>antidepressant medication<ul><li>selective serotonin reuptake inhibitor (SSRI), or</li><li>serotonin-norepinephrine reuptake inhibitor (SNRI), or</li><li>another antidepressant if indicated based on previous clinical and treatment history</li></ul></li><li>individual problem-solving</li><li>counselling</li><li>short-term psychodynamic psychotherapy (STPP)</li><li>interpersonal psychotherapy (IPT)</li><li>guided self-help</li><li>group exercise</li></ul>",
+        "notes_hash": "32771c15b63d54530d9703ebd106ccff",
+        "knowledge_graph_node_id_link": 1186,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5569",
+        "up_votes": "34",
+        "down_votes": "40",
+        "column_array": [
+            0,
+            "1015",
+            "11",
+            "3796",
+            "722",
+            "25",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_802\" data-linkid=\"802\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_802\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_802\" data-linkid=\"802\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_802\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng222/chapter/Recommendations\">2022 Depression in adults: treatment and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tJQRsIbD110\" data-description=\"Depression Explained (Major Depressive Disorder)\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1374\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/tJQRsIbD110/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tJQRsIbD110\" data-description=\"Depression Explained (Major Depressive Disorder)\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1374\">Depression Explained (Major Depressive Disorder)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2418\" data-mediaid=\"2418\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2418\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2418\" data-mediaid=\"2418\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2418\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "10936": {
+                "concept_text": "SSRIs are the first-line antidepressant for 'less severe' depression",
+                "concept_percentile": "48"
+            },
+            "11932": {
+                "concept_text": "Antidepressant medication should not routinely be offered as first-line treatment for less severe depression, unless that is the person's preference",
+                "concept_percentile": "85"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4582_B_34",
+        "new_question_id": "15278",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "3384",
+        "notes_id_link": "1_2439",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Type I",
+            "Type II",
+            "Type III",
+            "Type IV",
+            "Type V",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old female is undergoing a routine cholecystectomy for recurrent gallstones. Her only comorbidity is end-stage renal disease, as a result of polycystic kidney disease. For this she is undergoing regular haemodialysis, three times a week. As part of her pre-operative assessment her American Society of Anaesthesiologists (ASA) classification must be calculated.<br /><br />What is her ASA classification?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "It is important to be aware of the ASA score as it is easily examinable during both written and clinical exams as it is a key assessment tool to stratify risk for patients undergoing surgery.<br /><br />ASA III refers to patients with a severe systemic disease. The ASA classification system specifically lists patients with end-stage renal disease undergoing regular dialysis within ASA III.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old female is undergoing a routine cholecystectomy for recurrent gallstones. Her only comorbidity is end-stage renal disease, as a result of polycystic kidney disease. For this she is undergoing regular haemodialysis, three times a week. As part of her pre-operative assessment her American Society of Anaesthesiologists (ASA) classification must be calculated.<br /><br />What is her ASA classification?",
+        "correct_answer": "3",
+        "question_notes": "It is important to be aware of the ASA score as it is easily examinable during both written and clinical exams as it is a key assessment tool to stratify risk for patients undergoing surgery.<br /><br />ASA III refers to patients with a severe systemic disease. The ASA classification system specifically lists patients with end-stage renal disease undergoing regular dialysis within ASA III.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "American Society of Anaesthesiologists (ASA) classification",
+        "body": "<div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>ASA Classification</th><th>Definition</th><th>Examples</th></tr></thead><tbody><tr><td>ASA I</td><td>A normal healthy patient</td><td>Healthy, non-smoking, no or minimal alcohol use</td></tr><tr><td>ASA II</td><td>A patient with mild systemic disease</td><td>Mild diseases only without substantive functional limitations. Examples include (but not limited to): <span class=\"concept\" data-cid=\"3642\">current smoker</span>, social alcohol drinker, pregnancy, obesity (BMI 30 - 40), well-controlled Diabetes Mellitus/Hypertension, mild lung disease</td></tr><tr><td>ASA III</td><td>A patient with severe systemic disease</td><td>Substantive functional limitations; One or more moderate to severe diseases. Examples include (but not limited to): poorly controlled Diabetes Mellitus/Hypertension, COPD, morbid obesity <span class=\"concept\" data-cid=\"4896\">(BMI > 40)</span>, active hepatitis, alcohol dependence or abuse, implanted pacemaker, moderate reduction of ejection fraction, <span class=\"concept\" data-cid=\"3384\">End-Stage Renal Disease (ESRD) undergoing regularly scheduled dialysis</span>, history (>3 months) of Myocardial infarction, Cerebrovascular accidents</td></tr><tr><td>ASA IV</td><td>A patient with severe systemic disease that is a constant threat to life</td><td>Examples include (but not limited to): recent (< 3 months) of Myocardial infarction, Cerebrovascular accidents, ongoing cardiac ischaemia or severe valve dysfunction, severe reduction of ejection fraction, sepsis, DIC, ARD or ESRD not undergoing regularly scheduled dialysis</td></tr><tr><td>ASA V</td><td>A moribund patient who is not expected to survive without the operation</td><td>Examples include (but not limited to): ruptured abdominal/thoracic aneurysm, massive trauma, intra-cranial bleed with mass effect, ischaemic bowel in the face of significant cardiac pathology or multiple organ/system dysfunction</td></tr><tr><td>ASA VI</td><td>A declared brain-dead patient whose organs are being removed for donor purposes</td><td></td></tr></tbody></table></div>",
+        "notes_hash": "4ceaf00e81a44cd6d61c8e405f4b8bd7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Patients with end stage renal disease undergoing regular scheduled dialysis are classified as ASA III",
+        "concept_percentile": "34",
+        "concept_colour": "rgb(255,173,0)",
+        "number_attempts": "4618",
+        "up_votes": "19",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "63",
+            "385",
+            "2410",
+            "1593",
+            "167",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3384": {
+                "concept_text": "Patients with end stage renal disease undergoing regular scheduled dialysis are classified as ASA III",
+                "concept_percentile": "34"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_275",
+        "new_question_id": "31712",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11450",
+        "notes_id_link": "1_1088",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Afro-Caribbean origin",
+            "Alcohol-induced pain",
+            "Asymmetrical lymphadenopathy",
+            "Female sex",
+            "Night sweats",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old female of Afro-Caribbean origin presents to the oncology clinic following a referral by her general practitioner. She has been noticing some lumps on her neck that have been classified as painless, non-tender, asymmetrical lymphadenopathy. She complains of increasing night sweats and she noticed some pain when she drinks alcohol. <br /><br />Given the most likely diagnosis, which one of the following features is associated with a poor prognosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is night sweats. The patient is presenting with painless, non-tender, asymmetrical lymphadenopathy. These features are indicative of a diagnosis of Hodgkin's lymphoma. This malignancy can be associated or not with 'B' symptoms such as weight loss > 10% in the last 6 months, fever > 38\u00baC, and night sweats. The presence of at least one of these 'B' symptoms is associated with a poor prognosis. <br /><br />People of Afro-Caribbean origin have a worse prognosis in acute lymphoblastic leukaemia, but not in Hodgkin's lymphoma. That condition would present with bone marrow failure and it is typical of a paediatric population. <br /><br />Alcohol-induced pain is a characteristic that can help differentiate between Hodgkin's lymphoma and non-Hodgkin's lymphoma, being present only in some cases of the first type. But it has not been associated with a poor prognosis. <br /><br />Female sex has not been associated with poor prognosis. Some studies suggest that the male sex could be connected with a poorer outcome. <br /><br />Asymmetrical lymphadenopathy is a characteristic feature of of Hodgkin's lymphoma and it has not been associated with a worse prognosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old female of Afro-Caribbean origin presents to the oncology clinic following a referral by her general practitioner. She has been noticing some lumps on her neck that have been classified as painless, non-tender, asymmetrical lymphadenopathy. She complains of increasing night sweats and she noticed some pain when she drinks alcohol. <br /><br />Given the most likely diagnosis, which one of the following features is associated with a poor prognosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is night sweats. The patient is presenting with painless, non-tender, asymmetrical lymphadenopathy. These features are indicative of a diagnosis of Hodgkin's lymphoma. This malignancy can be associated or not with 'B' symptoms such as weight loss > 10% in the last 6 months, fever > 38\u00baC, and night sweats. The presence of at least one of these 'B' symptoms is associated with a poor prognosis. <br /><br />People of Afro-Caribbean origin have a worse prognosis in acute lymphoblastic leukaemia, but not in Hodgkin's lymphoma. That condition would present with bone marrow failure and it is typical of a paediatric population. <br /><br />Alcohol-induced pain is a characteristic that can help differentiate between Hodgkin's lymphoma and non-Hodgkin's lymphoma, being present only in some cases of the first type. But it has not been associated with a poor prognosis. <br /><br />Female sex has not been associated with poor prognosis. Some studies suggest that the male sex could be connected with a poorer outcome. <br /><br />Asymmetrical lymphadenopathy is a characteristic feature of of Hodgkin's lymphoma and it has not been associated with a worse prognosis.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Hodgkin's lymphoma: histological classification and prognosis",
+        "body": "Hodgkin's lymphoma is a malignant proliferation of lymphocytes characterised by the presence of the Reed-Sternberg cell. It has a bimodal age distributions being most common in the third and seventh decades<br /><br />Histological classification<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type</b></th><th><b>Frequency</b></th><th><b>Prognosis</b></th><th><b>Notes</b></th></tr></thead><tbody><tr><td>Nodular sclerosing</td><td><span class=\"concept\" data-cid=\"171\">Most common</span> (around 70%)</td><td>Good prognosis</td><td>More common in women. Associated with lacunar cells</td></tr><tr><td>Mixed cellularity</td><td>Around 20%</td><td>Good prognosis</td><td>Associated with a large number of Reed-Sternberg cells</td></tr><tr><td>Lymphocyte predominant</td><td>Around 5%</td><td><span class=\"concept\" data-cid=\"170\">Best prognosis</span></td><td></td></tr><tr><td>Lymphocyte depleted</td><td>Rare</td><td>Worst prognosis</td><td></td></tr></tbody></table></div><br /><span class=\"concept\" data-cid=\"11450\">'B' symptoms also imply a poor prognosis</span><br /><ul><li>weight loss > 10% in last 6 months</li><li>fever > 38\u00baC</li><li>night sweats</li></ul><br />Other factors associated with a poor prognosis identified in a 1998 NEJM paper included:<br /><ul><li>age > 45 years</li><li>stage IV disease</li><li>haemoglobin < 10.5 g/dl</li><li>lymphocyte count < 600/\u00b5l or < 8%</li><li>male</li><li>albumin < 40 g/l</li><li>white blood count > 15,000/\u00b5l</li></ul>",
+        "notes_hash": "fac93e4388cda58349a3a7fcfc1d9ed2",
+        "knowledge_graph_node_id_link": 1193,
+        "concept": "'B' symptoms in Hodgkin's lymphoma are associated with a poor prognosis<br /><ul><li>weight loss > 10% in last 6 months</li><li>fever > 38\u00baC</li><li>night sweats</li></ul>",
+        "concept_percentile": "87",
+        "concept_colour": "rgb(66,255,0)",
+        "number_attempts": "5664",
+        "up_votes": "37",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "562",
+            "850",
+            "1473",
+            "182",
+            "2597",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RwkpHQhWXZk\" data-description=\"Hodgkin\u00e2\u20ac\u2122s Disease - Diagnosis & Treatment\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"748\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RwkpHQhWXZk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RwkpHQhWXZk\" data-description=\"Hodgkin\u00e2\u20ac\u2122s Disease - Diagnosis & Treatment\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"748\">Hodgkin\u00e2\u20ac\u2122s Disease - Diagnosis & Treatment</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1309\" data-mediaid=\"1309\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1309\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1309\" data-mediaid=\"1309\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1309\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2I4GsJbJHSM\" data-description=\"Hodgkin\u00e2\u20ac\u2122s lymphoma\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"747\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/2I4GsJbJHSM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/2I4GsJbJHSM\" data-description=\"Hodgkin\u00e2\u20ac\u2122s lymphoma\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"747\">Hodgkin\u00e2\u20ac\u2122s lymphoma</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1304\" data-mediaid=\"1304\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1304\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1304\" data-mediaid=\"1304\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1304\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PLNUPbfbtew\" data-description=\"Hodgkin's lymphoma\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1507\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/PLNUPbfbtew/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PLNUPbfbtew\" data-description=\"Hodgkin's lymphoma\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1507\">Hodgkin's lymphoma</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2652\" data-mediaid=\"2652\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2652\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2652\" data-mediaid=\"2652\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2652\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oZNffefxFj4\" data-description=\"Hodgkin\u00e2\u20ac\u2122s Lymphoma Mnemonic\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"749\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/oZNffefxFj4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oZNffefxFj4\" data-description=\"Hodgkin\u00e2\u20ac\u2122s Lymphoma Mnemonic\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"749\">Hodgkin\u00e2\u20ac\u2122s Lymphoma Mnemonic</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1308\" data-mediaid=\"1308\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1308\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1308\" data-mediaid=\"1308\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1308\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "11450": {
+                "concept_text": "'B' symptoms in Hodgkin's lymphoma are associated with a poor prognosis\n   - weight loss > 10% in last 6 months\n   - fever > 38\u00baC\n   - night sweats",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "17652_B_214",
+        "new_question_id": "29651",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "1483",
+        "notes_id_link": "1_1800",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral aciclovir only",
+            "Oral prednisolone and artificial tears",
+            "Oral prednisolone, oral aciclovir and artificial tears",
+            "Reassurance only with advice to return if symptoms have not resolved in 2 weeks",
+            "Urgent referral to ENT",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old man presents to his GP with right-sided facial weakness. He reports that the right side of his face is much weaker in comparison to his left. This is particularly noticeable when smiling or chewing. The patient has also noticed occasional twitching of his right cheek. This came on 2 days ago, after a flu-like illness. He reports that it is already starting to become less prominent.<br /><br />On examination, the entire right side of his face, including his forehead, has mild impairment of the facial muscles. Otoscopy is normal, examination of the eye is unremarkable and the remainder of a cranial nerve exam and upper limb neurological exam is normal. <br /><br />Given the likely diagnosis, what is the recommended management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This man presents with the classical description of Bell's palsy. He has a unilateral facial weakness, which follows a lower motor neuron pattern with the forehead affected. Bell's palsy can present on a spectrum, with patients noticing anything from mild weakness with twitching to full paralysis. <br /><br />It is important to differentiate Bell's palsy from a cerebral event and Ramsay-Hunt syndrome.  A normal cranial nerve exam and upper limb neurological exam points away from a cerebral event, and lack of rash and normal otoscopy point away from Ramsay-Hunt syndrome. Equally, the fact he presented following an upper respiratory tract infection makes Bell's palsy more likely. <br /><br />All patients with Bell's palsy should be offered oral prednisolone if they have presented within 3 days of onset. This should be given regardless of severity, and regardless of any improvement since onset. Eye protection, with either lid taping or lubricating eye drops (artificial tears), should be considered too. Therefore, the correct answer is oral prednisolone and artificial tears. <br /><br />Oral aciclovir alone is incorrect, as it omits both steroids and eye protection which are required. Anti-viral medication can be considered for Bell's palsy, but are not given routinely as they have a relatively small chance of being beneficial. <br /><br />Oral prednisolone, oral aciclovir and artificial tears are incorrect as explained above, there is no indication to add in an anti-viral. <br /><br />Reassurance only and advice to return if symptoms have not resolved in 2 weeks is incorrect as he has presented within the 72 hours window and therefore can be given treatment. Whilst the condition is likely to resolve within 2 weeks even without treatment, it would be inappropriate to not offer an intervention. <br /><br />An urgent referral to ENT is inappropriate here as the diagnosis can be made for certain and management offered in primary care. A non-urgent referral to ENT may be mandated for a severe or prolonged episode, treatment-refractory palsy, or where the diagnosis is not clear.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old man presents to his GP with right-sided facial weakness. He reports that the right side of his face is much weaker in comparison to his left. This is particularly noticeable when smiling or chewing. The patient has also noticed occasional twitching of his right cheek. This came on 2 days ago, after a flu-like illness. He reports that it is already starting to become less prominent.<br /><br />On examination, the entire right side of his face, including his forehead, has mild impairment of the facial muscles. Otoscopy is normal, examination of the eye is unremarkable and the remainder of a cranial nerve exam and upper limb neurological exam is normal. <br /><br />Given the likely diagnosis, what is the recommended management?",
+        "correct_answer": "2",
+        "question_notes": "This man presents with the classical description of Bell's palsy. He has a unilateral facial weakness, which follows a lower motor neuron pattern with the forehead affected. Bell's palsy can present on a spectrum, with patients noticing anything from mild weakness with twitching to full paralysis. <br /><br />It is important to differentiate Bell's palsy from a cerebral event and Ramsay-Hunt syndrome.  A normal cranial nerve exam and upper limb neurological exam points away from a cerebral event, and lack of rash and normal otoscopy point away from Ramsay-Hunt syndrome. Equally, the fact he presented following an upper respiratory tract infection makes Bell's palsy more likely. <br /><br />All patients with Bell's palsy should be offered oral prednisolone if they have presented within 3 days of onset. This should be given regardless of severity, and regardless of any improvement since onset. Eye protection, with either lid taping or lubricating eye drops (artificial tears), should be considered too. Therefore, the correct answer is oral prednisolone and artificial tears. <br /><br />Oral aciclovir alone is incorrect, as it omits both steroids and eye protection which are required. Anti-viral medication can be considered for Bell's palsy, but are not given routinely as they have a relatively small chance of being beneficial. <br /><br />Oral prednisolone, oral aciclovir and artificial tears are incorrect as explained above, there is no indication to add in an anti-viral. <br /><br />Reassurance only and advice to return if symptoms have not resolved in 2 weeks is incorrect as he has presented within the 72 hours window and therefore can be given treatment. Whilst the condition is likely to resolve within 2 weeks even without treatment, it would be inappropriate to not offer an intervention. <br /><br />An urgent referral to ENT is inappropriate here as the diagnosis can be made for certain and management offered in primary care. A non-urgent referral to ENT may be mandated for a severe or prolonged episode, treatment-refractory palsy, or where the diagnosis is not clear.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Bell's palsy",
+        "body": "Bell's palsy may be defined as an acute, unilateral, idiopathic, facial nerve paralysis. The aetiology is unknown although the role of the herpes simplex virus has been investigated previously. The peak incidence is 20-40 years and the condition is more common in pregnant women.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"5053\">lower motor neuron facial nerve palsy &rarr; forehead affected</span><ul><li>in contrast, an upper motor neuron lesion 'spares' the upper face</li></ul></li><li>patients may also notice <ul><li>post-auricular pain (may precede paralysis)</li><li>altered taste</li><li>dry eyes</li><li>hyperacusis</li></ul></li></ul><br />Management<br /><ul><li>in the past a variety of treatment options have been proposed including no treatment, prednisolone only and a combination of antivirals and prednisolone</li><li>there is consensus that all patients should receive oral prednisolone within 72 hours of onset of Bell's palsy</li><li>there is an ongoing debate as to the value of adding in antiviral medications #link26 <ul><li>Antiviral treatments alone are not recommended</li><li>UpToDate recommends the addition of antivirals for severe facial palsy</li></ul></li><li><span class=\"concept\" data-cid=\"11758\">eye care</span> is important to prevent exposure keratopathy<ul><li>prescription of artificial tears and eye lubricants should be considered</li><li>If they are unable to close the eye at bedtime, they should tape it closed using microporous tape</li></ul></li></ul><br />Follow-up<br /><ul><li>if the paralysis shows no sign of improvement after <concepts1970>3 weeks, refer urgently to ENT</span></li><li>a referral to <span class=\"concept\" data-cid=\"1150\">plastic surgery</span> may be appropriate for patients with more long-standing weakness e.g. several months</li></ul><br />Prognosis<br /><ul><li>most people with Bell's palsy make a <span class=\"concept\" data-cid=\"1965\">full recovery within 3-4 months</span></li><li>if untreated around 15% of patients have permanent moderate to severe weakness</li></ul>",
+        "notes_hash": "59ca8ed5a5b140eef0bfdbdbbbf96db4",
+        "knowledge_graph_node_id_link": 1143,
+        "concept": "All patients with a Bell's palsy should be given oral prednisolone within 72 hours of onset",
+        "concept_percentile": "74",
+        "concept_colour": "rgb(132,255,0)",
+        "number_attempts": "4641",
+        "up_votes": "13",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "141",
+            "3287",
+            "731",
+            "365",
+            "117",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ic1hKbk4CKc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ic1hKbk4CKc\" data-description=\"Bell's palsy\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"553\">Bell's palsy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_944\" data-mediaid=\"944\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_944\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_944\" data-mediaid=\"944\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_944\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "5053": {
+                "concept_text": "Bell's palsy is a lower motor neuron condition. Unlike UMN conditions of the face, in LMN conditions the entire side of the patients face is affected",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2111",
+        "new_question_id": "61192",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "11101",
+        "notes_id_link": "1_503",
+        "theme": "Next investigation for suspected NAFLD",
+        "instruction": "",
+        "options": [
+            "",
+            "Liver biopsy",
+            "Abdominal CT scan",
+            "Viral hepatitis screen",
+            "Enhanced Liver Fibrosis (ELF) test",
+            "FibroScan (transient elastography)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 48-year-old man with a BMI of 34 kg/m\u00b2 and type 2 diabetes has an abdominal ultrasound for vague discomfort, revealing diffuse fatty infiltration of the liver. His alcohol intake is minimal.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>ALT</td><td>85 IU/L</td><td>(5 - 40)</td></tr><tr><td>AST</td><td>52 IU/L</td><td>(5 - 40)</td></tr><tr><td>ALP</td><td>110 IU/L</td><td>(30 - 130)</td></tr><tr><td>Bilirubin</td><td>15 \u00b5mol/L</td><td>(< 21)</td></tr></tbody></table></div><br />Select the single most appropriate investigation from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Enhanced Liver Fibrosis (ELF) test</b> is the correct answer. This patient has multiple risk factors for non-alcoholic fatty liver disease (NAFLD), including obesity (BMI 34) and type 2 diabetes. The ultrasound finding of fatty infiltration confirms the diagnosis of hepatic steatosis. The liver function tests show a raised ALT, which is greater than the AST, a pattern characteristic of NAFLD. According to UK NICE guidelines (NG49), once NAFLD is suspected (typically from an ultrasound finding), the next step is to assess for advanced fibrosis, as this determines prognosis and the need for specialist referral. The NICE-recommended first-line investigation for this is the Enhanced Liver Fibrosis (ELF) blood test. This is a non-invasive test that combines three serum markers to generate a score, which correlates with the degree of liver fibrosis. A high score would prompt referral to a hepatologist for further assessment, which may include a liver biopsy.<br /><br /><b>Liver biopsy</b> is incorrect at this stage. While it is considered the gold standard for staging liver fibrosis, it is an invasive procedure with associated risks such as bleeding, pain, and, rarely, death. It is therefore reserved for patients in whom non-invasive tests (like the ELF test or FibroScan) suggest the presence of advanced fibrosis or where there is diagnostic uncertainty. It is not the initial investigation for assessing fibrosis in a patient with newly diagnosed NAFLD.<br /><br /><b>Abdominal CT scan</b> is not the most appropriate next investigation. An ultrasound has already been performed and has demonstrated fatty infiltration. While a CT scan can also show hepatic steatosis, it is less sensitive than ultrasound, involves radiation exposure, and is not the recommended modality for assessing the degree of liver fibrosis. Specific non-invasive blood tests or elastography are superior for this purpose.<br /><br /><b>Viral hepatitis screen</b> is an important investigation in the workup of any patient with abnormal liver function tests to exclude common alternative causes. However, in this specific scenario, the patient has a constellation of features (obesity, type 2 diabetes, ultrasound findings) that make NAFLD the overwhelmingly likely diagnosis. While a viral screen should be performed as part of the overall assessment, the most critical next step to guide management of the confirmed NAFLD is to assess for fibrosis using the NICE-recommended pathway, which starts with the ELF test.<br /><br /><b>FibroScan (transient elastography)</b> is a strong distractor and a valid non-invasive method for assessing liver stiffness, which correlates with fibrosis. It is widely used in UK clinical practice. However, the 2016 NICE guidelines on NAFLD specifically recommend using the ELF test as the initial investigation to assess for advanced fibrosis. FibroScan is recommended for patients with an indeterminate ELF test result or as an alternative in centres where the ELF test is not available. Therefore, the ELF test is the single most appropriate first choice according to national guidance.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 48-year-old man with a BMI of 34 kg/m\u00b2 and type 2 diabetes has an abdominal ultrasound for vague discomfort, revealing diffuse fatty infiltration of the liver. His alcohol intake is minimal.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>ALT</td><td>85 IU/L</td><td>(5 - 40)</td></tr><tr><td>AST</td><td>52 IU/L</td><td>(5 - 40)</td></tr><tr><td>ALP</td><td>110 IU/L</td><td>(30 - 130)</td></tr><tr><td>Bilirubin</td><td>15 \u00b5mol/L</td><td>(< 21)</td></tr></tbody></table></div><br />Select the single most appropriate investigation from the options below.",
+        "correct_answer": "4",
+        "question_notes": "<b>Enhanced Liver Fibrosis (ELF) test</b> is the correct answer. This patient has multiple risk factors for non-alcoholic fatty liver disease (NAFLD), including obesity (BMI 34) and type 2 diabetes. The ultrasound finding of fatty infiltration confirms the diagnosis of hepatic steatosis. The liver function tests show a raised ALT, which is greater than the AST, a pattern characteristic of NAFLD. According to UK NICE guidelines (NG49), once NAFLD is suspected (typically from an ultrasound finding), the next step is to assess for advanced fibrosis, as this determines prognosis and the need for specialist referral. The NICE-recommended first-line investigation for this is the Enhanced Liver Fibrosis (ELF) blood test. This is a non-invasive test that combines three serum markers to generate a score, which correlates with the degree of liver fibrosis. A high score would prompt referral to a hepatologist for further assessment, which may include a liver biopsy.<br /><br /><b>Liver biopsy</b> is incorrect at this stage. While it is considered the gold standard for staging liver fibrosis, it is an invasive procedure with associated risks such as bleeding, pain, and, rarely, death. It is therefore reserved for patients in whom non-invasive tests (like the ELF test or FibroScan) suggest the presence of advanced fibrosis or where there is diagnostic uncertainty. It is not the initial investigation for assessing fibrosis in a patient with newly diagnosed NAFLD.<br /><br /><b>Abdominal CT scan</b> is not the most appropriate next investigation. An ultrasound has already been performed and has demonstrated fatty infiltration. While a CT scan can also show hepatic steatosis, it is less sensitive than ultrasound, involves radiation exposure, and is not the recommended modality for assessing the degree of liver fibrosis. Specific non-invasive blood tests or elastography are superior for this purpose.<br /><br /><b>Viral hepatitis screen</b> is an important investigation in the workup of any patient with abnormal liver function tests to exclude common alternative causes. However, in this specific scenario, the patient has a constellation of features (obesity, type 2 diabetes, ultrasound findings) that make NAFLD the overwhelmingly likely diagnosis. While a viral screen should be performed as part of the overall assessment, the most critical next step to guide management of the confirmed NAFLD is to assess for fibrosis using the NICE-recommended pathway, which starts with the ELF test.<br /><br /><b>FibroScan (transient elastography)</b> is a strong distractor and a valid non-invasive method for assessing liver stiffness, which correlates with fibrosis. It is widely used in UK clinical practice. However, the 2016 NICE guidelines on NAFLD specifically recommend using the ELF test as the initial investigation to assess for advanced fibrosis. FibroScan is recommended for patients with an indeterminate ELF test result or as an alternative in centres where the ELF test is not available. Therefore, the ELF test is the single most appropriate first choice according to national guidance.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Non-alcoholic fatty liver disease",
+        "body": "Non-alcoholic fatty liver disease (NAFLD) is now the most common cause of liver disease in the developed world. It is largely caused by obesity and describes a spectrum of disease ranging from:<br /><ul><li>steatosis - fat in the liver</li><li>steatohepatitis - fat with inflammation, non-alcoholic steatohepatitis (NASH), see below</li><li>progressive disease may cause fibrosis and liver cirrhosis</li></ul><br />NAFLD is thought to represent the hepatic manifestation of the metabolic syndrome and hence <span class=\"concept\" data-cid=\"721\">insulin resistance</span> is thought to be the key mechanism leading to steatosis.<br /><br />Non-alcoholic steatohepatitis (NASH) is a term used to describe liver changes similar to those seen in alcoholic hepatitis in the absence of a history of alcohol abuse. It is relatively common and thought to affect around 3-4% of the general population. The progression of disease in patients with NASH may be responsible for a proportion of patients previously labelled as cryptogenic cirrhosis.<br /><br />Associated factors<br /><ul><li><span class=\"concept\" data-cid=\"11101\">obesity</span></li><li><span class=\"concept\" data-cid=\"721\">type 2 diabetes mellitus</span></li><li>hyperlipidaemia</li><li>jejunoileal bypass</li><li><span class=\"concept\" data-cid=\"4462\">sudden weight loss/starvation</span></li></ul><br />Features<br /><ul><li>usually asymptomatic</li><li>hepatomegaly</li><li><span class=\"concept\" data-cid=\"3981\">ALT is typically greater than AST</span></li><li>increased echogenicity on ultrasound</li></ul><br />NICE produced guidelines on the investigation and management of NAFLD in 2016. Key points:<br /><ul><li>there is no evidence to support screening for NAFLD in adults, even in at risk groups (e.g. type 2 diabetes)</li><li>the guidelines are therefore based on the management of the <i>incidental</i> finding of NAFLD - typically asymptomatic fatty changes on liver ultrasound</li><li>in these patients, NICE recommends the use of the <span class=\"concept\" data-cid=\"8322\">enhanced liver fibrosis (ELF)</span> blood test to check for advanced fibrosis</li><li>the ELF blood test is a combination of hyaluronic acid + procollagen III + tissue inhibitor of metalloproteinase 1. An algorithm based on these values results in an ELF blood test score, similar to triple testing for Down's syndrome</li></ul><br />An excellent review by Byrne et Al<sup>1</sup> in 2018 reviewed the diagnosis and monitoring of NAFLD. It made the following suggestions if the ELF blood test was not available:<br /><ul><li>non-invasive tests may be used to assess the severity of fibrosis</li><li>these include the FIB4 score or NALFD fibrosis score</li><li>these scores may be used in combination with a FibroScan (liver stiffness measurement assessed with transient elastography)</li><li>this combination has been shown to have excellent accuracy in predicting fibrosis</li></ul><br />Patients who are likely to have advanced fibrosis should be referred to a liver specialist. They will then likely have a liver biopsy to stage the disease more accurately.<br /><br />Management<br /><ul><li>the mainstay of treatment is lifestyle changes (particularly <span class=\"concept\" data-cid=\"3604\">weight loss</span>) and monitoring</li><li>there is ongoing research into the role of gastric banding and insulin-sensitising drugs (e.g. metformin, <span class=\"concept\" data-cid=\"1538\">pioglitazone</span>)</li></ul><br /><b>References</b><br />1. BMJ 2018;362:k2734",
+        "notes_hash": "d4be84bc5e5eebcf4269bd7fa71cb0f6",
+        "knowledge_graph_node_id_link": 1195,
+        "concept": "Obesity with abnormal LFTs - ? non-alcoholic fatty liver disease",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "378",
+        "up_votes": "2",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "10",
+            "13",
+            "29",
+            "148",
+            "178",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1206\" data-linkid=\"1206\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1206\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1206\" data-linkid=\"1206\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1206\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng49/chapter/Recommendations\">2016 Non-alcoholic fatty liver disease (NAFLD): assessment and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lGP9hNk64tg\" data-description=\"Understanding Non-Alcoholic Fatty Liver Disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1500\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/lGP9hNk64tg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lGP9hNk64tg\" data-description=\"Understanding Non-Alcoholic Fatty Liver Disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1500\">Understanding Non-Alcoholic Fatty Liver Disease</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2643\" data-mediaid=\"2643\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2643\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2643\" data-mediaid=\"2643\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2643\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/05/Non-alcoholic_fatty_liver_disease.webm\" data-description=\"Non-alcoholic fatty liver disease (NAFLD) - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"22\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/0/05/Non-alcoholic_fatty_liver_disease.webm\" data-description=\"Non-alcoholic fatty liver disease (NAFLD) - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"22\">Non-alcoholic fatty liver disease (NAFLD) - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_45\" data-mediaid=\"45\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_45\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_45\" data-mediaid=\"45\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_45\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "721": {
+                "concept_text": "T2DM with abnormal LFTs - ? non-alcoholic fatty liver disease",
+                "concept_percentile": "72"
+            },
+            "3604": {
+                "concept_text": "Weight loss is the best first line management for NAFLD",
+                "concept_percentile": "55"
+            },
+            "8322": {
+                "concept_text": "In patients with non-alcoholic fatty liver disease, enhanced liver fibrosis (ELF) testing is recommended to aid diagnosis of liver fibrosis",
+                "concept_percentile": "74"
+            },
+            "11101": {
+                "concept_text": "Obesity with abnormal LFTs - ? non-alcoholic fatty liver disease",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14688_B_394",
+        "new_question_id": "34044",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4054",
+        "notes_id_link": "1_2682",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Aciclovir",
+            "Amantadine",
+            "Cefotaxime",
+            "Fluconazole",
+            "Vancomycin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old woman presents to the Emergency Department with a two-day history of evolving fever, headache, vomiting and seizures. She has no past medical history of note and no allergies. A CT head identifies hypodensity of the left temporal lobe, while a lumbar puncture identifies:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Lymphocytes</td><td>57 cells/\u00b5L</td><td>(0-5 cells/\u00b5L)</td></tr><tr><td>Protein</td><td>92 mg/100 mL</td><td>(15-60 mg/100 mL)</td></tr><tr><td>Glucose</td><td>66 mg/100 mL</td><td>(50-80 mg/100 mL)</td></tr></tbody></table></div><br />Serum blood glucose is normal. A brain MRI is subsequently performed, showing prominent swelling and increased signal of the left temporal lobe and insular cortex. <br /><br />What medication must be urgently started in this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>aciclovir</b>. This patient is presenting with symptoms (fever, headache, vomiting and seizures) and investigation findings (the most sensitive being prominent swelling and increased signal of the brain on MRI) suggestive of encephalitis. As over 95% of encephalitis cases are caused by herpes simplex virus (HSV), IV aciclovir (works against HSV) should be started in all patients urgently. <br /><br /><b>Amantadine</b> is incorrect as this is an anti-viral agent used in the management of influenza. <br /><br /><b>Cefotaxime</b> is incorrect as this is often used for empirical therapy of suspected meningococcal disease.  <br /><br /><b>Fluconazole</b> is incorrect as this is an anti-fungal medication and encephalitis is unlikely to be caused by a fungal infection.  <br /><br /><b>Vancomycin</b> is incorrect as this is used in conjunction with cefotaxime for empirical treatment of suspected meningococcal disease in patients with prolonged or multiple use of other antibacterials in the last 3 months, or if travelled, in the last 3 months, to areas outside the UK with highly penicillin- and cephalosporin-resistant pneumococci.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old woman presents to the Emergency Department with a two-day history of evolving fever, headache, vomiting and seizures. She has no past medical history of note and no allergies. A CT head identifies hypodensity of the left temporal lobe, while a lumbar puncture identifies:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Lymphocytes</td><td>57 cells/\u00b5L</td><td>(0-5 cells/\u00b5L)</td></tr><tr><td>Protein</td><td>92 mg/100 mL</td><td>(15-60 mg/100 mL)</td></tr><tr><td>Glucose</td><td>66 mg/100 mL</td><td>(50-80 mg/100 mL)</td></tr></tbody></table></div><br />Serum blood glucose is normal. A brain MRI is subsequently performed, showing prominent swelling and increased signal of the left temporal lobe and insular cortex. <br /><br />What medication must be urgently started in this patient?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>aciclovir</b>. This patient is presenting with symptoms (fever, headache, vomiting and seizures) and investigation findings (the most sensitive being prominent swelling and increased signal of the brain on MRI) suggestive of encephalitis. As over 95% of encephalitis cases are caused by herpes simplex virus (HSV), IV aciclovir (works against HSV) should be started in all patients urgently. <br /><br /><b>Amantadine</b> is incorrect as this is an anti-viral agent used in the management of influenza. <br /><br /><b>Cefotaxime</b> is incorrect as this is often used for empirical therapy of suspected meningococcal disease.  <br /><br /><b>Fluconazole</b> is incorrect as this is an anti-fungal medication and encephalitis is unlikely to be caused by a fungal infection.  <br /><br /><b>Vancomycin</b> is incorrect as this is used in conjunction with cefotaxime for empirical treatment of suspected meningococcal disease in patients with prolonged or multiple use of other antibacterials in the last 3 months, or if travelled, in the last 3 months, to areas outside the UK with highly penicillin- and cephalosporin-resistant pneumococci.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Encephalitis",
+        "body": "Features<br /><ul><li>fever, headache, psychiatric symptoms, seizures, vomiting</li><li>focal features e.g. aphasia</li><li>peripheral lesions (e.g. cold sores) have no relation to the presence of HSV encephalitis</li></ul><br />Pathophysiology<br /><ul><li>HSV-1 is responsible for 95% of cases in adults</li><li>typically affects temporal and inferior frontal lobes</li></ul><br />Investigation<br /><ul><li>cerebrospinal fluid<ul><li>lymphocytosis</li><li>elevated protein</li><li><span class=\"concept\" data-cid=\"11939\">PCR for HSV, VZV and enteroviruses</span></li></ul></li><li>neuroimaging<ul><li>medial temporal and inferior frontal changes (e.g. petechial haemorrhages)</li><li>normal in one-third of patients</li><li>MRI is better</li></ul></li><li>EEG<ul><li>lateralised periodic discharges at 2 Hz</li></ul></li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4054\">intravenous aciclovir should be started in all cases of suspected encephalitis</span></li></ul>",
+        "notes_hash": "7f74dcc4ea77f23f3e6ccc42cc2316ff",
+        "knowledge_graph_node_id_link": 10853,
+        "concept": "Start aciclovir in all cases of suspected encephalitis",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "5306",
+        "up_votes": "33",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "4154",
+            "43",
+            "858",
+            "174",
+            "77",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "4054": {
+                "concept_text": "Start aciclovir in all cases of suspected encephalitis",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_116",
+        "new_question_id": "5504",
+        "question_type": "1",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1873",
+        "theme": "Respiratory pathogens",
+        "instruction": "For each of the following scenarios please select the most likely causative respiratory pathogen:",
+        "options": [
+            "",
+            "Adenovirus",
+            "Parainfluenza virus",
+            "<i>Haemophilus influenzae</i>",
+            "Pneumocystis jiroveci",
+            "Respiratory syncytial virus",
+            "<i>Mycoplasma pneumoniae</i>",
+            "Rhinovirus",
+            "<i>Legionella pneumophilia</i>",
+            "<i><i>Streptococcus</i> pneumoniae</i>",
+            "Influenza virus"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Common cold",
+            "S 45-qwsj-gdv kegcwj ozg vwnwdghk hfwmegfas",
+            "S 6-egflz-gdv ozg ak 'uzwklq', zsk jzafalak sfv ak gxx zwj xwwvk. Smkumdlslagf gx zwj uzwkl jwnwsdk tatsksd ujsucdwk sfv sf wphajslgjq ozwwrw."
+        ],
+        "answers": [
+            "7",
+            "9",
+            "5"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Common cold",
+        "correct_answer": "7",
+        "question_notes": "",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Respiratory pathogens",
+        "body": "The table below lists the more common respiratory pathogens:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Pathogen</b></th><th><b>Associated condition</b></th></tr></thead><tbody><tr><td>Respiratory syncytial virus</td><td>Bronchiolitis</td></tr><tr><td>Parainfluenza virus</td><td>Croup</td></tr><tr><td>Rhinovirus</td><td><span class=\"concept\" data-cid=\"8738\">Common cold</span></td></tr><tr><td>Influenza virus</td><td>Flu</td></tr><tr><td><i>Streptococcus pneumoniae</i></td><td>The most common cause of <span class=\"concept\" data-cid=\"8739\">community-acquired pneumonia</span></td></tr><tr><td><i>Haemophilus influenzae</i></td><td>Community-acquired pneumonia<br />Most common cause of <span class=\"concept\" data-cid=\"8741\">bronchiectasis exacerbations</span><br /><span class=\"concept\" data-cid=\"8742\">Acute epiglottitis</span></td></tr><tr><td><i>Staphylococcus aureus</i></td><td>Pneumonia, particularly <span class=\"concept\" data-cid=\"8740\">following influenza</span></td></tr><tr><td><i>Mycoplasma pneumoniae</i></td><td>Atypical pneumonia<br /><br />Flu-like symptoms classically precede a dry cough. Complications include haemolytic anaemia and erythema multiforme</td></tr><tr><td><i>Legionella pneumophilia</i></td><td>Atypical pneumonia<br /><br />Classically spread by air-conditioning systems, causes dry cough. Lymphopenia, deranged liver function tests and hyponatraemia may be seen</td></tr><tr><td>Pneumocystis jiroveci</td><td>Common cause of pneumonia in HIV patients. Typically patients have few chest signs and develop exertional dyspnoea</td></tr><tr><td><i>Mycobacterium tuberculosis</i></td><td>Causes tuberculosis. A wide range of presentations from asymptomatic to disseminated disease are possible. Cough, night sweats and weight loss may be seen</td></tr></tbody></table></div>",
+        "notes_hash": "49b542ee852fea31ca550b67167448bd",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4255",
+        "up_votes": "49",
+        "down_votes": "64",
+        "column_array": [
+            0,
+            "2756",
+            "2256",
+            "3150",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "8738": {
+                "concept_text": "Common cold - rhinovirus",
+                "concept_percentile": "43"
+            },
+            "8739": {
+                "concept_text": "Community-acquired pneumonia - <i>Streptococcus pneumoniae</i>",
+                "concept_percentile": "53"
+            },
+            "8740": {
+                "concept_text": "Pneumonia following influenza - <i>Staphylococcus aureus</i>",
+                "concept_percentile": "24"
+            },
+            "8741": {
+                "concept_text": "Exacerbation of bronchiectasis - <i>Haemophilus influenzae</i>",
+                "concept_percentile": "70"
+            },
+            "8742": {
+                "concept_text": "Acute epiglottitis - <i>Haemophilus influenzae</i>",
+                "concept_percentile": "44"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

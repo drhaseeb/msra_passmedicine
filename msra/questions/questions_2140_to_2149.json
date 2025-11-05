@@ -1,0 +1,896 @@
+[
+    {
+        "question_id": "4598_B_2",
+        "new_question_id": "15965",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4197",
+        "notes_id_link": "1_1509",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Iritis",
+            "Acute glaucoma",
+            "Keratitis",
+            "Conjunctivitis",
+            "Blepharitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 31-year-old lady presents to her GP with a red left eye. It is not painful but there is a gritty sensation, and she feels the need to blink to clear her vision. Vision is otherwise normal, there is no photophobia, and the pupil size is normal. She does report noticing a lot of discharge from that eye. She has also had a recent cold. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Conjunctivitis is a very common presentation in GP practice. Options 1, 2 and 3 would need urgent referral to the on-call ophthalmologist. <br /><br />Iritis would present with a red eye too but the patient would be in pain, have photophobia, a small or abnormal shaped pupil, and blurred vision.<br /><br />Acute glaucoma would present with severe eye pain, seeing halos, blurred vision, nausea and vomiting<br /><br />Keratitis can present with a painful, red eye, with tearing and discharge. Vision can be blurry and decreased, with some photophobia. Can be more common with contact lens wearers.<br /><br />Blepharitis would not involve the conjunctiva, it involves the eyelids. The eyes would be itchy, red and swollen, with some flaky skin around the eye.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old lady presents to her GP with a red left eye. It is not painful but there is a gritty sensation, and she feels the need to blink to clear her vision. Vision is otherwise normal, there is no photophobia, and the pupil size is normal. She does report noticing a lot of discharge from that eye. She has also had a recent cold. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Conjunctivitis is a very common presentation in GP practice. Options 1, 2 and 3 would need urgent referral to the on-call ophthalmologist. <br /><br />Iritis would present with a red eye too but the patient would be in pain, have photophobia, a small or abnormal shaped pupil, and blurred vision.<br /><br />Acute glaucoma would present with severe eye pain, seeing halos, blurred vision, nausea and vomiting<br /><br />Keratitis can present with a painful, red eye, with tearing and discharge. Vision can be blurry and decreased, with some photophobia. Can be more common with contact lens wearers.<br /><br />Blepharitis would not involve the conjunctiva, it involves the eyelids. The eyes would be itchy, red and swollen, with some flaky skin around the eye.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Infective conjunctivitis",
+        "body": "Conjunctivitis is the most common eye problem presenting to primary care. It is characterised by sore, red eyes associated with a sticky discharge<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Type</th><th>Features</th></tr></thead><tbody><tr><td><b>Bacterial conjunctivitis</b></td><td><span class=\"concept\" data-cid=\"3545\">Purulent discharge</span> <br />Eyes may be 'stuck together' in the morning)</td></tr><tr><td><b>Viral conjunctivitis</b></td><td>Serous discharge<br />Recent URTI<br />Preauricular lymph nodes</td></tr></tbody></table></div><br />Management of infective conjunctivitis<br /><ul><li>normally a self-limiting condition that usually settles without treatment within 1-2 weeks</li><li>topical antibiotic therapy is commonly offered to patients, e.g. Chloramphenicol. Chloramphenicol drops are given 2-3 hourly initially whereas chloramphenicol ointment is given qds initially</li><li>topical fusidic acid is an alternative and should be used for pregnant women. Treatment is twice daily</li><li>contact lens users<ul><li>topical fluoresceins should be used to identify any corneal staining</li><li>treatment as above</li><li><span class=\"concept\" data-cid=\"11753\">contact lens should not be worn</span> during an episode of conjunctivitis</li></ul></li><li>advice should be given not to share towels</li><li>school exclusion is not necessary</li></ul>",
+        "notes_hash": "16ce56853209bba2dea07111cabd4061",
+        "knowledge_graph_node_id_link": 1270,
+        "concept": "Red eye, gritty sensation in the eyes, swollen conjunctivae and discharge crusting the eyelashes indicates conjunctivitis ",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "4752",
+        "up_votes": "19",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "131",
+            "13",
+            "882",
+            "3090",
+            "636",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1629_B_21",
+        "new_question_id": "7001",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_234",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Idiopathic pulmonary fibrosis",
+            "Cystic fibrosis",
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)",
+            "Pulmonary embolism",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old male attends for spirometry testing after progressively worsening shortness of breath over the last year. He has a past medical history of asthma, chronic kidney disease and type 2 diabetes. He as a 18 pack year smoking history. Spirometry shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FEV1</td><td>0.62 litres</td></tr><tr><td>FVC</td><td>0.64 litres</td></tr><tr><td>Transfer factor</td><td>Reduced</td></tr><tr><td>Transfer coefficient</td><td>Reduced</td></tr></tbody></table></div><br />From the following options what is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Spirometry shows a restrictive picture with reduced transfer factor and coefficient.<br /><br />In idiopathic pulmonary fibrosis (IPF), lung expansion (and therefore FVC) and lung compliance (and therefore FEV1) are reduced, leading to a normal or increased FEV1/FVC ratio. The diffusion capacity is impaired, giving a reduced transfer factor (TLCO) and transfer coefficient (KCO).<br /><br />Cystic fibrosis (CF) is primarily an obstructive lung disease, with reduced FEV1/FVC ratio. Restrictive changes may appear later due to scarring. TLCO is often reduced, and KCO is usually reduced or variable depending on alveolar volume.<br /><br />Asthma and COPD are obstructive lung diseases and characteristically have reduced FEV1/FVC ratios.<br /><br />Pulmonary embolism (PE) produces reduced TLCO and KCO due to loss of perfused pulmonary capillary bed, but spirometry is typically normal rather than restrictive.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old male attends for spirometry testing after progressively worsening shortness of breath over the last year. He has a past medical history of asthma, chronic kidney disease and type 2 diabetes. He as a 18 pack year smoking history. Spirometry shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FEV1</td><td>0.62 litres</td></tr><tr><td>FVC</td><td>0.64 litres</td></tr><tr><td>Transfer factor</td><td>Reduced</td></tr><tr><td>Transfer coefficient</td><td>Reduced</td></tr></tbody></table></div><br />From the following options what is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "Spirometry shows a restrictive picture with reduced transfer factor and coefficient.<br /><br />In idiopathic pulmonary fibrosis (IPF), lung expansion (and therefore FVC) and lung compliance (and therefore FEV1) are reduced, leading to a normal or increased FEV1/FVC ratio. The diffusion capacity is impaired, giving a reduced transfer factor (TLCO) and transfer coefficient (KCO).<br /><br />Cystic fibrosis (CF) is primarily an obstructive lung disease, with reduced FEV1/FVC ratio. Restrictive changes may appear later due to scarring. TLCO is often reduced, and KCO is usually reduced or variable depending on alveolar volume.<br /><br />Asthma and COPD are obstructive lung diseases and characteristically have reduced FEV1/FVC ratios.<br /><br />Pulmonary embolism (PE) produces reduced TLCO and KCO due to loss of perfused pulmonary capillary bed, but spirometry is typically normal rather than restrictive.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Idiopathic pulmonary fibrosis",
+        "body": "Idiopathic pulmonary fibrosis (IPF, previously termed cryptogenic fibrosing alveolitis) is a chronic lung condition characterised by progressive fibrosis of the interstitium of the lungs. Whilst there are many causes of lung fibrosis (e.g. medications, connective tissue disease, asbestos) the term IPF is reserved when no underlying cause exists.<br /><br />IPF is typically seen in patients aged 50-70 years and is twice as common in men.<br /><br /><span class=\"concept\" data-cid=\"12041\">Features</span><br /><ul><li>progressive exertional dyspnoea</li><li><span class=\"concept\" data-cid=\"7862\">bibasal fine end-inspiratory crepitations on auscultation</span></li><li>dry cough</li><li>clubbing</li></ul><br />Diagnosis<br /><ul><li>spirometry: classically a <span class=\"concept\" data-cid=\"2880\">restrictive picture (FEV1 normal/decreased, FVC decreased, FEV1/FVC increased)</span></li><li>impaired gas exchange: reduced transfer factor (TLCO)</li><li>imaging: bilateral interstitial shadowing (typically small, irregular, peripheral opacities - 'ground-glass' - later progressing to 'honeycombing') may be seen on a chest x-ray but <span class=\"concept\" data-cid=\"4151\">high-resolution CT scanning is the investigation of choice</span> and required to make a diagnosis of IPF</li><li>ANA positive in 30%, rheumatoid factor positive in 10% but this does not necessarily mean that the fibrosis is secondary to a connective tissue disease. Titres are usually low</li></ul><br />Management<br /><ul><li>pulmonary rehabilitation</li><li>very few medications have been shown to give any benefit in IPF. There is some evidence that <span class=\"concept\" data-cid=\"9706\">pirfenidone (an antifibrotic agent) may be useful in selected patients</span> (see NICE guidelines)</li><li>many patients will require supplementary oxygen and eventually a lung transplant</li></ul><br />Prognosis<br /><ul><li>poor, average life expectancy is around 3-4 years</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb135b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest X-ray shows sub-pleural reticular opacities that increase from the apex to the bases of the lungs\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb135.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb209b.jpg\" data-fancybox=\"gallery\" data-caption=\"Idiopathic pulmonary fibrosis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb209.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb210b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest X-ray and CT scan from a patient who presented with dyspnoea. The x-ray shows reticular opacities predominantly in the bases. In addition the CT demonstrates honeycombing and traction bronchiectasis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb210.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb066b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT scan showing advanced pulmonary fibrosis including 'honeycombing'\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb066.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "d665c5a4cccbbb6d8c4ef521a86feb4c",
+        "knowledge_graph_node_id_link": 1071,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "1879",
+        "up_votes": "2",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "1339",
+            "31",
+            "36",
+            "465",
+            "8",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1313\" data-linkid=\"1313\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1313\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1313\" data-linkid=\"1313\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1313\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/2/146\"> Update in diagnosis and management of interstitial lung disease</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_625\" data-linkid=\"625\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_625\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_625\" data-linkid=\"625\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_625\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg163/chapter/1-recommendations\">2013 Idiopathic pulmonary fibrosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UlIXdyW03Os\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1251\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UlIXdyW03Os/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UlIXdyW03Os\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1251\">Idiopathic pulmonary fibrosis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2207\" data-mediaid=\"2207\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2207\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2207\" data-mediaid=\"2207\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2207\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/le9KH4Wxm74\" data-description=\"Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1203\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/le9KH4Wxm74/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/le9KH4Wxm74\" data-description=\"Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1203\">Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2110\" data-mediaid=\"2110\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2110\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_2110\" data-mediaid=\"2110\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2110\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2a/Idiopathic_Pulmonary_Fibrosis.webm\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"387\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2a/Idiopathic_Pulmonary_Fibrosis.webm\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"387\">Idiopathic pulmonary fibrosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_665\" data-mediaid=\"665\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_665\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_665\" data-mediaid=\"665\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_665\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2880": {
+                "concept_text": "Pulmonary fibrosis causes restrictive spirometry picture (FEV1:FVC >70%, decreased FVC) and impaired gas exchange (reduced TLCO)",
+                "concept_percentile": "48"
+            },
+            "9706": {
+                "concept_text": "Pirfenidone and nintedanib can be used as drug management options in idiopathic pulmonary fibrosis as they may decrease the functional decline, prolong survival and potentially reduce acute exacerbations",
+                "concept_percentile": "48"
+            },
+            "12041": {
+                "concept_text": "Older patient, progressive exertional dyspnoea, dry cough, clubbing, non-smoker --> ?idiopathic pulmonary fibrosis",
+                "concept_percentile": "46"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9735_B_11",
+        "new_question_id": "21169",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "2655",
+        "notes_id_link": "1_2083",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ciprofloxacin",
+            "Ethambutol",
+            "Isoniazid",
+            "Pyrazinamide",
+            "Rifampicin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 46-year-old male is reviewed in clinic. He has been recently diagnosed with pulmonary tuberculosis and started on medical treatment. He reports experiencing increasing abdominal discomfort since starting treatment and has also noticed that his urine appears very concentrated and bright, despite increasing his oral fluid intake.<br /><br />Which of the following drugs is most likely responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Rifampicin commonly causes orange-red colouration of the urine which is the 'concentrated and bright' appearance being referred to in this question. This colouration is benign and caused by the orange-red crystalline colour of rifampicin. Abdominal discomfort is also a common adverse effect. Other adverse effects include hepatotoxicity and flu-like symptoms.<br /><br />Ciprofloxacin is not a first line drug treatment for tuberculosis therefore it is unlikely to be causing these symptoms.<br /><br />Ethambutol is used for treatment of initial phase active tuberculosis. One of the serious adverse effects of this is optic neuritis therefore visual acuity should be checked before and during treatment.<br /><br />Isoniazid is used for treatment of initial and continuation phase active tuberculosis. Adverse effects include hepatitis, peripheral neuropathy and agranulocytosis.<br /><br />Pyrazinamide is used for treatment of initial phase active tuberculosis. Adverse effects include myalgia, arthralgia, hepatitis and hyperuricaemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 46-year-old male is reviewed in clinic. He has been recently diagnosed with pulmonary tuberculosis and started on medical treatment. He reports experiencing increasing abdominal discomfort since starting treatment and has also noticed that his urine appears very concentrated and bright, despite increasing his oral fluid intake.<br /><br />Which of the following drugs is most likely responsible?",
+        "correct_answer": "5",
+        "question_notes": "Rifampicin commonly causes orange-red colouration of the urine which is the 'concentrated and bright' appearance being referred to in this question. This colouration is benign and caused by the orange-red crystalline colour of rifampicin. Abdominal discomfort is also a common adverse effect. Other adverse effects include hepatotoxicity and flu-like symptoms.<br /><br />Ciprofloxacin is not a first line drug treatment for tuberculosis therefore it is unlikely to be causing these symptoms.<br /><br />Ethambutol is used for treatment of initial phase active tuberculosis. One of the serious adverse effects of this is optic neuritis therefore visual acuity should be checked before and during treatment.<br /><br />Isoniazid is used for treatment of initial and continuation phase active tuberculosis. Adverse effects include hepatitis, peripheral neuropathy and agranulocytosis.<br /><br />Pyrazinamide is used for treatment of initial phase active tuberculosis. Adverse effects include myalgia, arthralgia, hepatitis and hyperuricaemia.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Rifampicin",
+        "body": "Rifampicin is an antibiotic which is used to treat a variety of infections. It is frequently used to treat tuberculosis (in combination with other medications).<br /><br />Rifampicin can also be used for prophylaxis in those who have had close contact with tuberculosis or meningitis.<br /><br />Mechanism of action<br /><ul><li><span class=\"concept\" data-cid=\"9830\">inhibits bacterial DNA dependent RNA polymerase preventing transcription of DNA into mRNA</span></li></ul><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"9900\">potent CYP450 liver enzyme inducer</span></li><li><span class=\"concept\" data-cid=\"6996\">hepatitis</span></li><li><span class=\"concept\" data-cid=\"2655\">orange secretions</span></li><li>flu-like symptoms</li></ul>",
+        "notes_hash": "f9c2a9316f18505e322d19e3431fbc2e",
+        "knowledge_graph_node_id_link": 10874,
+        "concept": "Rifampicin can cause orange tears/urine",
+        "concept_percentile": "63",
+        "concept_colour": "rgb(188,255,0)",
+        "number_attempts": "6899",
+        "up_votes": "15",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "26",
+            "248",
+            "443",
+            "235",
+            "5947",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "2655": {
+                "concept_text": "Rifampicin can cause orange tears/urine",
+                "concept_percentile": "63"
+            },
+            "6996": {
+                "concept_text": "Rifampicin may cause hepatotoxicity",
+                "concept_percentile": "33"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1513",
+        "new_question_id": "5647",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1893",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tranexamic acid",
+            "Referral for relaxation therapy",
+            "Paracetamol",
+            "Combined oral contraceptive pill",
+            "Ibuprofen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 17-year-old girl presents due to painful periods. These have been present for the past three years and are associated with a normal amount of blood loss. Her periods are regular and there is no abnormal bleeding. She is not yet sexually active. What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Ibuprofen</b> is the correct answer and most appropriate first-line treatment for primary dysmenorrhoea in this case. NSAIDs like ibuprofen work by inhibiting prostaglandin synthesis, which is the primary mechanism causing menstrual pain. They are effective, well-tolerated, and have a strong evidence base. According to NICE guidelines, NSAIDs should be offered as first-line treatment for primary dysmenorrhoea, and ibuprofen specifically is recommended due to its favourable side effect profile and over-the-counter availability.<br /><br /><b>Tranexamic acid</b> is incorrect because it is primarily used to treat heavy menstrual bleeding (menorrhagia). This patient specifically has normal blood loss, making tranexamic acid inappropriate as a first-line treatment. While it can reduce menstrual blood loss by up to 50%, it has no direct effect on dysmenorrhoea.<br /><br /><b>Referral for relaxation therapy</b> is incorrect as a first-line treatment. While relaxation techniques may be helpful as an adjunct therapy, they should not be the primary intervention before simple analgesics have been tried. This would be over-medicalising the condition unnecessarily.<br /><br /><b>Paracetamol</b> is incorrect because, although it can provide some pain relief, it does not address the underlying prostaglandin-mediated mechanism of primary dysmenorrhoea. While it may be used in combination with NSAIDs, it is not as effective as NSAIDs when used alone.<br /><br /><b>Combined oral contraceptive pill</b> is incorrect as a first-line treatment. While the COCP can be very effective for managing dysmenorrhoea by suppressing ovulation and reducing prostaglandin production, it should be considered as a second-line treatment after NSAIDs have been tried. Additionally, prescribing hormonal contraception requires careful consideration of risks and benefits, and simpler treatments should be tried first.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 17-year-old girl presents due to painful periods. These have been present for the past three years and are associated with a normal amount of blood loss. Her periods are regular and there is no abnormal bleeding. She is not yet sexually active. What is the most appropriate first-line treatment?",
+        "correct_answer": "5",
+        "question_notes": "<b>Ibuprofen</b> is the correct answer and most appropriate first-line treatment for primary dysmenorrhoea in this case. NSAIDs like ibuprofen work by inhibiting prostaglandin synthesis, which is the primary mechanism causing menstrual pain. They are effective, well-tolerated, and have a strong evidence base. According to NICE guidelines, NSAIDs should be offered as first-line treatment for primary dysmenorrhoea, and ibuprofen specifically is recommended due to its favourable side effect profile and over-the-counter availability.<br /><br /><b>Tranexamic acid</b> is incorrect because it is primarily used to treat heavy menstrual bleeding (menorrhagia). This patient specifically has normal blood loss, making tranexamic acid inappropriate as a first-line treatment. While it can reduce menstrual blood loss by up to 50%, it has no direct effect on dysmenorrhoea.<br /><br /><b>Referral for relaxation therapy</b> is incorrect as a first-line treatment. While relaxation techniques may be helpful as an adjunct therapy, they should not be the primary intervention before simple analgesics have been tried. This would be over-medicalising the condition unnecessarily.<br /><br /><b>Paracetamol</b> is incorrect because, although it can provide some pain relief, it does not address the underlying prostaglandin-mediated mechanism of primary dysmenorrhoea. While it may be used in combination with NSAIDs, it is not as effective as NSAIDs when used alone.<br /><br /><b>Combined oral contraceptive pill</b> is incorrect as a first-line treatment. While the COCP can be very effective for managing dysmenorrhoea by suppressing ovulation and reducing prostaglandin production, it should be considered as a second-line treatment after NSAIDs have been tried. Additionally, prescribing hormonal contraception requires careful consideration of risks and benefits, and simpler treatments should be tried first.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Dysmenorrhoea",
+        "body": "Dysmenorrhoea is characterised by excessive pain during the menstrual period. It is traditionally divided into primary and secondary dysmenorrhoea.<br /><br /><h5 class='notes-heading'>Primary dysmenorrhoea</h5><br />In primary dysmenorrhoea there is no underlying pelvic pathology. It affects up to 50% of menstruating women and usually appears within 1-2 years of the menarche. Excessive endometrial prostaglandin production is thought to be partially responsible.<br /><br />Features<br /><ul><li>pain typically starts just before or within a few hours of the period starting</li><li>suprapubic cramping pains which may radiate to the back or down the thigh</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"2858\">NSAIDs such as mefenamic acid</span> and ibuprofen are effective in up to 80% of women. They work by inhibiting prostaglandin production</li><li>combined oral contraceptive pills are used second line</li></ul><br /><h5 class='notes-heading'>Secondary dysmenorrhoea</h5><br />Secondary dysmenorrhoea typically develops many years after the menarche and is the result of an underlying pathology. In contrast to primary dysmenorrhoea the pain usually starts 3-4 days before the onset of the period. Causes include:<br /><ul><li>endometriosis</li><li>adenomyosis</li><li>pelvic inflammatory disease</li><li>intrauterine devices*</li><li>fibroids</li></ul><br />NICE recommend <span class=\"concept\" data-cid=\"2859\">referring all patients with secondary dysmenorrhoea to gynaecology for investigation</span>.<br /><br />*this refers to normal copper coils. Note that the intrauterine system (Mirena) may help dysmenorrhoea",
+        "notes_hash": "f54cc5da133d2f330b2947f79d06b531",
+        "knowledge_graph_node_id_link": 10092,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5013",
+        "up_votes": "23",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "475",
+            "48",
+            "670",
+            "689",
+            "3131",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "2858": {
+                "concept_text": "NSAIDs such as mefenamic acid are the first line treatment for primary dysmenorrhoea",
+                "concept_percentile": "79"
+            },
+            "2859": {
+                "concept_text": "All patients with secondary dysmenorrhoea need to be referred to gynaecology for investigation",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_117",
+        "new_question_id": "5570",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "6307",
+        "notes_id_link": "1_1881",
+        "theme": "Overdose and poisoning: management",
+        "instruction": "For each of the following scenarios please select the most appropriate treatment:",
+        "options": [
+            "",
+            "N-acetylcysteine",
+            "Urinary alkalinization",
+            "Naloxone",
+            "Haemodialysis",
+            "Vitamin K",
+            "Fomepizole",
+            "Beta-blockers",
+            "IV bicarbonate",
+            "Flumazenil",
+            "Desferrioxamine"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 16-year-old girl presents after ingesting 32 paracetamol tablets",
+            "Z 72-xdzq-nkc vnlzm vgn szjdr vzqezqhm enq zsqhzk ehaqhkkzshnm hr szjdm sn sgd Dldqfdmbx Cdozqsldms ctd sn qdbszk akddchmf",
+            "Z 40-xdzq-nkc lzm oqdrdmsr zesdq szjhmf zm nudqcnrd ne zlhsqhosxkhmd. Ghr DBF nm zqqhuzk rgnvr vhcdmhmf ne sgd PQR bnlokdw"
+        ],
+        "answers": [
+            "1",
+            "5",
+            "8"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 16-year-old girl presents after ingesting 32 paracetamol tablets",
+        "correct_answer": "1",
+        "question_notes": "",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Overdose and poisoning: management",
+        "body": "The table below outlines the main management for common overdoses:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Toxin</b></th><th><b>Treatment</b></th></tr></thead><tbody><tr><td><b>Paracetamol</b></td><td>Management<br /><ul><li>activated charcoal if ingested < 1 hour ago</li><li><span class=\"concept\" data-cid=\"6307\">N-acetylcysteine (NAC)</span></li><li>liver transplantation</td></tr><tr><td></li></ul><b>Salicylate</b></td><td>Management<br /><ul><li>urinary alkalinization with IV bicarbonate</li><li><span class=\"concept\" data-cid=\"6308\">haemodialysis</span></td></tr><tr><td></li></ul><b>Opioid/opiates</b></td><td><span class=\"concept\" data-cid=\"6309\">Naloxone</span></td></tr><tr><td><b>Benzodiazepines</b></td><td><span class=\"concept\" data-cid=\"4623\">Flumazenil</span><br /><span class=\"concept\" data-cid=\"3588\">The majority of overdoses are managed with supportive care only due to the risk of seizures with flumazenil</span>. It is generally only used with severe or iatrogenic overdoses.</td></tr><tr><td><b>Tricyclic antidepressants</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6311\">IV bicarbonate</span> may reduce the risk of seizures and arrhythmias in severe toxicity</li><li>arrhythmias: class 1a (e.g. Quinidine) and class Ic antiarrhythmics (e.g. Flecainide) are contraindicated as they prolong depolarisation. Class III drugs such as amiodarone should also be avoided as they prolong the QT interval. Response to lignocaine is variable and it should be emphasized that correction of acidosis is the first line in management of tricyclic induced arrhythmias</li><li>dialysis is ineffective in removing tricyclics</td></tr><tr><td></li></ul><b>Lithium</b></td><td>Management<br /><ul><li>mild-moderate toxicity may respond to volume resuscitation with normal saline</li><li><span class=\"concept\" data-cid=\"6312\">haemodialysis</span> may be needed in severe toxicity</li><li>sodium bicarbonate is sometimes used but there is limited evidence to support this. By increasing the alkalinity of the urine it promotes lithium excretion</td></tr><tr><td></li></ul><b>Warfarin</b></td><td><span class=\"concept\" data-cid=\"6313\">Vitamin K</span>, prothrombin complex</td></tr><tr><td><b>Heparin</b></td><td><span class=\"concept\" data-cid=\"6314\">Protamine sulphate</span></td></tr><tr><td><b>Beta-blockers</b></td><td>Management<br /><ul><li>if bradycardic then <span class=\"concept\" data-cid=\"6315\">atropine</span></li><li>in resistant cases <span class=\"concept\" data-cid=\"6315\">glucagon</span> may be used</td></tr><tr><td></li></ul><b>Ethylene glycol</b></td><td>Management has changed in recent times<br /><ul><li><span class=\"concept\" data-cid=\"6316\">ethanol</span> has been used for many years</li><li>works by competing with ethylene glycol for the enzyme alcohol dehydrogenase</li><li>this limits the formation of toxic metabolites (e.g. Glycoaldehyde and glycolic acid) which are responsible for the haemodynamic/metabolic features of poisoning</li><li><span class=\"concept\" data-cid=\"6316\"><b>fomepizole</b></span>, an inhibitor of alcohol dehydrogenase, is now used first-line in preference to ethanol</li><li><span class=\"concept\" data-cid=\"6316\">haemodialysis</span> also has a role in refractory cases</td></tr><tr><td></li></ul><b>Methanol poisoning</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6317\">fomepizole or ethanol</span></li><li><span class=\"concept\" data-cid=\"6317\">haemodialysis</span></td></tr><tr><td></li></ul><b>Organophosphate insecticides</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6318\">atropine</span></li><li>the role of pralidoxime is still unclear - meta-analyses to date have failed to show any clear benefit</td></tr><tr><td></li></ul><b>Digoxin</b></td><td>Digoxin-specific antibody fragments</td></tr><tr><td><b>Iron</b></td><td><span class=\"concept\" data-cid=\"6319\">Desferrioxamine</span>, a chelating agent</td></tr><tr><td><b>Lead</b></td><td><span class=\"concept\" data-cid=\"6320\">Dimercaprol, calcium edetate</span></td></tr><tr><td><b>Carbon monoxide</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6321\">100% oxygen</span></li><li><span class=\"concept\" data-cid=\"6321\">hyperbaric oxygen</span></td></tr><tr><td></li></ul><b>Cyanide</b></td><td><span class=\"concept\" data-cid=\"6324\">Hydroxocobalamin</span>; also combination of <span class=\"concept\" data-cid=\"6323\">amyl nitrite, sodium nitrite, and sodium thiosulfate</span></td></tr></tbody></table></div>",
+        "notes_hash": "ab285f4004be6532969e64c86a5ae708",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Paracetamol - N-acetylcysteine (NAC)",
+        "concept_percentile": "1",
+        "concept_colour": "rgb(255,5,0)",
+        "number_attempts": "5159",
+        "up_votes": "47",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "5113",
+            "5096",
+            "3128",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_547\" data-linkid=\"547\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_547\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_547\" data-linkid=\"547\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_547\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/7/3/277\">2007 Acute poisoning on the medical admissions unit </a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1577\" data-linkid=\"1577\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1577\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1577\" data-linkid=\"1577\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1577\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/poisoning-emergency-treatment.html\">Emergency treatment of poisoning</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_595\" data-linkid=\"595\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_595\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_595\" data-linkid=\"595\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_595\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/3/280\">2012 Poisoning and self-harm update</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4623": {
+                "concept_text": "Severe benzodiazepine overdose is treated by flumazenil",
+                "concept_percentile": "27"
+            },
+            "6307": {
+                "concept_text": "Paracetamol - N-acetylcysteine (NAC)",
+                "concept_percentile": "1"
+            },
+            "6308": {
+                "concept_text": "Salicylate - supportive, haemodialysis if severe",
+                "concept_percentile": "43"
+            },
+            "6309": {
+                "concept_text": "Opiate - naloxone",
+                "concept_percentile": "33"
+            },
+            "6311": {
+                "concept_text": "Tricyclic antidepressant - supportive, IV bicarbonate",
+                "concept_percentile": "65"
+            },
+            "6312": {
+                "concept_text": "Lithium - supportive, haemodialysis if severe",
+                "concept_percentile": "63"
+            },
+            "6313": {
+                "concept_text": "Warfarin - vitamin K",
+                "concept_percentile": "26"
+            },
+            "6314": {
+                "concept_text": "Heparin - protamine sulphate",
+                "concept_percentile": "42"
+            },
+            "6315": {
+                "concept_text": "Beta-blocker - atropine, glucagon in resistant cases",
+                "concept_percentile": "50"
+            },
+            "6316": {
+                "concept_text": "Ethylene glycol - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "19"
+            },
+            "6317": {
+                "concept_text": "Methanol poisoning - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "36"
+            },
+            "6318": {
+                "concept_text": "Organophosphate insecticide - atropine",
+                "concept_percentile": "27"
+            },
+            "6319": {
+                "concept_text": "Iron - desferrioxamine",
+                "concept_percentile": "38"
+            },
+            "6320": {
+                "concept_text": "Lead - dimercaprol, calcium edetate",
+                "concept_percentile": "18"
+            },
+            "6321": {
+                "concept_text": "Carbon monoxide - 100% oxygen, hyperbaric oxygen",
+                "concept_percentile": "51"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12941_B_302",
+        "new_question_id": "41541",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11885",
+        "notes_id_link": "1_167",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Check vitamin D level",
+            "Intravenous calcium gluconate",
+            "Oral calcium carbonate",
+            "Oral levothyroxine",
+            "Oral magnesium aspartate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man is brought to the emergency department with a 10-day history of muscle cramping and fatigue. Blood tests are taken and an ECG is performed.<br /><br />Blood tests:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>140 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>3.7 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>28 mmol/L</td><td>(22 - 29)</td></tr><tr><td>Urea</td><td>6.2 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>95 \u00b5mol/L</td><td>(55 - 120)</td></tr><tr><td>Calcium</td><td>1.7 mmol/L</td><td>(2.1-2.6)</td></tr><tr><td>Phosphate</td><td>1.3 mmol/L</td><td>(0.8-1.4)</td></tr><tr><td>Magnesium</td><td>0.62 mmol/L</td><td>(0.7-1.0)</td></tr></tbody></table></div><br />The ECG demonstrates a regular sinus rhythm at a rate of 72 BPM. The QTc is calculated as 480ms.<br /><br />What is the next best management step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This scenario describes a 68-year-old man who has presented with hypocalcaemia causing a prolonged QT interval. It is important to note that the definition of a prolonged QT interval varies across the literature, but some sources define it as >450ms in adult males and >460ms in adult females.<br /><br />A prolonged QT interval in hypocalcemia is an indication for urgent <b>intravenous calcium gluconate</b>. This urgent therapy is indicated in severe hypocalcaemia which can present with hand & foot spasming, tetany, seizures, and prolonged QT interval. A prolonged QT interval is of high importance as it can predispose the individual to develop cardiac arrhythmias, including Torsades de pointes.<br /><br /><b>Check vitamin D level</b> is not correct. Whilst this is an important part of establishing the cause of hypocalcaemia, it is not the next best management step for this patient with severe hypocalcaemia.<br /><br /><b>Oral calcium carbonate</b> is incorrect. Oral calcium supplementation can be useful in some causes of hypocalcaemia, but only once the cause has been identified. In the case of severe hypocalcaemia, intravenous calcium should instead be given.<br /><br /><b>Oral levothyroxine</b> is not correct. Whilst hypothyroidism can cause hypocalcaemia and levothyroxine may be indicated for some patients, this has not been shown as the diagnosis for this patient. Also, this patient is acutely unwell and therefore urgent IV calcium gluconate should be given.<br /><br /><b>Oral magnesium aspartate</b> is not the single best answer. Whilst this patient will likely need magnesium supplementation (as hypomagnesaemia can cause hypocalcaemia), it is not the next best step for this patient with severe hypocalcemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man is brought to the emergency department with a 10-day history of muscle cramping and fatigue. Blood tests are taken and an ECG is performed.<br /><br />Blood tests:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>140 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>3.7 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>28 mmol/L</td><td>(22 - 29)</td></tr><tr><td>Urea</td><td>6.2 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>95 \u00b5mol/L</td><td>(55 - 120)</td></tr><tr><td>Calcium</td><td>1.7 mmol/L</td><td>(2.1-2.6)</td></tr><tr><td>Phosphate</td><td>1.3 mmol/L</td><td>(0.8-1.4)</td></tr><tr><td>Magnesium</td><td>0.62 mmol/L</td><td>(0.7-1.0)</td></tr></tbody></table></div><br />The ECG demonstrates a regular sinus rhythm at a rate of 72 BPM. The QTc is calculated as 480ms.<br /><br />What is the next best management step?",
+        "correct_answer": "2",
+        "question_notes": "This scenario describes a 68-year-old man who has presented with hypocalcaemia causing a prolonged QT interval. It is important to note that the definition of a prolonged QT interval varies across the literature, but some sources define it as >450ms in adult males and >460ms in adult females.<br /><br />A prolonged QT interval in hypocalcemia is an indication for urgent <b>intravenous calcium gluconate</b>. This urgent therapy is indicated in severe hypocalcaemia which can present with hand & foot spasming, tetany, seizures, and prolonged QT interval. A prolonged QT interval is of high importance as it can predispose the individual to develop cardiac arrhythmias, including Torsades de pointes.<br /><br /><b>Check vitamin D level</b> is not correct. Whilst this is an important part of establishing the cause of hypocalcaemia, it is not the next best management step for this patient with severe hypocalcaemia.<br /><br /><b>Oral calcium carbonate</b> is incorrect. Oral calcium supplementation can be useful in some causes of hypocalcaemia, but only once the cause has been identified. In the case of severe hypocalcaemia, intravenous calcium should instead be given.<br /><br /><b>Oral levothyroxine</b> is not correct. Whilst hypothyroidism can cause hypocalcaemia and levothyroxine may be indicated for some patients, this has not been shown as the diagnosis for this patient. Also, this patient is acutely unwell and therefore urgent IV calcium gluconate should be given.<br /><br /><b>Oral magnesium aspartate</b> is not the single best answer. Whilst this patient will likely need magnesium supplementation (as hypomagnesaemia can cause hypocalcaemia), it is not the next best step for this patient with severe hypocalcemia.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hypocalcaemia: causes and management",
+        "body": "The clinical history combined with parathyroid hormone levels will reveal the cause of hypocalcaemia in the majority of cases<br /><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"8002\">vitamin D deficiency</span> (osteomalacia)</li><li><span class=\"concept\" data-cid=\"8003\">chronic kidney disease</span></li><li><span class=\"concept\" data-cid=\"8004\">hypoparathyroidism</span> (e.g. post thyroid/parathyroid surgery)</li><li><span class=\"concept\" data-cid=\"8005\">pseudohypoparathyroidism</span> (target cells insensitive to PTH)</li><li><span class=\"concept\" data-cid=\"8006\">rhabdomyolysis</span> (initial stages)</li><li><span class=\"concept\" data-cid=\"8007\">magnesium deficiency</span>  (due to end organ PTH resistance)</li><li><span class=\"concept\" data-cid=\"8008\">massive blood transfusion</span></li><li><span class=\"concept\" data-cid=\"10650\">acute pancreatitis</span></li></ul><br />Contamination of blood samples with EDTA may also give falsely low calcium levels.<br /><br />Management<br /><ul><li>severe hypocalcaemia (e.g. carpopedal spasm, tetany, seizures or <span class=\"concept\" data-cid=\"11885\">prolonged QT interval</span>) requires IV calcium replacement<ul><li>the preferred method is with <span class=\"concept\" data-cid=\"8009\">intravenous calcium gluconate</span>, 10ml of 10% solution over 10 minutes</li><li>intravenous calcium chloride is more likely to cause local irritation</li><li>ECG monitoring is recommended</li></ul></li><li>further management depends on the underlying cause</li></ul>",
+        "notes_hash": "c98d417333abc499503324decf2c6935",
+        "knowledge_graph_node_id_link": 10396,
+        "concept": "Hypocalcaemia: prolonged QT interval is an indication for urgent IV calcium gluconate",
+        "concept_percentile": "97",
+        "concept_colour": "rgb(15,255,0)",
+        "number_attempts": "5784",
+        "up_votes": "26",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "736",
+            "3687",
+            "761",
+            "2",
+            "598",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KWZrSYo7xuk\" data-description=\"Hypocalcemia\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"234\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/KWZrSYo7xuk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KWZrSYo7xuk\" data-description=\"Hypocalcemia\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"234\">Hypocalcemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_391\" data-mediaid=\"391\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_391\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_391\" data-mediaid=\"391\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_391\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "11885": {
+                "concept_text": "Hypocalcaemia: prolonged QT interval is an indication for urgent IV calcium gluconate",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1634_B_36",
+        "new_question_id": "6244",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2024",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Group B streptococci",
+            "<i>Staphylococcus aureus</i>",
+            "<i>Clostridium perfringens</i>",
+            "Group A streptococci",
+            "<i>Pseudomonas aeruginosa</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old farmer attends the emergency department with his wife. He has a high fever and is sweating profusely. On examination he has several black blisters which produce foul smelling discharge.<br /><br />Which of the following organisms is usually associated with this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Gas gangrene is a life-threatening bacterial infection with gangrene that can cause muscle necrosis, sepsis, gas production and ultimately, death.<br /><br />There are two main ways that gas gangrene can occur, either traumatic (or surgical) inoculation of a wound with bacteria or spontaneous, often seen in immunocompromised patients.<br /><br />There are multiple causes of gas gangrene but often clostrida species, particularly clostridium perfringens are implicated. Key features often begin with pain and then become systemic (fever, dehydration). This progresses on to skin changes, which are often seen as blisters which can burst produced a foul smelling discharge. Often crepitus can be heard on movement.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old farmer attends the emergency department with his wife. He has a high fever and is sweating profusely. On examination he has several black blisters which produce foul smelling discharge.<br /><br />Which of the following organisms is usually associated with this condition?",
+        "correct_answer": "3",
+        "question_notes": "Gas gangrene is a life-threatening bacterial infection with gangrene that can cause muscle necrosis, sepsis, gas production and ultimately, death.<br /><br />There are two main ways that gas gangrene can occur, either traumatic (or surgical) inoculation of a wound with bacteria or spontaneous, often seen in immunocompromised patients.<br /><br />There are multiple causes of gas gangrene but often clostrida species, particularly clostridium perfringens are implicated. Key features often begin with pain and then become systemic (fever, dehydration). This progresses on to skin changes, which are often seen as blisters which can burst produced a foul smelling discharge. Often crepitus can be heard on movement.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Clostridia",
+        "body": "Clostridia are gram-positive, obligate anaerobic bacilli.<br /><br /><i>C. perfringens</i><br /><ul><li>produces &alpha;-toxin, a lecithinase, which causes <span class=\"concept\" data-cid=\"3469\">gas gangrene</span> (myonecrosis) and haemolysis</li><li>features include tender, oedematous skin with haemorrhagic blebs and bullae. Crepitus may present on palpation</li></ul><br /><i>C. botulinum</i><br /><ul><li>typically seen in canned foods and honey</li><li>prevents acetylcholine (ACh) release leading to <span class=\"concept\" data-cid=\"9184\">flaccid paralysis</span></li></ul><br /><i>C. difficile</i><br /><ul><li>causes pseudomembranous colitis, typically seen after the use of broad-spectrum antibiotics</li><li>produces both an exotoxin and a cytotoxin</li></ul><br /><i>C. tetani</i><br /><ul><li>produces an exotoxin (tetanospasmin) that prevents the release of glycine from Renshaw cells in the spinal cord causing a <span class=\"concept\" data-cid=\"9184\">spastic paralysis</span></li></ul>",
+        "notes_hash": "2997aaca9b71f9601d5cd720e875b5c0",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6560",
+        "up_votes": "42",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "342",
+            "605",
+            "4022",
+            "493",
+            "1098",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Medcomic</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2063\" data-linkid=\"2063\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2063\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"link_dislike_2063\" data-linkid=\"2063\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2063\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.medcomic.com/medcomic/clostridium-difficile-infection\">Clostridium difficile Infection</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UJj3mHjv744\" data-description=\"Clostridium perfringens\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"856\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UJj3mHjv744/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UJj3mHjv744\" data-description=\"Clostridium perfringens\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"856\">Clostridium perfringens</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1499\" data-mediaid=\"1499\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1499\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1499\" data-mediaid=\"1499\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1499\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3HiLr3I9zG4\" data-description=\"Clostridium tetani (tetanus)\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1137\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3HiLr3I9zG4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3HiLr3I9zG4\" data-description=\"Clostridium tetani (tetanus)\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1137\">Clostridium tetani (tetanus)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1965\" data-mediaid=\"1965\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1965\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1965\" data-mediaid=\"1965\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1965\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1051",
+        "new_question_id": "9132",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_541",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Anorexia",
+            "Parkinsonism",
+            "Hypertension",
+            "Weight gain",
+            "Agranulocytosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old man with a history of schizophrenia is prescribed olanzapine. Which one of the following adverse effects is he most likely to experience?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Weight gain is an extremely common adverse effect of atypical antipsychotics such as olanzapine",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old man with a history of schizophrenia is prescribed olanzapine. Which one of the following adverse effects is he most likely to experience?",
+        "correct_answer": "4",
+        "question_notes": "Weight gain is an extremely common adverse effect of atypical antipsychotics such as olanzapine",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Atypical antipsychotics",
+        "body": "Atypical antipsychotics should now be used first-line in patients with schizophrenia, according to 2005 NICE guidelines. The main advantage of the atypical agents is a significant reduction in extrapyramidal side-effects.<br /><br />Adverse effects of atypical antipsychotics<br /><ul><li><span class=\"concept\" data-cid=\"736\">weight gain</span></li><li>clozapine is associated with <span class=\"concept\" data-cid=\"1309\">agranulocytosis</span> (see below)</li><li><span class=\"concept\" data-cid=\"9323\">hyperprolactinaemia</span></li></ul><br />The Medicines and Healthcare products Regulatory Agency has issued specific warnings when antipsychotics are used in elderly patients:<br /><ul><li><span class=\"concept\" data-cid=\"6155\">increased risk of stroke</span></li><li><span class=\"concept\" data-cid=\"6156\">increased risk of venous thromboembolism</span></li></ul><br />Examples of atypical antipsychotics<br /><ul><li>clozapine</li><li>olanzapine: <span class=\"concept\" data-cid=\"8581\">higher risk of dyslipidemia and obesity</span></li><li>risperidone</li><li>quetiapine</li><li>amisulpride</li><li><span class=\"concept\" data-cid=\"1905\">aripiprazole</span>: generally good side-effect profile, particularly for prolactin elevation</li></ul>",
+        "notes_hash": "74b30485d5ecb2b3c2dfbc1c013d6b7d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5517",
+        "up_votes": "43",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "31",
+            "356",
+            "47",
+            "4341",
+            "742",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1472\" data-linkid=\"1472\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1472\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1472\" data-linkid=\"1472\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1472\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/clozapine.html\">Clozapine</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_260\" data-linkid=\"260\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_260\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_260\" data-linkid=\"260\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_260\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg178/chapter/1-Recommendations\">2014 Schizophrenia guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"22\" data-downvotes=\"1\" data-media=\"619\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nKkIh1B2Js8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"22\" data-downvotes=\"1\" data-media=\"619\">Antipsychotics </a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1055\" data-mediaid=\"1055\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1055\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"media_dislike_1055\" data-mediaid=\"1055\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1055\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "736": {
+                "concept_text": "Atypical antipsychotics commonly cause weight gain",
+                "concept_percentile": "64"
+            },
+            "1309": {
+                "concept_text": "Agranulocytosis/neutropenia is a life-threatening side effect of <b>clozapine</b> - monitor FBC",
+                "concept_percentile": "61"
+            },
+            "1905": {
+                "concept_text": "Aripiprazole has the most tolerable side effect profile of the atypical antispsychotics, particularly for prolactin elevation",
+                "concept_percentile": "82"
+            },
+            "6155": {
+                "concept_text": "Antipsychotics may cause increased risk of ischaemic stroke",
+                "concept_percentile": "94"
+            },
+            "6156": {
+                "concept_text": "Antipsychotics may cause increased risk of venous thromboembolism",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_492",
+        "new_question_id": "3703",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "359",
+        "notes_id_link": "1_1635",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amitriptyline",
+            "Sodium valproate",
+            "Carbamazepine",
+            "Atenolol",
+            "Zolmitriptan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old woman presents with a two month history of electric shock like pains on the right side of her face. She describes having around 10-20 episodes a day which, each lasting for around 30-60 seconds. A recent dental check was normal. Neurological examination is unremarkable. What is the most suitable first-line management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is <b>Carbamazepine</b>. The patient's symptoms of electric shock-like pains on one side of her face, with multiple episodes a day lasting for 30-60 seconds, are highly suggestive of trigeminal neuralgia. Carbamazepine is the first-line treatment for trigeminal neuralgia according to UK guidelines. It works by stabilizing the voltage-gated sodium channels in neurons, which helps to reduce the frequency and severity of the painful episodes.<br /><br /><b>Amitriptyline</b> is an incorrect choice because it is a tricyclic antidepressant that can be used as an adjuvant therapy in neuropathic pain but not as a primary treatment for trigeminal neuralgia. It may be considered if other first-line treatments are contraindicated or ineffective.<br /><br /><b>Sodium valproate</b> is also incorrect as it is primarily used as an antiepileptic medication and mood stabilizer. While it has some efficacy in treating neuropathic pain, it is not recommended as a first-line treatment for trigeminal neuralgia.<br /><br /><b>Atenolol</b> is a beta-blocker typically prescribed for hypertension and angina management; it has no role in the management of trigeminal neuralgia and therefore would not be appropriate in this scenario.<br /><br />Finally, <b>Zolmitriptan</b> is incorrect because it is a triptan medication used specifically for the acute treatment of migraines and cluster headaches. It does not have any significant benefit in managing trigeminal neuralgia symptoms.<br /><br />In summary, given the patient's presentation consistent with trigeminal neuralgia, Carbamazepine would be the most suitable first-line management option according to UK guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old woman presents with a two month history of electric shock like pains on the right side of her face. She describes having around 10-20 episodes a day which, each lasting for around 30-60 seconds. A recent dental check was normal. Neurological examination is unremarkable. What is the most suitable first-line management?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer in this case is <b>Carbamazepine</b>. The patient's symptoms of electric shock-like pains on one side of her face, with multiple episodes a day lasting for 30-60 seconds, are highly suggestive of trigeminal neuralgia. Carbamazepine is the first-line treatment for trigeminal neuralgia according to UK guidelines. It works by stabilizing the voltage-gated sodium channels in neurons, which helps to reduce the frequency and severity of the painful episodes.<br /><br /><b>Amitriptyline</b> is an incorrect choice because it is a tricyclic antidepressant that can be used as an adjuvant therapy in neuropathic pain but not as a primary treatment for trigeminal neuralgia. It may be considered if other first-line treatments are contraindicated or ineffective.<br /><br /><b>Sodium valproate</b> is also incorrect as it is primarily used as an antiepileptic medication and mood stabilizer. While it has some efficacy in treating neuropathic pain, it is not recommended as a first-line treatment for trigeminal neuralgia.<br /><br /><b>Atenolol</b> is a beta-blocker typically prescribed for hypertension and angina management; it has no role in the management of trigeminal neuralgia and therefore would not be appropriate in this scenario.<br /><br />Finally, <b>Zolmitriptan</b> is incorrect because it is a triptan medication used specifically for the acute treatment of migraines and cluster headaches. It does not have any significant benefit in managing trigeminal neuralgia symptoms.<br /><br />In summary, given the patient's presentation consistent with trigeminal neuralgia, Carbamazepine would be the most suitable first-line management option according to UK guidelines.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Trigeminal neuralgia",
+        "body": "Trigeminal neuralgia is a pain syndrome characterised by severe unilateral pain. The vast majority of cases are idiopathic but compression of the trigeminal roots by tumours or vascular problems may occur.<br /><br />The International Headache Society defines trigeminal neuralgia as:<br /><ul><li>a unilateral disorder characterised by brief electric shock-like pains, abrupt in onset and termination, limited to one or more divisions of the trigeminal nerve</li><li>the pain is commonly evoked by light touch, including washing, shaving, smoking, talking, and brushing the teeth (trigger factors), and frequently occurs spontaneously</li><li>small areas in the nasolabial fold or chin may be particularly susceptible to the precipitation of pain (trigger areas)</li><li>the pains usually remit for variable periods</li></ul><br />The following as red flag symptoms and signs suggesting a serious underlying cause:<br /><ul><li>Sensory changes</li><li>Deafness or other ear problems</li><li>History of skin or oral lesions that could spread perineurally</li><li>Pain only in the ophthalmic division of the trigeminal nerve (eye socket, forehead, and nose), or bilaterally</li><li>Optic neuritis</li><li>A family history of multiple sclerosis</li><li>Age of onset before 40 years</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"359\">carbamazepine is first-line</span></li><li>failure to respond to treatment or atypical features (e.g. < 50 years old) should prompt referral to neurology</li></ul>",
+        "notes_hash": "19224ad02fa23ef96ac22e2df247707a",
+        "knowledge_graph_node_id_link": 1052,
+        "concept": "Trigeminal neuralgia - carbamazepine is first-line",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "5473",
+        "up_votes": "26",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "1018",
+            "32",
+            "4292",
+            "31",
+            "100",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "359": {
+                "concept_text": "Trigeminal neuralgia - carbamazepine is first-line",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1343",
+        "new_question_id": "59407",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3639",
+        "notes_id_link": "1_914",
+        "theme": "Identifying culprit artery causing AV block post-infarct",
+        "instruction": "",
+        "options": [
+            "",
+            "Left anterior descending",
+            "Right coronary",
+            "Left circumflex",
+            "Posterior descending",
+            "Diagonal branch",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old man presents to the emergency department with sudden onset central chest pain radiating to his left arm. He has a history of hypertension and type 2 diabetes. On examination, he is hypotensive and bradycardic (36/min). His troponin is elevated. Which coronary artery is most likely responsible for his presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Right coronary</b>: The right coronary artery (RCA) supplies the atrioventricular (AV) node in the majority of individuals. Infarction in this territory can lead to bradyarrhythmias and hypotension due to impaired conduction through the AV node, as described in this scenario. Inferior myocardial infarctions, typically caused by RCA occlusion, are classically associated with these findings, especially when accompanied by cardiovascular risk factors such as diabetes and hypertension.<br /><br /><b>Left anterior descending</b>: While the left anterior descending (LAD) artery supplies a large portion of the ventricular myocardium and septum, infarction here more commonly results in tachyarrhythmias or heart failure rather than bradycardia and hypotension due to AV nodal dysfunction. LAD infarcts tend to present with anterior ECG changes and less frequently cause conduction block.<br /><br /><b>Left circumflex</b>: The left circumflex artery supplies the lateral wall of the left ventricle; it may occasionally supply part of the posterior wall but rarely causes significant AV nodal involvement unless there is anomalous anatomy or dominance. Circumflex occlusions are less likely to present with profound bradycardia without other features.<br /><br /><b>Posterior descending</b>: Although the posterior descending artery can arise from either the RCA or circumflex depending on coronary dominance, it is not typically referred to independently as a culprit vessel in acute presentations affecting AV nodal function; its involvement would depend on which main artery gives rise to it.<br /><br /><b>Diagonal branch</b>: This branch arises from the LAD and supplies part of the anterolateral wall of the left ventricle. Infarction here would not be expected to affect AV nodal conduction significantly or cause pronounced bradycardia/hypotension.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old man presents to the emergency department with sudden onset central chest pain radiating to his left arm. He has a history of hypertension and type 2 diabetes. On examination, he is hypotensive and bradycardic (36/min). His troponin is elevated. Which coronary artery is most likely responsible for his presentation?",
+        "correct_answer": "2",
+        "question_notes": "<b>Right coronary</b>: The right coronary artery (RCA) supplies the atrioventricular (AV) node in the majority of individuals. Infarction in this territory can lead to bradyarrhythmias and hypotension due to impaired conduction through the AV node, as described in this scenario. Inferior myocardial infarctions, typically caused by RCA occlusion, are classically associated with these findings, especially when accompanied by cardiovascular risk factors such as diabetes and hypertension.<br /><br /><b>Left anterior descending</b>: While the left anterior descending (LAD) artery supplies a large portion of the ventricular myocardium and septum, infarction here more commonly results in tachyarrhythmias or heart failure rather than bradycardia and hypotension due to AV nodal dysfunction. LAD infarcts tend to present with anterior ECG changes and less frequently cause conduction block.<br /><br /><b>Left circumflex</b>: The left circumflex artery supplies the lateral wall of the left ventricle; it may occasionally supply part of the posterior wall but rarely causes significant AV nodal involvement unless there is anomalous anatomy or dominance. Circumflex occlusions are less likely to present with profound bradycardia without other features.<br /><br /><b>Posterior descending</b>: Although the posterior descending artery can arise from either the RCA or circumflex depending on coronary dominance, it is not typically referred to independently as a culprit vessel in acute presentations affecting AV nodal function; its involvement would depend on which main artery gives rise to it.<br /><br /><b>Diagonal branch</b>: This branch arises from the LAD and supplies part of the anterolateral wall of the left ventricle. Infarction here would not be expected to affect AV nodal conduction significantly or cause pronounced bradycardia/hypotension.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "ECG: coronary territories",
+        "body": "The table below shows the correlation between ECG changes and coronary territories:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>ECG changes</b></th><th><b>Coronary artery</b></th></tr></thead><tbody><tr><td><b>Anteroseptal</b></td><td><span class=\"concept\" data-cid=\"8257\">V1-V4</span></td><td>Left anterior descending</td></tr><tr><td><b>Inferior</b></td><td><span class=\"concept\" data-cid=\"8258\">II, III, aVF</span></td><td><span class=\"concept\" data-cid=\"915\">Right coronary</span></td></tr><tr><td><b>Anterolateral</b></td><td>V1-6, I, aVL</td><td>Proximal left anterior descending</td></tr><tr><td><b>Lateral</b></td><td><span class=\"concept\" data-cid=\"8259\">I, aVL +/- V5-6</span></td><td><span class=\"concept\" data-cid=\"4142\">Left circumflex</span></td></tr><tr><td><b>Posterior</b></td><td><span class=\"concept\" data-cid=\"4141\">Changes in V1-3</span><br /><br /><span class=\"concept\" data-cid=\"10019\">Reciprocal changes of STEMI</span> are typically seen:<br /><ul><li>horizontal ST depression</li><li>tall, broad R waves</li><li>upright T waves</li><li>dominant R wave in V2</li></ul><br />Posterior infarction is confirmed by ST elevation and Q waves in <span class=\"concept\" data-cid=\"11554\">posterior leads (V7-9)</span></td><td>Usually left circumflex, also right coronary</td></tr></tbody></table></div><br />It should be remembered that a <span class=\"concept\" data-cid=\"9647\">new left bundle branch block (LBBB)</span> may point towards a diagnosis of acute coronary syndrome.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd519b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the correlation between ECG changes and coronary territories in acute coronary syndrome<br /></div>",
+        "notes_hash": "d9dc01438aaffe4cb31bc2261e5e181e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A right coronary infarct supplies the AV node so can cause arrhythmias after infarction ",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "5473",
+        "up_votes": "8",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "1273",
+            "3915",
+            "187",
+            "87",
+            "11",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>University of Massachusetts Medical School</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_659\" data-linkid=\"659\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_659\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_659\" data-linkid=\"659\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_659\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">36</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://escholarship.umassmed.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1019&context=oapubs\">Classic circumflex infarction ECG</a></td></tr></table><br><br><table style='width:100%'><tr><td>Postgraduate Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1017\" data-linkid=\"1017\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1017\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1017\" data-linkid=\"1017\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1017\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">48</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://pmj.bmj.com/content/79/935/490.full\">ECG correlation with coronary anatomy</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "915": {
+                "concept_text": "Inferior MI - right coronary artery lesion",
+                "concept_percentile": "41"
+            },
+            "8257": {
+                "concept_text": "Ischaemic changes in leads V1-V4 - left anterior descending",
+                "concept_percentile": "50"
+            },
+            "8258": {
+                "concept_text": "Ischaemic changes in leads II, III, aVF - right coronary",
+                "concept_percentile": "68"
+            },
+            "8259": {
+                "concept_text": "Ischaemic changes in leads I, aVL +/- V5-6 - left circumflex",
+                "concept_percentile": "40"
+            },
+            "11554": {
+                "concept_text": "Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) ",
+                "concept_percentile": "38"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "question_id": "10510_B_270",
+        "new_question_id": "28132",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "10488",
+        "notes_id_link": "1_1595",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "High-fibre diet",
+            "Incision and drainage",
+            "Rubber band ligation",
+            "Seton insertion",
+            "Sphincterotomy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old man is referred to the colorectal surgeons with recurrent episodes of bright red rectal bleeding that have been occurring for the past 4 months. On examination, there is a muco-epithelial defect in the posterior midline of the anus. A full digital rectal exam (DRE) could not be completed due to pain. He has tried bulk-forming laxatives, lubricants, and topical glyceryl trinitrate (GTN) with little benefit.<br /><br />Given the likely diagnosis, what is the next management step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is 'sphincterotomy'.<br /><br />The most likely diagnosis in this patient is an anal fissure. It has not responded to conservative measures including laxatives, lubricants, and topical GTN. As such, the next step in management would be consideration for a sphincterotomy.<br /><br />While a high-fibre diet is important in the management of anal fissures it should be initiated as part of other conservative measures. As other conservative methods have not helped this patient's symptoms they need consideration for more definitive management.<br /><br />Incision and drainage would be the correct answer if the patient was suffering from a perianal abscess. This would present with anal pain and pus-like discharge.<br /><br />Rubber band ligation would be the management for haemorrhoids. Haemorrhoids would present with painless rectal bleeding and pruritus.<br /><br />Seton insertion would be the management for anal fistulae. Anal fistulae would present with an external opening on the perineum and discharge onto the perineum.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old man is referred to the colorectal surgeons with recurrent episodes of bright red rectal bleeding that have been occurring for the past 4 months. On examination, there is a muco-epithelial defect in the posterior midline of the anus. A full digital rectal exam (DRE) could not be completed due to pain. He has tried bulk-forming laxatives, lubricants, and topical glyceryl trinitrate (GTN) with little benefit.<br /><br />Given the likely diagnosis, what is the next management step?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is 'sphincterotomy'.<br /><br />The most likely diagnosis in this patient is an anal fissure. It has not responded to conservative measures including laxatives, lubricants, and topical GTN. As such, the next step in management would be consideration for a sphincterotomy.<br /><br />While a high-fibre diet is important in the management of anal fissures it should be initiated as part of other conservative measures. As other conservative methods have not helped this patient's symptoms they need consideration for more definitive management.<br /><br />Incision and drainage would be the correct answer if the patient was suffering from a perianal abscess. This would present with anal pain and pus-like discharge.<br /><br />Rubber band ligation would be the management for haemorrhoids. Haemorrhoids would present with painless rectal bleeding and pruritus.<br /><br />Seton insertion would be the management for anal fistulae. Anal fistulae would present with an external opening on the perineum and discharge onto the perineum.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Anal fissure",
+        "body": "Anal fissures are longitudinal or elliptical tears of the squamous lining of the distal anal canal. If present for less than 6 weeks they are defined as acute, and chronic if present for more than 6 weeks. <br /><br />Risk factors<br /><ul><li>constipation</li><li>inflammatory bowel disease</li><li>sexually transmitted infections e.g. HIV, syphilis, herpes</li></ul><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"1677\">painful, bright red, rectal bleeding</span></li><li>around 90% of anal fissures occur on the posterior midline.<ul><li><span class=\"concept\" data-cid=\"2261\">if the fissures are found in alternative locations then other underlying causes should be considered</span> e.g. Crohn's disease</li></ul></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Management of an <span class=\"concept\" data-cid=\"11257\">acute anal fissure</span> (< 1 week)<br /><ul><li>soften stool<ul><li>dietary advice: high-fibre diet with high fluid intake</li><li>bulk-forming laxatives are first-line - if not tolerated then lactulose should be tried</li></ul></li><li>lubricants such as petroleum jelly may be tried before defecation</li><li>topical anaesthetics</li><li>analgesia</li></ul><br />Management of a chronic anal fissure<br /><ul><li>the above techniques should be continued</li><li><span class=\"concept\" data-cid=\"347\">topical glyceryl trinitrate (GTN) is first-line treatment</span> for a chronic anal fissure</li><li>if topical GTN is not effective after 8 weeks then secondary care referral should be considered for surgery (<span class=\"concept\" data-cid=\"10488\">sphincterotomy</span>)<ul><li>lateral internal sphincterotomy is the gold standard for chronic anal fissure not responding to medical therapy</li><li>if sphincterotomy fails or is contraindicated then botulinum toxin injection is sometimes used</li></ul></li></ul>",
+        "notes_hash": "481ecf77f156333eb273a8af57f696ea",
+        "knowledge_graph_node_id_link": 1173,
+        "concept": "Anal fissures - sphincterotomy may be considered for cases that do not respond to conservative management",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "7627",
+        "up_votes": "32",
+        "down_votes": "50",
+        "column_array": [
+            0,
+            "571",
+            "262",
+            "1663",
+            "1571",
+            "3560",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "347": {
+                "concept_text": "Chronic anal fissure - topical glyceryl trinitrate",
+                "concept_percentile": "60"
+            },
+            "1677": {
+                "concept_text": "An anal fissure usual presents as painful, bright red rectal bleeding",
+                "concept_percentile": "53"
+            },
+            "10488": {
+                "concept_text": "Anal fissures - sphincterotomy may be considered for cases that do not respond to conservative management",
+                "concept_percentile": "66"
+            },
+            "11257": {
+                "concept_text": "Acute anal fissure (< 1 week): soften stool, dietary fibre, analgesia and topical anaesthetic cream if necessary",
+                "concept_percentile": "42"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1802",
+        "new_question_id": "8722",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_467",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Nitrate",
+            "Benzodiazepine",
+            "Alpha-adrenergic blocker",
+            "Beta-blocker",
+            "Corticosteroid",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 43-year-old man is admitted with severe, episodic pain in his right loin region. Urine dipstick is positive for blood and a  CT KUB shows a stone in the right ureter that is 6mm in diameter. He is given intramuscular diclofenac for pain relief. <br /><br />Which one of the following types of medication may also be beneficial in this scenario?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is the <b>Alpha-adrenergic blocker</b>. Alpha-adrenergic blockers like tamsulosin are beneficial in this scenario as they can help facilitate stone passage. They work by relaxing the smooth muscle in the walls of the ureter, thereby allowing the stone to pass more easily. This is particularly relevant for stones that are 5-10mm in size, such as the one described in this case.<br /><br /><b>Nitrate</b> is incorrect because although it can cause smooth muscle relaxation, it's primarily used for angina management rather than facilitating kidney stone passage. Its vasodilatory effects on blood vessels wouldn't significantly impact ureteral stone passage.<br /><br />The use of a <b>Benzodiazepine</b> would not be beneficial in this scenario. Benzodiazepines are primarily used for their anxiolytic, hypnotic and muscle relaxant properties. While they do have muscle relaxant effects, these are not specific to the ureter and thus would not aid in stone passage.<br /><br />A <b>Beta-blocker</b> would also not be helpful here. Beta-blockers inhibit beta-adrenergic receptors which mainly results in decreased heart rate and blood pressure. They do not have any specific role or benefit in managing renal colic or promoting stone passage.<br /><br />Finally, <b>Corticosteroids</b> are also incorrect. These drugs reduce inflammation and modulate immune response but don't directly aid in kidney stone removal or pain relief associated with renal colic. Their side effect profile also makes them unsuitable for routine use in uncomplicated cases of kidney stones.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 43-year-old man is admitted with severe, episodic pain in his right loin region. Urine dipstick is positive for blood and a  CT KUB shows a stone in the right ureter that is 6mm in diameter. He is given intramuscular diclofenac for pain relief. <br /><br />Which one of the following types of medication may also be beneficial in this scenario?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is the <b>Alpha-adrenergic blocker</b>. Alpha-adrenergic blockers like tamsulosin are beneficial in this scenario as they can help facilitate stone passage. They work by relaxing the smooth muscle in the walls of the ureter, thereby allowing the stone to pass more easily. This is particularly relevant for stones that are 5-10mm in size, such as the one described in this case.<br /><br /><b>Nitrate</b> is incorrect because although it can cause smooth muscle relaxation, it's primarily used for angina management rather than facilitating kidney stone passage. Its vasodilatory effects on blood vessels wouldn't significantly impact ureteral stone passage.<br /><br />The use of a <b>Benzodiazepine</b> would not be beneficial in this scenario. Benzodiazepines are primarily used for their anxiolytic, hypnotic and muscle relaxant properties. While they do have muscle relaxant effects, these are not specific to the ureter and thus would not aid in stone passage.<br /><br />A <b>Beta-blocker</b> would also not be helpful here. Beta-blockers inhibit beta-adrenergic receptors which mainly results in decreased heart rate and blood pressure. They do not have any specific role or benefit in managing renal colic or promoting stone passage.<br /><br />Finally, <b>Corticosteroids</b> are also incorrect. These drugs reduce inflammation and modulate immune response but don't directly aid in kidney stone removal or pain relief associated with renal colic. Their side effect profile also makes them unsuitable for routine use in uncomplicated cases of kidney stones.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Renal stones: management",
+        "body": "The British Association of Urological Surgeons (BAUS) published guidelines in 2018 and NICE in 2019 on the management of acute ureteric/renal colic.<br /><br /><h5 class='notes-heading'>Initial management of renal colic</h5><br />Pain management and medical therapy <br /><ul><li>both BAUS and NICE recommend an NSAID as the analgesia of choice for renal colic <a href='https://www.nice.org.uk/guidance/ng118/chapter/Recommendations#pain-management:~:text=1.2-,Pain%20management,-1.2.1' title='NICE - 2019 Renal and ureteric stones: assessment and management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>whilst diclofenac has been traditionally used the increased risk of cardiovascular events with certain NSAIDs (e.g. diclofenac, ibuprofen) should be considered when prescribing</li></ul></li><li><span class=\"concept\" data-cid=\"12120\">if NSAIDs are contraindicated or not giving sufficient pain relief NICE recommend IV paracetamol</span></li><li>the NICE guidelines suggest for patients who require admission: '<i>Administer a parenteral analgesic (such as <span class=\"concept\" data-cid=\"1002\">intramuscular diclofenac</span>) for rapid relief of severe pain</i>'</li><li>alpha blockers <a href='https://www.nice.org.uk/guidance/ng118/chapter/Recommendations#pain-management:~:text=1.3-,Medical%20expulsive%20therapy,-1.3.1' title='NICE - 2019 Renal and ureteric stones: assessment and management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>promote smooth muscle relaxation and dilation of the ureter. potentially easing stone passage</li><li>NICE recommend these are considered for <span class=\"concept\" data-cid=\"12121\">distal ureteric stones less than 10 mm in size</span></li><li>BAUS don't formally recommend but do however acknowledge a recently published meta-analysis advocates the use of \u03b1-blockers for patients amenable to conservative management, with the greatest benefit amongst those with larger stones</li></ul></li></ul><br />Initial investigations<br /><ul><li>urine dipstick and culture</li><li>serum creatinine and electrolytes: check renal function</li><li>FBC / CRP: look for associated infection</li><li>calcium/urate: look for underlying causes</li><li>stone analysis should be considered once the stone has passed</li><li>also: clotting if percutaneous intervention planned and blood cultures if pyrexial or other signs of sepsis</li></ul><br />Imaging<br /><ul><li><span class=\"concept\" data-cid=\"2250\">non-contrast CT KUB</span> should be performed on all patients, within 24 hours of admission <a href='https://www.nice.org.uk/guidance/ng118/chapter/Recommendations#pain-management:~:text=hours%20of%20presentation)-,low%2Ddose%20non%2Dcontrast%20CT,-to%20adults%20with' title='NICE - 2019 Renal and ureteric stones: assessment and management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>if a patient has a fever, a solitary kidney or when the diagnosis is uncertain an immediate CT KUB should be performed. In the case of an uncertain diagnosis, this is to exclude other diagnoses such as ruptured abdominal aortic aneurysm</li><li>CT KUB has a sensitivity of 97% for ureteric stones and a specificity of 95%</li></ul></li><li>ultrasound should be used for pregnant women and children<ul><li>the sensitivity of ultrasound for stones is around 45% and specificity is around 90%</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Management of renal stones</h5><br />Simplified first-line NICE guidance (please see guidelines for more details) <a href='https://www.nice.org.uk/guidance/ng118/chapter/Recommendations#medical-expulsive-therapy:~:text=before%20surgery.-,1.5%20Surgical%20treatments,-(including%20shockwave%20lithotripsy' title='NICE - 2019 Renal and ureteric stones: assessment and management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>Renal stones<ul><li><span class=\"concept\" data-cid=\"12122\">watchful waiting if < 5mm and asymptomatic</span></li><li>5-10mm  shockwave lithotripsy</li><li>10-20 mm shockwave lithotripsy OR ureteroscopy</li><li><span class=\"concept\" data-cid=\"12124\">> 20 mm percutaneous nephrolithotomy</span></li></ul></li><li>Uretic stones<ul><li><span class=\"concept\" data-cid=\"12123\">shockwave lithotripsy +/- alpha blockers>< 10mm shockwave lithotripsy +/- alpha blockers</span></li><li>10-20 mm ureteroscopy</li></ul></li></ul><br /><br /><h6 class='notes-subheading'>Further details</h6><br />Stones < 5 mm will usually pass spontaneously. Lithotripsy and nephrolithotomy may be for severe cases.<br /><br />Most renal stones measuring less than 5mm in maximum diameter will typically pass within 4 weeks of symptom onset. More intensive and urgent treatment is indicated in the presence of ureteric obstruction, renal developmental abnormality such as horseshoe kidney and previous renal transplant. Ureteric obstruction due to stones together with infection is a surgical emergency and the system must be <span class=\"concept\" data-cid=\"2356\">decompressed</span>. Options include nephrostomy tube placement, insertion of ureteric catheters and ureteric stent placement. <br /><br />Shockwave lithotripsy<br /><ul><li>A shock wave is generated external to the patient, internally cavitation bubbles and mechanical stress lead to stone fragmentation<ul><li>The passage of shock waves can result in the development of solid organ injury</li><li>Fragmentation of larger stones may result in the development of ureteric obstruction</li><li>The procedure is uncomfortable for patients and analgesia is required during the procedure and afterwards. </li></ul></li></ul><br />Ureteroscopy<br /><ul><li>A ureteroscope is passed retrograde through the ureter and into the renal pelvis<ul><li>It is indicated in individuals (e.g. pregnant females) where lithotripsy is contraindicated and in complex stone disease</li><li>In most cases a stent is left in situ for 4 weeks after the procedure. </li></ul></li></ul><br />Percutaneous nephrolithotomy<br /><ul><li>In this procedure, access is gained to the renal collecting system</li><li>Once access is achieved, intra corporeal lithotripsy or stone fragmentation is performed and stone fragments removed.</li></ul><br /><h5 class='notes-heading'>Prevention of renal stones</h5><br />Calcium stones may be due to hypercalciuria, which is found in up to 5-10% of the general population. <br /><ul><li>high fluid intake</li><li>add lemon juice to drinking water</li><li>avoid carbonated drinks</li><li>limit salt intake</li><li><span class=\"concept\" data-cid=\"12125\">potassium citrate</span> may be beneficial  <a href='https://www.nice.org.uk/guidance/ng118/chapter/Recommendations#medical-expulsive-therapy:~:text=weight%20gain.-,Potassium%20citrate,-The%20following%20recommendations' title='NICE - 2019 Renal and ureteric stones: assessment and management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> </li><li><span class=\"concept\" data-cid=\"9892\">thiazides diuretics</span> (increase distal tubular calcium resorption)</li></ul><br />Oxalate stones<br /><ul><li>cholestyramine reduces urinary oxalate secretion</li><li>pyridoxine reduces urinary oxalate secretion</li></ul><br />Uric acid stones<br /><ul><li>allopurinol</li><li>urinary alkalinization e.g. oral bicarbonate</li></ul>",
+        "notes_hash": "5b61cbd197ea6d1fc101700b03a05da2",
+        "knowledge_graph_node_id_link": 1047,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6536",
+        "up_votes": "29",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "520",
+            "354",
+            "5407",
+            "126",
+            "129",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_603\" data-linkid=\"603\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_603\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_603\" data-linkid=\"603\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_603\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/5/467\">2012 Kidney stone disease: pathophysiology, investigation and medical treatment</a></td></tr></table><br><br><table style='width:100%'><tr><td>British Journal of Urology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_7\" data-linkid=\"7\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_7\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_7\" data-linkid=\"7\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_7\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.bjuinternational.com/bjui-blog/the-drugs-dont-work/\">2015 Discussion regarding evidence base (or lack of it) for alpha blockers</a></td></tr></table><br><br><table style='width:100%'><tr><td>British Association of Urological Surgeons</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1229\" data-linkid=\"1229\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1229\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1229\" data-linkid=\"1229\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1229\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.baus.org.uk/_userfiles/pages/files/Publications/Acute%20ureteric%20colic%202018.pdf\">2018 Renal colic guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>European Urology Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_649\" data-linkid=\"649\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_649\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_649\" data-linkid=\"649\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_649\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://uroweb.org/guideline/urolithiasis/\">2015 Urolithiasis guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2107\" data-linkid=\"2107\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2107\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_2107\" data-linkid=\"2107\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2107\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng118/chapter/Recommendations\">2019 Renal and ureteric stones: assessment and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/n9jgpGcOGbo\" data-description=\"Kidney stones\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1119\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/n9jgpGcOGbo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/n9jgpGcOGbo\" data-description=\"Kidney stones\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1119\">Kidney stones</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1938\" data-mediaid=\"1938\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1938\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1938\" data-mediaid=\"1938\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1938\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DK9AkAVDoho\" data-description=\"Understanding Kidney Stones\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1252\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/DK9AkAVDoho/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DK9AkAVDoho\" data-description=\"Understanding Kidney Stones\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1252\">Understanding Kidney Stones</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2210\" data-mediaid=\"2210\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2210\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2210\" data-mediaid=\"2210\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2210\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kLxBks6s4M8\" data-description=\"Urinary/Kidney Stones\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"258\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/kLxBks6s4M8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/kLxBks6s4M8\" data-description=\"Urinary/Kidney Stones\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"258\">Urinary/Kidney Stones</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_440\" data-mediaid=\"440\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_440\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_440\" data-mediaid=\"440\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_440\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "1002": {
+                "concept_text": "Guidelines continue to recommend the use of IM diclofenac in the acute management of renal colic",
+                "concept_percentile": "69"
+            },
+            "2250": {
+                "concept_text": "Non-contrast CT-KUB is the imaging of choice in suspected renal colic",
+                "concept_percentile": "88"
+            },
+            "2356": {
+                "concept_text": "Patients with obstructive urinary calculi and signs of infection require urgent renal decompression and IV antibiotics due to the risk of sepsis",
+                "concept_percentile": "82"
+            },
+            "9892": {
+                "concept_text": "In a patient with hypercalciuria and renal stones, calcium excretion and stone formation can be decreased by the use of thiazide diuretics",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2215",
+        "new_question_id": "9687",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_649",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rabies",
+            "Meningitis ACWY",
+            "Japanese encephalitis",
+            "Tuberculosis (BCG)",
+            "Hepatitis B",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old HIV positive man attends your travel clinic asking for your advice on holiday vaccinations. His is taking anti-retroviral therapy and his most recent CD4 count is 200 cells/mm\u00b3. He is otherwise well and has no other medical conditions.<br /><br />Which of the following vaccines are contraindicated in this man?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Live attenuated vaccines such as BCG are contraindicated in all HIV positive patients.<br /><br />Other live attenuated vaccines which should not be given in immunocompromised patients are:<br /><ul><li>Yellow fever</li><li>Oral polio</li><li>Intranasal influenza</li><li>Varicella</li><li>Measles, mumps and rubella (MMR)</li></ul><br />Source: uptodate",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old HIV positive man attends your travel clinic asking for your advice on holiday vaccinations. His is taking anti-retroviral therapy and his most recent CD4 count is 200 cells/mm\u00b3. He is otherwise well and has no other medical conditions.<br /><br />Which of the following vaccines are contraindicated in this man?",
+        "correct_answer": "4",
+        "question_notes": "Live attenuated vaccines such as BCG are contraindicated in all HIV positive patients.<br /><br />Other live attenuated vaccines which should not be given in immunocompromised patients are:<br /><ul><li>Yellow fever</li><li>Oral polio</li><li>Intranasal influenza</li><li>Varicella</li><li>Measles, mumps and rubella (MMR)</li></ul><br />Source: uptodate",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Vaccinations",
+        "body": "In the ever-evolving landscape of infectious diseases, vaccination remains one of the most effective tools in the prevention of morbidity and mortality. <br /><br /><h5 class='notes-heading'>Vaccine types</h5><br />It is important to be aware of vaccines which are of the live-attenuated type as these may pose a risk to immunocompromised patients. <br /><br />The main types of vaccines are as follows:<br /><br />Live attenuated<br /><ul><li>utilise a weakened form of the pathogen to stimulate an immune response akin to a natural infection without causing the disease</li><li>typically not recommended for individuals with compromised immune systems due to the live nature of the vaccine</li><li>examples:<ul><li><span class=\"concept\" data-cid=\"6345\">BCG</span></li><li>measles, mumps, rubella (<span class=\"concept\" data-cid=\"6346\">MMR</span>)</li><li><span class=\"concept\" data-cid=\"8100\">influenza (intranasal)</span></li><li><span class=\"concept\" data-cid=\"6359\">oral rotavirus</span></li><li><span class=\"concept\" data-cid=\"6347\">oral polio</span></li><li><span class=\"concept\" data-cid=\"6348\">yellow fever</span></li><li><span class=\"concept\" data-cid=\"6349\">oral typhoid</span></li></ul></li></ul><br />Inactivated preparations<br /><ul><li>employ pathogens that have been killed, often by heat or chemicals, to elicit an immune response</li><li>might require booster doses to maintain immunity as the induced immune response is generally weaker than live attenuated vaccines</li><li>examples:<ul><li><span class=\"concept\" data-cid=\"6350\">rabies</span></li><li><span class=\"concept\" data-cid=\"6361\">hepatitis A</span></li><li><span class=\"concept\" data-cid=\"8100\">influenza (intramuscular)</span></li></ul></li></ul><br />Toxoid (inactivated toxin)<br /><ul><li>these vaccines are designed around the toxins produced by certain bacteria. The toxins are rendered harmless (detoxified) and used as antigens in the vaccine. When the immune system encounters these non-toxic toxoids, it learns to combat the natural toxins the bacteria produce, providing immunity against the toxic effects of infections</li><li>toxoid vaccines often require booster doses to maintain immunity since, like inactivated vaccines, the immune response they induce can wane over time</li><li>examples:<ul><li><span class=\"concept\" data-cid=\"6352\">tetanus</span></li><li><span class=\"concept\" data-cid=\"6353\">diphtheria</span></li><li><span class=\"concept\" data-cid=\"6354\">pertussis</span></li></ul></li></ul><br />Subunit and conjugate vaccines are often grouped together. Subunit means that only part of the pathogen is used to generate an immunogenic response. A conjugate vaccine is a particular type that links the poorly immunogenic bacterial polysaccharide outer coats to proteins to make them more immunogenic<br /><ul><li><span class=\"concept\" data-cid=\"6357\">pneumococcus</span> (conjugate)</li><li><span class=\"concept\" data-cid=\"6358\">haemophilus</span> (conjugate)</li><li><span class=\"concept\" data-cid=\"6356\">meningococcus</span> (conjugate)</li><li><span class=\"concept\" data-cid=\"6355\">hepatitis B</span></li><li><span class=\"concept\" data-cid=\"6362\">human papillomavirus</span> </li></ul>,<br />Messenger RNA (mRNA)<br /><ul><li>introduce a piece of mRNA into cells which then produce a protein to trigger an immune response.</li><li>examples: some COVID-19 vaccines</li></ul><br />Viral vector vaccines:<br /><ul><li>use a harmless virus (different from the target pathogen) to deliver critical parts of the target pathogen to stimulate an immune response</li><li>can be produced more rapidly in response to emerging threats</li><li>examples: some Ebola and COVID-19 vaccines</li></ul><br />Notes<br /><ul><li>influenza: different types are available, including whole inactivated virus, split virion (virus particles disrupted by detergent treatment) and sub-unit (mainly haemagglutinin and neuraminidase)</li><li>cholera: contains inactivated Inaba and Ogawa strains of Vibrio cholerae together with recombinant B-subunit of the cholera toxin</li><li>hepatitis B: contains HBsAg adsorbed onto aluminium hydroxide adjuvant and is prepared from yeast cells using recombinant DNA technology</li></ul><br /><h5 class='notes-heading'>Valency of vaccines</h5><br />The term 'valency' in vaccinology denotes the <span class=\"concept\" data-cid=\"12099\">number of distinct antigenic components or serotypes a vaccine can protect against</span>. Essentially, it specifies the extent of a vaccine's antigenic reach.<br /><br />Monovalent vaccines<br /><ul><li>contain a singular antigenic component, conferring immunity against one strain or subtype of a pathogen</li><li>an example is the measles vaccine</li></ul><br />Multivalent or polyvalent vaccines<br /><ul><li>these vaccines comprise multiple antigenic components, safeguarding against various strains or subtypes of a pathogen or, occasionally, multiple pathogens</li><li>the quadrivalent influenza vaccine, protective against four distinct virus strains, exemplifies this category</li></ul>",
+        "notes_hash": "11f07cab53f4aa6e3f541f023c7848f2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4794",
+        "up_votes": "28",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "391",
+            "363",
+            "277",
+            "3581",
+            "182",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Greenbook</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1438\" data-linkid=\"1438\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1438\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_1438\" data-linkid=\"1438\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1438\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/655225/Greenbook_chapter_6.pdf\">Contraindications and special considerations</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "6345": {
+                "concept_text": "BCG - live attenuated",
+                "concept_percentile": "30"
+            },
+            "6346": {
+                "concept_text": "MMR - live attenuated",
+                "concept_percentile": "8"
+            },
+            "6347": {
+                "concept_text": "Oral polio - live attenuated",
+                "concept_percentile": "9"
+            },
+            "6348": {
+                "concept_text": "Yellow fever - live attenuated",
+                "concept_percentile": "2"
+            },
+            "6349": {
+                "concept_text": "Oral typhoid - live attenuated",
+                "concept_percentile": "12"
+            },
+            "6350": {
+                "concept_text": "Rabies - inactivated preparations",
+                "concept_percentile": "7"
+            },
+            "6352": {
+                "concept_text": "Tetanus - toxoid",
+                "concept_percentile": "5"
+            },
+            "6353": {
+                "concept_text": "Diphtheria - toxoid",
+                "concept_percentile": "5"
+            },
+            "6354": {
+                "concept_text": "Pertussis - toxoid",
+                "concept_percentile": "6"
+            },
+            "6355": {
+                "concept_text": "Hepatitis B - subunit/conjugate",
+                "concept_percentile": "6"
+            },
+            "6356": {
+                "concept_text": "Meningococcus - subunit/conjugate",
+                "concept_percentile": "1"
+            },
+            "6357": {
+                "concept_text": "Pneumococcus - subunit/conjugate",
+                "concept_percentile": "4"
+            },
+            "6358": {
+                "concept_text": "Haemophilus - subunit/conjugate",
+                "concept_percentile": "3"
+            },
+            "6359": {
+                "concept_text": "Oral rotavirus - live attenuated",
+                "concept_percentile": "22"
+            },
+            "6361": {
+                "concept_text": "Hepatitis A - inactivated preparations",
+                "concept_percentile": "3"
+            },
+            "6362": {
+                "concept_text": "Human papillomavirus - subunit/conjugate",
+                "concept_percentile": "3"
+            },
+            "8100": {
+                "concept_text": "Influenza vaccine: intranasal form is live-attenuated while the intramuscular injection form is inactivated/killed",
+                "concept_percentile": "34"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_245",
+        "new_question_id": "16816",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "4779",
+        "notes_id_link": "1_1841",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Crohn's disease",
+            "Irritable bowel syndrome",
+            "Infection by <i>enterotoxigenic E.coli</i>",
+            "Infection by <i>C. jejuni</i>",
+            "Infection by <i>C. difficile</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man returns from a holiday in Thailand suffering from non-bloody diarrhoea. After further questioning he complain of nausea, however, has had no episodes of vomiting. His stomach has been painful with stomach cramps for the past 48 hours. <br /><br />Given this man's presentation, what is the most likely cause of his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about a man presenting with diarrhoea, abdominal cramps and nausea following recent travel. This is the typical pattern of acute travellers diarrhoea, most likely by <i>enterotoxigenic E.coli</i> infection. <br /><br />Both Crohn's disease and irritable bowel syndrome are both less likely due to the time frame of the presentation. When approaching patients with diarrhoeal symptoms, it is useful to classify whether they are acute or chronic. This helps to narrow down your differential list as both of these will fall into the chronic category. <br /><br />When ruling out the most likely infective agent, it is best to classify diarrhoeal infection into bloody or non-bloody. <i>Campylobacter jejuni</i> typically causes bloody stools and abdominal pain. In this question, no blood is noted and so this makes this less likely. <br /><br /><i>Clostridium difficile</i> infection typically follows a hospital stay or course of antibiotics and is associated with profuse diarrhoea. As this patient has returned from holiday recently this is less likely. <br /><br />As established earlier, the correct answer is option 3. <i>Enterotoxigenic E.coli</i> infection typically occurs in travellers with diarrhoea associated with stomach cramps and nausea as is present in this case.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man returns from a holiday in Thailand suffering from non-bloody diarrhoea. After further questioning he complain of nausea, however, has had no episodes of vomiting. His stomach has been painful with stomach cramps for the past 48 hours. <br /><br />Given this man's presentation, what is the most likely cause of his symptoms?",
+        "correct_answer": "3",
+        "question_notes": "This question is asking about a man presenting with diarrhoea, abdominal cramps and nausea following recent travel. This is the typical pattern of acute travellers diarrhoea, most likely by <i>enterotoxigenic E.coli</i> infection. <br /><br />Both Crohn's disease and irritable bowel syndrome are both less likely due to the time frame of the presentation. When approaching patients with diarrhoeal symptoms, it is useful to classify whether they are acute or chronic. This helps to narrow down your differential list as both of these will fall into the chronic category. <br /><br />When ruling out the most likely infective agent, it is best to classify diarrhoeal infection into bloody or non-bloody. <i>Campylobacter jejuni</i> typically causes bloody stools and abdominal pain. In this question, no blood is noted and so this makes this less likely. <br /><br /><i>Clostridium difficile</i> infection typically follows a hospital stay or course of antibiotics and is associated with profuse diarrhoea. As this patient has returned from holiday recently this is less likely. <br /><br />As established earlier, the correct answer is option 3. <i>Enterotoxigenic E.coli</i> infection typically occurs in travellers with diarrhoea associated with stomach cramps and nausea as is present in this case.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Diarrhoea",
+        "body": "The table below gives characteristic features for conditions causing diarrhoea:<br /><br />World Health Organisation definitions<br /><ul><li>Diarrhoea: > 3 loose or watery stool per day</li><li>Acute diarrhoea < 14 days</li><li><span class=\"concept\" data-cid=\"3429\">Chronic diarrhoea > 14 days</span></li></ul><br /><h5 class='notes-heading'>Causes</h5><br /><b>Usually acute</b><br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Condition</th><th>Notes</th></tr></thead><tbody><tr><td><b>Gastroenteritis</b></td><td>May be accompanied by abdominal pain or nausea/vomiting</td></tr><tr><td><b>Diverticulitis</b></td><td>Classically causes left lower quadrant pain, diarrhoea and fever</td></tr><tr><td><b>Antibiotic therapy</b></td><td>More common with broad spectrum antibiotics<br /><br /><i>Clostridioides difficile</i> is also seen with antibiotic use</td></tr><tr><td><b>Constipation causing overflow</b></td><td>A history of alternating diarrhoea and constipation may be given<br /><br />May lead to faecal incontinence in the elderly</td></tr></tbody></table></div><br /><b>Usually chronic</b><br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Condition</th><th>Notes</th></tr></thead><tbody><tr><td><b>Irritable bowel syndrome</b></td><td>Extremely common. The most consistent features are abdominal pain, bloating and change in bowel habit. Patients may be divided into those with diarrhoea predominant IBS and those with constipation-predominant IBS.<br /><br />Features such as lethargy, nausea, backache and bladder symptoms may also be present</td></tr><tr><td><b>Ulcerative colitis</b></td><td><span class=\"concept\" data-cid=\"6196\">Bloody diarrhoea</span> may be seen. Crampy abdominal pain and weight loss are also common. Faecal urgency and <span class=\"concept\" data-cid=\"6197\">tenesmus</span> may be seen</td></tr><tr><td><b>Crohn's disease</b></td><td>Crampy abdominal pains and diarrhoea. Bloody diarrhoea less common than in ulcerative colitis. Other features include malabsorption, <span class=\"concept\" data-cid=\"6205\">mouth ulcers</span>, <span class=\"concept\" data-cid=\"6206\">perianal disease</span> and <span class=\"concept\" data-cid=\"6207\">intestinal obstruction</span></td></tr><tr><td><b>Colorectal cancer</b></td><td>Symptoms depend on the site of the lesion but include diarrhoea, rectal bleeding, anaemia and constitutional symptoms e.g. Weight loss and anorexia</td></tr><tr><td><b>Coeliac disease</b></td><td>In children may present with failure to thrive, diarrhoea and abdominal distension<br /><br />In adults lethargy, anaemia, diarrhoea and weight loss are seen. Other autoimmune conditions may coexist</td></tr></tbody></table></div><br />Other conditions associated with diarrhoea include:<br /><ul><li>thyrotoxicosis</li><li>laxative abuse</li><li>appendicitis</li><li>radiation enteritis</li></ul><br /><h5 class='notes-heading'>Investigations</h5><br />Routine investigations are not normally required unless the patient is unwell.<br /><br />Stool culture<br /><ul><li>in a primary care setting, NICE recommend a stool sample in the following scenarios:<ul><li>the patient is systemically unwell and needs hospital admission, +/- antibiotics</li><li>blood or pus in the stool</li><li>immunocompromised</li><li>recently received antibiotics, a proton pump inhibitor (PPI) or been in hospital</li><li>recent foreign travel </li><li><span class=\"concept\" data-cid=\"12163\">public health indication</span>: diarrhoea in high-risk people (for example food handlers, healthcare workers, elderly residents in care homes), suspected food poisoning (for example after a barbeque, restaurant meal, or eating eggs, chicken, or shellfish)</li></ul></li></ul><br />Bloods<br /><ul><li>bloods are not routinely indicated</li><li><span class=\"concept\" data-cid=\"12162\">however, if severe, these may show</span><ul><li>acute kidney injury</li><li>hypokalaemia</li><li>hyponatraemia</li></ul></li></ul>",
+        "notes_hash": "9f4ce6005c5710ae2741f423a3870885",
+        "knowledge_graph_node_id_link": 10019,
+        "concept": "Watery travellers diarrhoea with stomach cramps and nausea, think Enterotoxigenic E. coli",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "5690",
+        "up_votes": "18",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "29",
+            "94",
+            "3949",
+            "1380",
+            "238",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_216\" data-linkid=\"216\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_216\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_216\" data-linkid=\"216\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_216\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nice.org.uk/guidance/dg11\">Faecal calprotectin diagnostic tests for inflammatory diseases of the bowel</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "6196": {
+                "concept_text": "Ulcerative colitis - bloody diarrhoea",
+                "concept_percentile": "47"
+            },
+            "6197": {
+                "concept_text": "Ulcerative colitis - tenesmus",
+                "concept_percentile": "24"
+            },
+            "6205": {
+                "concept_text": "Crohn's disease - mouth ulcers",
+                "concept_percentile": "6"
+            },
+            "6206": {
+                "concept_text": "Crohn's disease - perianal disease",
+                "concept_percentile": "22"
+            },
+            "6207": {
+                "concept_text": "Crohn's disease - intestinal obstruction",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_9487",
+        "new_question_id": "11425",
+        "question_type": "1",
+        "category": "4",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2003",
+        "theme": "Causes of upper gastrointestinal haemorrhage",
+        "instruction": "Please select the most appropriate likely diagnosis for the scenario given. Each option may be used once, more than once or not at all.",
+        "options": [
+            "",
+            "Gastric ulcer",
+            "Mallory-Weiss tear",
+            "Oesphageal varices",
+            "Dieulafoy lesion",
+            "Gastritis",
+            "Boerhaave's syndrome",
+            "Duodenal ulcer",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 7,
+        "questions": [
+            "A 35-year-old man is admitted with an episode of collapse and passage of malaena. He has been suffering from epigastric pain between meals for 5 weeks and this is most marked several hours after eating.",
+            "Z 72-xdzq-nkc lzm hr zclhssdc vhsg zm dohrncd ne aqhrj gzdlzsdldrhr. Enkknvhmf qdrtrbhszshnm zm toodq FH dmcnrbnox hr odqenqldc zmc z oqnlhmdms aknnc udrrdk hr hcdmshehdc hm sgd ltbnrz zooqnwhlzsdkx 6 bl eqnl sgd N-F itmbshnm nm sgd kdrrdq btqud ne sgd rsnlzbg.",
+            "Z 56-xdzq-nkc lzm hr zclhssdc vhsg z oqnetrd toodq fzrsqn hmsdrshmzk gzdlnqqgzfd. Gd hr qdkzshudkx lzkmntqhrgdc zmc gzr duhcdmbd ne fxmzdbnlzrshz."
+        ],
+        "answers": [
+            "7",
+            "4",
+            "3"
+        ],
+        "notes": [
+            "Patients with duodenal ulcers will usually have a history of epigastric pain that occurs several hours after eating. The pain is often improved by eating food. They are most frequently located in the first part of the duodenum. Anteriorly sited ulcers may perforate and result in peritonitis, posteriorly sited ulcers may erode the gastroduodenal artery and present with haematemesis and/ or malaena. ",
+            "These small arterial lesions are a rare cause of bleeding and are characterised by a single large tortuous arteriole in the sub mucosa. Extra gastric lesions may occur.",
+            "Patients presenting with gastrointestinal bleeding and evidence of established liver disease may have portal hypertension and develop variceal haemorrhage. The patient may have evidence of jaundice, gynaecomastia, spider naevia, caput medusae and ascites. The bleeding is usually profuse and painless."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old man is admitted with an episode of collapse and passage of malaena. He has been suffering from epigastric pain between meals for 5 weeks and this is most marked several hours after eating.",
+        "correct_answer": "7",
+        "question_notes": "Patients with duodenal ulcers will usually have a history of epigastric pain that occurs several hours after eating. The pain is often improved by eating food. They are most frequently located in the first part of the duodenum. Anteriorly sited ulcers may perforate and result in peritonitis, posteriorly sited ulcers may erode the gastroduodenal artery and present with haematemesis and/ or malaena. ",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Acute upper gastrointestinal bleeding",
+        "body": "Acute upper gastrointestinal (GI) bleeding is a common and important presentation. It may be caused by a wide variety of conditions but is most commonly due to either oesophageal varices or peptic ulcer disease.<br /><br />Clinical features<br /><ul><li>haematemesis<ul><li>the most common presenting feature</li><li>often bright red but may sometimes be described as 'coffee ground'</li></ul></li><li>melena<ul><li>the passage of altered blood per rectum</li><li>typically black and 'tarry'</li></ul></li><li><span class=\"concept\" data-cid=\"2323\">a raised urea may be seen due to the 'protein meal' of the blood</span></li><li>features associated with a particular diagnosis e,g,<ul><li>oesophageal varices: stigmata of chronic liver disease</li><li>peptic ulcer disease: abdominal pain</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Differential diagnosis</h5><br /><h6 class='notes-subheading'>Oesophageal causes</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Cause</b></th><th><b>\tPresenting features</b></th></tr></thead><tbody><tr><td>Oesophageal varices\t</td><td>Usually a large volume of fresh blood. Swallowed blood may cause melena.  Often associated with haemodynamic compromise. May stop spontaneously but re-bleeds are common until appropriately managed.</td></tr><tr><td>Oesophagitis\t</td><td>Small volume of fresh blood, often streaking vomit. Melena rare. Often ceases spontaneously. Usually history of antecedent GORD-type symptoms.</td></tr><tr><td>Cancer</td><td>\tUsually small volume of blood, except as a preterminal event with erosion of major vessels. Often associated symptoms of dysphagia and constitutional symptoms such as weight loss. May be recurrent until malignancy is managed.</td></tr><tr><td>Mallory Weiss tear</td><td>\tTypically brisk small to moderate volume of bright red blood following a bout of repeated vomiting. Melena is rare. Usually ceases spontaneously.</td></tr></tbody></table></div><br /><h6 class='notes-subheading'>Gastric causes</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Cause</b></th><th><b>\tPresenting features</b></th></tr></thead><tbody><tr><td>Gastric ulcer</td><td>\tSmall low low-volume bleeds are more common so would tend to present as iron deficiency anaemia. Erosion into a significant vessel may produce considerable haemorrhage and haematemesis.</td></tr><tr><td>Gastric cancer\t</td><td>May be frank haematemesis or altered blood mixed with vomit. Usually prodromal features of dyspepsia and may have constitutional symptoms. Amount of bleeding variable but erosion of major vessel may produce considerable haemorrhage.</td></tr><tr><td>Dieulafoy lesion\t</td><td>Often no prodromal features prior to haematemesis and melena, but this arteriovenous malformation may produce quite a considerable haemorrhage and may be difficult to detect endoscopically</td></tr><tr><td>Diffuse erosive gastritis\t</td><td>Usually haematemesis and epigastric discomfort. Usually, there is an underlying cause such as recent NSAID usage. Large volume haemorrhage may occur with considerable haemodynamic compromise</td></tr></tbody></table></div><br /><h6 class='notes-subheading'>Duodenual causes</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>Cause</b></th><th><b>\tPresenting features</b></th></tr></thead><tbody><tr><td>Duodenal ulcer</td><td>These are usually posteriorly sited and may erode the <span class=\"concept\" data-cid=\"1588\">gastroduodenal artery</span>. However, ulcers at any site in the duodenum may present with haematemesis, melena and epigastric discomfort. <br /><br />The pain of a duodenal ulcer is slightly different to that of gastric ulcers and often occurs several hours after eating. Periampullary tumours may bleed but these are rare.</td></tr><tr><td>Aorto-enteric fistula</td><td>In patients with previous abdominal aortic aneurysm surgery aorto-enteric fistulation remains a rare but important cause of major haemorrhage associated with high mortality.</td></tr></tbody></table></div><br /><br /><h5 class='notes-heading'>Management</h5><br />NICE published guidelines in 2012 on the management of acute upper gastrointestinal bleeding which is most commonly due to either peptic ulcer disease or oesophageal varices. Some of the key points are detailed below.<br /><br />Risk assessment<br /><ul><li>the Glasgow-Blatchford score at first assessment<ul><li>helps clinicians decide whether patients can be managed as outpatients or not</li></ul></li><li> the <span class=\"concept\" data-cid=\"11673\">Rockall score is used <i>after</i> endoscopy</span><ul><li>provides a percentage risk of rebleeding and mortality</li><li>includes age, features of shock, co-morbidities, aetiology of bleeding and endoscopic stigmata of recent haemorrhage</li></ul></li></ul><br /><h6 class='notes-subheading'>Blatchford score</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid4\" ><thead><tr><th><b>Admission risk marker</b></th><th><b>Score</b></th></tr></thead><tbody><tr><td>Urea (mmol/L)<br /><br />(<span class=\"concept\" data-cid=\"2323\">High urea levels</span> in upper GI bleeds are due to the 'protein meal' of blood)</td><td>6\u00b75 - 8 = 2<br />8 - 10 = 3<br />10 - 25 = 4<br />> 25 = 6</td></tr><tr><td>Haemoglobin  (g/L)</td><td>Men<br /><ul><li>12 - 13 = 1</li><li>10 - 12 = 3</li><li>< 10 = 6</li></ul><br />Women<br /><ul><li>10 - 12 = 1</li><li>< 10 = 6</td></tr><tr><td></li></ul>Systolic blood pressure (mmHg)</td><td>100 - 109 = 1<br />90 - 99 = 2<br />< 90 = 3</td></tr><tr><td>Other markers</td><td>Pulse >=100/min = 1<br />Presentation with melaena = 1<br />Presentation with syncope = 2<br />Hepatic disease = 2<br />Cardiac failure = 2</td></tr></tbody></table></div><br /><span class=\"concept\" data-cid=\"3472\">Patients with a Blatchford score of 0 may be considered for early discharge.</span><br /><br />Resuscitation<br /><ul><li>ABC, wide-bore intravenous access * 2</li><li>platelet transfusion if actively bleeding platelet count of less than 50 x 10*9/litre</li><li>fresh frozen plasma to patients who have either a fibrinogen level of less than 1 g/litre, or a prothrombin time (international normalised ratio) or activated partial thromboplastin time greater than 1.5 times normal</li><li>prothrombin complex concentrate to patients who are taking warfarin and actively bleeding</li></ul><br />Endoscopy<br /><ul><li>should be offered immediately after resuscitation in patients with a severe bleed</li><li><span class=\"concept\" data-cid=\"4226\">all patients should have endoscopy within 24 hours</span></li></ul><br />Management of non-variceal bleeding<br /><ul><li><span class=\"concept\" data-cid=\"4227\">NICE do not recommend the use of proton pump inhibitors (PPIs) before endoscopy</span> to patients with suspected variceal upper gastrointestinal bleeding although PPIs should be given to patients with non-variceal upper gastrointestinal bleeding and stigmata of recent haemorrhage shown at endoscopy</li><li>if further bleeding then options include repeat endoscopy, interventional radiology and surgery</li></ul><br />Management of variceal bleeding<br /><ul><li>terlipressin and prophylactic antibiotics should be given to patients at presentation (i.e. before endoscopy)</li><li>band ligation should be used for oesophageal varices and injections of N-butyl-2-cyanoacrylate for patients with gastric varices</li><li>transjugular intrahepatic portosystemic shunts (TIPS) should be offered if bleeding from varices is not controlled with the above measures</li></ul>",
+        "notes_hash": "ddbe42c5e11b87870ddd8336ccb4b8a8",
+        "knowledge_graph_node_id_link": 10044,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5689",
+        "up_votes": "20",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "3878",
+            "2636",
+            "3216",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians Edinburgh</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1498\" data-linkid=\"1498\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1498\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1498\" data-linkid=\"1498\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1498\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">26</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpe.ac.uk/sites/default/files/jrcpe_47_3_bhala.pdf\">2017 Management of acute upper gastrointestinal bleeding: an update for the general physician</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_116\" data-linkid=\"116\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_116\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_116\" data-linkid=\"116\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_116\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG141/chapter/1-Guidance\">2012 Acute upper gastrointestinal bleeding: management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xYNthb4vqgU\" data-description=\"Approach to Upper Gastrointestinal Bleeding\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"1281\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xYNthb4vqgU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xYNthb4vqgU\" data-description=\"Approach to Upper Gastrointestinal Bleeding\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"1281\">Approach to Upper Gastrointestinal Bleeding</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2267\" data-mediaid=\"2267\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2267\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2267\" data-mediaid=\"2267\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2267\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3472": {
+                "concept_text": "In an acute upper GI bleed, the Blatchford score can identify low risk patients who may be discharged ",
+                "concept_percentile": "83"
+            },
+            "4227": {
+                "concept_text": "IV proton pump inhibitors should not be administered as part of the acute management of upper GI bleeding prior to endoscopy - they should be given <i>after</i>, if there is evidence of recent non-variceal haemorrhage",
+                "concept_percentile": "65"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2076",
+        "new_question_id": "61152",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "11258",
+        "notes_id_link": "1_1506",
+        "theme": "First-line medication for Generalised Anxiety Disorder",
+        "instruction": "",
+        "options": [
+            "",
+            "Citalopram",
+            "Diazepam",
+            "Pregabalin",
+            "Sertraline",
+            "Venlafaxine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old man reports 8 months of persistent, excessive worry about work and finances, causing poor sleep and muscle tension. He has tried guided self-help with minimal benefit. After discussing options, he prefers medication. Physical examination and thyroid function tests are normal.<br /><br />Select the single most appropriate initial medication from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Sertraline</b> is the correct answer. According to NICE guidelines (CG113) for Generalised Anxiety Disorder (GAD), management follows a stepped-care model. This patient has already engaged with step 2 (low-intensity psychological interventions - guided self-help) without success, so he is now at step 3. At this stage, treatment options include either high-intensity psychological interventions (like CBT) or drug treatment. The patient has expressed a preference for medication. NICE specifically recommends sertraline as the first-line Selective Serotonin Reuptake Inhibitor (SSRI) for GAD. It has a favourable balance of efficacy and tolerability. The patient should be counselled about the potential for an initial increase in anxiety and the delayed onset of therapeutic effect, which can take several weeks. Regular follow-up is essential, particularly in the first month.<br /><br /><b>Citalopram</b> is another SSRI that can be used to treat anxiety disorders. However, NICE guidance for GAD specifically names sertraline as the preferred first-line agent. Other SSRIs, such as citalopram or escitalopram, or a Serotonin-Noradrenaline Reuptake Inhibitor (SNRI), would typically be considered second-line if sertraline proves to be ineffective or is not tolerated by the patient. Therefore, while a plausible option, it is not the single most appropriate initial choice.<br /><br /><b>Diazepam</b> is a benzodiazepine. While effective for the rapid relief of anxiety symptoms, its use in GAD is strongly discouraged by NICE for long-term management. Benzodiazepines are associated with a high risk of tolerance, dependence, and significant withdrawal symptoms. Their use should be reserved for short-term management of severe, disabling anxiety during a crisis, and for no longer than 2-4 weeks. Starting it as a first-line, long-term treatment for this patient would be inappropriate.<br /><br /><b>Pregabalin</b> is an anticonvulsant medication that is also licensed for the treatment of GAD. However, it is considered a third-line option by NICE. It should only be offered if the patient has not responded to or cannot tolerate SSRIs and SNRIs. Its side effect profile includes dizziness and somnolence, and there are growing concerns about its potential for misuse and dependence. Therefore, it is not an appropriate initial medication.<br /><br /><b>Venlafaxine</b> is a Serotonin-Noradrenaline Reuptake Inhibitor (SNRI). SNRIs are considered a second-line pharmacological option for GAD according to NICE guidelines. They are typically offered if a patient has not responded to an adequate trial of a first-line SSRI like sertraline. Starting with venlafaxine would deviate from the recommended evidence-based pathway. It also has a different side-effect profile and can be associated with a more significant discontinuation syndrome compared to SSRIs.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old man reports 8 months of persistent, excessive worry about work and finances, causing poor sleep and muscle tension. He has tried guided self-help with minimal benefit. After discussing options, he prefers medication. Physical examination and thyroid function tests are normal.<br /><br />Select the single most appropriate initial medication from the options below.",
+        "correct_answer": "4",
+        "question_notes": "<b>Sertraline</b> is the correct answer. According to NICE guidelines (CG113) for Generalised Anxiety Disorder (GAD), management follows a stepped-care model. This patient has already engaged with step 2 (low-intensity psychological interventions - guided self-help) without success, so he is now at step 3. At this stage, treatment options include either high-intensity psychological interventions (like CBT) or drug treatment. The patient has expressed a preference for medication. NICE specifically recommends sertraline as the first-line Selective Serotonin Reuptake Inhibitor (SSRI) for GAD. It has a favourable balance of efficacy and tolerability. The patient should be counselled about the potential for an initial increase in anxiety and the delayed onset of therapeutic effect, which can take several weeks. Regular follow-up is essential, particularly in the first month.<br /><br /><b>Citalopram</b> is another SSRI that can be used to treat anxiety disorders. However, NICE guidance for GAD specifically names sertraline as the preferred first-line agent. Other SSRIs, such as citalopram or escitalopram, or a Serotonin-Noradrenaline Reuptake Inhibitor (SNRI), would typically be considered second-line if sertraline proves to be ineffective or is not tolerated by the patient. Therefore, while a plausible option, it is not the single most appropriate initial choice.<br /><br /><b>Diazepam</b> is a benzodiazepine. While effective for the rapid relief of anxiety symptoms, its use in GAD is strongly discouraged by NICE for long-term management. Benzodiazepines are associated with a high risk of tolerance, dependence, and significant withdrawal symptoms. Their use should be reserved for short-term management of severe, disabling anxiety during a crisis, and for no longer than 2-4 weeks. Starting it as a first-line, long-term treatment for this patient would be inappropriate.<br /><br /><b>Pregabalin</b> is an anticonvulsant medication that is also licensed for the treatment of GAD. However, it is considered a third-line option by NICE. It should only be offered if the patient has not responded to or cannot tolerate SSRIs and SNRIs. Its side effect profile includes dizziness and somnolence, and there are growing concerns about its potential for misuse and dependence. Therefore, it is not an appropriate initial medication.<br /><br /><b>Venlafaxine</b> is a Serotonin-Noradrenaline Reuptake Inhibitor (SNRI). SNRIs are considered a second-line pharmacological option for GAD according to NICE guidelines. They are typically offered if a patient has not responded to an adequate trial of a first-line SSRI like sertraline. Starting with venlafaxine would deviate from the recommended evidence-based pathway. It also has a different side-effect profile and can be associated with a more significant discontinuation syndrome compared to SSRIs.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Generalised anxiety disorder and panic disorder",
+        "body": "Anxiety is a common disorder that can present in multiple ways. NICE define the central feature as an 'excessive worry about a number of different events associated with heightened tension.'<br /><br />Always look for a potential physical cause when considering a psychiatric diagnosis. In anxiety disorders, important alternative causes include hyperthyroidism, cardiac disease and medication-induced anxiety (NICE). Medications that may trigger anxiety include salbutamol, theophylline, corticosteroids, antidepressants and caffeine<br /><br /><h5 class='notes-heading'>Management of generalised anxiety disorder (GAD)</h5><br />NICE suggest a step-wise approach:<br /><ul><li>step 1: education about GAD + active monitoring</li><li>step 2: low-intensity psychological interventions (individual non-facilitated self-help or individual guided self-help or psychoeducational groups)</li><li>step 3: high-intensity psychological interventions (cognitive behavioural therapy or applied relaxation) or drug treatment. See drug treatment below for more information</li><li>step 4: highly specialist input e.g. Multi agency teams</li></ul><br />Drug treatment<br /><ul><li>NICE suggest <span class=\"concept\" data-cid=\"11258\">sertraline</span> should be considered the first-line <span class=\"concept\" data-cid=\"2603\">SSRI</span></li><li>if sertraline is ineffective, offer an <span class=\"concept\" data-cid=\"4452\">alternative SSRI or a serotonin-noradrenaline reuptake inhibitor (SNRI)</span><ul><li>examples of SNRIs include duloxetine and venlafaxine</li></ul></li><li>If the person cannot tolerate SSRIs or SNRIs, consider offering <span class=\"concept\" data-cid=\"10996\">pregabalin</span></li><li>interestingly for patients under the age of 30 years NICE recommend you warn patients of the increased risk of suicidal thinking and self-harm. Weekly follow-up is recommended for the first month</li></ul><br /><h5 class='notes-heading'>Management of panic disorder</h5><br />Again a stepwise approach:<br /><ul><li>step 1: recognition and diagnosis</li><li>step 2: treatment in primary care - see below</li><li>step 3: review and consideration of alternative treatments</li><li>step 4: review and referral to specialist mental health services</li><li>step 5: care in specialist mental health services</li></ul><br />Treatment in primary care<br /><ul><li>NICE recommend either cognitive behavioural therapy or drug treatment</li><li>SSRIs are first-line. If contraindicated or no response after 12 weeks then imipramine or clomipramine should be offered</li></ul>",
+        "notes_hash": "95c92215d79f0487c02035f94056c51e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Sertraline is the first-line drug for generalised anxiety disorder",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "615",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "76",
+            "7",
+            "1",
+            "514",
+            "17",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_701\" data-linkid=\"701\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_701\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_701\" data-linkid=\"701\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_701\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nice.org.uk/guidance/cg113/chapter/1-guidance\">2011 Generalised anxiety disorder and panic disorder guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9mPwQTiMSj8\" data-description=\"Generalized anxiety disorder\" data-upvotes=\"12\" data-downvotes=\"0\" data-media=\"296\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9mPwQTiMSj8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9mPwQTiMSj8\" data-description=\"Generalized anxiety disorder\" data-upvotes=\"12\" data-downvotes=\"0\" data-media=\"296\">Generalized anxiety disorder</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_502\" data-mediaid=\"502\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_502\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_502\" data-mediaid=\"502\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_502\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PhzSsrAQuNc\" data-description=\"Anxiety Disorders for Medical Students\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1197\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/PhzSsrAQuNc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PhzSsrAQuNc\" data-description=\"Anxiety Disorders for Medical Students\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1197\">Anxiety Disorders for Medical Students</a></td></tr><tr><td><span ><small>MedFlix - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2097\" data-mediaid=\"2097\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2097\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2097\" data-mediaid=\"2097\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2097\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YxELZyA2bJs\" data-description=\"Panic disorder\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"297\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/YxELZyA2bJs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YxELZyA2bJs\" data-description=\"Panic disorder\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"297\">Panic disorder</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_503\" data-mediaid=\"503\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_503\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_503\" data-mediaid=\"503\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_503\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ah4Hnrz3CDg\" data-description=\"Understanding Anxiety (Anxiety Disorders Explained)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1436\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ah4Hnrz3CDg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ah4Hnrz3CDg\" data-description=\"Understanding Anxiety (Anxiety Disorders Explained)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1436\">Understanding Anxiety (Anxiety Disorders Explained)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2534\" data-mediaid=\"2534\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2534\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2534\" data-mediaid=\"2534\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2534\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2603": {
+                "concept_text": "SSRIs are the first-line pharmacological therapy for generalised anxiety disorder",
+                "concept_percentile": "77"
+            },
+            "11258": {
+                "concept_text": "Sertraline is the first-line drug for generalised anxiety disorder",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_228",
+        "new_question_id": "16453",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4527",
+        "notes_id_link": "1_1902",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diabetes",
+            "Hereditary hemorrhagic telangiectasia",
+            "Liver failure",
+            "Psoriasis",
+            "Addison's disease",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old lady presents to the GP as she has noticed some small spots on her shoulder.  She describes small lesions with a number of tiny blood vessels radiating from the middle. On examination you can press down on them, causing them to go white and then refill from the centre. <br /><br />Which of the following conditions is this lesion associated with?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about a woman presenting with a lesion that sounds like a spider naevi. It is a small lesion surrounded by tiny blood vessels radiating from the middle. When compressed it refills from the centre, a fact used to differentiate it from telangiectasia, that would fill from the edge. Given this is a spider naevus the correct answer is liver failure which this is associated with.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old lady presents to the GP as she has noticed some small spots on her shoulder.  She describes small lesions with a number of tiny blood vessels radiating from the middle. On examination you can press down on them, causing them to go white and then refill from the centre. <br /><br />Which of the following conditions is this lesion associated with?",
+        "correct_answer": "3",
+        "question_notes": "This question is asking about a woman presenting with a lesion that sounds like a spider naevi. It is a small lesion surrounded by tiny blood vessels radiating from the middle. When compressed it refills from the centre, a fact used to differentiate it from telangiectasia, that would fill from the edge. Given this is a spider naevus the correct answer is liver failure which this is associated with.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Spider naevi",
+        "body": "Spider naevi (also called spider angiomas) describe a central red papule with surrounding capillaries. The lesions blanch upon pressure. Spider naevi are almost always found on the upper part of the body. <br /><br />Spider naevi can be differentiated from telangiectasia by pressing on them and watching them fill. Spider naevi <span class=\"concept\" data-cid=\"4527\">fill from the centre</span>, telangiectasia from the edge .<br /><br />Around 10-15% of people will have one or more spider naevi and they are more common in childhood. Other associations<br /><ul><li>liver disease</li><li>pregnancy</li><li>combined oral contraceptive pill</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsx061.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of a spider naevi under the eye\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsx061.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd062b.jpg\" data-fancybox=\"gallery\" data-caption=\"Spider naevi are more common in childhood - this image shows a spider naevi under the eye of a child\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd062.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "5fb23c963a07b3123c1ade60b251581a",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Spider naevi can be differentiated from telangiectasia by pressing on them and watching them fill. Spider naevi fill from the centre, telangiectasia from the edge",
+        "concept_percentile": "48",
+        "concept_colour": "rgb(255,244,0)",
+        "number_attempts": "5474",
+        "up_votes": "55",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "132",
+            "2163",
+            "3070",
+            "50",
+            "59",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "4527": {
+                "concept_text": "Spider naevi can be differentiated from telangiectasia by pressing on them and watching them fill. Spider naevi fill from the centre, telangiectasia from the edge",
+                "concept_percentile": "48"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1748",
+        "new_question_id": "10230",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "2769",
+        "notes_id_link": "1_779",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pseudogout",
+            "Rheumatoid arthritis",
+            "Sarcoidosis",
+            "Gout",
+            "Osteoarthritis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old presents with a painful swollen left knee which has failed to settle after a weeks rest. There is no history of trauma. On examination he has a moderate sized effusion. A plain radiograph is reported as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Some loss of joint space<br />Linear calcification of the articular cartilage</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "This x-ray describes chondrocalcinosis. Non-specific changes such as loss of joint space are common in this age group and pseudogout itself may cause osteoarthritic-like changes.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old presents with a painful swollen left knee which has failed to settle after a weeks rest. There is no history of trauma. On examination he has a moderate sized effusion. A plain radiograph is reported as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Some loss of joint space<br />Linear calcification of the articular cartilage</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "This x-ray describes chondrocalcinosis. Non-specific changes such as loss of joint space are common in this age group and pseudogout itself may cause osteoarthritic-like changes.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Pseudogout",
+        "body": "Pseudogout is a form of microcrystal synovitis caused by the <span class=\"concept\" data-cid=\"9405\">deposition of calcium pyrophosphate dihydrate crystals in the synovium</span>. For this reason, it is now more correctly termed acute calcium pyrophosphate crystal deposition disease.<br /><br />Pseudogout is strongly associated with increasing age. Patients who develop pseudogout at a younger age (e.g. < 60 years) usually have some underlying risk factor, such as:<br /><ul><li><span class=\"concept\" data-cid=\"2661\">haemochromatosis</span></li><li><span class=\"concept\" data-cid=\"9406\">hyperparathyroidism</span></li><li>low magnesium, low phosphate</li><li> <span class=\"concept\" data-cid=\"2514\">acromegaly</span>, Wilson's disease</li></ul><br />Features<br /><ul><li>knee, wrist and shoulders most commonly affected</li><li>joint aspiration: <span class=\"concept\" data-cid=\"859\">weakly-positively birefringent rhomboid-shaped crystals</span></li><li>x-ray: <span class=\"concept\" data-cid=\"2769\">chondrocalcinosis</span><ul><li>in the knee this can be seen as linear calcifications of the meniscus and articular cartilage</li></ul></li></ul><br />Management<br /><ul><li>aspiration of joint fluid, to exclude septic arthritis</li><li>NSAIDs or intra-articular, intra-muscular or oral steroids as for gout</li></ul>",
+        "notes_hash": "a4e3c3fa44b4e798b9c33c024a822ca6",
+        "knowledge_graph_node_id_link": 10973,
+        "concept": "Chondrocalcinosis helps to distinguish pseudogout from gout",
+        "concept_percentile": "58",
+        "concept_colour": "rgb(214,255,0)",
+        "number_attempts": "5077",
+        "up_votes": "58",
+        "down_votes": "67",
+        "column_array": [
+            0,
+            "2079",
+            "271",
+            "73",
+            "212",
+            "2442",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/u2yAEdkTKNU\" data-description=\"Understanding Pseudogout\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1685\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/u2yAEdkTKNU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/u2yAEdkTKNU\" data-description=\"Understanding Pseudogout\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1685\">Understanding Pseudogout</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2857\" data-mediaid=\"2857\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2857\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2857\" data-mediaid=\"2857\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2857\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "859": {
+                "concept_text": "Pseudogout - weakly positively birefringent rhomboid-shaped crystals",
+                "concept_percentile": "40"
+            },
+            "2661": {
+                "concept_text": "Haemochromatosis is a risk factor for pseudogout \r\n",
+                "concept_percentile": "80"
+            },
+            "2769": {
+                "concept_text": "Chondrocalcinosis helps to distinguish pseudogout from gout",
+                "concept_percentile": "58"
+            },
+            "9405": {
+                "concept_text": "Pseudogout - deposition of calcium pyrophosphate dihydrate crystals",
+                "concept_percentile": "39"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1595",
+        "new_question_id": "1672",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1188",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Nasal fusidic acid + chlorhexidine for the skin",
+            "Nasal mupirocin + triclosan for the skin",
+            "Nasal mupirocin + chlorhexidine for the skin",
+            "Nasal chlorhexidine + chlorhexidine for the skin",
+            "No treatment but admit to side-room for isolation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A patient who is awaiting an inguinal hernia repair is found to be positive for MRSA after screening at the pre-admission clinic. What treatment should he be offered, if any?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Nasal mupirocin + chlorhexidine for the skin</b>. According to UK guidelines, patients who are found to be positive for Methicillin-resistant Staphylococcus aureus (MRSA) should be offered a decolonisation regimen that includes nasal mupirocin and chlorhexidine wash for the skin. Mupirocin is a topical antibiotic that eradicates MRSA from the anterior nares, which is its most common colonisation site. Chlorhexidine is an antiseptic that reduces MRSA on the skin.<br /><br /><b>Nasal fusidic acid + chlorhexidine for the skin</b> is incorrect because fusidic acid is not recommended as first-line treatment for MRSA decolonisation in the UK due to concerns about resistance development. It may be used if there's intolerance or resistance to mupirocin but this would require microbiology advice.<br /><br /><b>Nasal mupirocin + triclosan for the skin</b> is also incorrect. Triclosan was previously used as an antibacterial and antifungal agent in some consumer products, including soaps. However, it has been largely phased out due to concerns about bacterial resistance and potential endocrine disruption.<br /><br /><b>Nasal chlorhexidine + chlorhexidine for the skin</b> isn't right either because while chlorhexidine can reduce MRSA on the skin, it's not effective at eradicating MRSA from the anterior nares - this requires an antibiotic like mupirocin.<br /><br />Lastly, <b>No treatment but admit to side-room for isolation</b> isn't correct because although isolating patients with MRSA can reduce transmission to other patients, it doesn't treat the patient's own colonisation. Decolonisation therapy with nasal mupirocin and a chlorhexidine wash reduces both their risk of subsequent MRSA infection and their ability to transmit MRSA to others.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A patient who is awaiting an inguinal hernia repair is found to be positive for MRSA after screening at the pre-admission clinic. What treatment should he be offered, if any?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Nasal mupirocin + chlorhexidine for the skin</b>. According to UK guidelines, patients who are found to be positive for Methicillin-resistant Staphylococcus aureus (MRSA) should be offered a decolonisation regimen that includes nasal mupirocin and chlorhexidine wash for the skin. Mupirocin is a topical antibiotic that eradicates MRSA from the anterior nares, which is its most common colonisation site. Chlorhexidine is an antiseptic that reduces MRSA on the skin.<br /><br /><b>Nasal fusidic acid + chlorhexidine for the skin</b> is incorrect because fusidic acid is not recommended as first-line treatment for MRSA decolonisation in the UK due to concerns about resistance development. It may be used if there's intolerance or resistance to mupirocin but this would require microbiology advice.<br /><br /><b>Nasal mupirocin + triclosan for the skin</b> is also incorrect. Triclosan was previously used as an antibacterial and antifungal agent in some consumer products, including soaps. However, it has been largely phased out due to concerns about bacterial resistance and potential endocrine disruption.<br /><br /><b>Nasal chlorhexidine + chlorhexidine for the skin</b> isn't right either because while chlorhexidine can reduce MRSA on the skin, it's not effective at eradicating MRSA from the anterior nares - this requires an antibiotic like mupirocin.<br /><br />Lastly, <b>No treatment but admit to side-room for isolation</b> isn't correct because although isolating patients with MRSA can reduce transmission to other patients, it doesn't treat the patient's own colonisation. Decolonisation therapy with nasal mupirocin and a chlorhexidine wash reduces both their risk of subsequent MRSA infection and their ability to transmit MRSA to others.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "MRSA",
+        "body": "Methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) was one of the first organisms which highlighted the dangers of hospital-acquired infections.<br /><br />Who should be screened for MRSA?<br /><ul><li>all patients awaiting elective admissions (exceptions include day patients having terminations of pregnancy and ophthalmic surgery. Patients admitted to mental health trusts are also excluded)</li><li>from 2011 all emergency admissions will be screened</li></ul><br />How should a patient be screened for MRSA?<br /><ul><li>nasal swab and skin lesions or wounds</li><li>the swab should be wiped around the inside rim of a patient's nose for 5 seconds</li><li>the microbiology form must be labelled 'MRSA screen'</li></ul><br />Suppression of MRSA from a carrier once identified<br /><ul><li>nose: mupirocin 2% in white soft paraffin, tds for 5 days</li><li>skin: chlorhexidine gluconate, od for 5 days. Apply all over but particularly to the axilla, groin and perineum</li></ul><br />The following antibiotics are commonly used in the treatment of MRSA infections:<br /><ul><li><span class=\"concept\" data-cid=\"12022\">vancomycin</span></li><li>teicoplanin</li><li>linezolid</li></ul><br />Some strains may be sensitive to the antibiotics listed below but they should not generally be used alone because resistance may develop:<br /><ul><li>rifampicin</li><li>macrolides</li><li>tetracyclines</li><li>aminoglycosides</li><li>clindamycin</li></ul><br />Relatively new antibiotics such as linezolid, quinupristin/dalfopristin combinations and tigecycline have activity against MRSA but should be reserved for resistant cases<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Interaction of MRSA (green bacteria) with a human white cell. The bacteria shown is strain MRSA252, a leading cause of hospital-associated infections in the United States and United Kingdom. Credit: NIAID</div>",
+        "notes_hash": "b9e685a33975f9295ab1587e59f6579e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6199",
+        "up_votes": "23",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "629",
+            "186",
+            "4400",
+            "287",
+            "697",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_858\" data-linkid=\"858\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_858\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_858\" data-linkid=\"858\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_858\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nice.org.uk/guidance/CG139/chapter/1-Guidance\">2012 Infection control guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>Health Protection Agency</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_766\" data-linkid=\"766\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_766\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_766\" data-linkid=\"766\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_766\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/330793/MRSA_screening_and_supression_primary_care_guidance.pdf\">2009 MRSA Screening and Suppression guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "12022": {
+                "concept_text": "Vancomycin is a useful antibiotic to treat MRSA infections",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2098",
+        "new_question_id": "7099",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2380",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intussusception",
+            "Inflammatory bowel disease",
+            "Pyloric stenosis",
+            "Hirschsprung's disease",
+            "Necrotising enterocolitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Henry is a premature baby (29 weeks) who was born 2 weeks ago. Over the past week, he has been passing bloody stools, has abdominal distension and has not been feeding well. Physical examination reveals an increased abdominal girth with reduced bowel sounds. Abdominal X-ray shows dilated asymmetrical bowel loops and bowel wall oedema. <br />What is the likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer for this question is necrotising enterocolitis.<br /><br />Necrotising enterocolitis is one of the leading causes of death among premature infants. Initial symptoms can include feeding intolerance, abdominal distension and bloody stools, which can quickly progress to abdominal discolouration, perforation and peritonitis. <br /><br />Abdominal x-rays are useful when diagnosing necrotising enterocolitis, as they can show:<br /><br /><ul><li>dilated bowel loops (often asymmetrical in distribution)</li><li>bowel wall oedema</li><li>pneumatosis intestinalis (intramural gas)</li><li>portal venous gas</li><li>pneumoperitoneum resulting from perforation</li><li>air both inside and outside of the bowel wall (Rigler sign)</li><li>air outlining the falciform ligament (football sign)</li></ul><br />Two of these features are present on the abdominal x-ray of the patient in this scenario.<br /><br />Intussusception does not fit the above scenario due to the x-ray findings. Furthermore, the characteristic hallmarks of intussusception on physical examination of a sausage-shaped mass in the right hypochondrium and emptiness in the right lower quadrant (Dance's sign) where not present in this patient.<br /><br />Inflammatory bowel disease is unlikely to affect an infant as young as the one in this scenario, meaning this would not be on a list of likely differentials. <br /><br />The history of the infant described above does not fit in with a differential of pyloric stenosis. Infants with pyloric stenosis generally present with increasing episodes of vomiting following feeding, with these episodes often being described as projectile due to their forceful nature.<br /><br />Hirschsprung's disease is an important differential for this infant. Given the history a diagnosis of Hirschsprung's disease could be a possibility. However, due to necrotising enterocolitis being more prevalent in premature infants it cannot be the 'likeliest' diagnosis in this case.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Henry is a premature baby (29 weeks) who was born 2 weeks ago. Over the past week, he has been passing bloody stools, has abdominal distension and has not been feeding well. Physical examination reveals an increased abdominal girth with reduced bowel sounds. Abdominal X-ray shows dilated asymmetrical bowel loops and bowel wall oedema. <br />What is the likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer for this question is necrotising enterocolitis.<br /><br />Necrotising enterocolitis is one of the leading causes of death among premature infants. Initial symptoms can include feeding intolerance, abdominal distension and bloody stools, which can quickly progress to abdominal discolouration, perforation and peritonitis. <br /><br />Abdominal x-rays are useful when diagnosing necrotising enterocolitis, as they can show:<br /><br /><ul><li>dilated bowel loops (often asymmetrical in distribution)</li><li>bowel wall oedema</li><li>pneumatosis intestinalis (intramural gas)</li><li>portal venous gas</li><li>pneumoperitoneum resulting from perforation</li><li>air both inside and outside of the bowel wall (Rigler sign)</li><li>air outlining the falciform ligament (football sign)</li></ul><br />Two of these features are present on the abdominal x-ray of the patient in this scenario.<br /><br />Intussusception does not fit the above scenario due to the x-ray findings. Furthermore, the characteristic hallmarks of intussusception on physical examination of a sausage-shaped mass in the right hypochondrium and emptiness in the right lower quadrant (Dance's sign) where not present in this patient.<br /><br />Inflammatory bowel disease is unlikely to affect an infant as young as the one in this scenario, meaning this would not be on a list of likely differentials. <br /><br />The history of the infant described above does not fit in with a differential of pyloric stenosis. Infants with pyloric stenosis generally present with increasing episodes of vomiting following feeding, with these episodes often being described as projectile due to their forceful nature.<br /><br />Hirschsprung's disease is an important differential for this infant. Given the history a diagnosis of Hirschsprung's disease could be a possibility. However, due to necrotising enterocolitis being more prevalent in premature infants it cannot be the 'likeliest' diagnosis in this case.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Necrotising enterocolitis",
+        "body": "Necrotising enterocolitis is one of the leading causes of death among <span class=\"concept\" data-cid=\"2311\">premature infants</span>. Initial symptoms can include <span class=\"concept\" data-cid=\"3812\">feeding intolerance, abdominal distension and bloody stools</span>, which can quickly progress to abdominal discolouration, perforation and peritonitis. <br /><br /><span class=\"concept\" data-cid=\"5702\">Abdominal x-rays</span> are useful when diagnosing necrotising enterocolitis, as they can show:<br /><ul><li>dilated bowel loops (often asymmetrical in distribution)</li><li>bowel wall oedema</li><li><span class=\"concept\" data-cid=\"3856\">pneumatosis intestinalis (intramural gas)</span></li><li>portal venous gas</li><li>pneumoperitoneum resulting from perforation</li><li>air both inside and outside of the bowel wall (Rigler sign)</li><li>air outlining the falciform ligament (football sign)</li></ul>",
+        "notes_hash": "12f40648da6ef8230a23b331ce555fc3",
+        "knowledge_graph_node_id_link": 10966,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5690",
+        "up_votes": "33",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "928",
+            "16",
+            "52",
+            "782",
+            "3912",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x-mAKtgv_oA\" data-description=\"Necrotizing enterocolitis imaging\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"498\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x-mAKtgv_oA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x-mAKtgv_oA\" data-description=\"Necrotizing enterocolitis imaging\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"498\">Necrotizing enterocolitis imaging</a></td></tr><tr><td><span ><small>Pediatricradiologyacademy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_867\" data-mediaid=\"867\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_867\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_867\" data-mediaid=\"867\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_867\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "3812": {
+                "concept_text": "Early signs of necrotising enterocolitis: feeding intolerance, abdominal distension and bloody stools",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

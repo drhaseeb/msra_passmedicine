@@ -1,0 +1,875 @@
+[
+    {
+        "question_id": "1_B_3914",
+        "new_question_id": "11643",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "1000",
+        "notes_id_link": "1_2562",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Continue clopidogrel monotherapy",
+            "Switch to aspirin + clopidogrel",
+            "Switch to an oral anticoagulant + clopidogrel",
+            "Switch to an oral anticoagulant",
+            "Switch to long-term low molecular weight heparin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 76-year-old man with a history of ischaemic heart disease and hypertension presents for review. He had a myocardial infarction 20 years ago but has had no problems since. His current medication is clopidogrel, atorvastatin, ramipril and bisoprolol. He has recently been feeling light-headed. An ECG shows atrial fibrillation. <br /><br />What antithrombotic medication should he now be taking?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is at risk of stroke given his CHADS-VASC score (cardiovascular disease, hypertension, age etc). He, therefore, requires treatment. As his cardiovascular disease is stable, he should stop his antiplatelet and switch to oral anticoagulant monotherapy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 76-year-old man with a history of ischaemic heart disease and hypertension presents for review. He had a myocardial infarction 20 years ago but has had no problems since. His current medication is clopidogrel, atorvastatin, ramipril and bisoprolol. He has recently been feeling light-headed. An ECG shows atrial fibrillation. <br /><br />What antithrombotic medication should he now be taking?",
+        "correct_answer": "4",
+        "question_notes": "This patient is at risk of stroke given his CHADS-VASC score (cardiovascular disease, hypertension, age etc). He, therefore, requires treatment. As his cardiovascular disease is stable, he should stop his antiplatelet and switch to oral anticoagulant monotherapy.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Combination antiplatelet and anticoagulant therapy",
+        "body": "With the increase in comorbidity, it is now common to find that a patient has an indication for both an antiplatelet (e.g. established cardiovascular disease) and an anticoagulant (e.g. atrial fibrillation, venous thromboembolism or valvular heart disease). However, combination therapy increases the risk of bleeding and may not be needed in all cases. How should this be managed?<br /><br />Whilst there are not guidelines to cover every scenario a recent review in the BMJ offered an expert opinion outlining the approach in common scenarios.<br /><br />Secondary prevention of stable cardiovascular disease with an indication for an anticoagulant<br /><ul><li>normally in this situation, all patients are recommended to be prescribed an antiplatelet</li><li>if an indication for anticoagulant exists (for example atrial fibrillation) it is indicated that <span class=\"concept\" data-cid=\"1000\">anticoagulant monotherapy is given without the addition of antiplatelets</span></li></ul><br />Post-acute coronary syndrome/percutaneous coronary intervention<br /><ul><li>in these patients, there is a much stronger indication for antiplatelet therapy</li><li>generally patients are given triple therapy (<span class=\"concept\" data-cid=\"1000\">2 antiplatelets + 1 anticoagulant</span>) for 4 weeks-6 months after the event and dual therapy (1 antiplatelet + 1 anticoagulant) to complete 12 months</li><li>there is variation from patient to patient however given that the stroke risk in atrial fibrillation varies according to risk factors.</li></ul><br />Venous thromboembolism (VTE)<br /><ul><li>if a patient on antiplatelets develops a VTE they are likely to be prescribed anticoagulants for 3-6 months</li><li>an ORBIT score should be calculated. Those with a low risk of bleeding may continue antiplatelets. In patients with an intermediate or high risk of bleeding consideration should be given to stopping the antiplatelets</li></ul><br />For more information please see BMJ 2017;358:j3782",
+        "notes_hash": "d3c579c51c750114372d2d5ff82cefa9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Patients with <i>stable</i> CVD who have AF are generally managed on an anticoagulant and the antiplatelets stopped",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "6358",
+        "up_votes": "57",
+        "down_votes": "86",
+        "column_array": [
+            0,
+            "137",
+            "435",
+            "2252",
+            "3389",
+            "145",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "1000": {
+                "concept_text": "Patients with <i>stable</i> CVD who have AF are generally managed on an anticoagulant and the antiplatelets stopped",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_74",
+        "new_question_id": "15020",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "2979",
+        "notes_id_link": "1_1513",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Infrapatellar bursitis",
+            "Osteoarthritis",
+            "Cruciate ligament damage",
+            "Meniscal tear",
+            "Ruptured bursa",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a foundation year two doctor in general practice. A thirty-three-year-old priest presents complaining of knee pain. No history of trauma. His observations are stable and examination reveals pain and tenderness overlying the knee with slight swelling. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Given the history and this gentleman's occupation infrapatellar bursitis is the most likely diagnosis. <br /><br />Prepatellar bursitis may be the cause. However this is more commonly seen in housemaids due to more upright kneeling whereas infrapatellar bursitis is linked to clergymen. <br /><br />Osteoarthritis is much more common over the age of forty-five and although patients describe knee pain they also describe a sensation of 'giving way'. Therefore this patient is likely to be a little too young for osteoarthritis.<br /><br />Cruciate ligament damage presents with pain and instability of the knee. There is typically a history of trauma.<br /><br />A meniscal tear again comes with a history of trauma and presents with instability as well as pain.<br /><br />A ruptured bursa is less common and associated with trauma.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a foundation year two doctor in general practice. A thirty-three-year-old priest presents complaining of knee pain. No history of trauma. His observations are stable and examination reveals pain and tenderness overlying the knee with slight swelling. What is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "Given the history and this gentleman's occupation infrapatellar bursitis is the most likely diagnosis. <br /><br />Prepatellar bursitis may be the cause. However this is more commonly seen in housemaids due to more upright kneeling whereas infrapatellar bursitis is linked to clergymen. <br /><br />Osteoarthritis is much more common over the age of forty-five and although patients describe knee pain they also describe a sensation of 'giving way'. Therefore this patient is likely to be a little too young for osteoarthritis.<br /><br />Cruciate ligament damage presents with pain and instability of the knee. There is typically a history of trauma.<br /><br />A meniscal tear again comes with a history of trauma and presents with instability as well as pain.<br /><br />A ruptured bursa is less common and associated with trauma.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Knee problems: older adults",
+        "body": "The table below summarises the key features of common knee problems:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Condition</b></th><th><b>Key features</b></th></tr></thead><tbody><tr><td><b>Osteoarthritis of the knee </b></td><td>Patient is typically > 50 years,  often overweight<br />Pain may be severe<br />Intermittent swelling, crepitus and limitation of movement may occur</td></tr><tr><td><b>Infrapatellar bursitis<br />(Clergyman's knee)</b></td><td>Associated with kneeling</td></tr><tr><td><b>Prepatellar bursitis<br />(Housemaid's knee)</b></td><td>Associated with more upright kneeling</td></tr><tr><td><b>Anterior cruciate ligament</b></td><td>May be caused by twisting of the knee - 'popping' noise may have been noted<br />Rapid onset of knee effusion<br />Positive draw test</td></tr><tr><td><b>Posterior cruciate ligament</b></td><td>May be caused by anterior force applied to the proximal tibia (e.g. knee hitting dashboard during car accident)</td></tr><tr><td><b>Collateral ligament</b></td><td>Tenderness over the affected ligament<br />Knee effusion may be seen</td></tr><tr><td><b>Meniscal lesion</b></td><td>May be caused by twisting of the knee<br />Locking and giving-way are common feature<br />Tender joint line</td></tr></tbody></table></div><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd507b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd507.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd507b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER>",
+        "notes_hash": "ea8f64df75487da06b95f3af1aac1e5c",
+        "knowledge_graph_node_id_link": 10082,
+        "concept": "Infrapatellar bursitis: associated with kneeling as seen in clergymen ",
+        "concept_percentile": "46",
+        "concept_colour": "rgb(255,234,0)",
+        "number_attempts": "4398",
+        "up_votes": "27",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "3986",
+            "139",
+            "50",
+            "91",
+            "132",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Irg3Cb4JaE8\" data-description=\"McMurray's Test\" data-upvotes=\"14\" data-downvotes=\"3\" data-media=\"761\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Irg3Cb4JaE8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Irg3Cb4JaE8\" data-description=\"McMurray's Test\" data-upvotes=\"14\" data-downvotes=\"3\" data-media=\"761\">McMurray's Test</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1330\" data-mediaid=\"1330\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1330\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_1330\" data-mediaid=\"1330\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1330\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wlLfNls75RY\" data-description=\"Knee Examination\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"135\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wlLfNls75RY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wlLfNls75RY\" data-description=\"Knee Examination\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"135\">Knee Examination</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_238\" data-mediaid=\"238\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_238\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_238\" data-mediaid=\"238\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_238\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1648_B_7",
+        "new_question_id": "5608",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1888",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Uveitis",
+            "Acute optic neuritis",
+            "Migraine with aura",
+            "Posterior vitreous detachment",
+            "Retinal detachment",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old businessman presents to Eye Casualty with a 1 hour history of blurred vision affecting both eyes. He describes several wavy and shimmering lines in his periphery which are progressively enlarging. On slit lamp examination, the anterior chamber is clear and the fundus appears normal. What is the most likely cause of his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has a migraine with aura. This is seen in around 25% of migraine suffers and usually causes visual symptoms preceding the headache. The patient describes 'wavy' and 'shimmering' lines in his vision which is known as a scintillating scotoma. Good history taking is important in this scenario as the patient may not necessarily volunteer a history of headaches. A normal ophthalmological examination is fundamental for diagnosis. <br /><br />The other options listed would be associated with findings on examination:<br /><br />Uveitis- cells in the anterior chamber<br /><br />Optic neuritis- relative afferent pupillary defect, pale disc (usually temporal pallor)<br /><br />Posterior vitreous detachment- Weiss ring appearance, occasional haemorrhage<br /><br />Retinal detachment- retinal tear, 'tobacco dust' in the anterior chamber",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old businessman presents to Eye Casualty with a 1 hour history of blurred vision affecting both eyes. He describes several wavy and shimmering lines in his periphery which are progressively enlarging. On slit lamp examination, the anterior chamber is clear and the fundus appears normal. What is the most likely cause of his symptoms?",
+        "correct_answer": "3",
+        "question_notes": "This patient has a migraine with aura. This is seen in around 25% of migraine suffers and usually causes visual symptoms preceding the headache. The patient describes 'wavy' and 'shimmering' lines in his vision which is known as a scintillating scotoma. Good history taking is important in this scenario as the patient may not necessarily volunteer a history of headaches. A normal ophthalmological examination is fundamental for diagnosis. <br /><br />The other options listed would be associated with findings on examination:<br /><br />Uveitis- cells in the anterior chamber<br /><br />Optic neuritis- relative afferent pupillary defect, pale disc (usually temporal pallor)<br /><br />Posterior vitreous detachment- Weiss ring appearance, occasional haemorrhage<br /><br />Retinal detachment- retinal tear, 'tobacco dust' in the anterior chamber",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Migraine: diagnostic criteria",
+        "body": "The International Headache Society has produced the following diagnostic criteria for migraine without aura:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Point</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>A</b></td><td>At least 5 attacks fulfilling criteria B-D</td></tr><tr><td><b>B</b></td><td>Headache attacks lasting 4-72 hours* (untreated or unsuccessfully treated)</td></tr><tr><td><b>C</b></td><td>Headache has at least two of the following characteristics:<br /><ul><li>1. unilateral location*</li><li>2. pulsating quality (i.e., varying with the heartbeat)</li><li>3. moderate or severe pain intensity</li><li>4. aggravation by or causing avoidance of routine physical activity (e.g., walking or climbing stairs)</td></tr><tr><td></li></ul><b>D</b></td><td>During headache at least one of the following:<br /><ul><li>1. nausea and/or vomiting*</li><li>2. photophobia and phonophobia</td></tr><tr><td></li></ul><b>E</b></td><td>Not attributed to another disorder (history and examination do not suggest a secondary headache disorder or, if they do, it is ruled out by appropriate investigations or headache attacks do not occur for the first time in close temporal relation to the other disorder)</td></tr></tbody></table></div><br />*In children, attacks may be shorter-lasting, headache is more commonly bilateral, and gastrointestinal disturbance is more prominent.<br /><br />Migraine with aura (seen in around 25% of migraine patients) tends to be easier to diagnose with a typical aura being progressive in nature and may occur hours prior to the headache. Typical aura include a transient hemianopic disturbance or a spreading scintillating scotoma ('jagged crescent'). Sensory symptoms may also occur<br /><br />If we compare these guidelines to the <b>NICE criteria</b> the following points are noted:<br /><ul><li>NICE suggests migraines may be unilateral or bilateral</li><li>NICE also give more detail about typical auras:</li></ul><br />Auras may occur with or without headache and:<br /><ul><li>are fully reversible</li><li>develop over at least 5 minutes</li><li>last 5-60 minutes</li></ul><br />The following aura symptoms are atypical and may prompt further investigation/referral;<br /><ul><li>motor weakness</li><li>double vision</li><li>visual symptoms affecting only one eye</li><li>poor balance</li><li>decreased level of consciousness.</li></ul>",
+        "notes_hash": "c7c209740766f0b28742dea99edaecc1",
+        "knowledge_graph_node_id_link": 1016,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4914",
+        "up_votes": "40",
+        "down_votes": "78",
+        "column_array": [
+            0,
+            "132",
+            "688",
+            "2701",
+            "929",
+            "464",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>International Headache Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1478\" data-linkid=\"1478\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1478\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1478\" data-linkid=\"1478\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1478\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ihs-headache.org/binary_data/3245_ichd-3-cephalalgia-2018-issue-1.pdf\">2019 The International Classification of Headache Disorders</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ekz-4bl66xk\" data-description=\"Migraine\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1421\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ekz-4bl66xk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ekz-4bl66xk\" data-description=\"Migraine\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1421\">Migraine</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2497\" data-mediaid=\"2497\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2497\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2497\" data-mediaid=\"2497\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2497\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"103\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/D2litdZhfzY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"103\">Migraine</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_177\" data-mediaid=\"177\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_177\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_177\" data-mediaid=\"177\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_177\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12729_B_169",
+        "new_question_id": "30506",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "2596",
+        "notes_id_link": "1_728",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Babinski's sign",
+            "Brudzi\u00c5\u201eski's sign",
+            "Glabellar tap test",
+            "Hoover's sign",
+            "Straight leg raise",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old female attends the emergency department complaining of a 2-hour history of weakness in her left leg. She denies any facial or upper limb weakness, and her speech is not slurred. She has no past medical history and does not take any regular medication. <br /><br />After further investigation, the emergency doctor suspects a non-organic cause. With the patient in the supine position, he asks her to raise her right leg against resistance whilst keeping it straight. He places his hand under the left heel as she does this, and feels pressure under his hand. <br /><br />What is the name of this clinical sign/test?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The likely diagnosis in this scenario is a conversion disorder, due to loss of motor function of the leg in the absence of an organic cause. As Hoover's sign is positive in this case, this supports this diagnosis. <br /><br />Babinski's sign is the dorsiflexion of the big toe on plantar stimulation and is indicative of an upper motor neurone lesion of the corticospinal tract. <br /><br />Brudzi\u00c5\u201eski's sign describes the reflex flexion of the hips with forced flexion of the neck. It is typically associated with meningitis but can also be present in patients with subarachnoid haemorrhage and encephalitis. <br /><br />Glabellar tap sign is also known as Myerson's sign. The area above the nose and between the eyebrows (glabella) is tapped repetitively. Healthy patients usually blink in response to the first 2-3 taps, but if a patient is unable to resist blinking beyond this, this can be indicative of early Parkinson's disease. <br /><br />The straight leg raise test is also known as Lasegue's sign. If a straight leg raise reproduces radiating leg pain, this is positive and indicates a likely lumbar disc herniation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old female attends the emergency department complaining of a 2-hour history of weakness in her left leg. She denies any facial or upper limb weakness, and her speech is not slurred. She has no past medical history and does not take any regular medication. <br /><br />After further investigation, the emergency doctor suspects a non-organic cause. With the patient in the supine position, he asks her to raise her right leg against resistance whilst keeping it straight. He places his hand under the left heel as she does this, and feels pressure under his hand. <br /><br />What is the name of this clinical sign/test?",
+        "correct_answer": "4",
+        "question_notes": "The likely diagnosis in this scenario is a conversion disorder, due to loss of motor function of the leg in the absence of an organic cause. As Hoover's sign is positive in this case, this supports this diagnosis. <br /><br />Babinski's sign is the dorsiflexion of the big toe on plantar stimulation and is indicative of an upper motor neurone lesion of the corticospinal tract. <br /><br />Brudzi\u00c5\u201eski's sign describes the reflex flexion of the hips with forced flexion of the neck. It is typically associated with meningitis but can also be present in patients with subarachnoid haemorrhage and encephalitis. <br /><br />Glabellar tap sign is also known as Myerson's sign. The area above the nose and between the eyebrows (glabella) is tapped repetitively. Healthy patients usually blink in response to the first 2-3 taps, but if a patient is unable to resist blinking beyond this, this can be indicative of early Parkinson's disease. <br /><br />The straight leg raise test is also known as Lasegue's sign. If a straight leg raise reproduces radiating leg pain, this is positive and indicates a likely lumbar disc herniation.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Unexplained symptoms",
+        "body": "There are a wide variety of psychiatric terms for patients who have symptoms for which no organic cause can be found:<br /><br />Somatisation disorder<br /><ul><li><span class=\"concept\" data-cid=\"834\">multiple physical SYMPTOMS</span> present for at least 2 years</li><li>patient refuses to accept reassurance or negative test results</li></ul><br /><span class=\"concept\" data-cid=\"11067\">Illness anxiety disorder (hypochondriasis)</span><br /><ul><li>persistent belief in the presence of an underlying <span class=\"concept\" data-cid=\"834\">serious DISEASE, e.g. cancer</span></li><li>patient again refuses to accept reassurance or negative test results</li></ul><br /><span class=\"concept\" data-cid=\"8090\">Functional neurological disorder (conversion disorder)</span><br /><ul><li>typically involves loss of motor or sensory function</li><li>the patient doesn't consciously feign the symptoms (factitious disorder) or seek material gain (malingering)</li><li>patients may be indifferent to their apparent disorder - la belle indifference - although this has not been backed up by some studies</li></ul><br /><span class=\"concept\" data-cid=\"8091\">Dissociative disorder</span><br /><ul><li>dissociation is a process of 'separating off' certain memories from normal consciousness</li><li>in contrast to conversion disorder involves psychiatric symptoms e.g. Amnesia,  fugue, stupor</li><li>dissociative identity disorder (DID) is the new term for multiple personality disorder as is the most severe form of dissociative disorder</li></ul><br /><span class=\"concept\" data-cid=\"4138\">Factitious disorder</span><br /><ul><li>also known as Munchausen's syndrome</li><li>the intentional production of physical or psychological symptoms</li></ul><br /><span class=\"concept\" data-cid=\"4139\">Malingering</span><br /><ul><li>fraudulent simulation or exaggeration of symptoms with the intention of financial or other gain</li></ul>",
+        "notes_hash": "97fbc9412b247730906412309ef7e808",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hoover's sign is a quick and useful clinical tool to differentiate organic from non-organic leg paresis. In non-organic paresis, pressure is felt under the paretic leg when lifting the non-paretic leg against pressure, this is due to involuntary contralateral hip extension",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "4832",
+        "up_votes": "37",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "98",
+            "363",
+            "141",
+            "3042",
+            "1188",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_616\" data-linkid=\"616\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_616\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_616\" data-linkid=\"616\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_616\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/13/1/80\">2013 Functional neurological symptoms</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XF2zeOdE5GY\" data-description=\"Dissociative disorders\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"449\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XF2zeOdE5GY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XF2zeOdE5GY\" data-description=\"Dissociative disorders\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"449\">Dissociative disorders</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_780\" data-mediaid=\"780\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_780\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_780\" data-mediaid=\"780\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_780\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2d/Somatic_symptom_disorder.webm\" data-description=\"Somatic symptom disorder\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1004\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2d/Somatic_symptom_disorder.webm\" data-description=\"Somatic symptom disorder\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1004\">Somatic symptom disorder</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1768\" data-mediaid=\"1768\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1768\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1768\" data-mediaid=\"1768\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1768\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "834": {
+                "concept_text": "Unexplained symptoms\n   - <b>S</b>omatisation = <b>S</b>ymptoms\n   - hypo<b>C</b>hondria = <b>C</b>ancer",
+                "concept_percentile": "35"
+            },
+            "4138": {
+                "concept_text": "Purposefully causing symptoms, for example a diabetic taking too much insulin to cause hypos, is an example of Munchausen's syndrome",
+                "concept_percentile": "32"
+            },
+            "4139": {
+                "concept_text": "Lying or exaggerating for financial gain is malingering, for example someone who fakes whiplash after a road traffic accident for an insurance payment",
+                "concept_percentile": "35"
+            },
+            "8090": {
+                "concept_text": "Functional neurological disorder (conversion disorder) - typically involves loss of motor or sensory function",
+                "concept_percentile": "44"
+            },
+            "8091": {
+                "concept_text": "Dissociative disorder - 'separating off' certain memories from normal consciousness, may manifest as amnesia,  fugue, stupor",
+                "concept_percentile": "19"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1219",
+        "new_question_id": "4120",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1697",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassure mother baby will most likely turn to a cephalic presentation prior to delivery",
+            "Refer for external cephalic version",
+            "Admit for induction of labour and trial of vaginal delivery",
+            "Refer for radiological pelvimetry",
+            "Admit for caesarean section",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A woman who is 36 weeks pregnant is reviewed. This is her first pregnancy. Her baby is known to currently lie in a breech presentation. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Refer for external cephalic version</b>. External cephalic version (ECV) is a procedure that aims to turn the fetus from a breech position into a head-down (cephalic) position. It is recommended by the National Institute for Health and Care Excellence (NICE) in the UK for women who are at or near term (36 weeks or more) with a breech presentation unless there are contraindications. ECV has been shown to reduce the rate of breech presentation at birth and caesarean section.<br /><br />The option <b>Reassure mother baby will most likely turn to a cephalic presentation prior to delivery</b> is incorrect. While it's true that many babies do spontaneously turn to a cephalic position before birth, by 36 weeks this becomes increasingly unlikely. Therefore, waiting for spontaneous version could potentially increase the risk of complications.<br /><br />The option <b>Admit for induction of labour and trial of vaginal delivery</b> is also incorrect. Induction of labour in breech presentation is not routinely recommended due to increased risks including cord prolapse, fetal distress, and difficult delivery which may lead to birth trauma.<br /><br /><b>Refer for radiological pelvimetry</b> isn't the best choice either. Pelvimetry, which measures the size and shape of the woman's pelvis using imaging techniques, was historically used in cases of breech presentation but it's no longer routinely recommended as it doesn't reliably predict successful vaginal delivery.<br /><br />Lastly, <b>Admit for caesarean section</b> wouldn't be the first-line management according to current guidelines. Although caesarean section can be considered if ECV fails or isn't suitable, it would not be performed without attempting an ECV first given that there's still time before term.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A woman who is 36 weeks pregnant is reviewed. This is her first pregnancy. Her baby is known to currently lie in a breech presentation. What is the most appropriate management?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Refer for external cephalic version</b>. External cephalic version (ECV) is a procedure that aims to turn the fetus from a breech position into a head-down (cephalic) position. It is recommended by the National Institute for Health and Care Excellence (NICE) in the UK for women who are at or near term (36 weeks or more) with a breech presentation unless there are contraindications. ECV has been shown to reduce the rate of breech presentation at birth and caesarean section.<br /><br />The option <b>Reassure mother baby will most likely turn to a cephalic presentation prior to delivery</b> is incorrect. While it's true that many babies do spontaneously turn to a cephalic position before birth, by 36 weeks this becomes increasingly unlikely. Therefore, waiting for spontaneous version could potentially increase the risk of complications.<br /><br />The option <b>Admit for induction of labour and trial of vaginal delivery</b> is also incorrect. Induction of labour in breech presentation is not routinely recommended due to increased risks including cord prolapse, fetal distress, and difficult delivery which may lead to birth trauma.<br /><br /><b>Refer for radiological pelvimetry</b> isn't the best choice either. Pelvimetry, which measures the size and shape of the woman's pelvis using imaging techniques, was historically used in cases of breech presentation but it's no longer routinely recommended as it doesn't reliably predict successful vaginal delivery.<br /><br />Lastly, <b>Admit for caesarean section</b> wouldn't be the first-line management according to current guidelines. Although caesarean section can be considered if ECV fails or isn't suitable, it would not be performed without attempting an ECV first given that there's still time before term.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Breech presentation",
+        "body": "In a breech presentation the caudal end of the fetus occupies the lower segment. Whilst around 25% of pregnancies at 28 weeks are breech it only occurs in 3% of babies near term. A frank breech is the most common presentation with the hips flexed and knees fully extended. A footling breech, where one or both feet come first with the bottom at a higher position, is rare but carries a higher perinatal morbidity<br /><br />Risk factors for breech presentation<br /><ul><li>uterine malformations, fibroids</li><li>placenta praevia</li><li>polyhydramnios or oligohydramnios</li><li>fetal abnormality (e.g. CNS malformation, chromosomal disorders)</li><li>prematurity (due to increased incidence earlier in gestation)</li></ul><br />Cord prolapse is more common in breech presentations<br /><br />Management<br /><ul><li>if < 36 weeks: many fetuses will turn spontaneously</li><li>if still breech at 36 weeks NICE recommend external cephalic version (ECV)- this has a success rate of around 60%. The RCOG recommend ECV should be offered from 36 weeks in nulliparous women and from 37 weeks in multiparous women</li><li>if the baby is still breech then delivery options include planned caesarean section or vaginal delivery</li></ul><br />Information to help decision making - the RCOG recommend:<br /><ul><li>'Women should be informed that planned caesarean section carries a reduced perinatal mortality and early neonatal morbidity for babies with a breech presentation at term compared with planned vaginal birth.'</li><li>'Women should be informed that there is no evidence that the long term health of babies with a breech presentation delivered at term is influenced by how the baby is born.'</li></ul><br />RCOG absolute contraindications to ECV:<br /><ul><li>where caesarean delivery is required</li><li>antepartum haemorrhage within the last 7 days</li><li>abnormal cardiotocography</li><li>major uterine anomaly</li><li>ruptured membranes</li><li>multiple pregnancy</li></ul>",
+        "notes_hash": "b5ce9e00936fc01ecdc52de44b5e5f3a",
+        "knowledge_graph_node_id_link": 11408,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6806",
+        "up_votes": "25",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "1087",
+            "5329",
+            "71",
+            "35",
+            "284",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>RCOG</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_887\" data-linkid=\"887\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_887\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_887\" data-linkid=\"887\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_887\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg-no-20b-breech-presentation.pdf\">Breech presentation guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>RCOG</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_884\" data-linkid=\"884\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_884\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_884\" data-linkid=\"884\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_884\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gt20aexternalcephalicversion.pdf\">External cephalic version guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1926",
+        "new_question_id": "7349",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "588",
+        "notes_id_link": "1_249",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Factor V Leiden",
+            "Antithrombin III deficiency",
+            "Antiphospholipid syndrome",
+            "Protein C deficiency",
+            "Prothrombin gene mutation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old woman is admitted after developing dyspnoea associated with pleuritic chest pain. A D-dimer taken on admission is elevated and subsequent CTPA shows a pulmonary embolism. Her past medical history includes a giving birth to her son 12 months ago (full term, vaginal delivery) and anxiety. She reports that her 47-year-old mother has had two deep vein thromboses in the past 10 years. Which one of the following is the most likely underlying cause?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "NICE would recommend testing for thrombophilia given the unprovoked venous thromboembolism and family history.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old woman is admitted after developing dyspnoea associated with pleuritic chest pain. A D-dimer taken on admission is elevated and subsequent CTPA shows a pulmonary embolism. Her past medical history includes a giving birth to her son 12 months ago (full term, vaginal delivery) and anxiety. She reports that her 47-year-old mother has had two deep vein thromboses in the past 10 years. Which one of the following is the most likely underlying cause?",
+        "correct_answer": "1",
+        "question_notes": "NICE would recommend testing for thrombophilia given the unprovoked venous thromboembolism and family history.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Thrombophilia: causes",
+        "body": "<h5 class='notes-heading'>Inherited</h5><br />Gain of function polymorphisms<br /><ul><li>factor V Leiden (activated protein C resistance): <span class=\"concept\" data-cid=\"588\">most common cause of thrombophilia</span></li><li>prothrombin gene mutation: second most common cause</li></ul><br />Deficiencies of naturally occurring anticoagulants<br /><ul><li>antithrombin III deficiency</li><li>protein C deficiency</li><li>protein S deficiency</li></ul><br />The table below shows the prevalence and relative risk of venous thromboembolism (VTE) of the different inherited thrombophilias:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Condition</th><th>Prevalence</th><th>Relative risk of VTE</th></tr></thead><tbody><tr><td>Factor V Leiden (heterozygous)</td><td>5%</td><td>4</td></tr><tr><td>Factor V Leiden (homozygous)</td><td>0.05%</td><td>10</td></tr><tr><td>Prothrombin gene mutation (heterozygous)</td><td>1.5%</td><td>3</td></tr><tr><td>Protein C deficiency</td><td>0.3%</td><td>10</td></tr><tr><td>Protein S deficiency</td><td>0.1%</td><td>5-10</td></tr><tr><td>Antithrombin III deficiency</td><td>0.02%</td><td>10-20</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Acquired</h5><br />Antiphospholipid syndrome<br /><br />Drugs<br /><ul><li>the combined oral contraceptive pill</li></ul>",
+        "notes_hash": "93eb58ecd98ccff5fb2f1b6e2d4bef19",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Activated protein C resistance (Factor V Leiden) is the most common inherited thrombophilia",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "7819",
+        "up_votes": "77",
+        "down_votes": "39",
+        "column_array": [
+            0,
+            "3120",
+            "712",
+            "2981",
+            "722",
+            "284",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Rare Disease Video Library - NORD</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1623\" data-linkid=\"1623\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1623\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1623\" data-linkid=\"1623\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1623\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://rarediseases.org/for-patients-and-families/information-resources/rare-disease-video-library/page/6/#watch-41870\">Protein C and Protein S Deficiency</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LeUD8O9_kOM\" data-description=\"Protein C and S deficiency\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1087\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LeUD8O9_kOM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LeUD8O9_kOM\" data-description=\"Protein C and S deficiency\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1087\">Protein C and S deficiency</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1886\" data-mediaid=\"1886\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1886\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1886\" data-mediaid=\"1886\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1886\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "588": {
+                "concept_text": "Activated protein C resistance (Factor V Leiden) is the most common inherited thrombophilia",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "29936_B_97",
+        "new_question_id": "50808",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11396",
+        "notes_id_link": "1_1692",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Add exenatide",
+            "Stop empagliflozin and start exenatide",
+            "Stop empagliflozin and start insulin",
+            "Stop gliclazide and start exenatide",
+            "Stop gliclazide and start insulin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man with a history of type 2 diabetes, ischaemic heart disease, and hypertension is reviewed in the clinic. His current antidiabetic medications include metformin, empagliflozin, and gliclazide. He has a BMI of 36 kg/m\u00c2\u00b2, and his latest HbA1c level was 60 mmol/mol, measured one month ago.<br /><br />What is the most appropriate next course of action?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The patient presents with poorly controlled diabetes, as evidenced by a recent HbA1c level exceeding 58 mmol/mol. He is also obese and currently takes three oral antidiabetic agents. The most suitable course of action would be to discontinue one of these medications and initiate treatment with a glucagon-like peptide-1 (GLP-1) mimetic, such as <b>exenatide</b>. Consistent with NICE guidelines, metformin should be maintained. Considering the patient's history of cardiovascular disease, it is advisable to continue his sodium-glucose cotransporter-2 (SGLT-2) inhibitor. Gliclazide may contribute to weight gain and thus represents the preferable option to cease in this obese individual.<br /><br />Choosing <b>add exenatide</b> would not align with NICE recommendations, which advise discontinuation of one antidiabetic medication when a patient is on three agents before commencing a GLP-1 mimetic.<br /><br />The choice to <b>stop empagliflozin and start exenatide</b> would not be favourable due to the patient's cardiovascular history. SGLT-2 inhibitors like empagliflozin have demonstrated mortality benefits in patients with cardiovascular disease; therefore, its continuation is warranted in this case.<br /><br />Similarly, deciding to <b>stop empagliflozin and start insulin</b> would be less than ideal given the patient's cardiovascular profile. While initiating insulin therapy remains an alternative at this point, the patient's obesity means that a GLP-1 mimetic might be more fitting.<br /><br />Lastly, the option to <b>stop gliclazide and start insulin</b> could be considered. Should insulin therapy commence, discontinuing gliclazide would reduce the risk of hypoglycaemic events. Nonetheless, due to the patient's obesity status, introducing a GLP-1 mimetic is deemed more suitable.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man with a history of type 2 diabetes, ischaemic heart disease, and hypertension is reviewed in the clinic. His current antidiabetic medications include metformin, empagliflozin, and gliclazide. He has a BMI of 36 kg/m\u00c2\u00b2, and his latest HbA1c level was 60 mmol/mol, measured one month ago.<br /><br />What is the most appropriate next course of action?",
+        "correct_answer": "4",
+        "question_notes": "The patient presents with poorly controlled diabetes, as evidenced by a recent HbA1c level exceeding 58 mmol/mol. He is also obese and currently takes three oral antidiabetic agents. The most suitable course of action would be to discontinue one of these medications and initiate treatment with a glucagon-like peptide-1 (GLP-1) mimetic, such as <b>exenatide</b>. Consistent with NICE guidelines, metformin should be maintained. Considering the patient's history of cardiovascular disease, it is advisable to continue his sodium-glucose cotransporter-2 (SGLT-2) inhibitor. Gliclazide may contribute to weight gain and thus represents the preferable option to cease in this obese individual.<br /><br />Choosing <b>add exenatide</b> would not align with NICE recommendations, which advise discontinuation of one antidiabetic medication when a patient is on three agents before commencing a GLP-1 mimetic.<br /><br />The choice to <b>stop empagliflozin and start exenatide</b> would not be favourable due to the patient's cardiovascular history. SGLT-2 inhibitors like empagliflozin have demonstrated mortality benefits in patients with cardiovascular disease; therefore, its continuation is warranted in this case.<br /><br />Similarly, deciding to <b>stop empagliflozin and start insulin</b> would be less than ideal given the patient's cardiovascular profile. While initiating insulin therapy remains an alternative at this point, the patient's obesity means that a GLP-1 mimetic might be more fitting.<br /><br />Lastly, the option to <b>stop gliclazide and start insulin</b> could be considered. Should insulin therapy commence, discontinuing gliclazide would reduce the risk of hypoglycaemic events. Nonetheless, due to the patient's obesity status, introducing a GLP-1 mimetic is deemed more suitable.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Diabetes mellitus: management of type 2",
+        "body": "NICE updated its guidance on the management of type 2 diabetes mellitus (T2DM) in 2022. This update reflected the advances in drug therapy and improved evidence regarding newer therapies such as SGLT-2 inhibitors.<br /><br /><div class='alert alert-warning'>It's worthwhile thinking of the average patient who is taking metformin for T2DM, you can titrate up metformin and encourage lifestyle changes to aim for a HbA1c of <span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%), but should only add a second drug if the HbA1c rises to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)<br /></div><br /><br />Dietary advice<br /><ul><li>encourage high fibre, low glycaemic index sources of carbohydrates</li><li>include low-fat dairy products and oily fish</li><li>control the intake of foods containing saturated fats and trans fatty acids</li><li>limited substitution of sucrose-containing foods for other carbohydrates is allowable, but care should be taken to avoid excess energy intake</li><li>discourage the use of foods marketed specifically at people with diabetes</li><li>initial target weight loss in an overweight person is 5-10%</li></ul><br /><br /><h5 class='notes-heading'>HbA1c targets</h5><br />This is an area which has changed in 2015<br /><ul><li>individual targets should be agreed with patients to encourage motivation</li><li>HbA1c should be checked every 3-6 months until stable, then 6 monthly</li><li>NICE encourage us to consider relaxing targets on <i>'a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes'</i></li><li>in 2015 the guidelines changed so HbA1c targets are now dependent on treatment:</li></ul><br /><h6 class='notes-subheading'>Lifestyle or single-drug treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Lifestyle</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Lifestyle + metformin</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Includes any drug which may cause hypoglycaemia (e.g. lifestyle + sulfonylurea)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br />Practical examples<br /><ul><li>a patient is newly diagnosed with HbA1c and wants to try lifestyle treatment first. You agree on a target of 48 mmol/mol (6.5%)</li><li>you review a patient 6 months after starting metformin. His HbA1c is 51 mmol/mol (6.8%). You increase his metformin from 500mg bd to 500mg tds and reinforce lifestyle factors</li></ul><br /><h6 class='notes-subheading'>Patient already on treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Already on one drug, but HbA1c has risen to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Initial drug therapy</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified initial management of type 2 diabetes mellitus</div><br /><span class=\"concept\" data-cid=\"9107\">Metformin remains the first-line drug</span> of choice in type 2 diabetes mellitus.<br /><ul><li>metformin should be titrated up slowly to minimise the possibility of gastrointestinal upset</li><li>if standard-release metformin is not tolerated then modified-release metformin should be trialled</li></ul><br /><span class=\"concept\" data-cid=\"11772\">SGLT-2 inhibitors</span><br /><ul><li>should also be given in addition to metformin if any of the following apply:<ul><li>the patient has a high risk of developing cardiovascular disease (CVD, e.g. QRISK \u2265 10%)</li><li>the patient has established CVD</li><li>the patient has chronic heart failure</li></ul></li><li><span class=\"concept\" data-cid=\"11773\">metformin should be established and titrated up before introducing the SGLT-2 inhibitor</span></li><li><span class=\"concept\" data-cid=\"11774\">SGLT-2 inhibitors should also be started at any point if a patient develops CVD (e.g. is diagnosed with ischaemic heart disease), a QRISK \u2265 10% or chronic heart failure</span></li></ul><br />If metformin is contraindicated<br /><ul><li>if the patient has a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11775\">SGLT-2 monotherapy</span></li></ul></li><li>if the patient doesn't have a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11776\">DPP-4 inhibitor or pioglitazone or a sulfonylurea</span></li><li>SGLT-2 may be used if certain NICE criteria are met</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Further drug therapy if HbA1c targets are not met</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified further management of type 2 diabetes mellitus if HbA1c targets are not met</div><br />If the HbA1c has risen to 58 mmol/mol (7.5%) then further treatment is indicated. Given the large number of drug therapy options, medication choices depend on individual clinical circumstances (comorbidities, contraindications, weight) and patient preference.<br /><br /><h6 class='notes-subheading'>Second-line therapy</h6><br /><span class=\"concept\" data-cid=\"11777\">Dual therapy - add one of the following:</span><br /><ul><li>metformin + DPP-4 inhibitor</li><li>metformin + pioglitazone</li><li>metformin + sulfonylurea</li><li>metformin + SGLT-2 inhibitor (if NICE criteria met)</li></ul><br /><h6 class='notes-subheading'>Third-line therapy</h6><br /><span class=\"concept\" data-cid=\"11395\">If a patient does not achieve control on dual therapy then the following options are possible:</span><br /><ul><li>metformin + DPP-4 inhibitor + sulfonylurea</li><li>metformin  + pioglitazone + sulfonylurea</li><li>metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met</li><li>insulin-based treatment</li></ul><br /><h6 class='notes-subheading'>Further therapy</h6><br />If triple therapy is not effective or tolerated consider <span class=\"concept\" data-cid=\"11396\">switching one of the drugs for a GLP-1 mimetic</span>:<br /><ul><li>BMI \u2265 35 kg/m\u00b2 and specific psychological or other medical problems associated with obesity or</li><li>BMI < 35 kg/m\u00b2 and for whom insulin therapy would have significant occupational implications or weight loss would benefit other significant obesity-related comorbidities</li><li>only continue if there is a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months</li></ul><br />GLP-1 mimetics should only be added to insulin under specialist care<br /><br />Starting insulin<br /><ul><li>metformin should be continued. In terms of other drugs NICE advice: <i>'Review the continued need for other blood glucose-lowering therapies'</i></li><li>NICE recommend starting with human NPH insulin (isophane, intermediate-acting) taken at bed-time or twice daily according to need</li></ul><br />Practical examples<br /><ul><li>you review an established type 2 diabetic on maximum dose metformin. Her HbA1c is 55 mmol/mol (7.2%). You do not add another drug as she has not reached the threshold of 58 mmol/mol (7.5%)</li><li>a type 2 diabetic is found to have an HbA1c of 62 mmol/mol (7.8%) at annual review. They are currently on maximum dose metformin. You elect to add a sulfonylurea</li></ul><br /><br /><h5 class='notes-heading'>Risk factor modification</h5><br />Hypertension<br /><ul><li><span class=\"concept\" data-cid=\"399\"><b>blood pressure targets are the same as for patients without type 2 diabetes</b> (see table below)</span></li><li>ACE inhibitors or angiotensin II receptor blockers (ARB) are first-line<ul><li>an <span class=\"concept\" data-cid=\"11206\">ARB is preferred if the patient has a black African or African-Caribbean</span> family origin</li></ul></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td>140/90 mmHg</td><td>135/85 mmHg</td></tr><tr><td><b>Age > 80 years</b></td><td>150/90 mmHg</td><td>145/85 mmHg</td></tr></tbody></table></div><br />Antiplatelets<br /><ul><li>should not be offered unless a patient has existing cardiovascular disease</li></ul><br />Lipids<br /><ul><li>following the 2014 NICE lipid modification guidelines only patients with a 10-year cardiovascular risk > 10% (using QRISK2) should be offered a statin. The first-line statin of choice is atorvastatin 20mg on</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Graphic showing choice of statin.</div>",
+        "notes_hash": "ca06d8c38ddc0f626be19075164b9bce",
+        "knowledge_graph_node_id_link": 10924,
+        "concept": "TD2M: if a triple combination of drugs has failed to reduce HbA1c then switching one of the drugs for a GLP-1 mimetic is recommended, particularly if the BMI > 35",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "6186",
+        "up_votes": "7",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "1659",
+            "323",
+            "383",
+            "2329",
+            "1492",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_721\" data-linkid=\"721\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_721\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_721\" data-linkid=\"721\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_721\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">47</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/assets/qrg116.pdf\">2010 Management of diabetes</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_457\" data-linkid=\"457\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_457\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_457\" data-linkid=\"457\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_457\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">43</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG181/chapter/1-Recommendations\">2014 Lipid modification guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_911\" data-linkid=\"911\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_911\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">56</span><button type=\"button\" style=\"\" id=\"link_dislike_911\" data-linkid=\"911\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_911\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">54</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>7 minute medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1395\" data-linkid=\"1395\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1395\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">44</span><button type=\"button\" style=\"\" id=\"link_dislike_1395\" data-linkid=\"1395\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1395\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">32</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://anchor.fm/7minutemedics/episodes/Episode-2---Type-2-Diabetes-e2ebql\">Basics of type 2 diabetes - podcast</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4Y7wdX7iEAY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\">Type 2 diabetes agents and their mechanism of action</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1195\" data-mediaid=\"1195\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1195\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">51</span><button type=\"button\" style=\"\" id=\"media_dislike_1195\" data-mediaid=\"1195\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1195\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/APHeDOkJKQ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"> Pharmacology of drugs used to treat type 2 diabetes</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1194\" data-mediaid=\"1194\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1194\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1194\" data-mediaid=\"1194\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1194\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W0KPwTy0W9k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\">Diabetes Type II Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_685\" data-mediaid=\"685\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_685\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_685\" data-mediaid=\"685\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_685\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "9108": {
+                "concept_text": "The standard HbA1c target in type 2 diabetes mellitus is 48 mmol/mol",
+                "concept_percentile": "81"
+            },
+            "11395": {
+                "concept_text": "TD2M already on 2 drugs - if HbA1c > 58 mmol/mol then one of the following should be offered:\n   - metformin + DPP-4 inhibitor + sulfonylurea\n   - metformin  + pioglitazone + sulfonylurea\n   - metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met\n   - insulin-based treatment",
+                "concept_percentile": "73"
+            },
+            "11396": {
+                "concept_text": "TD2M: if a triple combination of drugs has failed to reduce HbA1c then switching one of the drugs for a GLP-1 mimetic is recommended, particularly if the BMI > 35",
+                "concept_percentile": "76"
+            },
+            "11772": {
+                "concept_text": "SGLT-2 inhibitors should be used in addition to metformin as initial therapy for T2DM if CVD, high-risk of CVD or chronic heart failure",
+                "concept_percentile": "65"
+            },
+            "11773": {
+                "concept_text": "If starting an SGLT-2 as initial therapy for T2DM then ensure metformin is titrated up first",
+                "concept_percentile": "91"
+            },
+            "11774": {
+                "concept_text": "In patients with T2DM, SGLT-2 should be introduced at any point they develop CVD, a high risk of CVD or chronic heart failure",
+                "concept_percentile": "66"
+            },
+            "11775": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated + patient has a risk of CVD, established CVD or chronic heart failure --> SGLT-2 monotherapy",
+                "concept_percentile": "88"
+            },
+            "11776": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated (and no risk of CVD, established CVD or chronic heart failure) --> choice of DPP-4 inhibitor or Pioglitazone or Sulfonylurea or even SGLT-2 (if NICE criteria met)",
+                "concept_percentile": "89"
+            },
+            "11777": {
+                "concept_text": "T2DM on metformin, if HbA1c has risen to 58 mmol/mol then one of the following should be offered depending on the individual clinical scenario:\n   - DPP-4 inhibitor\n   - pioglitazone\n   - sulfonylurea\n   - SGLT-2 inhibitor (if NICE criteria met)",
+                "concept_percentile": "74"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "24141_B_18",
+        "new_question_id": "40122",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "824",
+        "notes_id_link": "1_694",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Graves' disease",
+            "Hashimoto's thyroiditis",
+            "Subacute thyroiditis (de Quervain's thyroiditis)",
+            "Thyroid cancer",
+            "Thyroid nodule",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman presents with neck pain and swelling. She reports upper respiratory tract infection symptoms followed by neck pain and swelling over the past 10 days. On examination, she looks anxious, her heart rate is 102/min, and her thyroid gland is tender and diffusely swollen.<br /><br />Blood tests were done which showed the following results:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid-stimulating hormone (TSH)</td><td>0.3 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>45 pmol/L</td><td>(9.0 - 18)</td></tr><tr><td>ESR</td><td>60 mm/h</td><td>(1-20)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This woman has presented with hyperthyroidism associated with a tender goitre after an upper respiratory tract infection which is the typical presentation of <B> subacute thyroiditis (de Quervain's thyroiditis)</b>.<br /><br /><B>Graves' disease</b> is an autoimmune condition that leads to hyperthyroidism. However, it does not cause high ESR or painful thyroid gland.<br /><br /><B>Hashimoto's thyroiditis</b> is an autoimmune condition that causes hypothyroidism, and it is the most common cause of hypothyroidism in the UK. This woman presents with hyperthyroidism rather than hypothyroidism which makes this a wrong answer.<br /><br /><B> Thyroid cancer</b> does not cause acute pain or tenderness and usually presents with a painless nodule or other symptoms such as hoarseness or enlarged lymph nodes.<br /><br /><B>Thyroid nodule</B> is incorrect as the examination in this scenario showed diffusely enlarged tender goitre rather than a nodule.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman presents with neck pain and swelling. She reports upper respiratory tract infection symptoms followed by neck pain and swelling over the past 10 days. On examination, she looks anxious, her heart rate is 102/min, and her thyroid gland is tender and diffusely swollen.<br /><br />Blood tests were done which showed the following results:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid-stimulating hormone (TSH)</td><td>0.3 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>45 pmol/L</td><td>(9.0 - 18)</td></tr><tr><td>ESR</td><td>60 mm/h</td><td>(1-20)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "This woman has presented with hyperthyroidism associated with a tender goitre after an upper respiratory tract infection which is the typical presentation of <B> subacute thyroiditis (de Quervain's thyroiditis)</b>.<br /><br /><B>Graves' disease</b> is an autoimmune condition that leads to hyperthyroidism. However, it does not cause high ESR or painful thyroid gland.<br /><br /><B>Hashimoto's thyroiditis</b> is an autoimmune condition that causes hypothyroidism, and it is the most common cause of hypothyroidism in the UK. This woman presents with hyperthyroidism rather than hypothyroidism which makes this a wrong answer.<br /><br /><B> Thyroid cancer</b> does not cause acute pain or tenderness and usually presents with a painless nodule or other symptoms such as hoarseness or enlarged lymph nodes.<br /><br /><B>Thyroid nodule</B> is incorrect as the examination in this scenario showed diffusely enlarged tender goitre rather than a nodule.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Subacute (De Quervain's) thyroiditis",
+        "body": "Subacute thyroiditis (also known as De Quervain's thyroiditis and subacute granulomatous thyroiditis) is thought to occur following viral infection and typically presents with hyperthyroidism.<br /><br />There are typically <span class=\"concept\" data-cid=\"2066\">4 phases</span>;<br /><ul><li><span class=\"concept\" data-cid=\"11200\">phase 1 (lasts 3-6 weeks): hyperthyroidism</span>, <span class=\"concept\" data-cid=\"824\">painful goitre</span>, <span class=\"concept\" data-cid=\"9398\">raised ESR</span></li><li>phase 2 (1-3 weeks): euthyroid</li><li>phase 3 (weeks - months): hypothyroidism</li><li>phase 4: thyroid structure and function goes back to normal</li></ul><br />Investigations<br /><ul><li>thyroid scintigraphy: <span class=\"concept\" data-cid=\"8282\">globally reduced uptake of iodine-131</span></li></ul><br />Management<br /><ul><li>usually self-limiting - most patients do not require treatment</li><li>thyroid pain may respond to aspirin or other <span class=\"concept\" data-cid=\"6405\">NSAIDs</span></li><li>in more severe cases steroids are used, particularly if hypothyroidism develops</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Venn diagram showing how different causes of thyroid dysfunction may manifest. Note how many causes of hypothyroidism may have an initial thyrotoxic phase.</div>",
+        "notes_hash": "111735756d2056020155e5c4e6894ec2",
+        "knowledge_graph_node_id_link": 1349,
+        "concept": "Thyrotoxicosis with tender goitre = subacute (De Quervain's) thyroiditis",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "5585",
+        "up_votes": "19",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "420",
+            "218",
+            "4908",
+            "9",
+            "30",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "824": {
+                "concept_text": "Thyrotoxicosis with tender goitre = subacute (De Quervain's) thyroiditis",
+                "concept_percentile": "66"
+            },
+            "8282": {
+                "concept_text": "In De Quervain's thyroiditis there is globally reduced uptake of iodine-131 during thyroid scintigraphy",
+                "concept_percentile": "23"
+            },
+            "9398": {
+                "concept_text": "Subacute thyroiditis - raised ESR",
+                "concept_percentile": "34"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2229",
+        "new_question_id": "4358",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "2966",
+        "notes_id_link": "1_1734",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Myomectomy",
+            "Goserelin acetate (GnRH agonist)",
+            "Endometrial ablation",
+            "Uterine artery embolisation",
+            "Ulipristal acetate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32 year-old lady has a diagnosis of fibroids and has been trying for a baby for 18 months. She has been under investigation at the sub-fertility clinic and no abnormality has been found except for three uterine fibroids, for which she does not have any symptoms. Her partner has had sperm analysis which found no abnormality. <br /><br />Which of the following treatments are most appropriate in this situation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Myomectomy is the only treatment option here that will also retain this lady's fertility. Depending on the operation performed, and whether the uterine cavity was entered, the lady would need counselling in regards to delivery, since often a caesarean section is advised due to risk of uterine rupture. <br /> <br />GnRH agonists effectively turn off the ovaries, which causes the fibroids to shrink and therefore are easier to remove surgically. On stopping the medication, the fibroids grow back. As this treatment turns off the ovaries, it inhibits ovulation and therefore means that pregnancy is not possible during this time. As a treatment on its own, it would not be suitable in this case as it causes temporary infertility and fibroid regrowth on cessation. However, if combined with a myomectomy, it would provide a suitable treatment option. <br /><br />Endometrial ablation destroys the endometrial lining, therefore meaning that an embryo would not be able to implant. <br /><br />Uterine artery embolisation is not recommended if trying to conceive as it cuts down the blood supply to the uterus significantly, therefore meaning that the fetus would be unable to implant and grow. <br /><br />Ulipristal acetate is a selective progesterone receptor modulator. It is used pre-operatively for women with fibroids as it has been proven to shrink them, thus making surgery easier. This medication affects fertility, thus is not suitable for women trying to get pregnant, unless (like GHRH agonists) it is used for a short period in combination with surgery.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32 year-old lady has a diagnosis of fibroids and has been trying for a baby for 18 months. She has been under investigation at the sub-fertility clinic and no abnormality has been found except for three uterine fibroids, for which she does not have any symptoms. Her partner has had sperm analysis which found no abnormality. <br /><br />Which of the following treatments are most appropriate in this situation?",
+        "correct_answer": "1",
+        "question_notes": "Myomectomy is the only treatment option here that will also retain this lady's fertility. Depending on the operation performed, and whether the uterine cavity was entered, the lady would need counselling in regards to delivery, since often a caesarean section is advised due to risk of uterine rupture. <br /> <br />GnRH agonists effectively turn off the ovaries, which causes the fibroids to shrink and therefore are easier to remove surgically. On stopping the medication, the fibroids grow back. As this treatment turns off the ovaries, it inhibits ovulation and therefore means that pregnancy is not possible during this time. As a treatment on its own, it would not be suitable in this case as it causes temporary infertility and fibroid regrowth on cessation. However, if combined with a myomectomy, it would provide a suitable treatment option. <br /><br />Endometrial ablation destroys the endometrial lining, therefore meaning that an embryo would not be able to implant. <br /><br />Uterine artery embolisation is not recommended if trying to conceive as it cuts down the blood supply to the uterus significantly, therefore meaning that the fetus would be unable to implant and grow. <br /><br />Ulipristal acetate is a selective progesterone receptor modulator. It is used pre-operatively for women with fibroids as it has been proven to shrink them, thus making surgery easier. This medication affects fertility, thus is not suitable for women trying to get pregnant, unless (like GHRH agonists) it is used for a short period in combination with surgery.<br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Uterine fibroids",
+        "body": "Fibroids are benign smooth muscle tumours of the uterus. They are thought to occur in around 20% of white and around 50% of black women in the later reproductive years.<br /><br />Associations<br /><ul><li>more common in Afro-Caribbean women</li><li>rare before puberty, develop in response to oestrogen</li></ul><br /><span class=\"concept\" data-cid=\"11914\">Features</span><br /><ul><li>may be asymptomatic</li><li>menorrhagia<ul><li>may result in iron-deficiency anaemia</li></ul></li><li>bulk-related symptoms<ul><li>lower abdominal pain: cramping pains, often during menstruation</li><li>bloating</li><li>urinary symptoms, e.g. frequency, may occur with larger fibroids</li></ul></li><li>subfertility</li><li>rare features:<ul><li><span class=\"concept\" data-cid=\"11070\">polycythaemia</span> secondary to autonomous production of erythropoietin</li></ul></li></ul><br />Diagnosis<br /><ul><li>transvaginal ultrasound</li></ul><br /><h5 class='notes-heading'>Management</h5><br />Asymptomatic fibroids<br /><ul><li>no treatment is needed other than periodic review to monitor size and growth</li></ul></li></ul><br />Management of menorrhagia secondary to fibroids<br /><ul><li>levonorgestrel intrauterine system (LNG-IUS)<ul><li>useful if the woman also requires contraception</li><li>cannot be used if there is distortion of the uterine cavity</li></ul></li><li>NSAIDs e.g. mefenamic acid</li><li>tranexamic acid</li><li>combined oral contraceptive pill </li><li>oral progestogen </li><li>injectable progestogen</li></ul><br />Treatment to shrink/remove fibroids<br /><ul><li>medical<ul><li><span class=\"concept\" data-cid=\"8415\">GnRH agonists</span> may reduce the size of the fibroid but are typically used more for short-term treatment due to side-effects such as menopausal symptoms (hot flushes, vaginal dryness) and <span class=\"concept\" data-cid=\"11894\">loss of bone mineral density</span></li><li>ulipristal acetate has been in the past but not currently due to concerns about rare but <span class=\"concept\" data-cid=\"10476\">serious liver toxicity</span></li></ul></li><li>surgical<ul><li><span class=\"concept\" data-cid=\"2966\">myomectomy</span>: this may be performed abdominally, laparoscopically or hysteroscopically</li><li>hysteroscopic endometrial ablation</li><li>hysterectomy</li></ul></li><li>uterine artery embolization</li></ul><br /><h5 class='notes-heading'>Prognosis and complications</h5><br />Fibroids generally regress after the menopause.<br /><br />Some of the complications such as subfertility and iron-deficiency anaemia have been mentioned previously.<br /><br />Other complications<br /><ul><li>red degeneration - haemorrhage into tumour - commonly occurs during pregnancy</li></ul>",
+        "notes_hash": "04b3e3e47965d078e90a87156239601b",
+        "knowledge_graph_node_id_link": 1165,
+        "concept": "The only effective treatment for large fibroids causing problems with fertility is myomectomy if the woman wishes to conceive in the future",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "6143",
+        "up_votes": "37",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "3907",
+            "1464",
+            "345",
+            "242",
+            "185",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LYc7yGUYqTY\" data-description=\"Uterine fibroids\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"807\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LYc7yGUYqTY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LYc7yGUYqTY\" data-description=\"Uterine fibroids\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"807\">Uterine fibroids</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1401\" data-mediaid=\"1401\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1401\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1401\" data-mediaid=\"1401\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1401\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2966": {
+                "concept_text": "The only effective treatment for large fibroids causing problems with fertility is myomectomy if the woman wishes to conceive in the future",
+                "concept_percentile": "81"
+            },
+            "8415": {
+                "concept_text": "For patients with uterine fibroids, GnRH agonists may reduce the size of the fibroid but are typically useful for short-term treatment",
+                "concept_percentile": "62"
+            },
+            "11914": {
+                "concept_text": "Menorrhagia, anaemia, bulk-related symptoms e.g. bloating/urinary frequency -->? uterine fibroids",
+                "concept_percentile": "92"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22340_B_42",
+        "new_question_id": "34837",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "2365",
+        "notes_id_link": "1_1239",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Allergy to latex",
+            "Asthma controlled by oral steroids",
+            "Not taking regular contraception",
+            "Psoriasis",
+            "UPSI being 4 days ago",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 21-year-old woman presents to her GP concerned as she had unprotected sexual intercourse (UPSI) four days previously. <br /><br />Her past medical history includes asthma and psoriasis. She has a latex allergy. She uses oral steroids to control her asthma and takes no regular medication. <br /><br />You recommend the copper coil. The patient states that her housemate recently took the 'EllaOne emergency pill' (ulipristal acetate) and she states that she would rather take a pill than have a coil inserted. <br /><br />Why can this patient not use the same method as her housemate?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "When prescribing ulipristal acetate to someone with <b>severe asthma</b> i.e. controlled with <b>oral steroids</b>, you should be cautious due to the anti-glucocorticoid effect of ulipristal acetate.<br /><br /><b>Allergy to latex </b> should be considered when recommending barrier contraceptive methods or examining a patient with latex gloves. It is not relevant to prescribing emergency contraception such as ulipristal (EllaOne).<br /><br /><b> Not taking regular contraception </b> is an indication for offering emergency contraception after unprotected sexual intercourse. <br /><br /><b> Psoriasis </b> can be a reason for caution when giving ulipristal as emergency contraception, as this condition can be managed with oral steroids. However, oral steroids are specified to only be used for her asthma. <br /><br /><b> UPSI being 4 days ago </b> would not change your decision to prescribe ulipristal as it can be given up to 120 hours (5 days) after UPSI.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 21-year-old woman presents to her GP concerned as she had unprotected sexual intercourse (UPSI) four days previously. <br /><br />Her past medical history includes asthma and psoriasis. She has a latex allergy. She uses oral steroids to control her asthma and takes no regular medication. <br /><br />You recommend the copper coil. The patient states that her housemate recently took the 'EllaOne emergency pill' (ulipristal acetate) and she states that she would rather take a pill than have a coil inserted. <br /><br />Why can this patient not use the same method as her housemate?",
+        "correct_answer": "2",
+        "question_notes": "When prescribing ulipristal acetate to someone with <b>severe asthma</b> i.e. controlled with <b>oral steroids</b>, you should be cautious due to the anti-glucocorticoid effect of ulipristal acetate.<br /><br /><b>Allergy to latex </b> should be considered when recommending barrier contraceptive methods or examining a patient with latex gloves. It is not relevant to prescribing emergency contraception such as ulipristal (EllaOne).<br /><br /><b> Not taking regular contraception </b> is an indication for offering emergency contraception after unprotected sexual intercourse. <br /><br /><b> Psoriasis </b> can be a reason for caution when giving ulipristal as emergency contraception, as this condition can be managed with oral steroids. However, oral steroids are specified to only be used for her asthma. <br /><br /><b> UPSI being 4 days ago </b> would not change your decision to prescribe ulipristal as it can be given up to 120 hours (5 days) after UPSI.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Emergency contraception",
+        "body": "There are two methods currently available in the UK:<br /><br /><h5 class='notes-heading'>Emergency hormonal contraception</h5><br />There are now two methods of emergency hormonal contraception ('emergency pill', 'morning-after pill'); levonorgestrel and ulipristal, a progesterone receptor modulator.<br /><br />Levonorgestrel<br /><ul><li>mode of action not fully understood - acts both to stop ovulation and inhibit implantation</li><li>should be taken as soon as possible - efficacy decreases with time</li><li>must be taken within <span class=\"concept\" data-cid=\"10563\"> 72 hours of unprotected sexual intercourse (UPSI)</span><ul><li>may be offered after this period as long as the client is aware of reduced effectiveness and unlicensed indication</li></ul></li><li>single dose of levonorgestrel 1.5mg (a progesterone)<ul><li><span class=\"concept\" data-cid=\"8884\">the dose should be doubled for those with a BMI >26 or weight over 70kg</span></li><li>dose should also be doubled if taking enzyme-inducing drugs (although a copper IUD as emergency contraception is preferable in this situation)</li></ul></li><li>84% effective if used within 72 hours of UPSI</li><li>levonorgestrel is safe and well-tolerated. Disturbance of the current menstrual cycle is seen in a significant minority of women. Vomiting occurs in around 1%</li><li>if <span class=\"concept\" data-cid=\"10564\">vomiting occurs within 3 hours then the dose should be repeated</span></li><li><span class=\"concept\" data-cid=\"3507\">can be used more than once in a menstrual cycle if clinically indicated</span></li><li><span class=\"concept\" data-cid=\"10195\">hormonal contraception can be started immediately after using levornogestrel (Levonelle) for emergency contraception</span></li></ul><br /><br />Ulipristal<br /><ul><li>a <span class=\"concept\" data-cid=\"10582\">selective progesterone receptor modulator</span> currently marketed as EllaOne. The primary mode of action is thought to be inhibition of ovulation</li><li>30mg oral dose taken as soon as possible, no later than <span class=\"concept\" data-cid=\"244\">120 hours after intercourse</span></li><li>concomitant use with levonorgestrel is not recommended</li><li>Ulipristal may reduce the effectiveness of hormonal contraception. <span class=\"concept\" data-cid=\"3198\">Contraception with the pill, patch or ring should be started, or restarted, 5 days after having ulipristal</span>. Barrier methods should be used during this period</li><li><span class=\"concept\" data-cid=\"2365\">caution should be exercised in patients with severe asthma</span></li><li><span class=\"concept\" data-cid=\"3507\">ulipristal can be used more than once in the same cycle</span></li><li>breastfeeding should be delayed for one week after taking ulipristal. There are no such restrictions on the use of levonorgestrel</li></ul><br /><b>Intrauterine device (IUD)</b><br /><ul><li>a copper IUD is the <span class=\"concept\" data-cid=\"11535\">most effective method of emergency contraception and should be offered to all women</span> if they meet the criteria<ul><li>if the criteria for insertion of a  copper IUD are not met or is not acceptable to the woman, oral emergency contraception should be considered</li><li>in practice the vast majority of women choose oral emergency contraception, but it is important to offer the choice to all women given how effective copper IUDs are</li></ul></li><li>must be inserted within 5 days of UPSI, or</li><li>if a woman presents after more than 5 days then <span class=\"concept\" data-cid=\"7872\">an IUD may be fitted up to 5 days after the likely ovulation date</span></li><li>may inhibit fertilisation or implantation</li><li>prophylactic antibiotics may be given if the patient is considered to be at high-risk of sexually transmitted infection</li><li><span class=\"concept\" data-cid=\"3195\">is 99% effective regardless of where it is used in the cycle</span></li><li>may be left in-situ to provide long-term contraception. If the client wishes for the IUD to be removed it should be at least kept in until the next period</li></ul>",
+        "notes_hash": "fac08c9805261afaa922192d7ac0bf2d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Ulipristal should be used with caution in patients with severe asthma",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "5337",
+        "up_votes": "38",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "114",
+            "3487",
+            "53",
+            "180",
+            "1503",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_270\" data-linkid=\"270\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_270\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_270\" data-linkid=\"270\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_270\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">28</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/ceu-clinical-guidance-emergency-contraception-march-2017/\">2017 Emergency contraception guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "244": {
+                "concept_text": "Ulipristal (EllaOne) - a type of emergency hormonal contraception, can be used up to 120 hours post UPSI",
+                "concept_percentile": "57"
+            },
+            "2365": {
+                "concept_text": "Ulipristal should be used with caution in patients with severe asthma",
+                "concept_percentile": "89"
+            },
+            "7872": {
+                "concept_text": "The copper intrauterine device can be inserted for emergency contraception within 5 days after the first unprotected sexual intercourse in a cycle, or within 5 days of the earliest estimated date of ovulation, whichever is later",
+                "concept_percentile": "70"
+            },
+            "10195": {
+                "concept_text": "Hormonal contraception can be started immediately after using levonorgestrel (Levonelle) for emergency contraception",
+                "concept_percentile": "94"
+            },
+            "10563": {
+                "concept_text": "Levonorgestrel must be taken within 72 hours of UPSI",
+                "concept_percentile": "53"
+            },
+            "10564": {
+                "concept_text": "If a patient vomits within 3 hours of taking the levonorgestrel, she should take another dose",
+                "concept_percentile": "95"
+            },
+            "11535": {
+                "concept_text": "A copper IUD is the most effective method of emergency contraception and should be offered to all women ",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

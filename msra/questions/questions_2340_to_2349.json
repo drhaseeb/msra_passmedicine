@@ -1,0 +1,883 @@
+[
+    {
+        "question_id": "8603_B_102",
+        "new_question_id": "22656",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "10877",
+        "notes_id_link": "1_1720",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Repeat urine sample",
+            "Amoxicillin for 3 days",
+            "Nitrofurantoin for 3 days",
+            "Amoxicillin for 7 days",
+            "Nitrofurantoin for 7 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Macey is a 32-year-old woman who is 38 weeks pregnant. A routine urine sample grew <I>E.coli</i>. She denied any dysuria and reported feeling well in herself. <br /><br />What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Asymptomatic bacteruria in pregnancy should be treated to reduce the risk of pyelonephritis in the mother and of premature delivery. She should be treated with a 7 day course of antibiotics.<br /><br />Nitrofurantoin should not be used near term due to the risk of neonatal haemolysis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Macey is a 32-year-old woman who is 38 weeks pregnant. A routine urine sample grew <I>E.coli</i>. She denied any dysuria and reported feeling well in herself. <br /><br />What is the most appropriate management?",
+        "correct_answer": "4",
+        "question_notes": "Asymptomatic bacteruria in pregnancy should be treated to reduce the risk of pyelonephritis in the mother and of premature delivery. She should be treated with a 7 day course of antibiotics.<br /><br />Nitrofurantoin should not be used near term due to the risk of neonatal haemolysis.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Urinary tract infection in adults: management",
+        "body": "<h5 class='notes-heading'>Lower urinary tract infections</h5><br />Non-pregnant women<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>NICE recommend <span class=\"concept\" data-cid=\"6116\"><b>trimethoprim or nitrofurantoin</b></span> for <span class=\"concept\" data-cid=\"11482\"><b>3 days</b></span></li><li>send a urine culture if:<ul><li><span class=\"concept\" data-cid=\"10467\">aged > 65 years</span></li><li><span class=\"concept\" data-cid=\"5063\">visible or non-visible haematuria</span></li></ul></li></ul><br />Pregnant women <br /><ul><li>if the pregnant woman is symptomatic: <ul><li>a urine culture should be sent in all cases</li><li>should be treated with an antibiotic for <span class=\"concept\" data-cid=\"10877\">7 days</span></li><li><span class=\"concept\" data-cid=\"10876\">first-line: nitrofurantoin</span> (<span class=\"concept\" data-cid=\"5061\">should be avoided near term</span>)</li><li>second-line: <span class=\"concept\" data-cid=\"11739\">amoxicillin or cefalexin</span></li><li><span class=\"concept\" data-cid=\"3201\">trimethoprim is teratogenic</span> in the first trimester and should be avoided during pregnancy</li></ul></li><li>asymptomatic bacteriuria in pregnant women:<ul><li>a urine culture should be performed routinely at the first antenatal visit</li><li>NICE recommend <span class=\"concept\" data-cid=\"419\">an immediate antibiotic prescription</span> of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course</li><li>the rationale of treating asymptomatic bacteriuria is the significant risk of progression to acute pyelonephritis</li><li>a further urine culture should be sent following completion of treatment as a <span class=\"concept\" data-cid=\"420\">test of cure</span></li></ul></li><li>women who suffer regular urinary tract infections following sexual intercourse can be offered <span class=\"concept\" data-cid=\"10529\">post-coital antibiotic prophylaxis</span> - single dose trimethoprim or nitrofurantoin are used first-line</li></ul><br />Men<br /><ul><li><span class=\"concept\" data-cid=\"10336\">an immediate antibiotic prescription should be offered</span> for <span class=\"concept\" data-cid=\"11214\"><b>7 days</b></span></li><li>as with non-pregnant women, <span class=\"concept\" data-cid=\"11215\">trimethoprim or nitrofurantoin</span> should be offered first-line unless prostatitis is suspected</li><li><span class=\"concept\" data-cid=\"11899\">a urine culture should be sent in all cases</span> before antibiotics are started</li><li>NICE state: <i>'<span class=\"concept\" data-cid=\"11213\">Referral to urology is not routinely required for men</span> who have had one uncomplicated lower urinary tract infection (UTI).'</i></li></ul><br />Catherised patients<br /><ul><li><span class=\"concept\" data-cid=\"4449\">do not treat asymptomatic bacteria in catheterised patients</span></li><li>if the patient is symptomatic they should be treated with an antibiotic<ul><li><span class=\"concept\" data-cid=\"5120\">a 7-day, rather than a 3-day course should be given</span></li><li>consider <span class=\"concept\" data-cid=\"11743\">removing or changing</span> the catheter as soon as possible if it has been in place for longer than 7 days</li></ul></li></ul>   <br /><br /><h5 class='notes-heading'>Acute pyelonephritis</h5><br />For patients with sign of acute pyelonephritis hospital admission should be considered<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>the BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days</li></ul>",
+        "notes_hash": "5cc1a10907b708a4f6aee5157927f8f9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+        "concept_percentile": "36",
+        "concept_colour": "rgb(255,183,0)",
+        "number_attempts": "4424",
+        "up_votes": "6",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "291",
+            "243",
+            "232",
+            "2686",
+            "972",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1863\" data-linkid=\"1863\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1863\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1863\" data-linkid=\"1863\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1863\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/urinary-tract-infections.html\">Urinary-tract infections</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1vIHTAnBmuU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\">Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2039\" data-mediaid=\"2039\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2039\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2039\" data-mediaid=\"2039\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2039\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "419": {
+                "concept_text": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+                "concept_percentile": "70"
+            },
+            "4449": {
+                "concept_text": "Do not treat asymptomatic bacteria in catheterised patients",
+                "concept_percentile": "61"
+            },
+            "6116": {
+                "concept_text": "Trimethoprim or nitrofurantoin are the first-line antibiotics for lower UTIs",
+                "concept_percentile": "11"
+            },
+            "10467": {
+                "concept_text": "An MSU should be sent for all women over > 65-years-old with a suspected urinary tract infection",
+                "concept_percentile": "99"
+            },
+            "10876": {
+                "concept_text": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+                "concept_percentile": "69"
+            },
+            "10877": {
+                "concept_text": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+                "concept_percentile": "36"
+            },
+            "11215": {
+                "concept_text": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+                "concept_percentile": "83"
+            },
+            "11482": {
+                "concept_text": "Non-pregnant women with uncomplicated lower UTI only need 3 days of antibiotics",
+                "concept_percentile": "45"
+            },
+            "11743": {
+                "concept_text": "Consider removing or changing the catheter if a UTI develops",
+                "concept_percentile": "38"
+            },
+            "11899": {
+                "concept_text": "All men with a suspected UTI should have a urine culture sent before starting antibiotics",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12337_B_31",
+        "new_question_id": "23247",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "682",
+        "notes_id_link": "1_2929",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute angle closure glaucoma",
+            "Central retinal artery occlusion",
+            "Central retinal vein occlusion",
+            "Optic neuritis",
+            "Retinal detachment",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 81-year-old woman presents to the emergency department with sudden loss of vision in her right eye. She describes a painless loss of vision with no preceding symptoms 2 hours ago which has not returned.<br /><br />Visual acuity is 6/12 in the left eye (corrected with a pinhole) and undetectable in the right eye. Fundoscopic examination reveals prominent retinal haemorrhages.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Monocular vision loss is a relatively common presentation in the emergency department. This patient has suffered a central retinal vein occlusion, a painless cause of vision loss which typically displays retinal haemorrhages on fundoscopy, due to increased venous pressure following downstream occlusion.<br /><br />Acute glaucoma presents with a painful eye and typical examination findings of a fixed pupil, hazy cornea and increased ocular pressures.<br /><br />Central retinal artery occlusion is difficult to distinguish clinically from venous occlusion. On fundoscopy, a 'cherry red spot' can often be seen in the macula where the retina is thinner. However, central retinal vein occlusion is a more common cause of painless vision loss, and the examination findings in this case indicate arterial occlusion is less likely. <br /><br />Optic neuritis presents with eye pain, and often pain on eye movements.<br /><br />Retinal detachment is frequently preceded by 'flashes and floaters' as described by patients. The detachment is often visible macroscopically on examination. However, it is a valid differential for painless vision loss.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 81-year-old woman presents to the emergency department with sudden loss of vision in her right eye. She describes a painless loss of vision with no preceding symptoms 2 hours ago which has not returned.<br /><br />Visual acuity is 6/12 in the left eye (corrected with a pinhole) and undetectable in the right eye. Fundoscopic examination reveals prominent retinal haemorrhages.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Monocular vision loss is a relatively common presentation in the emergency department. This patient has suffered a central retinal vein occlusion, a painless cause of vision loss which typically displays retinal haemorrhages on fundoscopy, due to increased venous pressure following downstream occlusion.<br /><br />Acute glaucoma presents with a painful eye and typical examination findings of a fixed pupil, hazy cornea and increased ocular pressures.<br /><br />Central retinal artery occlusion is difficult to distinguish clinically from venous occlusion. On fundoscopy, a 'cherry red spot' can often be seen in the macula where the retina is thinner. However, central retinal vein occlusion is a more common cause of painless vision loss, and the examination findings in this case indicate arterial occlusion is less likely. <br /><br />Optic neuritis presents with eye pain, and often pain on eye movements.<br /><br />Retinal detachment is frequently preceded by 'flashes and floaters' as described by patients. The detachment is often visible macroscopically on examination. However, it is a valid differential for painless vision loss.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Central retinal vein occlusion",
+        "body": "Central retinal vein occlusion (CRVO) is a differential for sudden painless loss of vision.<br /><br />Risk factors<br /><ul><li>increasing age</li><li>hypertension</li><li>cardiovascular disease</li><li>glaucoma</li><li>polycythaemia</li></ul><br /><span class=\"concept\" data-cid=\"682\">Features</span><br /><ul><li>sudden, painless reduction or loss of visual acuity, usually unilaterally</li><li>fundoscopy<ul><li>widespread hyperaemia</li><li>severe retinal haemorrhages - 'stormy sunset'</li></ul></li></ul><br />A key differential is branch retinal vein occlusion (BRVO) - this occurs when a vein in the distal retinal venous system is occluded and is thought to occur due to blockage of retinal veins at arteriovenous crossings. It results in a more limited area of the fundus being affected.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img060b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fundoscopy showing branch retinal vein occlusion\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img060.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li>the majority of patients are managed conservatively</li><li>indications for treatment in patients with CRVO include:<ul><li>macular oedema - intravitreal anti-vascular endothelial growth factor (VEGF) agents</li><li>retinal neovascularization - laser photocoagulation</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd543b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fundoscopy image showing a central retinal vein occlusion\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd543.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "541ef5406ba7e57cb8d88b2c6cf6ab15",
+        "knowledge_graph_node_id_link": 10818,
+        "concept": "Central retinal vein occlusion - sudden painless loss of vision, severe retinal haemorrhages on fundoscopy",
+        "concept_percentile": "55",
+        "concept_colour": "rgb(229,255,0)",
+        "number_attempts": "6976",
+        "up_votes": "12",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "91",
+            "1174",
+            "4805",
+            "39",
+            "867",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "682": {
+                "concept_text": "Central retinal vein occlusion - sudden painless loss of vision, severe retinal haemorrhages on fundoscopy",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_122",
+        "new_question_id": "4640",
+        "question_type": "1",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1788",
+        "theme": "Haematuria",
+        "instruction": "For each one of the following scenarios please select the most likely diagnosis:",
+        "options": [
+            "",
+            "Transitional cell carcinoma of the bladder",
+            "Renal stones",
+            "Benign prostatic hyperplasia",
+            "Wilms' nephroblastoma",
+            "Urinary tract infection",
+            "Renal cell carcinoma",
+            "Polycystic kidney disease",
+            "Goodpasture's syndrome",
+            "Rhabdomyosarcoma",
+            "Renal vein thrombosis"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 68-year-old man presents with visible haematuria for the past two weeks. There is no history of pain. MSSU confirms haematuria but fails to show any organism.",
+            "X 3-vbxo-lia dfoi fp yolrdeq ql prodbov xp ebo mxobkqp exsb klqfzba yilla fk ebo rofkb. Buxjfkxqflkp obsbxip x ilfk jxpp. JPR peltp kl bsfabkzb lc x rofkxov qoxzq fkcbzqflk. Qeb lkiv obibsxkq cxjfiv efpqlov fp ebo doxkajlqebo tel exp zeolkfz hfakbv afpbxpb.",
+            "X 57-vbxo-lia jxk mobpbkqp tfqe ibcq pfaba xyaljfkxi mxfk oxafxqfkd ql efp pzolqrj. Qeb mxfk fp pbsbob xka klq zlkqoliiba yv x zljyfkxqflk lc mxoxzbqxjli xka fyrmolcbk. Rofkb afmpqfzh peltp: yilla++, molqbfk+, ibrzlzvqbp++, kfqofqbp kbdxqfsb. Zifkfzxi buxjfkxqflk fp rkobjxohxyib."
+        ],
+        "answers": [
+            "1",
+            "4",
+            "2"
+        ],
+        "notes": [
+            "Around 80% of patients present with painless, visible haematuria.",
+            "Wilms' nephroblastoma is one of the most common childhood malignancies. It typically presents in children under 5 years of age, with a median age of 3 years old.<br /><br />Features<br /><ul><li>abdominal mass (most common presenting feature)</li><li>flank pain</li><li>painless haematuria</li><li>other features: anorexia, fever</li><li>unilateral in 95% of cases</li><li>metastases are found in 20% of patients (most commonly lung)</li></ul>",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man presents with visible haematuria for the past two weeks. There is no history of pain. MSSU confirms haematuria but fails to show any organism.",
+        "correct_answer": "1",
+        "question_notes": "Around 80% of patients present with painless, visible haematuria.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Haematuria",
+        "body": "The management of patients with haematuria is often difficult due to the absence of widely followed guidelines. It is sometimes unclear whether patients are best managed in primary care, by urologists or by nephrologists.<br /><br />The terminology surrounding haematuria is changing. Microscopic or dipstick positive haematuria is increasingly termed non-visible haematuria whilst macroscopic haematuria is termed visible haematuria. Non-visible haematuria is found in around 2.5% of the population.<br /><br />Causes of transient or spurious non-visible haematuria<br /><ul><li>urinary tract infection</li><li>menstruation</li><li>vigorous exercise (this normally settles after around 3 days)</li><li>sexual intercourse</li></ul><br />Causes of persistent non-visible haematuria<br /><ul><li>cancer (bladder, renal, prostate)</li><li>stones</li><li>benign prostatic hyperplasia</li><li>prostatitis</li><li>urethritis e.g. <i>Chlamydia</i></li><li>renal causes: IgA nephropathy, thin basement membrane disease</li><li><span class=\"concept\" data-cid=\"12466\">thin basement membrane disease</span><ul><li>hereditary nephropathy characterised by diffuse thinning of the glomerular basement membrane (GBM), leading to persistent microscopic haematuria</li><li>autosomal dominant with variable penetrance</li><li>estimated to affect 1\u20135% of the general population worldwide</li><li>excellent prognosis</li></ul></li></ul><br />Spurious causes - red/orange urine, where blood is not present on dipstick<br /><ul><li>foods: beetroot, rhubarb</li><li>drugs: rifampicin, doxorubicin</li></ul><br /><h5 class='notes-heading'>Management</h5><br />Current evidence does not support screening for haematuria. The incidence of non-visible haematuria is similar in patients taking aspirin/warfarin to the general population hence these patients should also be investigated.<br /><br />Testing<br /><ul><li>urine dipstick is the test of choice for detecting haematuria</li><li>persistent non-visible haematuria is often defined as blood being present in 2 out of 3 samples tested 2-3 weeks apart</li><li>renal function, albumin:creatinine (ACR) or protein:creatinine ratio (PCR) and blood pressure should also be checked</li><li>urine microscopy may be used but time to analysis significantly affects the number of red blood cells detected</li></ul><br />NICE urgent cancer referral guidelines were updated in 2015.<br /><br /><h5 class='notes-heading'>Urgent referral (i.e. within 2 weeks)</h5><br />Aged >= 45 years AND:<br /><ul><li>unexplained visible haematuria without urinary tract infection, or</li><li>visible haematuria that persists or recurs after successful treatment of urinary tract infection</li></ul><br />Aged >= 60 years AND have unexplained nonvisible haematuria and either dysuria or a raised white cell count on a blood test<br /><br /><h5 class='notes-heading'>Non-urgent referral</h5><br />Aged 60  >= 60 years with recurrent or persistent unexplained urinary tract infection<br /><br />Since the investigation (or not) of non-visible haematuria is such as a common dilemma a number of guidelines have been published. They generally agree with NICE guidance, of note:<br /><ul><li>patients under the age of 40 years with normal renal function, no proteinuria and who are normotensive do not need to be referred and may be managed in primary care</li></ul>",
+        "notes_hash": "ed10a64dd18098ae29d35a663b925578",
+        "knowledge_graph_node_id_link": 10097,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5584",
+        "up_votes": "38",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "4688",
+            "4316",
+            "4631",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_389\" data-linkid=\"389\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_389\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_389\" data-linkid=\"389\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_389\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng12/chapter/1-Recommendations-organised-by-site-of-cancer#urological-cancers\">2015 Suspected cancer: recognition and referral</a></td></tr></table>",
+        "media": "",
+        "comment_count": 11,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_38",
+        "new_question_id": "14292",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "2983",
+        "notes_id_link": "1_2016",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cholecystitis",
+            "Gallstones",
+            "Ectopic pregnancy",
+            "Gilbert's syndrome",
+            "Ascending cholangitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a foundation year two doctor working on the surgical admissions unit. You clerk a forty-year-old patient with right upper abdominal pain and anorexia. Examination reveals an overweight Caucasian female with a soft abdomen that is tender in the right upper quadrant. Her observations indicate fever and mild tachycardia. Bloods show a markedly raised bilirubin (87 umol/L). <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has ascending cholangitis or infection of the bile ducts. Charcot's triad describes the likely features:  fever, jaundice and right upper quadrant pain.<br /><br />Cholecystitis or gallbladder inflammation causes right upper quadrant pain and may precede ascending cholangitis.<br /><br />Although gallstones are a common cause  of cholangitis, and are more common in patients who are 'fair, fat, female and forty', they can be an asymptomatic finding. They are a cause, not a diagnosis.<br /><br />It is always important to consider pregnancy in any woman with abdominal pain, however this is unlikely to cause right upper quadrant pain.<br /><br />Gilbert's syndrome is typically asymptomatic causing mild jaundice at times of stress only.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a foundation year two doctor working on the surgical admissions unit. You clerk a forty-year-old patient with right upper abdominal pain and anorexia. Examination reveals an overweight Caucasian female with a soft abdomen that is tender in the right upper quadrant. Her observations indicate fever and mild tachycardia. Bloods show a markedly raised bilirubin (87 umol/L). <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This patient has ascending cholangitis or infection of the bile ducts. Charcot's triad describes the likely features:  fever, jaundice and right upper quadrant pain.<br /><br />Cholecystitis or gallbladder inflammation causes right upper quadrant pain and may precede ascending cholangitis.<br /><br />Although gallstones are a common cause  of cholangitis, and are more common in patients who are 'fair, fat, female and forty', they can be an asymptomatic finding. They are a cause, not a diagnosis.<br /><br />It is always important to consider pregnancy in any woman with abdominal pain, however this is unlikely to cause right upper quadrant pain.<br /><br />Gilbert's syndrome is typically asymptomatic causing mild jaundice at times of stress only.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Ascending cholangitis",
+        "body": "Ascending cholangitis is a bacterial infection (typically <span class=\"concept\" data-cid=\"2102\"><i>E. coli</i></span>) of the biliary tree. The most common predisposing factor is gallstones.<br /><br /><span class=\"concept\" data-cid=\"2983\">Charcot's triad</span> of <span class=\"concept\" data-cid=\"12444\">right upper quadrant (RUQ) pain, fever and jaundice</span> occurs in about 20-50% of patients<br /><ul><li>fever is the most common feature, seen in 90% of patients</li><li>RUQ pain 70%</li><li>jaundice 60%</li><li><span class=\"concept\" data-cid=\"4405\">hypotension and confusion</span> are also common (the additional 2 factors in addition to the 3 above make <span class=\"concept\" data-cid=\"4405\">Reynolds' pentad</span>)</li></ul><br />Other features<br /><ul><li><span class=\"concept\" data-cid=\"9302\">raised inflammatory markers</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"6002\">ultrasound</span> is generally used first-line in suspected cases to look for bile duct dilation and bile duct stones</li></ul><br />Management<br /><ul><li>intravenous antibiotics</li><li><span class=\"concept\" data-cid=\"11253\">endoscopic retrograde cholangiopancreatography (ERCP)</span> after 24-48 hours to relieve any obstruction</li></ul>",
+        "notes_hash": "3e4b8ea9b304eaaaa7bd1a21088a6522",
+        "knowledge_graph_node_id_link": 1033,
+        "concept": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "1250",
+        "up_votes": "1",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "323",
+            "76",
+            "2",
+            "10",
+            "839",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZxdG-A_H_ZY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\">Understanding Acute Cholangitis (Ascending Cholangitis)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2528\" data-mediaid=\"2528\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2528\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2528\" data-mediaid=\"2528\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2528\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\">Ascending cholangitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1691\" data-mediaid=\"1691\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1691\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1691\" data-mediaid=\"1691\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1691\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2983": {
+                "concept_text": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+                "concept_percentile": "50"
+            },
+            "9302": {
+                "concept_text": "RUQ pain with raised inflammatory markers in a patient with a history of gallstones points to acute cholecystitis or cholangitis rather than biliary colic",
+                "concept_percentile": "56"
+            },
+            "11253": {
+                "concept_text": "The majority of patients diagnosed with ascending cholangitis will undergo ERCP after 24-48 hours to relieve any obstruction",
+                "concept_percentile": "99"
+            },
+            "12444": {
+                "concept_text": "Right upper quadrant pain, fever and jaundice --> ?ascending cholangitis",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1868",
+        "new_question_id": "4852",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "9619",
+        "notes_id_link": "1_1822",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous magnesium sulphate",
+            "Direct current cardioversion",
+            "Intravenous adenosine 3mg",
+            "Intravenous adenosine 6mg",
+            "Vagal manoeuvres",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old woman presents to the Emergency Department with a friend from work. Around 30 minutes ago she developed a 'fluttering' in her chest. She reports feeling 'a bit faint' but denies any chest pain or shortness of breath. An ECG shows a regular tachycardia of 166 bpm with a QRS duration of 110 ms. Blood pressure is 102/68 mmHg and oxygen saturations are 99% on room air. <br /><br />What is the most appropriate initial management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The first-line management of supraventricular tachycardia is vagal manoeuvres. Only if these fail should adenosine be given. There are no indications for direct current cardioversion as per the ALS guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman presents to the Emergency Department with a friend from work. Around 30 minutes ago she developed a 'fluttering' in her chest. She reports feeling 'a bit faint' but denies any chest pain or shortness of breath. An ECG shows a regular tachycardia of 166 bpm with a QRS duration of 110 ms. Blood pressure is 102/68 mmHg and oxygen saturations are 99% on room air. <br /><br />What is the most appropriate initial management?",
+        "correct_answer": "5",
+        "question_notes": "The first-line management of supraventricular tachycardia is vagal manoeuvres. Only if these fail should adenosine be given. There are no indications for direct current cardioversion as per the ALS guidelines.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Supraventricular tachycardia",
+        "body": "Whilst strictly speaking the term supraventricular tachycardia (SVT) refers to any tachycardia that is not ventricular in origin the term is generally used in the context of paroxysmal SVT. Episodes are characterised by the sudden onset of a narrow complex tachycardia, typically an atrioventricular nodal re-entry tachycardia (AVNRT). Other causes include atrioventricular re-entry tachycardias (AVRT) and junctional tachycardias.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg085b.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing AV Nodal Re-entry Tachycardia (AVNRT) - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg085.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg108b.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing a supraventricular tachycardia - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg108.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management</h5><br />Acute management<br /><ul><li><span class=\"concept\" data-cid=\"9619\">vagal manoeuvres:</span><ul><li>Valsalva manoeuvre: e.g. trying to blow into an empty plastic syringe</li><li>carotid sinus massage</li></ul></li><li><span class=\"concept\" data-cid=\"9071\">intravenous adenosine</span> <ul><li><span class=\"concept\" data-cid=\"11526\">rapid IV bolus</span> of <span class=\"concept\" data-cid=\"11527\"> 6mg &rarr; if unsuccessful give 12 mg &rarr; if unsuccessful give further 18 mg</span></li><li>contraindicated in asthmatics - <span class=\"concept\" data-cid=\"12323\">verapamil</span> is a preferable option</li></ul></li><li>if vagal manoeuvres and adenosine ineffective:<ul><li><span class=\"concept\" data-cid=\"12404\">verapamil or beta-blocker</span></li><li>electrical cardioversion</li></ul></li></ul><br />Prevention of episodes<br /><ul><li>beta-blockers</li><li>radio-frequency ablation</li></ul>",
+        "notes_hash": "991e2356419dd66f47cfd6fea4400b1c",
+        "knowledge_graph_node_id_link": 1163,
+        "concept": "The first-line management of SVT is vagal manoeuvres: e.g. Valsalva manoeuvre or carotid sinus massage",
+        "concept_percentile": "69",
+        "concept_colour": "rgb(158,255,0)",
+        "number_attempts": "6037",
+        "up_votes": "8",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "116",
+            "404",
+            "293",
+            "368",
+            "4856",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_18\" data-linkid=\"18\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_18\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_18\" data-linkid=\"18\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_18\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/supraventricular-tachycardia-svt-ecg-library/\">Supraventricular tachycardia</a></td></tr></table><br><br><table style='width:100%'><tr><td>Resuscitation Council UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2053\" data-linkid=\"2053\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2053\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_2053\" data-linkid=\"2053\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2053\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/sites/default/files/2021-04/Tachycardia%20Algorithm%202021.pdf\">2021 Tachycardia algorithm</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tRuvXP-H164\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"913\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/tRuvXP-H164/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tRuvXP-H164\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"913\">Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1583\" data-mediaid=\"1583\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1583\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1583\" data-mediaid=\"1583\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1583\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"374\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sTdV8xCNbBM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"374\">Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_637\" data-mediaid=\"637\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_637\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_637\" data-mediaid=\"637\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_637\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/iT3cVVK74tU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"375\">Intro to EKG Interpretation - Overview of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_638\" data-mediaid=\"638\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_638\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_638\" data-mediaid=\"638\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_638\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f5xC5ofq4aE\" data-description=\"Understanding Supraventricular Tachycardia (SVT)\" data-upvotes=\"24\" data-downvotes=\"1\" data-media=\"1210\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/f5xC5ofq4aE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f5xC5ofq4aE\" data-description=\"Understanding Supraventricular Tachycardia (SVT)\" data-upvotes=\"24\" data-downvotes=\"1\" data-media=\"1210\">Understanding Supraventricular Tachycardia (SVT)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2122\" data-mediaid=\"2122\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2122\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"media_dislike_2122\" data-mediaid=\"2122\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2122\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"377\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NULY6Ecj6gA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"377\">Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_640\" data-mediaid=\"640\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_640\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_640\" data-mediaid=\"640\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_640\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cj9CtfjFdRA\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"84\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cj9CtfjFdRA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cj9CtfjFdRA\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"84\">Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_145\" data-mediaid=\"145\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_145\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_145\" data-mediaid=\"145\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_145\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"376\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/pd5FF8jGR78/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"376\">Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_639\" data-mediaid=\"639\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_639\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_639\" data-mediaid=\"639\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_639\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "9071": {
+                "concept_text": "Patients with SVT who are haemodynamically stable and who do not respond to vagal manoeuvres, the next step is treating with adenosine",
+                "concept_percentile": "58"
+            },
+            "9619": {
+                "concept_text": "The first-line management of SVT is vagal manoeuvres: e.g. Valsalva manoeuvre or carotid sinus massage",
+                "concept_percentile": "69"
+            },
+            "12404": {
+                "concept_text": "If vagal manoeuvres and adenosine ineffective for SVT --> verapamil or beta-blocker",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "3159_B_12",
+        "new_question_id": "10721",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_876",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reduced arm swing whilst walking",
+            "Steppage gait",
+            "Depression",
+            "Speech disturbance",
+            "Unilateral tremor",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You review a 68-year-old lady in neurology clinic with a diagnosis of Parkinson's disease. You note as she enters the room that she walks slowly with her arms by her side. She has a characteristic tremor, and is lifting her left foot higher than the right. She has some difficulty initiating the conversation. Which of the following is due to a condition other than the patient's Parkinson's disease.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Steppage gait is characterised by a high step due to foot drop and loss of ability to dorsiflex the foot. Unilateral tremor is seen initially in Parkinson's prior to it becoming bilateral. Depression, reduced arm swing and speech disturbance are also features of Parkinson's disease.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You review a 68-year-old lady in neurology clinic with a diagnosis of Parkinson's disease. You note as she enters the room that she walks slowly with her arms by her side. She has a characteristic tremor, and is lifting her left foot higher than the right. She has some difficulty initiating the conversation. Which of the following is due to a condition other than the patient's Parkinson's disease.",
+        "correct_answer": "2",
+        "question_notes": "Steppage gait is characterised by a high step due to foot drop and loss of ability to dorsiflex the foot. Unilateral tremor is seen initially in Parkinson's prior to it becoming bilateral. Depression, reduced arm swing and speech disturbance are also features of Parkinson's disease.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Parkinson's disease: features",
+        "body": "Parkinson's disease is a progressive neurodegenerative condition caused by <span class=\"concept\" data-cid=\"10275\">degeneration of dopaminergic neurons in the substantia nigra</span>. The reduction in dopaminergic output results in a classical triad of features: bradykinesia, tremor and rigidity. The <span class=\"concept\" data-cid=\"906\">symptoms of Parkinson's disease are characteristically asymmetrical</span>.<br /><br />Epidemiology<br /><ul><li>around twice as common in men</li><li>mean age of diagnosis is 65 years</li></ul><br />Bradykinesia<br /><ul><li>poverty of movement also seen, sometimes referred to as hypokinesia</li><li>short, shuffling steps with reduced arm swinging</li><li>difficulty in initiating movement</li></ul><br />Tremor<br /><ul><li>most marked at rest, 3-5 Hz</li><li>worse when stressed or tired, <span class=\"concept\" data-cid=\"10052\">improves with voluntary movement</span></li><li>typically 'pill-rolling', i.e. in the thumb and index finger</li></ul><br />Rigidity<br /><ul><li>lead pipe</li><li>cogwheel: due to superimposed tremor</li></ul><br />Other characteristic features<br /><ul><li>mask-like facies</li><li>flexed posture</li><li>micrographia</li><li>drooling of saliva</li><li>psychiatric features: <span class=\"concept\" data-cid=\"907\">depression is the most common feature (affects about 40%)</span>; dementia, psychosis and sleep disturbances may also occur</li><li>impaired olfaction</li><li>REM sleep behaviour disorder</li><li>fatigue</li><li>autonomic dysfunction:<ul><li><span class=\"concept\" data-cid=\"8242\">postural hypotension</span></li></ul></li></ul><br /><span class=\"concept\" data-cid=\"12260\"><b>Drug-induced parkinsonism</b> has slightly different features to Parkinson's disease:</span><br /><ul><li>motor symptoms are generally rapid onset and bilateral</li><li>rigidity and rest tremor are uncommon</li></ul><br />Diagnosis is usually clinical. However, if there is difficulty differentiating between essential tremor and Parkinson's disease NICE recommend considering <span class=\"concept\" data-cid=\"1211\"><sup>123</sup>I-FP-CIT single photon emission computed tomography (SPECT)</span>.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb024b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb024.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='https://en.wikipedia.org/wiki/Main_Page'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb024b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>A Lewy body (stained brown) in a brain cell of the substantia nigra in Parkinson's disease. The brown colour is positive immunohistochemistry staining for alpha-synuclein.<br /></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb026b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb026.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='https://en.wikipedia.org/wiki/Main_Page'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb026b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Discoloration of the substantia nigra due to loss of pigmented nerve cells.<br /></div>",
+        "notes_hash": "5d5ffae3d314d6bd50652b6d4c35b2a2",
+        "knowledge_graph_node_id_link": 1019,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5916",
+        "up_votes": "33",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "261",
+            "3476",
+            "350",
+            "737",
+            "1092",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1264\" data-linkid=\"1264\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1264\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1264\" data-linkid=\"1264\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1264\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng71/chapter/Recommendations\">2017 Parkinson's disease guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ARdGaE1sbBM\" data-description=\"Parkinson's disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"5\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ARdGaE1sbBM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ARdGaE1sbBM\" data-description=\"Parkinson's disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"5\">Parkinson's disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_11\" data-mediaid=\"11\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_11\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_11\" data-mediaid=\"11\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_11\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/p1CrM0rQsJ0\" data-description=\"Parkinson's Disease Symptoms\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"343\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/p1CrM0rQsJ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/p1CrM0rQsJ0\" data-description=\"Parkinson's Disease Symptoms\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"343\">Parkinson's Disease Symptoms</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_584\" data-mediaid=\"584\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_584\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_584\" data-mediaid=\"584\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_584\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/_pZmMU2xLM8\" data-description=\"Understanding Parkinson's Disease\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1364\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/_pZmMU2xLM8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/_pZmMU2xLM8\" data-description=\"Understanding Parkinson's Disease\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1364\">Understanding Parkinson's Disease</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2395\" data-mediaid=\"2395\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2395\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2395\" data-mediaid=\"2395\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2395\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/j86omOwx0Hk\" data-description=\"Parkinsonian gait\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"118\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/j86omOwx0Hk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/j86omOwx0Hk\" data-description=\"Parkinsonian gait\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"118\">Parkinsonian gait</a></td></tr><tr><td><span ><small>mhdbelalalsabek - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_211\" data-mediaid=\"211\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_211\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_211\" data-mediaid=\"211\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_211\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/I4XXoiWwoNc\" data-description=\"Parkinson's Disease: How is the brain affected?\" data-upvotes=\"1\" data-downvotes=\"4\" data-media=\"311\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/I4XXoiWwoNc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/I4XXoiWwoNc\" data-description=\"Parkinson's Disease: How is the brain affected?\" data-upvotes=\"1\" data-downvotes=\"4\" data-media=\"311\">Parkinson's Disease: How is the brain affected?</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_530\" data-mediaid=\"530\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_530\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_530\" data-mediaid=\"530\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_530\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "907": {
+                "concept_text": "Parkinson's disease - most common psychiatric problem is depression",
+                "concept_percentile": "82"
+            },
+            "10275": {
+                "concept_text": "Parkinson's Disease is a neurodegenerative disorder involving death of neurones in the substantia nigra",
+                "concept_percentile": "73"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4408_B_35",
+        "new_question_id": "13098",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "1774",
+        "notes_id_link": "1_1247",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Risk decreases with increased parity",
+            "Taking the combined oral contraceptive pill has no impact on the risk of developing cervical cancer",
+            "Women who have had the HPV vaccine (Gardasil) do not need to be invited for cervical screening",
+            "Women who smoke are at a two-fold increased risk than women who do not",
+            "Women who started having sexual intercourse older are at a increased risk",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old woman attends the surgery for her first cervical smear as part of the national screening programme. She is asking for advice regarding risk factors for cervical cancer. Which of the following statements is true regarding her risk?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Women who smoke are at a two-fold increased risk of developing cervical cancer than women who do not. Regarding the other options - risk increases with increased parity; use of the combined oral contraceptive pill is a risk factor; at present, women who have been vaccinated against HPV are still invited to, and should be encouraged to, engage with cervical screening; early first intercourse is a risk factor.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman attends the surgery for her first cervical smear as part of the national screening programme. She is asking for advice regarding risk factors for cervical cancer. Which of the following statements is true regarding her risk?",
+        "correct_answer": "4",
+        "question_notes": "Women who smoke are at a two-fold increased risk of developing cervical cancer than women who do not. Regarding the other options - risk increases with increased parity; use of the combined oral contraceptive pill is a risk factor; at present, women who have been vaccinated against HPV are still invited to, and should be encouraged to, engage with cervical screening; early first intercourse is a risk factor.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Cervical cancer",
+        "body": "Around 50% of cases of cervical cancer occur in women under the age of 45 years, with incidence rates for cervical cancer in the UK are highest in people aged 25-29 years, according to Cancer Research UK. It may be divided into:<br /><ul><li>squamous cell cancer (80%)</li><li>adenocarcinoma (20%)</li></ul><br />Features<br /><ul><li>may be detected during routine cervical cancer screening</li><li>abnormal vaginal bleeding: postcoital, intermenstrual or postmenopausal bleeding</li><li>vaginal discharge</li></ul><br /><span class=\"concept\" data-cid=\"7120\"><b>Human papillomavirus (HPV)</b>, particularly serotypes 16,18 & 33</span> is by far the most important factor in the development of cervical cancer. Other risk factors include:<br /><ul><li><span class=\"concept\" data-cid=\"1774\">smoking</span></li><li><span class=\"concept\" data-cid=\"7121\">human immunodeficiency virus</span></li><li><span class=\"concept\" data-cid=\"7126\">early first intercourse</span>, <span class=\"concept\" data-cid=\"7122\">many sexual partners</span></li><li><span class=\"concept\" data-cid=\"7123\">high parity</span></li><li><span class=\"concept\" data-cid=\"7124\">lower socioeconomic status</span></li><li><span class=\"concept\" data-cid=\"7125\">combined oral contraceptive pill</span>*</li></ul><br />Mechanism of HPV causing cervical cancer<br /><ul><li>HPV 16 & 18 produces the oncogenes E6 and E7 genes respectively</li><li>E6 inhibits the p53 tumour suppressor gene</li><li>E7 inhibits RB suppressor gene</li></ul><br />*the strength of this association is sometimes debated but a large study published in the Lancet (2007 Nov 10;370(9599):1609-21) confirmed the link",
+        "notes_hash": "d0ed25a82598d9b94b2ffcfc51e46764",
+        "knowledge_graph_node_id_link": 1041,
+        "concept": "Women who smoke are at a two-fold increased risk of developing cervical cancer than women who do not",
+        "concept_percentile": "53",
+        "concept_colour": "rgb(239,255,0)",
+        "number_attempts": "4788",
+        "up_votes": "26",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "721",
+            "596",
+            "87",
+            "3230",
+            "154",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Cancer Research UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_98\" data-linkid=\"98\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_98\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_98\" data-linkid=\"98\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_98\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.cancerresearchuk.org/about-cancer/type/cervical-cancer/\">Cervical cancer</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NgO9kdWeg1k\" data-description=\"Cervical cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"945\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NgO9kdWeg1k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NgO9kdWeg1k\" data-description=\"Cervical cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"945\">Cervical cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1638\" data-mediaid=\"1638\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1638\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1638\" data-mediaid=\"1638\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1638\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1774": {
+                "concept_text": "Women who smoke are at a two-fold increased risk of developing cervical cancer than women who do not",
+                "concept_percentile": "53"
+            },
+            "7120": {
+                "concept_text": "Cervical cancer: Human papillomavirus infection (particularly 16,18 & 33) is by far the most important risk factor",
+                "concept_percentile": "57"
+            },
+            "7121": {
+                "concept_text": "Cervical cancer - risk factors include: human immunodeficiency virus",
+                "concept_percentile": "29"
+            },
+            "7122": {
+                "concept_text": "Cervical cancer - risk factors include: many sexual partners",
+                "concept_percentile": "38"
+            },
+            "7123": {
+                "concept_text": "Cervical cancer - risk factors include: high parity",
+                "concept_percentile": "39"
+            },
+            "7124": {
+                "concept_text": "Cervical cancer - risk factors include: lower socioeconomic status",
+                "concept_percentile": "22"
+            },
+            "7125": {
+                "concept_text": "Cervical cancer - risk factors include: combined oral contraceptive pill use",
+                "concept_percentile": "43"
+            },
+            "7126": {
+                "concept_text": "Cervical cancer - risk factors include: early first intercourse",
+                "concept_percentile": "18"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12196_B_32",
+        "new_question_id": "26852",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "6616",
+        "notes_id_link": "1_1992",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Prothrombin time (PT) 28 seconds (10-14 seconds)",
+            "Albumin 30 g/L (35-50 g/L)",
+            "Creatinine 250 umol/L (55-120 umol/L)",
+            "Platelet count 500 * 10<sup>9</sup>/L (150-400 * 10<sup>9</sup>/L)",
+            "ALT 1465 iu/L (3-40 iu/L)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a doctor on the acute medical ward. One of your patients is a 25-year-old man who is being treated for paracetamol poisoning. Your senior asks you to order some blood tests to assess the severity of his condition, particularly if there is any evidence of acute liver failure.<br /><br />Which one of the following results would most support this diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Prothrombin time (PT) 28 seconds is the correct answer. Prothrombin time is the most accurate determinate of acute liver failure as it is a measurement of the liver's synthetic function.<br /><br />Albumin 30 g/L is incorrect. Although albumin is also a good measure of the liver's synthetic function, it has a longer half-life than prothrombin and is therefore less useful in acute liver failure. <br /><br />ALT 1465 iu/L is incorrect. Whilst ALT is a good measure of hepatotoxicity in paracetamol poisoning, it is not a measure of synthetic function so is an inferior test for assessing acute liver failure. <br /><br />Creatinine 250 umol/L is incorrect. Raised creatinine is a better measure of renal disease.<br /><br />Platelet count 500 * 10<sup>9</sup>/L is incorrect. A raised platelet count can be caused by inflammation and infection. In chronic liver disease, the platelet count may be low.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a doctor on the acute medical ward. One of your patients is a 25-year-old man who is being treated for paracetamol poisoning. Your senior asks you to order some blood tests to assess the severity of his condition, particularly if there is any evidence of acute liver failure.<br /><br />Which one of the following results would most support this diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "Prothrombin time (PT) 28 seconds is the correct answer. Prothrombin time is the most accurate determinate of acute liver failure as it is a measurement of the liver's synthetic function.<br /><br />Albumin 30 g/L is incorrect. Although albumin is also a good measure of the liver's synthetic function, it has a longer half-life than prothrombin and is therefore less useful in acute liver failure. <br /><br />ALT 1465 iu/L is incorrect. Whilst ALT is a good measure of hepatotoxicity in paracetamol poisoning, it is not a measure of synthetic function so is an inferior test for assessing acute liver failure. <br /><br />Creatinine 250 umol/L is incorrect. Raised creatinine is a better measure of renal disease.<br /><br />Platelet count 500 * 10<sup>9</sup>/L is incorrect. A raised platelet count can be caused by inflammation and infection. In chronic liver disease, the platelet count may be low.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Acute liver failure",
+        "body": "Acute liver failure describes the rapid onset of hepatocellular dysfunction leading to a variety of systemic complications.<br /><br />Causes<br /><ul><li>paracetamol overdose</li><li>alcohol</li><li>viral hepatitis (usually A or B)</li><li>acute fatty liver of pregnancy</li></ul><br />Features*<br /><ul><li>jaundice</li><li>coagulopathy: raised prothrombin time</li><li>hypoalbuminaemia</li><li>hepatic encephalopathy</li><li>renal failure is common ('hepatorenal syndrome')</li></ul><br />*remember that 'liver function tests' do not always accurately reflect the synthetic function of the liver. This is best assessed by looking at the prothrombin time and albumin level.",
+        "notes_hash": "556c7bf64944d285f7c9c31755381afa",
+        "knowledge_graph_node_id_link": 1294,
+        "concept": "Prothrombin has a shorter half-life than albumin, making it a better measure of acute liver failure",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "6322",
+        "up_votes": "35",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "3423",
+            "156",
+            "175",
+            "57",
+            "2511",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/19/Cirrhosis.webm\" data-description=\"Liver cirrhosis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"977\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/19/Cirrhosis.webm\" data-description=\"Liver cirrhosis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"977\">Liver cirrhosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1988\" data-mediaid=\"1988\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1988\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1988\" data-mediaid=\"1988\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1988\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_559",
+        "new_question_id": "11014",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_937",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amiodarone",
+            "Sodium valproate",
+            "Methotrexate",
+            "Furosemide",
+            "Digoxin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old woman is noted to have corneal opacities during a routine opticians appointment. These are not affecting her vision. Which one of the following drugs is most likely to be the cause?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Amiodarone therapy can result in both corneal opacities and optic neuritis",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old woman is noted to have corneal opacities during a routine opticians appointment. These are not affecting her vision. Which one of the following drugs is most likely to be the cause?",
+        "correct_answer": "1",
+        "question_notes": "Amiodarone therapy can result in both corneal opacities and optic neuritis",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Drugs causing ocular problems",
+        "body": "Cataracts<br /><ul><li>steroids</li></ul><br />Corneal opacities<br /><ul><li>amiodarone</li><li>indomethacin</li></ul><br />Optic neuritis<br /><ul><li>ethambutol</li><li>amiodarone</li><li>metronidazole</li></ul><br />Retinopathy<br /><ul><li>chloroquine, quinine</li></ul><br />Sildenafil can cause both blue discolouration and non-arteritic anterior ischaemic neuropathy",
+        "notes_hash": "41e2d5050d8ba533100b13d4aeca0d88",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5202",
+        "up_votes": "69",
+        "down_votes": "27",
+        "column_array": [
+            0,
+            "2501",
+            "401",
+            "1168",
+            "291",
+            "841",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5070_B_154",
+        "new_question_id": "17591",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "5352",
+        "notes_id_link": "1_2752",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Dorsal carpal arch of the radial artery",
+            "Dorsal carpal arch of the ulnar artery",
+            "Radial nerve",
+            "Ulnar nerve",
+            "Median nerve",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 16-year-old rugby player is brought into the emergency department following an accident on the field. On examination, the doctor finds tenderness over the anatomical snuffbox. There is also tenderness over the scaphoid tubercle. <br /><br />Which of the following neurovascular structures is most likely to be compromised?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The primary blood supply to the scaphoid bone is the dorsal carpal branch of the <b>radial artery</b> (not the ulnar artery). The most concerning neurovascular injury in a scaphoid fracture is avascular necrosis. <br /><br />The ulnar nerve lies on the opposite side of the hand to the scaphoid bone.<br /><br />Median and ulnar nerve pathology are not caused by a scaphoid fracture as they are not anatomically related to the scaphoid bone. <br /><br />Although the radial nerve lies close to the scaphoid bone, it actually runs superficially to the tendons of the snuffbox and is less likely to be compromised than the blood vessels as a result. <br /><br />Reference:<br />[1] https://www.orthobullets.com/hand/6034/scaphoid-fracture",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 16-year-old rugby player is brought into the emergency department following an accident on the field. On examination, the doctor finds tenderness over the anatomical snuffbox. There is also tenderness over the scaphoid tubercle. <br /><br />Which of the following neurovascular structures is most likely to be compromised?",
+        "correct_answer": "1",
+        "question_notes": "The primary blood supply to the scaphoid bone is the dorsal carpal branch of the <b>radial artery</b> (not the ulnar artery). The most concerning neurovascular injury in a scaphoid fracture is avascular necrosis. <br /><br />The ulnar nerve lies on the opposite side of the hand to the scaphoid bone.<br /><br />Median and ulnar nerve pathology are not caused by a scaphoid fracture as they are not anatomically related to the scaphoid bone. <br /><br />Although the radial nerve lies close to the scaphoid bone, it actually runs superficially to the tendons of the snuffbox and is less likely to be compromised than the blood vessels as a result. <br /><br />Reference:<br />[1] https://www.orthobullets.com/hand/6034/scaphoid-fracture",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Scaphoid fracture",
+        "body": "A scaphoid fracture is a type of wrist fracture, typically arises as a result of a fall onto an outstretched hand (FOOSH). This results in axial compression of the scaphoid, with the wrist hyperextended, and radially deviated. This can also occur during contact sports such as football, or during a road traffic accident due to the patient holding the steering wheel. It is important to examine for scaphoid fractures in anyone presenting with an acutely painful wrist for medico-legal reasons.<br /><br />Recognising scaphoid fractures is particularly important given the unusual blood supply of the scaphoid bone. Around 80% of the blood supply is derived from the <span class=\"concept\" data-cid=\"5352\">dorsal carpal branch (branch of the radial artery)</span>, in a retrograde manner. Interruption of the blood supply risks <b>avascular necrosis of the scaphoid</b>, with this most commonly complicating proximal injuries.   <br /><br /> Causes <br /><ul><li><span class=\"concept\" data-cid=\"11163\">Falling onto an outstretched hand (FOOSH)</span></li><li>Contact sports: The peak incidence during the autumn is thought to correlate with the start of football and rugby activities at school.</li></ul><br />Patients typically present with:<br /><ul><li>Pain along the radial aspect of the wrist, at the base of the thumb</li><li>Loss of grip / pinch strength</li></ul><br />Signs:<br /><ul><li>1. Point of <span class=\"concept\" data-cid=\"10616\">maximal tenderness over the anatomical snuffbox</span><ul><li>This is a <span class=\"concept\" data-cid=\"11161\">highly sensitive (around 90-95%), but poorly specific test (<40%)</span> in isolation</li></ul></li><li>2. Wrist joint effusion<ul><li>Hyperacute injuries (<4hrs old), and delayed presentations (>4days old) may not present with joint effusions. </li></ul></li><li>3. Pain elicited by <span class=\"concept\" data-cid=\"11542\">telescoping of the thumb (pain on longitudinal compression)</span></li><li>4. Tenderness of the scaphoid tubercle (on the volar aspect of the wrist)</li><li>5. Pain on ulnar deviation of the wrist</li></ul><br />Clinical examination has a high diagnostic probability (sensitivity 100%; specificity 74%) when [1], [3], and [4] are positive on examination. <br /><br />Investigations:<br /><ul><li>Plain film radiographs should be requested of the wrist in the anterior-posterior view, and lateral view<ul><li>'Scaphoid views': posterioranterior (PA), lateral, oblique (with wrist pronated at 45\u00ba) and Ziter view (PA view with the wrist in ulnar deviation and beam angulated at 20\u00ba)</li><li>The sensitivity in the first week of injury is only 80%</li></ul></li><li>A CT scan is superior to plain film radiographs, and may be requested in the context of ongoing clinical suspicion, planning operative management, or to determine the extent of fracture union during follow-up.  </li><li>MRI is considered the definite investigation to confirm or exclude a diagnosis<ul><li>NICE guidance from 2016 suggested the MRI should be considered the first-line imaging following clinical examination. However, this is still not common practice in the UK</li><li>however, MRI is much more commonly used second-line when radiographs are inconclusive</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd547b.png\" data-fancybox=\"gallery\" data-caption=\"Diagram showing the types of relative frequencies of the different types of scaphoid fractures\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd547.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd544b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fracture across waist of scaphoid bone\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd544.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd545b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fracture across waist of scaphoid bone\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd545.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd546.jpg\" data-fancybox=\"gallery\" data-caption=\"pdd546b.jpg\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd546.jpg\" alt=\"\" /></a></div></div></div><br />Initial management of suspected or confirmed scaphoid fracture<br /><ul><li>immobilisation with a <span class=\"concept\" data-cid=\"11162\">Futuro splint or standard below-elbow backslab</span></li><li>referral to orthopaedics<ul><li>clinical review with further imaging should be arranged for<span class=\"concept\" data-cid=\"5349\">7-10 days later</span> when initial radiographs are inconclusive</li></ul></li></ul><br />Orthopaedic management<br /><ul><li>dependent on the patient and type of fracture</li><li>undisplaced fractures of the scaphoid waist<ul><li><span class=\"concept\" data-cid=\"11165\">cast for 6-8 weeks</span></li><li>union is achieved in > 95%</li><li>certain groups e.g. professional sports people may benefit from early surgical intervention</li></ul></li><li>displaced scaphoid waist fractures<ul><li>requires surgical fixation</li></ul></li><li>proximal <span class=\"concept\" data-cid=\"11164\">scaphoid pole fractures</span><ul><li>require surgical fixation</li></ul></li></ul><br />Complications<br /><ul><li>non-union &rarr; pain and early osteoarthritis</li><li><span class=\"concept\" data-cid=\"9907\">avascular necrosis</span></li></ul>",
+        "notes_hash": "53aaa4d13fb5765b6cabe9d64fe82cb5",
+        "knowledge_graph_node_id_link": 1391,
+        "concept": "The dorsal carpal branch of the radial artery is the main neurovascular structure that is compromised in a scaphoid fracture",
+        "concept_percentile": "99",
+        "concept_colour": "rgb(5,255,0)",
+        "number_attempts": "3996",
+        "up_votes": "8",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "2274",
+            "98",
+            "1138",
+            "111",
+            "375",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2003\" data-linkid=\"2003\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2003\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_2003\" data-linkid=\"2003\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2003\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng38/chapter/Recommendations\">2016 Fractures (non-complex): assessment and management</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "5352": {
+                "concept_text": "The dorsal carpal branch of the radial artery is the main neurovascular structure that is compromised in a scaphoid fracture",
+                "concept_percentile": "99"
+            },
+            "11164": {
+                "concept_text": "All proximal scaphoid pole fractures require surgical fixation",
+                "concept_percentile": "66"
+            },
+            "11542": {
+                "concept_text": "Pain on longitudinal compression of the thumb is a sign of a scaphoid fracture",
+                "concept_percentile": "84"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

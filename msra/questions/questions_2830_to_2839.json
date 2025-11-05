@@ -1,0 +1,831 @@
+[
+    {
+        "question_id": "8369_B_13",
+        "new_question_id": "32039",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11415",
+        "notes_id_link": "1_1623",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "5 rescue breaths",
+            "2 rescue breaths",
+            "Chest compression at a ratio of 30:2",
+            "Chest compressions at a ratio of 15:2",
+            "Precordial thump",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "During your GP placement, you hear a cry for help from the reception area. You go into reception and you see a young boy around the age of 3 collapsed on the floor. You open the airway and there are no signs of life.<br /><br />Which of the following options would you do first?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "5 rescue breaths - this is the correct answer according to the latest Resuscitation Council guidelines. Once you have confirmed there are no signs of life the first thing you should do is 5 immediate rescue breaths. Note this is different from the adult algorithm where you could do 30 chest compressions first.<br /><br />2 rescue breaths - this is the incorrect answer because although you do give 2 rescue breaths after the chest compressions you should initially give 5 rescue breaths. <br /><br />Chest compression at a ratio of 30:2 - you do give chest compressions at a ratio of 30:2 if sole rescuer according to the paediatric algorithm. However, this is only after giving the 5 initial rescue breaths. Remember that in children a respiratory arrest is more likely than a cardiac arrest. <br /><br />Chest compressions at a ratio of 15:2 - you do give chest compressions at a ratio of 15:2 if there is more than one rescuer present according to the paediatric algorithm. However, this is only after giving the 5 initial rescue breaths.<br /><br />Precordial thump - this is the incorrect answer because it is not mentioned in the Resuscitation Council guidelines. A precordial thump has a very low success rate and is generally not recommended.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "During your GP placement, you hear a cry for help from the reception area. You go into reception and you see a young boy around the age of 3 collapsed on the floor. You open the airway and there are no signs of life.<br /><br />Which of the following options would you do first?",
+        "correct_answer": "1",
+        "question_notes": "5 rescue breaths - this is the correct answer according to the latest Resuscitation Council guidelines. Once you have confirmed there are no signs of life the first thing you should do is 5 immediate rescue breaths. Note this is different from the adult algorithm where you could do 30 chest compressions first.<br /><br />2 rescue breaths - this is the incorrect answer because although you do give 2 rescue breaths after the chest compressions you should initially give 5 rescue breaths. <br /><br />Chest compression at a ratio of 30:2 - you do give chest compressions at a ratio of 30:2 if sole rescuer according to the paediatric algorithm. However, this is only after giving the 5 initial rescue breaths. Remember that in children a respiratory arrest is more likely than a cardiac arrest. <br /><br />Chest compressions at a ratio of 15:2 - you do give chest compressions at a ratio of 15:2 if there is more than one rescuer present according to the paediatric algorithm. However, this is only after giving the 5 initial rescue breaths.<br /><br />Precordial thump - this is the incorrect answer because it is not mentioned in the Resuscitation Council guidelines. A precordial thump has a very low success rate and is generally not recommended.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Paediatric basic life support",
+        "body": "The 2015 Resuscitation Council guidelines made the following changes to paediatric basic life support<br /><ul><li>compression:ventilation ratio: lay rescuers should use a ratio of 30:2. If there are two or more rescuers with a duty to respond then a ratio of <span class=\"concept\" data-cid=\"3336\">15:2</span> should be used</li><li>age definitions: an infant is a child under 1 year, a child is between 1 year and puberty</li></ul><br />Key points of algorithm (please see link attached for more details)<br /><ul><li>unresponsive?</li><li>shout for help</li><li>open airway</li><li>look, listen, feel for breathing</li><li><span class=\"concept\" data-cid=\"11415\">give 5 rescue breaths</span></li><li>check for signs of circulation<ul><li><span class=\"concept\" data-cid=\"3393\">infants use brachial or femoral pulse</span>, children use femoral pulse</li></ul></li><li>15 chest compressions:2 rescue breaths (see above)<ul><li>chest compressions should be <span class=\"concept\" data-cid=\"11589\">100-120/min</span> for both infants and children</li><li>depth: depress the lower half of the sternum by at least one-third of the anterior-posterior dimension of the chest (which is approximately 4 cm for an infant and 5 cm for a child)</li><li>in children: <span class=\"concept\" data-cid=\"11587\">compress the lower half of the sternum</span></li><li>in infants: use a <span class=\"concept\" data-cid=\"11588\">two-thumb encircling technique</span> for chest compression</li></ul></li></ul>",
+        "notes_hash": "34ef43960aeb7eb8241e5ab75d72eaea",
+        "knowledge_graph_node_id_link": 11290,
+        "concept": "Paediatric BLS: give 5 rescue breaths if there are no signs of breathing on initial assessment",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "7098",
+        "up_votes": "25",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "5157",
+            "565",
+            "343",
+            "989",
+            "44",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resus Council (UK)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_932\" data-linkid=\"932\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_932\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_932\" data-linkid=\"932\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_932\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/library/2021-resuscitation-guidelines/paediatric-basic-life-support-guidelines\">Paediatric basic life support guidelines 2021</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "11415": {
+                "concept_text": "Paediatric BLS: give 5 rescue breaths if there are no signs of breathing on initial assessment",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "19269_B_52",
+        "new_question_id": "30605",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "11342",
+        "notes_id_link": "1_1724",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Book for emergency caesarean section",
+            "Vaginal prostaglandin E2",
+            "Maternal oxytocin infusion",
+            "Amniotomy",
+            "Cervical ripening balloon",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old nulliparous woman presents to the labour suite at 41+1 weeks gestation. Throughout the pregnancy, she has stated that she wants to deliver the baby vaginally if possible. On examination of the cervix, it is found to be located in an intermediate position with a firm consistency. Cervical effacement is estimated to be at around 30% and the cervical dilatation is less than 1cm. The fetal head is felt at the level of the ischial spines. Her bishop score is 3/10. The midwife has performed a membrane sweep already. <br /><br />What should your next step in management be?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Vaginal prostaglandin E2 (PGE2) is the preferred method of induction of labour. It can be administered as a gel, tablet, or controlled-release pessary. Women undergoing vaginal PGE2 should be counselled on the associated risk of uterine hyperstimulation. <br /><br />Emergency caesarean section is not required as of yet as this woman has not undergone induction of labour. It may be considered if all methods of induction fail, however, this woman wants to give birth vaginally so this should be taken into consideration and other options should be attempted first. <br /><br />Maternal oxytocin infusion is not the first-line management option and NICE guidelines state that it should not be used alone. After administering vaginal PGE2 the cervix should be reassessed at 6 hours before considering oxytocin infusion. When used it can increase the pain felt from contractions and so additional analgesia is recommended.<br /><br />Amniotomy alone, should not be used as the primary method for induction of labour. It can be considered in patients who are considered high risk for uterine hyperstimulation, where vaginal PGE2 would not be appropriate. Amniotomy is offered when the cervix is considered 'ripe' (bishop score \u22657) and may be used in combination with an oxytocin infusion. <br /><br />A cervical ripening balloon is when a balloon catheter is passed into the endocervical canal before being gently inflated, this puts pressure on the internal cervical os causing local release of prostaglandins and oxytocin. It should not be used as the primary method for induction of labour. This procedure can be painful for the woman, may cause some vaginal bleeding and as with all procedures involving inserting something into the vagina has an increased risk of infection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old nulliparous woman presents to the labour suite at 41+1 weeks gestation. Throughout the pregnancy, she has stated that she wants to deliver the baby vaginally if possible. On examination of the cervix, it is found to be located in an intermediate position with a firm consistency. Cervical effacement is estimated to be at around 30% and the cervical dilatation is less than 1cm. The fetal head is felt at the level of the ischial spines. Her bishop score is 3/10. The midwife has performed a membrane sweep already. <br /><br />What should your next step in management be?",
+        "correct_answer": "2",
+        "question_notes": "Vaginal prostaglandin E2 (PGE2) is the preferred method of induction of labour. It can be administered as a gel, tablet, or controlled-release pessary. Women undergoing vaginal PGE2 should be counselled on the associated risk of uterine hyperstimulation. <br /><br />Emergency caesarean section is not required as of yet as this woman has not undergone induction of labour. It may be considered if all methods of induction fail, however, this woman wants to give birth vaginally so this should be taken into consideration and other options should be attempted first. <br /><br />Maternal oxytocin infusion is not the first-line management option and NICE guidelines state that it should not be used alone. After administering vaginal PGE2 the cervix should be reassessed at 6 hours before considering oxytocin infusion. When used it can increase the pain felt from contractions and so additional analgesia is recommended.<br /><br />Amniotomy alone, should not be used as the primary method for induction of labour. It can be considered in patients who are considered high risk for uterine hyperstimulation, where vaginal PGE2 would not be appropriate. Amniotomy is offered when the cervix is considered 'ripe' (bishop score \u22657) and may be used in combination with an oxytocin infusion. <br /><br />A cervical ripening balloon is when a balloon catheter is passed into the endocervical canal before being gently inflated, this puts pressure on the internal cervical os causing local release of prostaglandins and oxytocin. It should not be used as the primary method for induction of labour. This procedure can be painful for the woman, may cause some vaginal bleeding and as with all procedures involving inserting something into the vagina has an increased risk of infection.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Induction of labour",
+        "body": "Induction of labour describes a process where labour is started artificially. It happens in around 20% of pregnancies.<br /><br />Indications<br /><ul><li>prolonged pregnancy, e.g. 1-2 weeks after the estimated date of delivery</li><li>prelabour premature rupture of the membranes, where labour does not start</li><li>maternal medical problems<ul><li>diabetic mother > 38 weeks</li><li>pre-eclampsia</li><li>obstetric cholestasis</li></ul></li><li>intrauterine fetal death</li></ul><br /><h5 class='notes-heading'>Bishop score</h5><br />The <span class=\"concept\" data-cid=\"11340\">Bishop score</span> is used to help assess whether induction of labour will be required. It has the following components:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>0</b></th><th><b>1</b></th><th><b>2</b></th><th><b>3</b></th></tr></thead><tbody><tr><td><b>Cervical position</b></td><td>Posterior</td><td>Intermediate</td><td>Anterior</td><td>-</td></tr><tr><td><b>Cervical consistency</b></td><td>Firm</td><td>Intermediate</td><td>Soft</td><td>-</td></tr><tr><td><b>Cervical effacement</b></td><td>0-30%</td><td>40-50%</td><td>60-70%</td><td>80%</td></tr><tr><td><b>Cervical dilation</b></td><td><1 cm</td><td>1-2 cm</td><td>3-4 cm</td><td>>5 cm</td></tr><tr><td><b>Fetal station</b></td><td>-3</td><td>-2</td><td>-1, 0</td><td>+1,+2</td></tr></tbody></table></div><br />Interpretation<br /><ul><li>a score of < 5 indicates that labour is unlikely to start without induction</li><li>a <span class=\"concept\" data-cid=\"11341\">score of \u2265 8</span> indicates that the cervix is ripe, or 'favourable' - there is a high chance of spontaneous labour, or response to interventions made to induce labour</li></ul><br /><h5 class='notes-heading'>Management</h5><br />Possible methods<br /><ul><li><span class=\"concept\" data-cid=\"11343\">membrane sweep</span><ul><li>involves the examining finger passing through the cervix to rotate against the wall of the uterus, to separate the chorionic membrane from the decidua</li><li>can be done by a midwife at the antenatal clinic. Nulliparous women are typically offered this at the 40- and 41-week antenatal visit, whereas parous women are offered it at the 41-week visit</li><li>membrane sweeping is regarded as an adjunct to induction of labour rather than an actual method of induction</li><li>prior to formal induction of labour, women should be offered a vaginal examination for membrane sweeping</li></ul></li><li>vaginal prostaglandin E<sub>2</sub> (PGE<sub>2</sub>)<ul><li>also known as dinoprostone</li></ul></li><li>oral prostaglandin E1<ul><li>also known as misoprostol</li></ul></li><li>maternal oxytocin infusion</li><li>amniotomy ('breaking of waters')</li><li>cervical ripening balloon<ul><li>passed through the endocervical canal and gently inflated to dilate the cervix</li></ul></li></ul><br />NICE guidelines<br /><ul><li><span class=\"concept\" data-cid=\"11342\">if the Bishop score is \u2264 6</span><ul><li><span class=\"concept\" data-cid=\"11342\">vaginal prostaglandins or oral misoprostol</span></li><li>mechanical methods such as a balloon catheter can be considered if the woman is at higher risk of hyperstimulation or has had a previous caesarean</li></ul></li><li><span class=\"concept\" data-cid=\"12001\">if the Bishop score is > 6 </span><ul><li><span class=\"concept\" data-cid=\"12001\">amniotomy and an intravenous oxytocin infusion</span></li></ul></li></ul><br /><h5 class='notes-heading'>Complications</h5><br /><span class=\"concept\" data-cid=\"11339\">Uterine hyperstimulation</span><br /><ul><li>the main complication of induction of labour</li><li>refers to prolonged and frequent uterine contractions - sometimes called tachysystole </li><li>potential consequences<ul><li>intermittent interruption of blood flow to the intervillous space over time may result in fetal hypoxemia and acidemia</li><li>uterine rupture (rare)</li></ul></li><li>management<ul><li>removing the vaginal prostaglandins if possible and stopping the oxytocin infusion if one has been started</li><li>consider tocolysis</li></ul></li></ul>",
+        "notes_hash": "eec96c0a4d92833d450cf3277faddce4",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Vaginal PGE<sub>2</sub> or oral misoprostol is the preferred method of induction of labour if the Bishop score is \u2264 6",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "5506",
+        "up_votes": "34",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "614",
+            "2972",
+            "1038",
+            "374",
+            "508",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_886\" data-linkid=\"886\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_886\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_886\" data-linkid=\"886\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_886\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng207/chapter/Recommendations\">2021 Induction of labour guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 11,
+        "concepts_for_notes": {
+            "11340": {
+                "concept_text": "The Bishop Score should be assessed prior to induction of labour",
+                "concept_percentile": "84"
+            },
+            "11342": {
+                "concept_text": "Vaginal PGE<sub>2</sub> or oral misoprostol is the preferred method of induction of labour if the Bishop score is \u2264 6",
+                "concept_percentile": "83"
+            },
+            "11343": {
+                "concept_text": "A membrane sweep is a useful adjunct, prior to formal induction of labour, that may be done in the antenatal clinic",
+                "concept_percentile": "34"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1167",
+        "new_question_id": "2615",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1404",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Irregular vaginal bleeding",
+            "Acne",
+            "Mood swings",
+            "Reduced libido",
+            "Weight gain",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "What is the most common adverse effect experienced by women taking the progestogen only pill?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Irregular vaginal bleeding</b>. The progestogen-only pill, also known as the mini-pill, often leads to changes in bleeding patterns. This can include spotting between periods, irregular periods, or even no periods at all. This is due to the way that progestogens affect the endometrium and inhibit ovulation. According to UK guidelines by the Faculty of Sexual & Reproductive Healthcare (FSRH), more than half of women using progestogen-only pills experience some form of altered bleeding pattern.<br /><br />The other options are less common side effects:<br /><br /><b>Acne</b> can be a side effect of hormonal contraception but it's not typically associated with the progestogen only pill. In fact, some types of hormonal contraceptives including combined oral contraceptives are used as a treatment for acne.<br /><br /><b>Mood swings</b> have been reported by some women taking the progestogen-only pill, but this is not considered a common side effect. Mood changes may occur due to fluctuations in hormone levels caused by contraceptive use; however, large-scale studies have not found a significant association between mood changes and use of progestogen-only pills.<br /><br /><b>Reduced libido</b>, while possible with any hormonal contraceptive method due to alterations in hormone levels, it is not commonly associated with the progestogen-only pill compared to other forms of hormonal contraception like combined oral contraceptives. <br /><br />Lastly, <b>Weight gain</b> has long been thought to be a common side effect of all types of hormonal contraception. However, according to recent research and guidelines from FSRH, there's no evidence that progestogen-only pills cause weight gain. Any perceived weight gain may be due to water retention or increased appetite rather than actual fat accumulation.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "What is the most common adverse effect experienced by women taking the progestogen only pill?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Irregular vaginal bleeding</b>. The progestogen-only pill, also known as the mini-pill, often leads to changes in bleeding patterns. This can include spotting between periods, irregular periods, or even no periods at all. This is due to the way that progestogens affect the endometrium and inhibit ovulation. According to UK guidelines by the Faculty of Sexual & Reproductive Healthcare (FSRH), more than half of women using progestogen-only pills experience some form of altered bleeding pattern.<br /><br />The other options are less common side effects:<br /><br /><b>Acne</b> can be a side effect of hormonal contraception but it's not typically associated with the progestogen only pill. In fact, some types of hormonal contraceptives including combined oral contraceptives are used as a treatment for acne.<br /><br /><b>Mood swings</b> have been reported by some women taking the progestogen-only pill, but this is not considered a common side effect. Mood changes may occur due to fluctuations in hormone levels caused by contraceptive use; however, large-scale studies have not found a significant association between mood changes and use of progestogen-only pills.<br /><br /><b>Reduced libido</b>, while possible with any hormonal contraceptive method due to alterations in hormone levels, it is not commonly associated with the progestogen-only pill compared to other forms of hormonal contraception like combined oral contraceptives. <br /><br />Lastly, <b>Weight gain</b> has long been thought to be a common side effect of all types of hormonal contraception. However, according to recent research and guidelines from FSRH, there's no evidence that progestogen-only pills cause weight gain. Any perceived weight gain may be due to water retention or increased appetite rather than actual fat accumulation.<br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Progestogen only pill: advantages/disadvantages",
+        "body": "Advantages<br /><ul><li>highly effective (failure rate = 1 per 100 woman years)</li><li>doesn't interfere with sex</li><li>contraceptive effects reversible upon stopping</li><li>can be used whilst breast-feeding</li><li>can be used in situations where the combined oral contraceptive pill is contraindicated e.g. in smokers > 35 years of age and women with a history of venous thromboembolic disease</li></ul><br />Disadvantages<br /><ul><li>irregular periods: some users may not have periods whilst others may have irregular or light periods. This is the most common adverse effect</li><li>doesn't protect against sexually transmitted infections</li><li>increased incidence of functional ovarian cysts</li><li>common side-effects include breast tenderness, weight gain, acne and headaches. These symptoms generally subside after the first few months</li></ul>",
+        "notes_hash": "bd89addc133adba3d26684de20156bca",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4547",
+        "up_votes": "19",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "3811",
+            "156",
+            "118",
+            "60",
+            "402",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1169\" data-linkid=\"1169\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1169\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"link_dislike_1169\" data-linkid=\"1169\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1169\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/cec-ceu-guidance-pop-mar-2015/\">2015 POP guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21388_B_418",
+        "new_question_id": "55145",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "4706",
+        "notes_id_link": "1_1868",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute cholecystitis",
+            "Cholangiocarcinoma",
+            "Chronic pancreatitis",
+            "Hepatocellular carcinoma",
+            "Primary biliary cholangitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old obese woman presents to her GP with a history of jaundice over the past three weeks. On examination, her gallbladder is palpable and enlarged. She denies any abdominal pain, fever, or previous episodes of jaundice. Her medical history includes mild hypertension.<br /><br />Blood tests show:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>90 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALP</td><td>210 u/L</td><td>(30 - 100)</td></tr><tr><td>ALT</td><td>39 u/L</td><td>(3 - 40)</td></tr><tr><td>\u03b3GT</td><td>120 u/L</td><td>(8 - 60)</td></tr><tr><td>Albumin</td><td>45 g/L</td><td>(35 - 50)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Cholangiocarcinoma</b> is correct. This is a cancer of the bile ducts and can present with Courvoisier\u2019s sign. Courvoisier\u2019s sign refers to a non-tender, palpable gallbladder in the presence of jaundice, which suggests malignancy rather than gallstones. The blood test results, particularly the raised bilirubin, \u03b3GT and ALP with normal ALT and albumin levels, suggest an obstructive pattern of jaundice commonly seen in cholangiocarcinoma. The absence of abdominal pain and fever also points away from inflammatory conditions and is consistent with a malignancy. Obesity is a risk factor for biliary diseases, including cholangiocarcinoma, because it increases the likelihood of gallstone formation and chronic inflammation of the biliary tree. Chronic inflammation can predispose to malignant transformation of biliary epithelium, which may lead to cholangiocarcinoma.<br /><br /><b>Acute cholecystitis</b> is incorrect. Acute cholecystitis typically presents with right upper quadrant abdominal pain, fever, and possibly jaundice. However, the patient has no abdominal pain or fever, which makes this diagnosis unlikely. Acute cholecystitis is usually associated with a mild elevation in bilirubin and liver enzymes (ALP and ALT), but the significant rise in bilirubin and ALP without abdominal pain is inconsistent with acute cholecystitis. Obesity is strongly associated with the development of gallstones, which are the primary cause of acute cholecystitis. Women, especially those who are obese or have had multiple pregnancies, are more prone to gallstone disease due to higher oestrogen levels, which increase cholesterol saturation in bile, predisposing them to cholecystitis.<br /><br /><b>Chronic pancreatitis </b> is incorrect. Chronic pancreatitis usually presents with abdominal pain and a history of alcohol use or recurrent episodes of pancreatitis. Some advanced cases could present without pain. Although pancreatitis can cause bile duct compression and jaundice, the painless jaundice and palpable gallbladder are not characteristic. The patient\u2019s normal ALT levels also do not fit a diagnosis of pancreatitis.<br /><br /><b>Hepatocellular carcinoma</b> (HCC) is incorrect. HCC often presents with weight loss, fatigue, and jaundice. While it is true that HCC typically does not cause a palpable gallbladder due to intrahepatic growth patterns; secondary biliary obstruction from an HCC lesion compressing the bile duct can occasionally lead to this finding. Additionally, patients often have underlying liver disease or cirrhosis, which is not suggested by this patient's clinical history or blood results. The isolated rise in bilirubin, \u03b3GT and ALP points to bile duct obstruction, which is more typical of cholangiocarcinoma than HCC. It would be expected that this patient would have an increased ALT alongside these findings.<br /><br /><b>Primary biliary cholangitis</b> (PBC) is incorrect. PBC is an autoimmune disorder primarily affecting women. It typically presents with fatigue, pruritus, and jaundice but does not usually cause a palpable gallbladder. The isolated rise in bilirubin, \u03b3GT and ALP may occur in PBC, but the absence of other features like anti-mitochondrial antibodies or chronic inflammation makes this diagnosis less likely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old obese woman presents to her GP with a history of jaundice over the past three weeks. On examination, her gallbladder is palpable and enlarged. She denies any abdominal pain, fever, or previous episodes of jaundice. Her medical history includes mild hypertension.<br /><br />Blood tests show:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>90 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALP</td><td>210 u/L</td><td>(30 - 100)</td></tr><tr><td>ALT</td><td>39 u/L</td><td>(3 - 40)</td></tr><tr><td>\u03b3GT</td><td>120 u/L</td><td>(8 - 60)</td></tr><tr><td>Albumin</td><td>45 g/L</td><td>(35 - 50)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "<b>Cholangiocarcinoma</b> is correct. This is a cancer of the bile ducts and can present with Courvoisier\u2019s sign. Courvoisier\u2019s sign refers to a non-tender, palpable gallbladder in the presence of jaundice, which suggests malignancy rather than gallstones. The blood test results, particularly the raised bilirubin, \u03b3GT and ALP with normal ALT and albumin levels, suggest an obstructive pattern of jaundice commonly seen in cholangiocarcinoma. The absence of abdominal pain and fever also points away from inflammatory conditions and is consistent with a malignancy. Obesity is a risk factor for biliary diseases, including cholangiocarcinoma, because it increases the likelihood of gallstone formation and chronic inflammation of the biliary tree. Chronic inflammation can predispose to malignant transformation of biliary epithelium, which may lead to cholangiocarcinoma.<br /><br /><b>Acute cholecystitis</b> is incorrect. Acute cholecystitis typically presents with right upper quadrant abdominal pain, fever, and possibly jaundice. However, the patient has no abdominal pain or fever, which makes this diagnosis unlikely. Acute cholecystitis is usually associated with a mild elevation in bilirubin and liver enzymes (ALP and ALT), but the significant rise in bilirubin and ALP without abdominal pain is inconsistent with acute cholecystitis. Obesity is strongly associated with the development of gallstones, which are the primary cause of acute cholecystitis. Women, especially those who are obese or have had multiple pregnancies, are more prone to gallstone disease due to higher oestrogen levels, which increase cholesterol saturation in bile, predisposing them to cholecystitis.<br /><br /><b>Chronic pancreatitis </b> is incorrect. Chronic pancreatitis usually presents with abdominal pain and a history of alcohol use or recurrent episodes of pancreatitis. Some advanced cases could present without pain. Although pancreatitis can cause bile duct compression and jaundice, the painless jaundice and palpable gallbladder are not characteristic. The patient\u2019s normal ALT levels also do not fit a diagnosis of pancreatitis.<br /><br /><b>Hepatocellular carcinoma</b> (HCC) is incorrect. HCC often presents with weight loss, fatigue, and jaundice. While it is true that HCC typically does not cause a palpable gallbladder due to intrahepatic growth patterns; secondary biliary obstruction from an HCC lesion compressing the bile duct can occasionally lead to this finding. Additionally, patients often have underlying liver disease or cirrhosis, which is not suggested by this patient's clinical history or blood results. The isolated rise in bilirubin, \u03b3GT and ALP points to bile duct obstruction, which is more typical of cholangiocarcinoma than HCC. It would be expected that this patient would have an increased ALT alongside these findings.<br /><br /><b>Primary biliary cholangitis</b> (PBC) is incorrect. PBC is an autoimmune disorder primarily affecting women. It typically presents with fatigue, pruritus, and jaundice but does not usually cause a palpable gallbladder. The isolated rise in bilirubin, \u03b3GT and ALP may occur in PBC, but the absence of other features like anti-mitochondrial antibodies or chronic inflammation makes this diagnosis less likely.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hepatobiliary disease and related disorders",
+        "body": "The table below gives characteristic exam question features for conditions causing hepatobiliary disease and related disorders:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Condition</th><th>Features</th></tr></thead><tbody><tr><td><b>Viral hepatitis</b></td><td>Common symptoms include:<br /><ul><li>nausea and vomiting, anorexia</li><li>myalgia</li><li>lethargy</li><li>right upper quadrant (RUQ) pain</li></ul><br />Questions may point to risk factors such as foreign travel or intravenous drug use.</td></tr><tr><td><b>Congestive hepatomegaly</b></td><td>The liver only usually causes pain if stretched. One common way this can occur is as a consequence of congestive heart failure. In severe cases cirrhosis may occur.</td></tr><tr><td><b>Biliary colic</b></td><td>RUQ pain, intermittent, usually begins abruptly and subsides gradually. Attacks often occur after eating. Nausea is common.<br /><br />It is sometimes taught that patients are female, forties, fat and fair although this is obviously a generalisation.</td></tr><tr><td><b>Acute cholecystitis </b></td><td>Pain similar to biliary colic but more severe and persistent. The pain may radiate to the back or right shoulder. <br /><br />The patient may be pyrexial and Murphy's sign positive (arrest of inspiration on palpation of the RUQ)</td></tr><tr><td><b>Ascending cholangitis</b></td><td>An infection of the bile ducts commonly secondary to gallstones. Classically presents with a triad of:<br /><ul><li>fever (rigors are common)</li><li>RUQ pain</li><li>jaundice</td></tr><tr><td></li></ul><b>Gallstone ileus</b></td><td>This describes small bowel obstruction secondary to an impacted gallstone. It may develop if a fistula forms between a gangrenous gallbladder and the duodenum.<br /><br />Abdominal pain, distension and vomiting are seen.</td></tr><tr><td><b>Cholangiocarcinoma</b></td><td>Persistent biliary colic symptoms, associated with anorexia, jaundice and weight loss. A palpable mass in the right upper quadrant (Courvoisier sign), periumbilical lymphadenopathy (Sister Mary Joseph nodes) and left supraclavicular adenopathy (Virchow node) may be seen</td></tr><tr><td><b>Acute pancreatitis</b></td><td>Usually due to alcohol or gallstones<br />Severe epigastric pain<br />Vomiting is common<br />Examination may reveal tenderness, ileus and low-grade fever<br />Periumbilical discolouration (Cullen's sign) and flank discolouration (Grey-Turner's sign) is described but rare</td></tr><tr><td><b>Pancreatic cancer</b></td><td>Painless jaundice is the classical presentation of pancreatic cancer. However pain is actually a relatively common presenting symptom of pancreatic cancer. Anorexia and weight loss are common</td></tr><tr><td><b>Amoebic liver abscess</b></td><td>Typical symptoms are malaise, anorexia and weight loss. The associated RUQ pain tends to be mild and jaundice is uncommon.</td></tr></tbody></table></div>",
+        "notes_hash": "9244a127e8d304511af3a6f82900360c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Courvoisier's law: A palpable, non tender, enlarged gallbladder accompanied with painless jaundice is unlikely to be due to gallstones. Instead consider malignancy",
+        "concept_percentile": "98",
+        "concept_colour": "rgb(10,255,0)",
+        "number_attempts": "5947",
+        "up_votes": "9",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "412",
+            "3926",
+            "249",
+            "323",
+            "1037",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Gastrointestinal tract (upper) cancers - recognition and referral</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_27\" data-linkid=\"27\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_27\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_27\" data-linkid=\"27\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_27\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://cks.nice.org.uk/gastrointestinal-tract-upper-cancers-recognition-and-referral#!scenario\">Hepatobiliary disease and related disorders</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/d/d8/Gallstone_ileus.webm\" data-description=\"Gallstone ileus\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"989\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/d/d8/Gallstone_ileus.webm\" data-description=\"Gallstone ileus\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"989\">Gallstone ileus</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1727\" data-mediaid=\"1727\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1727\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1727\" data-mediaid=\"1727\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1727\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_32",
+        "new_question_id": "14286",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "2977",
+        "notes_id_link": "1_2627",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Trauma",
+            "Septic arthritis",
+            "Slipped upper femoral epiphysis",
+            "Transient synovitis",
+            "Non accidental injury",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a foundation year two doctor in the emergency department. You see a twelve-year-old with right hip pain and a limp. Observations are unremarkable with the exception of a mild fever. Bloods are unremarkable. X-ray was normal. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Although trauma may have occurred this is likely to have come out in the history.<br /><br />Transient synovitis, or irritable hip, is a common condition in childhood. It is a diagnosis of exclusion and is characterised by acute onset pain and limping. Symptoms self resolve in 1-2 weeks.<br /><br />Although trauma or non accidental injury may have occurred this is likely to have come out in the history. Doctors should always be vigilant for signs of non accidental injury.<br /><br />It is important to consider septic arthritis with normal bloods this is unlikely. <br /><br />SUFE or slipped Upper Femoral Epiphysis causes groin pain and a waddling gait. It has a characteristic x-ray and is therefore unlikely in this case.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a foundation year two doctor in the emergency department. You see a twelve-year-old with right hip pain and a limp. Observations are unremarkable with the exception of a mild fever. Bloods are unremarkable. X-ray was normal. What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Although trauma may have occurred this is likely to have come out in the history.<br /><br />Transient synovitis, or irritable hip, is a common condition in childhood. It is a diagnosis of exclusion and is characterised by acute onset pain and limping. Symptoms self resolve in 1-2 weeks.<br /><br />Although trauma or non accidental injury may have occurred this is likely to have come out in the history. Doctors should always be vigilant for signs of non accidental injury.<br /><br />It is important to consider septic arthritis with normal bloods this is unlikely. <br /><br />SUFE or slipped Upper Femoral Epiphysis causes groin pain and a waddling gait. It has a characteristic x-ray and is therefore unlikely in this case.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Transient synovitis",
+        "body": "Transient synovitis is sometimes referred to as irritable hip. It generally presents as acute hip pain following a recent viral infection. It is the commonest cause of hip pain in children. The typical age group is <span class=\"concept\" data-cid=\"3026\">3-8 years</span>.<br /><br /><span class=\"concept\" data-cid=\"2372\">Features</span><br /><ul><li>limp/refusal to weight bear</li><li>groin or hip pain</li><li>a <span class=\"concept\" data-cid=\"2977\">low-grade fever</span> is present in a minority of patients<ul><li>high fever should raise the suspicion of other causes such as septic arthritis</li></ul></li></ul><br />NICE help us with the difficult task of excluding septic arthritis and other serious diagnoses in children who present with a limp. They suggest:<br /><ul><li><span class=\"concept\" data-cid=\"11508\">fever</span> is a red flag, indicating the need for urgent specialist assessment</li><li><span class=\"concept\" data-cid=\"11509\">children may be monitored in primary care</span> (with a presumptive diagnosis of transient synovitis)  '<i>If the child is aged 3-9 years, well, afebrile, mobile but limping, and has had the symptoms for less than 72 hours</i></li></ul><br />Transient synovitis is <span class=\"concept\" data-cid=\"2817\">self-limiting</span>, requiring only rest and analgesia.",
+        "notes_hash": "248c3996a519f74a90050bf0a40c93a5",
+        "knowledge_graph_node_id_link": 1102,
+        "concept": "Transient synovitis is often associated with a mild fever",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "4718",
+        "up_votes": "19",
+        "down_votes": "45",
+        "column_array": [
+            0,
+            "24",
+            "424",
+            "621",
+            "3618",
+            "31",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"3\" data-media=\"1420\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uKmFTtCPdKM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"3\" data-media=\"1420\">Paediatric Limp: Differential Frameworks</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2493\" data-mediaid=\"2493\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2493\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_2493\" data-mediaid=\"2493\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2493\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "2372": {
+                "concept_text": "A child with hip pain, limp and recent infective illness --> ? transient synovitis",
+                "concept_percentile": "82"
+            },
+            "2977": {
+                "concept_text": "Transient synovitis is often associated with a mild fever",
+                "concept_percentile": "79"
+            },
+            "3026": {
+                "concept_text": "Transient synovitis is most commonly seen in children aged 3-8 years",
+                "concept_percentile": "61"
+            },
+            "11508": {
+                "concept_text": "If a child with a limp/hip pain has a fever they should be referred for same-day assessment, even if a diagnosis of transient synovitis is suspected",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1359",
+        "new_question_id": "46734",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4806",
+        "notes_id_link": "1_1048",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Clomipramine",
+            "Lorazepam",
+            "Mirtazapine",
+            "Sertraline",
+            "Venlafaxine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22-year-old woman presents to her general practitioner with several months of distressing episodes. The attacks last for a few minutes at a time; she experiences a pounding heart, clammy hands, nausea and a sense of 'dread'. These occur during times of stress - more so currently with her upcoming university exams. She has no significant past medical history. <br /><br />On examination, she appears generally well in herself, although somewhat anxious. She is keen to trial medication to assist with her symptoms.<br /><br />What is the most appropriate medication?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is likely suffering from panic disorder, characterised by recurrent episodes of palpitations, clamminess, nausea and dread/anxiety triggered by stressful events. Cognitive behavioural therapy plays a big role in managing the condition. With regard to medication, the most appropriate first step is a selective serotonin reuptake inhibitor (SSRI) such as <b>sertraline</b>. Alternatives include fluoxetine, citalopram and paroxetine.<br /><br /><b>Clomipramine</b> is a tricyclic antidepressant (TCA). This may be used second-line, although are less favourable than SSRIs due to their larger side effect profile.<br /><br /><b>Lorazepam</b> is a benzodiazepine and may be used for immediate relief of severe panic symptoms. It is generally prescribed with some hesitation due to low-quality evidence and the potential for tolerance and addiction. For patients with severe panic, who have not responded to SSRIs or TCAs, a longer course of benzodiazepines may be trialled.<br /><br /><b>Mirtazapine</b> is an atypical antidepressant and is primarily used for depression, anxiety and sleep issues. It is not normally used to treat panic disorder.<br /><br /><b>Venlafaxine</b> is a serotonin and noradrenaline reuptake inhibitor (SNRI). It is also effective in treating panic disorder, as an alternative to SSRIs. Generally, however, SSRIs are trialled first.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22-year-old woman presents to her general practitioner with several months of distressing episodes. The attacks last for a few minutes at a time; she experiences a pounding heart, clammy hands, nausea and a sense of 'dread'. These occur during times of stress - more so currently with her upcoming university exams. She has no significant past medical history. <br /><br />On examination, she appears generally well in herself, although somewhat anxious. She is keen to trial medication to assist with her symptoms.<br /><br />What is the most appropriate medication?",
+        "correct_answer": "4",
+        "question_notes": "This patient is likely suffering from panic disorder, characterised by recurrent episodes of palpitations, clamminess, nausea and dread/anxiety triggered by stressful events. Cognitive behavioural therapy plays a big role in managing the condition. With regard to medication, the most appropriate first step is a selective serotonin reuptake inhibitor (SSRI) such as <b>sertraline</b>. Alternatives include fluoxetine, citalopram and paroxetine.<br /><br /><b>Clomipramine</b> is a tricyclic antidepressant (TCA). This may be used second-line, although are less favourable than SSRIs due to their larger side effect profile.<br /><br /><b>Lorazepam</b> is a benzodiazepine and may be used for immediate relief of severe panic symptoms. It is generally prescribed with some hesitation due to low-quality evidence and the potential for tolerance and addiction. For patients with severe panic, who have not responded to SSRIs or TCAs, a longer course of benzodiazepines may be trialled.<br /><br /><b>Mirtazapine</b> is an atypical antidepressant and is primarily used for depression, anxiety and sleep issues. It is not normally used to treat panic disorder.<br /><br /><b>Venlafaxine</b> is a serotonin and noradrenaline reuptake inhibitor (SNRI). It is also effective in treating panic disorder, as an alternative to SSRIs. Generally, however, SSRIs are trialled first.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Panic disorder",
+        "body": "For Panic disorder to be diagnosed symptoms have to be present for at least 1 month. The prevalence of panic attacks is around 7-9%, the prevalence of panic disorder is 1.5-2.5%. It is twice as common in females than in males. There are two peaks of onset from ages 15-24 and 45-54. SSRIs and CBT are the most commonly used therapies for Panic disorder.<br /><br />Living alone, early parental loss, a history of abuse, poor educational history and urban living are risk factors for developing panic disorder. There is a 40% prevalence seen in 1st degree relatives of those with panic disorder and it generally follows a chronic, mild and stable course in 50% of patients.",
+        "notes_hash": "074384c2bfa8c45dd8b1b33ee9102403",
+        "knowledge_graph_node_id_link": 1181,
+        "concept": "SSRIs are the most commonly used drug treatment in panic disorder",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "5605",
+        "up_votes": "16",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "129",
+            "639",
+            "174",
+            "4234",
+            "429",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YxELZyA2bJs\" data-description=\"Panic disorder\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"297\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/YxELZyA2bJs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YxELZyA2bJs\" data-description=\"Panic disorder\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"297\">Panic disorder</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_504\" data-mediaid=\"504\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_504\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_504\" data-mediaid=\"504\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_504\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1755_B_22",
+        "new_question_id": "3330",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1561",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Treat pain and fever with alternating paracetamol and Ibuprofen and observe for the next 4 hours",
+            "Treat pain and fever with paracetamol and observe for the next 4 hours",
+            "Prescribe a 5 day course of amoxicillin and discharge home",
+            "Admit for immediate paediatric assessment",
+            "Treat pain and fever with ibuprofen and observe for the next 4 hours",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 9-week-old infant is brought to the Emergency department by her father. She has been very unsettled for the past 24 hours, high pitched crying and poorly feeding. On examination her temperature is 38.1C and her right tympanic membrane appears red and inflamed. A diagnosis of acute otitis media without effusion is made. Which one of the following is the most appropriate management in the emergency department?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This question focuses on the management of the acutely unwell child.  The key to this question is being able to recognise whether this is a low, medium or high risk situation.  According to the guidelines, this child has one medium risk factor (poor feeding) and two high risk factors (high pitched cry, temperature greater than 38C in an infant under 3-month-old).  Any child with a high risk factor should be referred urgently to the paediatric team for assessment.  <br /><br />There are some situations in which a child may have a high risk factor but the diagnosis suggests a less serious outcome.  In cases like this, the guidelines should be observed but clinical judgement can determine the next step in management.  <br /><br />Despite the child in this scenario having a diagnosis of acute otitis media without an effusion, she is very young with multiple risk factors and so the best management would be a paediatric referral.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 9-week-old infant is brought to the Emergency department by her father. She has been very unsettled for the past 24 hours, high pitched crying and poorly feeding. On examination her temperature is 38.1C and her right tympanic membrane appears red and inflamed. A diagnosis of acute otitis media without effusion is made. Which one of the following is the most appropriate management in the emergency department?",
+        "correct_answer": "4",
+        "question_notes": "This question focuses on the management of the acutely unwell child.  The key to this question is being able to recognise whether this is a low, medium or high risk situation.  According to the guidelines, this child has one medium risk factor (poor feeding) and two high risk factors (high pitched cry, temperature greater than 38C in an infant under 3-month-old).  Any child with a high risk factor should be referred urgently to the paediatric team for assessment.  <br /><br />There are some situations in which a child may have a high risk factor but the diagnosis suggests a less serious outcome.  In cases like this, the guidelines should be observed but clinical judgement can determine the next step in management.  <br /><br />Despite the child in this scenario having a diagnosis of acute otitis media without an effusion, she is very young with multiple risk factors and so the best management would be a paediatric referral.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Feverish illness in children",
+        "body": "The 2007 NICE Feverish illness in children guidelines introduced a 'traffic light' system for risk stratification of children under the age of 5 years presenting with a fever. These guidelines were later modified in a 2013 update.<br /><br />It should be noted that these guidelines only apply 'until a clinical diagnosis of the underlying condition has been made'. A link to the guidelines is provided but some key points are listed below. <br /><br /><h5 class='notes-heading'>Assessment</h5><br />The following should be recorded in all febrile children:<br /><ul><li>temperature</li><li>heart rate</li><li>respiratory rate</li><li>capillary refill time</li></ul><br />Signs of dehydration (reduced skin turgor, cool extremities etc) should also be looked for<br /><br />Measuring temperature should be done with an electronic thermometer in the axilla if the child is < 4 weeks or with an electronic/chemical dot thermometer in the axilla or an infra-red tympanic thermometer.<br /><br /><h5 class='notes-heading'>Risk stratification</h5><br />Please see the link for the complete table, below is a modified version<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>Green - low risk</b></th><th><b>Amber - intermediate risk</b></th><th><b>Red - high risk</b></th></tr></thead><tbody><tr><td><b>Colour</b></td><td>&#8226; Normal colour</td><td>&#8226; Pallor reported by parent/carer</td><td>&#8226; Pale/mottled/ashen/blue</td></tr><tr><td><b>Activity</b></td><td>&#8226; Responds normally to social cues<br />&#8226; Content/smiles<br />&#8226; Stays awake or awakens quickly<br />&#8226; Strong normal cry/not crying</td><td>&#8226; Not responding normally to social cues<br />&#8226; No smile<br />&#8226; Wakes only with prolonged stimulation<br />&#8226; Decreased activity</td><td>&#8226; No response to social cues<br />&#8226; <span class=\"concept\" data-cid=\"5078\">Appears ill to a healthcare professional</span><br />&#8226; Does not wake or if roused does not stay awake<br />&#8226; Weak, high-pitched or continuous cry</td></tr><tr><td><b>Respiratory</b></td><td></td><td>&#8226; Nasal flaring<br />&#8226; Tachypnoea: respiratory rate<br /><ul><li>>50 breaths/minute, age 6-12 months;</li><li>>40 breaths/minute, age >12 months</li></ul>&#8226; Oxygen saturation <=95% in air<br />&#8226; Crackles in the chest</td><td>&#8226; Grunting<br />&#8226; Tachypnoea: <span class=\"concept\" data-cid=\"1272\">respiratory rate >60 breaths/minute</span><br />&#8226; <span class=\"concept\" data-cid=\"5079\">Moderate or severe chest indrawing</span></td></tr><tr><td><b>Circulation and hydration</b></td><td>&#8226; Normal skin and eyes<br />&#8226; Moist mucous membranes</td><td>&#8226; Tachycardia:<br /><ul><li>>160 beats/minute, age <12 months</li><li>>150 beats/minute, age 12-24 months</li><li>>140 beats/minute, age 2-5 years</li></ul>&#8226; Capillary refill time >=3 seconds<br />&#8226; Dry mucous membranes<br />&#8226; Poor feeding in infants<br />&#8226; Reduced urine output</td><td>&#8226; <span class=\"concept\" data-cid=\"1271\">Reduced skin turgor</span></td></tr><tr><td><b>Other</b></td><td>No amber or red signs</td><td>&#8226; Age 3-6 months, temperature >=39\u00baC<br />&#8226; Fever for >=5 days<br />&#8226; Rigors<br />&#8226; Swelling of a limb or joint<br />&#8226; Non-weight bearing limb/not using an extremity</td><td>&#8226; <span class=\"concept\" data-cid=\"1457\">Age <3 months, temperature >=38\u00b0C</span><br />&#8226; Non-blanching rash<br />&#8226; Bulging fontanelle<br />&#8226; Neck stiffness<br />&#8226; Status epilepticus<br />&#8226; Focal neurological signs<br />&#8226; Focal seizures</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Management</h5><br />If green:<br /><ul><li>Child can be managed at home with appropriate care advice, including when to seek further help</li></ul><br />If amber:<br /><ul><li>provide parents with a safety net or refer to a paediatric specialist for further assessment</li><li>a safety net includes verbal or written information on warning symptoms and how further healthcare can be accessed, a follow-up appointment, liaison with other healthcare professionals, e.g. out-of-hours providers, for further follow-up</li></ul><br />If red:<br /><ul><li>refer child urgently to a paediatric specialist</li></ul><br />Other key points include<br /><ul><li>oral antibiotics should not be prescribed to children with fever without apparent source</li><li>if a pneumonia is suspected but the child is not going to be referred to hospital then a chest x-ray does not need to be routinely performed</li></ul>",
+        "notes_hash": "0871b05236a0e114ccd6fa06b31dc7c5",
+        "knowledge_graph_node_id_link": 11240,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6279",
+        "up_votes": "24",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "574",
+            "777",
+            "461",
+            "4356",
+            "111",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_287\" data-linkid=\"287\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_287\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_287\" data-linkid=\"287\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_287\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">32</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG160/chapter/1-Recommendations\">2013 Feverish illness in children guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1457": {
+                "concept_text": "A child aged < 3 months with a fever > 38\u00baC should be assessed as high risk of serious illness",
+                "concept_percentile": "93"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1737",
+        "new_question_id": "9188",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_551",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Temporal arteritis",
+            "Optic neuritis",
+            "Pituitary tumour",
+            "Acute angle-closure glaucoma",
+            "Retinal detachment",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old man presents with visual problems. Since yesterday he has developed a 'blind spot' in the visual field of his right eye. This seemed to develop overnight and has got slightly worse since. He has also noticed a slight pain 'behind' his right eye which is worse on moving the eye. Colours, especially red, seem 'washed-out'. When he covers his right eye the vision in the left seems normal. He has feeling generally lethargic for the past few days but is otherwise fit and well. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Visual loss, eye pain and red desaturation are all classical symptoms of optic neuritis, which is often the presenting symptom of multiple sclerosis (MS). Lethargy is a common non-specific symptom of early MS.<br /><br />Temporal arteritis would be extremely unusual in a 34-year-old.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old man presents with visual problems. Since yesterday he has developed a 'blind spot' in the visual field of his right eye. This seemed to develop overnight and has got slightly worse since. He has also noticed a slight pain 'behind' his right eye which is worse on moving the eye. Colours, especially red, seem 'washed-out'. When he covers his right eye the vision in the left seems normal. He has feeling generally lethargic for the past few days but is otherwise fit and well. What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Visual loss, eye pain and red desaturation are all classical symptoms of optic neuritis, which is often the presenting symptom of multiple sclerosis (MS). Lethargy is a common non-specific symptom of early MS.<br /><br />Temporal arteritis would be extremely unusual in a 34-year-old.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Optic neuritis",
+        "body": "Causes<br /><ul><li><span class=\"concept\" data-cid=\"11248\">multiple sclerosis</span>: the commonest associated disease</li><li>diabetes</li><li>syphilis</li></ul><br /><span class=\"concept\" data-cid=\"1298\">Features</span><br /><ul><li>unilateral decrease in visual acuity over hours or days</li><li><span class=\"concept\" data-cid=\"3251\">poor discrimination of colours, 'red desaturation'</span></li><li>pain worse on eye movement</li><li><span class=\"concept\" data-cid=\"3051\">relative afferent pupillary defect</span></li><li><span class=\"concept\" data-cid=\"9128\">central scotoma</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"11902\">MRI of the brain and orbits with gadolinium contrast</span> is diagnostic in most cases</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"1623\">high-dose steroids</span></li><li>recovery usually takes 4-6 weeks</li></ul><br />Prognosis<br /><ul><li>MRI: if > 3 white-matter lesions, 5-year risk of developing multiple sclerosis is c. 50%</li></ul>",
+        "notes_hash": "8164d05999353b07683d775fbc1e56d2",
+        "knowledge_graph_node_id_link": 1371,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4214",
+        "up_votes": "40",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "75",
+            "3656",
+            "35",
+            "168",
+            "280",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1298": {
+                "concept_text": "Subacute unilateral visual loss, eye pain worse on movements --> ?optic neuritis",
+                "concept_percentile": "73"
+            },
+            "3051": {
+                "concept_text": "Optic neuritis is associated with relative afferent pupillary defect",
+                "concept_percentile": "73"
+            },
+            "3251": {
+                "concept_text": "Colour vision ('red desaturation') is affected in optic neuritis",
+                "concept_percentile": "78"
+            },
+            "9128": {
+                "concept_text": "A central scotoma is a feature of optic neuritis",
+                "concept_percentile": "91"
+            },
+            "11248": {
+                "concept_text": "Multiple sclerosis is the most common cause of optic neuritis",
+                "concept_percentile": "52"
+            },
+            "11902": {
+                "concept_text": "Suspected optic neuritis: MRI of the brain and orbits with gadolinium contrast is the investigation of choice",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_601",
+        "new_question_id": "235",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "10_204",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Wernicke's encephalopathy",
+            "Radial nerve palsy",
+            "Subacute combined degeneration of the cord",
+            "Acute B12 deficiency",
+            "Ulnar nerve palsy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old man wakes up on a Sunday morning unable to extend his wrist . He had been drinking heavily the previous night. What is the likely cause of his weakness?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>radial nerve palsy</b>, also known as 'Saturday night palsy.' This condition occurs when there is compression of the radial nerve, typically when an intoxicated person falls asleep with their arm draped over a hard surface like a chair back. The radial nerve is particularly vulnerable to compression as it winds around the humerus in the spiral groove. The characteristic presentation is wrist drop, with inability to extend the wrist and fingers at the metacarpophalangeal joints, whilst maintaining intact finger flexion.<br /><br /><b>Wernicke's encephalopathy</b> is incorrect as this presents with the classical triad of confusion, ataxia, and ophthalmoplegia. Whilst it is associated with alcohol misuse, it is due to thiamine deficiency and develops over a longer period, not acutely after one night of drinking. It would not cause isolated wrist weakness.<br /><br /><b>Subacute combined degeneration of the cord</b> is incorrect as this is a chronic condition resulting from B12 deficiency affecting the posterior and lateral columns of the spinal cord. It presents with progressive symmetric paraesthesia, ataxia, and spastic paraparesis, not acute isolated wrist weakness.<br /><br /><b>Acute B12 deficiency</b> is incorrect as B12 deficiency does not cause acute neurological symptoms. Neurological manifestations of B12 deficiency develop gradually over months to years and typically present with peripheral neuropathy and cognitive changes.<br /><br /><b>Ulnar nerve palsy</b> is incorrect as this affects a different nerve distribution. Ulnar nerve palsy typically presents with weakness of the intrinsic hand muscles, particularly affecting finger abduction and adduction, and sensory changes in the medial one and a half fingers. It would not cause wrist drop.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old man wakes up on a Sunday morning unable to extend his wrist . He had been drinking heavily the previous night. What is the likely cause of his weakness?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>radial nerve palsy</b>, also known as 'Saturday night palsy.' This condition occurs when there is compression of the radial nerve, typically when an intoxicated person falls asleep with their arm draped over a hard surface like a chair back. The radial nerve is particularly vulnerable to compression as it winds around the humerus in the spiral groove. The characteristic presentation is wrist drop, with inability to extend the wrist and fingers at the metacarpophalangeal joints, whilst maintaining intact finger flexion.<br /><br /><b>Wernicke's encephalopathy</b> is incorrect as this presents with the classical triad of confusion, ataxia, and ophthalmoplegia. Whilst it is associated with alcohol misuse, it is due to thiamine deficiency and develops over a longer period, not acutely after one night of drinking. It would not cause isolated wrist weakness.<br /><br /><b>Subacute combined degeneration of the cord</b> is incorrect as this is a chronic condition resulting from B12 deficiency affecting the posterior and lateral columns of the spinal cord. It presents with progressive symmetric paraesthesia, ataxia, and spastic paraparesis, not acute isolated wrist weakness.<br /><br /><b>Acute B12 deficiency</b> is incorrect as B12 deficiency does not cause acute neurological symptoms. Neurological manifestations of B12 deficiency develop gradually over months to years and typically present with peripheral neuropathy and cognitive changes.<br /><br /><b>Ulnar nerve palsy</b> is incorrect as this affects a different nerve distribution. Ulnar nerve palsy typically presents with weakness of the intrinsic hand muscles, particularly affecting finger abduction and adduction, and sensory changes in the medial one and a half fingers. It would not cause wrist drop.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Radial nerve",
+        "body": "Continuation of posterior cord of the brachial plexus (root values C5 to T1)<br /><br />Path<br /><ul><li>In the axilla: lies posterior to the axillary artery on subscapularis, latissimus dorsi and teres major.</li><li>Enters the arm between the brachial artery and the long head of triceps (medial to humerus).</li><li>Spirals around the posterior surface of the humerus in the groove for the radial nerve.</li><li>At the distal third of the lateral border of the humerus it then pierces the intermuscular septum and descends in front of the lateral epicondyle. </li><li>At the lateral epicondyle it lies deeply between brachialis and brachioradialis where it then divides into a superficial and deep terminal branch.</li><li>Deep branch crosses the supinator to become the posterior interosseous nerve.</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>In the image above the relationships of the radial nerve can be appreciated</div><br /><h5 class='notes-heading'>Regions innervated</h5><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td>Motor (main nerve)</td><td><ul><li>Triceps</li><li>Anconeus</li><li>Brachioradialis</li><li>Extensor carpi radialis</td></tr><tr><td></li></ul>Motor (posterior interosseous branch)</td><td><ul><li>Supinator</li><li>Extensor carpi ulnaris</li><li>Extensor digitorum</li><li>Extensor indicis</li><li>Extensor digiti minimi</li><li>Extensor pollicis longus and brevis</li><li><span class=\"concept\" data-cid=\"6617\">Abductor pollicis longus</span></td></tr><tr><td></li></ul>Sensory</td><td>The area of skin supplying the proximal phalanges on the dorsal aspect of the hand is supplied by the radial nerve (this does not apply to the little finger and part of the ring finger)</td></tr></tbody></table></div> <br /><b>Muscular innervation and effect of denervation</b><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Anatomical location</b></th><th><b>Muscle affected</b></th><th><b>Effect of paralysis</b></th></tr></thead><tbody><tr><td>Shoulder</td><td>Long head of triceps</td><td>Minor effects on shoulder stability in abduction</td></tr><tr><td>Arm</td><td>Triceps</td><td>Loss of elbow extension</td></tr><tr><td>Forearm</td><td>Supinator<br />Brachioradialis<br />Extensor carpi radialis longus and brevis</td><td>Weakening of supination of prone hand and elbow flexion in mid prone position</td></tr></tbody></table></div><br />Patterns of damage<br /><ul><li><span class=\"concept\" data-cid=\"8226\">wrist drop</span></li><li>sensory loss to small area between the dorsal aspect of the 1st and 2nd metacarpals</li></ul><br />Axillary damage<br /><ul><li>as above</li><li>paralysis of triceps</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>The cutaneous sensation of the upper limb- illustrating the contribution of the radial nerve</div>",
+        "notes_hash": "bee3faa383f9468dac170fa560c187a6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5171",
+        "up_votes": "31",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "116",
+            "4031",
+            "91",
+            "283",
+            "650",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3M6dzH1i-GI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\">Radial Nerve - 3D Anatomy Tutorial</a></td></tr><tr><td><span ><small>Anatomy Zone - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_612\" data-mediaid=\"612\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_612\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_612\" data-mediaid=\"612\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_612\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "8226": {
+                "concept_text": "Wrist drop is clinical sign that may be found with a mid shaft humeral fracture",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9442",
+        "new_question_id": "10422",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_816",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Meptazinol",
+            "Ondansetron",
+            "Domperidone",
+            "Cyclizine",
+            "Metoclopramide",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You want to prescribe an antiemetic to a 19-year-old female who is having a migraine attack. Which one of the following medications is most likely to precipitate extrapyramidal side-effects?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Metoclopramide</b>. Metoclopramide is a dopamine antagonist and it works by blocking dopamine receptors in the chemoreceptor trigger zone of the central nervous system. This action prevents nausea and vomiting triggered by most stimuli. However, its antagonistic effect on dopamine can also lead to extrapyramidal side-effects such as acute dystonic reactions, akathisia, and parkinsonism. These side effects are more common in young people and females.<br /><br /><b>Meptazinol</b> is an incorrect choice because it's not an antiemetic but rather an opioid analgesic used for the relief of moderate to severe pain. It works primarily by binding to mu-opioid receptors in the central nervous system, which does not typically cause extrapyramidal side effects.<br /><br /><b>Ondansetron</b>, another incorrect choice, is a selective serotonin 5-HT3 receptor antagonist which blocks these receptors both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone. It's commonly used as an antiemetic to treat nausea and vomiting caused by cancer chemotherapy, radiation therapy, and surgery but rarely causes extrapyramidal side effects.<br /><br /><b>Domperidone</b> is also a wrong answer. Domperidone is a peripheral dopamine D2 and D3 antagonist that increases gastric motility and lower oesophageal sphincter tone. While domperidone has been associated with an increased risk of cardiac arrhythmias at high doses or in patients with predisposing factors, it does not readily cross the blood-brain barrier so it's less likely to cause extrapyramidal side effects compared to metoclopramide.<br /><br />Lastly, <b>Cyclizine</b> isn't the best choice either. Cyclizine is a histamine H1 antagonist used commonly for motion sickness and postoperative nausea and vomiting (PONV). It works by inhibiting histaminergic pathways in the vestibular system within the brain thus preventing motion-induced emesis. Extrapyramidal reactions are not typically seen with cyclizine use.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You want to prescribe an antiemetic to a 19-year-old female who is having a migraine attack. Which one of the following medications is most likely to precipitate extrapyramidal side-effects?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Metoclopramide</b>. Metoclopramide is a dopamine antagonist and it works by blocking dopamine receptors in the chemoreceptor trigger zone of the central nervous system. This action prevents nausea and vomiting triggered by most stimuli. However, its antagonistic effect on dopamine can also lead to extrapyramidal side-effects such as acute dystonic reactions, akathisia, and parkinsonism. These side effects are more common in young people and females.<br /><br /><b>Meptazinol</b> is an incorrect choice because it's not an antiemetic but rather an opioid analgesic used for the relief of moderate to severe pain. It works primarily by binding to mu-opioid receptors in the central nervous system, which does not typically cause extrapyramidal side effects.<br /><br /><b>Ondansetron</b>, another incorrect choice, is a selective serotonin 5-HT3 receptor antagonist which blocks these receptors both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone. It's commonly used as an antiemetic to treat nausea and vomiting caused by cancer chemotherapy, radiation therapy, and surgery but rarely causes extrapyramidal side effects.<br /><br /><b>Domperidone</b> is also a wrong answer. Domperidone is a peripheral dopamine D2 and D3 antagonist that increases gastric motility and lower oesophageal sphincter tone. While domperidone has been associated with an increased risk of cardiac arrhythmias at high doses or in patients with predisposing factors, it does not readily cross the blood-brain barrier so it's less likely to cause extrapyramidal side effects compared to metoclopramide.<br /><br />Lastly, <b>Cyclizine</b> isn't the best choice either. Cyclizine is a histamine H1 antagonist used commonly for motion sickness and postoperative nausea and vomiting (PONV). It works by inhibiting histaminergic pathways in the vestibular system within the brain thus preventing motion-induced emesis. Extrapyramidal reactions are not typically seen with cyclizine use.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Migraine: management",
+        "body": "It should be noted that as a general rule 5-HT receptor agonists are used in the acute treatment of migraine whilst 5-HT receptor antagonists are used in prophylaxis. NICE produced guidelines in 2012 on the management of headache, including migraines.<br /><br />Acute treatment<br /><ul><li>first-line: offer combination therapy with<ul><li>an <span class=\"concept\" data-cid=\"875\">oral triptan and an NSAID</span>, or </li><li>an <span class=\"concept\" data-cid=\"875\">oral triptan and paracetamol</span></li></ul></li><li>for young people aged 12-17 years consider a nasal triptan in preference to an oral triptan</li><li>if the above measures are not effective or not tolerated offer a non-oral preparation of metoclopramide or prochlorperazine and consider adding a non-oral NSAID or triptan<ul><li>caution should be exercised when prescribing metoclopramide to young patients as acute dystonic reactions may develop</li></ul></li></ul><br />Prophylaxis<br /><ul><li>prophylaxis should generally be given if '<i>Migraine attacks are having a significant impact on quality of life and daily function, for example they occur frequently (<span class=\"concept\" data-cid=\"879\">more than once a week on average</span>) or are prolonged and severe despite optimal acute treatment</i>'</li><li>options:<ul><li>propranolol</li><li>topiramate: should be avoided in <span class=\"concept\" data-cid=\"877\">women of childbearing age</span> as it may be teratogenic and it can reduce the effectiveness of hormonal contraceptives</li><li>amitriptyline</li></ul></li><li>if these measures fail NICE recommends '<span class=\"concept\" data-cid=\"10031\">a course of up to 10 sessions of acupuncture over 5-8 weeks</span>' </li><li>NICE recommend: '<i>Advise people with migraine that riboflavin (400 mg once a day) may be effective in reducing migraine frequency and intensity for some people</i>'</li><li>for women with predictable <span class=\"concept\" data-cid=\"878\">menstrual migraine</span> treatment NICE recommend either frovatriptan (2.5 mg twice a day) or zolmitriptan (2.5 mg twice or three times a day) as a type of 'mini-prophylaxis'</li><li>treatment options that may be considered by specialists, but fall outside the NICE guidelines:<ul><li><span class=\"concept\" data-cid=\"11891\">candesartan</span>: recommended by the  British Association for the Study of Headache guidelines</li><li>monoclonal antibodies directed against the calcitonin gene-related peptide (CGRP) receptor: examples include erenumab</li></ul></li><li>pizotifen is no longer recommended. Adverse effects such as weight gain & drowsiness are common</li></ul>",
+        "notes_hash": "99788fcc85b7fe7252a90730a7e8e014",
+        "knowledge_graph_node_id_link": 1016,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5456",
+        "up_votes": "19",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "20",
+            "136",
+            "671",
+            "160",
+            "4469",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for the Study of Headache</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_738\" data-linkid=\"738\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_738\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_738\" data-linkid=\"738\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_738\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bash.org.uk/downloads/guidelines2019/01_BASHNationalHeadache_Management_SystemforAdults_2019_guideline_versi.pdf\">Headache guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_153\" data-linkid=\"153\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_153\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_153\" data-linkid=\"153\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_153\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG150/chapter/Recommendations\">2012 Headache guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"103\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/D2litdZhfzY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/D2litdZhfzY\" data-description=\"Migraine\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"103\">Migraine</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_178\" data-mediaid=\"178\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_178\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_178\" data-mediaid=\"178\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_178\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "875": {
+                "concept_text": "Migraine\n   - acute: triptan + NSAID or triptan + paracetamol\n   - prophylaxis: topiramate or propranolol",
+                "concept_percentile": "94"
+            },
+            "877": {
+                "concept_text": "Propranolol is preferable to topiramate in women of childbearing age (i.e. the majority of women with migraine)",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

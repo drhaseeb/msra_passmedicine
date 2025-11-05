@@ -1,0 +1,897 @@
+[
+    {
+        "question_id": "5592_B_328",
+        "new_question_id": "32368",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "8025",
+        "notes_id_link": "1_1183",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Apixaban for 3 months",
+            "Apixaban for 6 months",
+            "Apixaban for 12 months",
+            "Dual antiplatelet therapy",
+            "Thrombolysis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old woman attends the emergency department with a 2-day history of chest pain and shortness of breath. She denies fever and cough. Her past medical history includes type 1 diabetes and uterine fibroids that she had surgically removed 2 weeks ago.<br /><br />On examination, she is tachycardic with a heart rate of 103bpm and a blood pressure of 122/77mmHg. Her chest sounds are clear with oxygen saturations of 92% on air. She is afebrile.<br /><br />Laboratory results:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>D-dimer</td><td>1200 ng/mL</td><td>(< 400)</td></tr><tr><td>Troponin</td><td>24 ng/L</td><td>(< 14)</td></tr></tbody></table></div><br />ECG: Sinus tachycardia with T wave inversion in V1-V4.<br /><br />What is the most appropriate management plan for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has symptoms of a pulmonary embolism (PE) with chest pain and shortness of breath without any infective symptoms (fever and cough). Clinical signs include tachycardia and hypoxia (as seen here) and an elevated D-dimer. The most common ECG finding is sinus tachycardia. However, other ECG changes include S1Q3T3 and T-wave inversion in the right-sided leads (V1-V4) secondary to right heart strain. Furthermore, those patients with right heart strain (as suggested here) may also see raised troponin levels. <br /><br />The treatment of pulmonary emboli depends on whether or not the PE is provoked or unprovoked. This patient has had recent surgery within the last 6 weeks making them a higher risk candidate for a provoked PE for which the treatment of choice is 3 months of a low-molecular-weight heparin (e.g. dalteparin) or a direct oral anticoagulant such as apixaban.<br /><br />Apixaban for 6 months is used in the treatment of unprovoked pulmonary emboli without the presence of risk factors.<br /><br />Apixaban for 12 months is not a routine prescription following a diagnosis of PE.<br /><br />Dual antiplatelet therapy is used in the treatment of coronary ischaemia. Chest pain with a raised troponin is suggestive of coronary ischaemia. However, the raised D-Dimer, hypoxia and ECG changes makes a pulmonary embolism more likely.<br /><br />Thrombolysis is reserved for pulmonary emboli associated with haemodynamic instability (e.g. hypotension and tachycardia) or progressively worsening hypoxia. As this patient's blood pressure is stable, there is no immediate indication for thrombolysis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old woman attends the emergency department with a 2-day history of chest pain and shortness of breath. She denies fever and cough. Her past medical history includes type 1 diabetes and uterine fibroids that she had surgically removed 2 weeks ago.<br /><br />On examination, she is tachycardic with a heart rate of 103bpm and a blood pressure of 122/77mmHg. Her chest sounds are clear with oxygen saturations of 92% on air. She is afebrile.<br /><br />Laboratory results:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>D-dimer</td><td>1200 ng/mL</td><td>(< 400)</td></tr><tr><td>Troponin</td><td>24 ng/L</td><td>(< 14)</td></tr></tbody></table></div><br />ECG: Sinus tachycardia with T wave inversion in V1-V4.<br /><br />What is the most appropriate management plan for this patient?",
+        "correct_answer": "1",
+        "question_notes": "This patient has symptoms of a pulmonary embolism (PE) with chest pain and shortness of breath without any infective symptoms (fever and cough). Clinical signs include tachycardia and hypoxia (as seen here) and an elevated D-dimer. The most common ECG finding is sinus tachycardia. However, other ECG changes include S1Q3T3 and T-wave inversion in the right-sided leads (V1-V4) secondary to right heart strain. Furthermore, those patients with right heart strain (as suggested here) may also see raised troponin levels. <br /><br />The treatment of pulmonary emboli depends on whether or not the PE is provoked or unprovoked. This patient has had recent surgery within the last 6 weeks making them a higher risk candidate for a provoked PE for which the treatment of choice is 3 months of a low-molecular-weight heparin (e.g. dalteparin) or a direct oral anticoagulant such as apixaban.<br /><br />Apixaban for 6 months is used in the treatment of unprovoked pulmonary emboli without the presence of risk factors.<br /><br />Apixaban for 12 months is not a routine prescription following a diagnosis of PE.<br /><br />Dual antiplatelet therapy is used in the treatment of coronary ischaemia. Chest pain with a raised troponin is suggestive of coronary ischaemia. However, the raised D-Dimer, hypoxia and ECG changes makes a pulmonary embolism more likely.<br /><br />Thrombolysis is reserved for pulmonary emboli associated with haemodynamic instability (e.g. hypotension and tachycardia) or progressively worsening hypoxia. As this patient's blood pressure is stable, there is no immediate indication for thrombolysis.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Pulmonary embolism: management",
+        "body": "NICE updated their guidelines on the management of venous thromboembolism (VTE) in 2020. Some of the key changes include recommending the following:<br /><ul><li>the use of direct oral anticoagulants (DOACs) as first-line treatment for most people with VTE</li><li>the use of DOACs in patients with active cancer, as opposed to low-molecular weight heparin as was the previous recommendation</li><li>outpatient treatment in low-risk pulmonary embolism (PE) patients</li><li>routine cancer screening is no longer recommended following a VTE diagnosis</li></ul><br /><br /><h5 class='notes-heading'>Outpatient treatment in low-risk PE patients</h5><br />Deep vein thrombosis has for a long time been treated on an outpatient condition. In contrast, patients with any form of PE were typically admitted. However, in recent years patients with a new diagnosis of PE who are deemed low-risk are now increasingly managed as outpatients. NICE formally supported this approach in their latest guidance.<br /><ul><li>NICE recommends using a 'validated risk stratification tool' to determine the suitability of outpatient treatment.<ul><li>no guidance is given as to what tool should be used</li><li>the 2018 British Society guidelines support the use of the <span class=\"concept\" data-cid=\"10423\">Pulmonary Embolism Severity Index (PESI) score</span></li></ul></li><li>key requirements would clearly be haemodynamic stability, lack of comorbidities and support at home</li></ul><br /><br /><h5 class='notes-heading'>Anticogulant therapy</h5><br />The cornerstone of VTE management is anticoagulant therapy. This was historically done with warfarin, often preceded by heparin until the INR was stable. However, the development of DOACs, and an evidence base supporting their efficacy, has changed modern management.<br /><br />Choice of anticoagulant<br /><ul><li>the big change in the 2020 guidelines was the increased use of DOACs</li><li>apixaban or rivaroxaban (both DOACs) should be offered first-line following the diagnosis of a PE<ul><li>instead of using low-molecular weight heparin (LMWH) until the diagnosis is confirmed, NICE now advocate using a <span class=\"concept\" data-cid=\"8024\">DOAC once a diagnosis is suspected</span>, with this continued if the diagnosis is confirmed</li><li>if neither apixaban or rivaroxaban are suitable then either LMWH followed by dabigatran or edoxaban OR LMWH followed by a vitamin K antagonist (VKA, i.e. warfarin)</li></ul></li><li>if the patient has active cancer<ul><li>previously LMWH was recommended</li><li>the new guidelines now recommend using a DOAC, unless this is contraindicated</li></ul></li><li>if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA</li><li>if the patient has antiphospholipid syndrome (specifically 'triple positive' in the guidance) then LMWH followed by a VKA should be used</li></ul><br />Length of anticoagulation<br /><ul><li>all patients should have anticoagulation for at least 3 months</li><li>continuing anticoagulation after this period is partly determined by whether the VTE was provoked or unprovoked<ul><li>a provoked VTE is due to an obvious precipitating event e.g. immobilisation following major surgery. The implication is that this event was transient and the patient is no longer at increased risk</li><li>an unprovoked VTE occurs in the absence of an obvious precipitating event, i.e. there is a possibility that there are unknown factors (e.g. mild thrombophilia) making the patient more at risk from further clots</li></ul></li><li><span class=\"concept\" data-cid=\"8025\">if the  VTE was provoked the treatment is typically stopped after the initial 3 months</span> (3 to 6 months for people with active cancer)</li><li><span class=\"concept\" data-cid=\"8026\">if the VTE was unprovoked then treatment is typically continued for up to 3 further months (i.e. 6 months in total)</span><ul><li>NICE recommend that whether a patient has a total of 3-6 months anticoagulant is based upon balancing  a person's risk of VTE recurrence and their risk of bleeding</li><li>the ORBIT score can be used to help assess the risk of bleeding</li><li>NICE state: '<i>Explain to people with unprovoked DVT or PE and a low bleeding risk that the benefits of continuing anticoagulation treatment are likely to outweigh the risks. </i>'. The implication of this is that in the absence of a bleeding risk factors, patients are generally better off continuing anticoagulation for a total of 6 months </li></ul></li></ul><br /><br /><h5 class='notes-heading'>PE with haemodynamic instability</h5><br /><span class=\"concept\" data-cid=\"201\">Thrombolysis</span><br /><ul><li>thrombolysis is now recommended as the first-line treatment for massive PE where there is circulatory failure (e.g. hypotension)</li><li>other invasive approaches should be considered where appropriate facilities exist</li></ul><br />Patients who have repeat pulmonary embolisms, despite adequate anticoagulation, may be considered for <span class=\"concept\" data-cid=\"3319\">inferior vena cava (IVC) filters</span>. These work by stopping clots formed in the deep veins of the leg from moving to the pulmonary arteries. IVC filter use is currently supported by NICE but other studies suggest a weak evidence base - please see the link for more details.",
+        "notes_hash": "b40f246eee5e3dc0d9d910b332751945",
+        "knowledge_graph_node_id_link": 1024,
+        "concept": "'Provoked' pulmonary embolisms are typically treated for 3 months",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "5715",
+        "up_votes": "29",
+        "down_votes": "62",
+        "column_array": [
+            0,
+            "3681",
+            "914",
+            "147",
+            "406",
+            "567",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>European Society of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_72\" data-linkid=\"72\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_72\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_72\" data-linkid=\"72\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_72\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/eurheartj/article/35/43/3033/503581/2014-ESC-Guidelines-on-the-diagnosis-and\">2014 ESC Guidelines on the diagnosis and management of acute pulmonary embolism</a></td></tr></table><br><br><table style='width:100%'><tr><td>Journal of the American College of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1443\" data-linkid=\"1443\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1443\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1443\" data-linkid=\"1443\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1443\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.onlinejacc.org/content/70/13/1587\">2017 Inferior Vena Cava Filters to Prevent Pulmonary Embolism</a></td></tr></table><br><br><table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1812\" data-linkid=\"1812\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1812\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_1812\" data-linkid=\"1812\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1812\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://thorax.bmj.com/content/73/Suppl_2/ii1\">2018 Initial outpatient management of pulmonary embolism guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1809\" data-linkid=\"1809\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1809\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1809\" data-linkid=\"1809\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1809\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng158/chapter/Recommendations\">2020 Venous thromboembolism guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>British Committee for Standards in Haematology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_749\" data-linkid=\"749\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_749\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_749\" data-linkid=\"749\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_749\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2141.2011.08753.x/full\">Guidelines on oral anticoagulation (warfarin): fourth edition - 2011 update</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PjizR8e1TvQ\" data-description=\"Pulmonary Embolism PART II\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"940\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/PjizR8e1TvQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PjizR8e1TvQ\" data-description=\"Pulmonary Embolism PART II\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"940\">Pulmonary Embolism PART II</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1628\" data-mediaid=\"1628\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1628\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1628\" data-mediaid=\"1628\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1628\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/cb/Pulmonary_Embolism.webm\" data-description=\"Pulmonary embolism\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"352\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/cb/Pulmonary_Embolism.webm\" data-description=\"Pulmonary embolism\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"352\">Pulmonary embolism</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1764\" data-mediaid=\"1764\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1764\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1764\" data-mediaid=\"1764\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1764\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CfjGhwQiDOE\" data-description=\"Pulmonary Embolism PART I\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"939\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CfjGhwQiDOE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CfjGhwQiDOE\" data-description=\"Pulmonary Embolism PART I\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"939\">Pulmonary Embolism PART I</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1627\" data-mediaid=\"1627\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1627\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1627\" data-mediaid=\"1627\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1627\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "8024": {
+                "concept_text": "Patients with a suspected pulmonary embolism should be initially managed with a  direct oral anticoagulant (DOAC)",
+                "concept_percentile": "85"
+            },
+            "8025": {
+                "concept_text": "'Provoked' pulmonary embolisms are typically treated for 3 months",
+                "concept_percentile": "76"
+            },
+            "8026": {
+                "concept_text": "'Unprovoked' pulmonary embolisms are typically treated for 6 months ",
+                "concept_percentile": "59"
+            },
+            "10423": {
+                "concept_text": "The Pulmonary Embolism Severity Index (PESI) score is recommended by BTS guidelines to be used to help identify patients with a pulmonary embolism that can be managed as outpatients",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1431",
+        "new_question_id": "59609",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "554",
+        "notes_id_link": "1_2258",
+        "theme": "Diclofenac use in patient with prior MI\u2014next best step",
+        "instruction": "",
+        "options": [
+            "",
+            "Stop diclofenac and start naproxen",
+            "Continue diclofenac at current dose",
+            "Switch to high-dose ibuprofen",
+            "Add omeprazole to current regimen",
+            "Change to topical diclofenac",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man with a history of myocardial infarction and hypertension presents to his GP surgery complaining of worsening knee pain due to osteoarthritis. He is currently taking diclofenac for pain relief. What is the most appropriate next step in his management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Stop diclofenac and start naproxen</b>: This is the correct answer because diclofenac is now contraindicated in patients with any form of cardiovascular disease, including a history of myocardial infarction, as per updated MHRA guidance. Naproxen has a more favourable cardiovascular risk profile among NSAIDs and can be considered if an NSAID is necessary, provided gastroprotection is also addressed.<br /><br /><b>Continue diclofenac at current dose</b>: This option is incorrect as continuing systemic diclofenac in someone with established cardiovascular disease directly contravenes UK safety advice. Diclofenac poses an increased risk of major adverse cardiac events compared with other NSAIDs, so it must be discontinued.<br /><br /><b>Switch to high-dose ibuprofen</b>: While ibuprofen has a better cardiovascular profile than diclofenac, higher doses (\u22652400 mg/day) have been associated with increased cardiovascular risk. Only low-dose ibuprofen may be suitable, but naproxen remains preferable due to its evidence base for safety in this context.<br /><br /><b>Add omeprazole to current regimen</b>: Adding gastroprotection does not mitigate the elevated cardiovascular risk associated with diclofenac. The contraindication relates specifically to cardiac risk rather than gastrointestinal side effects; therefore, this does not address the main concern.<br /><br /><b>Change to topical diclofenac</b>: The MHRA guidance on systemic diclofenac does not apply to topical formulations; however, for severe osteoarthritis pain requiring systemic therapy, switching solely to topical treatment would likely be inadequate for symptom control. Moreover, the question asks about ongoing management rather than alternative routes only.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man with a history of myocardial infarction and hypertension presents to his GP surgery complaining of worsening knee pain due to osteoarthritis. He is currently taking diclofenac for pain relief. What is the most appropriate next step in his management?",
+        "correct_answer": "1",
+        "question_notes": "<b>Stop diclofenac and start naproxen</b>: This is the correct answer because diclofenac is now contraindicated in patients with any form of cardiovascular disease, including a history of myocardial infarction, as per updated MHRA guidance. Naproxen has a more favourable cardiovascular risk profile among NSAIDs and can be considered if an NSAID is necessary, provided gastroprotection is also addressed.<br /><br /><b>Continue diclofenac at current dose</b>: This option is incorrect as continuing systemic diclofenac in someone with established cardiovascular disease directly contravenes UK safety advice. Diclofenac poses an increased risk of major adverse cardiac events compared with other NSAIDs, so it must be discontinued.<br /><br /><b>Switch to high-dose ibuprofen</b>: While ibuprofen has a better cardiovascular profile than diclofenac, higher doses (\u22652400 mg/day) have been associated with increased cardiovascular risk. Only low-dose ibuprofen may be suitable, but naproxen remains preferable due to its evidence base for safety in this context.<br /><br /><b>Add omeprazole to current regimen</b>: Adding gastroprotection does not mitigate the elevated cardiovascular risk associated with diclofenac. The contraindication relates specifically to cardiac risk rather than gastrointestinal side effects; therefore, this does not address the main concern.<br /><br /><b>Change to topical diclofenac</b>: The MHRA guidance on systemic diclofenac does not apply to topical formulations; however, for severe osteoarthritis pain requiring systemic therapy, switching solely to topical treatment would likely be inadequate for symptom control. Moreover, the question asks about ongoing management rather than alternative routes only.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Diclofenac",
+        "body": "The MHRA updated it's guidance on diclofenac in June 2013 after a Europe-wide of review of cardiovascular safety.<br /><br />Whilst it has long been known that NSAIDs may be linked to an increased risk of cardiovascular events the evidence base has now become much clearer. Diclofenac appears to be associated with a significantly increased risk of cardiovascular events compared with other NSAIDs.<br /><br />It is therefore advised that <span class=\"concept\" data-cid=\"554\">diclofenac is contraindicated</span> in patients with the following:<br /><ul><li>ischaemic heart disease </li><li>peripheral arterial disease </li><li>cerebrovascular disease </li><li>congestive heart failure (New York Heart Association classification II-IV)</li></ul><br />Patients should be switched from diclofenac to other NSAIDs such as naproxen or ibuprofen. This advice does not apply to topical diclofenac.<br /><br />Studies have shown that naproxen and low-dose ibuprofen have the best cardiovascular risk profiles of the NSAIDs.",
+        "notes_hash": "3698e10f2d1334dff5a96e1060153b3c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Diclofenac is now contraindicated with any form of cardiovascular disease",
+        "concept_percentile": "97",
+        "concept_colour": "rgb(15,255,0)",
+        "number_attempts": "2620",
+        "up_votes": "3",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "1033",
+            "17",
+            "179",
+            "757",
+            "634",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Medicines and Healthcare products Regulatory Agency</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_52\" data-linkid=\"52\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_52\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_52\" data-linkid=\"52\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_52\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/drug-safety-update/diclofenac-new-contraindications-and-warnings\">Drug Safety Update - June 2013</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "554": {
+                "concept_text": "Diclofenac is now contraindicated with any form of cardiovascular disease",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "18786_B_44",
+        "new_question_id": "34171",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11515",
+        "notes_id_link": "1_1178",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Administer intramuscularly",
+            "Administer rectally",
+            "Administer via endotracheal tube",
+            "Central line insertion",
+            "Intraosseous line insertion",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old man presents to the emergency department after suffering from a severe motor vehicle accident involving serious chest wounds. The paramedics had difficulty obtaining IV access. On arrival, he is found to be GCS 3 with an ECG that shows ventricular fibrillation. Advanced life support (ALS) is started. Several attempts at cannulation are unsuccessful. However, he is successfully intubated.<br /><br />Given this information, what is the most appropriate step to take to deliver medications for ALS?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Intraosseous line insertion</b> is correct. If there is difficulty obtaining IV access, then intraosseous (IO) access should be considered as the next line to give ALS medications like adrenaline, amiodarone and fluids as needed. IO access can be very quick and is commonly done in the proximal tibia or proximal humerus.<br /><br /><b>Administer intramuscularly</b> is incorrect. Drug absorption is too slow for ALS with intramuscular administration. This would be an inappropriate alternative.<br /><br /><b>Administer rectally</b> is incorrect as it is inappropriate for ALS as the absorption would be too slow and rectal preparations would need to be made.<br /><br /><b>Administer via endotracheal tube</b> is incorrect. Endotracheal administration involves giving ALS medications directly through an endotracheal tube for absorption through the alveoli. This method is no longer recommended for giving ALS medications in the guidelines, with the preferred method now being intraosseous.<br /><br /><b>Central line insertion</b> is incorrect. If a central line is already present in a patient, then this can be used for drug administration in ALS. However, if one is not already in place, then intraosseous access would be much quicker.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old man presents to the emergency department after suffering from a severe motor vehicle accident involving serious chest wounds. The paramedics had difficulty obtaining IV access. On arrival, he is found to be GCS 3 with an ECG that shows ventricular fibrillation. Advanced life support (ALS) is started. Several attempts at cannulation are unsuccessful. However, he is successfully intubated.<br /><br />Given this information, what is the most appropriate step to take to deliver medications for ALS?",
+        "correct_answer": "5",
+        "question_notes": "<b>Intraosseous line insertion</b> is correct. If there is difficulty obtaining IV access, then intraosseous (IO) access should be considered as the next line to give ALS medications like adrenaline, amiodarone and fluids as needed. IO access can be very quick and is commonly done in the proximal tibia or proximal humerus.<br /><br /><b>Administer intramuscularly</b> is incorrect. Drug absorption is too slow for ALS with intramuscular administration. This would be an inappropriate alternative.<br /><br /><b>Administer rectally</b> is incorrect as it is inappropriate for ALS as the absorption would be too slow and rectal preparations would need to be made.<br /><br /><b>Administer via endotracheal tube</b> is incorrect. Endotracheal administration involves giving ALS medications directly through an endotracheal tube for absorption through the alveoli. This method is no longer recommended for giving ALS medications in the guidelines, with the preferred method now being intraosseous.<br /><br /><b>Central line insertion</b> is incorrect. If a central line is already present in a patient, then this can be used for drug administration in ALS. However, if one is not already in place, then intraosseous access would be much quicker.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Adult advanced life support",
+        "body": "The following is based on the 2021 Resus Council guidelines. Please see the link for more details, below is only a very brief summary of key points.<br /><br />It should be remembered that the algorithm divides patients into those with:<br /><ul><li>'shockable' rhythms:  ventricular fibrillation/pulseless ventricular tachycardia (VF/pulseless VT)</li><li>'non-shockable' rhythms: asystole/pulseless-electrical activity (asystole/PEA)</li></ul><br />Major points include:<br /><ul><li>chest compressions<ul><li>the ratio of chest compressions to ventilation is <span class=\"concept\" data-cid=\"11516\">30:2</span></li><li>chest compressions are now continued while a defibrillator is charged</li></ul></li><li>defibrillation<ul><li><span class=\"concept\" data-cid=\"9130\">a single shock for VF/pulseless VT</span> followed by 2 minutes of CPR</li></ul></li><li>drug delivery<ul><li>IV access should be attempted and is first-line</li><li>if IV access cannot be achieved then drugs should be given via the <span class=\"concept\" data-cid=\"11515\">intraosseous route (IO)</span></li><li>delivery of drugs via a <span class=\"concept\" data-cid=\"11515\">tracheal tube is no longer recommended</span></li></ul></li><li>adrenaline<ul><li><span class=\"concept\" data-cid=\"8608\">adrenaline 1 mg as soon as possible for non-shockable rhythms</span></li><li>during a VF/VT cardiac arrest, <span class=\"concept\" data-cid=\"9925\">adrenaline 1 mg</span> is given once chest compressions have restarted after the third shock </li><li><span class=\"concept\" data-cid=\"11517\">repeat adrenaline 1mg every 3-5 minutes</span> whilst ALS continues</li></ul></li><li>amiodarone<ul><li><span class=\"concept\" data-cid=\"11518\">amiodarone 300 mg should be given to patients who are in VF/pulseless VT after 3 shocks</span> have been administered.</li><li><span class=\"concept\" data-cid=\"11519\">a further dose of amiodarone 150 mg should be given to patients who are in VF/pulseless VT after 5 shocks</span> have been administered</li><li><span class=\"concept\" data-cid=\"11520\">lidocaine</span> used as an alternative if amiodarone is not available or a local decision has been made to use lidocaine instead</li></ul></li><li><span class=\"concept\" data-cid=\"11521\">thrombolytic drugs</span><ul><li>should be considered if a pulmonary embolus  is suspected</li><li>if given, CPR should be continued for an extended period of <span class=\"concept\" data-cid=\"11522\">60-90 minutes</span></li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd964b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd964.png\" alt=\"\" /></a></div></div></div><br />Other points<br /><ul><li><span class=\"concept\" data-cid=\"198\">atropine</span> is no longer recommended for routine use in asystole or pulseless electrical activity (PEA)</li><li>following successful resuscitation oxygen should be titrated to achieve saturations of 94-98%. This is to address the potential harm caused by hyperoxaemia</li></ul><br />Reversible causes of cardiac arrest:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>The 'Hs'</th><th>The 'Ts'</th></tr></thead><tbody><tr><td><ul><li>Hypoxia</li><li>Hypovolaemia</li><li>Hyperkalaemia, hypokalaemia, hypoglycaemia, hypocalcaemia, acidaemia and other metabolic disorders</li><li>Hypothermia</td><td></li><li>Thrombosis (coronary or pulmonary)</li><li><span class=\"concept\" data-cid=\"5831\">Tension pneumothorax</span></li><li>Tamponade - cardiac</li><li>Toxins</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "01cd06e39a409427e046421edca879c8",
+        "knowledge_graph_node_id_link": 11290,
+        "concept": "In ALS, if IV access cannot be achieved then drugs should be given via the intraosseous route (IO) - the tracheal route is no longer recommended",
+        "concept_percentile": "30",
+        "concept_colour": "rgb(255,153,0)",
+        "number_attempts": "6160",
+        "up_votes": "14",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "110",
+            "13",
+            "126",
+            "164",
+            "5747",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resuscitation Council</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1018\" data-linkid=\"1018\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1018\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">67</span><button type=\"button\" style=\"\" id=\"link_dislike_1018\" data-linkid=\"1018\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1018\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">35</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/library/2021-resuscitation-guidelines/adult-advanced-life-support-guidelines\">2021 Advanced Life Support guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>Resuscitation Council</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_906\" data-linkid=\"906\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_906\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">42</span><button type=\"button\" style=\"\" id=\"link_dislike_906\" data-linkid=\"906\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_906\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">22</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/library/2021-resuscitation-guidelines/adult-basic-life-support-guidelines\">2021 Basic Life Support guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jQYHQr3ebLo\" data-description=\"RC (UK) Cardiac Arrest Management Demo\" data-upvotes=\"51\" data-downvotes=\"5\" data-media=\"1181\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jQYHQr3ebLo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jQYHQr3ebLo\" data-description=\"RC (UK) Cardiac Arrest Management Demo\" data-upvotes=\"51\" data-downvotes=\"5\" data-media=\"1181\">RC (UK) Cardiac Arrest Management Demo</a></td></tr><tr><td><span ><small>Resuscitation Council (UK) - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2037\" data-mediaid=\"2037\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2037\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">51</span><button type=\"button\" style=\"\" id=\"media_dislike_2037\" data-mediaid=\"2037\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2037\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "8608": {
+                "concept_text": "ALS - give adrenaline in non-shockable rhythm as soon as possible",
+                "concept_percentile": "72"
+            },
+            "9130": {
+                "concept_text": "VF/pulseless VT should be treated with 1 shock as soon as identified",
+                "concept_percentile": "41"
+            },
+            "9925": {
+                "concept_text": "The recommended dose of adrenaline to give during advanced ALS is 1mg",
+                "concept_percentile": "42"
+            },
+            "11515": {
+                "concept_text": "In ALS, if IV access cannot be achieved then drugs should be given via the intraosseous route (IO) - the tracheal route is no longer recommended",
+                "concept_percentile": "30"
+            },
+            "11516": {
+                "concept_text": "In ALS, the ratio of chest compressions to ventilation is 30:2",
+                "concept_percentile": "28"
+            },
+            "11517": {
+                "concept_text": "In ALS, once adrenaline has been initially given it should be repeated every 3-5 minutes whilst ALS continues",
+                "concept_percentile": "53"
+            },
+            "11518": {
+                "concept_text": "In ALS, amiodarone 300 mg should be given to patients who are in VF/pulseless VT after 3 shocks have been administered.",
+                "concept_percentile": "44"
+            },
+            "11519": {
+                "concept_text": "In ALS, a further dose of amiodarone 150 mg should be given to patients who are in VF/pulseless VT after 5 shocks have been administered",
+                "concept_percentile": "48"
+            },
+            "11521": {
+                "concept_text": "Thrombolytic drugs should be considered during CPR if a PE is suspected",
+                "concept_percentile": "71"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1629",
+        "new_question_id": "7777",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_300",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Osteoarthritis",
+            "Rheumatoid arthritis",
+            "Systemic lupus erythematosus",
+            "Cryoglobulinaemia",
+            "Limited cutaneous systemic sclerosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Please look at the hands of this 50-year-old lady. She complains of tight, stiff fingers that turn white in the cold.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has <b>S</b>clerodactyly and <b>R</b>aynaud's phenomenon. <b>T</b>elangiectasia can also be seen on the hands. She therefore has the <b>RST</b> of CREST syndrome, or more accurately limited cutaneous systemic sclerosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Please look at the hands of this 50-year-old lady. She complains of tight, stiff fingers that turn white in the cold.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This patient has <b>S</b>clerodactyly and <b>R</b>aynaud's phenomenon. <b>T</b>elangiectasia can also be seen on the hands. She therefore has the <b>RST</b> of CREST syndrome, or more accurately limited cutaneous systemic sclerosis.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Systemic sclerosis",
+        "body": "Systemic sclerosis is a condition of unknown aetiology characterised by hardened, sclerotic skin and other connective tissues. It is four times more common in females.<br /><br />There are three patterns of disease:<br /><br />Limited cutaneous systemic sclerosis<br /><ul><li>Raynaud's may be the first sign</li><li>scleroderma affects face and <span class=\"concept\" data-cid=\"2653\">distal limbs</span> predominately</li><li>associated with <span class=\"concept\" data-cid=\"620\">anti-centromere antibodies</span></li><li>a subtype of limited systemic sclerosis is CREST syndrome: Calcinosis, Raynaud's phenomenon, oEsophageal dysmotility, Sclerodactyly, Telangiectasia</li></ul><br />Diffuse cutaneous systemic sclerosis<br /><ul><li>scleroderma affects trunk and proximal limbs predominately</li><li>associated with <span class=\"concept\" data-cid=\"12008\">anti scl-70 antibodies</span></li><li>the most common cause of death is now respiratory involvement, which is seen in around 80%: <span class=\"concept\" data-cid=\"9152\">interstitial lung disease (ILD) and pulmonary arterial hypertension (PAH)</span></li><li>other complications include renal disease and hypertension<ul><li>patients with renal disease should be started on an <span class=\"concept\" data-cid=\"9584\">ACE inhibitor - captopril is typically used</span> due to its rapid onset and short half-life, allowing for dose titration</li><li>ACE inhibitors target the underlying mechanism by reducing efferent arteriolar vasoconstriction and limiting renin-angiotensin system activation</li></ul></li><li>poor prognosis</li></ul><br />Scleroderma (without internal organ involvement)<br /><ul><li><span class=\"concept\" data-cid=\"11590\">tightening and fibrosis of skin</span></li><li>may be manifest as plaques (morphoea) or linear</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd087.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd088b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd088.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd089b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd089.jpg\" alt=\"\" /></a></div></div></div><br />Antibodies<br /><ul><li>ANA positive in 90%</li><li>RF positive in 30%</li><li>anti-scl-70 antibodies associated with diffuse cutaneous systemic sclerosis<ul><li><span class=\"concept\" data-cid=\"12079\">associated with a higher risk of severe interstitial lung disease</span></li></ul></li><li>anti-centromere antibodies associated with limited cutaneous systemic sclerosis</li></ul>",
+        "notes_hash": "d60b421afd2455e574d59c6974aced2d",
+        "knowledge_graph_node_id_link": 11029,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5184",
+        "up_votes": "55",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "24",
+            "244",
+            "416",
+            "210",
+            "4290",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1223\" data-linkid=\"1223\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1223\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1223\" data-linkid=\"1223\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1223\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/systemic-sclerosis/\">Systemic sclerosis</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vez85zdCw-A\" data-description=\"Systemic Sclerosis and Scleroderma\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"1043\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vez85zdCw-A/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vez85zdCw-A\" data-description=\"Systemic Sclerosis and Scleroderma\" data-upvotes=\"9\" data-downvotes=\"3\" data-media=\"1043\">Systemic Sclerosis and Scleroderma</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1825\" data-mediaid=\"1825\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1825\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1825\" data-mediaid=\"1825\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1825\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J2SgVdhxObI\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1122\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/J2SgVdhxObI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J2SgVdhxObI\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1122\">Scleroderma</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1942\" data-mediaid=\"1942\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1942\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1942\" data-mediaid=\"1942\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1942\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ai1JC34jMXA\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1405\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ai1JC34jMXA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ai1JC34jMXA\" data-description=\"Scleroderma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1405\">Scleroderma</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2472\" data-mediaid=\"2472\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2472\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2472\" data-mediaid=\"2472\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2472\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "31935_B_29",
+        "new_question_id": "55540",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "11542",
+        "notes_id_link": "1_2752",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Finkelstein\u2019s test positive",
+            "Pain on longitudinal compression of the thumb",
+            "Pain on squeezing the metacarpophalangeal joints",
+            "Radial head tenderness",
+            "Tinel's sign positive",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old man presents to the emergency department after falling onto his outstretched hand while playing basketball. He reports persistent pain and tenderness in his wrist, particularly at the base of the thumb, and difficulty moving his wrist.<br /><br />He is tender around the base of the thumb on examination.<br /><br />Given the likely diagnosis, which of the below is likely to also be found on examination?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b> Pain on longitudinal compression of the thumb </b> is correct. The scaphoid bone is located at the base of the thumb and is directly affected by this force. This localised pain can help distinguish scaphoid fractures from other wrist injuries. Other signs of a scaphoid fracture include tenderness over the anatomical snuffbox, tenderness of the scaphoid tubercle and pain on radial deviation. These signs are highly sensitive but not necessarily specific for scaphoid fractures.<br /><br /><b> Finkelstein\u2019s test positive </b> is incorrect. This is used to assess de Quervain's tenosynovitis by flexing the thumb into the palm followed by ulnar deviation of the wrist. This stretches the tendons of the abductor pollicis longus and extensor pollicis brevis, potentially causing pain if these tendons are inflamed.<br /><br /><b> Pain on squeezing the metacarpophalangeal joints </b> is incorrect. This is typically used to assess for joint inflammation from rheumatoid arthritis. <br /><br /><b> Radial head tenderness </b> is incorrect. The radial head is found at the proximal end of the radius in the elbow joint, where it articulates with the capitulum of the humerus and allows for the rotation of the forearm. <br /><br /><b> Tinel's sign positive </b> is incorrect. Tinel's test at the wrist involves tapping the median nerve to assess for carpal tunnel syndrome, evaluating nerve compression rather than scaphoid bone tenderness.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old man presents to the emergency department after falling onto his outstretched hand while playing basketball. He reports persistent pain and tenderness in his wrist, particularly at the base of the thumb, and difficulty moving his wrist.<br /><br />He is tender around the base of the thumb on examination.<br /><br />Given the likely diagnosis, which of the below is likely to also be found on examination?",
+        "correct_answer": "2",
+        "question_notes": "<b> Pain on longitudinal compression of the thumb </b> is correct. The scaphoid bone is located at the base of the thumb and is directly affected by this force. This localised pain can help distinguish scaphoid fractures from other wrist injuries. Other signs of a scaphoid fracture include tenderness over the anatomical snuffbox, tenderness of the scaphoid tubercle and pain on radial deviation. These signs are highly sensitive but not necessarily specific for scaphoid fractures.<br /><br /><b> Finkelstein\u2019s test positive </b> is incorrect. This is used to assess de Quervain's tenosynovitis by flexing the thumb into the palm followed by ulnar deviation of the wrist. This stretches the tendons of the abductor pollicis longus and extensor pollicis brevis, potentially causing pain if these tendons are inflamed.<br /><br /><b> Pain on squeezing the metacarpophalangeal joints </b> is incorrect. This is typically used to assess for joint inflammation from rheumatoid arthritis. <br /><br /><b> Radial head tenderness </b> is incorrect. The radial head is found at the proximal end of the radius in the elbow joint, where it articulates with the capitulum of the humerus and allows for the rotation of the forearm. <br /><br /><b> Tinel's sign positive </b> is incorrect. Tinel's test at the wrist involves tapping the median nerve to assess for carpal tunnel syndrome, evaluating nerve compression rather than scaphoid bone tenderness.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Scaphoid fracture",
+        "body": "A scaphoid fracture is a type of wrist fracture, typically arises as a result of a fall onto an outstretched hand (FOOSH). This results in axial compression of the scaphoid, with the wrist hyperextended, and radially deviated. This can also occur during contact sports such as football, or during a road traffic accident due to the patient holding the steering wheel. It is important to examine for scaphoid fractures in anyone presenting with an acutely painful wrist for medico-legal reasons.<br /><br />Recognising scaphoid fractures is particularly important given the unusual blood supply of the scaphoid bone. Around 80% of the blood supply is derived from the <span class=\"concept\" data-cid=\"5352\">dorsal carpal branch (branch of the radial artery)</span>, in a retrograde manner. Interruption of the blood supply risks <b>avascular necrosis of the scaphoid</b>, with this most commonly complicating proximal injuries.   <br /><br /> Causes <br /><ul><li><span class=\"concept\" data-cid=\"11163\">Falling onto an outstretched hand (FOOSH)</span></li><li>Contact sports: The peak incidence during the autumn is thought to correlate with the start of football and rugby activities at school.</li></ul><br />Patients typically present with:<br /><ul><li>Pain along the radial aspect of the wrist, at the base of the thumb</li><li>Loss of grip / pinch strength</li></ul><br />Signs:<br /><ul><li>1. Point of <span class=\"concept\" data-cid=\"10616\">maximal tenderness over the anatomical snuffbox</span><ul><li>This is a <span class=\"concept\" data-cid=\"11161\">highly sensitive (around 90-95%), but poorly specific test (<40%)</span> in isolation</li></ul></li><li>2. Wrist joint effusion<ul><li>Hyperacute injuries (<4hrs old), and delayed presentations (>4days old) may not present with joint effusions. </li></ul></li><li>3. Pain elicited by <span class=\"concept\" data-cid=\"11542\">telescoping of the thumb (pain on longitudinal compression)</span></li><li>4. Tenderness of the scaphoid tubercle (on the volar aspect of the wrist)</li><li>5. Pain on ulnar deviation of the wrist</li></ul><br />Clinical examination has a high diagnostic probability (sensitivity 100%; specificity 74%) when [1], [3], and [4] are positive on examination. <br /><br />Investigations:<br /><ul><li>Plain film radiographs should be requested of the wrist in the anterior-posterior view, and lateral view<ul><li>'Scaphoid views': posterioranterior (PA), lateral, oblique (with wrist pronated at 45\u00ba) and Ziter view (PA view with the wrist in ulnar deviation and beam angulated at 20\u00ba)</li><li>The sensitivity in the first week of injury is only 80%</li></ul></li><li>A CT scan is superior to plain film radiographs, and may be requested in the context of ongoing clinical suspicion, planning operative management, or to determine the extent of fracture union during follow-up.  </li><li>MRI is considered the definite investigation to confirm or exclude a diagnosis<ul><li>NICE guidance from 2016 suggested the MRI should be considered the first-line imaging following clinical examination. However, this is still not common practice in the UK</li><li>however, MRI is much more commonly used second-line when radiographs are inconclusive</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd547b.png\" data-fancybox=\"gallery\" data-caption=\"Diagram showing the types of relative frequencies of the different types of scaphoid fractures\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd547.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd544b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fracture across waist of scaphoid bone\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd544.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd545b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fracture across waist of scaphoid bone\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd545.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd546.jpg\" data-fancybox=\"gallery\" data-caption=\"pdd546b.jpg\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd546.jpg\" alt=\"\" /></a></div></div></div><br />Initial management of suspected or confirmed scaphoid fracture<br /><ul><li>immobilisation with a <span class=\"concept\" data-cid=\"11162\">Futuro splint or standard below-elbow backslab</span></li><li>referral to orthopaedics<ul><li>clinical review with further imaging should be arranged for<span class=\"concept\" data-cid=\"5349\">7-10 days later</span> when initial radiographs are inconclusive</li></ul></li></ul><br />Orthopaedic management<br /><ul><li>dependent on the patient and type of fracture</li><li>undisplaced fractures of the scaphoid waist<ul><li><span class=\"concept\" data-cid=\"11165\">cast for 6-8 weeks</span></li><li>union is achieved in > 95%</li><li>certain groups e.g. professional sports people may benefit from early surgical intervention</li></ul></li><li>displaced scaphoid waist fractures<ul><li>requires surgical fixation</li></ul></li><li>proximal <span class=\"concept\" data-cid=\"11164\">scaphoid pole fractures</span><ul><li>require surgical fixation</li></ul></li></ul><br />Complications<br /><ul><li>non-union &rarr; pain and early osteoarthritis</li><li><span class=\"concept\" data-cid=\"9907\">avascular necrosis</span></li></ul>",
+        "notes_hash": "53aaa4d13fb5765b6cabe9d64fe82cb5",
+        "knowledge_graph_node_id_link": 1391,
+        "concept": "Pain on longitudinal compression of the thumb is a sign of a scaphoid fracture",
+        "concept_percentile": "84",
+        "concept_colour": "rgb(81,255,0)",
+        "number_attempts": "5407",
+        "up_votes": "5",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "975",
+            "2767",
+            "449",
+            "862",
+            "354",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2003\" data-linkid=\"2003\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2003\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_2003\" data-linkid=\"2003\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2003\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng38/chapter/Recommendations\">2016 Fractures (non-complex): assessment and management</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "5352": {
+                "concept_text": "The dorsal carpal branch of the radial artery is the main neurovascular structure that is compromised in a scaphoid fracture",
+                "concept_percentile": "99"
+            },
+            "11164": {
+                "concept_text": "All proximal scaphoid pole fractures require surgical fixation",
+                "concept_percentile": "66"
+            },
+            "11542": {
+                "concept_text": "Pain on longitudinal compression of the thumb is a sign of a scaphoid fracture",
+                "concept_percentile": "84"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_3962",
+        "new_question_id": "11654",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "1013",
+        "notes_id_link": "1_2571",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassure and repeat 12-lead ECG in 3 months time",
+            "Request a troponin I",
+            "Arrange an echocardiogram",
+            "Arrange a Holter monitor",
+            "Arrange an external loop recorder",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 53-year-old man presents as he is worried about palpitations. These are described as fast and irregular and typically occur twice a day. They seem to be more common after drinking alcohol. There is no history of chest pain or syncope. Examination of his cardiovascular symptoms is normal with a pulse of 72/min and a blood pressure of 116/78 mmHg. Blood tests and a 12-lead ECG are unremarkable. What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "These episodes are characteristic of an arrhythmia, possibly atrial fibrillation. First-line investigations are normal and it is appropriate to investigate further to exclude an arrhythmia.<br /><br />Holter monitoring should be arranged to try and capture such an episode. Given the episodes occur daily it is reasonable to do this over a 24 hour period initially.<br /><br />A troponin is not indicated given the absence of chest pain and there is no suggestion of heart failure to warrant an echocardiogram.<br /><br />An external loop recorder should only be considered if the Holter monitoring is normal and the patient continues to have symptoms.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 53-year-old man presents as he is worried about palpitations. These are described as fast and irregular and typically occur twice a day. They seem to be more common after drinking alcohol. There is no history of chest pain or syncope. Examination of his cardiovascular symptoms is normal with a pulse of 72/min and a blood pressure of 116/78 mmHg. Blood tests and a 12-lead ECG are unremarkable. What is the most appropriate next step in management?",
+        "correct_answer": "4",
+        "question_notes": "These episodes are characteristic of an arrhythmia, possibly atrial fibrillation. First-line investigations are normal and it is appropriate to investigate further to exclude an arrhythmia.<br /><br />Holter monitoring should be arranged to try and capture such an episode. Given the episodes occur daily it is reasonable to do this over a 24 hour period initially.<br /><br />A troponin is not indicated given the absence of chest pain and there is no suggestion of heart failure to warrant an echocardiogram.<br /><br />An external loop recorder should only be considered if the Holter monitoring is normal and the patient continues to have symptoms.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Investigating palpitations",
+        "body": "Palpitations are a common presenting symptom. <br /><br />Possible causes include<br /><ul><li>arrhythmias</li><li>stress</li><li>increased awareness of normal heart beat / extrasystoles</li></ul><br />First-line investigations include:<br /><ul><li>12-lead ECG: this will only capture the heart rhythm for a few seconds and hence is likely to miss episodic arrhythmias. However, other abnormalities linked to the underlying arrhythmia (for example a prolonged QT interval or PR interval, or changes suggesting recent myocardial ischaemia) may be seen.</li><li>thyroid function tests: thyrotoxicosis may precipitate atrial fibrillation and other arrhythmias</li><li>urea and electrolytes: looking for disturbances such as a low potassium</li><li>full blood count</li></ul><br /><h5 class='notes-heading'>Capturing episodic arrhythmias</h5><br />First-line investigations are often normal in patients complaining of palpitations. The next step is to exclude an episode arrhythmia.<br /><br />The most common investigation is <span class=\"concept\" data-cid=\"1013\">Holter monitoring</span><br /><ul><li>portable battery operated device</li><li>continuously records ECG from 2-3 leads</li><li>usually done for 24 hours but may be used for longer if symptoms are less than daily</li><li>patients are asked to keep a diary to record any symptomatic palpitations. This can later be compared to the rhythm strip at the time of the symptoms</li><li>at the end of the monitoring a report is generated summarising a number of parameters including heart rate, arrhythmias and changes in ECG waveform </li></ul><br />If no abnormality is found on the Holter monitor, and symptoms continue, other options include:<br /><ul><li>external loop recorder</li><li>implantable loop recorder</li></ul>",
+        "notes_hash": "40c8960918194a6dcd5038fcfeca0c4e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Palpitations should first be investigated with a Holter monitor after initial bloods/ECG",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "7065",
+        "up_votes": "36",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "595",
+            "70",
+            "252",
+            "5931",
+            "217",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "1013": {
+                "concept_text": "Palpitations should first be investigated with a Holter monitor after initial bloods/ECG",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_67",
+        "new_question_id": "2520",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1378",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassure",
+            "Trial of hydrocortisone",
+            "Make discreet enquiries about possible sexual abuse",
+            "Refer to secondary care",
+            "Topical salicylic acid",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 7-year-old girl is brought to surgery due to the development of several small, umbilicated lesions on the thigh of her left leg. There has been no similar lesions in the past, and she is otherwise well apart from a history of asthma. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most appropriate management for this 7-year-old girl with small, umbilicated lesions on her thigh is to <b>reassure</b> the patient and her parents. The description of the lesions as 'small' and 'umbilicated' suggests that they are likely to be caused by <i>Molluscum contagiosum</i>, a self-limiting viral skin infection caused by a poxvirus. This condition is common in children and usually resolves spontaneously within 6-12 months without any specific treatment.<br /><br />A <b>trial of hydrocortisone</b> would not be appropriate in this case, as hydrocortisone is a mild topical corticosteroid used to treat inflammatory skin conditions such as eczema or dermatitis. It has no antiviral properties and would not help in resolving the lesions caused by <i>Molluscum contagiosum</i>. Additionally, corticosteroids can sometimes cause thinning of the skin if used inappropriately.<br /><br /><b>Making discreet enquiries about possible sexual abuse</b> is also not necessary in this case. While it is true that some sexually transmitted infections can present with genital lesions, the location of the lesions on the thigh and their appearance as small, umbilicated papules are more consistent with <i>Molluscum contagiosum</i>. Furthermore, there is no indication from the provided history that raises concerns about sexual abuse.<br /><br />There is no need to <b>refer to secondary care</b> for this presentation. As previously mentioned, molluscum contagiosum typically resolves on its own without any specific treatment. Referral to a specialist would only be necessary if there were complications or an atypical presentation that warranted further investigation or management.<br /><br />Finally, using <b>topical salicylic acid</b> would not be recommended for treating molluscum contagiosum in this case. Salicylic acid is a keratolytic agent that is commonly used to treat warts, but it has limited evidence for its effectiveness in treating molluscum contagiosum. Furthermore, salicylic acid can cause skin irritation and should be used with caution, especially in children.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 7-year-old girl is brought to surgery due to the development of several small, umbilicated lesions on the thigh of her left leg. There has been no similar lesions in the past, and she is otherwise well apart from a history of asthma. What is the most appropriate management?",
+        "correct_answer": "1",
+        "question_notes": "The most appropriate management for this 7-year-old girl with small, umbilicated lesions on her thigh is to <b>reassure</b> the patient and her parents. The description of the lesions as 'small' and 'umbilicated' suggests that they are likely to be caused by <i>Molluscum contagiosum</i>, a self-limiting viral skin infection caused by a poxvirus. This condition is common in children and usually resolves spontaneously within 6-12 months without any specific treatment.<br /><br />A <b>trial of hydrocortisone</b> would not be appropriate in this case, as hydrocortisone is a mild topical corticosteroid used to treat inflammatory skin conditions such as eczema or dermatitis. It has no antiviral properties and would not help in resolving the lesions caused by <i>Molluscum contagiosum</i>. Additionally, corticosteroids can sometimes cause thinning of the skin if used inappropriately.<br /><br /><b>Making discreet enquiries about possible sexual abuse</b> is also not necessary in this case. While it is true that some sexually transmitted infections can present with genital lesions, the location of the lesions on the thigh and their appearance as small, umbilicated papules are more consistent with <i>Molluscum contagiosum</i>. Furthermore, there is no indication from the provided history that raises concerns about sexual abuse.<br /><br />There is no need to <b>refer to secondary care</b> for this presentation. As previously mentioned, molluscum contagiosum typically resolves on its own without any specific treatment. Referral to a specialist would only be necessary if there were complications or an atypical presentation that warranted further investigation or management.<br /><br />Finally, using <b>topical salicylic acid</b> would not be recommended for treating molluscum contagiosum in this case. Salicylic acid is a keratolytic agent that is commonly used to treat warts, but it has limited evidence for its effectiveness in treating molluscum contagiosum. Furthermore, salicylic acid can cause skin irritation and should be used with caution, especially in children.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Molluscum contagiosum",
+        "body": "Molluscum contagiosum is a common skin infection caused by molluscum contagiosum virus (MCV), a member of the <span class=\"concept\" data-cid=\"11963\">Poxviridae family</span>. Transmission occurs directly by close personal contact, or indirectly via fomites (contaminated surfaces) such as shared towels and flannels. The majority of cases occur in children (often in children with atopic eczema), with the maximum incidence in preschool children aged 1-4 years.<br /><br />Typically, molluscum contagiosum presents with characteristic pinkish or pearly white papules with a central umbilication, which are up to 5 mm in diameter. Lesions appear in clusters in areas anywhere on the body (except the palms of the hands and the soles of the feet). In children, lesions are commonly seen on the trunk and in flexures, but anogenital lesions may also occur. In adults, sexual contact may lead to lesions developing on the genitalia, pubis, thighs, and lower abdomen. Rarely, lesions can occur on the oral mucosa and on the eyelids.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsd121b.jpg\" data-fancybox=\"gallery\" data-caption=\"Molluscum contagiosum . Image used on license from DermNet NZ and with the kind permission of Prof Raimo Suhonen\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsd121.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd946.jpg\" data-fancybox=\"gallery\" data-caption=\"Molluscum contagiosum in a child. The image demonstrates the typical pearly papules with umbilicated centres\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd946.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd122b.jpg\" data-fancybox=\"gallery\" data-caption=\"Molluscum contagiosum. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd122.jpg\" alt=\"\" /></a></div></div></div><br />Self-care advice:<br /><ul><li>Reassure people that molluscum contagiosum is a self-limiting condition.</li><li>Spontaneous resolution usually occurs within 18 months</li><li>Explain that lesions are contagious, and it is sensible to avoid sharing towels, clothing, and baths with uninfected people (e.g. siblings)</li><li>Encourage people not to scratch the lesions. If it is problematic, consider treatment to alleviate the itch</li><li><span class=\"concept\" data-cid=\"3834\">Exclusion from school, gym, or swimming is not necessary</span></li></ul><br /><span class=\"concept\" data-cid=\"11586\">Treatment is not usually recommended</span>. If lesions are troublesome or considered unsightly, use simple trauma or cryotherapy, depending on the parents' wishes and the child's age:<br /><ul><li>Squeezing (with fingernails) or piercing (orange stick) lesions may be tried, following a bath. Treatment should be limited to a few lesions at one time</li><li>Cryotherapy may be used in older children or adults, if the healthcare professional is experienced in the procedure</li><li>Eczema or inflammation can develop around lesions prior to resolution. Treatment may be required if:<ul><li>Itching is problematic; prescribe an emollient and a mild topical corticosteroid (e.g. hydrocortisone 1%)</li><li>The skin looks infected (e.g. oedema, crusting); prescribe a topical antibiotic (e.g. fusidic acid 2%)</li></ul></li></ul><br />Referral may be necessary in some circumstances:<br /><ul><li>For people who are <span class=\"concept\" data-cid=\"9114\">HIV-positive with extensive lesions</span>  urgent referral to a HIV specialist</li><li><span class=\"concept\" data-cid=\"10047\">For people with eyelid-margin or ocular lesions and associated red eye urgent referral to an ophthalmologist</span></li><li>Adults with anogenital lesions should be referred to genito-urinary medicine, for screening for other sexually transmitted infections</li></ul>",
+        "notes_hash": "6b45b8717155c2630b232742478984f9",
+        "knowledge_graph_node_id_link": 11097,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5430",
+        "up_votes": "24",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "4145",
+            "295",
+            "283",
+            "478",
+            "229",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1120\" data-linkid=\"1120\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1120\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1120\" data-linkid=\"1120\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1120\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/molluscum-contagiosum/\">Molluscum contagiosum</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "10047": {
+                "concept_text": "Molluscum contagiosum with eyelid or ocular involvement and red eye requires urgent ophthalmology review ",
+                "concept_percentile": "71"
+            },
+            "11586": {
+                "concept_text": "Molluscum contagiosum in children - treatment is not usually recommended.",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20750_B_59",
+        "new_question_id": "49364",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11882",
+        "notes_id_link": "1_172",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Commence thyroxine therapy",
+            "Prescribe iodine supplements",
+            "Reassure the patient and monitor thyroid function every 2-3 years",
+            "Refer the patient for thyroidectomy",
+            "Refer the patient to an endocrinologist",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old man presents with fatigue and feels he is slightly constipated. The patient is otherwise healthy with no significant medical history. He has various investigations including a negative FIT test, and blood tests that are all normal apart from his thyroid function. <br /><br />Initial thyroid function tests reveal the following:<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid stimulating hormone (TSH)</td><td>8.2 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>12 pmol/L</td><td>(9.0 - 18)</td></tr></tbody></table></div><br />These are repeated 3 months later and show:<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid stimulating hormone (TSH)</td><td>10 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>9 pmol/L</td><td>(9.0 - 18)</td></tr></tbody></table></div><br />What is the most appropriate management for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has subclinical hypothyroidism, categorised as TSH levels above the range but with normal levels of thyroxine. This is usually asymptomatic, however can present with symptoms of hypothyroidism as in this patient. <b>Commence thyroxine therapy</b> is the most appropriate choice here. The patient presents with symptoms that are suggestive of hypothyroidism (fatigue, constipation) and has a mildly elevated TSH level with normal T4 levels on two separate occasions three months apart. Since the TSH is between 5.5 - 10mU/L and the patient is under 65 years old with symptoms of hypothyroidism, according to NICE guidelines, it would be reasonable to consider offering a trial of levothyroxine.<br /><br /><b>Prescribe iodine supplements</b> is incorrect. In this patient's case (with elevated TSH and normal free T4), iodine deficiency is unlikely to be the cause, and therefore supplementation would not address the underlying issue of subclinical hypothyroidism. Whilst iodine supplementation may be recommended if there was evidence of iodine deficiency, this is not suggested by the scenario.<br /><br /><b>Reassure the patient and monitor thyroid function every 2-3 years</b> is incorrect, as this option might delay necessary treatment as the patient is symptomatic and meets criteria for starting levothyroxine.<br /><br /><b>Refer the patient for thyroidectomy</b> is not appropriate. This would be an invasive procedure that is not indicated in this case where medical management with levothyroxine is typically effective.<br /><br /><b>Refer the patient to an endocrinologist</b> is not the most appropriate answer. Whilst it may be considered in complex cases or when initial management fails, starting levothyroxine in primary care setting for such a straightforward case of subclinical hypothyroidism with symptoms is appropriate and consistent with guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old man presents with fatigue and feels he is slightly constipated. The patient is otherwise healthy with no significant medical history. He has various investigations including a negative FIT test, and blood tests that are all normal apart from his thyroid function. <br /><br />Initial thyroid function tests reveal the following:<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid stimulating hormone (TSH)</td><td>8.2 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>12 pmol/L</td><td>(9.0 - 18)</td></tr></tbody></table></div><br />These are repeated 3 months later and show:<br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Thyroid stimulating hormone (TSH)</td><td>10 mU/L</td><td>(0.5-5.5)</td></tr><tr><td>Free thyroxine (T4)</td><td>9 pmol/L</td><td>(9.0 - 18)</td></tr></tbody></table></div><br />What is the most appropriate management for this patient?",
+        "correct_answer": "1",
+        "question_notes": "This patient has subclinical hypothyroidism, categorised as TSH levels above the range but with normal levels of thyroxine. This is usually asymptomatic, however can present with symptoms of hypothyroidism as in this patient. <b>Commence thyroxine therapy</b> is the most appropriate choice here. The patient presents with symptoms that are suggestive of hypothyroidism (fatigue, constipation) and has a mildly elevated TSH level with normal T4 levels on two separate occasions three months apart. Since the TSH is between 5.5 - 10mU/L and the patient is under 65 years old with symptoms of hypothyroidism, according to NICE guidelines, it would be reasonable to consider offering a trial of levothyroxine.<br /><br /><b>Prescribe iodine supplements</b> is incorrect. In this patient's case (with elevated TSH and normal free T4), iodine deficiency is unlikely to be the cause, and therefore supplementation would not address the underlying issue of subclinical hypothyroidism. Whilst iodine supplementation may be recommended if there was evidence of iodine deficiency, this is not suggested by the scenario.<br /><br /><b>Reassure the patient and monitor thyroid function every 2-3 years</b> is incorrect, as this option might delay necessary treatment as the patient is symptomatic and meets criteria for starting levothyroxine.<br /><br /><b>Refer the patient for thyroidectomy</b> is not appropriate. This would be an invasive procedure that is not indicated in this case where medical management with levothyroxine is typically effective.<br /><br /><b>Refer the patient to an endocrinologist</b> is not the most appropriate answer. Whilst it may be considered in complex cases or when initial management fails, starting levothyroxine in primary care setting for such a straightforward case of subclinical hypothyroidism with symptoms is appropriate and consistent with guidelines.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Subclinical hypothyroidism",
+        "body": "Basics<br /><ul><li>TSH raised but T3, T4 normal</li><li>no obvious symptoms</li></ul><br />Significance<br /><ul><li>risk of progressing to overt hypothyroidism is 2-5% per year (higher in men)</li><li>risk increased by the presence of <span class=\"concept\" data-cid=\"10755\">thyroid autoantibodies</span></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Not all patients require treatment. NICE have produced guidelines. Note that not all patients will fall within the age boundaries given and hence these are guidelines in the broader sense.<br /><br /><span class=\"concept\" data-cid=\"2333\">TSH is > 10mU/L</span> and the free thyroxine level is within the normal range<br /><ul><li>consider offering levothyroxine if the TSH level is > 10 mU/L on 2 separate occasions 3 months apart</li></ul><br />TSH is between 5.5 - 10mU/L and the free thyroxine level is within the normal range<br /><ul><li>if < 65 years consider offering a 6-month trial of levothyroxine if:<ul><li><span class=\"concept\" data-cid=\"11882\">the TSH level is 5.5 - 10mU/L on 2 separate occasions 3 months apart</span>,<i>and</i></li><li><span class=\"concept\" data-cid=\"11882\">there are symptoms of hypothyroidism</span></li></ul></li><li>in older people (especially those aged over 80 years) follow a 'watch and wait' strategy is often used</li><li>if asymptomatic people, observe and repeat thyroid function in 6 months</li></ul>",
+        "notes_hash": "57b9ad8d5d40cc4f0f8db2edc0d22c35",
+        "knowledge_graph_node_id_link": 1109,
+        "concept": "Subclinical hypothyroidism with TSH level of level is 5.5 - 10mU/L: offer patients < 65 years a 6-month trial of thyroxine if TSH remains at that level on 2 separate occasions 3 months apart and they have hypothyroidism symptoms",
+        "concept_percentile": "63",
+        "concept_colour": "rgb(188,255,0)",
+        "number_attempts": "5571",
+        "up_votes": "21",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "4199",
+            "126",
+            "453",
+            "11",
+            "782",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "11882": {
+                "concept_text": "Subclinical hypothyroidism with TSH level of level is 5.5 - 10mU/L: offer patients < 65 years a 6-month trial of thyroxine if TSH remains at that level on 2 separate occasions 3 months apart and they have hypothyroidism symptoms",
+                "concept_percentile": "63"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1789",
+        "new_question_id": "6998",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_234",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Primary pulmonary hypertension",
+            "Heart failure",
+            "Chronic obstructive pulmonary disease",
+            "Idiopathic pulmonary fibrosis",
+            "Lung cancer",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old man presents with progressive exertional dyspnoea. These symptoms have been getting progressively worse over the past nine months and are associated with a dry cough. He gave up smoking 20 cigarettes/day around 30 years ago. On examination his oxygen saturations are 97% on room air, respiratory rate is 14/min and there are some fine bibasal crackles. Finger clubbing is noted. Investigations show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>B-type natriuretic peptide</td><td>88 pg/ml (< 100pg/ml)</td></tr></tbody></table></div><br />ECG: sinus rhythm, 72/min<br /><br />Spirometry<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FEV1</td><td>1.57 L (50% of predicted)</td></tr><tr><td>FVC</td><td>1.63 L (39% of predicted)</td></tr><tr><td>FEV1/FVC</td><td>96%</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This is a typical history of idiopathic pulmonary fibrosis: a male patient aged 50-70 years presenting with progressive exertional dyspnoea associated with clubbing and a restrictive picture on spirometry,<br /><br />The normal B-type natriuretic peptide makes heart failure extremely unlikely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old man presents with progressive exertional dyspnoea. These symptoms have been getting progressively worse over the past nine months and are associated with a dry cough. He gave up smoking 20 cigarettes/day around 30 years ago. On examination his oxygen saturations are 97% on room air, respiratory rate is 14/min and there are some fine bibasal crackles. Finger clubbing is noted. Investigations show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>B-type natriuretic peptide</td><td>88 pg/ml (< 100pg/ml)</td></tr></tbody></table></div><br />ECG: sinus rhythm, 72/min<br /><br />Spirometry<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>FEV1</td><td>1.57 L (50% of predicted)</td></tr><tr><td>FVC</td><td>1.63 L (39% of predicted)</td></tr><tr><td>FEV1/FVC</td><td>96%</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "This is a typical history of idiopathic pulmonary fibrosis: a male patient aged 50-70 years presenting with progressive exertional dyspnoea associated with clubbing and a restrictive picture on spirometry,<br /><br />The normal B-type natriuretic peptide makes heart failure extremely unlikely.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Idiopathic pulmonary fibrosis",
+        "body": "Idiopathic pulmonary fibrosis (IPF, previously termed cryptogenic fibrosing alveolitis) is a chronic lung condition characterised by progressive fibrosis of the interstitium of the lungs. Whilst there are many causes of lung fibrosis (e.g. medications, connective tissue disease, asbestos) the term IPF is reserved when no underlying cause exists.<br /><br />IPF is typically seen in patients aged 50-70 years and is twice as common in men.<br /><br /><span class=\"concept\" data-cid=\"12041\">Features</span><br /><ul><li>progressive exertional dyspnoea</li><li><span class=\"concept\" data-cid=\"7862\">bibasal fine end-inspiratory crepitations on auscultation</span></li><li>dry cough</li><li>clubbing</li></ul><br />Diagnosis<br /><ul><li>spirometry: classically a <span class=\"concept\" data-cid=\"2880\">restrictive picture (FEV1 normal/decreased, FVC decreased, FEV1/FVC increased)</span></li><li>impaired gas exchange: reduced transfer factor (TLCO)</li><li>imaging: bilateral interstitial shadowing (typically small, irregular, peripheral opacities - 'ground-glass' - later progressing to 'honeycombing') may be seen on a chest x-ray but <span class=\"concept\" data-cid=\"4151\">high-resolution CT scanning is the investigation of choice</span> and required to make a diagnosis of IPF</li><li>ANA positive in 30%, rheumatoid factor positive in 10% but this does not necessarily mean that the fibrosis is secondary to a connective tissue disease. Titres are usually low</li></ul><br />Management<br /><ul><li>pulmonary rehabilitation</li><li>very few medications have been shown to give any benefit in IPF. There is some evidence that <span class=\"concept\" data-cid=\"9706\">pirfenidone (an antifibrotic agent) may be useful in selected patients</span> (see NICE guidelines)</li><li>many patients will require supplementary oxygen and eventually a lung transplant</li></ul><br />Prognosis<br /><ul><li>poor, average life expectancy is around 3-4 years</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb135b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest X-ray shows sub-pleural reticular opacities that increase from the apex to the bases of the lungs\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb135.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb209b.jpg\" data-fancybox=\"gallery\" data-caption=\"Idiopathic pulmonary fibrosis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb209.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb210b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest X-ray and CT scan from a patient who presented with dyspnoea. The x-ray shows reticular opacities predominantly in the bases. In addition the CT demonstrates honeycombing and traction bronchiectasis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb210.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb066b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT scan showing advanced pulmonary fibrosis including 'honeycombing'\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb066.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "d665c5a4cccbbb6d8c4ef521a86feb4c",
+        "knowledge_graph_node_id_link": 1071,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "8485",
+        "up_votes": "44",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "111",
+            "151",
+            "983",
+            "6876",
+            "364",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1313\" data-linkid=\"1313\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1313\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1313\" data-linkid=\"1313\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1313\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/2/146\"> Update in diagnosis and management of interstitial lung disease</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_625\" data-linkid=\"625\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_625\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_625\" data-linkid=\"625\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_625\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg163/chapter/1-recommendations\">2013 Idiopathic pulmonary fibrosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UlIXdyW03Os\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1251\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UlIXdyW03Os/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UlIXdyW03Os\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1251\">Idiopathic pulmonary fibrosis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2207\" data-mediaid=\"2207\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2207\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2207\" data-mediaid=\"2207\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2207\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/le9KH4Wxm74\" data-description=\"Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1203\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/le9KH4Wxm74/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/le9KH4Wxm74\" data-description=\"Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1203\">Interstitial Lung Disease (ILD) - Classification, pathophysiology, signs and symptoms</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2110\" data-mediaid=\"2110\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2110\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_2110\" data-mediaid=\"2110\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2110\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2a/Idiopathic_Pulmonary_Fibrosis.webm\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"387\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/2a/Idiopathic_Pulmonary_Fibrosis.webm\" data-description=\"Idiopathic pulmonary fibrosis\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"387\">Idiopathic pulmonary fibrosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_665\" data-mediaid=\"665\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_665\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_665\" data-mediaid=\"665\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_665\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "2880": {
+                "concept_text": "Pulmonary fibrosis causes restrictive spirometry picture (FEV1:FVC >70%, decreased FVC) and impaired gas exchange (reduced TLCO)",
+                "concept_percentile": "48"
+            },
+            "9706": {
+                "concept_text": "Pirfenidone and nintedanib can be used as drug management options in idiopathic pulmonary fibrosis as they may decrease the functional decline, prolong survival and potentially reduce acute exacerbations",
+                "concept_percentile": "48"
+            },
+            "12041": {
+                "concept_text": "Older patient, progressive exertional dyspnoea, dry cough, clubbing, non-smoker --> ?idiopathic pulmonary fibrosis",
+                "concept_percentile": "46"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "25300_B_9",
+        "new_question_id": "41140",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "10876",
+        "notes_id_link": "1_1720",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "3-day course of amoxicillin",
+            "3-day course of cefalexin",
+            "3-day course of nitrofurantoin",
+            "7-day course of nitrofurantoin",
+            "7-day course of trimethoprim",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old woman who is 10 weeks pregnant presents to the early pregnancy unit drop-in clinic with a 3-day history of dysuria and increased urinary frequency.<br /><br />Urine dipstick results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Leucocytes</td><td>+++</td></tr><tr><td>Nitrites</td><td>+</td></tr><tr><td>Protein</td><td>-</td></tr><tr><td>pH</td><td>5.0</td></tr><tr><td>Blood</td><td>+</td></tr><tr><td>Ketones</td><td>-</td></tr><tr><td>Glucose</td><td>-</td></tr></tbody></table></div><br />What is the most appropriate treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>7-day course of nitrofurantoin</b> - this is the correct answer; nitrofurantoin is the first-line treatment for lower UTI in pregnant women who are not at term (avoidance at term advised due to the risk of neonatal haemolysis). Pregnant women should be prescribed a 7-day course of antibiotics for UTI. UTI in pregnancy is associated with pre-term delivery and low-birthweight so it is important to treat it promptly and appropriately.<br /><br /><b>3-day course of amoxicillin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics; amoxicillin is also a second-line option though local guidelines may vary.<br /><br /><b>3-day course of cefalexin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics; cefalexin is also a second-line option though local guidelines may vary.<br /><br /><b>3-day course of nitrofurantoin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics. Nitrofurantoin is the first-line option except for women at term (due to the risk of neonatal haemolysis).<br /><br /><b>7-day course of trimethoprim</b> - trimethoprim should be avoided in pregnancy, particularly the first trimester, as it is a folate antagonist with the potential to cause neural tube defects in the fetus. According to NICE guidelines, the first-line option is nitrofurantoin and the second-line options are amoxicillin and cefalexin.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old woman who is 10 weeks pregnant presents to the early pregnancy unit drop-in clinic with a 3-day history of dysuria and increased urinary frequency.<br /><br />Urine dipstick results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Leucocytes</td><td>+++</td></tr><tr><td>Nitrites</td><td>+</td></tr><tr><td>Protein</td><td>-</td></tr><tr><td>pH</td><td>5.0</td></tr><tr><td>Blood</td><td>+</td></tr><tr><td>Ketones</td><td>-</td></tr><tr><td>Glucose</td><td>-</td></tr></tbody></table></div><br />What is the most appropriate treatment?",
+        "correct_answer": "4",
+        "question_notes": "<b>7-day course of nitrofurantoin</b> - this is the correct answer; nitrofurantoin is the first-line treatment for lower UTI in pregnant women who are not at term (avoidance at term advised due to the risk of neonatal haemolysis). Pregnant women should be prescribed a 7-day course of antibiotics for UTI. UTI in pregnancy is associated with pre-term delivery and low-birthweight so it is important to treat it promptly and appropriately.<br /><br /><b>3-day course of amoxicillin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics; amoxicillin is also a second-line option though local guidelines may vary.<br /><br /><b>3-day course of cefalexin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics; cefalexin is also a second-line option though local guidelines may vary.<br /><br /><b>3-day course of nitrofurantoin</b> - according to NICE guidelines pregnant women with a UTI should be given a 7-day course of antibiotics. Nitrofurantoin is the first-line option except for women at term (due to the risk of neonatal haemolysis).<br /><br /><b>7-day course of trimethoprim</b> - trimethoprim should be avoided in pregnancy, particularly the first trimester, as it is a folate antagonist with the potential to cause neural tube defects in the fetus. According to NICE guidelines, the first-line option is nitrofurantoin and the second-line options are amoxicillin and cefalexin.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Urinary tract infection in adults: management",
+        "body": "<h5 class='notes-heading'>Lower urinary tract infections</h5><br />Non-pregnant women<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>NICE recommend <span class=\"concept\" data-cid=\"6116\"><b>trimethoprim or nitrofurantoin</b></span> for <span class=\"concept\" data-cid=\"11482\"><b>3 days</b></span></li><li>send a urine culture if:<ul><li><span class=\"concept\" data-cid=\"10467\">aged > 65 years</span></li><li><span class=\"concept\" data-cid=\"5063\">visible or non-visible haematuria</span></li></ul></li></ul><br />Pregnant women <br /><ul><li>if the pregnant woman is symptomatic: <ul><li>a urine culture should be sent in all cases</li><li>should be treated with an antibiotic for <span class=\"concept\" data-cid=\"10877\">7 days</span></li><li><span class=\"concept\" data-cid=\"10876\">first-line: nitrofurantoin</span> (<span class=\"concept\" data-cid=\"5061\">should be avoided near term</span>)</li><li>second-line: <span class=\"concept\" data-cid=\"11739\">amoxicillin or cefalexin</span></li><li><span class=\"concept\" data-cid=\"3201\">trimethoprim is teratogenic</span> in the first trimester and should be avoided during pregnancy</li></ul></li><li>asymptomatic bacteriuria in pregnant women:<ul><li>a urine culture should be performed routinely at the first antenatal visit</li><li>NICE recommend <span class=\"concept\" data-cid=\"419\">an immediate antibiotic prescription</span> of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course</li><li>the rationale of treating asymptomatic bacteriuria is the significant risk of progression to acute pyelonephritis</li><li>a further urine culture should be sent following completion of treatment as a <span class=\"concept\" data-cid=\"420\">test of cure</span></li></ul></li><li>women who suffer regular urinary tract infections following sexual intercourse can be offered <span class=\"concept\" data-cid=\"10529\">post-coital antibiotic prophylaxis</span> - single dose trimethoprim or nitrofurantoin are used first-line</li></ul><br />Men<br /><ul><li><span class=\"concept\" data-cid=\"10336\">an immediate antibiotic prescription should be offered</span> for <span class=\"concept\" data-cid=\"11214\"><b>7 days</b></span></li><li>as with non-pregnant women, <span class=\"concept\" data-cid=\"11215\">trimethoprim or nitrofurantoin</span> should be offered first-line unless prostatitis is suspected</li><li><span class=\"concept\" data-cid=\"11899\">a urine culture should be sent in all cases</span> before antibiotics are started</li><li>NICE state: <i>'<span class=\"concept\" data-cid=\"11213\">Referral to urology is not routinely required for men</span> who have had one uncomplicated lower urinary tract infection (UTI).'</i></li></ul><br />Catherised patients<br /><ul><li><span class=\"concept\" data-cid=\"4449\">do not treat asymptomatic bacteria in catheterised patients</span></li><li>if the patient is symptomatic they should be treated with an antibiotic<ul><li><span class=\"concept\" data-cid=\"5120\">a 7-day, rather than a 3-day course should be given</span></li><li>consider <span class=\"concept\" data-cid=\"11743\">removing or changing</span> the catheter as soon as possible if it has been in place for longer than 7 days</li></ul></li></ul>   <br /><br /><h5 class='notes-heading'>Acute pyelonephritis</h5><br />For patients with sign of acute pyelonephritis hospital admission should be considered<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>the BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days</li></ul>",
+        "notes_hash": "5cc1a10907b708a4f6aee5157927f8f9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+        "concept_percentile": "69",
+        "concept_colour": "rgb(158,255,0)",
+        "number_attempts": "4530",
+        "up_votes": "24",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "117",
+            "163",
+            "561",
+            "3462",
+            "227",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1863\" data-linkid=\"1863\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1863\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1863\" data-linkid=\"1863\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1863\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/urinary-tract-infections.html\">Urinary-tract infections</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1vIHTAnBmuU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\">Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2039\" data-mediaid=\"2039\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2039\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2039\" data-mediaid=\"2039\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2039\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "419": {
+                "concept_text": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+                "concept_percentile": "70"
+            },
+            "4449": {
+                "concept_text": "Do not treat asymptomatic bacteria in catheterised patients",
+                "concept_percentile": "61"
+            },
+            "6116": {
+                "concept_text": "Trimethoprim or nitrofurantoin are the first-line antibiotics for lower UTIs",
+                "concept_percentile": "11"
+            },
+            "10467": {
+                "concept_text": "An MSU should be sent for all women over > 65-years-old with a suspected urinary tract infection",
+                "concept_percentile": "99"
+            },
+            "10876": {
+                "concept_text": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+                "concept_percentile": "69"
+            },
+            "10877": {
+                "concept_text": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+                "concept_percentile": "36"
+            },
+            "11215": {
+                "concept_text": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+                "concept_percentile": "83"
+            },
+            "11482": {
+                "concept_text": "Non-pregnant women with uncomplicated lower UTI only need 3 days of antibiotics",
+                "concept_percentile": "45"
+            },
+            "11743": {
+                "concept_text": "Consider removing or changing the catheter if a UTI develops",
+                "concept_percentile": "38"
+            },
+            "11899": {
+                "concept_text": "All men with a suspected UTI should have a urine culture sent before starting antibiotics",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

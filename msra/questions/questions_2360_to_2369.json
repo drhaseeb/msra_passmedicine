@@ -1,0 +1,974 @@
+[
+    {
+        "question_id": "4224_B_248",
+        "new_question_id": "13082",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "1905",
+        "notes_id_link": "1_541",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Risperidone",
+            "Chlorpromazine",
+            "Aripiprazole",
+            "Amisulpride",
+            "Haloperidol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 21-year-old female with paranoid schizophrenia is currently being treated on an antipsychotic regimen under section 3 of the Mental Health Act as an inpatient. Recently she has started to complain of breast tenderness & enlargement. Given that the current antipsychotic regimen is not being tolerated well, what is the best anti-psychotic for her to be started on to reduce these side effects?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Nearly all typical and some atypical antipsychotics like risperidone & amisulpride cause hyperprolactinaemia. Effects of hyperprolactinemia can involve breast tenderness, breast enlargement and lactation. Aripiprazole is known for its having fewer side effects especially with respect to prolactin elevation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 21-year-old female with paranoid schizophrenia is currently being treated on an antipsychotic regimen under section 3 of the Mental Health Act as an inpatient. Recently she has started to complain of breast tenderness & enlargement. Given that the current antipsychotic regimen is not being tolerated well, what is the best anti-psychotic for her to be started on to reduce these side effects?",
+        "correct_answer": "3",
+        "question_notes": "Nearly all typical and some atypical antipsychotics like risperidone & amisulpride cause hyperprolactinaemia. Effects of hyperprolactinemia can involve breast tenderness, breast enlargement and lactation. Aripiprazole is known for its having fewer side effects especially with respect to prolactin elevation.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Atypical antipsychotics",
+        "body": "Atypical antipsychotics should now be used first-line in patients with schizophrenia, according to 2005 NICE guidelines. The main advantage of the atypical agents is a significant reduction in extrapyramidal side-effects.<br /><br />Adverse effects of atypical antipsychotics<br /><ul><li><span class=\"concept\" data-cid=\"736\">weight gain</span></li><li>clozapine is associated with <span class=\"concept\" data-cid=\"1309\">agranulocytosis</span> (see below)</li><li><span class=\"concept\" data-cid=\"9323\">hyperprolactinaemia</span></li></ul><br />The Medicines and Healthcare products Regulatory Agency has issued specific warnings when antipsychotics are used in elderly patients:<br /><ul><li><span class=\"concept\" data-cid=\"6155\">increased risk of stroke</span></li><li><span class=\"concept\" data-cid=\"6156\">increased risk of venous thromboembolism</span></li></ul><br />Examples of atypical antipsychotics<br /><ul><li>clozapine</li><li>olanzapine: <span class=\"concept\" data-cid=\"8581\">higher risk of dyslipidemia and obesity</span></li><li>risperidone</li><li>quetiapine</li><li>amisulpride</li><li><span class=\"concept\" data-cid=\"1905\">aripiprazole</span>: generally good side-effect profile, particularly for prolactin elevation</li></ul>",
+        "notes_hash": "74b30485d5ecb2b3c2dfbc1c013d6b7d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Aripiprazole has the most tolerable side effect profile of the atypical antispsychotics, particularly for prolactin elevation",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "7202",
+        "up_votes": "32",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "1430",
+            "312",
+            "4934",
+            "138",
+            "387",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1472\" data-linkid=\"1472\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1472\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1472\" data-linkid=\"1472\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1472\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/clozapine.html\">Clozapine</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_260\" data-linkid=\"260\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_260\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_260\" data-linkid=\"260\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_260\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg178/chapter/1-Recommendations\">2014 Schizophrenia guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"22\" data-downvotes=\"1\" data-media=\"619\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nKkIh1B2Js8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"22\" data-downvotes=\"1\" data-media=\"619\">Antipsychotics </a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1055\" data-mediaid=\"1055\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1055\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"media_dislike_1055\" data-mediaid=\"1055\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1055\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "736": {
+                "concept_text": "Atypical antipsychotics commonly cause weight gain",
+                "concept_percentile": "64"
+            },
+            "1309": {
+                "concept_text": "Agranulocytosis/neutropenia is a life-threatening side effect of <b>clozapine</b> - monitor FBC",
+                "concept_percentile": "61"
+            },
+            "1905": {
+                "concept_text": "Aripiprazole has the most tolerable side effect profile of the atypical antispsychotics, particularly for prolactin elevation",
+                "concept_percentile": "82"
+            },
+            "6155": {
+                "concept_text": "Antipsychotics may cause increased risk of ischaemic stroke",
+                "concept_percentile": "94"
+            },
+            "6156": {
+                "concept_text": "Antipsychotics may cause increased risk of venous thromboembolism",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_538",
+        "new_question_id": "7706",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "7414",
+        "notes_id_link": "1_286",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Sitagliptin",
+            "Pioglitazone",
+            "Gliclazide",
+            "Exenatide",
+            "Metformin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old man is reviewed in the diabetes clinic. He has a history of heart failure and type 2 diabetes mellitus. His current medications include furosemide 40mg od, ramipril 10mg od and bisoprolol 5mg od. Clinical examination is unremarkable with no evidence of peripheral oedema, a clear chest and blood pressure of 130/76 mmHg. Recent renal and liver function tests are normal. Which one of the following medications is contraindicated?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Pioglitazone</b>. Pioglitazone is a thiazolidinedione that acts as an insulin sensitiser by activating peroxisome proliferator-activated receptor gamma (PPAR\u00ce\u00b3). However, it has been found to cause fluid retention and exacerbate heart failure, hence it is contraindicated in patients with heart failure. This patient's history of heart failure makes pioglitazone unsuitable.<br /><br /><b>Sitagliptin</b> is a dipeptidyl peptidase-4 (DPP-4) inhibitor that works by increasing levels of incretin hormones, enhancing the secretion of insulin, and reducing glucagon release. It does not cause fluid retention or worsen heart failure. <br /><br /><b>Gliclazide</b> is a second-generation sulfonylurea used for the treatment of type 2 diabetes. It stimulates the pancreas to secrete more insulin but does not have any significant cardiac side effects or contraindications in heart failure.<br /><br /><b>Exenatide</b> is a glucagon-like peptide-1 (GLP-1) agonist. It enhances glucose-dependent insulin secretion and suppresses inappropriate glucagon secretion, slowing gastric emptying and promoting satiety. There are no specific contraindications related to heart failure.<br /><br />Finally, <b>Metformin</b>, a biguanide anti-diabetic medication, works by decreasing hepatic glucose production and increasing insulin sensitivity in peripheral tissues. Contraindications include renal impairment due to the risk of lactic acidosis but it's not specifically contraindicated in heart failure; indeed, recent guidelines suggest its use may be beneficial unless associated with hypoperfusion or hypoxaemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old man is reviewed in the diabetes clinic. He has a history of heart failure and type 2 diabetes mellitus. His current medications include furosemide 40mg od, ramipril 10mg od and bisoprolol 5mg od. Clinical examination is unremarkable with no evidence of peripheral oedema, a clear chest and blood pressure of 130/76 mmHg. Recent renal and liver function tests are normal. Which one of the following medications is contraindicated?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Pioglitazone</b>. Pioglitazone is a thiazolidinedione that acts as an insulin sensitiser by activating peroxisome proliferator-activated receptor gamma (PPAR\u00ce\u00b3). However, it has been found to cause fluid retention and exacerbate heart failure, hence it is contraindicated in patients with heart failure. This patient's history of heart failure makes pioglitazone unsuitable.<br /><br /><b>Sitagliptin</b> is a dipeptidyl peptidase-4 (DPP-4) inhibitor that works by increasing levels of incretin hormones, enhancing the secretion of insulin, and reducing glucagon release. It does not cause fluid retention or worsen heart failure. <br /><br /><b>Gliclazide</b> is a second-generation sulfonylurea used for the treatment of type 2 diabetes. It stimulates the pancreas to secrete more insulin but does not have any significant cardiac side effects or contraindications in heart failure.<br /><br /><b>Exenatide</b> is a glucagon-like peptide-1 (GLP-1) agonist. It enhances glucose-dependent insulin secretion and suppresses inappropriate glucagon secretion, slowing gastric emptying and promoting satiety. There are no specific contraindications related to heart failure.<br /><br />Finally, <b>Metformin</b>, a biguanide anti-diabetic medication, works by decreasing hepatic glucose production and increasing insulin sensitivity in peripheral tissues. Contraindications include renal impairment due to the risk of lactic acidosis but it's not specifically contraindicated in heart failure; indeed, recent guidelines suggest its use may be beneficial unless associated with hypoperfusion or hypoxaemia.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Thiazolidinediones",
+        "body": "Thiazolidinediones are a class of agents used in the treatment of type 2 diabetes mellitus. They are <span class=\"concept\" data-cid=\"612\">agonists to the PPAR-gamma receptor and reduce peripheral insulin resistance</span>. Rosiglitazone was withdrawn in 2010 following concerns about the cardiovascular side-effect profile.<br /><br />The PPAR-gamma receptor is an intracellular nuclear receptor. It's natural ligands are free fatty acids and it is thought to control adipocyte differentiation and function.<br /><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"7411\">weight gain</span></li><li><span class=\"concept\" data-cid=\"7412\">liver impairment</span>: monitor LFTs</li><li><span class=\"concept\" data-cid=\"7413\">fluid retention</span> - therefore contraindicated in <span class=\"concept\" data-cid=\"7414\">heart failure</span>. The risk of fluid retention is increased if the patient also takes insulin</li><li>recent studies have indicated an <span class=\"concept\" data-cid=\"4963\">increased risk of fractures</span></li><li><span class=\"concept\" data-cid=\"4964\">bladder cancer</span>: recent studies have shown an increased risk of bladder cancer in patients taking pioglitazone (hazard ratio 2.64)</li></ul>",
+        "notes_hash": "c624181981dcc2b97e2bdb6ff538bc83",
+        "knowledge_graph_node_id_link": 10869,
+        "concept": "Pioglitazone - contraindicated by: heart failure",
+        "concept_percentile": "47",
+        "concept_colour": "rgb(255,239,0)",
+        "number_attempts": "6578",
+        "up_votes": "23",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "338",
+            "5071",
+            "514",
+            "415",
+            "240",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_311\" data-linkid=\"311\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_311\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_311\" data-linkid=\"311\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_311\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "612": {
+                "concept_text": "Glitazones are agonists of PPAR-gamma receptors, reducing peripheral insulin resistance",
+                "concept_percentile": "4"
+            },
+            "4963": {
+                "concept_text": "Thiazolidinediones are associated with an increased risk of osteoporosis and consequently fractures",
+                "concept_percentile": "15"
+            },
+            "4964": {
+                "concept_text": "Thiazolidinediones are associated with an increased risk of bladder cancer",
+                "concept_percentile": "9"
+            },
+            "7411": {
+                "concept_text": "Pioglitazone may cause weight gain",
+                "concept_percentile": "28"
+            },
+            "7412": {
+                "concept_text": "Pioglitazone may cause hepatotoxicity",
+                "concept_percentile": "10"
+            },
+            "7413": {
+                "concept_text": "Pioglitazone may cause fluid retention",
+                "concept_percentile": "49"
+            },
+            "7414": {
+                "concept_text": "Pioglitazone - contraindicated by: heart failure",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2084",
+        "new_question_id": "61170",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11143",
+        "notes_id_link": "1_594",
+        "theme": "Diabetic on SGLT-2 inhibitor with severe perineal pain",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous flucloxacillin",
+            "Oral co-amoxiclav and referral to outpatient gynaecology",
+            "Incision and drainage under local anaesthetic",
+            "Urgent surgical referral for debridement",
+            "CT scan of pelvis with contrast",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old woman with type 2 diabetes presents to the Emergency Department with a 2-day history of perineal pain and swelling. She reports the pain is severe and worsening rapidly. Examination reveals erythema and marked tenderness with reduced sensation to light touch in the affected area. She takes metformin and dapagliflozin.<br /><br />Select the single most appropriate immediate management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Urgent surgical referral for debridement</b> is the correct answer. This patient presents with clinical features highly suggestive of necrotising fasciitis affecting the perineum (Fournier's gangrene). Key features include severe pain disproportionate to physical findings, rapid progression, marked tenderness with hypoaesthesia to light touch, and significant risk factors including diabetes mellitus and SGLT-2 inhibitor use (dapagliflozin). SGLT-2 inhibitors increase the risk of necrotising fasciitis, particularly affecting the perineum. This is a life-threatening surgical emergency requiring immediate surgical debridement alongside broad-spectrum intravenous antibiotics. Any delay in surgical intervention significantly increases mortality, which averages 20% even with prompt treatment. The combination of severe pain, reduced sensation, and rapid progression in a high-risk patient should trigger immediate surgical referral rather than waiting for imaging or attempting medical management alone.<br /><br /><b>Intravenous flucloxacillin</b> would be inappropriate as monotherapy. While antibiotics are essential in managing necrotising fasciitis, they must be broad-spectrum to cover mixed aerobic and anaerobic organisms (type 1 necrotising fasciitis being most common). Flucloxacillin alone provides inadequate coverage and, crucially, antibiotics without urgent surgical debridement will not control this rapidly progressive infection. The primary treatment is surgical, with antibiotics as an important adjunct.<br /><br /><b>Oral co-amoxiclav and referral to outpatient gynaecology</b> represents dangerous under-treatment of this surgical emergency. The severity of symptoms, rapid progression, and clinical findings of hypoaesthesia indicate deep tissue infection requiring immediate intervention. Outpatient management with oral antibiotics would be entirely inadequate and could result in rapid deterioration, sepsis, and death. This approach might be considered for simple cellulitis, but the clinical picture here demands urgent inpatient surgical management.<br /><br /><b>Incision and drainage under local anaesthetic</b> would be insufficient for necrotising fasciitis, which requires extensive surgical debridement of all necrotic tissue, often necessitating multiple operations. Simple incision and drainage under local anaesthetic might be appropriate for a superficial abscess, but necrotising fasciitis involves deep fascial planes and requires formal theatre-based debridement under general anaesthetic with adequate exposure to assess tissue viability and remove all infected material.<br /><br /><b>CT scan of pelvis with contrast</b> would cause dangerous delay in definitive management. Necrotising fasciitis is primarily a clinical diagnosis, and imaging should not delay surgical intervention when clinical suspicion is high. While CT may show gas in tissues or fascial plane involvement, these are late signs, and the clinical presentation here warrants immediate surgical exploration. Imaging might be considered if the diagnosis is uncertain, but in this case, the combination of severe pain, hypoaesthesia, rapid progression, and high-risk features makes the diagnosis sufficiently likely to proceed directly to surgery.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old woman with type 2 diabetes presents to the Emergency Department with a 2-day history of perineal pain and swelling. She reports the pain is severe and worsening rapidly. Examination reveals erythema and marked tenderness with reduced sensation to light touch in the affected area. She takes metformin and dapagliflozin.<br /><br />Select the single most appropriate immediate management from the options below.",
+        "correct_answer": "4",
+        "question_notes": "<b>Urgent surgical referral for debridement</b> is the correct answer. This patient presents with clinical features highly suggestive of necrotising fasciitis affecting the perineum (Fournier's gangrene). Key features include severe pain disproportionate to physical findings, rapid progression, marked tenderness with hypoaesthesia to light touch, and significant risk factors including diabetes mellitus and SGLT-2 inhibitor use (dapagliflozin). SGLT-2 inhibitors increase the risk of necrotising fasciitis, particularly affecting the perineum. This is a life-threatening surgical emergency requiring immediate surgical debridement alongside broad-spectrum intravenous antibiotics. Any delay in surgical intervention significantly increases mortality, which averages 20% even with prompt treatment. The combination of severe pain, reduced sensation, and rapid progression in a high-risk patient should trigger immediate surgical referral rather than waiting for imaging or attempting medical management alone.<br /><br /><b>Intravenous flucloxacillin</b> would be inappropriate as monotherapy. While antibiotics are essential in managing necrotising fasciitis, they must be broad-spectrum to cover mixed aerobic and anaerobic organisms (type 1 necrotising fasciitis being most common). Flucloxacillin alone provides inadequate coverage and, crucially, antibiotics without urgent surgical debridement will not control this rapidly progressive infection. The primary treatment is surgical, with antibiotics as an important adjunct.<br /><br /><b>Oral co-amoxiclav and referral to outpatient gynaecology</b> represents dangerous under-treatment of this surgical emergency. The severity of symptoms, rapid progression, and clinical findings of hypoaesthesia indicate deep tissue infection requiring immediate intervention. Outpatient management with oral antibiotics would be entirely inadequate and could result in rapid deterioration, sepsis, and death. This approach might be considered for simple cellulitis, but the clinical picture here demands urgent inpatient surgical management.<br /><br /><b>Incision and drainage under local anaesthetic</b> would be insufficient for necrotising fasciitis, which requires extensive surgical debridement of all necrotic tissue, often necessitating multiple operations. Simple incision and drainage under local anaesthetic might be appropriate for a superficial abscess, but necrotising fasciitis involves deep fascial planes and requires formal theatre-based debridement under general anaesthetic with adequate exposure to assess tissue viability and remove all infected material.<br /><br /><b>CT scan of pelvis with contrast</b> would cause dangerous delay in definitive management. Necrotising fasciitis is primarily a clinical diagnosis, and imaging should not delay surgical intervention when clinical suspicion is high. While CT may show gas in tissues or fascial plane involvement, these are late signs, and the clinical presentation here warrants immediate surgical exploration. Imaging might be considered if the diagnosis is uncertain, but in this case, the combination of severe pain, hypoaesthesia, rapid progression, and high-risk features makes the diagnosis sufficiently likely to proceed directly to surgery.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Necrotising fasciitis",
+        "body": "Necrotising fasciitis is a medical emergency that is difficult to recognise in the early stages.<br /><br />It can be classified according to the causative organism:<br /><ul><li><span class=\"concept\" data-cid=\"4998\">type 1 is caused by mixed anaerobes and aerobes</span> (often occurs post-surgery in diabetics). This is the most common type</li><li>type 2 is caused by <span class=\"concept\" data-cid=\"5538\"><i>Streptococcus pyogenes</i></span></li></ul><br />Risk factors<br /><ul><li>skin factors: recent trauma, burns or soft tissue infections</li><li>diabetes mellitus<ul><li>the most common preexisting medical condition</li><li>particularly if the patient is treated with <span class=\"concept\" data-cid=\"11143\">SGLT-2 inhibitors</span></li></ul></li><li>intravenous drug use</li><li>immunosuppression</li></ul><br />The most commonly affected site is the <span class=\"concept\" data-cid=\"11142\">perineum</span> (Fournier's gangrene).<br /><br />Features<br /><ul><li>acute onset</li><li>pain, swelling, erythema at the affected site<ul><li>often presents as <span class=\"concept\" data-cid=\"9486\">rapidly worsening cellulitis with pain out of keeping with physical features</span></li><li>extremely tender over infected tissue with hypoaesthesia to light touch</li><li>skin necrosis and crepitus/gas gangrene are late signs</li></ul></li><li>fever and tachycardia may be absent or occur late in the presentation</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4997\">urgent surgical referral debridement</span></li><li><span class=\"concept\" data-cid=\"4997\">intravenous antibiotics</span></li></ul><br />Prognosis<br /><ul><li>average mortality of 20%</li></ul>",
+        "notes_hash": "6f2fc5d3e4533b67099fcb5095f5131e",
+        "knowledge_graph_node_id_link": 1342,
+        "concept": "Diabetes treated with SGLT-2 inhibitors are at particular risk of necrotising fasciitis",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "217",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "35",
+            "4",
+            "19",
+            "148",
+            "11",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_114\" data-linkid=\"114\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_114\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_114\" data-linkid=\"114\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_114\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/topics/necrotising-fasciitis/\">Necrotising fasciitis</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "11142": {
+                "concept_text": "Necrotising fasciitis: most commonly affected site is the perineum",
+                "concept_percentile": "95"
+            },
+            "11143": {
+                "concept_text": "Diabetes treated with SGLT-2 inhibitors are at particular risk of necrotising fasciitis",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "19269_B_94",
+        "new_question_id": "32811",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "4523",
+        "notes_id_link": "1_674",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Adrenalectomy",
+            "Fludrocortisone",
+            "Hydrocortisone",
+            "Reassure and discharge",
+            "Spironolactone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 43-year-old man is attending today following a referral from his GP. He has a history of poorly controlled hypertension and has come in today to have his aldosterone: renin ratio performed. The results showed high aldosterone and low renin levels. The patient also has a CT scan which shows bilateral hyperplasia of the adrenal glands. <br /><br />How should this patient be managed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is presenting with primary hyperaldosteronism which is due to bilateral hyperplasia of his adrenal glands. The aldosterone levels are elevated due to hyperplasia and this leads to increased sodium retention which then gives negative feedback to renin release. This is the most common cause of this condition accounting for around 2/3 of cases, and unilateral adrenal adenoma for around 1/3 cases. When the underlying cause is due to bilateral adrenal hyperplasia the preferred treatment is 4 weeks of <b>spironolactone</b> which is an antagonist of aldosterone receptors.<br /><br /><b>Adrenalectomy</b> is used in the management of primary hyperaldosteronism if the underlying cause is found to be unilateral adrenal adenoma. This tends to be performed laparoscopically and may be curative. As this patient has bilateral adrenal hyperplasia this would not be appropriate as removing one of the enlarged adrenal glands would only be removing half of the problem.<br /><br /><b>Fludrocortisone</b> is a corticosteroid that is used in adrenal insufficiency, not in hyperaldosteronism. This would exacerbate this patient's condition as it acts on mineralocorticoid receptors, just like aldosterone which this patient has in excess. <br /><br /><b>Hydrocortisone</b> would be inappropriate and would exacerbate this patient's condition for the same reason as above, as like fludrocortisone, it is a corticosteroid.<br /><br /><b>Reassurance and discharge</b> would be inappropriate, primary hyperaldosteronism has a good prognosis following treatment with spironolactone and if left untreated the patient is likely to have a chronic elevation of blood pressure, increasing his risk of cardiovascular disease, stroke, and kidney damage.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 43-year-old man is attending today following a referral from his GP. He has a history of poorly controlled hypertension and has come in today to have his aldosterone: renin ratio performed. The results showed high aldosterone and low renin levels. The patient also has a CT scan which shows bilateral hyperplasia of the adrenal glands. <br /><br />How should this patient be managed?",
+        "correct_answer": "5",
+        "question_notes": "This patient is presenting with primary hyperaldosteronism which is due to bilateral hyperplasia of his adrenal glands. The aldosterone levels are elevated due to hyperplasia and this leads to increased sodium retention which then gives negative feedback to renin release. This is the most common cause of this condition accounting for around 2/3 of cases, and unilateral adrenal adenoma for around 1/3 cases. When the underlying cause is due to bilateral adrenal hyperplasia the preferred treatment is 4 weeks of <b>spironolactone</b> which is an antagonist of aldosterone receptors.<br /><br /><b>Adrenalectomy</b> is used in the management of primary hyperaldosteronism if the underlying cause is found to be unilateral adrenal adenoma. This tends to be performed laparoscopically and may be curative. As this patient has bilateral adrenal hyperplasia this would not be appropriate as removing one of the enlarged adrenal glands would only be removing half of the problem.<br /><br /><b>Fludrocortisone</b> is a corticosteroid that is used in adrenal insufficiency, not in hyperaldosteronism. This would exacerbate this patient's condition as it acts on mineralocorticoid receptors, just like aldosterone which this patient has in excess. <br /><br /><b>Hydrocortisone</b> would be inappropriate and would exacerbate this patient's condition for the same reason as above, as like fludrocortisone, it is a corticosteroid.<br /><br /><b>Reassurance and discharge</b> would be inappropriate, primary hyperaldosteronism has a good prognosis following treatment with spironolactone and if left untreated the patient is likely to have a chronic elevation of blood pressure, increasing his risk of cardiovascular disease, stroke, and kidney damage.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Primary hyperaldosteronism",
+        "body": "Primary hyperaldosteronism was previously thought to be most commonly caused by an adrenal adenoma, termed Conn's syndrome. However, recent studies have shown that <span class=\"concept\" data-cid=\"812\">bilateral idiopathic adrenal hyperplasia is the most common cause</span>. Differentiating between the two is important as this determines treatment. <br /><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"812\">bilateral idiopathic adrenal hyperplasia: the cause of around 60-70% of cases</span></li><li>adrenal adenoma: 20-30% of cases</li><li>unilateral hyperplasia</li><li>familial hyperaldosteronism</li><li>adrenal carcinoma</li></ul><br />Pathophysiology<br /><ul><li>aldosterone is high</li><li>renin is low (suppressed by volume expansion)</li><li>consequences:<ul><li>aldosterone  &rarr; <span class=\"concept\" data-cid=\"12501\">\u2191 renal tubular sodium resorption</span> (via ENaC channels in the collecting duct)</li><li>\u2191 K\u207a excretion \u2192 hypokalaemia</li><li>\u2191 H\u207a excretion \u2192 metabolic alkalosis</li><li>hypertension from sodium/water retention</li></ul></li></ul><br /><span class=\"concept\" data-cid=\"2377\">Features</span><br /><ul><li><b>hypertension</b><ul><li>increasingly recognised but still underdiagnosed cause of hypertension</li></ul></li><li><b>hypokalaemia</b><ul><li>e.g. muscle weakness</li><li>this is a classical feature in exams but studies suggest this is seen in only 10-40% of patients, and is more common with adrenal adenomas</li></ul></li><li>metabolic alkalosis</li></ul><br />Investigations<br /><ul><li>guidelines vary but certain patients should be screened for primary hyperaldosteronism, e.g. <ul><li>hypertension with hypokalemia</li><li>treatment-resistant hypertension</li></ul></li><li>the 2016 Endocrine Society recommend that a <span class=\"concept\" data-cid=\"10587\">plasma <b>aldosterone/renin ratio is the first-line investigation</b></span> in suspected primary hyperaldosteronism<ul><li>should show high aldosterone levels alongside low renin levels (negative feedback due to sodium retention from aldosterone)</li></ul></li><li>following this a high-resolution CT abdomen and adrenal vein sampling is used to differentiate between unilateral and bilateral sources of aldosterone excess<ul><li>if the CT is normal <span class=\"concept\" data-cid=\"3370\">adrenal venous sampling (AVS)</span> can be used to distinguish between unilateral adenoma and bilateral hyperplasia</li></ul></li></ul><br />Management<br /><ul><li>adrenal adenoma: surgery (laparoscopic adrenalectomy)</li><li>bilateral adrenocortical hyperplasia: <span class=\"concept\" data-cid=\"4523\">aldosterone antagonist e.g. spironolactone</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb193b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT abdomen showing a right-sided adrenal adenoma in a patient who presented with hypertension and hypokalaemia. The adenoma can be seen 'next to' or 'below' the liver.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb193.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "bbc55015c8b3fbe812a07a34d12224c8",
+        "knowledge_graph_node_id_link": 1108,
+        "concept": "Primary hyperaldosteronism: manage with spironolactone",
+        "concept_percentile": "94",
+        "concept_colour": "rgb(30,255,0)",
+        "number_attempts": "6392",
+        "up_votes": "39",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "1790",
+            "526",
+            "475",
+            "41",
+            "3560",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>The Endocrine Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1354\" data-linkid=\"1354\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1354\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_1354\" data-linkid=\"1354\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1354\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/jcem/article/101/5/1889/2804729\">2016: The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBfkGNr01V8\" data-description=\"Hyperaldosteronism - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"12\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JBfkGNr01V8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBfkGNr01V8\" data-description=\"Hyperaldosteronism - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"12\">Hyperaldosteronism - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_31\" data-mediaid=\"31\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_31\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_31\" data-mediaid=\"31\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_31\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oSqLwPv8bb4\" data-description=\"Hyperaldosteronism and Conn's Syndrome\" data-upvotes=\"25\" data-downvotes=\"3\" data-media=\"784\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/oSqLwPv8bb4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/oSqLwPv8bb4\" data-description=\"Hyperaldosteronism and Conn's Syndrome\" data-upvotes=\"25\" data-downvotes=\"3\" data-media=\"784\">Hyperaldosteronism and Conn's Syndrome</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1365\" data-mediaid=\"1365\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1365\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"media_dislike_1365\" data-mediaid=\"1365\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1365\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2377": {
+                "concept_text": "Primary hyperaldosteronism can present with hypertension and hypokalemia",
+                "concept_percentile": "90"
+            },
+            "4523": {
+                "concept_text": "Primary hyperaldosteronism: manage with spironolactone",
+                "concept_percentile": "94"
+            },
+            "10587": {
+                "concept_text": "A plasma <b>aldosterone/renin ratio is the first-line investigation</b> in suspected primary hyperaldosteronism",
+                "concept_percentile": "59"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_388",
+        "new_question_id": "8538",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "11222",
+        "notes_id_link": "1_439",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Referral for relaxation therapy",
+            "Baclofen",
+            "Diazepam",
+            "Dantrolene",
+            "Natalizumab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 43-year-old woman with multiple sclerosis presents for review. She is having increasing problems with painful involuntary contractions of the leg muscles. What is the most appropriate first-line therapy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Baclofen</b>. Baclofen is a GABA-B receptor agonist which acts as a muscle relaxant. It is considered first-line therapy for spasticity in multiple sclerosis according to the National Institute for Health and Care Excellence (NICE) guidelines. It works by inhibiting reflexes at the spinal level, thus reducing muscle tone and frequency of spasms.<br /><br />Discussing the other options, <b>Referral for relaxation therapy</b> can be beneficial in managing symptoms of multiple sclerosis, including muscle spasms. However, it's not considered as a first-line treatment for painful involuntary contractions of leg muscles. It may be used in conjunction with pharmacological treatments but should not replace them.<br /><br /><b>Diazepam</b> is a benzodiazepine that can be used to manage severe or disabling muscle spasticity when other treatments are ineffective. However, due to its potential side effects such as sedation and risk of dependency, it's not usually the first choice of treatment.<br /><br /><b>Dantrolene</b> acts peripherally to interfere with muscle contraction mechanism by inhibiting calcium release from the sarcoplasmic reticulum in skeletal muscles. While it can be used in the management of spasticity, it's generally reserved for severe cases where other treatments have failed due to its potential hepatotoxicity.<br /><br />Finally, <b>Natalizumab</b> is a monoclonal antibody used in the treatment of relapsing-remitting multiple sclerosis. It works by preventing potentially damaging immune cells from migrating from the bloodstream into the brain and spinal cord. While effective in managing overall disease progression, it does not directly treat muscle spasticity and hence would not be appropriate as a first-line therapy for this specific symptom.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 43-year-old woman with multiple sclerosis presents for review. She is having increasing problems with painful involuntary contractions of the leg muscles. What is the most appropriate first-line therapy?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Baclofen</b>. Baclofen is a GABA-B receptor agonist which acts as a muscle relaxant. It is considered first-line therapy for spasticity in multiple sclerosis according to the National Institute for Health and Care Excellence (NICE) guidelines. It works by inhibiting reflexes at the spinal level, thus reducing muscle tone and frequency of spasms.<br /><br />Discussing the other options, <b>Referral for relaxation therapy</b> can be beneficial in managing symptoms of multiple sclerosis, including muscle spasms. However, it's not considered as a first-line treatment for painful involuntary contractions of leg muscles. It may be used in conjunction with pharmacological treatments but should not replace them.<br /><br /><b>Diazepam</b> is a benzodiazepine that can be used to manage severe or disabling muscle spasticity when other treatments are ineffective. However, due to its potential side effects such as sedation and risk of dependency, it's not usually the first choice of treatment.<br /><br /><b>Dantrolene</b> acts peripherally to interfere with muscle contraction mechanism by inhibiting calcium release from the sarcoplasmic reticulum in skeletal muscles. While it can be used in the management of spasticity, it's generally reserved for severe cases where other treatments have failed due to its potential hepatotoxicity.<br /><br />Finally, <b>Natalizumab</b> is a monoclonal antibody used in the treatment of relapsing-remitting multiple sclerosis. It works by preventing potentially damaging immune cells from migrating from the bloodstream into the brain and spinal cord. While effective in managing overall disease progression, it does not directly treat muscle spasticity and hence would not be appropriate as a first-line therapy for this specific symptom.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Multiple sclerosis: management",
+        "body": "Treatment in multiple sclerosis is focused on reducing the frequency and duration of relapses. There is no cure. <br /><br /><h5 class='notes-heading'>Acute relapse</h5><br /><span class=\"concept\" data-cid=\"10065\"> High-dose steroids (e.g. oral or IV methylprednisolone)</span> may be given for 5 days to shorten the length of an acute relapse. It should be noted that steroids shorten the duration of a relapse and do not alter the degree of recovery (i.e. whether a patient returns to baseline function)<br /><br /><h5 class='notes-heading'>Disease modifying drugs</h5><br />A number of drugs have been shown to reduce the risk of relapse in patients with MS. Typical indications for disease-modifying drugs include:<br /><ul><li>relapsing-remitting disease + 2 relapses in past 2 years + able to walk 100m unaided</li><li>secondary progressive disease + 2 relapses in past 2 years + able to walk 10m (aided or unaided)</li></ul><br />Drug options for reducing the risk of relapse in MS<br /><ul><li><span class=\"concept\" data-cid=\"11771\">natalizumab</span><ul><li>a recombinant monoclonal antibody that antagonises alpha-4 beta-1-integrin found on the surface of leucocytes</li><li>inhibit migration of leucocytes across the endothelium across the blood-brain barrier</li><li>generally considered to have the strongest evidence base for preventing relapse of the disease-modifying and hence is often used first-line</li><li>given intravenously</li></ul></li><li> <span class=\"concept\" data-cid=\"11862\">ocrelizumab</span><ul><li>humanized anti-CD20 monoclonal antibody</li><li>like natalizumab, it is considered a high-efficacy drug that is often used first-line</li><li>given intravenously</li></ul></li><li>fingolimod<ul><li>sphingosine 1-phosphate (S1P) receptor modulator</li><li>prevents lymphocytes from leaving lymph nodes</li><li>oral formulations are available</li></ul></li><li>beta-interferon <ul><li>not considered to be as effective as alternative disease-modifying drugs</li><li>given subcutaneously/intramuscularly</li></ul></li><li>glatiramer acetate<ul><li>immunomodulating drug - acts as an 'immune decoy'</li><li>given subcutaneously</li><li>along with beta-interferon considered an 'older drug' with less effectiveness compared to monoclonal antibodies and S1P) receptor modulators</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Some specific problems</h5><br />Fatigue<br /><ul><li>once other problems (e.g. anaemia, thyroid or depression) have been excluded NICE recommend a trial of amantadine</li><li>other options include mindfulness training and CBT</li></ul><br />Spasticity<br /><ul><li><span class=\"concept\" data-cid=\"11222\">baclofen and gabapentin</span> are first-line. Other options include diazepam, dantrolene and tizanidine</li><li>physiotherapy is important</li><li>cannabis and botox are undergoing evaluation</li></ul><br />Bladder dysfunction<br /><ul><li>may take the form of urgency, incontinence, overflow etc</li><li>guidelines stress the importance of getting an <span class=\"concept\" data-cid=\"11221\">ultrasound</span> first to assess bladder emptying - anticholinergics may worsen symptoms in some patients</li><li>if significant residual volume &rarr; intermittent self-catheterisation</li><li>if no significant residual volume &rarr; anticholinergics may improve urinary frequency</li></ul><br />Oscillopsia (visual fields appear to oscillate)<br /><ul><li>gabapentin is first-line</li></ul>",
+        "notes_hash": "0ed97d42bb988584137b2f2d595b561d",
+        "knowledge_graph_node_id_link": 1076,
+        "concept": "Baclofen and gabapentin are first-line for spasticity in multiple sclerosis",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "5894",
+        "up_votes": "29",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "300",
+            "4612",
+            "410",
+            "469",
+            "103",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Multiple Sclerosis Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_826\" data-linkid=\"826\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_826\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_826\" data-linkid=\"826\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_826\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.pennine-gp-training.co.uk/res/MS%20guide%20for%20Primary%20Care.pdf\">Primary care guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1066\" data-linkid=\"1066\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1066\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1066\" data-linkid=\"1066\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1066\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg186/chapter/1-Recommendations\">2014 Multiple Sclerosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ScaY3P2UOz8\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1470\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ScaY3P2UOz8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ScaY3P2UOz8\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1470\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2593\" data-mediaid=\"2593\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2593\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2593\" data-mediaid=\"2593\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2593\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yzH8ul5PSZ8\" data-description=\"Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"4\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yzH8ul5PSZ8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yzH8ul5PSZ8\" data-description=\"Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"4\">Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_9\" data-mediaid=\"9\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_9\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_9\" data-mediaid=\"9\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_9\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KcZUPqobMgI\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"671\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/KcZUPqobMgI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KcZUPqobMgI\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"671\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1162\" data-mediaid=\"1162\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1162\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1162\" data-mediaid=\"1162\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1162\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ReXMFCQALHM\" data-description=\"Multiple sclerosis\" data-upvotes=\"0\" data-downvotes=\"2\" data-media=\"102\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ReXMFCQALHM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ReXMFCQALHM\" data-description=\"Multiple sclerosis\" data-upvotes=\"0\" data-downvotes=\"2\" data-media=\"102\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_174\" data-mediaid=\"174\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_174\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_174\" data-mediaid=\"174\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_174\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "11222": {
+                "concept_text": "Baclofen and gabapentin are first-line for spasticity in multiple sclerosis",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_137",
+        "new_question_id": "3137",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "325",
+        "notes_id_link": "1_1520",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral co-amoxiclav",
+            "Oral penicillin",
+            "Oral flucloxacillin",
+            "Oral flucloxacillin + penicillin",
+            "Topical fusidic acid",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old student presents with a 1 cm golden, crusted lesion on the border of her left lower lip. <br /><br />Topical hydrogen peroxide did not help for a similar episode previously.<br /><br />What is the most suitable management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>topical fusidic acid</b>. This patient presents with a typical case of impetigo, which is a superficial bacterial skin infection commonly caused by Staphylococcus aureus or Streptococcus pyogenes. For small, localised lesions (less than 2% body surface area), topical antibiotics are the first-line treatment according to UK guidelines. Fusidic acid 2% cream or ointment applied three times daily for 5-7 days is recommended as first-line therapy.<br /><br /><b>Oral co-amoxiclav</b> would be excessive for a single small lesion. Oral antibiotics are reserved for more extensive disease, systemic symptoms, or when topical therapy has failed. Co-amoxiclav would be appropriate for more widespread infection or if there were signs of cellulitis.<br /><br /><b>Oral penicillin</b> alone would not be appropriate as it does not provide adequate coverage against Staphylococcus aureus, which is a common causative organism in impetigo.<br /><br /><b>Oral flucloxacillin</b> would be excessive for a single small lesion but would be appropriate if oral therapy was required, as it provides good coverage against Staphylococcus aureus.<br /><br /><b>Oral flucloxacillin + penicillin</b> combination would be excessive and unnecessary for a single small lesion. This combination might be considered for more severe soft tissue infections where both staphylococcal and streptococcal coverage is essential.<br /><br />The key principles in managing impetigo are to use the most targeted therapy possible while avoiding unnecessary use of systemic antibiotics. This helps prevent antibiotic resistance and minimizes side effects.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old student presents with a 1 cm golden, crusted lesion on the border of her left lower lip. <br /><br />Topical hydrogen peroxide did not help for a similar episode previously.<br /><br />What is the most suitable management?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>topical fusidic acid</b>. This patient presents with a typical case of impetigo, which is a superficial bacterial skin infection commonly caused by Staphylococcus aureus or Streptococcus pyogenes. For small, localised lesions (less than 2% body surface area), topical antibiotics are the first-line treatment according to UK guidelines. Fusidic acid 2% cream or ointment applied three times daily for 5-7 days is recommended as first-line therapy.<br /><br /><b>Oral co-amoxiclav</b> would be excessive for a single small lesion. Oral antibiotics are reserved for more extensive disease, systemic symptoms, or when topical therapy has failed. Co-amoxiclav would be appropriate for more widespread infection or if there were signs of cellulitis.<br /><br /><b>Oral penicillin</b> alone would not be appropriate as it does not provide adequate coverage against Staphylococcus aureus, which is a common causative organism in impetigo.<br /><br /><b>Oral flucloxacillin</b> would be excessive for a single small lesion but would be appropriate if oral therapy was required, as it provides good coverage against Staphylococcus aureus.<br /><br /><b>Oral flucloxacillin + penicillin</b> combination would be excessive and unnecessary for a single small lesion. This combination might be considered for more severe soft tissue infections where both staphylococcal and streptococcal coverage is essential.<br /><br />The key principles in managing impetigo are to use the most targeted therapy possible while avoiding unnecessary use of systemic antibiotics. This helps prevent antibiotic resistance and minimizes side effects.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Impetigo",
+        "body": "Impetigo is a superficial bacterial skin infection usually caused by either <i>Staphylcoccus aureus</i> or <i>Streptococcus pyogenes</i>. It can be a primary infection or a complication of an existing skin condition such as eczema (in this case), scabies or insect bites. Impetigo is common in children, particularly during warm weather.<br /><br />The infection can develop anywhere on the body but lesions tend to occur on the face, flexures and limbs not covered by clothing.<br /><br />Spread is by direct contact with discharges from the scabs of an infected person. The bacteria invade the skin through minor abrasions and then spread to other sites by scratching. Infection is spread mainly by the hands, but indirect spread via toys, clothing, equipment and the environment may occur. The incubation period is between 4 to 10 days.<br /><br /><span class=\"concept\" data-cid=\"11706\">Features</span><br /><ul><li>'golden', crusted skin lesions typically found around the mouth</li><li>very contagious</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd108b.jpg\" data-fancybox=\"gallery\" data-caption=\"Impetigo\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd108.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd109b.jpg\" data-fancybox=\"gallery\" data-caption=\"Impetigo\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd109.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd993b.jpg\" data-fancybox=\"gallery\" data-caption=\"Impetigo - note the typical golden crusted lesions on the chin\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd993.jpg\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management</h5><br />Limited, localised disease<br /><ul><li>NICE now recommend <b><span class=\"concept\" data-cid=\"10957\">hydrogen peroxide 1% cream</span></b> for 'people who are not systemically unwell or at a high risk of complications' <ul><li>the change was announced in 2020 by NICE and Public Health England and seems aimed at cutting antibiotic resistance</li><li>the evidence base shows it is just as effective at treating non-bullous impetigo as a topical antibiotic</li></ul></li><li>topical antibiotic creams:<ul><li><span class=\"concept\" data-cid=\"325\">topical fusidic acid</span></li><li>topical mupirocin should be used if fusidic acid resistance is suspected</li><li>MRSA is not susceptible to either fusidic acid or retapamulin. Topical mupirocin should, therefore, be used in this situation</li></ul></li></ul><br />Extensive disease<br /><ul><li>oral flucloxacillin </li><li>oral erythromycin if penicillin-allergic</li></ul><br />School exclusion<br /><ul><li><span class=\"concept\" data-cid=\"5093\">children should be excluded from school until the lesions are crusted and healed or 48 hours after commencing antibiotic treatment</span></li></ul>",
+        "notes_hash": "c17ba5c2908d3e74137176d26098793c",
+        "knowledge_graph_node_id_link": 11030,
+        "concept": "Impetigo - topical fusidic acid if hydrogen peroxide not suitable",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "7765",
+        "up_votes": "38",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "130",
+            "159",
+            "1185",
+            "48",
+            "6243",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wCxPy6BRC-g\" data-description=\"Impetigo\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"575\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wCxPy6BRC-g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wCxPy6BRC-g\" data-description=\"Impetigo\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"575\">Impetigo</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_984\" data-mediaid=\"984\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_984\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_984\" data-mediaid=\"984\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_984\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "325": {
+                "concept_text": "Impetigo - topical fusidic acid if hydrogen peroxide not suitable",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1410",
+        "new_question_id": "5450",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1863",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Dry mouth + urinary frequency",
+            "Hypertension + sweating",
+            "Gastrointestinal bleeding + dyspepsia",
+            "Headache + myoclonus",
+            "Blurred vision + dry mouth",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A patient you are looking after is started on imipramine for depression. Which combination of side-effects is most likely to be seen in a patient taking this class of antidepressants?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>blurred vision + dry mouth</b>. Tricyclic antidepressants (TCAs) like imipramine have strong anticholinergic effects due to their antagonism of muscarinic receptors. This anticholinergic activity leads to several characteristic side effects, with dry mouth (xerostomia) and blurred vision being amongst the most common. The blurred vision occurs due to paralysis of accommodation in the eye, whilst the dry mouth is due to reduced saliva production. These effects are predictable and commonly seen together in patients taking TCAs.<br /><br /><b>Dry mouth + urinary frequency</b> is incorrect because whilst dry mouth is a typical anticholinergic side effect of TCAs, urinary frequency is not. In fact, TCAs typically cause urinary retention rather than frequency due to their anticholinergic effects on the bladder.<br /><br /><b>Hypertension + sweating</b> is incorrect. While TCAs can cause sweating as a side effect due to their effects on noradrenergic transmission, they typically cause postural hypotension rather than hypertension due to their alpha-1 adrenergic blocking properties.<br /><br /><b>Gastrointestinal bleeding + dyspepsia</b> is incorrect. These side effects are more commonly associated with selective serotonin reuptake inhibitors (SSRIs) due to their effects on platelet function and gastric acid secretion. TCAs are not particularly associated with these adverse effects.<br /><br /><b>Headache + myoclonus</b> is incorrect. While headaches can occur with TCAs, myoclonus is more commonly associated with SSRIs and serotonin syndrome. These symptoms are not typically seen together as characteristic side effects of TCAs.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A patient you are looking after is started on imipramine for depression. Which combination of side-effects is most likely to be seen in a patient taking this class of antidepressants?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>blurred vision + dry mouth</b>. Tricyclic antidepressants (TCAs) like imipramine have strong anticholinergic effects due to their antagonism of muscarinic receptors. This anticholinergic activity leads to several characteristic side effects, with dry mouth (xerostomia) and blurred vision being amongst the most common. The blurred vision occurs due to paralysis of accommodation in the eye, whilst the dry mouth is due to reduced saliva production. These effects are predictable and commonly seen together in patients taking TCAs.<br /><br /><b>Dry mouth + urinary frequency</b> is incorrect because whilst dry mouth is a typical anticholinergic side effect of TCAs, urinary frequency is not. In fact, TCAs typically cause urinary retention rather than frequency due to their anticholinergic effects on the bladder.<br /><br /><b>Hypertension + sweating</b> is incorrect. While TCAs can cause sweating as a side effect due to their effects on noradrenergic transmission, they typically cause postural hypotension rather than hypertension due to their alpha-1 adrenergic blocking properties.<br /><br /><b>Gastrointestinal bleeding + dyspepsia</b> is incorrect. These side effects are more commonly associated with selective serotonin reuptake inhibitors (SSRIs) due to their effects on platelet function and gastric acid secretion. TCAs are not particularly associated with these adverse effects.<br /><br /><b>Headache + myoclonus</b> is incorrect. While headaches can occur with TCAs, myoclonus is more commonly associated with SSRIs and serotonin syndrome. These symptoms are not typically seen together as characteristic side effects of TCAs.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Tricyclic antidepressants",
+        "body": "Tricyclic antidepressants (TCAs) are used less commonly now for depression due to their side-effects and <span class=\"concept\" data-cid=\"4802\">toxicity in overdose</span>. They are however used widely in the treatment of neuropathic pain, where smaller doses are typically required.<br /><br />The primary mechanism by which TCAs exert their antidepressant effects is through the <span class=\"concept\" data-cid=\"12095\">inhibition of the reuptake of neurotransmitters</span><br /><ul><li>Serotonin (5-HT): This neurotransmitter has a pivotal role in mood regulation. Inhibition of its reuptake leads to increased concentrations in the synaptic cleft, enhancing serotonergic neurotransmission.</li><li>Noradrenaline (NA): Similar to 5-HT, blocking the reuptake of NA increases its synaptic cleft concentration, intensifying noradrenergic neurotransmission.</li></ul><br />As well as 5-HT and NA, tricyclics interact with number of other receptors that contribute to their side-effect profile:<br /><ul><li>antagonism of histamine receptors<ul><li><span class=\"concept\" data-cid=\"8150\">drowsiness</span></li></ul></li><li>antagonism of muscarinic receptors<ul><li><span class=\"concept\" data-cid=\"8151\">dry mouth</span></li><li><span class=\"concept\" data-cid=\"8152\">blurred vision</span></li><li><span class=\"concept\" data-cid=\"8153\">constipation</span></li><li><span class=\"concept\" data-cid=\"8154\">urinary retention</span></li></ul></li><li>antagonism of adrenergic receptors<ul><li>postural hypotension</li></ul></li><li><span class=\"concept\" data-cid=\"8155\">lengthening of QT interval</span></li></ul><br />Choice of tricyclic<br /><ul><li>low-dose amitriptyline is commonly used in the management of neuropathic pain and the prophylaxis of headache (both tension and migraine)</li><li><span class=\"concept\" data-cid=\"469\">lofepramine has a lower incidence of toxicity in overdose</span></li><li>amitriptyline and <span class=\"concept\" data-cid=\"468\">dosulepin</span> (dothiepin) are considered the most dangerous in overdose</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>More sedative</b></th><th><b>Less sedative</b></th></tr></thead><tbody><tr><td>Amitriptyline<br />Clomipramine<br />Dosulepin<br />Trazodone*</td><td>Imipramine<br />Lofepramine<br />Nortriptyline</td></tr></tbody></table></div><br />*trazodone is technically a 'tricyclic-related antidepressant'",
+        "notes_hash": "2d8d597667442b3d24a3e7579bbe754c",
+        "knowledge_graph_node_id_link": 10799,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5334",
+        "up_votes": "39",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "1508",
+            "208",
+            "502",
+            "166",
+            "2950",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T25jvLC6X0w\" data-description=\"Antidepressants\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"631\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/T25jvLC6X0w/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/T25jvLC6X0w\" data-description=\"Antidepressants\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"631\">Antidepressants</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1084\" data-mediaid=\"1084\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1084\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1084\" data-mediaid=\"1084\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1084\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4X5nqkEBmTo\" data-description=\"Antidepressants Pharmacology\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"313\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4X5nqkEBmTo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4X5nqkEBmTo\" data-description=\"Antidepressants Pharmacology\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"313\">Antidepressants Pharmacology</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_532\" data-mediaid=\"532\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_532\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_532\" data-mediaid=\"532\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_532\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "4802": {
+                "concept_text": "Tricyclic antidepressants are dangerous in overdose therefore used less commonly now for depression",
+                "concept_percentile": "51"
+            },
+            "8150": {
+                "concept_text": "Tricyclic antidepressants may cause lethargy/drowsiness",
+                "concept_percentile": "21"
+            },
+            "8151": {
+                "concept_text": "Tricyclic antidepressants may cause dry mouth",
+                "concept_percentile": "27"
+            },
+            "8152": {
+                "concept_text": "Tricyclic antidepressants may cause blurred vision",
+                "concept_percentile": "16"
+            },
+            "8153": {
+                "concept_text": "Tricyclic antidepressants may cause constipation",
+                "concept_percentile": "24"
+            },
+            "8154": {
+                "concept_text": "Tricyclic antidepressants may cause urinary retention, particularly in patients with BPH",
+                "concept_percentile": "41"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1783",
+        "new_question_id": "3595",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "6103",
+        "notes_id_link": "1_1611",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Epley manoeuvre",
+            "Tilt table test",
+            "Tympanometry",
+            "MRI of the cerebellopontine angle",
+            "Dix-Hallpike manoeuvre",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 59-year-old man presents with recurrent attacks of vertigo and dizziness. These attacks are often precipitated by a change in head position and typically last around half a minute. Examination of the cranial nerves and ears is unremarkable. His blood pressure is 120/78 mmHg sitting and 116/76 mmHg standing. Given the likely diagnosis of benign paroxysmal positional vertigo, what is the most appropriate next step to help confirm the diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has classical symptoms of benign paroxysmal positional vertigo. A positive Dix-Hallpike manoeuvre is an appropriate next step and would help support the diagnosis.<br /><br />The change in blood pressure on standing is not significant.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 59-year-old man presents with recurrent attacks of vertigo and dizziness. These attacks are often precipitated by a change in head position and typically last around half a minute. Examination of the cranial nerves and ears is unremarkable. His blood pressure is 120/78 mmHg sitting and 116/76 mmHg standing. Given the likely diagnosis of benign paroxysmal positional vertigo, what is the most appropriate next step to help confirm the diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This patient has classical symptoms of benign paroxysmal positional vertigo. A positive Dix-Hallpike manoeuvre is an appropriate next step and would help support the diagnosis.<br /><br />The change in blood pressure on standing is not significant.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Benign paroxysmal positional vertigo",
+        "body": "Benign paroxysmal positional vertigo (BPPV) is one of the <span class=\"concept\" data-cid=\"1577\">most common causes</span> of vertigo encountered. It is characterised by the sudden onset of dizziness and vertigo triggered by changes in head position. The average age of onset is 55 years and it is less common in younger patients.<br /><br /><span class=\"concept\" data-cid=\"11830\">Features</span><br /><ul><li>vertigo triggered by change in head position (e.g. rolling over in bed or gazing upwards)</li><li>may be associated with nausea</li><li>each episode typically lasts 10-20 seconds</li><li><span class=\"concept\" data-cid=\"6103\">positive Dix-Hallpike manoeuvre</span><ul><li><span class=\"concept\" data-cid=\"4713\">rapidly lower the patient to the supine position with an extended neck</span></li><li>a positive test recreates the symptoms of benign paroxysmal positional vertigo </li><li><span class=\"concept\" data-cid=\"11373\">rotatory nystagmus</span></li></ul></li></ul><br />BPPV has a good prognosis and usually resolves spontaneously after a few weeks to months. Symptomatic relief may be gained by:<br /><ul><li><span class=\"concept\" data-cid=\"12116\"><b>Epley manoeuvre</b></span> (<span class=\"concept\" data-cid=\"1581\">successful in around 80% of cases</span>)</li><li>teaching the patient exercises they can do themselves at home, termed vestibular rehabilitation, for example <span class=\"concept\" data-cid=\"1580\">Brandt-Daroff exercises</span> </li></ul><br />Medication is often prescribed (e.g. Betahistine) but it tends to be of limited value.<br /><br />Around half of people with BPPV will have a <span class=\"concept\" data-cid=\"1579\">recurrence</span> of symptoms 3-5 years after their diagnosis",
+        "notes_hash": "8d73e8c1fb112ab25cfb3d4159ac14b0",
+        "knowledge_graph_node_id_link": 1170,
+        "concept": "BPPV: Dix-Hallpike manoeuvre is diagnostic",
+        "concept_percentile": "44",
+        "concept_colour": "rgb(255,224,0)",
+        "number_attempts": "7305",
+        "up_votes": "33",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "1120",
+            "76",
+            "9",
+            "17",
+            "6083",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/59EIKztATiw\" data-description=\"Hallpike Test and Epley Maneuver\" data-upvotes=\"28\" data-downvotes=\"6\" data-media=\"447\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/59EIKztATiw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/59EIKztATiw\" data-description=\"Hallpike Test and Epley Maneuver\" data-upvotes=\"28\" data-downvotes=\"6\" data-media=\"447\">Hallpike Test and Epley Maneuver</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_778\" data-mediaid=\"778\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_778\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"media_dislike_778\" data-mediaid=\"778\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_778\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4713": {
+                "concept_text": "Dix-Hallpike test: rapidly lower a patient to the supine positionwith an extended neck. A positive test recreates the symptoms of benign paroxysmal positional vertigo",
+                "concept_percentile": "36"
+            },
+            "6103": {
+                "concept_text": "BPPV: Dix-Hallpike manoeuvre is diagnostic",
+                "concept_percentile": "44"
+            },
+            "11830": {
+                "concept_text": "Typical BPPV history: \n   - vertigo triggered by change in head position (e.g. rolling over in bed or gazing upwards)\n   - may be associated with nausea\n   - each episode typically lasts 10-20 seconds",
+                "concept_percentile": "22"
+            },
+            "12116": {
+                "concept_text": "The Epley manoeuvre is the treatment of choice for BPPV",
+                "concept_percentile": "20"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_213",
+        "new_question_id": "7898",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "6090",
+        "notes_id_link": "1_314",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Starting fluoxetine for depression",
+            "The formation of lupus anticoagulant autoantibodies",
+            "Giving up smoking",
+            "Recent rifampicin as she was a contact of a patient with meningococcal meningitis",
+            "A course of ciprofloxacin for a urinary tract infection",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman with a history of recurrent deep vein thrombosis secondary to antiphospholipid syndrome presents for review. She has taken warfarin for the past 7 years, with a target INR of 2.0 - 3.0. Her control is normally very good but her last reading was 1.2. Which one of the following would explain her current INR?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is <b>recent rifampicin as she was a contact of a patient with meningococcal meningitis</b>. Rifampicin is a potent inducer of the cytochrome P450 enzyme system, which is responsible for the metabolism of warfarin. This induction leads to an increased clearance of warfarin and thus, a decreased INR. In this scenario, the patient's INR has dropped below the therapeutic range due to her recent use of rifampicin.<br /><br /><b>Starting fluoxetine for depression</b> would not typically cause a decrease in INR. Fluoxetine is an SSRI antidepressant that can interact with warfarin, but it usually causes an increase in INR rather than a decrease because it inhibits the metabolism of warfarin through the cytochrome P450 enzyme system.<br /><br /><b>The formation of lupus anticoagulant autoantibodies</b> could lead to an elevated risk of thrombotic events but would not directly impact the INR value. Lupus anticoagulant autoantibodies interfere with phospholipid-dependent coagulation tests, such as activated partial thromboplastin time (aPTT), but they do not affect prothrombin time or INR.<br /><br /><b>Giving up smoking</b> may have some effect on drug metabolism through changes in hepatic enzymes; however, these effects are generally minor and would not be expected to cause such a significant drop in INR. The impact of smoking cessation on warfarin pharmacokinetics is variable and inconsistent.<br /><br />Lastly, <b>a course of ciprofloxacin for a urinary tract infection</b> might have some interaction with warfarin, but it would more likely lead to an increase in INR rather than a decrease. Ciprofloxacin is a fluoroquinolone antibiotic that can inhibit the metabolism of warfarin, leading to increased levels of warfarin and a higher INR. This interaction is less potent compared to other fluoroquinolones like levofloxacin.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman with a history of recurrent deep vein thrombosis secondary to antiphospholipid syndrome presents for review. She has taken warfarin for the past 7 years, with a target INR of 2.0 - 3.0. Her control is normally very good but her last reading was 1.2. Which one of the following would explain her current INR?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer in this case is <b>recent rifampicin as she was a contact of a patient with meningococcal meningitis</b>. Rifampicin is a potent inducer of the cytochrome P450 enzyme system, which is responsible for the metabolism of warfarin. This induction leads to an increased clearance of warfarin and thus, a decreased INR. In this scenario, the patient's INR has dropped below the therapeutic range due to her recent use of rifampicin.<br /><br /><b>Starting fluoxetine for depression</b> would not typically cause a decrease in INR. Fluoxetine is an SSRI antidepressant that can interact with warfarin, but it usually causes an increase in INR rather than a decrease because it inhibits the metabolism of warfarin through the cytochrome P450 enzyme system.<br /><br /><b>The formation of lupus anticoagulant autoantibodies</b> could lead to an elevated risk of thrombotic events but would not directly impact the INR value. Lupus anticoagulant autoantibodies interfere with phospholipid-dependent coagulation tests, such as activated partial thromboplastin time (aPTT), but they do not affect prothrombin time or INR.<br /><br /><b>Giving up smoking</b> may have some effect on drug metabolism through changes in hepatic enzymes; however, these effects are generally minor and would not be expected to cause such a significant drop in INR. The impact of smoking cessation on warfarin pharmacokinetics is variable and inconsistent.<br /><br />Lastly, <b>a course of ciprofloxacin for a urinary tract infection</b> might have some interaction with warfarin, but it would more likely lead to an increase in INR rather than a decrease. Ciprofloxacin is a fluoroquinolone antibiotic that can inhibit the metabolism of warfarin, leading to increased levels of warfarin and a higher INR. This interaction is less potent compared to other fluoroquinolones like levofloxacin.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "P450 enzyme system",
+        "body": "Induction usually requires prolonged exposure to the inducing drug, as opposed to P450 inhibitors, where effects are often seen rapidly<br /><br />Inducers of the P450 system include<br /><ul><li>antiepileptics: <span class=\"concept\" data-cid=\"5034\">phenytoin</span>, <span class=\"concept\" data-cid=\"6088\">carbamazepine</span></li><li>barbiturates: <span class=\"concept\" data-cid=\"6089\">phenobarbitone</span></li><li><span class=\"concept\" data-cid=\"6090\">rifampicin</span></li><li><span class=\"concept\" data-cid=\"1708\">St John's Wort</span></li><li><span class=\"concept\" data-cid=\"6091\">chronic alcohol intake</span></li><li>griseofulvin</li><li><span class=\"concept\" data-cid=\"6092\">smoking</span> (affects CYP1A2, reason why smokers require more aminophylline)</li></ul><br />Inhibitors of the P450 system include<br /><ul><li>antibiotics: <span class=\"concept\" data-cid=\"6093\">ciprofloxacin</span>, <span class=\"concept\" data-cid=\"5560\">erythromycin</span></li><li><span class=\"concept\" data-cid=\"635\">isoniazid</span></li><li><span class=\"concept\" data-cid=\"6094\">cimetidine</span>,<span class=\"concept\" data-cid=\"6095\">omeprazole</span></li><li><span class=\"concept\" data-cid=\"6096\">amiodarone</span></li><li><span class=\"concept\" data-cid=\"6097\">allopurinol</span></li><li>imidazoles: <span class=\"concept\" data-cid=\"6098\">ketoconazole, fluconazole</span></li><li>SSRIs: <span class=\"concept\" data-cid=\"6099\">fluoxetine</span>, <span class=\"concept\" data-cid=\"6100\">sertraline</span></li><li><span class=\"concept\" data-cid=\"6101\">ritonavir</span></li><li><span class=\"concept\" data-cid=\"1331\">sodium valproate</span></li><li><span class=\"concept\" data-cid=\"6102\">acute alcohol intake</span></li><li>quinupristin</li></ul>",
+        "notes_hash": "3b0eeac0f6274669ce48b312627a2997",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Rifampicin is a P450 enzyme inductor",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "3954",
+        "up_votes": "19",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "276",
+            "141",
+            "635",
+            "2153",
+            "749",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OhIopfQm9_w\" data-description=\"P450 Enzyme System (Inducers, Inhibitors, & Subtypes)\" data-upvotes=\"25\" data-downvotes=\"0\" data-media=\"1179\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OhIopfQm9_w/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OhIopfQm9_w\" data-description=\"P450 Enzyme System (Inducers, Inhibitors, & Subtypes)\" data-upvotes=\"25\" data-downvotes=\"0\" data-media=\"1179\">P450 Enzyme System (Inducers, Inhibitors, & Subtypes)</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2035\" data-mediaid=\"2035\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2035\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"media_dislike_2035\" data-mediaid=\"2035\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2035\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "635": {
+                "concept_text": "Isoniazid <b>inhibits</b> the P450 system",
+                "concept_percentile": "36"
+            },
+            "1331": {
+                "concept_text": "Sodium valproate is an P450 inhibitor",
+                "concept_percentile": "28"
+            },
+            "1708": {
+                "concept_text": "St John's Wort is an enzyme inducer and can reduce the effectiveness of the combined oral contraceptive pill",
+                "concept_percentile": "42"
+            },
+            "5034": {
+                "concept_text": "Phenytoin is a P450 enzyme inducer",
+                "concept_percentile": "16"
+            },
+            "5560": {
+                "concept_text": "Macrolide antibiotics are potent inhibitors of cytochrome P450 enzymes and may elevate the INR if co-prescribed with warfarin",
+                "concept_percentile": "17"
+            },
+            "6088": {
+                "concept_text": "Carbamazepine is a P450 enzyme inductor",
+                "concept_percentile": "47"
+            },
+            "6089": {
+                "concept_text": "Phenobarbitone is a P450 enzyme inductor",
+                "concept_percentile": "15"
+            },
+            "6090": {
+                "concept_text": "Rifampicin is a P450 enzyme inductor",
+                "concept_percentile": "51"
+            },
+            "6091": {
+                "concept_text": "Chronic alcohol intake is a P450 enzyme inductor",
+                "concept_percentile": "26"
+            },
+            "6092": {
+                "concept_text": "Smoking is a P450 enzyme inductor",
+                "concept_percentile": "14"
+            },
+            "6093": {
+                "concept_text": "Ciprofloxacin is a P450 enzyme inhibitor",
+                "concept_percentile": "19"
+            },
+            "6094": {
+                "concept_text": "Cimetidine is a P450 enzyme inhibitor",
+                "concept_percentile": "1"
+            },
+            "6095": {
+                "concept_text": "Omeprazole is a P450 enzyme inhibitor",
+                "concept_percentile": "4"
+            },
+            "6096": {
+                "concept_text": "Amiodarone is a P450 enzyme inhibitor",
+                "concept_percentile": "19"
+            },
+            "6097": {
+                "concept_text": "Allopurinol is a P450 enzyme inhibitor",
+                "concept_percentile": "6"
+            },
+            "6098": {
+                "concept_text": "Fluconazole/ketoconazole are P450 enzyme inhibitors",
+                "concept_percentile": "5"
+            },
+            "6099": {
+                "concept_text": "Fluoxetine is a P450 enzyme inhibitor",
+                "concept_percentile": "4"
+            },
+            "6100": {
+                "concept_text": "Sertraline is a P450 enzyme inhibitor",
+                "concept_percentile": "14"
+            },
+            "6101": {
+                "concept_text": "Ritonavir is a P450 enzyme inhibitor",
+                "concept_percentile": "5"
+            },
+            "6102": {
+                "concept_text": "Acute alcohol intake is a P450 enzyme inhibitor",
+                "concept_percentile": "20"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_770",
+        "new_question_id": "8013",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "640",
+        "notes_id_link": "1_329",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Weight loss if obese",
+            "Diet rich in omega-3 fatty acids",
+            "Stop smoking",
+            "Reduce alcohol intake",
+            "Regular exercise",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old woman presents for review. She has recently been diagnosed with dry age-related macular degeneration. What is the most effective intervention to slow the progression of this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Having a balanced diet, with plenty of fresh fruits and vegetables may also slow the progression of macular degeneration. There is still ongoing research looking at the role of supplementary antioxidants",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old woman presents for review. She has recently been diagnosed with dry age-related macular degeneration. What is the most effective intervention to slow the progression of this condition?",
+        "correct_answer": "3",
+        "question_notes": "Having a balanced diet, with plenty of fresh fruits and vegetables may also slow the progression of macular degeneration. There is still ongoing research looking at the role of supplementary antioxidants",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Age-related macular degeneration",
+        "body": "Age-related macular degeneration is the most common cause of blindness in the UK. Degeneration of the central retina (macula) is the key feature with changes usually bilateral. ARMD is characterised by degeneration of retinal photoreceptors that results in the formation of drusen which can be seen on fundoscopy and retinal photography. It is more common with advancing age and is more common in females.<br /><br />Risk factors<br /><ul><li>advancing age itself is the greatest risk factor for ARMD<ul><li>the risk of ARMD increases 3 fold for patients aged older than 75 years, versus those aged 65-74.</li></ul></li><li><span class=\"concept\" data-cid=\"640\">smoking</span><ul><li>current smokers are twice as likely as non-smokers to have ARMD related visual loss, and ex-smokers have a slightly increased risk of developing the condition, (OR 1.13). </li></ul></li><li>family history is also a strong risk factor for developing ARMD<ul><li>first degree relatives of a sufferer of ARMD are thought to be four times more likely to inherit the condition.</li></ul></li><li>other risk factors for developing the condition include those associated with an increased risk of ischaemic cardiovascular disease, such as hypertension, dyslipidaemia and diabetes mellitus. </li></ul><br /><br /><h5 class='notes-heading'>Classification</h5><br />Traditionally two forms of macular degeneration are seen:<br /><ul><li>dry macular degeneration<ul><li>90% of cases</li><li>also known as atrophic</li><li>characterised by <span class=\"concept\" data-cid=\"639\">drusen</span>  - yellow round spots in Bruch's membrane</li></ul></li><li>wet macular degeneration<ul><li>10% of cases</li><li>also known as exudative or neovascular macular degeneration</li><li>characterised by <span class=\"concept\" data-cid=\"11900\">choroidal neovascularisation</span></li><li>leakage of serous fluid and blood can subsequently result in a rapid loss of vision</li><li>carries the worst prognosis</li></ul></li></ul><br />Recently there has been a move to a more updated classification:<br /><ul><li>early age-related macular degeneration (non-exudative, age-related maculopathy): drusen and alterations to the retinal pigment epithelium (RPE)</li><li>late age-related macular degeneration (neovascularisation, exudative)</li></ul><br /><h5 class='notes-heading'>Clinical features</h5><br />Patients typically present with a subacute onset of visual loss with:<br /><ul><li>a reduction in visual acuity, particularly for near field objects<ul><li>gradual in dry ARMD </li><li>subacute in wet ARMD</li></ul></li><li><span class=\"concept\" data-cid=\"12500\">worse in the centre of vision</span> (e.g. difficulty reading, recognising faces, driving)</li><li>difficulties in dark adaptation with an overall deterioration in vision at night</li><li>fluctuations in visual disturbance which may vary significantly from day to day</li><li>they may also suffer from photopsia, (a perception of flickering or flashing lights), and glare around objects</li><li>visual hallucinations may also occur resulting in Charles-Bonnet syndrome</li></ul><br />Signs:<br /><ul><li>distortion of line perception may be noted on <span class=\"concept\" data-cid=\"11392\">Amsler grid testing</span></li><li>fundoscopy reveals the presence of drusen, yellow areas of pigment deposition in the macular area, which may become confluent in late disease to form a macular scar.</li><li>in wet ARMD well demarcated red patches may be seen which represent intra-retinal or sub-retinal fluid leakage or haemorrhage. </li></ul>   <br />Investigations:<br /><ul><li>slit-lamp microscopy is the initial investigation of choice, to identify any pigmentary, exudative or haemorrhagic changes affecting the retina which may identify the presence of ARMD. This is usually accompanied by colour fundus photography to provide a baseline against which changes can be identified over time.</li><li>fluorescein angiography is utilised if neovascular ARMD is suspected, as this can guide intervention with anti-VEGF therapy. This may be complemented with indocyanine green angiography to visualise any changes in the choroidal circulation. </li><li>optical coherence tomography is used to visualise the retina in three dimensions because it can reveal areas of disease which aren't visible using microscopy alone. </li></ul><br /><h5 class='notes-heading'>Management</h5><br />Treatment<br /><ul><li>the AREDS trial examined the treatment of dry ARMD in 3640 subjects. It showed that a combination of zinc with anti-oxidant vitamins A,C and E reduced progression of the disease by around one third. Patients with more extensive drusen seemed to benefit most from the intervention. Treatment is therefore recommended in patients with at least moderate category dry ARMD. </li><li><span class=\"concept\" data-cid=\"4069\">vascular endothelial growth factor (VEGF)</span> <ul><li>VEGR is a potent mitogen and drives increased vascular permeability in patients with wet ARMD</li><li>a number of trials have shown that use of anti-VEGF agents can limit progression of wet ARMD and stabilise or reverse visual loss</li><li>evidence suggests that they should be instituted within the first two months of diagnosis of wet ARMD if possible</li><li>examples of anti-VEGF agents include ranibizumab, <span class=\"concept\" data-cid=\"11448\">bevacizumab</span> and pegaptanib,. The agents are usually administered by 4 weekly injection. </li></ul></li><li>laser photocoagulation does slow progression of ARMD where there is new vessel formation, although there is a risk of acute visual loss after treatment, which may be increased in patients with sub-foveal ARMD. For this reason anti-VEGF therapies are usually preferred.</li></ul>",
+        "notes_hash": "09af800e13bb1ef3f1990b7d53bc66af",
+        "knowledge_graph_node_id_link": 1286,
+        "concept": "Macular degeneration - smoking is risk factor",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "5182",
+        "up_votes": "29",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "78",
+            "1190",
+            "3829",
+            "46",
+            "39",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Webvision</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_410\" data-linkid=\"410\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_410\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">42</span><button type=\"button\" style=\"\" id=\"link_dislike_410\" data-linkid=\"410\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_410\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">42</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://webvision.med.utah.edu/book/part-xii-cell-biology-of-retinal-degenerations/age-related-macular-degeneration-amd/\">Age related macular degeneration fundoscopy findings</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "639": {
+                "concept_text": "<b>D</b>rusen = <b>D</b>ry macular degeneration",
+                "concept_percentile": "67"
+            },
+            "640": {
+                "concept_text": "Macular degeneration - smoking is risk factor",
+                "concept_percentile": "80"
+            },
+            "11392": {
+                "concept_text": "Amsler grid testing (to check for distortion of line perception) may be useful in testing patients with suspected age related macular degeneration",
+                "concept_percentile": "85"
+            },
+            "12500": {
+                "concept_text": "Elderly patient, gradual, central visual loss --> age-related macular degeneration",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]
