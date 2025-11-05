@@ -1,0 +1,888 @@
+[
+    {
+        "question_id": "999_B_1423",
+        "new_question_id": "59601",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "9390",
+        "notes_id_link": "1_161",
+        "theme": "Interpretation of hepatitis B serology showing previous infection",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute hepatitis B infection",
+            "Chronic hepatitis B infection",
+            "Previous hepatitis B infection",
+            "Hepatitis B vaccination",
+            "False positive result",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man presents to his GP with fatigue and jaundice. He emigrated from Vietnam 10 years ago. He has no significant past medical history and takes no regular medications. On examination, he is jaundiced with no hepatomegaly. Blood tests are requested.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>ALT</td><td>38 U/L</td><td>(5-40)</td></tr><tr><td>Bilirubin</td><td>32 \u03bcmol/L</td><td>(3-20)</td></tr><tr><td>HBsAg</td><td>Negative</td><td></td></tr><tr><td>Anti-HBs</td><td>Positive</td><td></td></tr><tr><td>IgG Anti-HBc</td><td>Positive</td><td></td></tr><tr><td>IgM Anti-HBc</td><td>Negative</td><td></td></tr></tbody></table></div><br />What is the most likely interpretation of his hepatitis B serology?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Previous hepatitis B infection</b> is the correct interpretation of this serological pattern. The combination of negative HBsAg, positive anti-HBs, and positive IgG anti-HBc indicates that the patient has been infected with hepatitis B virus in the past, has cleared the infection, and now has immunity. The negative IgM anti-HBc confirms that this is not a recent infection. This pattern is common in individuals from regions with high hepatitis B prevalence, such as Vietnam, where the patient originated. The mild jaundice and slightly elevated bilirubin are likely due to another cause, as his ALT is normal, suggesting the hepatitis B infection is not active or contributing to his current presentation.<br /><br /><b>Acute hepatitis B infection</b> would typically present with positive HBsAg, negative anti-HBs, positive IgM anti-HBc, and often positive IgG anti-HBc. The presence of HBsAg indicates ongoing viral replication, while positive IgM anti-HBc is a marker of recent infection. This patient's negative HBsAg and negative IgM anti-HBc rule out acute infection.<br /><br /><b>Chronic hepatitis B infection</b> would be characterized by persistent positive HBsAg for more than 6 months, usually negative anti-HBs (as the immune system has failed to clear the virus), and positive IgG anti-HBc. This patient has negative HBsAg and positive anti-HBs, which excludes chronic infection.<br /><br /><b>Hepatitis B vaccination</b> would result in positive anti-HBs only, with negative results for all other markers including IgG anti-HBc. The presence of IgG anti-HBc in this patient indicates natural infection rather than vaccination-induced immunity.<br /><br /><b>False positive result</b> is unlikely given the consistent pattern of serological markers. The combination of negative HBsAg, positive anti-HBs, and positive IgG anti-HBc forms a recognized pattern indicating previous infection with immunity. This pattern is too specific to be explained by false positive results across multiple tests.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man presents to his GP with fatigue and jaundice. He emigrated from Vietnam 10 years ago. He has no significant past medical history and takes no regular medications. On examination, he is jaundiced with no hepatomegaly. Blood tests are requested.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>ALT</td><td>38 U/L</td><td>(5-40)</td></tr><tr><td>Bilirubin</td><td>32 \u03bcmol/L</td><td>(3-20)</td></tr><tr><td>HBsAg</td><td>Negative</td><td></td></tr><tr><td>Anti-HBs</td><td>Positive</td><td></td></tr><tr><td>IgG Anti-HBc</td><td>Positive</td><td></td></tr><tr><td>IgM Anti-HBc</td><td>Negative</td><td></td></tr></tbody></table></div><br />What is the most likely interpretation of his hepatitis B serology?",
+        "correct_answer": "3",
+        "question_notes": "<b>Previous hepatitis B infection</b> is the correct interpretation of this serological pattern. The combination of negative HBsAg, positive anti-HBs, and positive IgG anti-HBc indicates that the patient has been infected with hepatitis B virus in the past, has cleared the infection, and now has immunity. The negative IgM anti-HBc confirms that this is not a recent infection. This pattern is common in individuals from regions with high hepatitis B prevalence, such as Vietnam, where the patient originated. The mild jaundice and slightly elevated bilirubin are likely due to another cause, as his ALT is normal, suggesting the hepatitis B infection is not active or contributing to his current presentation.<br /><br /><b>Acute hepatitis B infection</b> would typically present with positive HBsAg, negative anti-HBs, positive IgM anti-HBc, and often positive IgG anti-HBc. The presence of HBsAg indicates ongoing viral replication, while positive IgM anti-HBc is a marker of recent infection. This patient's negative HBsAg and negative IgM anti-HBc rule out acute infection.<br /><br /><b>Chronic hepatitis B infection</b> would be characterized by persistent positive HBsAg for more than 6 months, usually negative anti-HBs (as the immune system has failed to clear the virus), and positive IgG anti-HBc. This patient has negative HBsAg and positive anti-HBs, which excludes chronic infection.<br /><br /><b>Hepatitis B vaccination</b> would result in positive anti-HBs only, with negative results for all other markers including IgG anti-HBc. The presence of IgG anti-HBc in this patient indicates natural infection rather than vaccination-induced immunity.<br /><br /><b>False positive result</b> is unlikely given the consistent pattern of serological markers. The combination of negative HBsAg, positive anti-HBs, and positive IgG anti-HBc forms a recognized pattern indicating previous infection with immunity. This pattern is too specific to be explained by false positive results across multiple tests.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hepatitis B serology",
+        "body": "Interpreting hepatitis B serology is a dying art form which still occurs at regular intervals in medical exams. It is important to remember a few key facts:<br /><ul><li>surface antigen (HBsAg) is the first marker to appear and causes the production of anti-HBs</li><li><span class=\"concept\" data-cid=\"9391\">HBsAg normally implies acute disease (present for 1-6 months)</span></li><li>if HBsAg is present for > 6 months then this implies <span class=\"concept\" data-cid=\"8311\">chronic disease</span> (i.e. Infective)</li><li>Anti-HBs implies immunity (either exposure or immunisation). It is negative in chronic disease</li><li>Anti-HBc implies previous (or current) infection. IgM anti-HBc appears during acute or recent hepatitis B infection and is present for about 6 months. IgG anti-HBc persists</li><li>HbeAg results from breakdown of core antigen from infected liver cells as is, therefore, a marker of infectivity. Marker of HBV replication and infectivity</li></ul><br />Example results<br /><ul><li><span class=\"concept\" data-cid=\"9389\">previous immunisation: anti-HBs positive, all others negative</span></li><li><span class=\"concept\" data-cid=\"9390\">previous hepatitis B (> 6 months ago), not a carrier: anti-HBc positive, HBsAg negative</span></li><li>previous hepatitis B, now a carrier: anti-HBc positive, HBsAg positive</li></ul><br /><div class='alert alert-warning'>HBsAg = ongoing infection, either <span class=\"concept\" data-cid=\"9391\">acute</span> or <span class=\"concept\" data-cid=\"8311\">chronic</span> if present > 6 months<br /><br />anti-HB<b>c</b> = <b>c</b>aught, i.e. negative if immunized<br /></div>",
+        "notes_hash": "afc95bd0669ae1d4e5582976f757e05c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "HBsAg negative, anti-HBs positive, IgG anti-HBc positive - previous infection, not a carrier",
+        "concept_percentile": "46",
+        "concept_colour": "rgb(255,234,0)",
+        "number_attempts": "3618",
+        "up_votes": "4",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "126",
+            "1235",
+            "1943",
+            "295",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Centers for Disease Control and Prevention</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_526\" data-linkid=\"526\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_526\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_526\" data-linkid=\"526\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_526\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.cdc.gov/hepatitis/hbv/pdfs/serologicchartv8.pdf\">Interpretation of Hepatitis B Serologic Test Results</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sndUqE1QAKU\" data-description=\"Interpreting Hepatitis B Serology Made Easy\" data-upvotes=\"77\" data-downvotes=\"6\" data-media=\"430\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sndUqE1QAKU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sndUqE1QAKU\" data-description=\"Interpreting Hepatitis B Serology Made Easy\" data-upvotes=\"77\" data-downvotes=\"6\" data-media=\"430\">Interpreting Hepatitis B Serology Made Easy</a></td></tr><tr><td><span ><small>Medical StudyBuddy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_746\" data-mediaid=\"746\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_746\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">77</span><button type=\"button\" style=\"\" id=\"media_dislike_746\" data-mediaid=\"746\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_746\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/h_9EBVPADNE\" data-description=\"Understanding Hepatitis B Serology Results\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"772\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/h_9EBVPADNE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/h_9EBVPADNE\" data-description=\"Understanding Hepatitis B Serology Results\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"772\">Understanding Hepatitis B Serology Results</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1344\" data-mediaid=\"1344\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1344\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_1344\" data-mediaid=\"1344\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1344\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/B9j3VuiU-s8\" data-description=\"Viral hepatitis\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"3\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/B9j3VuiU-s8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/B9j3VuiU-s8\" data-description=\"Viral hepatitis\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"3\">Viral hepatitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_574\" data-mediaid=\"574\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_574\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_574\" data-mediaid=\"574\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_574\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OVXKQ-Hup7M\" data-description=\"Interpreting Hepatitis B serology\" data-upvotes=\"5\" data-downvotes=\"4\" data-media=\"514\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OVXKQ-Hup7M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OVXKQ-Hup7M\" data-description=\"Interpreting Hepatitis B serology\" data-upvotes=\"5\" data-downvotes=\"4\" data-media=\"514\">Interpreting Hepatitis B serology</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_894\" data-mediaid=\"894\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_894\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_894\" data-mediaid=\"894\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_894\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "8311": {
+                "concept_text": "Positive anti-HBc IgG, negative anti-HBc IgM and negative anti-HBc in the presence of HBsAg implies chronic HBV infection",
+                "concept_percentile": "40"
+            },
+            "9389": {
+                "concept_text": "HBsAg negative, anti-HBs positive, IgG anti-HBc negative - previous immunisation",
+                "concept_percentile": "42"
+            },
+            "9390": {
+                "concept_text": "HBsAg negative, anti-HBs positive, IgG anti-HBc positive - previous infection, not a carrier",
+                "concept_percentile": "46"
+            },
+            "9391": {
+                "concept_text": "HBsAg positive, anti-HBs negative, IgM anti-HBc positive - acute infection",
+                "concept_percentile": "35"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "30609_E_249",
+        "new_question_id": "57681",
+        "question_type": "1",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_610",
+        "theme": "Bleeding Disorders",
+        "instruction": "Consider the following patients presenting with various bleeding or coagulation disorders. Review the coagulation profiles and clinical details provided in the tables for each patient. Choose the most appropriate diagnosis from the list of options provided.",
+        "options": [
+            "",
+            "Antiphospholipid syndrome",
+            "Disseminated intravascular coagulation (DIC)",
+            "Factor V Leiden",
+            "Haemophilia A",
+            "Haemophilia B",
+            "Immune thrombocytopenic purpura (ITP)",
+            "Liver disease",
+            "Vitamin K deficiency",
+            "Von Willebrand disease",
+            "Warfarin therapy"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 15-year-old boy presents to the GP with frequent unexplained bruising and recurrent joint pain and swelling, especially after minor trauma. He has no significant family history of bleeding disorders. Blood tests reveal the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>aPTT</td><td>60 seconds</td><td>(normal: 25-35 seconds)</td></tr><tr><td>PT</td><td>12 seconds</td><td>(normal: 11-15 seconds)</td></tr><tr><td>Platelet count</td><td>250 \u00d7 10\u2079/L</td><td>(normal: 150-400 \u00d7 10\u2079/L)</td></tr><tr><td>Factor VIII level</td><td>5%</td><td>(normal: 50-150%)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "K 70-iokb-yvn gywkx zbocoxdc dy dro QZ gsdr xog-yxcod okci lbescsxq kxn bomebboxd xycolvoonc yfob dro zkcd dgy goouc. Cro rkc k rscdybi yp kdbskv pslbsvvkdsyx kxn sc cdklvo yx gkbpkbsx drobkzi. Cro gkc ryczsdkvscon pyb zxoewyxsk vkcd wyxdr kxn bomosfon k zbyvyxqon myebco yp sxdbkfoxyec kxdslsydsmc, sxmvensxq lbykn-czomdbew kqoxdc. Cro noxsoc kvmyryv eco kxn rkc xy tkexnsmo yb rozkdyczvoxywoqkvi.<lb /><lb />Lvyyn docdc bofokv dro pyvvygsxq:<lb /><lb /><nsf mvkcc=\"dklvo-boczyxcsfo\"><dklvo mvkcc = \"dl\" ><dlyni><db><dn>kZDD</dn><dn>36 comyxnc</dn><dn>(xybwkv: 25-35 comyxnc)</dn></db><db><dn> ZD</dn><dn>40 comyxnc</dn><dn>(xybwkv: 11-15 comyxnc)</dn></db><db><dn> SXB</dn><dn>5.2</dn><dn>(xybwkv: 0.8-1.2)</dn></db><db><dn> Zvkdovod myexd</dn><dn>190 \u00d7 10\u2079/V</dn><dn>(xybwkv: 150-400 \u00d7 10\u2079/V)</dn></db><db><dn> Pslbsxyqox</dn><dn>3.0 q/V</dn><dn>(xybwkv: 2.0-4.0 q/V)</dn></db></dlyni></dklvo></nsf>",
+            "K 30-iokb-yvn wkx zbocoxdc dy dro QZ gsdr okci lbescsxq kxn pboaeoxd xycolvoonc csxmo mrsvnryyn. Ro rkc xy csqxspsmkxd pkwsvi rscdybi kxn bozybdc lvoonsxq kpdob noxdkv zbymoneboc. <lb /><lb />Lvyyn docdc bofokv:<lb /><lb /><nsf mvkcc=\"dklvo-boczyxcsfo\"><dklvo mvkcc = \"dl\" ><dlyni><db><dn>kZDD</dn><dn>45 comyxnc (xybwkv: 25-35 comyxnc)</dn></db><db><dn>ZD</dn><dn>12 comyxnc (xybwkv: 11-15 comyxnc)</dn></db><db><dn>Zvkdovod pexmdsyx docd (bscdymodsx)</dn><dn>Swzksbon kqqboqkdsyx (xybwkv: Xybwkv kqqboqkdsyx)</dn></db><db><dn>Pkmdyb FSSS vofov</dn><dn>40% (xybwkv: 50-150%)</dn></db></dlyni></dklvo></nsf><lb />Grkd sc dro wycd vsuovi nskqxycsc?"
+        ],
+        "answers": [
+            "4",
+            "10",
+            "9"
+        ],
+        "notes": [
+            "<b>Haemophilia A</b> is correct because the combination of a prolonged aPTT, normal PT, normal platelet count, and low Factor VIII confirms a defect in the intrinsic pathway. The recurrent joint bleeds (haemarthroses) are a hallmark feature of moderate-to-severe Haemophilia A. The lack of family history does not exclude the diagnosis, as 30% of cases result from spontaneous mutations.<br /><br /><b>Von Willebrand disease</b> is incorrect because although it can cause prolonged aPTT and reduced Factor VIII, it primarily affects platelet function, leading to mucosal bleeding (e.g., epistaxis, menorrhagia, gingival bleeding) rather than joint bleeds.<br /><br /><b>Liver disease</b> is incorrect because it prolongs both PT and aPTT due to impaired synthesis of multiple clotting factors and is often associated with thrombocytopenia and abnormal liver function tests, which are not seen here.<br /><br /><b>Disseminated intravascular coagulation (DIC)</b> is incorrect because DIC typically presents with prolonged PT and aPTT, thrombocytopenia, and reduced fibrinogen, none of which are present in this patient.<br /><br /><b>Factor V Leiden</b> is incorrect because it is a prothrombotic disorder and does not cause prolonged clotting times or spontaneous bleeding.",
+            "<b>Warfarin therapy</b> is correct because the markedly elevated INR and prolonged PT strongly suggest excessive anticoagulation due to warfarin, especially given the recent antibiotic use. Warfarin interacts significantly with various antibiotics (such as clarithromycin), which inhibit hepatic enzymes, reducing warfarin metabolism and leading to elevated INR levels without any deliberate dose adjustment. Clinically, even stable warfarin doses can become dangerously anticoagulant after antibiotic exposure.<br /><br /><b>Vitamin K deficiency</b> is incorrect because although antibiotics can disrupt gut flora and vitamin K synthesis, this typically occurs in patients who are not already anticoagulated. The patient's use of warfarin and the marked INR elevation strongly suggest medication interaction rather than isolated vitamin K deficiency.<br /><br /><b>Disseminated intravascular coagulation (DIC)</b> is incorrect because DIC would typically also cause thrombocytopenia and decreased fibrinogen levels, neither of which is seen in this patient.",
+            "<b>Von Willebrand disease</b> is correct because the combination of prolonged aPTT, normal PT, impaired ristocetin-induced platelet aggregation, and a mildly reduced Factor VIII level is characteristic of von Willebrand disease (VWD). Von Willebrand factor (vWF) is essential for platelet adhesion and also stabilizes Factor VIII, explaining both the impaired platelet function and the reduced Factor VIII levels. The clinical features of easy bruising and frequent nosebleeds are typical for VWD, which primarily affects mucosal bleeding rather than deep joint bleeds.<br /><br /><b>Haemophilia A</b> is incorrect because while Haemophilia A can present with prolonged aPTT and reduced Factor VIII, it does not affect platelet function, and would not cause impaired ristocetin-induced aggregation. Additionally, haemophilia causes deep bleeding (e.g., haemarthroses) rather than mucosal bleeding.<br /><br /><b>Antiphospholipid syndrome (APS)</b> is incorrect because APS is a prothrombotic disorder, and while it can cause a prolonged aPTT due to lupus anticoagulant, it does not cause spontaneous bleeding or impaired platelet aggregation.<br /><br /><b>Liver disease</b> is incorrect because liver dysfunction affects both PT and aPTT and is associated with other signs of liver dysfunction (elevated liver enzymes, jaundice, hepatomegaly, splenomegaly), none of which are present in this case.<br /><br /><b>Disseminated intravascular coagulation (DIC)</b> is incorrect as DIC typically presents with prolonged PT and aPTT, thrombocytopenia, and decreased fibrinogen, which are not seen in this patient."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 15-year-old boy presents to the GP with frequent unexplained bruising and recurrent joint pain and swelling, especially after minor trauma. He has no significant family history of bleeding disorders. Blood tests reveal the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>aPTT</td><td>60 seconds</td><td>(normal: 25-35 seconds)</td></tr><tr><td>PT</td><td>12 seconds</td><td>(normal: 11-15 seconds)</td></tr><tr><td>Platelet count</td><td>250 \u00d7 10\u2079/L</td><td>(normal: 150-400 \u00d7 10\u2079/L)</td></tr><tr><td>Factor VIII level</td><td>5%</td><td>(normal: 50-150%)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "<b>Haemophilia A</b> is correct because the combination of a prolonged aPTT, normal PT, normal platelet count, and low Factor VIII confirms a defect in the intrinsic pathway. The recurrent joint bleeds (haemarthroses) are a hallmark feature of moderate-to-severe Haemophilia A. The lack of family history does not exclude the diagnosis, as 30% of cases result from spontaneous mutations.<br /><br /><b>Von Willebrand disease</b> is incorrect because although it can cause prolonged aPTT and reduced Factor VIII, it primarily affects platelet function, leading to mucosal bleeding (e.g., epistaxis, menorrhagia, gingival bleeding) rather than joint bleeds.<br /><br /><b>Liver disease</b> is incorrect because it prolongs both PT and aPTT due to impaired synthesis of multiple clotting factors and is often associated with thrombocytopenia and abnormal liver function tests, which are not seen here.<br /><br /><b>Disseminated intravascular coagulation (DIC)</b> is incorrect because DIC typically presents with prolonged PT and aPTT, thrombocytopenia, and reduced fibrinogen, none of which are present in this patient.<br /><br /><b>Factor V Leiden</b> is incorrect because it is a prothrombotic disorder and does not cause prolonged clotting times or spontaneous bleeding.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Haemophilia",
+        "body": "Haemophilia is an X-linked recessive disorder of coagulation. Up to 30% of patients have no family history of the condition. Haemophilia A is due to a deficiency of factor VIII whilst in haemophilia B (Christmas disease) there is a lack of factor IX<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"11605\">haemoarthroses</span></li><li>haematomas</li><li>prolonged bleeding after surgery or trauma</li></ul><br />Blood tests<br /><ul><li>prolonged APTT</li><li><span class=\"concept\" data-cid=\"8417\">bleeding time</span>, thrombin time, prothrombin time normal</li></ul><br />Up to 10-15% of patients with haemophilia A develop antibodies to factor VIII treatment.",
+        "notes_hash": "22f8c426c8c5b1140b9e6f0b663178ad",
+        "knowledge_graph_node_id_link": 11050,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4984",
+        "up_votes": "9",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "3662",
+            "3810",
+            "3000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C-p7FW1fXec\" data-description=\"Haemophilia & the Clotting Cascade\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1189\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/C-p7FW1fXec/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C-p7FW1fXec\" data-description=\"Haemophilia & the Clotting Cascade\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"1189\">Haemophilia & the Clotting Cascade</a></td></tr><tr><td><span ><small>MedFlix - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2048\" data-mediaid=\"2048\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2048\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2048\" data-mediaid=\"2048\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2048\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nkC1vZaUpxs\" data-description=\"Hemophilia - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"10\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nkC1vZaUpxs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nkC1vZaUpxs\" data-description=\"Hemophilia - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"10\">Hemophilia - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_29\" data-mediaid=\"29\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_29\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_29\" data-mediaid=\"29\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_29\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5584_B_40",
+        "new_question_id": "18281",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "5822",
+        "notes_id_link": "9_79",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bisoprolol",
+            "Diazepam",
+            "Hydrocortisone",
+            "Prednisolone",
+            "Ramipril",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old woman presents to the orthopaedic surgery ward one day prior to an elective knee replacement. She has osteoarthritis and hypertension and is currently being treated for an episode of giant cell arteritis that occurred three months ago with 20mg prednisolone daily. She has never had surgery before and is anxious about the anaesthetic. <br /><br />What is the most important drug to prescribe prior to surgery?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Chronic glucocorticoid therapy, such as treatment of giant cell arteritis (GCA) with prednisolone can suppress the hypothalamic-pituitary-adrenal axis, meaning that in times of stress (such as surgery), the adrenal glands are not able to respond appropriately. Hydrocortisone should therefore be given preoperatively to patients taking regular prednisolone for moderate to major surgery. <br /><br />As a rule of thumb:<br /><ul><li>Minor procedure under local: no supplementation required</li><li>Moderate procedure: 50mg hydrocortisone before induction and 25mg every 8h for 24h</li><li>Major surgery: 100mg hydrocortisone before induction and 50mg every 8h for 24h, thereafter halving dose every 24h until maintenance dose reached.</li></ul><br />There is no indication that this patient needs additional medications for her hypertension preoperatively and diazepam should not be given routinely to control anxiety. This patient probably just needs someone to speak to her and reassure her about the procedure.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old woman presents to the orthopaedic surgery ward one day prior to an elective knee replacement. She has osteoarthritis and hypertension and is currently being treated for an episode of giant cell arteritis that occurred three months ago with 20mg prednisolone daily. She has never had surgery before and is anxious about the anaesthetic. <br /><br />What is the most important drug to prescribe prior to surgery?",
+        "correct_answer": "3",
+        "question_notes": "Chronic glucocorticoid therapy, such as treatment of giant cell arteritis (GCA) with prednisolone can suppress the hypothalamic-pituitary-adrenal axis, meaning that in times of stress (such as surgery), the adrenal glands are not able to respond appropriately. Hydrocortisone should therefore be given preoperatively to patients taking regular prednisolone for moderate to major surgery. <br /><br />As a rule of thumb:<br /><ul><li>Minor procedure under local: no supplementation required</li><li>Moderate procedure: 50mg hydrocortisone before induction and 25mg every 8h for 24h</li><li>Major surgery: 100mg hydrocortisone before induction and 50mg every 8h for 24h, thereafter halving dose every 24h until maintenance dose reached.</li></ul><br />There is no indication that this patient needs additional medications for her hypertension preoperatively and diazepam should not be given routinely to control anxiety. This patient probably just needs someone to speak to her and reassure her about the procedure.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Preparation for surgery",
+        "body": "Elective and emergency patients require different preparation.<br /><br /><b>Elective cases</b><br /><ul><li>Consider pre admission clinic to address medical issues.</li><li>Blood tests including FBC, U+E, LFTs, Clotting, Group and Save</li><li>Urine analysis</li><li>Pregnancy test</li><li>Sickle cell test</li><li>ECG/ Chest x-ray</li></ul><br />The exact tests to be performed will depend upon the proposed procedure and patient fitness.<br /><br />Risk factors for the development of deep vein thrombosis should be assessed and a plan for thromboprophylaxis formulated.<br /><br /><br /><h5 class='notes-heading'>Oral fluids/fasting</h5><br />Oral fluids:<br /><ul><li>patients having surgery may drink clear fluids until <span class=\"concept\" data-cid=\"10419\">2 hours</span> before their operation</li><li>drinking clear fluids before the operation can help reduce headaches, nausea and vomiting afterwards</li><li>clear fluids are water, fruit juice without pulp, coffee or tea without milk and ice lollies</li></ul><br />Patients are generally advised to fast from non-clear liquids/food for at least <span class=\"concept\" data-cid=\"11299\">6 hours</span> before surgery.<br /><br /><br /><h5 class='notes-heading'>Diabetes mellitus</h5><br />The management of diabetes during surgery is an important and relatively common problem. Whilst the BNF, NICE and the Joint British Diabetes Societies (JBDS) have produced guidelines many hospitals have their own protocols that should be followed where they exist. Management depends on a number of factors:<br /><ul><li>required duration of fasting</li><li>timing of surgery (morning or afternoon)</li><li>usual treatment regimen (insulin, antidiabetic drugs or diet)</li><li>prior glycaemic control</li><li>other co-morbidities</li></ul><br />Potential complications of poorly managed diabetes during surgery:<br />    - undetected hypoglycaemia whilst a patient is under a general anaesthetic. Diabetic patients have  <br /><ul><li>increased risk of wound & respiratory infections</li><li>increased risk of post-operative acute kidney injury</li><li>increased length of hospital stay</li></ul><br /><h6 class='notes-subheading'>Patients taking oral antidiabetic drugs</h6><br />Rules of thumb<br /><ul><li><span class=\"concept\" data-cid=\"11331\">patients treated with insulin who have good glycaemic control</span> (HbA1c < 69 mmol/mol) and are undergoing minor procedures, can be managed during the operative period by adjustment of their usual insulin regimen</li><li><concept11332patients usually treated with insulin, who are either undergoing major procedures</span> (surgery requiring a long fasting period of more than one missed meal) or whose diabetes is poorly controlled, will usually require a variable rate intravenous insulin infusion (VRIII)</li><li><span class=\"concept\" data-cid=\"11333\">most patients taking only oral antidiabetic drugs may be managed by manipulating medication on the day of surgery</span>, depending on the particular drug. There are some exceptions to this:<ul><li>if more than one meal is to be missed</li><li>patients with poor glycaemic control</li><li>risk of renal injury (e.g. low eGFR, contrast being used)</li><li>in such cases a VRIII should be used</li></ul></li></ul><br />Simplified JBDS guidelines - please see the link for more details:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><span class=\"concept\" data-cid=\"11335\">Day prior to admission</span></th><th>Day of surgery <br />(morning operation)</th><th>Day of surgery (afternoon operation)</th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11336\"><b>Metformin*</b></span></td><td>Take as normal</td><td>If taken once or twice a day - take<br />as normal <br />If taken three times per day, omit lunchtime dose</td><td>If taken once or<br />twice a day - take as normal <br />If taken three times per day, omit lunchtime dose</td></tr><tr><td><span class=\"concept\" data-cid=\"11337\"><b>Sulfonylureas</b></span></td><td>Take as normal</td><td>If taken once daily in the morning - omit the dose that<br />day <br />If taken twice daily - omit the morning dose that day</td><td>If taken once daily in the morning -<br />omit the dose that day <br />If taken twice daily - omit both doses that day</td></tr><tr><td><span class=\"concept\" data-cid=\"11338\"><b>DPP IV inhibitors (-gliptins)</b></span></td><td>Take as normal</td><td>Take as normal</td><td>Take as normal</td></tr><tr><td><span class=\"concept\" data-cid=\"11338\"><b>GLP-1 analogues (-tides)</b></span></td><td>Take as normal</td><td>Take as normal</td><td>Take as normal</td></tr><tr><td><b>SGLT-2 inhibitors (-flozins)</b></td><td>Take as normal</td><td>Omit on the day of surgery</td><td>Omit on the day of surgery</td></tr><tr><td><b><span class=\"concept\" data-cid=\"11334\">Once daily insulins (e.g. Lantus, Levemir)</span></b></td><td>Reduce dose<br />by 20%</td><td>Reduce dose by 20%</td><td>Reduce dose by 20%</td></tr><tr><td><b>Twice daily Biphasic or ultra-long acting insulins (e.g. Novomix 30, Humulin M3)</b></td><td>No dose<br />change</td><td>Halve the usual morning dose. Leave the evening dose unchanged</td><td>Halve the usual morning dose. Leave the evening dose unchanged</td></tr></tbody></table></div><br />*assumes only one meal will be missed during surgery, eGFR is greater than 60 ml/min/1.73m2 and procedure not requiring the use of contrast media<br /><br /><h5 class='notes-heading'>Antithrombotic drugs</h5><br />Warfarin<br /><ul><li>stop 5 days before surgery.</li><li>check INR the day before; give oral vitamin K if INR \u2265 1.5.</li><li>restart warfarin at the usual dose on the evening after surgery or the next day.</li><li>high thromboembolic risk (e.g. VTE <3 months ago, mitral mechanical valve, AF with prior stroke):<ul><li>bridge with treatment-dose LMWH, stopping 24 hours before surgery.</li></ul></li><li>emergency surgery</li><li><span class=\"concept\" data-cid=\"12380\">if the operation can be delayed for 6\u201312 hours can be given IV vitamin K</span></li><li>If surgery cannot be delayed, dried prothrombin complex can be given in addition to IV vitamin K and the INR checked before surgery</li></ul><br />Direct oral anticoagulants (DOACs)<br /><ul><li>stop 24 hours before low/moderate bleeding risk surgery (e.g. hernia repair).</li><li>stop 48 hours before high bleeding risk surgery (e.g. cardiothoracic surgery).</li><li>in renal impairment (e.g. CrCl <30), stop up to 72 hours before high-risk surgery.</li><li>restart:<ul><li>6\u201312 hours post-op for minor procedures with low bleeding risk.</li><li>after 48 hours for high-risk surgery or increased bleeding risk.</li></ul></li></ul><br />Antiplatelets<br /><ul><li>aspirin<ul><li>continue in most cases.</li><li>stop 7 days before high-risk surgeries (e.g. neurosurgery).</li></ul></li><li>P2Y12 inhibitors <ul><li><span class=\"concept\" data-cid=\"12370\">clopidogrel/prasugrel: Stop 7 days</span></li><li>ticagrelor: Stop 5 days</li></ul></li></ul><br />Dual Antiplatelet Therapy (DAPT)<br /><ul><li>discuss with cardiology if recent ACS or stent.</li><li>low-risk procedures: can proceed on DAPT.</li><li>high-risk procedures: ideally delay surgery. If not possible:<ul><li>continue aspirin, stop P2Y12 inhibitor as per above.</li></ul></li></ul><br /><h5 class='notes-heading'>Steroids</h5><br />During periods of acute physiological stress\u2014such as illness, trauma, or surgery\u2014the body's requirement for corticosteroids increases. In healthy individuals, this is met by an upregulation of endogenous cortisol production via the hypothalamic-pituitary-adrenal (HPA) axis.<br /><br />However, patients on long-term corticosteroid therapy may have suppression of the HPA axis and are therefore unable to mount an adequate endogenous stress response. Consequently, these patients are at risk of adrenal insufficiency and may require supplemental steroids during times of physiological stress.<br /><br />Peri-operative considerations for patients on long-term corticosteroids:<br /><ul><li><span class=\"concept\" data-cid=\"5822\">Convert to IV hydrocortisone</span>: For moderate to major surgical procedures, oral steroids should be temporarily withheld and replaced with IV hydrocortisone 50\u2013100 mg at induction of anaesthesia, followed by 6-hourly dosing or a continuous infusion.</li><li>Fludrocortisone supplementation: If there is associated hypotension or if the patient is on long-term corticosteroids that do not have significant mineralocorticoid activity (e.g. dexamethasone), consider adding fludrocortisone.</li><li>Post-operative steroid replacement:<ul><li>For minor procedures: Usual oral corticosteroids may be resumed immediately post-operatively if the patient is clinically stable and tolerating oral intake.</li><li>For major surgery: Continue IV hydrocortisone (e.g. 50 mg every 6 hours or equivalent continuous infusion) for up to 72 hours post-operatively, with transition back to oral steroids as the patient recovers.</li></ul></li><li>Ensure appropriate tapering of steroids after the period of stress has resolved, returning to the patient\u2019s maintenance dose.</li></ul><br /><h5 class='notes-heading'>ACE inhibitors and angiotensin-II receptor antagonists</h5><br />ACE inhibitors and angiotensin-II receptor antagonists can be associated with severe hypotension after induction of anaesthesia; these drugs should be discontinued <span class=\"concept\" data-cid=\"12378\">24 hours before surgery</span>. <br /><br /><h5 class='notes-heading'>Emergency cases</h5><br />Stabilise and resuscitate where needed.<br /><br />Consider whether antibiotics are needed and when and how they should be administered.<br />Inform blood bank if major procedures planned particularly where coagulopathies are present at the outset or anticipated (e.g. Ruptured AAA repair)<br />Don't forget to consent and inform relatives.<br /><br /><br /><h5 class='notes-heading'>Special preparation</h5><br />Some procedures require special preparation:<br /><ul><li>Thyroid surgery; vocal cord check.</li><li>Parathyroid surgery; consider methylene blue to identify gland.</li><li>Sentinel node biopsy; radioactive marker/ patent blue dye.</li><li>Surgery involving the thoracic duct; consider administration of cream.</li><li>Pheochromocytoma surgery; will need alpha and beta blockade.</li><li>Surgery for carcinoid tumours; will need covering with octreotide.</li><li>Colorectal cases; bowel preparation (especially left sided surgery)</li><li>Thyrotoxicosis; lugols iodine/ medical therapy.</li></ul>",
+        "notes_hash": "3427d5b7fda2876a7230ce7fd9e6257f",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "IV hydrocortisone is required at induction and after surgery for patients taking prednisolone",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4111",
+        "up_votes": "66",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "181",
+            "457",
+            "2819",
+            "605",
+            "49",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Joint British Diabetes Societies</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2036\" data-linkid=\"2036\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2036\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_2036\" data-linkid=\"2036\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2036\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.diabetes.org.uk/resources-s3/2017-09/Surgical%20guidelines%202015%20-%20full%20FINAL%20amended%20Mar%202016_0.pdf\">2016 Management of adults with diabetes undergoing surgery and elective procedures: Improving standard</a></td></tr></table><br><br><table style='width:100%'><tr><td>Geeky Medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1748\" data-linkid=\"1748\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1748\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_1748\" data-linkid=\"1748\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1748\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://geekymedics.com/anaesthetic-pre-operative-assessment-osce-guide/\">Anaesthetic Pre-Operative Assessment</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2037\" data-linkid=\"2037\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2037\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_2037\" data-linkid=\"2037\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2037\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/diabetes-surgery-and-medical-illness.html\">Diabetes, surgery and medical illness</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2035\" data-linkid=\"2035\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2035\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2035\" data-linkid=\"2035\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2035\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng180/chapter/Recommendations\">2020 Perioperative care in adults</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5822": {
+                "concept_text": "IV hydrocortisone is required at induction and after surgery for patients taking prednisolone",
+                "concept_percentile": "86"
+            },
+            "11299": {
+                "concept_text": "Patients are generally advised to fast from non-clear liquids/food for at least 6 hours before surgery",
+                "concept_percentile": "55"
+            },
+            "11334": {
+                "concept_text": "Surgery / diabetes: once-daily insulin dose should generally be reduced by 20% on the day before and the day of surgery",
+                "concept_percentile": "84"
+            },
+            "11335": {
+                "concept_text": "All oral antidiabetic medications should be taken as normal the day before surgery",
+                "concept_percentile": "73"
+            },
+            "11336": {
+                "concept_text": "Surgery / metformin on day of surgery:\n   - OD or BD: take as normal\n   - TDS: miss lunchtime dose\n   - assumes only one meal will be missed during surgery, eGFR > 60 and no contrast during procedure",
+                "concept_percentile": "78"
+            },
+            "11337": {
+                "concept_text": "Surgery / sulfonylureas on day of surgery:\n   - omit on the day of surgery\n   - exception is morning surgery in patients who take BD - they can have the afternoon dose",
+                "concept_percentile": "60"
+            },
+            "12370": {
+                "concept_text": "Clopidogrel should be stopped 7 days before surgery to reduce perioperative bleeding",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2130",
+        "new_question_id": "4185",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1701",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Laparoscopic adhesiolysis",
+            "Copper intrauterine device",
+            "Progesterone injection Depo-Provera",
+            "Combined oral contraceptive pill (COCP)",
+            "Gonadotropin-releasing hormone (GnRH) analogues",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old woman is referred to the gynaecology clinic with severe dysmenorrhoea and a clinical history suggestive of endometriosis.  She has tried paracetamol and ibuprofen with little benefit.  She is not planning to start a family for the next couple of years.  What is the recommended first-line management, providing that there are no contraindications?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Endometriosis is a common disorder, characterised by the deposits of endometrial-like tissue outside the uterus.  It is an oestrogen dependent condition, that starts after menarche and regresses following the menopause.<br /><br />Treatments depend upon whether the patient wishes to conceive or not.  If the patient is not planning to conceive then treatments include methods that inhibit ovulation (as endometriosis is an oestrogen dependent condition).<br /><br />The COCP is the first line option and can be used back-to-back with no pill-free interval.  Second line treatments include progesterone only methods, such as POP, implant or injection (again they work by inhibiting ovulation).  In addition, the Mirena coil can be used as it will reduce bleeding, resulting in less retrograde menstruation.  The copper intrauterine device can make menstrual cycles longer and more painful and would not be a suitable option.<br /><br />If the above methods fail to improve a patient's symptoms, then GnRH analogues may be used.<br /><br />In patients with endometriosis who wish to conceive, then a referral to fertility services is recommended if the couple have not conceived after 6 months of regular unprotected vaginal sexual intercourse.  Surgical options such as laparoscopic adhesiolysis may improve fertility rates in patients with mild-moderate disease.<br /><br />GP notebook. Endometriosis treatments.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old woman is referred to the gynaecology clinic with severe dysmenorrhoea and a clinical history suggestive of endometriosis.  She has tried paracetamol and ibuprofen with little benefit.  She is not planning to start a family for the next couple of years.  What is the recommended first-line management, providing that there are no contraindications?",
+        "correct_answer": "4",
+        "question_notes": "Endometriosis is a common disorder, characterised by the deposits of endometrial-like tissue outside the uterus.  It is an oestrogen dependent condition, that starts after menarche and regresses following the menopause.<br /><br />Treatments depend upon whether the patient wishes to conceive or not.  If the patient is not planning to conceive then treatments include methods that inhibit ovulation (as endometriosis is an oestrogen dependent condition).<br /><br />The COCP is the first line option and can be used back-to-back with no pill-free interval.  Second line treatments include progesterone only methods, such as POP, implant or injection (again they work by inhibiting ovulation).  In addition, the Mirena coil can be used as it will reduce bleeding, resulting in less retrograde menstruation.  The copper intrauterine device can make menstrual cycles longer and more painful and would not be a suitable option.<br /><br />If the above methods fail to improve a patient's symptoms, then GnRH analogues may be used.<br /><br />In patients with endometriosis who wish to conceive, then a referral to fertility services is recommended if the couple have not conceived after 6 months of regular unprotected vaginal sexual intercourse.  Surgical options such as laparoscopic adhesiolysis may improve fertility rates in patients with mild-moderate disease.<br /><br />GP notebook. Endometriosis treatments.<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Endometriosis",
+        "body": "Endometriosis is a common condition characterised by the growth of ectopic endometrial tissue outside of the uterine cavity. Around 10% of women of reproductive age have a degree of endometriosis.<br /><br /><span class=\"concept\" data-cid=\"986\">Clinical features</span><br /><ul><li>chronic pelvic pain</li><li>secondary dysmenorrhoea<ul><li>pain often starts days before bleeding</li></ul></li><li>deep dyspareunia </li><li>subfertility</li><li>non-gynaecological: urinary symptoms e.g. dysuria, urgency, haematuria. Dyschezia (painful bowel movements)</li><li>on pelvic examination reduced organ mobility, tender nodularity in the posterior vaginal fornix and visible vaginal endometriotic lesions may be seen</li></ul><br />Investigation<br /><ul><li><b><span class=\"concept\" data-cid=\"985\">laparoscopy</span> is the gold-standard investigation</b></li><li>there is little role for investigation in primary care (e.g. ultrasound)- if the symptoms are significant the patient should be referred for a definitive diagnosis </li></ul><br />Management depends on clinical features - there is poor correlation between laparoscopic findings and severity of symptoms. NICE published guidelines in 2017:<br /><ul><li><span class=\"concept\" data-cid=\"11495\"><b>NSAIDs and/or paracetamol</b></span> are the recommended first-line treatments for symptomatic relief</li><li>if analgesia doesn't help then hormonal treatments such as the <span class=\"concept\" data-cid=\"11496\"><b>combined oral contraceptive pill or progestogens</b></span> e.g. medroxyprogesterone acetate should be tried</li></ul><br />If analgesia/hormonal treatment does not improve symptoms, or if fertility is a priority, the patient should be referred to secondary care. Secondary treatments include:<br /><ul><li><span class=\"concept\" data-cid=\"11655\">GnRH analogues</span> - said to induce a 'pseudomenopause' due to the low oestrogen levels</li><li>drug therapy unfortunately does not seem to have a significant impact on fertility rates</li><li>surgery<ul><li>this may be an option for women who have not responded to conventional medical treatment</li><li><span class=\"concept\" data-cid=\"11974\">for women who are trying to conceive, NICE recommend laparoscopic excision or ablation of endometriosis</span> plus adhesiolysis as this has been shown to improve the chances of conception. Ovarian cystectomy (for endometriomas) is also recommended</li></ul></li></ul>",
+        "notes_hash": "f50d9c61511fa098e409ec778cb9dbef",
+        "knowledge_graph_node_id_link": 1040,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6278",
+        "up_votes": "21",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "456",
+            "438",
+            "392",
+            "4563",
+            "429",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1215\" data-linkid=\"1215\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1215\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1215\" data-linkid=\"1215\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1215\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng73/chapter/Recommendations\">2017 Endometriosis: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/watch?v=FFW--bvozsE\" data-description=\"Endometriosis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"327\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FFW--bvozsE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/watch?v=FFW--bvozsE\" data-description=\"Endometriosis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"327\">Endometriosis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_554\" data-mediaid=\"554\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_554\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_554\" data-mediaid=\"554\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_554\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dsKj5hKR9HU\" data-description=\"Understanding Endometriosis\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"611\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/dsKj5hKR9HU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dsKj5hKR9HU\" data-description=\"Understanding Endometriosis\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"611\">Understanding Endometriosis</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1038\" data-mediaid=\"1038\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1038\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1038\" data-mediaid=\"1038\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1038\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3rwO0OhRnn8\" data-description=\"Endometriosis\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"899\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3rwO0OhRnn8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3rwO0OhRnn8\" data-description=\"Endometriosis\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"899\">Endometriosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1564\" data-mediaid=\"1564\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1564\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1564\" data-mediaid=\"1564\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1564\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "985": {
+                "concept_text": "Laparoscopy is the gold-standard investigation for patients with suspected endometriosis",
+                "concept_percentile": "58"
+            },
+            "986": {
+                "concept_text": "The classic symptoms of endometriosis are pelvic pain, dysmenorrhoea, dyspareunia and subfertility",
+                "concept_percentile": "64"
+            },
+            "11495": {
+                "concept_text": "NSAIDs and/or paracetamol are the recommended first-line treatments for endometriosis",
+                "concept_percentile": "98"
+            },
+            "11496": {
+                "concept_text": "If analgesia doesn't help endometriosis then the combined oral contraceptive pill or a progestogen should be tried",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_100",
+        "new_question_id": "5363",
+        "question_type": "1",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1840",
+        "theme": "Pelvic pain",
+        "instruction": "For each one of the following scenarios please select the most likely diagnosis:",
+        "options": [
+            "",
+            "Appendicitis",
+            "Ovarian torsion",
+            "Urogenital prolapse",
+            "Endometriosis",
+            "Urinary tract infection",
+            "Ovarian cyst",
+            "Threatened miscarriage",
+            "Irritable bowel syndrome",
+            "Pelvic inflammatory disease",
+            "Ectopic pregnancy"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 24-year-old woman presents with mild, crampy suprapubic pain and light vaginal bleeding. Her last period was 10 weeks ago. Vaginal examination shows a small amount of blood around the cervix but is otherwise unremarkable.",
+            "Z 67-xdzq-nkc vnlzm oqdrdmsr vhsg z gdzux, cqzffhmf rdmrzshnm hm sgd rtoqzotahb qdfhnm. Rgd zkrn gzr eqdptdmbx zmc tqfdmbx.",
+            "Z 29-xdzq-nkc vnlzm oqdrdmsr vhsg rtoqzotahb ozhm, hqqdftkzq odqhncr, cxrtqhz zmc ozhm ctqhmf hmsdqbntqrd. Sgdqd hr bdquhbzk dwbhszshnm nm dwzlhmzshnm."
+        ],
+        "answers": [
+            "7",
+            "3",
+            "9"
+        ],
+        "notes": [
+            "The question asks what is the most likely diagnosis. The mild suprapubic pain at 10 weeks gestation is more characteristic of a miscarriage than an ectopic pregnancy. In clinical practice this patient would be referred the same day for an ultrasound scan.",
+            "Women who have a urogenital prolapse typically describe a 'bearing down', 'heaviness' or 'dragging' sensation.",
+            "Cervical excitation is found in both pelvic inflammatory disease and ectopic pregnancy."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 24-year-old woman presents with mild, crampy suprapubic pain and light vaginal bleeding. Her last period was 10 weeks ago. Vaginal examination shows a small amount of blood around the cervix but is otherwise unremarkable.",
+        "correct_answer": "7",
+        "question_notes": "The question asks what is the most likely diagnosis. The mild suprapubic pain at 10 weeks gestation is more characteristic of a miscarriage than an ectopic pregnancy. In clinical practice this patient would be referred the same day for an ultrasound scan.",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Pelvic pain",
+        "body": "In women the most common cause of pelvic pain is primary dysmenorrhoea. Some women also experience transient pain in the middle of their cycle secondary to ovulation (mittelschmerz). The table below gives characteristic features for other conditions causing pelvic pain:<br /><br /><h5 class='notes-heading'>Usually acute</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Condition</th><th>Notes</th></tr></thead><tbody><tr><td><b>Ectopic pregnancy</b></td><td>A typical history is a female with a history of 6-8 weeks amenorrhoea who presents with lower abdominal pain and later develops vaginal bleeding<br />Shoulder tip pain and cervical excitation may be seen</td></tr><tr><td><b>Urinary tract infection</b></td><td>Dysuria and frequency are common but women may experience suprapubic burning secondary to cystitis</td></tr><tr><td><b>Appendicitis</b></td><td>Pain initial in the central abdomen before localising to the right iliac fossa<br />Anorexia is common<br />Tachycardia, low-grade pyrexia, tenderness in RIF<br />Rovsing's sign: more pain in RIF than LIF when palpating LIF</td></tr><tr><td><b>Pelvic inflammatory disease</b></td><td>Pelvic pain, fever, deep dyspareunia, vaginal discharge, dysuria and menstrual irregularities may occur<br />Cervical excitation may be found on examination</td></tr><tr><td><b>Ovarian torsion</b></td><td>Usually sudden onset unilateral lower abdominal pain. Onset may coincide with exercise.<br />Nausea and vomiting are common<br />Unilateral, tender adnexal mass on examination</td></tr><tr><td><b>Miscarriage</b></td><td>Vaginal bleeding and crampy lower abdominal pain following a period of amenorrhoea</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Usually chronic</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Condition</th><th>Notes</th></tr></thead><tbody><tr><td><b>Endometriosis</b></td><td>Chronic pelvic pain<br />Dysmenorrhoea - pain often starts days before bleeding<br />Deep dyspareunia <br />Subfertility</td></tr><tr><td><b>Irritable bowel syndrome</b></td><td>Extremely common. The most consistent features are abdominal pain, bloating and change in bowel habit<br />Features such as lethargy, nausea, backache and bladder symptoms may also be present</td></tr><tr><td><b>Ovarian cyst</b></td><td>Unilateral dull ache which may be intermittent or only occur during intercourse. Torsion or rupture may lead to severe abdominal pain<br />Large cysts may cause abdominal swelling or pressure effects on the bladder</td></tr><tr><td><b>Urogenital prolapse</b></td><td>Seen in older women<br />Sensation of pressure, heaviness, 'bearing-down'<br />Urinary symptoms: incontinence, frequency, urgency</td></tr></tbody></table></div>",
+        "notes_hash": "0f11c55936e66d81724d775d2b8d2b63",
+        "knowledge_graph_node_id_link": 10200,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5044",
+        "up_votes": "49",
+        "down_votes": "57",
+        "column_array": [
+            0,
+            "3908",
+            "3904",
+            "3039",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 8,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21301_B_9",
+        "new_question_id": "40497",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "11191",
+        "notes_id_link": "9_132",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Degree of pain experienced by the patient",
+            "Level of CRP on initial blood tests",
+            "Level of serum amylase on admission",
+            "Presence of any systemic or local complications",
+            "Presence of pancreatic calcification on an abdominal CT scan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 40-year-old woman, with a known past medical history of gallstones, presents to the emergency department with central abdominal pain radiating to the back. <br /><br />Blood tests are sent and you note the following result:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Amylase</td><td>480 U/L</td><td>(30 - 110)</td></tr></tbody></table></div><br /><br />A diagnosis of acute pancreatitis is made and the patient asks you how severe her case is. <br /><br />What is most important when classifying the clinical severity of a case of acute pancreatitis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The <b>presence of any systemic or local complications</b> is the key consideration when classifying a case of pancreatitis by severity. A mild case of acute pancreatitis is defined as one where both local and systemic complications or any organ failure are absent. In a severe case of pancreatitis, local complications might include: peripancreatic fluid collections, pancreatic or peripancreatic necrosis, pseudocysts, as well as areas of necrosis which are 'walled off'.<br /><br />The Atlanta classification study of 2012 classifies acute pancreatitis as mild, moderate or severe. Mild acute pancreatitis is defined as a case with <b> no organ failure, local or systemic complications </b> which usually resolves within 1 week. A case of moderately severe acute pancreatitis would be one where there is <b> transient organ failure, local complications or exacerbation of the patient's existing co-morbidities</b>. Severe acute pancreatitis is present when there is <b>organ failure for over 48 hours</b>. <br /><br />Although relevant in managing patients, the <b>degree of pain experienced by the patient</b> in itself is not used to classify the severity of pancreatitis. <br /><br />Similarly, the <b>level of CRP on initial blood tests</b> is not recommended to stratify pancreatitis by severity. However, you may be aware that a raised white blood cell count (over 15x10^9) would make a patient at an increased <b>risk</b> of going on to develop severe pancreatitis, as per the Glasgow-Imrie criteria. <br /><br /><b>Level of serum amylase</b> is not currently advised for use in classifying the severity of pancreatitis. The levels of serum amylase do not correlate accurately with the severity of the case or the patient's symptoms. <br /><br />The <b>presence of pancreatic calcification on an abdominal CT scan</b> does not determine the severity of the case of pancreatitis. Pancreatic calcification is likely to be seen on the CT scan of a patient with chronic pancreatitis, especially on a background of chronic alcohol use. However, the presence of pancreatic calcification on a CT scan is not used to evaluate the severity of acute pancreatitis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 40-year-old woman, with a known past medical history of gallstones, presents to the emergency department with central abdominal pain radiating to the back. <br /><br />Blood tests are sent and you note the following result:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Amylase</td><td>480 U/L</td><td>(30 - 110)</td></tr></tbody></table></div><br /><br />A diagnosis of acute pancreatitis is made and the patient asks you how severe her case is. <br /><br />What is most important when classifying the clinical severity of a case of acute pancreatitis?",
+        "correct_answer": "4",
+        "question_notes": "The <b>presence of any systemic or local complications</b> is the key consideration when classifying a case of pancreatitis by severity. A mild case of acute pancreatitis is defined as one where both local and systemic complications or any organ failure are absent. In a severe case of pancreatitis, local complications might include: peripancreatic fluid collections, pancreatic or peripancreatic necrosis, pseudocysts, as well as areas of necrosis which are 'walled off'.<br /><br />The Atlanta classification study of 2012 classifies acute pancreatitis as mild, moderate or severe. Mild acute pancreatitis is defined as a case with <b> no organ failure, local or systemic complications </b> which usually resolves within 1 week. A case of moderately severe acute pancreatitis would be one where there is <b> transient organ failure, local complications or exacerbation of the patient's existing co-morbidities</b>. Severe acute pancreatitis is present when there is <b>organ failure for over 48 hours</b>. <br /><br />Although relevant in managing patients, the <b>degree of pain experienced by the patient</b> in itself is not used to classify the severity of pancreatitis. <br /><br />Similarly, the <b>level of CRP on initial blood tests</b> is not recommended to stratify pancreatitis by severity. However, you may be aware that a raised white blood cell count (over 15x10^9) would make a patient at an increased <b>risk</b> of going on to develop severe pancreatitis, as per the Glasgow-Imrie criteria. <br /><br /><b>Level of serum amylase</b> is not currently advised for use in classifying the severity of pancreatitis. The levels of serum amylase do not correlate accurately with the severity of the case or the patient's symptoms. <br /><br />The <b>presence of pancreatic calcification on an abdominal CT scan</b> does not determine the severity of the case of pancreatitis. Pancreatic calcification is likely to be seen on the CT scan of a patient with chronic pancreatitis, especially on a background of chronic alcohol use. However, the presence of pancreatic calcification on a CT scan is not used to evaluate the severity of acute pancreatitis.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Acute pancreatitis: management",
+        "body": "Acute pancreatitis is a serious condition associated with significant morbidity and mortality. It is managed in a hospital setting.<br /><br />Acute pancreatitis may be stratified as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Severity</th><th>Organ failure</th><th>Local complications</th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11191\">Mild</span></td><td>No</td><td>No</td></tr><tr><td>Moderately severe</td><td>No or transient (<48 hours)</td><td>Possible</td></tr><tr><td>Severe</td><td>Persistent (>48 hours)</td><td>Possible</td></tr></tbody></table></div><br />Key aspects of care<br /><ul><li><span class=\"concept\" data-cid=\"11195\">fluid resuscitation</span><ul><li>aggressive early hydration with crystalloids. In severe cases 3-6 litres of third space fluid loss may occur</li><li>aim for a urine output of > 0.5mls/kg/hr</li><li>may also help relieve pain by reducing lactic acidosis</li></ul></li><li>analgesia<ul><li>pain may be severe so this is a key priority of care</li><li>intravenous opioids are normally required to adequately control the pain</li></ul></li><li>nutrition<ul><li>patients should <span class=\"concept\" data-cid=\"11192\">not routinely be made 'nil-by-mouth'</span> unless there is a clear reason e.g. the patient is vomiting</li><li><span class=\"concept\" data-cid=\"11193\">enteral nutrition</span> should be offered to anyone with moderately severe or severe acute pancreatitis within 72 hours of presentation</li><li>parental nutrition should only be used if enteral nurition has failed or is contraindicated</li></ul></li><li>role of antibiotics<ul><li>NICE state the following: '<i><span class=\"concept\" data-cid=\"11194\">Do not offer prophylactic antimicrobials</span> to people with acute pancreatitis</i>'</li><li>potential indications include infected pancreatic necrosis</li></ul></li></ul><br />Role of surgery<br /><ul><li>Patients with acute pancreatitis due to gallstones should undergo early cholecystectomy</li><li>Patients with obstructed biliary system due to stones should undergo early ERCP</li><li>Patients who fail to settle with necrosis and have worsening organ dysfunction may require debridement, fine needle aspiration is still used by some</li><li>Patients with infected necrosis should undergo either radiological drainage or surgical necrosectomy. The choice of procedure depends upon local expertise</li></ul><br /><h5 class='notes-heading'>Management of less common forms of pancreatitis</h5><br />Hypertriglyceridaemia-induced pancreatitis<br /><ul><li>often severe</li><li>management may include:<ul><li>IV insulin infusion (enhances lipoprotein lipase activity).</li><li>plasmapheresis in refractory cases with very high triglyceride levels.</li><li>long-term lipid-lowering therapy and strict dietary modification.</li></ul></li></ul><br />Post-ERCP pancreatitis<br /><ul><li>managed similarly to other acute cases, but rectal NSAID prophylaxis (e.g. indomethacin) is often used peri-procedurally in high-risk patients.</li></ul><br /><span class=\"concept\" data-cid=\"12453\">Autoimmune pancreatitis</span> <br /><ul><li>steroid-responsive, associated with IgG4-related disease.</li></ul>",
+        "notes_hash": "81f432b698ea1a46719a452891e0c4ee",
+        "knowledge_graph_node_id_link": 1034,
+        "concept": "Mild acute pancreatitis is defined by the absence of both organ failure and local complications",
+        "concept_percentile": "68",
+        "concept_colour": "rgb(163,255,0)",
+        "number_attempts": "5336",
+        "up_votes": "17",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "103",
+            "282",
+            "841",
+            "3418",
+            "692",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2013\" data-linkid=\"2013\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2013\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_2013\" data-linkid=\"2013\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2013\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng104/chapter/Recommendations\">2018 Pancreatitis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HPNJQi_b7NM\" data-description=\"Understanding Pancreatitis\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1320\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/HPNJQi_b7NM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HPNJQi_b7NM\" data-description=\"Understanding Pancreatitis\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1320\">Understanding Pancreatitis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2332\" data-mediaid=\"2332\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2332\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2332\" data-mediaid=\"2332\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2332\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UVof2fZdfjY\" data-description=\"Acute pancreatitis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"279\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UVof2fZdfjY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UVof2fZdfjY\" data-description=\"Acute pancreatitis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"279\">Acute pancreatitis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_749\" data-mediaid=\"749\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_749\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_749\" data-mediaid=\"749\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_749\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/21/Acute_pancreatitis_1.webm\" data-description=\"Acute pancreatitis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"976\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/21/Acute_pancreatitis_1.webm\" data-description=\"Acute pancreatitis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"976\">Acute pancreatitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1694\" data-mediaid=\"1694\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1694\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1694\" data-mediaid=\"1694\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1694\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "11191": {
+                "concept_text": "Mild acute pancreatitis is defined by the absence of both organ failure and local complications",
+                "concept_percentile": "68"
+            },
+            "11194": {
+                "concept_text": "Antibiotics should not be offered routinely to patients with acute pancreatitis",
+                "concept_percentile": "59"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1907",
+        "new_question_id": "9170",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "4191",
+        "notes_id_link": "1_548",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "<i>Bacillus cereus</i>",
+            "<i>Campylobacter jejuni</i>",
+            "<i>Shigella flexneri</i>",
+            "Norwalk virus",
+            "<i>Staphylococcus aureus</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old student presents to the GP with a 24-hour history of explosive diarrhoea and vomiting. On further questioning, he has not noticed any blood in his stool, has no history of foreign travel. He tells you he has been eating rice kept warm in a rice cooker for several days. <br /><br />What is the likely pathogenic organism underlying his symptoms? ",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This young gentleman is likely to have toxigenic food poisoning from <i>Bacillus cereus</i>. <i>Bacillus cereus</i> spores germinate in cooked rice and produce toxin if the cooked product is kept insufficiently chilled. <i>S. aureus</i> will also cause a toxigenic food poisoning but the specific history in this case makes this a less likely underlying organism. Equally Norwalk virus can cause explosive diarrhoea and vomiting but is not associated with any specific food stuffs.<br /><br /><i>Campylobacter</i> and <i>Shigella</i> cause bacterial food poisoning and would likely have a longer history with bloody diarrhoea.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old student presents to the GP with a 24-hour history of explosive diarrhoea and vomiting. On further questioning, he has not noticed any blood in his stool, has no history of foreign travel. He tells you he has been eating rice kept warm in a rice cooker for several days. <br /><br />What is the likely pathogenic organism underlying his symptoms? ",
+        "correct_answer": "1",
+        "question_notes": "This young gentleman is likely to have toxigenic food poisoning from <i>Bacillus cereus</i>. <i>Bacillus cereus</i> spores germinate in cooked rice and produce toxin if the cooked product is kept insufficiently chilled. <i>S. aureus</i> will also cause a toxigenic food poisoning but the specific history in this case makes this a less likely underlying organism. Equally Norwalk virus can cause explosive diarrhoea and vomiting but is not associated with any specific food stuffs.<br /><br /><i>Campylobacter</i> and <i>Shigella</i> cause bacterial food poisoning and would likely have a longer history with bloody diarrhoea.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Gastroenteritis: causes",
+        "body": "Gastroenteritis may either occur whilst at home or whilst travelling abroad (travellers' diarrhoea)<br /><br />Travellers' diarrhoea may be defined as at least 3 loose to watery stools in 24 hours with or without one of more of abdominal cramps, fever, nausea, vomiting or blood in the stool. <span class=\"concept\" data-cid=\"739\">The most common cause is <i>Escherichia coli</i></span>.<br /><br />Another pattern of illness is 'acute food poisoning'. This describes the sudden onset of nausea, vomiting and diarrhoea after the ingestion of a toxin. Acute food poisoning is typically caused by <i>Staphylococcus aureus</i>, <i>Bacillus cereus</i> or <i>Clostridium perfringens</i>.<br /><br /><h5 class='notes-heading'>Stereotypical histories</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Infection</b></th><th><b>Typical presentation</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"6882\"><b><i>Escherichia coli</i></b></span></td><td>Common amongst travellers<br />Watery stools<br />Abdominal cramps and nausea</td></tr><tr><td><span class=\"concept\" data-cid=\"6883\"><b>Giardiasis</b></span></td><td>Prolonged, non-bloody diarrhoea</td></tr><tr><td><span class=\"concept\" data-cid=\"6886\"><b>Cholera</b></span></td><td>Profuse, watery diarrhoea<br />Severe dehydration resulting in weight loss<br />Not common amongst travellers</td></tr><tr><td> <span class=\"concept\" data-cid=\"6888\"><b><i>Shigella</i></b></span></td><td>Bloody diarrhoea<br />Vomiting and abdominal pain</td></tr><tr><td> <span class=\"concept\" data-cid=\"6885\"><b><i>Staphylococcus aureus</i></b></span></td><td>Severe vomiting<br />Short incubation period</td></tr><tr><td><span class=\"concept\" data-cid=\"6889\"><b><i>Campylobacter</i></b></span></td><td>A flu-like prodrome is usually followed by crampy abdominal pains, fever and diarrhoea which may be bloody<br /><span class=\"concept\" data-cid=\"3945\">May mimic appendicitis</span><br />Complications include Guillain-Barre syndrome</td></tr><tr><td> <span class=\"concept\" data-cid=\"6884\"><b><i>Bacillus cereus</i></b></span></td><td>Two types of illness are seen<br /><ul><li>vomiting within 6 hours, <span class=\"concept\" data-cid=\"4191\">stereotypically due to rice</span></li><li>diarrhoeal illness occurring after 6 hours</td></tr><tr><td></li></ul><span class=\"concept\" data-cid=\"6890\"><b>Amoebiasis</b></span></td><td>Gradual onset bloody diarrhoea, abdominal pain and tenderness which may last for several weeks</td></tr></tbody></table></div><br />Incubation period<br /><ul><li>1-6 hrs: <i><i>Staphylococcus</i> aureus</i>,  <i>Bacillus cereus</i>* </li><li>12-48 hrs: <i>Salmonella</i>, <i>Escherichia coli</i></li><li>48-72 hrs: <i>Shigella</i>, <i>Campylobacter</i></li><li>> 7 days: Giardiasis, Amoebiasis</li></ul><br />*vomiting subtype, the diarrhoeal illness has an incubation period of 6-14 hours",
+        "notes_hash": "7eccc72ee8d07613b2e407175d7a02d5",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "<i>Bacillus cereus</i> characteristically occurs after eating rice that has been reheated",
+        "concept_percentile": "34",
+        "concept_colour": "rgb(255,173,0)",
+        "number_attempts": "5291",
+        "up_votes": "20",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "4694",
+            "282",
+            "139",
+            "27",
+            "149",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_582\" data-linkid=\"582\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_582\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_582\" data-linkid=\"582\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_582\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/11/5/488\">2011 Diarrhoeal disease review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-SHEV1FN8PU\" data-description=\"Salmonella\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"967\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-SHEV1FN8PU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-SHEV1FN8PU\" data-description=\"Salmonella\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"967\">Salmonella</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1675\" data-mediaid=\"1675\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1675\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1675\" data-mediaid=\"1675\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1675\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-vi5Z7gE2cU\" data-description=\"Shigella\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"966\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-vi5Z7gE2cU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-vi5Z7gE2cU\" data-description=\"Shigella\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"966\">Shigella</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1671\" data-mediaid=\"1671\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1671\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1671\" data-mediaid=\"1671\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1671\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 16,
+        "concepts_for_notes": {
+            "739": {
+                "concept_text": "<i>E. coli</i> is the most common cause of travellers' diarrhoea",
+                "concept_percentile": "80"
+            },
+            "3945": {
+                "concept_text": "<i>Campylobacter jejuni</i> infection may cause marked right iliac fossa pain mimicking appendicitis",
+                "concept_percentile": "86"
+            },
+            "4191": {
+                "concept_text": "<i>Bacillus cereus</i> characteristically occurs after eating rice that has been reheated",
+                "concept_percentile": "34"
+            },
+            "6882": {
+                "concept_text": "A patient develops watery diarrhoea one week after arriving in Mexico - <i>Escherichia coli</i> (enterotoxigenic)",
+                "concept_percentile": "44"
+            },
+            "6883": {
+                "concept_text": "A patient develops persistent foul-smelling watery diarrhoea and weight loss after travelling to India. His symptoms have now lasted two weeks. He has no abdominal pain, nausea or fever - giardiasis",
+                "concept_percentile": "31"
+            },
+            "6884": {
+                "concept_text": "A man presents with severe vomiting. Earlier in the day he reheated some rice from a takeaway - <i>Bacillus cereus</i>",
+                "concept_percentile": "3"
+            },
+            "6885": {
+                "concept_text": "<i>Staphylococcus aureus</i> gastroenteritis is characterised by a short incubation period and severe vomiting",
+                "concept_percentile": "76"
+            },
+            "6886": {
+                "concept_text": "A man develops profuse 'rice water' diarrhoea after visiting a disaster relief zone. He is vomiting but has no abdominal pain. On examination he is severely dehydrated - cholera",
+                "concept_percentile": "12"
+            },
+            "6888": {
+                "concept_text": "A patient presents with a 3 day history of bloody diarrhoea, fever and abdominal pain - shigella",
+                "concept_percentile": "38"
+            },
+            "6889": {
+                "concept_text": "A 20-year-old man presents with bloody diarrhoea. He also has abdominal pain and tenesmus. Yesterday he had flu-like symptoms - <i>Campylobacter</i>",
+                "concept_percentile": "43"
+            },
+            "6890": {
+                "concept_text": "A patient develops gradual onset bloody diarrhoea after travelling to Egypt. His symptoms have now lasted four weeks. He has occasional abdominal pain and tenesmus - amoebiasis",
+                "concept_percentile": "23"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5526_B_44",
+        "new_question_id": "16484",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "4558",
+        "notes_id_link": "1_1946",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ultrasound scan (US)",
+            "Joint aspiration",
+            "Plain film radiograph (X-ray)",
+            "Magnetic resonance imaging (MRI)",
+            "HLA-B27 testing",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old Sunday league rugby player presents to the emergency department with a painful knee. Upon history taking, she describes feeling a popping sensation in her right knee during the match, and upon clinical examination the knee is swollen, and the patient is unable to fully extend her knee. <br /><br />Which one of the following tests is most likely to reveal the underlying diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Based on the patient's clinical presentation, a meniscal injury is highly likely. MRI is almost 90% sensitive at detecting lateral and medial meniscal tears. It has a higher sensitivity than the other options listed, and should be requested for all patients with suspected meniscal injury.<br /><br />Also, ultrasound would prove difficult given the degree of swelling and pain that the patient is likely to be in. An X-ray would be indicated in a patient with concurrent arthritis or a long-standing history of repeated meniscal tears. ",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old Sunday league rugby player presents to the emergency department with a painful knee. Upon history taking, she describes feeling a popping sensation in her right knee during the match, and upon clinical examination the knee is swollen, and the patient is unable to fully extend her knee. <br /><br />Which one of the following tests is most likely to reveal the underlying diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Based on the patient's clinical presentation, a meniscal injury is highly likely. MRI is almost 90% sensitive at detecting lateral and medial meniscal tears. It has a higher sensitivity than the other options listed, and should be requested for all patients with suspected meniscal injury.<br /><br />Also, ultrasound would prove difficult given the degree of swelling and pain that the patient is likely to be in. An X-ray would be indicated in a patient with concurrent arthritis or a long-standing history of repeated meniscal tears. ",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Knee pain: meniscal tear",
+        "body": "Typically result from <span class=\"concept\" data-cid=\"2122\">twisting injuries</span>.<br /><br />Features<br /><ul><li>pain worse on straightening the knee</li><li><span class=\"concept\" data-cid=\"3252\">knee may 'give way'</span></li><li>displaced meniscal tears may cause knee <span class=\"concept\" data-cid=\"3252\">locking</span></li><li>tenderness along the joint line</li><li><span class=\"concept\" data-cid=\"9839\">Thessaly's test -  weight bearing at 20 degrees of knee flexion, patient supported by doctor, postive if pain on twisting knee</span></li></ul>",
+        "notes_hash": "e6a788390f0e223aa4016e9d04c3b34d",
+        "knowledge_graph_node_id_link": 11088,
+        "concept": "MRI is the most appropriate imaging modality to diagnose meniscal tears",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "6595",
+        "up_votes": "14",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "1322",
+            "77",
+            "505",
+            "4676",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EdgSk9kQizM\" data-description=\"Meniscal tear\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1127\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EdgSk9kQizM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EdgSk9kQizM\" data-description=\"Meniscal tear\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1127\">Meniscal tear</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1949\" data-mediaid=\"1949\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1949\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1949\" data-mediaid=\"1949\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1949\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3252": {
+                "concept_text": "Knee locking and giving-way are common features of meniscal lesions",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1398",
+        "new_question_id": "11096",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_957",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Microprolactinoma",
+            "Polycystic ovarian syndrome",
+            "Turner's syndrome",
+            "Premature ovarian failure",
+            "Thyrotoxicosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old woman comes to surgery as she has not had a normal period for the past 12 months. She has done a pregnancy test recently which was negative. You arrange baseline investigations. Which one of the following is not part of your differential diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Turner's syndrome</b>. Turner's syndrome is a genetic condition that affects females, where one of the X chromosomes is missing or partially missing. It is typically diagnosed in childhood or adolescence due to characteristic physical features and short stature. Therefore, it would not be part of the differential diagnosis for a 25-year-old woman presenting with amenorrhoea (absence of menstruation).<br /><br /><b>Microprolactinoma</b> is an incorrect option as it can indeed cause amenorrhoea. Microprolactinomas are small, benign tumours of the pituitary gland that overproduce prolactin, which can inhibit normal ovulation and menstrual cycles.<br /><br /><b>Polycystic ovarian syndrome (PCOS)</b> is also an incorrect option because it can be a cause of amenorrhoea. PCOS involves the production of high levels of androgens (male hormones) by the ovaries, leading to irregular periods or the absence of periods altogether.<br /><br /><b>Premature ovarian failure</b>, now more commonly referred to as primary ovarian insufficiency, could certainly be a cause of this patient's amenorrhoea. This condition occurs when the ovaries stop functioning normally before age 40 and can result in absent periods.<br /><br />Finally, <b>thyrotoxicosis</b>, or an overactive thyroid gland, can also lead to menstrual changes including amenorrhoea. The excess thyroid hormone disrupts the normal balance of sex hormones in women, which can affect their menstrual cycle.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman comes to surgery as she has not had a normal period for the past 12 months. She has done a pregnancy test recently which was negative. You arrange baseline investigations. Which one of the following is not part of your differential diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Turner's syndrome</b>. Turner's syndrome is a genetic condition that affects females, where one of the X chromosomes is missing or partially missing. It is typically diagnosed in childhood or adolescence due to characteristic physical features and short stature. Therefore, it would not be part of the differential diagnosis for a 25-year-old woman presenting with amenorrhoea (absence of menstruation).<br /><br /><b>Microprolactinoma</b> is an incorrect option as it can indeed cause amenorrhoea. Microprolactinomas are small, benign tumours of the pituitary gland that overproduce prolactin, which can inhibit normal ovulation and menstrual cycles.<br /><br /><b>Polycystic ovarian syndrome (PCOS)</b> is also an incorrect option because it can be a cause of amenorrhoea. PCOS involves the production of high levels of androgens (male hormones) by the ovaries, leading to irregular periods or the absence of periods altogether.<br /><br /><b>Premature ovarian failure</b>, now more commonly referred to as primary ovarian insufficiency, could certainly be a cause of this patient's amenorrhoea. This condition occurs when the ovaries stop functioning normally before age 40 and can result in absent periods.<br /><br />Finally, <b>thyrotoxicosis</b>, or an overactive thyroid gland, can also lead to menstrual changes including amenorrhoea. The excess thyroid hormone disrupts the normal balance of sex hormones in women, which can affect their menstrual cycle.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Amenorrhoea",
+        "body": "Amenorrhoea may be divided into:<br /><ul><li><span class=\"concept\" data-cid=\"11379\">primary</span>: defined as the failure to establish menstruation by 15 years of age in girls with normal secondary sexual characteristics (such as breast development), or by 13 years of age in girls with no secondary sexual characteristics</li><li>secondary: cessation of menstruation for 3-6 months in women with previously normal and regular menses, or 6-12 months in women with previous oligomenorrhoea</li></ul><br /><br /><h5 class='notes-heading'>Causes</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Primary amenorrhoea</th><th>Secondary amenorrhoea (after excluding pregnancy)</th></tr></thead><tbody><tr><td><ul><li>gonadal dysgenesis (e.g. Turner's syndrome) - the most common causes</li><li>testicular feminisation </li><li>congenital malformations of the genital tract </li><li>functional hypothalamic amenorrhoea (e.g. secondary to anorexia)</li><li>congenital adrenal hyperplasia</li><li><span class=\"concept\" data-cid=\"3566\">imperforate hymen</span></td><td></li><li>hypothalamic amenorrhoea (e.g. secondary stress, <span class=\"concept\" data-cid=\"3565\">excessive exercise</span>)</li><li>polycystic ovarian syndrome (PCOS)</li><li>hyperprolactinaemia</li><li>premature ovarian failure</li><li>thyrotoxicosis*</li><li>Sheehan's syndrome</li><li>Asherman's syndrome (intrauterine adhesions)</td></tr></tbody></table></div></li></ul><br /><h5 class='notes-heading'>Investigation and management</h5><br />Initial investigations<br /><ul><li>exclude pregnancy with urinary or serum bHCG</li><li>full blood count, urea & electrolytes, coeliac screen, thyroid function tests</li><li>gonadotrophins<ul><li><span class=\"concept\" data-cid=\"3307\">low levels indicate a hypothalamic cause</span> where as raised levels suggest an ovarian problem (e.g. Premature ovarian failure)</li><li><span class=\"concept\" data-cid=\"11380\">raised if gonadal dysgenesis (e.g. Turner's syndrome)</span></li></ul></li><li>prolactin</li><li>androgen levels<ul><li>raised levels may be seen in PCOS</li></ul></li><li>oestradiol</li></ul><br />Management<br /><ul><li>primary amenorrhoea:<ul><li>investigate and treat any underlying cause</li><li>with primary ovarian insufficiency due to gonadal dysgenesis (e.g. Turner's syndrome) are likely to benefit from hormone replacement therapy (e.g. to prevent osteoporosis etC)</li></ul></li><li>secondary amenorrhoea<ul><li>exclude pregnancy, lactation, and menopause (in women 40 years of age or older)</li><li>treat the underlying cause</li></ul></li></ul><br />*hypothyroidism may also cause amenorrhoea",
+        "notes_hash": "e928685cc0eff7e5ebef43ac7e02a570",
+        "knowledge_graph_node_id_link": 10178,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4170",
+        "up_votes": "37",
+        "down_votes": "59",
+        "column_array": [
+            0,
+            "386",
+            "194",
+            "2728",
+            "303",
+            "559",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JRUErEu6BJs\" data-description=\"Amenorrhoea\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1120\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JRUErEu6BJs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JRUErEu6BJs\" data-description=\"Amenorrhoea\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1120\">Amenorrhoea</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1940\" data-mediaid=\"1940\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1940\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_1940\" data-mediaid=\"1940\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1940\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "3307": {
+                "concept_text": "Secondary amenorrhoea: low-level gonadotrophins indicate a hypothalamic causes",
+                "concept_percentile": "79"
+            },
+            "11380": {
+                "concept_text": "Raised FSH/LH in primary amenorrhoea - consider gonadal dysgenesis (e.g. Turner's syndrome)",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_57",
+        "new_question_id": "15473",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3812",
+        "notes_id_link": "1_2380",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Gastro-oesophageal reflux disease",
+            "Meconium ileus",
+            "Duodenal atresia",
+            "Necrotising enterocolitis",
+            "Hospital-acquired enteroviral infection",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother brings in her 3-week old male baby who was born at 28 weeks. He was only discharged from neonatal intensive care unit a week ago. She reports that for the last 3 days, he has been refusing feed. This morning she noticed that he passed some bloody stools. On examination, the baby has a distended abdomen. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Early signs of necrotising enterocolitis include feeding intolerance, abdominal distension and bloody stools. Given that this baby is preterm, the risk of developing necrotising enterocolitis is high. <br /><br />GORD does not present with abdominal distension and bloody stools.<br /><br />Duodenal atresia usually present with bilious vomiting within the first day of life. It would not cause bloody stools.<br /><br />Given that this baby was recently discharged, hospital-acquired infection is a possibility. However, given the clinical picture and the preterm status, necrotising enterocolitis is more likely and in reality, needs to be ruled out first.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother brings in her 3-week old male baby who was born at 28 weeks. He was only discharged from neonatal intensive care unit a week ago. She reports that for the last 3 days, he has been refusing feed. This morning she noticed that he passed some bloody stools. On examination, the baby has a distended abdomen. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Early signs of necrotising enterocolitis include feeding intolerance, abdominal distension and bloody stools. Given that this baby is preterm, the risk of developing necrotising enterocolitis is high. <br /><br />GORD does not present with abdominal distension and bloody stools.<br /><br />Duodenal atresia usually present with bilious vomiting within the first day of life. It would not cause bloody stools.<br /><br />Given that this baby was recently discharged, hospital-acquired infection is a possibility. However, given the clinical picture and the preterm status, necrotising enterocolitis is more likely and in reality, needs to be ruled out first.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Necrotising enterocolitis",
+        "body": "Necrotising enterocolitis is one of the leading causes of death among <span class=\"concept\" data-cid=\"2311\">premature infants</span>. Initial symptoms can include <span class=\"concept\" data-cid=\"3812\">feeding intolerance, abdominal distension and bloody stools</span>, which can quickly progress to abdominal discolouration, perforation and peritonitis. <br /><br /><span class=\"concept\" data-cid=\"5702\">Abdominal x-rays</span> are useful when diagnosing necrotising enterocolitis, as they can show:<br /><ul><li>dilated bowel loops (often asymmetrical in distribution)</li><li>bowel wall oedema</li><li><span class=\"concept\" data-cid=\"3856\">pneumatosis intestinalis (intramural gas)</span></li><li>portal venous gas</li><li>pneumoperitoneum resulting from perforation</li><li>air both inside and outside of the bowel wall (Rigler sign)</li><li>air outlining the falciform ligament (football sign)</li></ul>",
+        "notes_hash": "12f40648da6ef8230a23b331ce555fc3",
+        "knowledge_graph_node_id_link": 10966,
+        "concept": "Early signs of necrotising enterocolitis: feeding intolerance, abdominal distension and bloody stools",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "4436",
+        "up_votes": "22",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "10",
+            "184",
+            "309",
+            "3799",
+            "134",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x-mAKtgv_oA\" data-description=\"Necrotizing enterocolitis imaging\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"498\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x-mAKtgv_oA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x-mAKtgv_oA\" data-description=\"Necrotizing enterocolitis imaging\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"498\">Necrotizing enterocolitis imaging</a></td></tr><tr><td><span ><small>Pediatricradiologyacademy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_867\" data-mediaid=\"867\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_867\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_867\" data-mediaid=\"867\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_867\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3812": {
+                "concept_text": "Early signs of necrotising enterocolitis: feeding intolerance, abdominal distension and bloody stools",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

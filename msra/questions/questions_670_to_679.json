@@ -1,0 +1,819 @@
+[
+    {
+        "question_id": "4582_B_35",
+        "new_question_id": "15082",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "3183",
+        "notes_id_link": "1_2014",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Annual pneumococcal vaccine",
+            "Hepatitis E vaccine",
+            "One-off pneumococcal vaccine",
+            "BCG vaccine",
+            "Tetanus vaccine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old intravenous drug user presents to your GP clinic: he is a frequent non-attender and you note he has been recently been discharged from hospital following a diagnosis of chronic hepatitis C. <br /><br />Given his new diagnosis which vaccination does he now qualify for?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Those patients diagnosed with chronic hepatitis should be offered both the annual influenza vaccine and the pneumococcal vaccine, which is given one a one-off basis. The pneumococcal vaccine is only given on a one-off basis, as it is not a rapidly mutating condition, unlike influenza.<br /><br />The hepatitis E vaccine is unavailable in the UK and the tetanus vaccine would only be indicated if he had sustained a high-risk wound. This patient does not meet the criteria for a BCG vaccine at this time.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old intravenous drug user presents to your GP clinic: he is a frequent non-attender and you note he has been recently been discharged from hospital following a diagnosis of chronic hepatitis C. <br /><br />Given his new diagnosis which vaccination does he now qualify for?",
+        "correct_answer": "3",
+        "question_notes": "Those patients diagnosed with chronic hepatitis should be offered both the annual influenza vaccine and the pneumococcal vaccine, which is given one a one-off basis. The pneumococcal vaccine is only given on a one-off basis, as it is not a rapidly mutating condition, unlike influenza.<br /><br />The hepatitis E vaccine is unavailable in the UK and the tetanus vaccine would only be indicated if he had sustained a high-risk wound. This patient does not meet the criteria for a BCG vaccine at this time.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Vaccinations in special groups",
+        "body": "The table below summarises the current Green Book advice regarding the influenza and pneumococcal vaccine.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Influenza vaccination</b></th><th><b>Pneumococcal vaccination</b></th></tr></thead><tbody><tr><td>The Department of Health recommends annual influenza vaccination for people older than 65 years and those with:<br /><ul><li>chronic respiratory disease (including asthmatics who use inhaled steroids)</li><li>chronic heart disease (<span class=\"concept\" data-cid=\"8882\">heart failure</span>, ischaemic heart disease, including hypertension if associated with cardiac complications)</li><li>chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation)</li><li>chronic liver disease: cirrhosis, biliary atresia, chronic hepatitis</li><li><span class=\"concept\" data-cid=\"3182\">chronic neurological disease</span>: (e.g. Stroke/TIAs)</li><li>diabetes mellitus (including diet controlled)</li><li>immunosuppression due to disease or treatment (e.g. HIV)</li><li>asplenia or splenic dysfunction</li><li>pregnant women</li></ul><br />Other at risk individuals include:<br /><ul><li>health and social care staff directly involved in patient care (e.g. NHS staff)</li><li>those living in long-stay residential care homes</li><li>carers of the elderly or disabled person whose welfare may be at risk if the carer becomes ill (at the GP's discretion)</td><td></li></ul>The pneumococcal polysaccharide vaccine is offered to all adults over the age of 65 years and those with:<br /><ul><li>asplenia or splenic dysfunction</li><li>chronic respiratory disease: COPD, bronchiectasis, cystic fibrosis, interstitial lung disease. Asthma is only included if 'it requires the use of oral steroids at a dose sufficient to act as a significant immunosuppressant'</li><li>chronic heart disease: ischaemic heart disease if requiring medication or follow-up, <span class=\"concept\" data-cid=\"8882\">heart failure</span>, congenital heart disease. Controlled hypertension is not an indication for vaccination</li><li>chronic kidney disease (at stages 4 and 5, nephrotic syndrome, kidney transplantation)</li><li>chronic liver disease: including cirrhosis and <span class=\"concept\" data-cid=\"3183\">chronic hepatitis</span></li><li>diabetes mellitus if requiring medication</li><li>immunosuppression (either due to disease or treatment). This includes patients with any stage of HIV infection</li><li>cochlear implants</li><li>patients with cerebrospinal fluid leaks</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "0385e9c02d2651baeeba6d37be6e5198",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "The pneumococcal vaccine should be offered to patients with chronic hepatitis",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "3846",
+        "up_votes": "20",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "1278",
+            "382",
+            "1932",
+            "179",
+            "75",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Green book</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_667\" data-linkid=\"667\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_667\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_667\" data-linkid=\"667\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_667\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://immunisation.dh.gov.uk/green-book-chapters/chapter-25/\">Pneumococcal</a></td></tr></table><br><br><table style='width:100%'><tr><td>Green book</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_668\" data-linkid=\"668\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_668\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_668\" data-linkid=\"668\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_668\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://immunisation.dh.gov.uk/green-book-chapters/chapter-19/\">Influenza</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3183": {
+                "concept_text": "The pneumococcal vaccine should be offered to patients with chronic hepatitis",
+                "concept_percentile": "65"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_852",
+        "new_question_id": "41830",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11312",
+        "notes_id_link": "1_1177",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Adenosine",
+            "Amiodarone",
+            "DC cardioversion",
+            "Magnesium sulphate",
+            "Metoprolol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 61-year-old man presents to the emergency department with a 2-hour history of palpitations. He denies chest pain or shortness of breath and has otherwise been well in himself. His past medical history includes ischaemic heart disease and had a PCI to the left circumflex artery 3 years ago. He is an ex-smoker.<br /><br />On examination, his heart rate is 140 beats/min and regular with a blood pressure of 133/69mmHg. Auscultation of his chest is clear with oxygen saturations of 94% on room air. His GCS is 15/15.<br /><br />ECG: Monomorphic regular tachycardia, QRS duration 150ms.<br /><br />What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Amiodarone</b> is correct. This patient has a regular broad-complex tachycardia given the heart rate of 140 beats/min and QRS duration > 120ms. Given the history of ischaemic heart disease and the presence of a monomorphic wave pattern, the underlying rhythm is most likely in keeping with ventricular tachycardia. In the management of a tachyarrhythmia, it is important to establish the presence of any adverse features including ischaemia, syncope, shock or heart failure. In the absence of these, pharmacological cardioversion with amiodarone can be commenced. <br /><br /><b>Adenosine</b> is incorrect. This is used in the management of supraventricular tachycardia; a narrow complex tachycardia (QRS < 120ms) that is commonly associated with alcohol, illicit drug or caffeine use.<br /><br /><b>DC cardioversion</b> is incorrect. This patient does not have any adverse features (ischaemia, syncope, shock or heart failure) and, therefore, does not require DC cardioversion.<br /><br /><b>Magnesium sulphate</b> is incorrect. This is used in the management of Torsades de Pointes which is commonly described as a polymorphic ventricular tachycardia associated with a prolonged QTc interval. This is not in keeping with this patient's presentation.<br /><br /><b>Metoprolol</b> is incorrect. Although this beta-blocker may slow down the heart rate, metoprolol will play no role in the cardioversion of this patient to sinus rhythm and, therefore, is not indicated.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 61-year-old man presents to the emergency department with a 2-hour history of palpitations. He denies chest pain or shortness of breath and has otherwise been well in himself. His past medical history includes ischaemic heart disease and had a PCI to the left circumflex artery 3 years ago. He is an ex-smoker.<br /><br />On examination, his heart rate is 140 beats/min and regular with a blood pressure of 133/69mmHg. Auscultation of his chest is clear with oxygen saturations of 94% on room air. His GCS is 15/15.<br /><br />ECG: Monomorphic regular tachycardia, QRS duration 150ms.<br /><br />What is the most appropriate management?",
+        "correct_answer": "2",
+        "question_notes": "<b>Amiodarone</b> is correct. This patient has a regular broad-complex tachycardia given the heart rate of 140 beats/min and QRS duration > 120ms. Given the history of ischaemic heart disease and the presence of a monomorphic wave pattern, the underlying rhythm is most likely in keeping with ventricular tachycardia. In the management of a tachyarrhythmia, it is important to establish the presence of any adverse features including ischaemia, syncope, shock or heart failure. In the absence of these, pharmacological cardioversion with amiodarone can be commenced. <br /><br /><b>Adenosine</b> is incorrect. This is used in the management of supraventricular tachycardia; a narrow complex tachycardia (QRS < 120ms) that is commonly associated with alcohol, illicit drug or caffeine use.<br /><br /><b>DC cardioversion</b> is incorrect. This patient does not have any adverse features (ischaemia, syncope, shock or heart failure) and, therefore, does not require DC cardioversion.<br /><br /><b>Magnesium sulphate</b> is incorrect. This is used in the management of Torsades de Pointes which is commonly described as a polymorphic ventricular tachycardia associated with a prolonged QTc interval. This is not in keeping with this patient's presentation.<br /><br /><b>Metoprolol</b> is incorrect. Although this beta-blocker may slow down the heart rate, metoprolol will play no role in the cardioversion of this patient to sinus rhythm and, therefore, is not indicated.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Peri-arrest rhythms: tachycardia",
+        "body": "The 2015 Resuscitation Council (UK) guidelines have simplified the advice given for the management of peri-arrest tachycardias. Separate algorithms for the management of broad-complex tachycardia, narrow complex tachycardia and atrial fibrillation have been replaced by one unified treatment algorithm<br /><br />Following basic ABC assessment, patients are classified as being stable or unstable according to the presence of any adverse signs:<br /><ul><li>shock: hypotension (<span class=\"concept\" data-cid=\"10903\">systolic blood pressure < 90 mmHg</span>), pallor, sweating, cold, clammy extremities, confusion or impaired consciousness</li><li>syncope</li><li>myocardial ischaemia</li><li>heart failure </li></ul><br />If any of the above <span class=\"concept\" data-cid=\"1327\">adverse signs are present then synchronised DC shocks</span> should be given. Up to <span class=\"concept\" data-cid=\"5236\">3 shocks</span> can be given; after this expert help should be sought.<br /><br />Treatment following this is given according to whether the QRS complex is narrow or broad and whether the rhythm is regular or irregular. The full treatment guidelines can be found at the Resuscitation Council website, below is a very limited summary:<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd965b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd965.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Broad-complex tachycardia</h5><br />Regular<br /><ul><li>assume ventricular tachycardia (unless previously confirmed SVT with bundle branch block)</li><li>loading dose of <span class=\"concept\" data-cid=\"11312\">amiodarone</span> followed by 24 hour infusion</li></ul><br />Irregular<br /><ul><li><span class=\"concept\" data-cid=\"11313\">seek expert help</span>. Possibilities include:<ul><li><span class=\"concept\" data-cid=\"11314\">atrial fibrillation with bundle branch block</span> - the most likely cause in a stable patient</li><li>atrial fibrillation with ventricular pre-excitation</li><li>torsade de pointes</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg087b.png\" data-fancybox=\"gallery\" data-caption=\"Broad-complex tachycardia. It can be difficult to distinguish between ventricular tachycardia and supraventricular tachycardia with aberrant conduction (e.g. LBBB). This patient did not respond to adenosine and was cardioverted. The final presumed diagnosis was that of ventricular tachycardia secondary to severe ischaemic heart disease. - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg087.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Narrow-complex tachycardia</h5><br />Regular<br /><ul><li>vagal manoeuvres followed by IV adenosine</li><li>if the above is unsuccessful consider a diagnosis of atrial flutter and control rate (e.g. beta-blockers)</li></ul><br />Irregular<br /><ul><li>probable atrial fibrillation</li><li>if onset < 48 hr consider electrical or chemical cardioversion</li><li>rate control: beta-blockers are usually first-line unless there is a contraindication</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg076b.png\" data-fancybox=\"gallery\" data-caption=\"Atrial fibrillation with a rapid ventricular response. Rate related ischaemia resulting in ST depression in V2-4 - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg076.png\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "61008448793e1e13a3ba9fb82ed6b169",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "IV amiodarone is the first-line treatment for regular broad complex tachycardias without adverse features",
+        "concept_percentile": "94",
+        "concept_colour": "rgb(30,255,0)",
+        "number_attempts": "6568",
+        "up_votes": "35",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "1943",
+            "3164",
+            "426",
+            "404",
+            "631",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resuscitation Council UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2051\" data-linkid=\"2051\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2051\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">29</span><button type=\"button\" style=\"\" id=\"link_dislike_2051\" data-linkid=\"2051\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2051\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/sites/default/files/2021-04/Tachycardia%20Algorithm%202021.pdf\">2021 Tachycardia algorithm</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"377\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NULY6Ecj6gA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"377\">Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_636\" data-mediaid=\"636\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_636\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_636\" data-mediaid=\"636\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_636\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RuxKTCv_s0M\" data-description=\"Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1089\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RuxKTCv_s0M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RuxKTCv_s0M\" data-description=\"Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1089\">Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1891\" data-mediaid=\"1891\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1891\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1891\" data-mediaid=\"1891\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1891\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"376\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/pd5FF8jGR78/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"376\">Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_635\" data-mediaid=\"635\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_635\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_635\" data-mediaid=\"635\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_635\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/iT3cVVK74tU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"375\">Intro to EKG Interpretation - Overview of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_634\" data-mediaid=\"634\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_634\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_634\" data-mediaid=\"634\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_634\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"374\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sTdV8xCNbBM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"374\">Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_633\" data-mediaid=\"633\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_633\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_633\" data-mediaid=\"633\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_633\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5236": {
+                "concept_text": "Patients with tachycardia and signs of shock, syncope, myocardial ischaemia or heart failure should receive up to 3 synchronised DC shocks",
+                "concept_percentile": "80"
+            },
+            "10903": {
+                "concept_text": "In the context of a tachyarrhythmia, a systolic BP < 90 mmHg --> DC cardioversion",
+                "concept_percentile": "82"
+            },
+            "11312": {
+                "concept_text": "IV amiodarone is the first-line treatment for regular broad complex tachycardias without adverse features",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2156",
+        "new_question_id": "4333",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1726",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise her of the risks and the need to keep away from anyone who has rubella",
+            "Discuss the risks of congenital rubella syndrome and counsel regarding a termination of pregnancy",
+            "Advise monthly rubella IgM checks + avoid infectious contacts",
+            "Advise vaccination against rubella",
+            "Advise weekly human normal immunoglobulin injections until > 20 weeks gestation + avoid infectious contacts",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You review the blood results taken from a pregnant woman at her booking visit. In addition to the standard antenatal bloods she also had her rubella status checked as she didn't have the MMR vaccine as a child. She is now 11 weeks pregnant and currently well.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Rubella IgG</td><td>NOT detected</td></tr></tbody></table></div><br />What is the most appropriate course of action?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This scenario is now rare due to the widespread uptake of the MMR vaccination. It does however still occur, particularly in immigrant communities.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You review the blood results taken from a pregnant woman at her booking visit. In addition to the standard antenatal bloods she also had her rubella status checked as she didn't have the MMR vaccine as a child. She is now 11 weeks pregnant and currently well.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Rubella IgG</td><td>NOT detected</td></tr></tbody></table></div><br />What is the most appropriate course of action?",
+        "correct_answer": "1",
+        "question_notes": "This scenario is now rare due to the widespread uptake of the MMR vaccination. It does however still occur, particularly in immigrant communities.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Rubella and pregnancy",
+        "body": "Rubella, also known as German measles, is a viral infection caused by the togavirus. Following the introduction of the MMR vaccine it is now rare. If contracted during pregnancy there is a risk of congenital rubella syndrome. Remember that the incubation period is 14-21 days and individuals are infectious from 7 days before symptoms appear to 4 days after the onset of the rash. <br /><br />Risk<br /><ul><li>in first 8-10 weeks risk of damage to fetus is as high as 90%</li><li>damage is rare after 16 weeks</li></ul><br />Features of congenital rubella syndrome<br /><ul><li>sensorineural deafness</li><li>congenital cataracts</li><li>congenital heart disease (e.g. patent ductus arteriosus)</li><li>growth retardation</li><li>hepatosplenomegaly</li><li>purpuric skin lesions</li><li>'salt and pepper' chorioretinitis</li><li>microphthalmia</li><li>cerebral palsy</li></ul><br />Diagnosis<br /><ul><li>suspected cases should be discussed immediately with the local Health Protection Unit (HPU) as type/timing of investigations may vary</li><li>IgM antibodies are raised in women recently exposed to the virus</li><li>it should be noted that it is very difficult to distinguish rubella from parvovirus B19 clinically. It is therefore important to also check parvovirus B19 serology as there is a 30% risk of transplacental infection, with a 5-10% risk of fetal loss</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"3378\">suspected cases of rubella in pregnancy should be discussed with the local Health Protection Unit</span></li><li>since 2016, rubella immunity is no longer routinely checked at the booking visit</li><li>if a woman is however tested at any point and no immunity is demonstrated they should be advised to keep away from people who might have rubella</li><li><span class=\"concept\" data-cid=\"2957\">non-immune mothers should be offered the MMR vaccination in the post-natal period</span><ul><li><span class=\"concept\" data-cid=\"10335\">MMR vaccines should not be administered to women known to be pregnant or attempting to become pregnant</span></li></ul></li></ul>",
+        "notes_hash": "3323d9c3eb9be448dc84d83e38908448",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5802",
+        "up_votes": "35",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "3755",
+            "66",
+            "514",
+            "867",
+            "600",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2957": {
+                "concept_text": "If a pregnant woman is not immune to rubella, she should be offered the MMR vaccination in the post-natal period",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_241",
+        "new_question_id": "15309",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3643",
+        "notes_id_link": "1_1037",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hypothermia",
+            "Hypercalcaemia",
+            "Hyperthyroidism",
+            "Hypermagnesaemia",
+            "Hypoglycemia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old homeless lady is brought into the emergency department by the paramedics. They have found her unconscious and an ECG shows a broad complex polymorphic tachycardia indicative of torsades de pointes.  Which of the following could be a cause of this woman's arrhythmia?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about a patient presenting with a broad complex polymorphic tachycardia. This is characteristic of torsades de pointes. Therefore the correct answer is hypothermia, which is a known cause. <br /><br />Hypocalcaemia, hypokalemia, hypomagnesaemia are all causes of torsades de pointes and not their hyper counterparts listed above. <br /><br />There is no link between hypoglycemia or hyperthyroidism   and Torsades de Pointes",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old homeless lady is brought into the emergency department by the paramedics. They have found her unconscious and an ECG shows a broad complex polymorphic tachycardia indicative of torsades de pointes.  Which of the following could be a cause of this woman's arrhythmia?",
+        "correct_answer": "1",
+        "question_notes": "This question is asking about a patient presenting with a broad complex polymorphic tachycardia. This is characteristic of torsades de pointes. Therefore the correct answer is hypothermia, which is a known cause. <br /><br />Hypocalcaemia, hypokalemia, hypomagnesaemia are all causes of torsades de pointes and not their hyper counterparts listed above. <br /><br />There is no link between hypoglycemia or hyperthyroidism   and Torsades de Pointes",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Torsades de pointes",
+        "body": "Torsades de pointes ('twisting of the points') is a form of polymorphic ventricular tachycardia associated with a long QT interval. It may deteriorate into ventricular fibrillation and hence lead to sudden death.<br /><br />Causes of long QT interval<br /><ul><li>congenital<ul><li>Jervell-Lange-Nielsen syndrome</li><li>Romano-Ward syndrome</li></ul></li><li>antiarrhythmics: amiodarone, sotalol, class 1a antiarrhythmic drugs</li><li>tricyclic antidepressants</li><li>antipsychotics</li><li>chloroquine</li><li>terfenadine</li><li><span class=\"concept\" data-cid=\"6003\">erythromycin</span></li><li>electrolyte: hypocalcaemia, hypokalaemia, hypomagnesaemia</li><li>myocarditis</li><li><span class=\"concept\" data-cid=\"3643\">hypothermia</span></li><li><span class=\"concept\" data-cid=\"3139\">subarachnoid haemorrhage</span></li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4928\">IV magnesium sulphate</span></li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069c.png'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><div class='imagetext'>ECG showing torsades de pointes</div>",
+        "notes_hash": "f437fe0bc29269baa1461a5878531819",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hypothermia is a cause of Torsades de pointes",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "5849",
+        "up_votes": "20",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "3493",
+            "1152",
+            "278",
+            "620",
+            "306",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_353\" data-linkid=\"353\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_353\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"link_dislike_353\" data-linkid=\"353\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_353\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/polymorphic-vt-and-torsades-de-pointes-tdp/\">Torsades de pointes</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Long_QT_syndrome_and_Torsade.webm\" data-description=\"Long QT syndrome &amp; torsade de pointes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1097\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Long_QT_syndrome_and_Torsade.webm\" data-description=\"Long QT syndrome &amp; torsade de pointes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1097\">Long QT syndrome &amp; torsade de pointes</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1899\" data-mediaid=\"1899\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1899\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1899\" data-mediaid=\"1899\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1899\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "3643": {
+                "concept_text": "Hypothermia is a cause of Torsades de pointes",
+                "concept_percentile": "52"
+            },
+            "4928": {
+                "concept_text": "IV magnesium sulfate is used to treat torsades de pointes",
+                "concept_percentile": "70"
+            },
+            "6003": {
+                "concept_text": "Macrolides can cause torsades de pointes",
+                "concept_percentile": "73"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1709",
+        "new_question_id": "1084",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1046",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Viral wart",
+            "Orf",
+            "Pyogenic granuloma",
+            "Capillary haemangioma",
+            "Squamous cell carcinoma",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old woman who is 10 weeks pregnant presents with a rapidly growing lesion on her finger. This has grown from the size of a 'pin-prick' when it first appeared 4 weeks ago.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most likely diagnosis in this case is a <b>Pyogenic granuloma</b>. Pyogenic granulomas are benign, vascular skin lesions that grow rapidly over weeks or months. They can occur at any age but are more common in children and young adults, particularly pregnant women due to hormonal changes. The lesion often appears as a small, red, raised bump that may bleed easily. In this case, the rapid growth of the lesion and the patient's pregnancy status make pyogenic granuloma the most likely diagnosis.<br /><br />A <b>Viral wart</b> is less likely because these typically grow slowly over time rather than rapidly. Moreover, they usually have a rough surface whereas the lesion in question appears smooth.<br /><br /><b>Orf</b> is an infectious disease caused by a parapoxvirus affecting sheep and goats. Humans can contract it through direct contact with infected animals or contaminated objects. However, it usually presents as one or few lesions on hands or fingers with surrounding erythema and regional lymphadenopathy which does not seem to be the case here.<br /><br />A <b>Capillary haemangioma</b>, also known as strawberry naevus, commonly occurs in infants and usually regresses spontaneously by childhood. It would be rare for it to first appear in an adult woman.<br /><br />Finally, <b>Squamous cell carcinoma</b> (SCC) is unlikely given the patient's age - SCC typically occurs in older individuals who have had significant sun exposure over their lifetime. Furthermore, SCCs generally grow slowly over time rather than rapidly.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman who is 10 weeks pregnant presents with a rapidly growing lesion on her finger. This has grown from the size of a 'pin-prick' when it first appeared 4 weeks ago.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The most likely diagnosis in this case is a <b>Pyogenic granuloma</b>. Pyogenic granulomas are benign, vascular skin lesions that grow rapidly over weeks or months. They can occur at any age but are more common in children and young adults, particularly pregnant women due to hormonal changes. The lesion often appears as a small, red, raised bump that may bleed easily. In this case, the rapid growth of the lesion and the patient's pregnancy status make pyogenic granuloma the most likely diagnosis.<br /><br />A <b>Viral wart</b> is less likely because these typically grow slowly over time rather than rapidly. Moreover, they usually have a rough surface whereas the lesion in question appears smooth.<br /><br /><b>Orf</b> is an infectious disease caused by a parapoxvirus affecting sheep and goats. Humans can contract it through direct contact with infected animals or contaminated objects. However, it usually presents as one or few lesions on hands or fingers with surrounding erythema and regional lymphadenopathy which does not seem to be the case here.<br /><br />A <b>Capillary haemangioma</b>, also known as strawberry naevus, commonly occurs in infants and usually regresses spontaneously by childhood. It would be rare for it to first appear in an adult woman.<br /><br />Finally, <b>Squamous cell carcinoma</b> (SCC) is unlikely given the patient's age - SCC typically occurs in older individuals who have had significant sun exposure over their lifetime. Furthermore, SCCs generally grow slowly over time rather than rapidly.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Pyogenic granuloma",
+        "body": "Pyogenic granuloma is a relatively common benign skin lesion. The name is confusing as they are neither true granulomas nor pyogenic in nature. There are multiple alternative names but perhaps 'eruptive haemangioma' is the most useful.<br /><br />The cause of pyogenic granuloma is not known but a number of factors are linked:<br /><ul><li>trauma</li><li>pregnancy</li><li>more common in women and young adults</li></ul><br />Features<br /><ul><li>most common sites are head/neck, upper trunk and hands. Lesions in the oral mucosa are common in pregnancy</li><li>initially small red/brown spot</li><li>rapidly progress within days to weeks forming raised, red/brown lesions which are often spherical in shape</li><li>the lesions may bleed profusely or ulcerate</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd931.jpg\" data-fancybox=\"gallery\" data-caption=\"Pyogenic granuloma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd931.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pyogenic granuloma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd097.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd098b.jpg\" data-fancybox=\"gallery\" data-caption=\"Pyogenic granuloma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd098.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li>lesions associated with pregnancy often resolve spontaneously post-partum</li><li>other lesions usually persist. Removal methods include curettage and cauterisation, cryotherapy, excision</li></ul>",
+        "notes_hash": "b57684e97c42273deb630d3092a9be04",
+        "knowledge_graph_node_id_link": 11095,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5040",
+        "up_votes": "17",
+        "down_votes": "29",
+        "column_array": [
+            0,
+            "586",
+            "515",
+            "3171",
+            "272",
+            "496",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_79\" data-linkid=\"79\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_79\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_79\" data-linkid=\"79\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_79\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/pyogenic-granuloma/\">Pyogenic granuloma</a></td></tr></table>",
+        "media": "",
+        "comment_count": 10,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2172",
+        "new_question_id": "5690",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1902",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Furosemide",
+            "Sitagliptin",
+            "Simvastatin",
+            "Combined oral contraceptive",
+            "Nifedipine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A woman consults you regarding skin lesions on her chest. On examination there are two similar lesions, each a tiny red papule with visible fine vessels surrounding it. The lesions blanch on pressure. Which common medication may be responsible for the lesions?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This is a description of spider naevi, a type of skin angioma found in the distribution of the superior vena cava.  They can occur spontaneously, but multiple lesions are abnormal and may indicate excess oestrogen - typically due to liver cirrhosis (as the liver processes oestrogens), but also sometimes in response to pregnancy or oestrogen-containing medications.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A woman consults you regarding skin lesions on her chest. On examination there are two similar lesions, each a tiny red papule with visible fine vessels surrounding it. The lesions blanch on pressure. Which common medication may be responsible for the lesions?",
+        "correct_answer": "4",
+        "question_notes": "This is a description of spider naevi, a type of skin angioma found in the distribution of the superior vena cava.  They can occur spontaneously, but multiple lesions are abnormal and may indicate excess oestrogen - typically due to liver cirrhosis (as the liver processes oestrogens), but also sometimes in response to pregnancy or oestrogen-containing medications.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Spider naevi",
+        "body": "Spider naevi (also called spider angiomas) describe a central red papule with surrounding capillaries. The lesions blanch upon pressure. Spider naevi are almost always found on the upper part of the body. <br /><br />Spider naevi can be differentiated from telangiectasia by pressing on them and watching them fill. Spider naevi <span class=\"concept\" data-cid=\"4527\">fill from the centre</span>, telangiectasia from the edge .<br /><br />Around 10-15% of people will have one or more spider naevi and they are more common in childhood. Other associations<br /><ul><li>liver disease</li><li>pregnancy</li><li>combined oral contraceptive pill</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsx061.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of a spider naevi under the eye\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsx061.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd062b.jpg\" data-fancybox=\"gallery\" data-caption=\"Spider naevi are more common in childhood - this image shows a spider naevi under the eye of a child\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd062.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "5fb23c963a07b3123c1ade60b251581a",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6174",
+        "up_votes": "3",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "243",
+            "219",
+            "361",
+            "4431",
+            "920",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "4527": {
+                "concept_text": "Spider naevi can be differentiated from telangiectasia by pressing on them and watching them fill. Spider naevi fill from the centre, telangiectasia from the edge",
+                "concept_percentile": "48"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_52",
+        "new_question_id": "16258",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "3807",
+        "notes_id_link": "1_989",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Parotid tumour",
+            "Mumps",
+            "Lyme disease",
+            "Sarcoidosis",
+            "Sjogren's syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 50-year-old Afro-Caribbean male patient presents to the GP surgery with lumps on both sides of the face. He also reports a 6-months history of a dry cough with some night sweats. On examination, there is painless enlargement of both parotid glands. He is otherwise fit and well.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "In view of a dry cough and bilateral parotid swellings, the patient is likely to have sarcoidosis. Sarcoidosis is a cause of bilateral parotid swellings.<br /><br />Parotid tumours are usually unilateral.<br /><br />Mumps causes painful parotid enlargement and would not cause 6 months of a dry cough.<br /><br />Lyme disease does not usually cause parotid swellings.<br /><br />Sjogren's syndrome is a cause of bilateral parotid swellings but does not usually cause pulmonary symptoms",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50-year-old Afro-Caribbean male patient presents to the GP surgery with lumps on both sides of the face. He also reports a 6-months history of a dry cough with some night sweats. On examination, there is painless enlargement of both parotid glands. He is otherwise fit and well.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "In view of a dry cough and bilateral parotid swellings, the patient is likely to have sarcoidosis. Sarcoidosis is a cause of bilateral parotid swellings.<br /><br />Parotid tumours are usually unilateral.<br /><br />Mumps causes painful parotid enlargement and would not cause 6 months of a dry cough.<br /><br />Lyme disease does not usually cause parotid swellings.<br /><br />Sjogren's syndrome is a cause of bilateral parotid swellings but does not usually cause pulmonary symptoms",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Parotid gland swelling",
+        "body": "Swelling of this gland is either unilateral or bilateral. Disorders of the gland cause swelling and pain which may be pronounced on eating or talking. There may be associated fever and a foul taste in the mouth. <br /><br />Bilateral causes<br /><ul><li>viruses: mumps</li><li>sarcoidosis</li><li>Sjogren's syndrome</li><li>lymphoma</li><li>alcoholic liver disease</li></ul><br />Unilateral causes<br /><ul><li>tumour: pleomorphic adenomas</li><li>stones</li><li>infection</li></ul>",
+        "notes_hash": "0d23270e4957cbd0465bee4cffee20b0",
+        "knowledge_graph_node_id_link": 10305,
+        "concept": "Sarcoidosis is a cause of bilateral parotid swellings",
+        "concept_percentile": "75",
+        "concept_colour": "rgb(127,255,0)",
+        "number_attempts": "5761",
+        "up_votes": "50",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "1072",
+            "1046",
+            "117",
+            "2913",
+            "613",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_45",
+        "new_question_id": "14397",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3070",
+        "notes_id_link": "1_1350",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Routine hip referral",
+            "Urgent referral for hip ultrasound",
+            "Urgent hip referral for hip CT scan",
+            "Reassurance",
+            "Urgent hip referral for hip x-ray",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a foundation doctor on the postnatal ward. You perform a newborn examination on a one-day-old baby boy. He was born in good condition by normal vaginal delivery. When examining the hips you are concerned that you are able to relocate a dislocated left hip. What is the appropriate management step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This baby has a clearly abnormal ortolani manoeuvre which requires urgent assessment to identify potential developmental dysplasia of the hip. Ultrasound is the most appropriate  imaging, avoiding radiation and giving the best visualisation of the developing hip.<br /><br />Routine referral would cause unnecessary delay to this child's treatment and reassurance would be inappropriate  given the clearly abnormal screening test.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a foundation doctor on the postnatal ward. You perform a newborn examination on a one-day-old baby boy. He was born in good condition by normal vaginal delivery. When examining the hips you are concerned that you are able to relocate a dislocated left hip. What is the appropriate management step?",
+        "correct_answer": "2",
+        "question_notes": "This baby has a clearly abnormal ortolani manoeuvre which requires urgent assessment to identify potential developmental dysplasia of the hip. Ultrasound is the most appropriate  imaging, avoiding radiation and giving the best visualisation of the developing hip.<br /><br />Routine referral would cause unnecessary delay to this child's treatment and reassurance would be inappropriate  given the clearly abnormal screening test.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Developmental dysplasia of the hip",
+        "body": "Developmental dysplasia of the hip (DDH) is gradually replacing the old term 'congenital dislocation of the hip' (CDH). It affects around 1-3% of newborns.<br /><br />Risk factors<br /><ul><li><span class=\"concept\" data-cid=\"2816\">female sex: 6 times greater risk</span></li><li><span class=\"concept\" data-cid=\"10583\">breech presentation</span></li><li>positive family history</li><li>firstborn children</li><li>oligohydramnios</li><li>birth weight > 5 kg</li><li>congenital calcaneovalgus foot deformity</li></ul><br />DDH is slightly more common in the left hip. Around 20% of cases are bilateral.<br /><br />Screening for DDH<br /><ul><li>the following infants require a routine ultrasound examination<ul><li>first-degree family history of hip problems in early life</li><li><span class=\"concept\" data-cid=\"4234\">breech presentation at or after 36 weeks gestation</span>, irrespective of presentation at birth or mode of delivery</li><li>multiple pregnancy</li></ul></li><li>all infants are screened at both the newborn check and also the six-week baby check using the Barlow and Ortolani tests</li></ul><br />Clinical examination<br /><ul><li><span class=\"concept\" data-cid=\"3069\">Barlow test: attempts to dislocate an articulated femoral head</span></li><li><span class=\"concept\" data-cid=\"3070\">Ortolani test: attempts to relocate a dislocated femoral head</span></li><li>other important factors include:<ul><li><span class=\"concept\" data-cid=\"2278\">symmetry of leg length</span></li><li>level of knees when hips and knees are bilaterally flexed</li><li>restricted abduction of the hip in flexion</li></ul></li></ul><br />Imaging<br /><ul><li>ultrasound is generally used to confirm the diagnosis if clinically suspected</li><li>however, if the infant is <span class=\"concept\" data-cid=\"2279\">> 4.5 months then x-ray is the first line investigation</span></li></ul><br />Management<br /><ul><li>most unstable hips will spontaneously stabilise by 3-6 weeks of age</li><li>Pavlik harness (dynamic flexion-abduction orthosis) in children younger than 4-5 months</li><li>older children may require surgery</li></ul>",
+        "notes_hash": "79bf07d3864d30a6c6e4b7f333007cfb",
+        "knowledge_graph_node_id_link": 1353,
+        "concept": "Ortolani manoeuvre: attempted relocation of a newborn's femoral head after dislocation due to the Barlow manoeuvre ",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "4501",
+        "up_votes": "22",
+        "down_votes": "34",
+        "column_array": [
+            0,
+            "224",
+            "3258",
+            "73",
+            "551",
+            "395",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Publich Health England</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1664\" data-linkid=\"1664\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1664\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1664\" data-linkid=\"1664\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1664\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook\">2019 Newborn and infant physical examination (NIPE) screening programme handbook</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zUKW68dHhBI\" data-description=\"Developmental Dysplasia of the Hip (DDH)\" data-upvotes=\"25\" data-downvotes=\"4\" data-media=\"416\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zUKW68dHhBI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zUKW68dHhBI\" data-description=\"Developmental Dysplasia of the Hip (DDH)\" data-upvotes=\"25\" data-downvotes=\"4\" data-media=\"416\">Developmental Dysplasia of the Hip (DDH)</a></td></tr><tr><td><span ><small>Scientific Animations Without Borders - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_713\" data-mediaid=\"713\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_713\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"media_dislike_713\" data-mediaid=\"713\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_713\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AhRdwyXFuWw\" data-description=\"Congenital hip dysplasia\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"811\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/AhRdwyXFuWw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AhRdwyXFuWw\" data-description=\"Congenital hip dysplasia\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"811\">Congenital hip dysplasia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1406\" data-mediaid=\"1406\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1406\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1406\" data-mediaid=\"1406\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1406\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "3069": {
+                "concept_text": "Barlow manoeuvre: attempted dislocation of a newborns femoral head",
+                "concept_percentile": "62"
+            },
+            "3070": {
+                "concept_text": "Ortolani manoeuvre: attempted relocation of a newborn's femoral head after dislocation due to the Barlow manoeuvre ",
+                "concept_percentile": "56"
+            },
+            "4234": {
+                "concept_text": "All breech babies at or after 36 weeks gestation require USS for DDH screening at 6 weeks regardless of mode of delivery",
+                "concept_percentile": "94"
+            },
+            "10583": {
+                "concept_text": "Breech presentation is a risk factor for developmental dysplasia of the hip",
+                "concept_percentile": "44"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2209",
+        "new_question_id": "61340",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "11956",
+        "notes_id_link": "1_2925",
+        "theme": "First trimester bleeding at 7 weeks gestation management",
+        "instruction": "",
+        "options": [
+            "",
+            "Arrange transvaginal ultrasound scan",
+            "Measure serum beta-hCG level",
+            "Repeat urine pregnancy test in 7-10 days",
+            "Arrange transabdominal ultrasound scan",
+            "Measure serum progesterone level",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman presents to the Emergency Department with vaginal bleeding. She has a positive home pregnancy test and her last menstrual period was 7 weeks ago. She denies abdominal pain. Examination reveals minimal vaginal bleeding with a closed cervical os and no cervical motion tenderness.<br /><br />Select the single most appropriate next step from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Arrange transvaginal ultrasound scan</b> is the correct answer. According to NICE guidelines on ectopic pregnancy and miscarriage (2019), women presenting with bleeding at greater than 6 weeks gestation should be referred to an early pregnancy assessment service for investigation. A transvaginal ultrasound scan is the most important investigation in this scenario as it can identify the location of the pregnancy (intrauterine versus ectopic), determine viability by detecting a fetal pole and heartbeat, and assess for signs of miscarriage. At 7 weeks gestation, a transvaginal scan should be able to visualise an intrauterine gestational sac with a yolk sac and possibly a fetal pole with cardiac activity. This investigation is crucial for distinguishing between viable pregnancy, miscarriage, and ectopic pregnancy, which guides subsequent management. Even in the absence of pain, ectopic pregnancy remains in the differential diagnosis and must be excluded, making imaging essential rather than expectant management.<br /><br /><b>Measure serum beta-hCG level</b> may provide supportive information but is not the most appropriate next step. Whilst beta-hCG levels can help assess pregnancy viability when correlated with ultrasound findings or when serial measurements show appropriate rise or fall, they do not provide definitive information about pregnancy location or viability. A single beta-hCG measurement has limited diagnostic value in isolation. The priority in a woman at 7 weeks gestation with bleeding is to visualise the pregnancy directly with ultrasound to exclude ectopic pregnancy and assess viability, rather than relying on biochemical markers which may delay definitive diagnosis.<br /><br /><b>Repeat urine pregnancy test in 7-10 days</b> would be inappropriate at this gestation. This expectant approach is only suitable for women who are less than 6 weeks pregnant with bleeding but no pain or risk factors for ectopic pregnancy. This patient is 7 weeks gestation, which mandates referral for assessment and ultrasound scanning according to NICE guidelines. Delaying investigation could miss an ectopic pregnancy or other significant pathology requiring intervention.<br /><br /><b>Arrange transabdominal ultrasound scan</b> is less appropriate than transvaginal scanning in early pregnancy. Transabdominal ultrasound has lower sensitivity and resolution in the first trimester compared to the transvaginal approach. At 7 weeks gestation, structures may not be adequately visualised transabdominally, particularly in women with higher body mass index or retroverted uterus. Transvaginal ultrasound is the gold standard investigation for early pregnancy complications as it provides superior visualisation of early gestational structures.<br /><br /><b>Measure serum progesterone level</b> has limited clinical utility in this scenario. Whilst low progesterone levels may be associated with non-viable pregnancies, there is significant overlap between viable and non-viable pregnancies, making it an unreliable diagnostic tool. Progesterone measurement does not help localise the pregnancy or distinguish between intrauterine and ectopic pregnancy. Current NICE guidelines do not recommend routine progesterone measurement in the assessment of early pregnancy bleeding, as direct visualisation with ultrasound provides more definitive diagnostic information.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman presents to the Emergency Department with vaginal bleeding. She has a positive home pregnancy test and her last menstrual period was 7 weeks ago. She denies abdominal pain. Examination reveals minimal vaginal bleeding with a closed cervical os and no cervical motion tenderness.<br /><br />Select the single most appropriate next step from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Arrange transvaginal ultrasound scan</b> is the correct answer. According to NICE guidelines on ectopic pregnancy and miscarriage (2019), women presenting with bleeding at greater than 6 weeks gestation should be referred to an early pregnancy assessment service for investigation. A transvaginal ultrasound scan is the most important investigation in this scenario as it can identify the location of the pregnancy (intrauterine versus ectopic), determine viability by detecting a fetal pole and heartbeat, and assess for signs of miscarriage. At 7 weeks gestation, a transvaginal scan should be able to visualise an intrauterine gestational sac with a yolk sac and possibly a fetal pole with cardiac activity. This investigation is crucial for distinguishing between viable pregnancy, miscarriage, and ectopic pregnancy, which guides subsequent management. Even in the absence of pain, ectopic pregnancy remains in the differential diagnosis and must be excluded, making imaging essential rather than expectant management.<br /><br /><b>Measure serum beta-hCG level</b> may provide supportive information but is not the most appropriate next step. Whilst beta-hCG levels can help assess pregnancy viability when correlated with ultrasound findings or when serial measurements show appropriate rise or fall, they do not provide definitive information about pregnancy location or viability. A single beta-hCG measurement has limited diagnostic value in isolation. The priority in a woman at 7 weeks gestation with bleeding is to visualise the pregnancy directly with ultrasound to exclude ectopic pregnancy and assess viability, rather than relying on biochemical markers which may delay definitive diagnosis.<br /><br /><b>Repeat urine pregnancy test in 7-10 days</b> would be inappropriate at this gestation. This expectant approach is only suitable for women who are less than 6 weeks pregnant with bleeding but no pain or risk factors for ectopic pregnancy. This patient is 7 weeks gestation, which mandates referral for assessment and ultrasound scanning according to NICE guidelines. Delaying investigation could miss an ectopic pregnancy or other significant pathology requiring intervention.<br /><br /><b>Arrange transabdominal ultrasound scan</b> is less appropriate than transvaginal scanning in early pregnancy. Transabdominal ultrasound has lower sensitivity and resolution in the first trimester compared to the transvaginal approach. At 7 weeks gestation, structures may not be adequately visualised transabdominally, particularly in women with higher body mass index or retroverted uterus. Transvaginal ultrasound is the gold standard investigation for early pregnancy complications as it provides superior visualisation of early gestational structures.<br /><br /><b>Measure serum progesterone level</b> has limited clinical utility in this scenario. Whilst low progesterone levels may be associated with non-viable pregnancies, there is significant overlap between viable and non-viable pregnancies, making it an unreliable diagnostic tool. Progesterone measurement does not help localise the pregnancy or distinguish between intrauterine and ectopic pregnancy. Current NICE guidelines do not recommend routine progesterone measurement in the assessment of early pregnancy bleeding, as direct visualisation with ultrasound provides more definitive diagnostic information.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Bleeding in the first trimester",
+        "body": "Bleeding in the first trimester is a common reason women in early pregnancy seek medical attention.<br /><br />The main differential diagnosis is as follows:<br /><ul><li>miscarriage</li><li>ectopic pregnancy<ul><li>the most 'important' cause as missed ectopics can be potentially life-threatening</li></ul></li><li>implantation bleeding<ul><li>a diagnosis of exclusion</li></ul></li><li>miscellaneous conditions<ul><li>cervical ectropion</li><li>vaginitis</li><li>trauma</li><li>polyps</li></ul></li></ul><br />NICE released guidelines on the management of ectopic pregnancy and miscarriage in 2019. In these guidelines they discussed how to manage early bleeding:<br /><br /><h5 class='notes-heading'>Worrying symptoms suggestive of an ectopic</h5><br />If a woman has a <span class=\"concept\" data-cid=\"10627\">positive pregnancy test and any of the following she should be referred immediately</span> to an early pregnancy assessment service:<br /><ul><li>pain and abdominal tenderness</li><li>pelvic tenderness</li><li>cervical motion tenderness</li></ul><br /><h5 class='notes-heading'>>= 6 weeks gestation</h5><br />If the pregnancy is >  6 weeks gestation (or of uncertain gestation) and the woman has bleeding she should be referred to an early pregnancy assessment service.<br /><br />A <span class=\"concept\" data-cid=\"11956\">transvaginal ultrasound</span> scan is the most important investigation to identify the location of the pregnancy and whether there is a fetal pole and heartbeat.<br /><br /><h5 class='notes-heading'>< 6 weeks gestation</h5><br />If the pregnancy is <span class=\"concept\" data-cid=\"10626\">< 6 weeks gestation and women have bleeding, but NO pain or risk factors for ectopic pregnancy, then they can be managed expectantly</span>. These women should be advised: <br /><ul><li>to return if bleeding continues or pain develops</li><li>to repeat a urine pregnancy test after 7-10 days and to return if it is positive</li><li>a negative pregnancy test means that the pregnancy has miscarried</li></ul>",
+        "notes_hash": "5adfdc1acdb883fe48253e532553d377",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Bleeding in the first trimester: a transvaginal ultrasound scan is the most important investigation",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "94",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "61",
+            "17",
+            "9",
+            "6",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1691\" data-linkid=\"1691\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1691\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_1691\" data-linkid=\"1691\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1691\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng126/chapter/Recommendations\">2023 Ectopic pregnancy and miscarriage: diagnosis and initial management</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "10626": {
+                "concept_text": "Pregnant women who are < 6 weeks gestation and present with vaginal bleeding and no pain can be managed expectantly",
+                "concept_percentile": "78"
+            },
+            "11956": {
+                "concept_text": "Bleeding in the first trimester: a transvaginal ultrasound scan is the most important investigation",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_136",
+        "new_question_id": "7311",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2469",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral hormone replacement therapy",
+            "Oral azithromycin",
+            "Oral flucloxacillin",
+            "Topical oestrogen cream",
+            "Topical clotrimazole cream",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old woman reports that for the past 1 year she has found that having sex with her husband has become increasingly painful. She denies any discharge but says that her vagina often feels dry and sore. She has tried using vaginal moisturisers and lubricants which she believes have slightly eased the soreness.<br /><br />On examination the vagina appears pale and dry. <br /><br />Given the likely diagnosis which one of the following is the most suitable treatment method?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Atrophic vaginitis often occurs in women who are post-menopausal women. It presents with vaginal dryness, dyspareunia and occasional spotting. On examination the vagina may appear pale and dry. Treatment is with vaginal lubricants and moisturisers, if these do not help then topical oestrogen cream can be used.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old woman reports that for the past 1 year she has found that having sex with her husband has become increasingly painful. She denies any discharge but says that her vagina often feels dry and sore. She has tried using vaginal moisturisers and lubricants which she believes have slightly eased the soreness.<br /><br />On examination the vagina appears pale and dry. <br /><br />Given the likely diagnosis which one of the following is the most suitable treatment method?",
+        "correct_answer": "4",
+        "question_notes": "Atrophic vaginitis often occurs in women who are post-menopausal women. It presents with vaginal dryness, dyspareunia and occasional spotting. On examination the vagina may appear pale and dry. Treatment is with vaginal lubricants and moisturisers, if these do not help then topical oestrogen cream can be used.<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Atrophic vaginitis",
+        "body": "Atrophic vaginitis often occurs in women who are post-menopausal women. It presents with vaginal dryness, dyspareunia and occasional spotting. On examination, the vagina may appear pale and dry. Treatment is with vaginal lubricants and moisturisers -  if these do not help then topical oestrogen cream can be used.",
+        "notes_hash": "273d103db3d832d6e6f2dd26f2278a82",
+        "knowledge_graph_node_id_link": 1217,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4745",
+        "up_votes": "36",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "243",
+            "8",
+            "17",
+            "4451",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

@@ -1,0 +1,843 @@
+[
+    {
+        "question_id": "999_B_1324",
+        "new_question_id": "57389",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "11751",
+        "notes_id_link": "1_1099",
+        "theme": "Diagnosis for young woman with abdominal issues and pigmentation",
+        "instruction": "",
+        "options": [
+            "",
+            "Peutz-Jeghers syndrome",
+            "Familial adenomatous polyposis",
+            "Lynch syndrome",
+            "Crohn's disease",
+            "Juvenile polyposis syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old woman presents to the emergency department with severe abdominal pain and distension. She reports constipation over the past week. On examination, you notice pigmented patches on her lips and fingers. Imaging reveals bowel obstruction due to intussusception, and multiple small bowel polyps are identified. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Peutz-Jeghers syndrome</b> is characterised by gastrointestinal hamartomatous polyps and mucocutaneous hyperpigmentation, particularly around the lips and extremities. The presence of intussusception due to small bowel polyps in a young woman with these pigmentations strongly suggests this diagnosis. Individuals with Peutz-Jeghers syndrome have an increased risk of developing gastrointestinal cancers.<br /><br /><b>Familial adenomatous polyposis</b> involves numerous adenomatous colon polyps but lacks the characteristic pigmentation seen in Peutz-Jeghers syndrome. Patients typically present later in life with a significant risk of colorectal cancer if untreated.<br /><br /><b>Lynch syndrome</b>, or hereditary nonpolyposis colorectal cancer (HNPCC), is linked to early-onset colorectal cancer without the presence of numerous polyps or characteristic pigmentation, making it less likely given this patient's presentation.<br /><br /><b>Crohn's disease</b> can cause abdominal pain and bowel obstruction due to strictures but does not present with mucocutaneous pigmentation or multiple small bowel polyps typical of Peutz-Jeghers syndrome.<br /><br /><b>Juvenile polyposis syndrome</b> involves hamartomatous polyps primarily in children, without associated pigmentation changes as seen in Peutz-Jeghers syndrome. It also tends to involve fewer numbers of larger colonic rather than small bowel polyps.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old woman presents to the emergency department with severe abdominal pain and distension. She reports constipation over the past week. On examination, you notice pigmented patches on her lips and fingers. Imaging reveals bowel obstruction due to intussusception, and multiple small bowel polyps are identified. What is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "<b>Peutz-Jeghers syndrome</b> is characterised by gastrointestinal hamartomatous polyps and mucocutaneous hyperpigmentation, particularly around the lips and extremities. The presence of intussusception due to small bowel polyps in a young woman with these pigmentations strongly suggests this diagnosis. Individuals with Peutz-Jeghers syndrome have an increased risk of developing gastrointestinal cancers.<br /><br /><b>Familial adenomatous polyposis</b> involves numerous adenomatous colon polyps but lacks the characteristic pigmentation seen in Peutz-Jeghers syndrome. Patients typically present later in life with a significant risk of colorectal cancer if untreated.<br /><br /><b>Lynch syndrome</b>, or hereditary nonpolyposis colorectal cancer (HNPCC), is linked to early-onset colorectal cancer without the presence of numerous polyps or characteristic pigmentation, making it less likely given this patient's presentation.<br /><br /><b>Crohn's disease</b> can cause abdominal pain and bowel obstruction due to strictures but does not present with mucocutaneous pigmentation or multiple small bowel polyps typical of Peutz-Jeghers syndrome.<br /><br /><b>Juvenile polyposis syndrome</b> involves hamartomatous polyps primarily in children, without associated pigmentation changes as seen in Peutz-Jeghers syndrome. It also tends to involve fewer numbers of larger colonic rather than small bowel polyps.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Peutz-Jeghers syndrome",
+        "body": "Peutz-Jeghers syndrome is an <span class=\"concept\" data-cid=\"175\">autosomal dominant</span> condition characterised by numerous hamartomatous polyps in the gastrointestinal tract. It is also associated with pigmented freckles on the lips, face, palms and soles. <span class=\"concept\" data-cid=\"8350\">Although the polyps themselves don't have malignant potential</span>, around 50% of patients will have died from another gastrointestinal tract cancer by the age of 60 years. <br /><br />Genetics<br /><ul><li>autosomal dominant</li><li>responsible gene encodes serine threonine kinase LKB1 or STK11</li></ul><br />Features<br /><ul><li>hamartomatous polyps in the gastronintestinal tract (mainly small bowel) <ul><li><span class=\"concept\" data-cid=\"11751\">small bowel obstruction</span> is a common presenting complaint, often due to intussusception </li><li>gastrointestinal bleeding</li></ul></li><li>pigmented lesions on lips, oral mucosa, face, palms and soles</li></ul><br />Management<br /><ul><li>conservative unless complications develop</li></ul>",
+        "notes_hash": "c08531d42f336f6d32be929c0ce58376",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Small bowel obstruction (often due to intussusception) is a common presenting complaint in Peutz-Jegher's syndrome",
+        "concept_percentile": "41",
+        "concept_colour": "rgb(255,209,0)",
+        "number_attempts": "5158",
+        "up_votes": "7",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "3601",
+            "918",
+            "365",
+            "127",
+            "147",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermIS</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_502\" data-linkid=\"502\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_502\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_502\" data-linkid=\"502\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_502\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermis.net/dermisroot/en/42633/diagnose.htm\">Peutz-Jeghers syndrome images</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lSNBeokUQAI\" data-description=\"Peutz-Jeghers syndrome\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"572\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/lSNBeokUQAI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lSNBeokUQAI\" data-description=\"Peutz-Jeghers syndrome\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"572\">Peutz-Jeghers syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_981\" data-mediaid=\"981\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_981\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_981\" data-mediaid=\"981\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_981\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "175": {
+                "concept_text": "Peutz-Jeghers syndrome - autosomal dominant",
+                "concept_percentile": "1"
+            },
+            "11751": {
+                "concept_text": "Small bowel obstruction (often due to intussusception) is a common presenting complaint in Peutz-Jegher's syndrome",
+                "concept_percentile": "41"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_113",
+        "new_question_id": "17317",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "5140",
+        "notes_id_link": "1_1057",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Best disease",
+            "Juvenile retinoschisis",
+            "Glaucoma",
+            "Retinitis pigmentosa",
+            "Papilloedema",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 20-year-old male patient presents to the GP surgery with a 5-year history of progressively worsening vision in both eyes. He reports having diminishing peripheral visions as if looking through a tunnel. He is no longer able to play tennis because he has trouble seeing the balls. He is also having increasing trouble with his vision in dim lights. As a result, he has stopped driving at night. He is otherwise feeling well. He has no significant past medical history of note. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The patient is describing a slowly progressive peripheral vision loss and night blindness. Both are hallmarks of retinitis pigmentosa.<br /><br />Best disease and juvenile retinoschisis are both causes of central visual loss.<br /><br />Glaucoma is unlikely in this age group.<br /><br />Papilloedema is not consistent with the slow progressive history and patient does not have other symptoms such as headaches.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 20-year-old male patient presents to the GP surgery with a 5-year history of progressively worsening vision in both eyes. He reports having diminishing peripheral visions as if looking through a tunnel. He is no longer able to play tennis because he has trouble seeing the balls. He is also having increasing trouble with his vision in dim lights. As a result, he has stopped driving at night. He is otherwise feeling well. He has no significant past medical history of note. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "The patient is describing a slowly progressive peripheral vision loss and night blindness. Both are hallmarks of retinitis pigmentosa.<br /><br />Best disease and juvenile retinoschisis are both causes of central visual loss.<br /><br />Glaucoma is unlikely in this age group.<br /><br />Papilloedema is not consistent with the slow progressive history and patient does not have other symptoms such as headaches.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Tunnel vision",
+        "body": "Tunnel vision is the concentric diminution of the visual fields<br /><br />Causes<br /><ul><li>papilloedema</li><li>glaucoma</li><li>retinitis pigmentosa</li><li>choroidoretinitis</li><li>optic atrophy secondary to tabes dorsalis</li><li>hysteria</li></ul>",
+        "notes_hash": "89e2b25b5f76bd16e08bbeffcba75731",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Retinitis pigmentosa is a cause of tunnel vision",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "4734",
+        "up_votes": "27",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "70",
+            "284",
+            "542",
+            "3747",
+            "91",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "6273_B_11",
+        "new_question_id": "28511",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "10066",
+        "notes_id_link": "1_881",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "CT with contrast",
+            "CT without contrast",
+            "MRI with contrast",
+            "MRI without contrast",
+            "Ultrasound",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old woman with a history of intermittent episodes of limb weakness presents with symptoms of double vision, fatigue, and generalised aches and pains. On neurological examination, she has very brisk reflexes. Imaging of the brain and spine is ordered.<br /><br />Which imaging modality is best for the above situation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The concern in this patient is a demyelinating condition such as multiple sclerosis. MRI imaging, with contrast, of the brain and spine will demonstrate plaques representing areas of demyelination seen in multiple sclerosis, and this is therefore the correct answer.<br /><br />Although CT scanning is useful for ruling out space occupying lesions, this is not the top differential here, and CT scanning will not reveal demyelinating lesions. It is therefore not the preferred option, and is of limited use in the diagnosis of multiple sclerosis.<br /><br />MRI imaging without contrast is not adequate in viewing these demyelinating lesions. Recent studies have suggested it may be used in disease monitoring, but not for initial diagnosis. <br /><br />Ultrasound is not indicated here, and will not be of any diagnostic use given that the skull will prevent ultrasound evaluation of the brain. Cranial ultrasounds are used in neonates via the fontanelle to assess for bleeds and hydrocephalus.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old woman with a history of intermittent episodes of limb weakness presents with symptoms of double vision, fatigue, and generalised aches and pains. On neurological examination, she has very brisk reflexes. Imaging of the brain and spine is ordered.<br /><br />Which imaging modality is best for the above situation?",
+        "correct_answer": "3",
+        "question_notes": "The concern in this patient is a demyelinating condition such as multiple sclerosis. MRI imaging, with contrast, of the brain and spine will demonstrate plaques representing areas of demyelination seen in multiple sclerosis, and this is therefore the correct answer.<br /><br />Although CT scanning is useful for ruling out space occupying lesions, this is not the top differential here, and CT scanning will not reveal demyelinating lesions. It is therefore not the preferred option, and is of limited use in the diagnosis of multiple sclerosis.<br /><br />MRI imaging without contrast is not adequate in viewing these demyelinating lesions. Recent studies have suggested it may be used in disease monitoring, but not for initial diagnosis. <br /><br />Ultrasound is not indicated here, and will not be of any diagnostic use given that the skull will prevent ultrasound evaluation of the brain. Cranial ultrasounds are used in neonates via the fontanelle to assess for bleeds and hydrocephalus.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Multiple sclerosis: investigation",
+        "body": "Diagnosis requires demonstration of lesions disseminated in time and space<br /><br />MRI<br /><ul><li>high signal T2 lesions</li><li>periventricular plaques</li><li>Dawson fingers: often seen on FLAIR images - hyperintense lesions penpendicular to the corpus callosum</li></ul><br />CSF<br /><ul><li>oligoclonal bands (and not in serum)</li><li>increased intrathecal synthesis of IgG</li></ul><br />Visual evoked potentials<br /><ul><li>delayed, but well preserved waveform</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb141b.jpg\" data-fancybox=\"gallery\" data-caption=\"MRI showing multiple white matter plaques perpendicular to the corpus callosum giving the appearance of Dawson fingers\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb141.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb142b.jpg\" data-fancybox=\"gallery\" data-caption=\"MRI from a young patient with multiple sclerosis. Widespread periventricular, juxtacortical, post fossa and upper cervical cord high T2 regions are noted. Note the difference in the lesions with varying degrees of contrast enhancement and restricted diffusion indicating active/recent demyelination. This satisfies the diagnostic criteria in terms of separation in terms of time-space\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb142.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb143b.jpg\" data-fancybox=\"gallery\" data-caption=\"MRI FLAIR from the same patient as above. The numerous lesions are more easily identified than in the above T2 image\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb143.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "829ad2cb678d10d2fcbbb38dc4ca8e7a",
+        "knowledge_graph_node_id_link": 1076,
+        "concept": "MRI with contrast should be used to view demyelinating lesions",
+        "concept_percentile": "98",
+        "concept_colour": "rgb(10,255,0)",
+        "number_attempts": "4887",
+        "up_votes": "14",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "154",
+            "286",
+            "3564",
+            "874",
+            "9",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KcZUPqobMgI\" data-description=\"Multiple sclerosis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"671\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/KcZUPqobMgI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KcZUPqobMgI\" data-description=\"Multiple sclerosis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"671\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1161\" data-mediaid=\"1161\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1161\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1161\" data-mediaid=\"1161\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1161\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ReXMFCQALHM\" data-description=\"Multiple sclerosis\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"102\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ReXMFCQALHM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ReXMFCQALHM\" data-description=\"Multiple sclerosis\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"102\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_173\" data-mediaid=\"173\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_173\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_173\" data-mediaid=\"173\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_173\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yzH8ul5PSZ8\" data-description=\"Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"4\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yzH8ul5PSZ8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yzH8ul5PSZ8\" data-description=\"Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"4\">Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_8\" data-mediaid=\"8\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_8\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_8\" data-mediaid=\"8\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_8\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ScaY3P2UOz8\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1470\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ScaY3P2UOz8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ScaY3P2UOz8\" data-description=\"Multiple sclerosis\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1470\">Multiple sclerosis</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2592\" data-mediaid=\"2592\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2592\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2592\" data-mediaid=\"2592\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2592\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14953_B_13",
+        "new_question_id": "23212",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "10974",
+        "notes_id_link": "1_2910",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "18 weeks",
+            "20 weeks",
+            "22 weeks",
+            "24 weeks",
+            "28 weeks",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You see a 38-year-old woman at the antenatal clinic. She has just had her anomaly scan and is being routinely reviewed. She mentions to the consultant how she is yet to feel the baby move, although in her previous pregnancies she felt movement by 18 weeks gestation.<br /><br />At what gestation would a referral to the maternal fetal medicine unit for her presentation be warranted?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Generally women can feel their babies move around 18-20 weeks, but this can be earlier especially in multiparous women. Reduced fetal movements can be a worrying sign of fetal distress and hypoxia. While singular episodes can often be harmless, they can also be an indication of stillbirths and restricted growth. Absent movements is very concerning and requires further investigation. The 24 week cut off is set by the Royal College of Obstetricians and Gynaecologists (RCOG).",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You see a 38-year-old woman at the antenatal clinic. She has just had her anomaly scan and is being routinely reviewed. She mentions to the consultant how she is yet to feel the baby move, although in her previous pregnancies she felt movement by 18 weeks gestation.<br /><br />At what gestation would a referral to the maternal fetal medicine unit for her presentation be warranted?",
+        "correct_answer": "4",
+        "question_notes": "Generally women can feel their babies move around 18-20 weeks, but this can be earlier especially in multiparous women. Reduced fetal movements can be a worrying sign of fetal distress and hypoxia. While singular episodes can often be harmless, they can also be an indication of stillbirths and restricted growth. Absent movements is very concerning and requires further investigation. The 24 week cut off is set by the Royal College of Obstetricians and Gynaecologists (RCOG).",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Reduced fetal movements",
+        "body": "<h5 class='notes-heading'> Introduction </h5><br />Reduced fetal movements can represent fetal distress, as a method of fetal compensation to reduce oxygen consumption as a response to chronic hypoxia in utero. This is concerning, as it reflects risk of stillbirth and fetal growth restriction. It is believed that there may also be a link between reduced fetal movements and placental insufficiency. <br /><br /><h5 class='notes-heading'> Physiology </h5><br />The first onset of recognised fetal movements is known as quickening. This usually occurs between 18-20 weeks gestation, and increase until 32 weeks gestation at which point the frequency of movement tends to plateau. Multiparous women will usually experience fetal movements sooner, from 16-18 weeks gestation. Towards the end of pregnancy, fetal movements should not reduce.<br /><br />Expectant mothers will usually quickly recognise a pattern to these movements. The nature of the movements themselves can be very variable. There is no established definition for what constitutes reduced fetal movements (RFM), but the RCOG considers less than 10 movements within 2 hours (in pregnancies past 28 weeks gestation) an indication for further assessment.<br /><br /><h5 class='notes-heading'> Epidemiology </h5><br />Fetal movements should be established by 24 weeks gestation.<br /><br />Reduced fetal movements is a fairly common presentation, affecting up to 15% of pregnancies. 3-5% of pregnant women will have recurrent presentations with RFM.<br /><br /> Risk factors for reduced fetal movements<br /><ul><li>Posture<ul><li>There can be positional changes in fetal movement awareness, generally being more prominent during lying down and less when sitting and standing</li></ul></li><li>Distraction<ul><li>Awareness of fetal movements can be distractable, and if a woman is busy or concentrating on something else, these can be less prominent</li></ul></li><li>Placental position<ul><li>Patient with anterior placentas prior to 28 weeks gestation may have lesser awareness of fetal movements</li></ul></li><li>Medication<ul><li>Both alcohol and sedative medications like opiates or benzodiazepines can temporarily cause reduced fetal movements</li></ul></li><li>Fetal position <ul><li>Anterior fetal position means movements are less noticeable</li></ul></li><li>Body habitus<ul><li>Obese patients are less likely to feel prominent fetal movements</li></ul></li><li>Amniotic fluid volume<ul><li>Both oligohydramnios and polyhydramnios can cause reduction in fetal movements</li></ul></li><li>Fetal size<ul><li>Up to 29% of women presenting with RFM have a SGA fetus</li></ul></li></ul><br /><h5 class='notes-heading'> Investigations </h5><br />Fetal movements are usually based solely on maternal perception, though it can also be objectively assessed using <span class=\"concept\" data-cid=\"10973\">handheld Doppler</span> or ultrasonography.<br /><br />As per RCOG Green-top guidelines, investigations are dependent of gestation at onset of RFM.<br /><br /><ul><li>If past 28 weeks gestation:<ul><li>Initially, handheld Doppler should be used to confirm fetal heartbeat.</li><li>If no fetal heartbeat detectable, <span class=\"concept\" data-cid=\"10975\">immediate ultrasound</span> should be offered.</li><li>If fetal heartbeat present, CTG should be used for at least 20 minutes to monitor fetal heart rate which can assist in excluding fetal compromise.</li><li>If concern remains, despite normal CTG, urgent (within 24 hours) ultrasound can be used. Ultrasound assessment should include abdominal circumference or estimated fetal weight (to exclude SGA), and amniotic fluid volume measurement</li></ul></li><li>If between 24 and 28 weeks gestation, a handheld Doppler should be used to confirm presence of fetal heartbeat.</li><li>If below 24 weeks gestation, and fetal movements have previously been felt, a handheld Doppler should be used.</li><li>If fetal movements have not yet been felt by <span class=\"concept\" data-cid=\"10974\">24 weeks</span>, onward referral should be made to a maternal fetal medicine unit.</li></ul><br />If RFM are recurrent, further investigations are also required to consider structural or genetic fetal abnormalities.<br /><br /><h5 class='notes-heading'> Prognosis </h5><br />Concern regarding absent or reduced fetal movements stems for the potential for this presentation to represent fetal distress or impending demise. Between 40-55% of women who suffer from stillbirth experience reduced fetal movements prior to diagnosis.<br /><br />However, in 70% of pregnancies with a single episode of reduced fetal movement, there is no onward complication.",
+        "notes_hash": "aacdd8b62990f95bc5c0f3f044b4cdf7",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "If fetal movements have not yet been felt by 24 weeks, referral should be made to a maternal fetal medicine unit",
+        "concept_percentile": "78",
+        "concept_colour": "rgb(112,255,0)",
+        "number_attempts": "5108",
+        "up_votes": "30",
+        "down_votes": "27",
+        "column_array": [
+            0,
+            "381",
+            "1754",
+            "940",
+            "1800",
+            "233",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Obstetricians and Gynaecologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1631\" data-linkid=\"1631\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1631\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1631\" data-linkid=\"1631\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1631\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/en/guidelines-research-services/guidelines/gtg57/\">2011 Reduced fetal movements guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "10974": {
+                "concept_text": "If fetal movements have not yet been felt by 24 weeks, referral should be made to a maternal fetal medicine unit",
+                "concept_percentile": "78"
+            },
+            "10975": {
+                "concept_text": "If after 28/40 weeks, if a woman reports reduced fetal movements and no heart is detected with handheld Doppler then an immediate ultrasound should be offered",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1859",
+        "new_question_id": "50480",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "12134",
+        "notes_id_link": "1_1602",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Botulinum toxin",
+            "Diazepam",
+            "Diphenhydramine",
+            "Procyclidine",
+            "Trihexyphenidyl",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old man presents to the emergency department with restlessness and agitation. It is difficult to obtain a history from him, although his records show a past medical history of schizophrenia.<br /><br />Whilst in the department, he develops a fixed stare. Shortly after, involuntary upward deviation of the eyes is noted.<br /><br />What is the most appropriate management option?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is experiencing an oculogyric crisis (OGC). This is a non-life-threatening dystonic reaction to drugs or medical conditions. Most commonly, it occurs in patients who take antipsychotics, particularly older-generation drugs such as haloperidol, as well as metoclopramide. It is also seen in post-encephalitic parkinsonism. Management involves immediate cessation of the causative medication and administration of <b>procyclidine</b>. Its mechanism of action is primarily thought to revolve around blocking central cholinergic activity. Benztropine may also be used.<br /><br /><b>Botulinum toxin</b> is incorrect. Injections of botulinum toxin may be used to relieve dystonic muscles. However, it is not suitable in the case of OGC.<br /><br /><b>Diazepam</b> is incorrect. Although benzodiazepines can be used to quickly relieve the symptoms of painful OGC, procyclidine is the more definitive option.<br /><br /><b>Diphenhydramine</b> is a first-generation antihistamine that has also been shown to improve the symptoms of OGC. However, procyclidine is typically used first-line.<br /><br /><b>Trihexyphenidyl</b> is incorrect. This is an anticholinergic drug and is used in the treatment of parkinsonism. It is not typically used for OGC.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old man presents to the emergency department with restlessness and agitation. It is difficult to obtain a history from him, although his records show a past medical history of schizophrenia.<br /><br />Whilst in the department, he develops a fixed stare. Shortly after, involuntary upward deviation of the eyes is noted.<br /><br />What is the most appropriate management option?",
+        "correct_answer": "4",
+        "question_notes": "This patient is experiencing an oculogyric crisis (OGC). This is a non-life-threatening dystonic reaction to drugs or medical conditions. Most commonly, it occurs in patients who take antipsychotics, particularly older-generation drugs such as haloperidol, as well as metoclopramide. It is also seen in post-encephalitic parkinsonism. Management involves immediate cessation of the causative medication and administration of <b>procyclidine</b>. Its mechanism of action is primarily thought to revolve around blocking central cholinergic activity. Benztropine may also be used.<br /><br /><b>Botulinum toxin</b> is incorrect. Injections of botulinum toxin may be used to relieve dystonic muscles. However, it is not suitable in the case of OGC.<br /><br /><b>Diazepam</b> is incorrect. Although benzodiazepines can be used to quickly relieve the symptoms of painful OGC, procyclidine is the more definitive option.<br /><br /><b>Diphenhydramine</b> is a first-generation antihistamine that has also been shown to improve the symptoms of OGC. However, procyclidine is typically used first-line.<br /><br /><b>Trihexyphenidyl</b> is incorrect. This is an anticholinergic drug and is used in the treatment of parkinsonism. It is not typically used for OGC.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Oculogyric crisis",
+        "body": "An oculogyric crisis is a dystonic reaction to certain drugs or medical conditions<br /><br />Features<br /><ul><li>restlessness, agitation</li><li>involuntary upward deviation of the eyes</li></ul><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"6152\">antipsychotics</span></li><li>metoclopramide</li><li>postencephalitic Parkinson's disease</li></ul><br />Management<br /><ul><li>cessation of causative medication if possible</li><li>intravenous <span class=\"concept\" data-cid=\"9324\">antimuscarinic</span>:  <span class=\"concept\" data-cid=\"12134\">benztropine or procyclidine</span></li></ul>",
+        "notes_hash": "c3bf20c92c2062dfdf7b81ba25793fb1",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Benztropine or procyclidine may be used to manage an oculogyric crisis",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "4004",
+        "up_votes": "2",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "65",
+            "803",
+            "136",
+            "2907",
+            "93",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "12134": {
+                "concept_text": "Benztropine or procyclidine may be used to manage an oculogyric crisis",
+                "concept_percentile": "83"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_445",
+        "new_question_id": "10532",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "888",
+        "notes_id_link": "1_836",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reduced severity of exacerbations",
+            "Improved all cause mortality",
+            "Reduced use of bronchodilators",
+            "Slows decline in FEV1",
+            "Reduced frequency of exacerbations",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old woman with chronic obstructive pulmonary disease (COPD) is prescribed an inhaled corticosteroid. What is the main therapeutic benefit of inhaled corticosteroids in patients with COPD?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Reduced frequency of exacerbations</b>. Inhaled corticosteroids (ICS) are used in the management of COPD primarily to reduce the frequency of exacerbations. This is based on evidence from numerous clinical trials, which have shown that ICS use in COPD patients reduces the rate of exacerbations, especially in those with a history of frequent exacerbations. This therapeutic benefit can significantly improve patient's quality of life and decrease hospital admissions.<br /><br />The option <b>Reduced severity of exacerbations</b> is incorrect. While it might seem logical that if ICS can reduce the frequency of exacerbations, they could also reduce their severity, current evidence does not support this. The severity of an exacerbation when it occurs is not influenced by prior use of ICS.<br /><br /><b>Improved all cause mortality</b> is also incorrect. Although reducing the number and severity of COPD exacerbations has important benefits for patients' quality of life, there's no robust evidence to suggest that these drugs improve all-cause mortality in COPD patients.<br /><br /><b>Reduced use of bronchodilators</b> as an option is misleading. While it's true that effective control of COPD symptoms might result in less need for rescue medication such as short-acting bronchodilators, this isn't a primary therapeutic goal or effect of ICS therapy itself.<br /><br />Finally, <b>Slows decline in FEV1</b>, while desirable, is not a proven benefit associated with ICS use in COPD patients. The decline in FEV1 (Forced Expiratory Volume in 1 second), a measure indicating disease progression in COPD, continues at its natural pace even with ICS treatment according to most research studies.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old woman with chronic obstructive pulmonary disease (COPD) is prescribed an inhaled corticosteroid. What is the main therapeutic benefit of inhaled corticosteroids in patients with COPD?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Reduced frequency of exacerbations</b>. Inhaled corticosteroids (ICS) are used in the management of COPD primarily to reduce the frequency of exacerbations. This is based on evidence from numerous clinical trials, which have shown that ICS use in COPD patients reduces the rate of exacerbations, especially in those with a history of frequent exacerbations. This therapeutic benefit can significantly improve patient's quality of life and decrease hospital admissions.<br /><br />The option <b>Reduced severity of exacerbations</b> is incorrect. While it might seem logical that if ICS can reduce the frequency of exacerbations, they could also reduce their severity, current evidence does not support this. The severity of an exacerbation when it occurs is not influenced by prior use of ICS.<br /><br /><b>Improved all cause mortality</b> is also incorrect. Although reducing the number and severity of COPD exacerbations has important benefits for patients' quality of life, there's no robust evidence to suggest that these drugs improve all-cause mortality in COPD patients.<br /><br /><b>Reduced use of bronchodilators</b> as an option is misleading. While it's true that effective control of COPD symptoms might result in less need for rescue medication such as short-acting bronchodilators, this isn't a primary therapeutic goal or effect of ICS therapy itself.<br /><br />Finally, <b>Slows decline in FEV1</b>, while desirable, is not a proven benefit associated with ICS use in COPD patients. The decline in FEV1 (Forced Expiratory Volume in 1 second), a measure indicating disease progression in COPD, continues at its natural pace even with ICS treatment according to most research studies.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "COPD: stable management",
+        "body": "NICE updated its guidelines on the management of chronic obstructive pulmonary disease (COPD) in 2018.<br /><br />General management<br /><ul><li><span class=\"concept\" data-cid=\"4006\">>smoking cessation</span> advice: including offering nicotine replacement therapy, varenicline or bupropion</li><li>annual influenza vaccination</li><li>one-off pneumococcal vaccination</li><li><span class=\"concept\" data-cid=\"3990\">pulmonary rehabilitation</span> to all people who view themselves as functionally disabled by COPD (usually Medical Research Council [MRC] grade 3 and above)</li></ul><br />Bronchodilator therapy<br /><ul><li><span class=\"concept\" data-cid=\"1499\">a short-acting beta2-agonist (SABA) or short-acting muscarinic antagonist (SAMA) is first-line treatment</span></li><li>for patients who remain breathless or have exacerbations despite using short-acting bronchodilators the next step is determined by whether the patient has <i>'asthmatic features/features suggesting steroid responsiveness'</i></li></ul><br />There are a <span class=\"concept\" data-cid=\"9525\">number of criteria NICE suggest to determine whether a patient has asthmatic/steroid responsive features:</span><br /><ul><li>any previous, secure diagnosis of asthma or of atopy</li><li>a higher blood eosinophil count - note that NICE recommend a full blood count for all patients as part of the work-up</li><li>substantial variation in FEV1 over time (at least 400 ml)</li><li>substantial diurnal variation in peak expiratory flow (at least 20%)</li></ul><br />Interestingly NICE do not recommend formal reversibility testing as one of the criteria. In the guidelines they state that <i>'routine spirometric reversibility testing is not necessary as part of the diagnostic process or to plan initial therapy with bronchodilators or corticosteroids. It may be unhelpful or misleading...'</i>. They then go on to discuss why they have reached this conclusion. Please see the guidelines for more details.<br /><br />No asthmatic features/features suggesting steroid responsiveness<br /><ul><li><span class=\"concept\" data-cid=\"889\">add a long-acting beta2-agonist (LABA) + long-acting muscarinic antagonist (LAMA)</span><ul><li><span class=\"concept\" data-cid=\"7723\">if already taking a SAMA, discontinue and switch to a SABA</span></li></ul></li></ul><br />Asthmatic features/features suggesting steroid responsiveness<br /><ul><li><span class=\"concept\" data-cid=\"890\">LABA + inhaled corticosteroid (ICS)</span></li><li>if patients remain breathless or have exacerbations offer <span class=\"concept\" data-cid=\"7505\">triple therapy i.e. LAMA + LABA + ICS</span><ul><li><span class=\"concept\" data-cid=\"7723\">if already taking a SAMA, discontinue and switch to a SABA</span></li></ul></li><li>NICE recommend the use of combined inhalers where possible</li><li>NICE specifically mention the <span class=\"concept\" data-cid=\"12493\">risk of pneumonia</span> in patients with COPD using inhaled corticosteroids</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd542b.png\" data-fancybox=\"gallery\" data-caption=\"NICE 2018 COPD guidelines - simplified flowchart\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd542.png\" alt=\"\" /></a></div></div></div><br />Oral theophylline<br /><ul><li>NICE only recommends theophylline after trials of short and long-acting bronchodilators or to people who cannot used inhaled therapy</li><li>the dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed</li></ul><br />Oral prophylactic antibiotic therapy<br /><ul><li><span class=\"concept\" data-cid=\"9761\">azithromycin prophylaxis is recommended in select patients</span></li><li>patients <span class=\"concept\" data-cid=\"10638\">should not smoke</span>, have optimised standard treatments and continue to have exacerbations</li><li>other prerequisites include a CT thorax (to exclude bronchiectasis) and sputum culture (to exclude atypical infections and tuberculosis)</li><li>LFTs and an <span class=\"concept\" data-cid=\"9526\">ECG to exclude QT prolongation should also be done as azithromycin can prolong the QT interval</span></li></ul><br /><span class=\"concept\" data-cid=\"12253\">Standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics</span> to keep at home if:  <a href='https://www.nice.org.uk/guidance/ng115/chapter/Recommendations#managing-stable-copd:~:text=Offer%20people%20a%20short%20course%20of%20oral%20corticosteroids%20and%20a%20short%20course%20of%20oral%20antibiotics%20to%20keep%20at%20home%20as%20part%20of%20their%20exacerbation%20action%20plan%20if%3A' title='NICE - 2018 COPD guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>have had an exacerbation within the last year</li><li>understand how to take the medication, and are aware of associated risks and benefits</li><li>know to when to seek help and when to ask for replacements once medication has been used</li></ul><br />Mucolytics<br /><ul><li>should be 'considered' in patients with a chronic productive cough and continued if symptoms improve</li></ul><br /><span class=\"concept\" data-cid=\"12077\">Phosphodiesterase-4 (PDE-4) inhibitors</span>  <a href='https://www.nice.org.uk/guidance/ta461/chapter/1-Recommendations#:~:text=1-,Recommendations,-1.1' title='NICE - Roflumilast NICE recommendations' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>oral PDE-4 inhibitors such as roflumilast reduce the risk of COPD exacerbations in patients with severe COPD and a history of frequent COPD exacerbations</li><li>NICE recommend if:<ul><li>the disease is severe, defined as a forced expiratory volume in 1 second (FEV1) after a bronchodilator of less than 50% of predicted normal, and</li><li>the person has had 2 or more exacerbations in the previous 12 months despite triple inhaled therapy with a long-acting muscarinic antagonist, a long-acting beta-2 agonist and an inhaled corticosteroid</li></ul></li></ul><br />Cor pulmonale<br /><ul><li>features include peripheral oedema, raised jugular venous pressure, systolic parasternal heave, loud P2</li><li>use a loop diuretic for oedema, consider long-term oxygen therapy</li><li>ACE-inhibitors, calcium channel blockers and alpha blockers are not recommended by NICE</li></ul><br />Factors which may improve survival in patients with stable COPD<br /><ul><li>smoking cessation - the single most important intervention in patients who are still smoking </li><li>long term oxygen therapy in patients who fit criteria </li><li>lung volume reduction surgery in selected patients</li></ul>",
+        "notes_hash": "1b3e15be8109654eb018de2330833108",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "COPD - reason for using inhaled corticosteroids - reduced exacerbations",
+        "concept_percentile": "74",
+        "concept_colour": "rgb(132,255,0)",
+        "number_attempts": "6866",
+        "up_votes": "38",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "1796",
+            "450",
+            "642",
+            "274",
+            "3704",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Global Initiative for Chronic Obstructive Lung Disease</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_40\" data-linkid=\"40\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_40\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_40\" data-linkid=\"40\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_40\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">39</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://goldcopd.org/\">GOLD criteria 2017</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1362\" data-linkid=\"1362\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1362\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_1362\" data-linkid=\"1362\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1362\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">21</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations\">Roflumilast NICE recommendations</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1202\" data-linkid=\"1202\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1202\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">35</span><button type=\"button\" style=\"\" id=\"link_dislike_1202\" data-linkid=\"1202\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1202\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">33</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng115/chapter/Recommendations\">2018 COPD guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1429\" data-linkid=\"1429\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1429\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">50</span><button type=\"button\" style=\"\" id=\"link_dislike_1429\" data-linkid=\"1429\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1429\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741\">2018 COPD management diagram</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f3/Chronic_bronchitis.webm\" data-description=\"Chronic bronchitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"984\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f3/Chronic_bronchitis.webm\" data-description=\"Chronic bronchitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"984\">Chronic bronchitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1710\" data-mediaid=\"1710\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1710\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1710\" data-mediaid=\"1710\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1710\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GGkajjvMEAQ\" data-description=\"Cor pulmonale\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1291\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GGkajjvMEAQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GGkajjvMEAQ\" data-description=\"Cor pulmonale\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1291\">Cor pulmonale</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2286\" data-mediaid=\"2286\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2286\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_2286\" data-mediaid=\"2286\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2286\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UQGRcg35Dmk\" data-description=\"Cor pulmonale\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"897\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UQGRcg35Dmk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UQGRcg35Dmk\" data-description=\"Cor pulmonale\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"897\">Cor pulmonale</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1562\" data-mediaid=\"1562\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1562\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1562\" data-mediaid=\"1562\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1562\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XBg6hxGgyS4\" data-description=\"Understanding COPD\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1468\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XBg6hxGgyS4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XBg6hxGgyS4\" data-description=\"Understanding COPD\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1468\">Understanding COPD</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2588\" data-mediaid=\"2588\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2588\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2588\" data-mediaid=\"2588\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2588\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "889": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and <b>no</b> asthma/steroid responsive features --> add a LABA + LAMA",
+                "concept_percentile": "70"
+            },
+            "890": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and <b>asthma/steroid responsive features</b> --> add a LABA + ICS",
+                "concept_percentile": "50"
+            },
+            "1499": {
+                "concept_text": "A SABA or SAMA is the first-line pharmacological treatment of COPD",
+                "concept_percentile": "94"
+            },
+            "7505": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and a LABA + ICS --> add a LAMA",
+                "concept_percentile": "60"
+            },
+            "9525": {
+                "concept_text": "Asthmatic features/features suggesting steroid responsiveness in COPD: \r\n   - previous diagnosis of asthma or atopy\r\n   - a higher blood eosinophil count\r\n   - substantial variation in FEV1 over time (at least 400 ml)\r\n   - substantial diurnal variation in peak expiratory flow (at least 20%)",
+                "concept_percentile": "79"
+            },
+            "9761": {
+                "concept_text": "Azithromycin prophylaxis is recommended in COPD patients who meet certain criteria and who continue to have exacerbations",
+                "concept_percentile": "87"
+            },
+            "12253": {
+                "concept_text": "COPD standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics to keep at home",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2099",
+        "new_question_id": "61185",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "4328",
+        "notes_id_link": "1_2008",
+        "theme": "First-line acute treatment for paediatric migraine in 9-year-old",
+        "instruction": "",
+        "options": [
+            "",
+            "Paracetamol",
+            "Ibuprofen",
+            "Sumatriptan nasal spray",
+            "Pizotifen",
+            "Propranolol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 9-year-old girl presents to the GP with recurrent headaches. She describes bilateral frontal throbbing pain lasting several hours, accompanied by nausea. The headaches occur twice monthly and are worsened by playing netball. Neurological examination is normal.<br /><br />Select the single most appropriate first-line acute treatment from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Ibuprofen</b> is the correct answer and represents the first-line treatment for acute paediatric migraine. This patient presents with features consistent with migraine without aura: recurrent headaches with bilateral frontal location, pulsating quality, moderate intensity aggravated by physical activity (netball), and accompanying nausea. Evidence suggests that ibuprofen is more effective than paracetamol for treating acute migraine episodes in children. It should be given at the onset of symptoms to maximise efficacy. The anti-inflammatory properties of ibuprofen appear to be particularly beneficial in aborting migraine attacks. Parents should be advised to administer it early in the attack and ensure adequate dosing based on the child's weight. This approach aligns with current UK paediatric headache management guidelines and provides effective symptom relief for most children with migraine.<br /><br /><b>Paracetamol</b> is commonly used for paediatric headaches and is generally safe, but evidence indicates it is less effective than ibuprofen specifically for migraine in children. Whilst it may provide some relief and could be considered if ibuprofen is contraindicated, it should not be the first-line choice when migraine is the likely diagnosis. Paracetamol may be more appropriate for tension-type headaches where the evidence base is less clear regarding superiority of NSAIDs.<br /><br /><b>Sumatriptan nasal spray</b> is a triptan that may be used in children aged 12 years and older, making it potentially appropriate for this 9-year-old patient from an age perspective. However, it is a second-line treatment reserved for cases where simple analgesia has failed. Additionally, sumatriptan nasal spray is poorly tolerated by young people due to the unpleasant taste it causes in the back of the throat. Triptans should only be initiated after discussion with a specialist and require appropriate follow-up.<br /><br /><b>Pizotifen</b> is a prophylactic medication used to prevent migraine attacks rather than treat acute episodes. It would be considered if this patient were experiencing frequent migraines (typically more than 2-3 per month) that significantly impact quality of life or school attendance. Prophylaxis is not indicated based on the current presentation of twice-monthly headaches, and pizotifen has no role in acute symptom management.<br /><br /><b>Propranolol</b> is another prophylactic agent used alongside pizotifen as first-line preventative treatment in paediatric migraine. Like pizotifen, it has no role in managing acute migraine episodes and would only be considered if the frequency and severity of attacks warranted preventative therapy. Propranolol requires careful monitoring and may have side-effects including fatigue and exercise intolerance, which could be particularly relevant in an active child.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 9-year-old girl presents to the GP with recurrent headaches. She describes bilateral frontal throbbing pain lasting several hours, accompanied by nausea. The headaches occur twice monthly and are worsened by playing netball. Neurological examination is normal.<br /><br />Select the single most appropriate first-line acute treatment from the options below.",
+        "correct_answer": "2",
+        "question_notes": "<b>Ibuprofen</b> is the correct answer and represents the first-line treatment for acute paediatric migraine. This patient presents with features consistent with migraine without aura: recurrent headaches with bilateral frontal location, pulsating quality, moderate intensity aggravated by physical activity (netball), and accompanying nausea. Evidence suggests that ibuprofen is more effective than paracetamol for treating acute migraine episodes in children. It should be given at the onset of symptoms to maximise efficacy. The anti-inflammatory properties of ibuprofen appear to be particularly beneficial in aborting migraine attacks. Parents should be advised to administer it early in the attack and ensure adequate dosing based on the child's weight. This approach aligns with current UK paediatric headache management guidelines and provides effective symptom relief for most children with migraine.<br /><br /><b>Paracetamol</b> is commonly used for paediatric headaches and is generally safe, but evidence indicates it is less effective than ibuprofen specifically for migraine in children. Whilst it may provide some relief and could be considered if ibuprofen is contraindicated, it should not be the first-line choice when migraine is the likely diagnosis. Paracetamol may be more appropriate for tension-type headaches where the evidence base is less clear regarding superiority of NSAIDs.<br /><br /><b>Sumatriptan nasal spray</b> is a triptan that may be used in children aged 12 years and older, making it potentially appropriate for this 9-year-old patient from an age perspective. However, it is a second-line treatment reserved for cases where simple analgesia has failed. Additionally, sumatriptan nasal spray is poorly tolerated by young people due to the unpleasant taste it causes in the back of the throat. Triptans should only be initiated after discussion with a specialist and require appropriate follow-up.<br /><br /><b>Pizotifen</b> is a prophylactic medication used to prevent migraine attacks rather than treat acute episodes. It would be considered if this patient were experiencing frequent migraines (typically more than 2-3 per month) that significantly impact quality of life or school attendance. Prophylaxis is not indicated based on the current presentation of twice-monthly headaches, and pizotifen has no role in acute symptom management.<br /><br /><b>Propranolol</b> is another prophylactic agent used alongside pizotifen as first-line preventative treatment in paediatric migraine. Like pizotifen, it has no role in managing acute migraine episodes and would only be considered if the frequency and severity of attacks warranted preventative therapy. Propranolol requires careful monitoring and may have side-effects including fatigue and exercise intolerance, which could be particularly relevant in an active child.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Headache in children",
+        "body": "Some of the following is based on an excellent review article on the Great Ormond Street Hospital website.<br /><br />Epidemiology<br /><ul><li>up to 50 per cent of 7-year-olds and up to 80 per cent of 15-year-old have experienced at least one headache</li><li>equally as common in boys/girls until puberty then strong (3:1) female preponderance </li></ul><br /><h5 class='notes-heading'>Migraine</h5><br />Migraine without aura is the <span class=\"concept\" data-cid=\"508\">most common cause of primary headache in children</span>. The International Headache Society (IHS) have produced criteria for paediatric migraine without aura:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>A</th><th>\t>= 5 attacks fulfilling features B to D</th></tr></thead><tbody><tr><td>B</td><td>Headache attack lasting 4-72 hours</td></tr><tr><td>C</td><td>Headache has at least two of the following four features:<br /><ul><li>bilateral or unilateral (frontal/temporal) location</li><li>pulsating quality</li><li>moderate to severe intensity</li><li>aggravated by routine physical activity</td></tr><tr><td></li></ul>D</td><td>At least one of the following accompanies headache:<br /><ul><li>nausea and/or vomiting</li><li>photophobia and phonophobia (may be inferred from behaviour)</td></tr></tbody></table></div></li></ul><br />Acute management<br /><ul><li>ibuprofen is thought to be more effective than paracetamol for paediatric migraine</li><li>triptans may be used in children >= 12 years but follow-up is required</li><li>sumatriptan nasal spay (licensed) is the only triptan that has proven efficacy but it is poorly tolerated by young people who don't like the taste in the back of the throat</li><li>it should be noted that oral triptans are not currently licensed in people < 18 years</li><li>side-effects of triptans include tingling, heat and heaviness/pressure sensations</li></ul><br />Prophylaxis<br /><ul><li>the evidence base is limited and no clear consensus guidelines exist</li><li>the GOSH website states: 'in practice, pizotifen and propranolol should be used as first line preventatives in children. Second line preventatives are valproate, topiramate and amitryptiline'</li></ul><br /><h5 class='notes-heading'>Tension-type headache (TTH)</h5><br />Tension-type headache is the second most common cause of headache in children. The IHS diagnostic criteria for TTH in children is reproduced below: <br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>A</th><th>\tAt least 10 previous headache episodes fulfilling features B to D</th></tr></thead><tbody><tr><td>B</td><td>\tHeadache lasting from 30 minutes to 7 days</td></tr><tr><td>C \t</td><td>At least two of the following pain characteristics:<br /><ul><li>pressing/tightening (non/pulsating) quality</li><li>mild or moderate intensity (may inhibit but does not prohibit activity)</li><li>bilateral location</li><li>no aggravation by routine physical activity</td></tr><tr><td></li></ul>D</td><td>\tBoth of the following:<br /><ul><li>no nausea or vomiting</li><li>photophobia and phonophobia, or one, but not the other is present</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "fb38669e3ad7dd81f091078722e8b315",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Ibuprofen is the first-line treatment for paediatric migraine",
+        "concept_percentile": "98",
+        "concept_colour": "rgb(10,255,0)",
+        "number_attempts": "146",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "35",
+            "74",
+            "30",
+            "1",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "508": {
+                "concept_text": "Migraine is the most common cause of primary headache in children",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4213_B_21",
+        "new_question_id": "21434",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "10279",
+        "notes_id_link": "1_435",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Alzheimer's dementia",
+            "Frontotemporal dementia",
+            "Vascular dementia",
+            "Mild cognitive impairment",
+            "Parkinson's dementia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a doctor working on an elderly care ward. You are asked to perform a cognitive assessment of Mavis, an 81-year-old woman who is suspected of having dementia. <br /><br />You complete and Addenbrooke's Cognitive Exam-3 (ACE-3) exam with Mavis. Out of 100, she scores 68. There is a global deficit in all domains tested in the ACE-3.<br /><br />Given the above, information which condition do you suspect?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "ACE-3 is a validated tool that is both sensitive and specific for the detection of dementia. A score of 82 or less strongly suggests dementia.<br /><br />The domains tested are Memory, Attention, Fluency, Language and Visuospatial.<br /><br />People with Alzheimer's dementia show a global deficit in all of the domains. Later, particular deficits might be seen in memory and attention, in keeping with damage to the medial temporal lobe.<br /><br />Those with frontotemporal dementia will show deficits in fluency and language, reflecting primarily damage to the frontal lobe. <br /><br />Vascular dementia deficits will depend on if there was a previous stroke and the location of this damage. Because of this variability, and the fact that vascular dementia often co-exists with other types, there is no consistent pattern seen in ACE-3 examinations.<br /><br />Mild cognitive impairment (MCI) is a prodromal phase to many forms of dementia that includes a cognitive deficit but normal functioning. An ACE-3 score of 82-88 suggests MCI. As the patient in this scenario had a score of 68, the diagnosis is not MCI.<br /><br />People with Parkinson's dementia often show deficits in the visuospatial domain as well as memory and attention.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a doctor working on an elderly care ward. You are asked to perform a cognitive assessment of Mavis, an 81-year-old woman who is suspected of having dementia. <br /><br />You complete and Addenbrooke's Cognitive Exam-3 (ACE-3) exam with Mavis. Out of 100, she scores 68. There is a global deficit in all domains tested in the ACE-3.<br /><br />Given the above, information which condition do you suspect?",
+        "correct_answer": "1",
+        "question_notes": "ACE-3 is a validated tool that is both sensitive and specific for the detection of dementia. A score of 82 or less strongly suggests dementia.<br /><br />The domains tested are Memory, Attention, Fluency, Language and Visuospatial.<br /><br />People with Alzheimer's dementia show a global deficit in all of the domains. Later, particular deficits might be seen in memory and attention, in keeping with damage to the medial temporal lobe.<br /><br />Those with frontotemporal dementia will show deficits in fluency and language, reflecting primarily damage to the frontal lobe. <br /><br />Vascular dementia deficits will depend on if there was a previous stroke and the location of this damage. Because of this variability, and the fact that vascular dementia often co-exists with other types, there is no consistent pattern seen in ACE-3 examinations.<br /><br />Mild cognitive impairment (MCI) is a prodromal phase to many forms of dementia that includes a cognitive deficit but normal functioning. An ACE-3 score of 82-88 suggests MCI. As the patient in this scenario had a score of 68, the diagnosis is not MCI.<br /><br />People with Parkinson's dementia often show deficits in the visuospatial domain as well as memory and attention.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Alzheimer's disease: pathophysiology",
+        "body": "Alzheimer's disease (AD) is a progressive degenerative disease of the brain accounting for the majority of dementia seen in the UK.<br /><br />Risk factors<br /><ul><li>increasing age</li><li>family history of Alzheimer's disease</li><li>5% of cases are inherited as an autosomal dominant trait<ul><li>mutations in the amyloid precursor protein (chromosome 21), presenilin 1 (chromosome 14) and presenilin 2 (chromosome 1) genes are thought to cause the <span class=\"concept\" data-cid=\"2917\">inherited</span> form</li></ul></li><li><span class=\"concept\" data-cid=\"2918\">apoprotein E allele E4</span> - encodes a cholesterol transport protein</li><li>Caucasian ethnicity</li><li><span class=\"concept\" data-cid=\"8782\">Down's syndrome</span></li></ul><br /><span class=\"concept\" data-cid=\"8524\">Pathological changes</span><br /><ul><li>macroscopic: <ul><li><span class=\"concept\" data-cid=\"10203\">widespread cerebral atrophy, particularly involving the cortex and hippocampus</span></li></ul></li><li>microscopic: <ul><li>cortical plaques due to deposition of type A-Beta-amyloid protein and intraneuronal neurofibrillary tangles caused by abnormal aggregation of the tau protein</li><li>hyperphosphorylation of the tau protein has been linked to AD</li></ul></li><li>biochemical<ul><li>there is a deficit of acetylcholine from damage to an ascending forebrain projection</li></ul></li></ul><br />Neurofibrillary tangles<br /><ul><li>paired helical filaments are partly made from a protein called tau</li><li>tau is a protein that interacts with tubulin to stabilize microtubules and promote tubulin assembly into microtubules</li><li>in AD are tau proteins are excessively <span class=\"concept\" data-cid=\"8761\">phosphorylated</span>, impairing its function</li></ul>",
+        "notes_hash": "6b041993238e5dcd8bea3879bab1a0e1",
+        "knowledge_graph_node_id_link": 1085,
+        "concept": "Alzheimer's Dementia produces global deficits on the Addenbrookes Cognitive Exam",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "6227",
+        "up_votes": "53",
+        "down_votes": "41",
+        "column_array": [
+            0,
+            "4371",
+            "181",
+            "451",
+            "1162",
+            "62",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_290\" data-linkid=\"290\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_290\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_290\" data-linkid=\"290\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_290\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng97/chapter/Recommendations\">2018 Dementia guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gKZhp2JNYyI\" data-description=\"Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1366\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gKZhp2JNYyI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gKZhp2JNYyI\" data-description=\"Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1366\">Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body Dementia)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2405\" data-mediaid=\"2405\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2405\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2405\" data-mediaid=\"2405\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2405\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nPT1nD6Wh6E\" data-description=\"Alzheimer's disease\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"81\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nPT1nD6Wh6E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nPT1nD6Wh6E\" data-description=\"Alzheimer's disease\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"81\">Alzheimer's disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_142\" data-mediaid=\"142\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_142\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_142\" data-mediaid=\"142\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_142\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2015",
+        "new_question_id": "6724",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "0",
+        "notes_id_link": "1_224",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Routine referral to endoscopy",
+            "Treat <i>H. pylori</i>",
+            "3 month proton pump inhibitor trial",
+            "2 week referral to endoscopy",
+            "Triple therapy + ongoing proton pump inhibitor treatment",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You see a 52 year old lady in the General Practice surgery. She is complaining of progressive dyspepsia, dysphagia and fatigue. She describes a long history of dark brown stools, but no fresh blood is present.  She has not had any unexpected weight loss. She had surgery for a peptic ulcer 10 years ago.<br /><br />Investigations discover she has <i>H. pylori</i>.<br /><br />What is the next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most worrying diagnosis here would be upper GI cancer, and this patient warrants an urgent 2 week referral due to the presence of dysphagia. The fatigue is also suggestive of iron deficiency anaemia due to chronic upper GI bleeding (as shown by dark brown stools)<br /><br /><i>H. pylori</i> status should not affect decision to refer for suspected cancer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You see a 52 year old lady in the General Practice surgery. She is complaining of progressive dyspepsia, dysphagia and fatigue. She describes a long history of dark brown stools, but no fresh blood is present.  She has not had any unexpected weight loss. She had surgery for a peptic ulcer 10 years ago.<br /><br />Investigations discover she has <i>H. pylori</i>.<br /><br />What is the next step?",
+        "correct_answer": "4",
+        "question_notes": "The most worrying diagnosis here would be upper GI cancer, and this patient warrants an urgent 2 week referral due to the presence of dysphagia. The fatigue is also suggestive of iron deficiency anaemia due to chronic upper GI bleeding (as shown by dark brown stools)<br /><br /><i>H. pylori</i> status should not affect decision to refer for suspected cancer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Dyspepsia",
+        "body": "The 2015 NICE guidelines 'Suspected cancer: recognition and referral' further updated the advice on who needs urgent referral for an endoscopy (i.e. within 2 weeks). The list below combines the advice for oesophageal and stomach cancer, with the bold added by the author, not NICE.<br /><br /><h5 class='notes-heading'>Urgent</h5><br />All patients who've got <b>dysphagia</b><br /><br />All patients who've got an <b>upper abdominal mass</b> consistent with stomach cancer<br /><br />Patients aged >= 55 years who've got <span class=\"concept\" data-cid=\"10978\"><b>weight loss</b></span>, AND any of the following:<br /><ul><li>upper abdominal pain</li><li>reflux</li><li>dyspepsia </li></ul><br /><h5 class='notes-heading'>Non-urgent</h5><br />Patients with <b>haematemesis</b><br /><br />Patients aged >= 55 years who've got:<br /><ul><li><b>treatment-resistant dyspepsia</b> or</li><li>upper abdominal pain with low haemoglobin levels or</li><li><span class=\"concept\" data-cid=\"3463\"><b>raised platelet count</b></span> with any of the following: nausea, vomiting, weight loss, reflux, dyspepsia, upper abdominal pain</li><li>nausea or vomiting with any of the following: weight loss, reflux, dyspepsia, upper abdominal pain</li></ul><br /><br /><h5 class='notes-heading'>Managing patients who do not meet referral criteria ('undiagnosed dyspepsia')</h5><br />This can be summarised at a step-wise approach<br /><ul><li>1. <span class=\"concept\" data-cid=\"10980\">Review medications</span> for possible causes of dyspepsia</li><li>2. Lifestyle advice</li><li>3. Trial of full-dose proton pump inhibitor for one month OR a 'test and treat' approach for <i>H. pylori</i><ul><li><span class=\"concept\" data-cid=\"10979\">if symptoms persist after either of the above approaches then the alternative approach should be tried</span></li></ul></li></ul><br />Testing for <i>H. pylori</i> infection<br /><ul><li>initial diagnosis: NICE recommend using a <span class=\"concept\" data-cid=\"12524\">carbon-13 urea breath test or a stool antigen test</span>, or laboratory-based serology 'where its performance has been locally validated'</li><li>test of cure:<ul><li>there is <span class=\"concept\" data-cid=\"10943\">no need to check for <i>H. pylori</i> eradication if symptoms have resolved</span> following test and treat</li><li>however, if repeat testing is required then a carbon-13 urea breath test should be used</li></ul></li></ul>",
+        "notes_hash": "6513ab11fcfa300e6f665110c11ed5ac",
+        "knowledge_graph_node_id_link": 10114,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4610",
+        "up_votes": "5",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "155",
+            "542",
+            "45",
+            "2170",
+            "1698",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1036\" data-linkid=\"1036\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1036\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_1036\" data-linkid=\"1036\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1036\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg184/chapter/1-Recommendations\">2014 Gastro-oesophageal reflux disease and dyspepsia in adults</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_390\" data-linkid=\"390\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_390\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_390\" data-linkid=\"390\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_390\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng12/chapter/1-Recommendations-organised-by-site-of-cancer#upper-gastrointestinal-tract-cancers\">2015 Suspected cancer: recognition and referral</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f6/Peptic_Ulcers.webm\" data-description=\"Peptic ulcers\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"414\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f6/Peptic_Ulcers.webm\" data-description=\"Peptic ulcers\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"414\">Peptic ulcers</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_708\" data-mediaid=\"708\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_708\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_708\" data-mediaid=\"708\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_708\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "10978": {
+                "concept_text": "With dyspepsia, weight loss is a key symptom warranting an urgent referral",
+                "concept_percentile": "74"
+            },
+            "12524": {
+                "concept_text": "If testing for <i>H. pylori</i> in patients with new-onset dyspepsia, then  carbon-13 urea breath test or a stool antigen test (rather than serology) is recommended",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8603_B_95",
+        "new_question_id": "22046",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4061",
+        "notes_id_link": "1_1388",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Immediate referral to the emergency department for imaging",
+            "Routine referral to neurology",
+            "Refer to the transient ischaemic attack (TIA) clinic to be seen within 24 hours",
+            "Start clopidogrel",
+            "Aspirin 300mg stat",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Thomas is a 76-year-old man who had an unprovoked deep vein thrombosis two months ago for which he takes apixaban. He presents to his GP following a 20-minute episode of unilateral arm weakness that occurred 2 hours ago and has now completely resolved. His neurological examination is normal.<br /><br />What should his initial management be?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Patients presenting with a suspected TIA whilst taking anticoagulants or who have a bleeding disorder should have urgent imaging to exclude haemorrhage.<br /><br />Other patients should be given 300mg of aspirin immediately then assessed by a specialist within 24 hours. First-line secondary prevention is clopidogrel 75mg once daily. <br /><br />A routine referral to neurology would result in an unnecessary delay in treatment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Thomas is a 76-year-old man who had an unprovoked deep vein thrombosis two months ago for which he takes apixaban. He presents to his GP following a 20-minute episode of unilateral arm weakness that occurred 2 hours ago and has now completely resolved. His neurological examination is normal.<br /><br />What should his initial management be?",
+        "correct_answer": "1",
+        "question_notes": "Patients presenting with a suspected TIA whilst taking anticoagulants or who have a bleeding disorder should have urgent imaging to exclude haemorrhage.<br /><br />Other patients should be given 300mg of aspirin immediately then assessed by a specialist within 24 hours. First-line secondary prevention is clopidogrel 75mg once daily. <br /><br />A routine referral to neurology would result in an unnecessary delay in treatment.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Transient ischaemic attack",
+        "body": "A transient ischaemic attack (TIA), as the name suggests, is a brief period of neurological deficit due to a vascular cause, typically lasting less than an hour. The National Clinical Guideline for Stroke was published in 2023 and made a number of updated recommendations, including the use of dual antiplatelet therapy (DAPT). It should be noted that DAPT is not currently recommended for 'major' ischaemic stroke as the risk of haemorrhagic transformation is too high.<br /><br />The original definition of a TIA was time-based: a sudden onset of a focal neurologic symptom and/or sign lasting less than 24 hours, brought on by a transient decrease in blood flow. However, this has now changed as it is recognised that even short periods of ischaemia can result in pathological changes to the brain. Therefore, a new '<b>tissue-based'</b> definition is now used: <span class=\"concept\" data-cid=\"9800\">a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischaemia, without acute infarction.</span> <a href='https://radiopaedia.org/articles/transient-ischaemic-attack?lang=gb#:~:text=without%20acute%20infarction.-,Terminology,-In%20the%20past' title='Radiopaedia - Transient ischaemic attack' target='_blank' class='badge rounded-pill text-bg-light deeplink'>REF</a> <br /><br />Patients often use the term 'mini-stroke' for TIAs.<br /><br /><h5 class='notes-heading'>Clinical features</h5><br />The clinical features are similar to those of a stroke, i.e. sudden onset, focal neurological deficit but, rather than persisting, the features resolve, typically within 1 hour.<br /><br />Possible features include<br /><ul><li>unilateral weakness or sensory loss.</li><li>aphasia or dysarthria</li><li>ataxia, vertigo, or loss of balance</li><li>visual problems<ul><li>sudden transient loss of vision in one eye (amaurosis fugax)</li><li>diplopia</li><li>homonymous hemianopia</li></ul></li></ul><br /><h5 class='notes-heading'>Assessment and referral</h5><br />Patients with acute focal neurological symptoms that resolve completely within 24 hours of onset (i.e. suspected TIA) should:  <br /><ul><li>be given <span class=\"concept\" data-cid=\"12219\">aspirin 300 mg</span> immediately unless contraindicated </li><li>assessed urgently within 24 hours by a stroke specialist clinician</li></ul><br />Examples of TIA mimics that require exclusion<br /><ul><li><span class=\"concept\" data-cid=\"3993\">hypoglycaemia</span></li><li>intracranial haemorrhage<ul><li>all <span class=\"concept\" data-cid=\"4061\">patients on anticoagulants or with similar risk factors should be admitted for urgent imaging to exclude haemorrhage</span></li></ul></li></ul><br />If a patient presents more than 7 days ago they should be seen by a stroke specialist clinician as soon as possible within 7 days.<br /><br />The <span class=\"concept\" data-cid=\"1684\">ABCD2 prognostic score</span> has previously been used to risk stratify patients who present with a suspected TIA. However, data from studies have suggested it performs poorly and it is therefore no longer recommended.<br /><br />Patients with suspected TIA should be assessed by a stroke specialist clinician before a decision on brain imaging  <a href='https://www.nice.org.uk/guidance/ng128/chapter/Recommendations#imaging-for-people-who-have-had-a-suspected-tia-or-acute-non-disabling-stroke' title='NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>NICE recommend that CT brains should not be done '<i>unless there is clinical suspicion of an alternative diagnosis that CT could detect</i>'<ul><li>an example exception would be when there is a concern about haemorrhage as the patient is taking anticoagulants</li></ul></li><li><span class=\"concept\" data-cid=\"3417\">MRI (including diffusion-weighted and blood-sensitive sequences)</span> is preferred to determine the territory of ischaemia, or to detect haemorrhage or alternative pathologies<ul><li>it should be done on the same day as the specialist assessment if possible</li></ul></li></ul><br /><h5 class='notes-heading'>Management of TIA</h5><br />It should be remembered that patients who've had a TIA are at high risk of further vascular events, particularly in the first few days. This section covers management following a diagnosis, i.e. after being seen by a stroke specialist clinician.<br /><br /><h6 class='notes-subheading'>Medication</h6><br />Immediate antithrombotic therapy: <a href='https://www.strokeguideline.org/chapter/acute-care/?</td><td>gl=1*blvbdc*</td><td>up*MQ..*</td><td>ga*NDIwODM5NTIwLjE3MTQ3MzkxOTE.*</td><td>ga</td><td>EE3BZMVLRT*MTcxNDczOTE5MC4xLjEuMTcxNDczOTM0OC4wLjAuMA..#161:~:text=B-,Patients%20with%20TIA%20or%20minor%20ischaemic%20stroke,-should%20be%20given' title='National Clinical Guideline for Stroke - 2023 National Clinical Guideline for Stroke' target='_blank' class='badge rounded-pill text-bg-light deeplink'>REF</a><ul><li>patients with TIA or minor ischaemic stroke should be given antiplatelet therapy provided there is neither a contraindication nor a high risk of bleeding</li><li>for <span class=\"concept\" data-cid=\"12217\">patients within 24 hours of onset of TIA or minor ischaemic stroke and with a low risk of bleeding, the following DAPT regimes</span> should be considered:<ul><li>clopidogrel (initial dose 300 mg followed by 75 mg od) + aspirin (initial dose 300 mg followed by 75 mg od for 21 days) followed by <span class=\"concept\" data-cid=\"279\">monotherapy with clopidogrel 75 mg od</span></li><li>ticagrelor + clopidogrel is an alternative</li></ul></li><li><span class=\"concept\" data-cid=\"12218\">if not appropriate for DAPT</span>:<ul><li>clopidogrel 300 mg loading dose followed by 75 mg od should be given</li></ul></li><li>proton pump inhibitor therapy should be considered for DAPT</li></ul><br />The different antithrombotic recommendations may seem confusing - it is helpful to think of 3 different phases for a typical patient:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Resolved TIA symptoms, awaiting specialist review within 24 hours</th><th>Reviewed by specialist, initial 21 days when at high risk of further events</th><th>Long-term secondary prevention after 21 days</th></tr></thead><tbody><tr><td>Aspirin</td><td>Aspirin + Clopidogrel</td><td>Clopidogrel</td></tr></tbody></table></div><br />If a patient has atrial fibrillation they should be anticoagulated as soon as intracranial haemorrhage has been excluded.<br /><br />Lipid modification<br /><ul><li>high-intensity statin (such as atorvastatin 20-80 mg daily) - the aim of statin therapy is to reduce non-HDL cholesterol by more than 40%</li></ul></li></ul><br /><h6 class='notes-subheading'>Further investigation</h6><br />Carotid imaging<br /><ul><li><span class=\"concept\" data-cid=\"11529\">atherosclerosis in the carotid artery</span> may be a source of emboli in some patients</li><li>patients who are considered candidates for carotid intervention should have carotid imaging performed within 24 hours of assessment<ul><li><span class=\"concept\" data-cid=\"11530\">carotid duplex ultrasound</span> or either CT angiography or MR angiography</li></ul></li><li>carotid endarterectomy is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled <a href='https://www.nice.org.uk/guidance/ng128/chapter/Recommendations#imaging-for-people-who-have-had-a-suspected-tia-or-acute-non-disabling-stroke:~:text=Urgent%20carotid%20endarterectomy' title='NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>should only be considered if the <span class=\"concept\" data-cid=\"2583\">stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET)</span> criteria</li></ul></li></ul>  + it should be noted that previous guidelines have used other reporting methods, that have resulted in different cut-offs, e.g. European Carotid Surgery Trial (ECST) with a cut-off of 70%<br /><ul><li>it should be performed as soon as possible within 7 days</li></ul></li></ul>",
+        "notes_hash": "62cab92ff218121aa4fc701cc5361a4a",
+        "knowledge_graph_node_id_link": 1087,
+        "concept": "If a patient is on warfarin/a DOAC/ or has a bleeding disorder and they are suspected of having a TIA, they should be admitted immediately for imaging to exclude a haemorrhage",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "4864",
+        "up_votes": "38",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "2606",
+            "20",
+            "1608",
+            "37",
+            "593",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>RCP</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1176\" data-linkid=\"1176\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1176\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1176\" data-linkid=\"1176\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1176\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">25</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeaudit.org/SupportFiles/Documents/Guidelines/2016-National-Clinical-Guideline-for-Stroke-5t-(1).aspx\">2016 Stroke guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>National Clinical Guideline for Stroke</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2117\" data-linkid=\"2117\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2117\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2117\" data-linkid=\"2117\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2117\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeguideline.org/contents/\">2023 National Clinical Guideline for Stroke</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1507\" data-linkid=\"1507\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1507\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1507\" data-linkid=\"1507\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1507\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng128/chapter/Recommendations\">2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2096\" data-linkid=\"2096\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2096\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2096\" data-linkid=\"2096\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2096\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/transient-ischaemic-attack?lang=gb\">Transient ischaemic attack</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bRYzHVfxwL0\" data-description=\"Understanding Carotid Artery Stenosis\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"1300\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/bRYzHVfxwL0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bRYzHVfxwL0\" data-description=\"Understanding Carotid Artery Stenosis\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"1300\">Understanding Carotid Artery Stenosis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2300\" data-mediaid=\"2300\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2300\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2300\" data-mediaid=\"2300\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2300\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "279": {
+                "concept_text": "Antiplatelets\n   - TIA: clopidogrel\n   - ischaemic stroke: clopidogrel",
+                "concept_percentile": "92"
+            },
+            "3993": {
+                "concept_text": "Hypoglycaemia can lead to focal neurological symptoms and needs to be ruled out as a mimic of TIA",
+                "concept_percentile": "94"
+            },
+            "4061": {
+                "concept_text": "If a patient is on warfarin/a DOAC/ or has a bleeding disorder and they are suspected of having a TIA, they should be admitted immediately for imaging to exclude a haemorrhage",
+                "concept_percentile": "82"
+            },
+            "9800": {
+                "concept_text": "The definition of a TIA is now tissue-based, not time-based: a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischaemia, without acute infarction\n",
+                "concept_percentile": "81"
+            },
+            "11530": {
+                "concept_text": "All TIA patients should have an urgent carotid doppler unless they are not a candidate for carotid endarterectomy ",
+                "concept_percentile": "64"
+            },
+            "12217": {
+                "concept_text": "Patients with a TIA or minor ischaemic stroke who present within 24 hours, and with a low risk of bleeding, should be given DAPT (e.g. clopidogrel + aspirin)",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

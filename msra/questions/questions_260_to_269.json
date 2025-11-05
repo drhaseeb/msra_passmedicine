@@ -1,0 +1,942 @@
+[
+    {
+        "question_id": "6542_B_105",
+        "new_question_id": "26137",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "11086",
+        "notes_id_link": "1_2932",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bradycardia and hypertension with a low pulse pressure",
+            "Bradycardia and hypertension with a wide pulse pressure",
+            "Tachycardia and hypotension with a wide pulse pressure",
+            "Tachycardia with a normal blood pressure",
+            "Tachycardia with hypotension with a low pulse pressure",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are the FY1 on a neurosurgical ward with a patient recently admitted following a head injury. A nurse alerts you that the patient is displaying irregular breathing and is concerned he is displaying other signs of raised intracranial pressure. You look at the observation chart before reviewing the patient.<br /><br />Given the above, which of the following would be most concerning?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Bradycardia and hypertension with a wide pulse pressure is the correct answer. Cushing's triad, compromised of widening pulse pressure, bradycardia and irregular breathing,  is a late sign indicating impending brain herniation. Systolic hypertension occurs as a reflex to maintain cerebral perfusion pressure in the presence of raised intracranial pressure. <br /><br />Bradycardia and hypertension with a low pulse pressure is incorrect. Raised intracranial pressure causes systolic hypertension and hence a wide pulse pressure.<br /><br />Tachycardia and hypotension with a wide pulse pressure is incorrect. Although potentially concerning for other pathologies, it is not suggestive of raised intracranial pressure. As explained above, the physiological response is to increase blood pressure to maintain cerebral perfusion. <br /><br />Tachycardia with a normal blood pressure is incorrect. Tachycardia and hypertension in the context of head injury may be an early sign of raised intracranial pressure, however is less concerning with a normal blood pressure. <br /><br />Tachycardia and hypotension with a low pulse pressure is incorrect. Again, this is potentially concerning for other pathologies such as shock, however as explained above, it is not suggestive of raised intracranial pressure. ",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are the FY1 on a neurosurgical ward with a patient recently admitted following a head injury. A nurse alerts you that the patient is displaying irregular breathing and is concerned he is displaying other signs of raised intracranial pressure. You look at the observation chart before reviewing the patient.<br /><br />Given the above, which of the following would be most concerning?",
+        "correct_answer": "2",
+        "question_notes": "Bradycardia and hypertension with a wide pulse pressure is the correct answer. Cushing's triad, compromised of widening pulse pressure, bradycardia and irregular breathing,  is a late sign indicating impending brain herniation. Systolic hypertension occurs as a reflex to maintain cerebral perfusion pressure in the presence of raised intracranial pressure. <br /><br />Bradycardia and hypertension with a low pulse pressure is incorrect. Raised intracranial pressure causes systolic hypertension and hence a wide pulse pressure.<br /><br />Tachycardia and hypotension with a wide pulse pressure is incorrect. Although potentially concerning for other pathologies, it is not suggestive of raised intracranial pressure. As explained above, the physiological response is to increase blood pressure to maintain cerebral perfusion. <br /><br />Tachycardia with a normal blood pressure is incorrect. Tachycardia and hypertension in the context of head injury may be an early sign of raised intracranial pressure, however is less concerning with a normal blood pressure. <br /><br />Tachycardia and hypotension with a low pulse pressure is incorrect. Again, this is potentially concerning for other pathologies such as shock, however as explained above, it is not suggestive of raised intracranial pressure. ",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Raised intracranial pressure",
+        "body": "As the brain and ventricles are enclosed by a rigid skull, they have a limited ability to accommodate additional volume. Additional volume (e.g. haematoma, tumour, excessive CSF) will therefore lead to a rise in intracranial pressure (ICP).<br /><br />Pathophysiology<br /><ul><li>the normal ICP is <span class=\"concept\" data-cid=\"11083\">7-15 mmHg</span> in adults in the supine position</li><li>cerebral perfusion pressure (CPP) is the net pressure gradient causing cerebral blood flow to the brain</li><li><span class=\"concept\" data-cid=\"11087\">CPP = mean arterial pressure - ICP</span></li></ul><br />Causes<br /><ul><li>idiopathic intracranial hypertension</li><li>traumatic head injuries</li><li>infection<ul><li>meningitis</li></ul></li><li>tumours</li><li>hydrocephalus</li></ul><br />Features<br /><ul><li>headache</li><li>vomiting</li><li>reduced levels of consciousness</li><li>papilloedema</li><li><span class=\"concept\" data-cid=\"11086\">Cushing's triad</span><ul><li>widening pulse pressure</li><li>bradycardia</li><li>irregular breathing </li></ul></li></ul><br />Investigations and monitoring<br /><ul><li>neuroimaging (CT/MRI) is key to investigate the underlying cause</li><li>invasive ICP monitoring<ul><li>catheter placed into the lateral ventricles of the brain to monitor the pressure</li><li>may also be used to take collect CSF samples and also to drain small amounts of CSF to reduce the pressure</li><li>a cut-off of > 20 mmHg is often used to determine if further treatment is needed to reduce the ICP</li></ul></li></ul><br />Management<br /><ul><li>investigate and treat the underlying cause</li><li><span class=\"concept\" data-cid=\"11085\">head elevation to 30\u00ba</span></li><li><span class=\"concept\" data-cid=\"11084\">IV mannitol</span> may be used as an osmotic diuretic</li><li><span class=\"concept\" data-cid=\"11088\">controlled hyperventilation</span><ul><li>aim is to reduce pCO2 &rarr; vasoconstriction of the cerebral arteries &rarr; reduced ICP</li><li>leads to rapid, temporary lowering of ICP. However, caution needed as may reduce blood flow to already ischaemic parts of the brain</li></ul></li><li>removal of CSF, different techniques include:<ul><li>drain from intraventricular monitor (see above)</li><li>repeated lumbar puncture (e.g. idiopathic intracranial hypertension)</li><li>ventriculoperitoneal shunt (for hydrocephalus)</li></ul></li></ul>",
+        "notes_hash": "19c95f24604efea88f2b2c9f9f70d50b",
+        "knowledge_graph_node_id_link": 11055,
+        "concept": "Patients with raised ICP may exhibit Cushing's triad:<br /><ul><li>widening pulse pressure</li><li>bradycardia</li><li>irregular breathing </li></ul>",
+        "concept_percentile": "99",
+        "concept_colour": "rgb(5,255,0)",
+        "number_attempts": "5352",
+        "up_votes": "16",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "868",
+            "3443",
+            "661",
+            "23",
+            "357",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zFyVG5flJPQ\" data-description=\"Cushing's reflex\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1184\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zFyVG5flJPQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zFyVG5flJPQ\" data-description=\"Cushing's reflex\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1184\">Cushing's reflex</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2042\" data-mediaid=\"2042\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2042\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2042\" data-mediaid=\"2042\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2042\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "11086": {
+                "concept_text": "Patients with raised ICP may exhibit Cushing's triad:\n   - widening pulse pressure\n   - bradycardia\n   - irregular breathing ",
+                "concept_percentile": "99"
+            },
+            "11088": {
+                "concept_text": "Controlled hyperventilation may be used in patients with raised ICP",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16194_B_21",
+        "new_question_id": "27345",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11262",
+        "notes_id_link": "1_916",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cardiomegaly",
+            "False lumen",
+            "Hilar lymphadenopathy",
+            "Kerley B-lines",
+            "Widened mediastinum",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old man with a background of ischaemic heart disease presents to the emergency department with severe retrosternal chest pain which he described as 'tearing'. You request a chest x-ray as part of his initial work-up.  <br /><br />Which of the following findings are you expecting to see, based on your differential diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "From radiopedia: chest radiography may be normal or have a several findings suggestive of aortic dissection, such as:<br /><ul><li>Widened mediastinum: > 8.0-8.8 cm at the level of the aortic knob on portable anteroposterior chest films</li><li>Double aortic contour</li><li>Irregular aortic contour</li><li>Inward displacement of atherosclerotic calcification (>1 cm from the aortic margin)</li></ul><br />Depending on the aetiology there may also be signs of peri-aortic or mediastinal haematoma, such as deviation of mediastinal structures, oesophageal or tracheal deviation to the right and inferior displacement of the left main bronchus.<br /><br />Cardiomegaly and Kerley B-lines are suggestive of congestive cardiac failure.<br /><br />False lumen is a finding suggestive of aortic dissection but on CT angiography rather than chest radiographs.<br /><br />Hilar lymphadenopathy can be unilateral of bilateral is a feature of various pathologies, such as tuberculosis, malignancy and sarcoidosis (but not aortic dissection).",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old man with a background of ischaemic heart disease presents to the emergency department with severe retrosternal chest pain which he described as 'tearing'. You request a chest x-ray as part of his initial work-up.  <br /><br />Which of the following findings are you expecting to see, based on your differential diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "From radiopedia: chest radiography may be normal or have a several findings suggestive of aortic dissection, such as:<br /><ul><li>Widened mediastinum: > 8.0-8.8 cm at the level of the aortic knob on portable anteroposterior chest films</li><li>Double aortic contour</li><li>Irregular aortic contour</li><li>Inward displacement of atherosclerotic calcification (>1 cm from the aortic margin)</li></ul><br />Depending on the aetiology there may also be signs of peri-aortic or mediastinal haematoma, such as deviation of mediastinal structures, oesophageal or tracheal deviation to the right and inferior displacement of the left main bronchus.<br /><br />Cardiomegaly and Kerley B-lines are suggestive of congestive cardiac failure.<br /><br />False lumen is a finding suggestive of aortic dissection but on CT angiography rather than chest radiographs.<br /><br />Hilar lymphadenopathy can be unilateral of bilateral is a feature of various pathologies, such as tuberculosis, malignancy and sarcoidosis (but not aortic dissection).",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Aortic dissection: investigation and management",
+        "body": "<h5 class='notes-heading'>Classification</h5><br />Stanford classification<br /><ul><li>type A - ascending aorta, 2/3 of cases</li><li>type B - descending aorta, distal to left subclavian origin, 1/3 of cases</li></ul><br />DeBakey classification<br /><ul><li>type I - originates in ascending aorta, propagates to at least the aortic arch and possibly beyond it distally</li><li>type II - originates in and is confined to the ascending aorta</li><li>type III - originates in descending aorta, rarely extends proximally but will extend distally</li></ul><br /><h5 class='notes-heading'>Investigation</h5><br />It's important to remember that patients may present acutely and be clinically unstable. The choice of investigations will have to take account of this.<br /><br />Chest x-ray<br /><ul><li><span class=\"concept\" data-cid=\"11262\">widened mediastinum</span></li></ul><br /><span class=\"concept\" data-cid=\"11260\">CT angiography</span> of the chest, abdomen and pelvis is the investigation of choice<br /><ul><li>suitable for stable patients and for planning surgery</li><li>a <span class=\"concept\" data-cid=\"11263\">false lumen</span> is a key finding in diagnosing aortic dissection </li></ul><br /><span class=\"concept\" data-cid=\"11261\">Transoesophageal echocardiography (TOE)</span><br /><ul><li>more suitable for unstable patients who are too risky to take to CT scanner</li></ul><br /><h5 class='notes-heading'>Management</h5><br />Type A<br /><ul><li>surgical management, but blood pressure should be controlled to a target systolic of 100-120 mmHg whilst awaiting intervention</li></ul><br />Type B*<br /><ul><li>conservative management</li><li>bed rest</li><li>reduce blood pressure IV labetalol to prevent progression</li></ul><br /><h5 class='notes-heading'>Complications</h5><br />Complications of backward tear<br /><ul><li>aortic incompetence/regurgitation</li><li>MI: inferior pattern is often seen due to right coronary involvement</li></ul><br />Complications of a forward tear<br /><ul><li>unequal arm pulses and BP</li><li>stroke</li><li>renal failure</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb073b.jpg\" data-fancybox=\"gallery\" data-caption=\"An intraluminal tear has formed a 'flap' that can be clearly seen in the ascending aorta. This is a Stanford type A dissection\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb073.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb074b.jpg\" data-fancybox=\"gallery\" data-caption=\"Stanford type B dissection, seen in the descending aorta\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb074.jpg\" alt=\"\" /></a></div></div></div><br />*endovascular repair of type B aortic dissection may have a role in the future",
+        "notes_hash": "c9bd907b3740b225cab3edf5e91ce721",
+        "knowledge_graph_node_id_link": 1004,
+        "concept": "A widened mediastinum may be seen on the chest x-ray of patients with aortic dissection",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "7273",
+        "up_votes": "17",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "140",
+            "1173",
+            "29",
+            "139",
+            "5792",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>American Heart Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_523\" data-linkid=\"523\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_523\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_523\" data-linkid=\"523\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_523\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106\">2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GUagU8YrJZc\" data-description=\"Aortic dissection\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"90\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GUagU8YrJZc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GUagU8YrJZc\" data-description=\"Aortic dissection\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"90\">Aortic dissection</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_956\" data-mediaid=\"956\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_956\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_956\" data-mediaid=\"956\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_956\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tskOCzz4z1g\" data-description=\"Understanding Aortic Dissection\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1494\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/tskOCzz4z1g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tskOCzz4z1g\" data-description=\"Understanding Aortic Dissection\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1494\">Understanding Aortic Dissection</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2633\" data-mediaid=\"2633\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2633\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2633\" data-mediaid=\"2633\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2633\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "11260": {
+                "concept_text": "CT angiography is the investigation of choice for suspected aortic dissection (depending on stability of patient)",
+                "concept_percentile": "65"
+            },
+            "11262": {
+                "concept_text": "A widened mediastinum may be seen on the chest x-ray of patients with aortic dissection",
+                "concept_percentile": "54"
+            },
+            "11263": {
+                "concept_text": "A false lumen is a key finding suggestive of aortic dissection on CT angiography",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1568",
+        "new_question_id": "1812",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "9910",
+        "notes_id_link": "1_1222",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Seborrhoeic dermatitis",
+            "Systemic lupus erythematous",
+            "Perioral dermatitis",
+            "Late-onset acne vulgaris",
+            "Acne rosacea",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 49-year-old woman complains of 'spots' on her cheeks. She has tried using her daughter's 'Clearasil' but this has had no effect.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer to this question is <b>Acne rosacea</b>. This condition, also known as rosacea, is a common skin disease that often begins with a tendency to blush or flush more easily than other people. The redness can slowly spread beyond the nose and cheeks to the forehead and chin. Even the ears, chest, and back can be red all the time. The image shows typical features of Acne rosacea: erythema (redness) of the cheeks with some papules (small bumps) and pustules. It's important to note that this condition is different from acne, which typically includes blackheads and whiteheads - these are not present in rosacea.<br /><br /><b>Seborrhoeic dermatitis</b> is an incorrect option because it usually presents with greasy-looking, flaky skin in areas rich in sebaceous glands such as the scalp, eyebrows, sides of the nose, behind the ears and middle of the chest. It does not typically present with spots on cheeks.<br /><br /><b>Systemic lupus erythematosus (SLE)</b> could potentially cause a malar rash ('butterfly' rash) on cheeks but this would usually also involve the bridge of the nose which isn't mentioned in this case. Additionally, SLE-related rashes are photosensitive and there was no mention of sunlight exacerbating symptoms in this scenario.<br /><br /><b>Perioral dermatitis</b>, as its name suggests, tends to occur around the mouth area (although sometimes it can affect areas around the eyes or nose). It presents as groups of itchy or tender small red papules. It's unlikely in this case due to the location being described as 'cheeks'.<br /><br />Lastly, <b>Late-onset acne vulgaris</b>, while possible at any age including adulthood ('late-onset'), would typically include comedones (blackheads & whiteheads), which were not mentioned here. Furthermore, over-the-counter treatments like Clearasil often have some effect on acne vulgaris but none on rosacea according to the patient's history.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 49-year-old woman complains of 'spots' on her cheeks. She has tried using her daughter's 'Clearasil' but this has had no effect.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer to this question is <b>Acne rosacea</b>. This condition, also known as rosacea, is a common skin disease that often begins with a tendency to blush or flush more easily than other people. The redness can slowly spread beyond the nose and cheeks to the forehead and chin. Even the ears, chest, and back can be red all the time. The image shows typical features of Acne rosacea: erythema (redness) of the cheeks with some papules (small bumps) and pustules. It's important to note that this condition is different from acne, which typically includes blackheads and whiteheads - these are not present in rosacea.<br /><br /><b>Seborrhoeic dermatitis</b> is an incorrect option because it usually presents with greasy-looking, flaky skin in areas rich in sebaceous glands such as the scalp, eyebrows, sides of the nose, behind the ears and middle of the chest. It does not typically present with spots on cheeks.<br /><br /><b>Systemic lupus erythematosus (SLE)</b> could potentially cause a malar rash ('butterfly' rash) on cheeks but this would usually also involve the bridge of the nose which isn't mentioned in this case. Additionally, SLE-related rashes are photosensitive and there was no mention of sunlight exacerbating symptoms in this scenario.<br /><br /><b>Perioral dermatitis</b>, as its name suggests, tends to occur around the mouth area (although sometimes it can affect areas around the eyes or nose). It presents as groups of itchy or tender small red papules. It's unlikely in this case due to the location being described as 'cheeks'.<br /><br />Lastly, <b>Late-onset acne vulgaris</b>, while possible at any age including adulthood ('late-onset'), would typically include comedones (blackheads & whiteheads), which were not mentioned here. Furthermore, over-the-counter treatments like Clearasil often have some effect on acne vulgaris but none on rosacea according to the patient's history.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Rosacea",
+        "body": "Rosacea (sometimes referred to as acne rosacea) is a chronic skin disease of unknown aetiology.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"9910\">typically affects nose, cheeks and forehead</span></li><li><span class=\"concept\" data-cid=\"9910\">flushing is often first symptom</span></li><li><span class=\"concept\" data-cid=\"9910\">telangiectasia are common</span></li><li>later develops into <span class=\"concept\" data-cid=\"9910\">persistent erythema with papules and pustules</span></li><li>rhinophyma</li><li>ocular involvement: blepharitis</li><li><span class=\"concept\" data-cid=\"2383\">sunlight may exacerbate symptoms</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea - showing papules, pustules and erythema. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rhinophyma - a late complication of severe rosacea. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea over the cheeks and nose\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li>simple measures<ul><li>recommend daily application of a high-factor sunscreen</li><li>camouflage creams may help conceal redness</li></ul></li><li>predominant erythema/flushing #link20 <ul><li><span class=\"concept\" data-cid=\"10242\">topical brimonidine gel may be considered for patients with predominant flushing but limited telangiectasia</span> </li><li>brimonidine is a topical alpha-adrenergic agonist</li><li>this can be used on an 'as required basis' to temporarily reduce redness</li><li>it typically reduces redness within 30 minutes, reaching peak action at 3-6 hours, after which the redness returns to the baseline</li></ul></li><li>mild-to-moderate papules and/or pustules #link21<ul><li><span class=\"concept\" data-cid=\"12030\">topical ivermectin</span> is first-line </li><li>alternatives include: topical metronidazole or topical azelaic acid</li></ul></li><li>moderate-to-severe papules and/or pustules #link23 <ul><li><span class=\"concept\" data-cid=\"12031\">combination of topical ivermectin +  oral doxycycline</span> </li></ul></li></ul><br />Referral should be considered if #link22 <br /><ul><li>symptoms have not improved with optimal management in primary care<ul><li><span class=\"concept\" data-cid=\"1544\">laser therapy may be appropriate for patients with prominent telangiectasia</span></li></ul></li><li><span class=\"concept\" data-cid=\"10245\">patients with a rhinophyma </span></li></ul>",
+        "notes_hash": "c59cd8382a80c7800d340932344907c0",
+        "knowledge_graph_node_id_link": 1500,
+        "concept": "Rosacea features:<br /><ul><li>nose, cheeks and forehead</li><li>flushing, erythema, telangiectasia &rarr; papules and pustules</li></ul>",
+        "concept_percentile": "45",
+        "concept_colour": "rgb(255,229,0)",
+        "number_attempts": "4784",
+        "up_votes": "18",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "154",
+            "158",
+            "31",
+            "513",
+            "3928",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_956\" data-linkid=\"956\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_956\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_956\" data-linkid=\"956\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_956\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">24</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/rosacea-and-acne.html\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1294\" data-linkid=\"1294\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1294\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1294\" data-linkid=\"1294\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1294\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rhinophyma/\">Rhinophyma</a></td></tr></table><br><br><table style='width:100%'><tr><td>Dermnet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_528\" data-linkid=\"528\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_528\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_528\" data-linkid=\"528\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_528\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rosacea/\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>Primary Care Dermatology Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1560\" data-linkid=\"1560\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1560\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1560\" data-linkid=\"1560\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1560\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.pcds.org.uk/clinical-guidance/rosacea\">Rosacea review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "9910": {
+                "concept_text": "Rosacea features:\n   - nose, cheeks and forehead\n   - flushing, erythema, telangiectasia --> papules and pustules",
+                "concept_percentile": "45"
+            },
+            "12030": {
+                "concept_text": "Rosacea: topical ivermectin is first-line for patients mild papules and/or pustules",
+                "concept_percentile": "91"
+            },
+            "12031": {
+                "concept_text": "Rosacea: a combination of topical ivermectin +  oral doxycycline is first-line for patients with severe papules and/or pustules",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1900",
+        "new_question_id": "3359",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "340",
+        "notes_id_link": "1_1567",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Topical metronidazole",
+            "Oral oxytetracycline",
+            "Oral isotretinoin",
+            "Topical ketoconazole",
+            "Topical hydrocortisone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 41-year-old man presents with a persistent itch rash that has been present for the past few weeks. On examination he has erythematous, scaly lesions underneath the eyebrows, around the nose and at the top of his chest. He also has a history of dandruff which is well controlled with over the counter shampoos. What is the most appropriate treatment for his face and trunk lesions?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Topical ketoconazole</b> is the correct answer. This patient's presentation is consistent with seborrhoeic dermatitis, characterised by erythematous, scaly patches in sebum-rich areas such as the face (particularly nasolabial folds, eyebrows) and upper chest. The condition is associated with the presence of <i>Malassezia</i> species (formerly known as <i>Pityrosporum</i>), and the patient's history of dandruff (seborrhoeic dermatitis of the scalp) supports this diagnosis. Topical ketoconazole is an antifungal agent that is effective against <i>Malassezia</i> and is a first-line treatment for seborrhoeic dermatitis according to UK guidelines.<br /><br /><b>Topical metronidazole</b> is incorrect as this is primarily used for rosacea, which typically presents with facial flushing, persistent erythema, and papules/pustules, but without the scaling characteristic of seborrhoeic dermatitis.<br /><br /><b>Oral oxytetracycline</b> is incorrect as this antibiotic is typically used for conditions such as acne or rosacea. While it can help with inflammatory skin conditions, it is not indicated for seborrhoeic dermatitis, which requires antifungal treatment.<br /><br /><b>Oral isotretinoin</b> is incorrect as this is a powerful retinoid reserved for severe, resistant nodular acne. It has significant side effects and requires careful monitoring. It would be inappropriate for seborrhoeic dermatitis.<br /><br /><b>Topical hydrocortisone</b> is incorrect as monotherapy. While topical corticosteroids can temporarily improve the appearance of seborrhoeic dermatitis, they do not address the underlying cause and long-term use can lead to skin atrophy and other complications. They may be used briefly in combination with antifungal treatment for severe flares, but should not be the primary treatment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 41-year-old man presents with a persistent itch rash that has been present for the past few weeks. On examination he has erythematous, scaly lesions underneath the eyebrows, around the nose and at the top of his chest. He also has a history of dandruff which is well controlled with over the counter shampoos. What is the most appropriate treatment for his face and trunk lesions?",
+        "correct_answer": "4",
+        "question_notes": "<b>Topical ketoconazole</b> is the correct answer. This patient's presentation is consistent with seborrhoeic dermatitis, characterised by erythematous, scaly patches in sebum-rich areas such as the face (particularly nasolabial folds, eyebrows) and upper chest. The condition is associated with the presence of <i>Malassezia</i> species (formerly known as <i>Pityrosporum</i>), and the patient's history of dandruff (seborrhoeic dermatitis of the scalp) supports this diagnosis. Topical ketoconazole is an antifungal agent that is effective against <i>Malassezia</i> and is a first-line treatment for seborrhoeic dermatitis according to UK guidelines.<br /><br /><b>Topical metronidazole</b> is incorrect as this is primarily used for rosacea, which typically presents with facial flushing, persistent erythema, and papules/pustules, but without the scaling characteristic of seborrhoeic dermatitis.<br /><br /><b>Oral oxytetracycline</b> is incorrect as this antibiotic is typically used for conditions such as acne or rosacea. While it can help with inflammatory skin conditions, it is not indicated for seborrhoeic dermatitis, which requires antifungal treatment.<br /><br /><b>Oral isotretinoin</b> is incorrect as this is a powerful retinoid reserved for severe, resistant nodular acne. It has significant side effects and requires careful monitoring. It would be inappropriate for seborrhoeic dermatitis.<br /><br /><b>Topical hydrocortisone</b> is incorrect as monotherapy. While topical corticosteroids can temporarily improve the appearance of seborrhoeic dermatitis, they do not address the underlying cause and long-term use can lead to skin atrophy and other complications. They may be used briefly in combination with antifungal treatment for severe flares, but should not be the primary treatment.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Seborrhoeic dermatitis in adults",
+        "body": "Seborrhoeic dermatitis in adults is a chronic dermatitis thought to be caused by an inflammatory reaction related to a proliferation of a normal skin inhabitant, a fungus called <span class=\"concept\" data-cid=\"8945\"><i>Malassezia furfur</i></span> (formerly known as <i>Pityrosporum ovale</i>). It is common, affecting around 2% of the general population.<br /><br />Features<br /><ul><li>eczematous lesions on the sebum-rich areas: <span class=\"concept\" data-cid=\"8750\">scalp (may cause dandruff), periorbital, auricular and nasolabial folds</span></li><li><span class=\"concept\" data-cid=\"8942\">otitis externa and blepharitis</span> may develop</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd074b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd074.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd075b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd075.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd076b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd076.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd994b.jpg\" data-fancybox=\"gallery\" data-caption=\"Acute form of seborrheic dermatitis on the scalp.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd994.jpg\" alt=\"\" /></a></div></div></div><br />Associated conditions include<br /><ul><li><span class=\"concept\" data-cid=\"8943\">HIV</span></li><li><span class=\"concept\" data-cid=\"8944\">Parkinson's disease</span></li></ul><br />Scalp disease management<br /><ul><li>the first-line treatment is ketoconazole 2% shampoo </li><li>over the counter preparations containing zinc pyrithione ('Head & Shoulders') and tar ('Neutrogena T/Gel') may be used if ketoconazole is not appropriate or acceptable to the person</li><li>selenium sulphide and topical corticosteroid may also be useful</li></ul><br />Face and body management<br /><ul><li>topical antifungals: e.g. <span class=\"concept\" data-cid=\"340\">ketoconazole</span></li><li>topical steroids: best used for short periods</li><li>difficult to treat - recurrences are common</li></ul>",
+        "notes_hash": "c4cf2d766b7793cd0180f1d30161a99d",
+        "knowledge_graph_node_id_link": 11048,
+        "concept": "Seborrhoeic dermatitis - first-line treatment is topical ketoconazole",
+        "concept_percentile": "41",
+        "concept_colour": "rgb(255,209,0)",
+        "number_attempts": "6288",
+        "up_votes": "20",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "106",
+            "52",
+            "69",
+            "5280",
+            "781",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_962\" data-linkid=\"962\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_962\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_962\" data-linkid=\"962\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_962\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/seborrhoeic-dermatitis/\">Overview and pictures of seborrhoeic dermatitis</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "340": {
+                "concept_text": "Seborrhoeic dermatitis - first-line treatment is topical ketoconazole",
+                "concept_percentile": "41"
+            },
+            "8750": {
+                "concept_text": "An itchy rash affecting the face and scalp distribution is commonly caused by seborrhoeic dermatitis",
+                "concept_percentile": "90"
+            },
+            "8942": {
+                "concept_text": "Otitis externa and blepharitis are common complications of seborrhoeic dermatitis",
+                "concept_percentile": "44"
+            },
+            "8944": {
+                "concept_text": "Parkinson's disease is associated with seborrhoeic dermatitis",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2135",
+        "new_question_id": "2943",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "311",
+        "notes_id_link": "1_1474",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "No treatment required",
+            "Amoxicillin",
+            "Doxycycline",
+            "Cefalexin",
+            "Metronidazole",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 13 week pregnant woman is diagnosed with bacterial vaginosis (BV) following high vaginal swab results, which were taken due to offensive vaginal discharge.  She is otherwise clinically well and has no drug allergies.  Which of the following treatments is recommended?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "BV is characterised by an overgrowth of mainly anaerobic organisms.  It is a common cause of vaginal discharge and is not considered to be a sexually transmitted infection.<br /><br />Approximately 50% of women are asymptomatic.  When symptoms are present, BV is characterised by a fishy-smelling vaginal discharge.  <br /><br />Symptomatic BV in pregnancy is associated with late miscarriage and preterm delivery.<br /><br />Treatment should be offered to all pregnant women who are symptomatic.  This consists of oral metronidazole 400mg twice daily for 5-7 days (2grams stat dose is not recommended in pregnancy).<br /><br />Treatment is considered on a individual basis for pregnant women with BV who are asymptomatic.  This is because evidence suggests that identification and treatment of asymptomatic pregnant women does not lower the risk of preterm births.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 13 week pregnant woman is diagnosed with bacterial vaginosis (BV) following high vaginal swab results, which were taken due to offensive vaginal discharge.  She is otherwise clinically well and has no drug allergies.  Which of the following treatments is recommended?",
+        "correct_answer": "5",
+        "question_notes": "BV is characterised by an overgrowth of mainly anaerobic organisms.  It is a common cause of vaginal discharge and is not considered to be a sexually transmitted infection.<br /><br />Approximately 50% of women are asymptomatic.  When symptoms are present, BV is characterised by a fishy-smelling vaginal discharge.  <br /><br />Symptomatic BV in pregnancy is associated with late miscarriage and preterm delivery.<br /><br />Treatment should be offered to all pregnant women who are symptomatic.  This consists of oral metronidazole 400mg twice daily for 5-7 days (2grams stat dose is not recommended in pregnancy).<br /><br />Treatment is considered on a individual basis for pregnant women with BV who are asymptomatic.  This is because evidence suggests that identification and treatment of asymptomatic pregnant women does not lower the risk of preterm births.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Bacterial vaginosis",
+        "body": "Bacterial vaginosis (BV) describes an overgrowth of predominately anaerobic organisms such as <span class=\"concept\" data-cid=\"310\"><i>Gardnerella vaginalis</i></span>. This leads to a consequent fall in lactic acid producing aerobic lactobacilli resulting in a raised vaginal pH.<br /><br />Whilst BV is not a sexually transmitted infection it is seen almost exclusively in sexually active women.<br /> <br />Features<br /><ul><li>vaginal discharge: 'fishy', offensive</li><li>asymptomatic in 50%</li></ul><br />Amsel's criteria for diagnosis of BV - 3 of the following 4 points should be present<br /><ul><li>thin, white homogenous discharge</li><li>clue cells on microscopy: stippled vaginal epithelial cells</li><li><span class=\"concept\" data-cid=\"5255\">vaginal pH > 4.5</span></li><li>positive whiff test (addition of potassium hydroxide results in fishy odour)</li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"1679\">if the woman is asymptomatic, treatment is not usually required</span> #link33 <ul><li>e.g. picked up on a swab done for different reasons</li><li>exceptions include if a woman is undergoing a termination of pregnancy</li></ul></li><li>if symptomatic: <span class=\"concept\" data-cid=\"309\">oral metronidazole for 5-7 days</span> #link34 <ul><li>70-80% initial cure rate</li><li>relapse rate > 50% within 3 months</li><li>a single oral dose of metronidazole  2g may be used if adherence may be an issue</li><li>the BNF suggests topical metronidazole or <span class=\"concept\" data-cid=\"8946\">topical clindamycin</span> as alternatives</li></ul></li><li><span class=\"concept\" data-cid=\"311\">if pregnant</span> #link32 <ul><li>results in an increased risk of preterm labour, low birth weight and chorioamnionitis, late miscarriage</li><li>it was previously taught that oral metronidazole should be avoided in the first trimester and topical clindamycin used instead. Recent guidelines however recommend that oral metronidazole is used throughout pregnancy</li><li>if asymptomatic: discuss with the woman's obstetrician if treatment is indicated</li><li>if symptomatic: either oral metronidazole for 5-7 days or topical treatment. The higher, stat dose of metronidazole mentioned above is not recommended</li></ul></li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd904b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Comparison of bacterial vaginosis and <i>Trichomonas vaginalis</i></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb002b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb002.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from PathoPic</span></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb002b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Clue cells -  epithelial cells develop a stippled appearance due to being covered with bacteria</div>",
+        "notes_hash": "6bbe9a840b81afcdad0fbdc4f14af87b",
+        "knowledge_graph_node_id_link": 1212,
+        "concept": "Bacterial vaginosis in pregnancy: still use oral metronidazole",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "5111",
+        "up_votes": "12",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "220",
+            "248",
+            "211",
+            "149",
+            "4283",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RGLGy6r423s\" data-description=\"Bacterial vaginosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"516\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RGLGy6r423s/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RGLGy6r423s\" data-description=\"Bacterial vaginosis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"516\">Bacterial vaginosis</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_896\" data-mediaid=\"896\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_896\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_896\" data-mediaid=\"896\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_896\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NLef45tE3Vc\" data-description=\"Bacterial vaginosis\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1555\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NLef45tE3Vc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NLef45tE3Vc\" data-description=\"Bacterial vaginosis\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1555\">Bacterial vaginosis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2709\" data-mediaid=\"2709\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2709\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2709\" data-mediaid=\"2709\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2709\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "309": {
+                "concept_text": "Bacterial vaginosis: oral metronidazole",
+                "concept_percentile": "65"
+            },
+            "310": {
+                "concept_text": "Bacterial vaginosis - overgrowth of predominately <i>Gardnerella vaginalis</i>",
+                "concept_percentile": "41"
+            },
+            "311": {
+                "concept_text": "Bacterial vaginosis in pregnancy: still use oral metronidazole",
+                "concept_percentile": "65"
+            },
+            "8946": {
+                "concept_text": "Topical clindamycin is an alternative to metronidazole for patients with bacterial vaginosis",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2171",
+        "new_question_id": "2821",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "6645",
+        "notes_id_link": "1_1451",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Trisomy 13",
+            "Trisomy 16",
+            "Trisomy 18",
+            "Klinefelters Syndrome",
+            "Turners Syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 40-year-old primip has a stillbirth at 34 weeks. The baby is noted to have microcephaly, micrognathia and club feet. What is the diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Babies with Edwards' syndrome will have grown slowly in the womb and will have a low birthweight. Of those that survive to birth, around half will die within two weeks and only around one in every five will live at least three months. Around one in every 12 babies born with Edwards' syndrome survive beyond one year,<br /><br />Source: NHS Choices",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 40-year-old primip has a stillbirth at 34 weeks. The baby is noted to have microcephaly, micrognathia and club feet. What is the diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Babies with Edwards' syndrome will have grown slowly in the womb and will have a low birthweight. Of those that survive to birth, around half will die within two weeks and only around one in every five will live at least three months. Around one in every 12 babies born with Edwards' syndrome survive beyond one year,<br /><br />Source: NHS Choices",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Childhood syndromes",
+        "body": "Below is a list of common features of selected childhood syndromes<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Syndrome</b></th><th><b>Key features</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"6648\">Patau syndrome</span> (trisomy 13)<br /></td><td><span class=\"concept\" data-cid=\"6656\">Microcephalic, small eyes</span><br /><span class=\"concept\" data-cid=\"6657\">Cleft lip/palate</span><br /><span class=\"concept\" data-cid=\"6658\">Polydactyly</span><br />Scalp lesions</td></tr><tr><td><span class=\"concept\" data-cid=\"6645\">Edward's syndrome</span>  (trisomy 18)<br /></td><td><span class=\"concept\" data-cid=\"6652\">Micrognathia</span><br /><span class=\"concept\" data-cid=\"6653\">Low-set ears</span><br /><span class=\"concept\" data-cid=\"6659\">Rocker bottom feet</span><br /><span class=\"concept\" data-cid=\"6655\">Overlapping of fingers</span></td></tr><tr><td><span class=\"concept\" data-cid=\"6646\">Fragile X</span><br /></td><td><span class=\"concept\" data-cid=\"4820\">Learning difficulties</span><br />Macrocephaly<br />Long face<br />Large ears<br />Macro-orchidism</td></tr><tr><td><span class=\"concept\" data-cid=\"6647\">Noonan syndrome</span><br /></td><td>Webbed neck<br />Pectus excavatum<br />Short stature<br />Pulmonary stenosis</td></tr><tr><td><span class=\"concept\" data-cid=\"6649\">Pierre-Robin syndrome</span>*<br /></td><td>Micrognathia<br />Posterior displacement of the tongue (may result in upper airway obstruction)<br />Cleft palate</td></tr><tr><td><span class=\"concept\" data-cid=\"6650\">Prader-Willi syndrome</span><br /></td><td>Hypotonia<br />Hypogonadism<br />Obesity</td></tr><tr><td><span class=\"concept\" data-cid=\"6651\">William's syndrome</span><br /></td><td>Short stature<br />Learning difficulties<br />Friendly, extrovert personality<br />Transient neonatal hypercalcaemia<br />Supravalvular aortic stenosis</td></tr><tr><td>Cri du chat syndrome (chromosome 5p deletion syndrome)</td><td>Characteristic cry (hence the name) due to larynx and neurological problems<br />Feeding difficulties and poor weight gain<br />Learning difficulties<br />Microcephaly and micrognathism<br />Hypertelorism</td></tr></tbody></table></div><br />*this condition has many similarities with Treacher-Collins syndrome. One of the key differences is that Treacher-Collins syndrome is autosomal dominant so there is usually a family history of similar problems",
+        "notes_hash": "5cb4eb9a463dbeeb2b9816d5c70881b8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A baby is born with micrognathia, low-set ears, rocker bottom feet and overlapping of fingers - Edward's syndrome",
+        "concept_percentile": "31",
+        "concept_colour": "rgb(255,158,0)",
+        "number_attempts": "5390",
+        "up_votes": "25",
+        "down_votes": "62",
+        "column_array": [
+            0,
+            "1911",
+            "415",
+            "2637",
+            "272",
+            "155",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/QBussteAbA0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\">Trisomy (21, 18, and 13) & Nondisjunction Genetics</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2749\" data-mediaid=\"2749\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2749\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2749\" data-mediaid=\"2749\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2749\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EKtO9DlEgjA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\">Down syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2750\" data-mediaid=\"2750\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2750\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2750\" data-mediaid=\"2750\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2750\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TJoXpMEhbj4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\">Patau syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1403\" data-mediaid=\"1403\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1403\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1403\" data-mediaid=\"1403\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1403\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/SivY6f0wVi4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\">Cri du chat syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1373\" data-mediaid=\"1373\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1373\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1373\" data-mediaid=\"1373\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1373\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EFP671hzciI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\">Edward's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1664\" data-mediaid=\"1664\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1664\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_1664\" data-mediaid=\"1664\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1664\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "6645": {
+                "concept_text": "A baby is born with micrognathia, low-set ears, rocker bottom feet and overlapping of fingers - Edward's syndrome",
+                "concept_percentile": "31"
+            },
+            "6646": {
+                "concept_text": "A young boy is noted to have learning difficulties, macrocephaly, large ears and macro-orchidism - fragile X",
+                "concept_percentile": "26"
+            },
+            "6647": {
+                "concept_text": "A young boy is noted to have a webbed neck, pulmonary stenosis, ptosis and short stature. The karyotype is normal - Noonan syndrome",
+                "concept_percentile": "30"
+            },
+            "6648": {
+                "concept_text": "A baby is born with microcephaly, small eyes, low-set ears, cleft lip and polydactyly - Patau syndrome",
+                "concept_percentile": "23"
+            },
+            "6649": {
+                "concept_text": "A baby is noted to have micrognathia and a cleft palate. He is placed prone due to upper airway obstruction. There is no family history of similar problems - Pierre-Robin syndrome",
+                "concept_percentile": "5"
+            },
+            "6650": {
+                "concept_text": "A boy is noted to have reduced tone, hypogonadism and obesity - Prader-Willi syndrome",
+                "concept_percentile": "19"
+            },
+            "6651": {
+                "concept_text": "A boy with learning difficulties is noted to be extremely friendly and extroverted. He has short for his age and has supravalvular aortic stenosis - William's syndrome",
+                "concept_percentile": "14"
+            },
+            "6652": {
+                "concept_text": "Edward's syndrome (trisomy 18) - micrognathia",
+                "concept_percentile": "6"
+            },
+            "6653": {
+                "concept_text": "Edward's syndrome (trisomy 18) - low-set ears",
+                "concept_percentile": "14"
+            },
+            "6655": {
+                "concept_text": "Edward's syndrome (trisomy 18) - overlapping of fingers",
+                "concept_percentile": "10"
+            },
+            "6656": {
+                "concept_text": "Patau syndrome (trisomy 13) - microcephalic, small eyes",
+                "concept_percentile": "8"
+            },
+            "6658": {
+                "concept_text": "Patau syndrome (trisomy 13) - polydactyly",
+                "concept_percentile": "12"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_245",
+        "new_question_id": "9166",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "4191",
+        "notes_id_link": "1_548",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "<i>Escherichia coli</i>",
+            "<i>Campylobacter</i>",
+            "<i>Salmonella</i>",
+            "<i>Shigella</i>",
+            "<i>Bacillus cereus</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A man presents with severe vomiting. He reports not being able to keep fluids down for the past 12 hours. You suspect a diagnosis of gastroenteritis and on discussing possible causes he mentions reheating curry with rice the night before. What is the most likely causative organism?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b><i>Bacillus cereus</i></b>. This gram-positive, spore-forming bacterium is commonly associated with food poisoning from improperly stored and reheated rice dishes. The organism produces two types of toxins: an emetic toxin that causes vomiting (predominant symptom occurring 1-5 hours after ingestion) and a diarrhoeal toxin. The spores can survive cooking and, if rice is left at room temperature, they can germinate, multiply and produce toxins. Reheating does not destroy these pre-formed toxins.<br /><br /><b><i>Escherichia coli</i></b> typically causes food poisoning through contaminated meat products or unwashed vegetables. The incubation period is usually longer (12-72 hours), and diarrhoea is the predominant symptom rather than vomiting. While it can cause severe illness, it would be less likely in this scenario involving reheated rice.<br /><br /><b><i>Campylobacter</i></b> is commonly associated with undercooked poultry, unpasteurised milk, and contaminated water. It typically has a longer incubation period (2-5 days) and presents with diarrhoea, often bloody, along with severe abdominal pain and fever. The presentation and food history in this case do not fit with Campylobacter infection.<br /><br /><b><i>Salmonella</i></b> infection typically occurs through contaminated eggs, poultry, or dairy products. The incubation period is usually 12-72 hours, and symptoms include diarrhoea, fever, and abdominal cramps. The rapid onset of predominantly vomiting symptoms and the association with reheated rice makes Salmonella less likely.<br /><br /><b><i>Shigella</i></b> is transmitted through the faecal-oral route and is commonly associated with poor hygiene rather than reheated food. It typically causes dysentery with bloody diarrhoea, fever, and abdominal pain, with an incubation period of 1-7 days. The clinical presentation and food history make this an unlikely causative organism in this case.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A man presents with severe vomiting. He reports not being able to keep fluids down for the past 12 hours. You suspect a diagnosis of gastroenteritis and on discussing possible causes he mentions reheating curry with rice the night before. What is the most likely causative organism?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b><i>Bacillus cereus</i></b>. This gram-positive, spore-forming bacterium is commonly associated with food poisoning from improperly stored and reheated rice dishes. The organism produces two types of toxins: an emetic toxin that causes vomiting (predominant symptom occurring 1-5 hours after ingestion) and a diarrhoeal toxin. The spores can survive cooking and, if rice is left at room temperature, they can germinate, multiply and produce toxins. Reheating does not destroy these pre-formed toxins.<br /><br /><b><i>Escherichia coli</i></b> typically causes food poisoning through contaminated meat products or unwashed vegetables. The incubation period is usually longer (12-72 hours), and diarrhoea is the predominant symptom rather than vomiting. While it can cause severe illness, it would be less likely in this scenario involving reheated rice.<br /><br /><b><i>Campylobacter</i></b> is commonly associated with undercooked poultry, unpasteurised milk, and contaminated water. It typically has a longer incubation period (2-5 days) and presents with diarrhoea, often bloody, along with severe abdominal pain and fever. The presentation and food history in this case do not fit with Campylobacter infection.<br /><br /><b><i>Salmonella</i></b> infection typically occurs through contaminated eggs, poultry, or dairy products. The incubation period is usually 12-72 hours, and symptoms include diarrhoea, fever, and abdominal cramps. The rapid onset of predominantly vomiting symptoms and the association with reheated rice makes Salmonella less likely.<br /><br /><b><i>Shigella</i></b> is transmitted through the faecal-oral route and is commonly associated with poor hygiene rather than reheated food. It typically causes dysentery with bloody diarrhoea, fever, and abdominal pain, with an incubation period of 1-7 days. The clinical presentation and food history make this an unlikely causative organism in this case.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Gastroenteritis: causes",
+        "body": "Gastroenteritis may either occur whilst at home or whilst travelling abroad (travellers' diarrhoea)<br /><br />Travellers' diarrhoea may be defined as at least 3 loose to watery stools in 24 hours with or without one of more of abdominal cramps, fever, nausea, vomiting or blood in the stool. <span class=\"concept\" data-cid=\"739\">The most common cause is <i>Escherichia coli</i></span>.<br /><br />Another pattern of illness is 'acute food poisoning'. This describes the sudden onset of nausea, vomiting and diarrhoea after the ingestion of a toxin. Acute food poisoning is typically caused by <i>Staphylococcus aureus</i>, <i>Bacillus cereus</i> or <i>Clostridium perfringens</i>.<br /><br /><h5 class='notes-heading'>Stereotypical histories</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Infection</b></th><th><b>Typical presentation</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"6882\"><b><i>Escherichia coli</i></b></span></td><td>Common amongst travellers<br />Watery stools<br />Abdominal cramps and nausea</td></tr><tr><td><span class=\"concept\" data-cid=\"6883\"><b>Giardiasis</b></span></td><td>Prolonged, non-bloody diarrhoea</td></tr><tr><td><span class=\"concept\" data-cid=\"6886\"><b>Cholera</b></span></td><td>Profuse, watery diarrhoea<br />Severe dehydration resulting in weight loss<br />Not common amongst travellers</td></tr><tr><td> <span class=\"concept\" data-cid=\"6888\"><b><i>Shigella</i></b></span></td><td>Bloody diarrhoea<br />Vomiting and abdominal pain</td></tr><tr><td> <span class=\"concept\" data-cid=\"6885\"><b><i>Staphylococcus aureus</i></b></span></td><td>Severe vomiting<br />Short incubation period</td></tr><tr><td><span class=\"concept\" data-cid=\"6889\"><b><i>Campylobacter</i></b></span></td><td>A flu-like prodrome is usually followed by crampy abdominal pains, fever and diarrhoea which may be bloody<br /><span class=\"concept\" data-cid=\"3945\">May mimic appendicitis</span><br />Complications include Guillain-Barre syndrome</td></tr><tr><td> <span class=\"concept\" data-cid=\"6884\"><b><i>Bacillus cereus</i></b></span></td><td>Two types of illness are seen<br /><ul><li>vomiting within 6 hours, <span class=\"concept\" data-cid=\"4191\">stereotypically due to rice</span></li><li>diarrhoeal illness occurring after 6 hours</td></tr><tr><td></li></ul><span class=\"concept\" data-cid=\"6890\"><b>Amoebiasis</b></span></td><td>Gradual onset bloody diarrhoea, abdominal pain and tenderness which may last for several weeks</td></tr></tbody></table></div><br />Incubation period<br /><ul><li>1-6 hrs: <i><i>Staphylococcus</i> aureus</i>,  <i>Bacillus cereus</i>* </li><li>12-48 hrs: <i>Salmonella</i>, <i>Escherichia coli</i></li><li>48-72 hrs: <i>Shigella</i>, <i>Campylobacter</i></li><li>> 7 days: Giardiasis, Amoebiasis</li></ul><br />*vomiting subtype, the diarrhoeal illness has an incubation period of 6-14 hours",
+        "notes_hash": "7eccc72ee8d07613b2e407175d7a02d5",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "<i>Bacillus cereus</i> characteristically occurs after eating rice that has been reheated",
+        "concept_percentile": "34",
+        "concept_colour": "rgb(255,173,0)",
+        "number_attempts": "4402",
+        "up_votes": "17",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "189",
+            "128",
+            "132",
+            "42",
+            "3911",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_582\" data-linkid=\"582\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_582\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_582\" data-linkid=\"582\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_582\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/11/5/488\">2011 Diarrhoeal disease review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-SHEV1FN8PU\" data-description=\"Salmonella\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"967\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-SHEV1FN8PU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-SHEV1FN8PU\" data-description=\"Salmonella\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"967\">Salmonella</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1675\" data-mediaid=\"1675\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1675\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1675\" data-mediaid=\"1675\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1675\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-vi5Z7gE2cU\" data-description=\"Shigella\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"966\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-vi5Z7gE2cU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-vi5Z7gE2cU\" data-description=\"Shigella\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"966\">Shigella</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1671\" data-mediaid=\"1671\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1671\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1671\" data-mediaid=\"1671\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1671\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 10,
+        "concepts_for_notes": {
+            "739": {
+                "concept_text": "<i>E. coli</i> is the most common cause of travellers' diarrhoea",
+                "concept_percentile": "80"
+            },
+            "3945": {
+                "concept_text": "<i>Campylobacter jejuni</i> infection may cause marked right iliac fossa pain mimicking appendicitis",
+                "concept_percentile": "86"
+            },
+            "4191": {
+                "concept_text": "<i>Bacillus cereus</i> characteristically occurs after eating rice that has been reheated",
+                "concept_percentile": "34"
+            },
+            "6882": {
+                "concept_text": "A patient develops watery diarrhoea one week after arriving in Mexico - <i>Escherichia coli</i> (enterotoxigenic)",
+                "concept_percentile": "44"
+            },
+            "6883": {
+                "concept_text": "A patient develops persistent foul-smelling watery diarrhoea and weight loss after travelling to India. His symptoms have now lasted two weeks. He has no abdominal pain, nausea or fever - giardiasis",
+                "concept_percentile": "31"
+            },
+            "6884": {
+                "concept_text": "A man presents with severe vomiting. Earlier in the day he reheated some rice from a takeaway - <i>Bacillus cereus</i>",
+                "concept_percentile": "3"
+            },
+            "6885": {
+                "concept_text": "<i>Staphylococcus aureus</i> gastroenteritis is characterised by a short incubation period and severe vomiting",
+                "concept_percentile": "76"
+            },
+            "6886": {
+                "concept_text": "A man develops profuse 'rice water' diarrhoea after visiting a disaster relief zone. He is vomiting but has no abdominal pain. On examination he is severely dehydrated - cholera",
+                "concept_percentile": "12"
+            },
+            "6888": {
+                "concept_text": "A patient presents with a 3 day history of bloody diarrhoea, fever and abdominal pain - shigella",
+                "concept_percentile": "38"
+            },
+            "6889": {
+                "concept_text": "A 20-year-old man presents with bloody diarrhoea. He also has abdominal pain and tenesmus. Yesterday he had flu-like symptoms - <i>Campylobacter</i>",
+                "concept_percentile": "43"
+            },
+            "6890": {
+                "concept_text": "A patient develops gradual onset bloody diarrhoea after travelling to Egypt. His symptoms have now lasted four weeks. He has occasional abdominal pain and tenesmus - amoebiasis",
+                "concept_percentile": "23"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9826",
+        "new_question_id": "11042",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_947",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hypokalaemia",
+            "Hyperthermia",
+            "Decreased deep tendon reflexes",
+            "Hypotension",
+            "Metabolic alkalosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 20-year-old man is admitted to the Emergency Department with chest pain. He confides that he has snorted 'a large amount' of cocaine in the previous hours. Which one of the following features is his cocaine use most likely to cause?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Hyperthermia</b>. Cocaine use can lead to an increase in body temperature, or hyperthermia. This occurs as a result of increased metabolic activity and muscle rigidity, both of which are stimulated by cocaine's action on the central nervous system. Hyperthermia may also be exacerbated by the environmental conditions often associated with cocaine use, such as crowded and hot environments.<br /><br /><b>Hypokalaemia</b> is not typically associated with cocaine use. Hypokalaemia refers to low levels of potassium in the blood. While it is true that stimulant drugs can cause a shift of potassium into cells and thereby reduce serum levels, this effect is generally minimal and would not typically result in clinically significant hypokalaemia.<br /><br /><b>Decreased deep tendon reflexes</b>, although potentially indicative of certain neurological or muscular disorders, are not commonly seen in association with acute cocaine intoxication. Cocaine primarily affects the central nervous system causing increased sympathetic outflow leading to symptoms such as tachycardia, hypertension, mydriasis (dilated pupils), and psychomotor agitation.<br /><br />Contrary to causing <b>Hypotension</b>, cocaine usually leads to hypertension due to its sympathomimetic effects. It inhibits the reuptake of norepinephrine at nerve endings leading to vasoconstriction and therefore an increase in blood pressure.<br /><br />Finally, while acute cocaine intoxication can indeed alter acid-base balance due to respiratory alkalosis from hyperventilation or metabolic acidosis from seizures or rhabdomyolysis, <b>Metabolic alkalosis</b> is unlikely because there's no mechanism by which cocaine would lead directly to a loss of hydrogen ions or gain in bicarbonate ions - the primary causes of metabolic alkalosis.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 20-year-old man is admitted to the Emergency Department with chest pain. He confides that he has snorted 'a large amount' of cocaine in the previous hours. Which one of the following features is his cocaine use most likely to cause?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Hyperthermia</b>. Cocaine use can lead to an increase in body temperature, or hyperthermia. This occurs as a result of increased metabolic activity and muscle rigidity, both of which are stimulated by cocaine's action on the central nervous system. Hyperthermia may also be exacerbated by the environmental conditions often associated with cocaine use, such as crowded and hot environments.<br /><br /><b>Hypokalaemia</b> is not typically associated with cocaine use. Hypokalaemia refers to low levels of potassium in the blood. While it is true that stimulant drugs can cause a shift of potassium into cells and thereby reduce serum levels, this effect is generally minimal and would not typically result in clinically significant hypokalaemia.<br /><br /><b>Decreased deep tendon reflexes</b>, although potentially indicative of certain neurological or muscular disorders, are not commonly seen in association with acute cocaine intoxication. Cocaine primarily affects the central nervous system causing increased sympathetic outflow leading to symptoms such as tachycardia, hypertension, mydriasis (dilated pupils), and psychomotor agitation.<br /><br />Contrary to causing <b>Hypotension</b>, cocaine usually leads to hypertension due to its sympathomimetic effects. It inhibits the reuptake of norepinephrine at nerve endings leading to vasoconstriction and therefore an increase in blood pressure.<br /><br />Finally, while acute cocaine intoxication can indeed alter acid-base balance due to respiratory alkalosis from hyperventilation or metabolic acidosis from seizures or rhabdomyolysis, <b>Metabolic alkalosis</b> is unlikely because there's no mechanism by which cocaine would lead directly to a loss of hydrogen ions or gain in bicarbonate ions - the primary causes of metabolic alkalosis.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Cocaine",
+        "body": "Cocaine is an alkaloid derived from the coca plant. It is widely used as a recreational stimulant. The price of cocaine has fallen sharply in the past decade resulting in cocaine toxicity becoming a much more frequent clinical problem. This increase has made cocaine a favourite topic of question writers.<br /><br />Mechanism of action<br /><ul><li>cocaine blocks the uptake of dopamine, noradrenaline and serotonin </li></ul><br />Adverse effects<br /><ul><li>cardiovascular<ul><li><span class=\"concept\" data-cid=\"11304\">coronary artery spasm</span> &rarr; myocardial ischaemia/infarction</li><li>both tachycardia and bradycardia may occur</li><li>hypertension</li><li>QRS widening and QT prolongation</li><li>aortic dissection</li></ul></li><li>neurological<ul><li><span class=\"concept\" data-cid=\"1802\">seizures</span></li><li>mydriasis</li><li>hypertonia</li><li>hyperreflexia</li></ul></li><li>psychiatric effects<ul><li>agitation</li><li>psychosis</li><li>hallucinations</li></ul></li><li>others<ul><li><span class=\"concept\" data-cid=\"10682\">ischaemic colitis</span> is recognised in patients following cocaine ingestion. This should be considered if patients complain of abdominal pain or rectal bleeding</li><li>hyperthermia</li><li>metabolic acidosis</li><li>rhabdomyolysis</li></ul></li></ul><br />Management of cocaine toxicity<br /><ul><li>in general, <span class=\"concept\" data-cid=\"9124\">benzodiazepines are generally first-line for most cocaine-related problems</span></li><li>chest pain: <ul><li><span class=\"concept\" data-cid=\"2594\">benzodiazepines</span> + glyceryl trinitrate</li><li>if myocardial infarction develops then primary percutaneous coronary intervention</li></ul></li><li>hypertension: benzodiazepines + sodium nitroprusside</li><li>the use of <span class=\"concept\" data-cid=\"945\">beta-blockers</span> in cocaine-induced cardiovascular problems is a controversial issue<ul><li>the American Heart Association issued a statement in 2008 warning against the use of beta-blockers (due to the risk of unopposed alpha-mediated coronary vasospasm) but many cardiologists since have questioned whether this is valid</li><li>if a reasonable alternative is given in an exam it is probably wise to choose it</li></ul></li></ul>",
+        "notes_hash": "2fa64117051d25ae15bb41e55a006f4f",
+        "knowledge_graph_node_id_link": 1459,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "3438",
+        "up_votes": "1",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "216",
+            "2435",
+            "202",
+            "258",
+            "327",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/4d/Cocaine_dependence.webm\" data-description=\"Cocaine Dependence\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"365\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/4/4d/Cocaine_dependence.webm\" data-description=\"Cocaine Dependence\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"365\">Cocaine Dependence</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_618\" data-mediaid=\"618\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_618\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_618\" data-mediaid=\"618\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_618\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2594": {
+                "concept_text": "Patients with MI secondary to cocaine use should be given IV benzodiazepines as part of acute (ACS) treatment",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9845",
+        "new_question_id": "10113",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_748",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 74-year-old man presents with confusion and is found to have evidence of right lower lobe pneumonia on chest x-ray. On examination the respiratory rate is 36 breaths per minute, pulse rate is 90 per minute and the blood pressure is 106/48 mmHg. Initial bloods show a urea of 12 mmol/l.<br /><br />His CURB 65 score is:",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "CURB 65 is an evidence based tool used to risk stratify patients presenting with pneumonia. This question assesses your ability to calculate a score quickly. <br /><br />This patient scores 5: (Confusion = 1, Urea > 7 mmol/L = 1, Respiratory rate > 30 = 1, Diastolic BP < 60 mmHg = 1, Age > 65 = 1). <br /><br />A score of 5 necessitates admission to hospital for treatment with IV antibiotics and depending on clinical assessment either intermediate or intensive care admission may be warranted.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 74-year-old man presents with confusion and is found to have evidence of right lower lobe pneumonia on chest x-ray. On examination the respiratory rate is 36 breaths per minute, pulse rate is 90 per minute and the blood pressure is 106/48 mmHg. Initial bloods show a urea of 12 mmol/l.<br /><br />His CURB 65 score is:",
+        "correct_answer": "5",
+        "question_notes": "CURB 65 is an evidence based tool used to risk stratify patients presenting with pneumonia. This question assesses your ability to calculate a score quickly. <br /><br />This patient scores 5: (Confusion = 1, Urea > 7 mmol/L = 1, Respiratory rate > 30 = 1, Diastolic BP < 60 mmHg = 1, Age > 65 = 1). <br /><br />A score of 5 necessitates admission to hospital for treatment with IV antibiotics and depending on clinical assessment either intermediate or intensive care admission may be warranted.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Pneumonia: assessment and management",
+        "body": "<h5 class='notes-heading'>Primary care setting</h5><br />NICE recommends that patients should initially be assessed in primary care using the CRB65 criteria:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th> <br />Criterion</th><th>Marker</th></tr></thead><tbody><tr><td>C</td><td>Confusion (abbreviated mental test score <= 8/10)</td></tr><tr><td>R</td><td>Respiration rate  >= 30/min</td></tr><tr><td>B</td><td>Blood pressure: systolic <= 90 mmHg and/or diastolic <= 60 mmHg</td></tr><tr><td>65</td><td>Aged >=  65 years</td></tr></tbody></table></div><br />Patients are stratified for risk of death as follows:<br /><ul><li>0: low risk (less than 1% mortality risk)<ul><li>NICE recommend that <span class=\"concept\" data-cid=\"1495\">treatment at home</span> should be considered (alongside clinical judgement)</li></ul></li><li>1 or 2: intermediate risk (1-10% mortality risk)<ul><li>NICE recommend that ' hospital assessment should be considered (particularly for people with a score of 2)'</li></ul></li><li>3 or 4: high risk (more than 10% mortality risk)<ul><li>NICE recommend urgent admission to hospital</li></ul></li></ul><br />NICE also mention point-of-care CRP test. This is currently not widely available but they make the following recommendation with reference to the use of antibiotic therapy:<br /><ul><li>CRP < 20 mg/L - do not routinely offer antibiotic therapy</li><li>CRP 20 - 100 mg/L - consider a delayed antibiotic prescription</li><li>CRP > 100 mg/L - offer antibiotic therapy</li></ul><br /><br /><h5 class='notes-heading'>Secondary care setting</h5><br />Note that in hospital, once blood tests are available the CURB65, rather than the CRB65, can be used. This adds an extra criterion of urea > 7 mmol/L:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th> <br />Criterion</th><th>Marker</th></tr></thead><tbody><tr><td>C</td><td>Confusion (abbreviated mental test score <= 8/10)</td></tr><tr><td>U</td><td>urea > 7 mmol/L</td></tr><tr><td>R</td><td>Respiration rate  >= 30/min</td></tr><tr><td>B</td><td>Blood pressure: systolic <= 90 mmHg and/or diastolic <= 60 mmHg</td></tr><tr><td>65</td><td>Aged >=  65 years</td></tr></tbody></table></div><br />NICE recommend, in conjunction with clinical judgement:<br /><ul><li>consider home-based care for patients with a CURB65 score of 0 or 1 - low risk (less than 3% mortality risk)</li><li>consider hospital-based care for patients with a CURB65 score of 2 or more - intermediate risk (3-15% mortality risk)</li><li>consider intensive care assessment for patients with a CURB65 score of 3 or more - high risk (more than 15% mortality risk)</li></ul><br />Investigations<br /><ul><li>chest x-ray</li><li>in intermediate or high-risk patients NICE recommend blood and sputum cultures, pneumococcal and legionella urinary antigen tests</li><li>CRP monitoring is recommend for admitted patients to help determine response to treatment</li></ul><br />Management of low-severity community acquired pneumonia<br /><ul><li><span class=\"concept\" data-cid=\"6113\">amoxicillin is first-line</span></li><li>if penicillin allergic then use a macrolide or tetracycline</li><li>NICE now recommend a 5 day course of antibiotics for patients with low severity community acquired pneumonia</li></ul><br />Management of moderate and high-severity community acquired pneumonia<br /><ul><li>dual antibiotic therapy is recommended with amoxicillin and a macrolide</li><li>a 7-10 day course is recommended</li><li>NICE recommend considering a beta-lactamase stable penicillin such as co-amoxiclav, ceftriaxone or piperacillin with tazobactam and a macrolide in high-severity community acquired pneumonia</li></ul><br /><br /><h5 class='notes-heading'>Discharge criteria and advice post-discharge</h5><br />NICE recommend that patients are not routinely discharged if in the past 24 hours they have had 2 or more of the following findings:<br /><ul><li>temperature higher than 37.5\u00b0C</li><li>respiratory rate 24 breaths per minute or more</li><li>heart rate over 100 beats per minute</li><li>systolic blood pressure 90 mmHg or less</li><li>oxygen saturation under 90% on room air</li><li>abnormal mental status</li><li>inability to eat without assistance.</li></ul><br />They also recommend delaying discharge if the temperature is higher than 37.5\u00b0C.<br /><br />NICE recommend that the following information is given to patients with pneumonia in terms of how quickly their symptoms should symptoms should resolve:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th>Time</th><th>Progress</th></tr></thead><tbody><tr><td>1 week</td><td>Fever should have resolved</td></tr><tr><td>4 weeks</td><td>Chest pain and sputum production should have substantially reduced</td></tr><tr><td>6 weeks</td><td>Cough and breathlessness should have substantially reduced</td></tr><tr><td>3 months</td><td>Most symptoms should have resolved but fatigue may still be present</td></tr><tr><td>6 months</td><td>Most people will feel back to normal.</td></tr></tbody></table></div><br />All cases of pneumonia should have a <span class=\"concept\" data-cid=\"2991\">repeat chest X-ray at 6 weeks</span> after clinical resolution to ensure that the consolidation has resolved and there is no underlying secondary abnormalities (e.g. a lung tumour).",
+        "notes_hash": "24fc3e7ada852ce1acbc9141fd0ec40a",
+        "knowledge_graph_node_id_link": 1028,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4832",
+        "up_votes": "9",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "9",
+            "77",
+            "532",
+            "1538",
+            "2676",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1213\" data-linkid=\"1213\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1213\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1213\" data-linkid=\"1213\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1213\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg191/chapter/1-Recommendations\">2014 Pneumonia in adults: diagnosis and management</a></td></tr></table><br><br><table style='width:100%'><tr><td>MDCalc</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1559\" data-linkid=\"1559\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1559\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_1559\" data-linkid=\"1559\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1559\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.mdcalc.com/curb-65-score-pneumonia-severity\">CURB-65 scoring tool</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IAQp2Zuqevc\" data-description=\"Pneumonia\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"60\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/IAQp2Zuqevc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IAQp2Zuqevc\" data-description=\"Pneumonia\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"60\">Pneumonia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_789\" data-mediaid=\"789\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_789\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_789\" data-mediaid=\"789\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_789\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4c_ECpAfdSs\" data-description=\"Community Acquired Pneumonia\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"463\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4c_ECpAfdSs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4c_ECpAfdSs\" data-description=\"Community Acquired Pneumonia\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"463\">Community Acquired Pneumonia</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_811\" data-mediaid=\"811\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_811\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_811\" data-mediaid=\"811\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_811\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1495": {
+                "concept_text": "Patients presenting to primary care who have pneumonia can usually be managed in the community with oral antibiotics if their CRB-65 score is 0",
+                "concept_percentile": "45"
+            },
+            "2991": {
+                "concept_text": "All cases of pneumonia should have a repeat chest X-ray at 6 weeks after clinical resolution",
+                "concept_percentile": "85"
+            },
+            "6113": {
+                "concept_text": "Amoxicillin is the first-line antibiotic for low severity community-acquired pneumonia",
+                "concept_percentile": "58"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12389_B_67",
+        "new_question_id": "30340",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "5563",
+        "notes_id_link": "1_2237",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Buccal midazolam",
+            "Intravenous carbamazepine",
+            "Intravenous lorazepam",
+            "Intravenous phenytoin",
+            "Rectal diazepam",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old woman has a seizure while in the emergency department. This started suddenly and began with an abrupt loss of consciousness and an initial period of stiff muscle contraction, followed by intermittent jerky movements. She has a past medical history of epilepsy for which she takes carbamazepine but has been noted to have poor adherence in the past. The seizure continues for more than five minutes. A dose of IV lorazepam is administered. This unfortunately fails to stop the seizure.<br /><br />What is the next most appropriate pharmacological management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is in convulsive status epilepticus as the seizure described is a tonic-clonic seizure and has continued for more than five minutes. The BNF recommends initial management of status epilepticus with IV lorazepam, followed by a repeat dose 10 minutes after the first if the seizure recurs or fails to respond.<br /><br />Buccal midazolam may be used if intravenous access had not already been obtained or if the seizure had occurred in a non-hospital setting. The absorption of intravenous benzodiazepines is faster and therefore more appropriate for the management of status epilepticus.<br /><br />Intravenous carbamazepine is not indicated in the management of acute seizures or status epilepticus. It is primarily used in the prevention of tonic-clonic seizures.<br /><br />Intravenous phenytoin is not indicated until two doses of benzodiazepines have been administered. At this stage anaesthetics and critical care should also be involved.<br /><br />Similarly to buccal midazolam, rectal diazepam is not typically used unless there is no intravenous access or the emergency occurs in a pre-hospital setting.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old woman has a seizure while in the emergency department. This started suddenly and began with an abrupt loss of consciousness and an initial period of stiff muscle contraction, followed by intermittent jerky movements. She has a past medical history of epilepsy for which she takes carbamazepine but has been noted to have poor adherence in the past. The seizure continues for more than five minutes. A dose of IV lorazepam is administered. This unfortunately fails to stop the seizure.<br /><br />What is the next most appropriate pharmacological management?",
+        "correct_answer": "3",
+        "question_notes": "This patient is in convulsive status epilepticus as the seizure described is a tonic-clonic seizure and has continued for more than five minutes. The BNF recommends initial management of status epilepticus with IV lorazepam, followed by a repeat dose 10 minutes after the first if the seizure recurs or fails to respond.<br /><br />Buccal midazolam may be used if intravenous access had not already been obtained or if the seizure had occurred in a non-hospital setting. The absorption of intravenous benzodiazepines is faster and therefore more appropriate for the management of status epilepticus.<br /><br />Intravenous carbamazepine is not indicated in the management of acute seizures or status epilepticus. It is primarily used in the prevention of tonic-clonic seizures.<br /><br />Intravenous phenytoin is not indicated until two doses of benzodiazepines have been administered. At this stage anaesthetics and critical care should also be involved.<br /><br />Similarly to buccal midazolam, rectal diazepam is not typically used unless there is no intravenous access or the emergency occurs in a pre-hospital setting.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Status epilepticus",
+        "body": "Status epilepticus is defined as:<br /><ul><li>a single seizure lasting >5 minutes, or </li><li>>= 2 seizures within a 5-minute period without the person returning to normal between them</li></ul><br />This is a medical emergency. The priority is the termination of seizure activity, which if prolonged will lead to irreversible brain damage. <br /><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"5293\">ABC</span><ul><li>airway adjunct</li><li>oxygen</li><li>check blood glucose</li></ul></li><li>First-line drugs are benzodiazepines<ul><li>in the <span class=\"concept\" data-cid=\"11679\">prehospital setting PR diazepam or buccal midazolam</span> may be given</li><li>in hospital <span class=\"concept\" data-cid=\"1059\">IV lorazepam</span> is generally used. This may be <span class=\"concept\" data-cid=\"5563\">repeated once</span> after 5-10minutes</li></ul></li><li>If ongoing (or 'established') status it is appropriate to start a second-line agent such as <span class=\"concept\" data-cid=\"10950\">levetiracetam, phenytoin or sodium valproate</span><ul><li>NICE state 'Take into account that levetiracetam may be quicker to administer and have fewer adverse effects than the alternative options.'</li></ul></li><li>If no response ('refractory status') within 45 minutes from onset, then the best way to achieve rapid control of seizure activity is induction of general anaesthesia or phenobarbital</li></ul>",
+        "notes_hash": "dc4413399e4e7cb393445c1a78e98919",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A maximum of two doses of IV benzodiazepines can be administered during convulsive status epilepticus",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4506",
+        "up_votes": "29",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "171",
+            "73",
+            "2435",
+            "1381",
+            "446",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2092\" data-linkid=\"2092\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2092\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"link_dislike_2092\" data-linkid=\"2092\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2092\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng217\">2022 Epilepsy guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5293": {
+                "concept_text": "Status epilepticus: rule out hypoxia and hypoglycaemia before thinking of other causes",
+                "concept_percentile": "98"
+            },
+            "5563": {
+                "concept_text": "A maximum of two doses of IV benzodiazepines can be administered during convulsive status epilepticus",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

@@ -1,0 +1,826 @@
+[
+    {
+        "question_id": "1_B_2205",
+        "new_question_id": "2326",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1330",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Call for anaesthetist to intubate the baby",
+            "5 mouth-to-mouth rescue breaths",
+            "5 breaths of air via face mask",
+            "Start chest compressions",
+            "Suction airways",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A baby is born at term via vaginal delivery with no complications, however he is still not showing signs of breathing at one minute. Heart rate is >100bpm, but he is floppy and cyanosed. What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Airway suction should not be performed unless there is obviously thick meconium causing obstruction, as it can cause reflex bradycardia in babies. Chest compressions are not indicated, as the HR in this case is >100bpm. CPR should only be commenced at a HR < 60bpm. In cases where there are no signs of breathing and this is thought to be due to fluid in the lungs, five breaths should be given via a 250ml bag via face mask. This is a more effective and more hygienic method than using mouth-to-mouth in a hospital setting.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A baby is born at term via vaginal delivery with no complications, however he is still not showing signs of breathing at one minute. Heart rate is >100bpm, but he is floppy and cyanosed. What is the most appropriate next step in management?",
+        "correct_answer": "3",
+        "question_notes": "Airway suction should not be performed unless there is obviously thick meconium causing obstruction, as it can cause reflex bradycardia in babies. Chest compressions are not indicated, as the HR in this case is >100bpm. CPR should only be commenced at a HR < 60bpm. In cases where there are no signs of breathing and this is thought to be due to fluid in the lungs, five breaths should be given via a 250ml bag via face mask. This is a more effective and more hygienic method than using mouth-to-mouth in a hospital setting.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Apgar score",
+        "body": "The <b>Apgar score</b> is a quick and standardised method to assess the clinical condition of a newborn immediately after birth. It helps determine whether the baby needs immediate medical attention.<br /><br />NICE recommends assessing the Apgar score at <span class=\"concept\" data-cid=\"1083\">1 and 5 minutes</span> after birth. If the score is <b>less than 7</b> at 5 minutes, the assessment should continue every 5 minutes for up to 20 minutes, or until the baby stabilises.<br /><br /><b>APGAR</b> is a helpful acronym that stands for:<br /><ul><li><b>A</b>ctivity (muscle tone)</li><li><b>P</b>ulse (heart rate)</li><li><b>G</b>rimace (reflex irritability)</li><li><b>A</b>ppearance (skin colour)</li><li><b>R</b>espiratory effort</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Score</b></th><th><b>Activity</b> (muscle tone)</th><th><b>Pulse</b></th><th><b>Grimace</b> (reflex irritability)</th><th><b>Appearance</b> (colour)</th><th><b>Respiration</b></th></tr></thead><tbody><tr><td>    2</td><td>Active movement</td><td>> 100 bpm</td><td>Cries, sneezes or coughs on stimulation</td><td>Pink all over</td><td>Strong cry / normal breathing</td></tr><tr><td>    1</td><td>Some limb flexion</td><td>< 100 bpm</td><td>Grimace / weak response to stimulation</td><td>Body pink, extremities blue</td><td>Weak or irregular breathing</td></tr><tr><td>    0</td><td>Flaccid</td><td>Absent</td><td>No response</td><td>Blue or pale all over</td><td>Absent breathing</td></tr></tbody></table></div><br /><b>Interpretation:</b><br /><ul><li><b>0\u20133</b>: Critically low \u2013 requires immediate resuscitation</li><li><b>4\u20136</b>: Moderately low \u2013 may require medical support</li><li><b>7\u201310</b>: Generally reassuring \u2013 good adaptation to extrauterine life</li></ul><br />This structured approach using the APGAR acronym makes it easier for healthcare professionals to recall each component of the assessment and respond appropriately in the newborn period.",
+        "notes_hash": "7581a2faf5efc7f41a64ce107cc21440",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6025",
+        "up_votes": "60",
+        "down_votes": "58",
+        "column_array": [
+            0,
+            "279",
+            "1331",
+            "2693",
+            "174",
+            "1548",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resus Council</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1216\" data-linkid=\"1216\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1216\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_1216\" data-linkid=\"1216\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1216\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/library/2021-resuscitation-guidelines/newborn-resuscitation-and-support-transition-infants-birth\">Newborn resuscitation</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9cBNe1BcELk\" data-description=\"Neonatal Resuscitation\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"117\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9cBNe1BcELk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9cBNe1BcELk\" data-description=\"Neonatal Resuscitation\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"117\">Neonatal Resuscitation</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_210\" data-mediaid=\"210\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_210\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_210\" data-mediaid=\"210\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_210\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20495_B_354",
+        "new_question_id": "36273",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "11672",
+        "notes_id_link": "1_1129",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Addison's disease",
+            "Prolonged diarrhoea",
+            "Prolonged vomiting",
+            "Pulmonary embolism",
+            "Septic shock",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 21-year-old woman who has been brought into the emergency department following a collapse. There is no further information about her available, however, an arterial blood gas has already been taken on room air and shows the following:<br /><br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>paO<sub>2</sub></td><td>13 kPa</td><td>(11 - 13)</td></tr><tr><td>paCO<sub>2</sub></td><td>3.5 kPa</td><td>(4.7 - 6)</td></tr><tr><td>pH</td><td>7.31</td><td>(7.35 - 7.45)</td></tr><tr><td>Na<sup>+</sup></td><td>143 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>5 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>17 mEql/L</td><td>(22 - 29)</td></tr><tr><td>Chloride</td><td>100 mmol/L</td><td>(98 - 106)</td></tr></tbody></table></div><br />What diagnosis could explain the blood gas findings?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Whilst in practice an arterial blood gas (ABG) would be used to aid diagnosis and management in the context of the patient's history, examination and other investigation findings, in this case where we have no other information about the patient, the ABG alone can give us a clue towards the diagnosis. First, we can tell that the patient has a normal paO<sub>2</sub>, making a respiratory cause of her symptoms less likely. Her pH is, however, under 7.35, indicating an acidosis. Her bicarbonate is low, suggesting metabolic acidosis. Her low paCO<sub>2</sub> shows some efforts to compensate. This is a partially compensated metabolic acidosis. To determine the cause of metabolic acidosis, the anion gap can be calculated. The anion gap is calculated by calculating the difference between positively charged ions (sodium and potassium) and negatively charged ions (bicarbonate and chloride). In this case (143 + 5) - (17 + 100) gives an anion gap of 31 mmol/L. A normal anion gap is 8-14 mmol/L. This patient, therefore, has metabolic acidosis with a raised anion gap. Raised anion gap shows there is excess acid in the blood. The only listed cause of raised anion gap metabolic acidosis is <b>septic shock</b>, which results in acidosis due to the production of lactic acid due to inadequate tissue perfusion.<br /><br /><b>Addison's disease</b> is another cause of metabolic acidosis. However, in this case, there is a normal anion gap metabolic acidosis. This is because the acidosis is caused by loss of bicarbonate, rather than gain of acid, due to mineralocorticoid deficiency. Addison's disease is also not in keeping with the electrolyte values seen in this patient. Patients with Addison's typically have hyponatraemia and hyperkalaemia. <br /><br /><b>Prolonged diarrhoea</b> could result in a collapse due to dehydration and electrolyte imbalance. Diarrhoea can also cause metabolic acidosis. However, this is not due to the addition of acid, but rather due to loss of the base, due to gastrointestinal loss of bicarbonate. Diarrhoea is therefore a cause of normal anion gap metabolic acidosis. <br /><br /><b>Pulmonary embolism</b> is a cause of hypocapnia, as seen in this patient, due to hyperventilation. However, it would be unlikely for a patient with a pulmonary embolism significant enough to cause collapse to have normal oxygen levels. Furthermore, hypocapnia alone causes alkalosis.  This patient is acidotic, meaning the hypocapnia is occurring as compensation. This profile does not fit a patient with a pulmonary embolism. <br /><br /><b>Prolonged vomiting</b> could, again, result in a collapse due to dehydration and electrolyte imbalance. However, vomiting does not cause metabolic acidosis. It instead causes metabolic alkalosis, due to the loss of hydrogen ions in vomit. There is also a loss of chloride, creating a hypochloraemic metabolic alkalosis. This patient's electrolyte profile does not fit with prolonged vomiting.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 21-year-old woman who has been brought into the emergency department following a collapse. There is no further information about her available, however, an arterial blood gas has already been taken on room air and shows the following:<br /><br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>paO<sub>2</sub></td><td>13 kPa</td><td>(11 - 13)</td></tr><tr><td>paCO<sub>2</sub></td><td>3.5 kPa</td><td>(4.7 - 6)</td></tr><tr><td>pH</td><td>7.31</td><td>(7.35 - 7.45)</td></tr><tr><td>Na<sup>+</sup></td><td>143 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>5 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>17 mEql/L</td><td>(22 - 29)</td></tr><tr><td>Chloride</td><td>100 mmol/L</td><td>(98 - 106)</td></tr></tbody></table></div><br />What diagnosis could explain the blood gas findings?",
+        "correct_answer": "5",
+        "question_notes": "Whilst in practice an arterial blood gas (ABG) would be used to aid diagnosis and management in the context of the patient's history, examination and other investigation findings, in this case where we have no other information about the patient, the ABG alone can give us a clue towards the diagnosis. First, we can tell that the patient has a normal paO<sub>2</sub>, making a respiratory cause of her symptoms less likely. Her pH is, however, under 7.35, indicating an acidosis. Her bicarbonate is low, suggesting metabolic acidosis. Her low paCO<sub>2</sub> shows some efforts to compensate. This is a partially compensated metabolic acidosis. To determine the cause of metabolic acidosis, the anion gap can be calculated. The anion gap is calculated by calculating the difference between positively charged ions (sodium and potassium) and negatively charged ions (bicarbonate and chloride). In this case (143 + 5) - (17 + 100) gives an anion gap of 31 mmol/L. A normal anion gap is 8-14 mmol/L. This patient, therefore, has metabolic acidosis with a raised anion gap. Raised anion gap shows there is excess acid in the blood. The only listed cause of raised anion gap metabolic acidosis is <b>septic shock</b>, which results in acidosis due to the production of lactic acid due to inadequate tissue perfusion.<br /><br /><b>Addison's disease</b> is another cause of metabolic acidosis. However, in this case, there is a normal anion gap metabolic acidosis. This is because the acidosis is caused by loss of bicarbonate, rather than gain of acid, due to mineralocorticoid deficiency. Addison's disease is also not in keeping with the electrolyte values seen in this patient. Patients with Addison's typically have hyponatraemia and hyperkalaemia. <br /><br /><b>Prolonged diarrhoea</b> could result in a collapse due to dehydration and electrolyte imbalance. Diarrhoea can also cause metabolic acidosis. However, this is not due to the addition of acid, but rather due to loss of the base, due to gastrointestinal loss of bicarbonate. Diarrhoea is therefore a cause of normal anion gap metabolic acidosis. <br /><br /><b>Pulmonary embolism</b> is a cause of hypocapnia, as seen in this patient, due to hyperventilation. However, it would be unlikely for a patient with a pulmonary embolism significant enough to cause collapse to have normal oxygen levels. Furthermore, hypocapnia alone causes alkalosis.  This patient is acidotic, meaning the hypocapnia is occurring as compensation. This profile does not fit a patient with a pulmonary embolism. <br /><br /><b>Prolonged vomiting</b> could, again, result in a collapse due to dehydration and electrolyte imbalance. However, vomiting does not cause metabolic acidosis. It instead causes metabolic alkalosis, due to the loss of hydrogen ions in vomit. There is also a loss of chloride, creating a hypochloraemic metabolic alkalosis. This patient's electrolyte profile does not fit with prolonged vomiting.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Anion gap",
+        "body": "The anion gap is calculated by:<br /><br /><span class=\"concept\" data-cid=\"11912\">(sodium + potassium) - (bicarbonate + chloride)</span><br /><br />A <span class=\"concept\" data-cid=\"11672\">normal anion gap is 8-14 mmol/L</span><br /><br />It is useful to consider in patients with a metabolic acidosis:<br /><br />Causes of a normal anion gap or hyperchloraemic metabolic acidosis<br /><ul><li>gastrointestinal bicarbonate loss: <span class=\"concept\" data-cid=\"8348\">diarrhoea</span>, ureterosigmoidostomy, fistula</li><li><span class=\"concept\" data-cid=\"5012\">renal tubular acidosis</span></li><li>drugs: e.g. acetazolamide</li><li>ammonium chloride injection</li><li>Addison's disease</li></ul><br />Causes of a raised anion gap metabolic acidosis<br /><ul><li>lactate: shock, hypoxia</li><li>ketones: diabetic ketoacidosis, alcohol</li><li>urate: renal failure</li><li>acid poisoning: salicylates, methanol</li><li><span class=\"concept\" data-cid=\"9610\">5-oxoproline: chronic paracetamol use</span></li></ul>",
+        "notes_hash": "5764ea44d7a703dd670addeb06adc36d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "An anion gap of > 14 mmol/L typically indicates a raised anion gap metabolic acidosis, rather than a normal anion gap ",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "6059",
+        "up_votes": "125",
+        "down_votes": "137",
+        "column_array": [
+            0,
+            "1000",
+            "1764",
+            "606",
+            "458",
+            "2231",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sQnEFVNrY74\" data-description=\"Anion Gap EXPLAINED\" data-upvotes=\"32\" data-downvotes=\"0\" data-media=\"453\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sQnEFVNrY74/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sQnEFVNrY74\" data-description=\"Anion Gap EXPLAINED\" data-upvotes=\"32\" data-downvotes=\"0\" data-media=\"453\">Anion Gap EXPLAINED</a></td></tr><tr><td><span ><small>HippocraTV - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_787\" data-mediaid=\"787\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_787\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">32</span><button type=\"button\" style=\"\" id=\"media_dislike_787\" data-mediaid=\"787\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_787\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JDOibiRtM5k\" data-description=\"Plasma anion gap\" data-upvotes=\"0\" data-downvotes=\"4\" data-media=\"1275\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JDOibiRtM5k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JDOibiRtM5k\" data-description=\"Plasma anion gap\" data-upvotes=\"0\" data-downvotes=\"4\" data-media=\"1275\">Plasma anion gap</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2254\" data-mediaid=\"2254\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2254\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2254\" data-mediaid=\"2254\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2254\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 10,
+        "concepts_for_notes": {
+            "8348": {
+                "concept_text": "Diarrhoea can cause a normal anion gap acidosis whereas vomiting causes alkalosis",
+                "concept_percentile": "72"
+            },
+            "11672": {
+                "concept_text": "An anion gap of > 14 mmol/L typically indicates a raised anion gap metabolic acidosis, rather than a normal anion gap ",
+                "concept_percentile": "51"
+            },
+            "11912": {
+                "concept_text": "Anion gap = (sodium + potassium) - (bicarbonate + chloride)",
+                "concept_percentile": "38"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1537",
+        "new_question_id": "9857",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_682",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Peutz-Jeghers syndrome",
+            "Alcohol excess",
+            "Hereditary haemorrhagic telangiectasia",
+            "Haemophilia A",
+            "Idiopathic thrombocytopenic purpura",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 30-year-old man is investigated for recurrent nose bleeds and iron deficiency anaemia. You notice a number of erythematous lesions on his skin:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely underlying diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Hereditary haemorrhagic telangiectasia</b>. This condition, also known as Osler-Weber-Rendu syndrome, is a genetic disorder characterised by abnormal blood vessel formation in the skin, mucous membranes, and often in organs such as the lungs, liver, and brain. The erythematous lesions seen on the skin of this patient are likely telangiectasias - small dilated blood vessels near the surface of the skin. Recurrent nosebleeds (epistaxis) and iron deficiency anaemia due to chronic bleeding are common manifestations of this condition.<br /><br /><b>Peutz-Jeghers syndrome</b> is an autosomal dominant genetic disorder characterised by the development of non-cancerous growths called hamartomatous polyps in the gastrointestinal tract and a characteristic pigmentation around the mouth, lips, eyes and genitalia. It does not typically present with recurrent nosebleeds or erythematous skin lesions.<br /><br /><b>Alcohol excess</b> can cause numerous health issues including liver disease and coagulopathy which might lead to easy bruising and bleeding. However, it would not cause erythematous skin lesions as seen in this case. Furthermore, alcohol-related nosebleeds would usually be associated with other signs of alcohol misuse or its complications.<br /><br /><b>Haemophilia A</b> is an X-linked recessive disorder characterised by a deficiency in factor VIII leading to prolonged bleeding times. Although patients with haemophilia may experience frequent nosebleeds due to impaired coagulation, they do not develop telangiectasias or similar skin lesions.<br /><br />Lastly, <b>Idiopathic thrombocytopenic purpura (ITP)</b> is an autoimmune disorder causing platelet destruction which leads to a low platelet count (thrombocytopenia). Patients with ITP typically present with petechiae and purpura but not telangiectasia as seen in this case. Nosebleeds could occur due to thrombocytopenia but ITP wouldn't explain the specific type of skin lesion observed here.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 30-year-old man is investigated for recurrent nose bleeds and iron deficiency anaemia. You notice a number of erythematous lesions on his skin:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd013b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely underlying diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Hereditary haemorrhagic telangiectasia</b>. This condition, also known as Osler-Weber-Rendu syndrome, is a genetic disorder characterised by abnormal blood vessel formation in the skin, mucous membranes, and often in organs such as the lungs, liver, and brain. The erythematous lesions seen on the skin of this patient are likely telangiectasias - small dilated blood vessels near the surface of the skin. Recurrent nosebleeds (epistaxis) and iron deficiency anaemia due to chronic bleeding are common manifestations of this condition.<br /><br /><b>Peutz-Jeghers syndrome</b> is an autosomal dominant genetic disorder characterised by the development of non-cancerous growths called hamartomatous polyps in the gastrointestinal tract and a characteristic pigmentation around the mouth, lips, eyes and genitalia. It does not typically present with recurrent nosebleeds or erythematous skin lesions.<br /><br /><b>Alcohol excess</b> can cause numerous health issues including liver disease and coagulopathy which might lead to easy bruising and bleeding. However, it would not cause erythematous skin lesions as seen in this case. Furthermore, alcohol-related nosebleeds would usually be associated with other signs of alcohol misuse or its complications.<br /><br /><b>Haemophilia A</b> is an X-linked recessive disorder characterised by a deficiency in factor VIII leading to prolonged bleeding times. Although patients with haemophilia may experience frequent nosebleeds due to impaired coagulation, they do not develop telangiectasias or similar skin lesions.<br /><br />Lastly, <b>Idiopathic thrombocytopenic purpura (ITP)</b> is an autoimmune disorder causing platelet destruction which leads to a low platelet count (thrombocytopenia). Patients with ITP typically present with petechiae and purpura but not telangiectasia as seen in this case. Nosebleeds could occur due to thrombocytopenia but ITP wouldn't explain the specific type of skin lesion observed here.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hereditary haemorrhagic telangiectasia",
+        "body": "Also known as Osler-Weber-Rendu syndrome, hereditary haemorrhagic telangiectasia (HHT) is an <span class=\"concept\" data-cid=\"819\">autosomal dominant</span> condition characterised by (as the name suggests) multiple telangiectasia over the skin and mucous membranes. Twenty percent of cases occur spontaneously without prior family history.<br /><br />There are 4 main diagnostic criteria. If the patient has 2 then they are said to have a possible diagnosis of HHT. If they meet 3 or more of the criteria they are said to have a definite diagnosis of HHT:<br /><ul><li>epistaxis : spontaneous, recurrent nosebleeds</li><li>telangiectases: multiple at characteristic sites (lips, oral cavity, fingers, nose)</li><li>visceral lesions: for example gastrointestinal telangiectasia (with or without bleeding), pulmonary arteriovenous malformations (AVM), hepatic AVM, cerebral AVM, spinal AVM</li><li>family history: a first-degree relative with HHT</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd357b.jpg\" data-fancybox=\"gallery\" data-caption=\"Multiple pinpoint red macules and papules on the tongue and perioral region, consistent with telangiectasia. These lesions are non-blanching, vascular malformations that arise from dilated postcapillary venules, a hallmark of hereditary haemorrhagic telangiectasia (Osler-Weber-Rendu syndrome).\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd357.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb088b.jpg\" data-fancybox=\"gallery\" data-caption=\"The chest x-ray shows multiple pulmonary nodules representing arteriovenous malformations, the largest in the right mid-zone. The CT scan shows multiple hepatic arteriovenous malformations\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb088.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd358b.jpg\" data-fancybox=\"gallery\" data-caption=\"This coronal brain section shows extensive cystic and serpiginous spaces in the right hemisphere, consistent with a large cerebral arteriovenous malformation (AVM). The lesion reflects abnormal connections between arteries and veins, bypassing the capillary network. In hereditary haemorrhagic telangiectasia (HHT), cerebral AVMs are a recognised complication and may present with seizures, focal neurological deficits, or intracerebral haemorrhage. AVMs can also remain asymptomatic and are often identified through screening in individuals with known HHT. MRI/MRA is recommended in all confirmed cases to detect cerebral AVMs early and guide management.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd358.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "d82fb2999ab812e9b1610a8ca2aecbb8",
+        "knowledge_graph_node_id_link": 1107,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5654",
+        "up_votes": "19",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "579",
+            "144",
+            "3851",
+            "223",
+            "857",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Postgraduate Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1007\" data-linkid=\"1007\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1007\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1007\" data-linkid=\"1007\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1007\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://pmj.bmjjournals.com/cgi/content/full/79/927/18\">Review of HHT</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_781\" data-linkid=\"781\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_781\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_781\" data-linkid=\"781\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_781\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/hereditary-haemorrhagic-telangiectasia/\">Hereditary haemorrhagic telangiectasia</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1149_B_3589",
+        "new_question_id": "8734",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_469",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Heart failure",
+            "Endocarditis",
+            "Uraemic encephalopathy",
+            "Anaemia",
+            "Hyperkalaemia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 50 year-old man with dialysis dependent chronic kidney disease is awaiting renal transplant. He complains of fatigue. On examination you note heart rate 95 beats per minute, soft ejection systolic murmur that doesn't radiate and pallor. There were no other abnormal features. <br /><br />What is the most likely cause of his fatigue?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Anaemia is extremely common in chronic kidney disease. It is often caused by iron deficiency or erythropoietin deficiency. The man in this case has a few signs and symptoms of anaemia - tachycardia, fatigue, pallor and an aortic flow murmur.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50 year-old man with dialysis dependent chronic kidney disease is awaiting renal transplant. He complains of fatigue. On examination you note heart rate 95 beats per minute, soft ejection systolic murmur that doesn't radiate and pallor. There were no other abnormal features. <br /><br />What is the most likely cause of his fatigue?",
+        "correct_answer": "4",
+        "question_notes": "Anaemia is extremely common in chronic kidney disease. It is often caused by iron deficiency or erythropoietin deficiency. The man in this case has a few signs and symptoms of anaemia - tachycardia, fatigue, pallor and an aortic flow murmur.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Chronic kidney disease: anaemia",
+        "body": "Patients with chronic kidney disease (CKD) may develop anaemia due to a variety of factors, the most significant of which is <span class=\"concept\" data-cid=\"3126\">reduced erythropoietin levels</span>. This is usually a normochromic normocytic anaemia and becomes apparent when the GFR is less than 35 ml/min (other causes of anaemia should be considered if the GFR is > 60 ml/min). Anaemia in CKD predisposes to the development of left ventricular hypertrophy - associated with a three fold increase in mortality in renal patients<br /><br />Causes of anaemia in renal failure<br /><ul><li><span class=\"concept\" data-cid=\"3126\">reduced erythropoietin levels</span> <ul><li>the most significant factor in CKD causing anaemia</li><li>CKD is associated with a decrease in the production of erythropoietin, a hormone produced by the kidneys that stimulates erythropoiesis in the bone marrow</li><li>reduced erythropoietin levels &rarr; diminished red blood cell production</li></ul></li><li>reduced absorption of iron<ul><li>hepcidin is an acute-phase reactant</li><li>in CKD, hepcidin levels are often increased due to inflammation and reduced renal clearance</li><li><span class=\"concept\" data-cid=\"12117\">elevated hepcidin levels</span> lead to decreased iron absorption from the gut and impaired release of stored iron from macrophages and hepatocytes, reducing the iron available for erythropoiesis</li><li>additionally, metabolic acidosis, a common condition in CKD, can inhibit the conversion of ferric iron (Fe\u00b3) to its absorbable form, ferrous iron (Fe\u00b2), in the duodenum &rarr; reduced iron absorption.</li></ul></li><li>reduced erythropoiesis due to toxic effects of uraemia on bone marrow</li><li>anorexia/nausea due to uraemia</li><li>reduced red cell survival (especially in haemodialysis)</li><li>blood loss due to capillary fragility and poor platelet function</li><li>stress ulceration leading to chronic blood loss</li></ul><br />Management<br /><ul><li>the 2011 NICE guidelines suggest a target haemoglobin of <span class=\"concept\" data-cid=\"707\">10 - 12 g/dl</span></li><li><span class=\"concept\" data-cid=\"8774\">determination</span> and <span class=\"concept\" data-cid=\"8790\">optimisation of iron status</span> should be carried out prior to the administration of <span class=\"concept\" data-cid=\"11468\">erythropoiesis-stimulating agents (ESA)</span>.<ul><li>oral iron should be offered for patients who are not on ESAs or haemodialysis. If target Hb levels are not reached within 3 months then patients should be switched to IV iron</li><li>patients on ESAs or haemodialysis generally require <span class=\"concept\" data-cid=\"11927\">IV iron</span></li></ul></li><li>ESAs such as erythropoietin and darbepoetin should be used in those 'who are likely to benefit in terms of quality of life and physical function'</li></ul>",
+        "notes_hash": "b65981d3f1689d13b6525dc58c2e0776",
+        "knowledge_graph_node_id_link": 1222,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5505",
+        "up_votes": "48",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "722",
+            "470",
+            "327",
+            "3776",
+            "210",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>The Renal Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_455\" data-linkid=\"455\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_455\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_455\" data-linkid=\"455\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_455\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://renal.org/sites/renal.org/files/Updated-130220-Anaemia-of-Chronic-Kidney-Disease-1-1.pdf\">CKD anaemia guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_688\" data-linkid=\"688\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_688\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_688\" data-linkid=\"688\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_688\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng203\">2021 Chronic kidney disease: managing anaemia</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aD4R82r5hoY\" data-description=\"Understanding Chronic Kidney Disease (CKD)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1425\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aD4R82r5hoY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aD4R82r5hoY\" data-description=\"Understanding Chronic Kidney Disease (CKD)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1425\">Understanding Chronic Kidney Disease (CKD)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2508\" data-mediaid=\"2508\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2508\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2508\" data-mediaid=\"2508\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2508\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fv53QZRk4hs\" data-description=\"Chronic kidney disease\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"301\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fv53QZRk4hs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fv53QZRk4hs\" data-description=\"Chronic kidney disease\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"301\">Chronic kidney disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_508\" data-mediaid=\"508\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_508\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_508\" data-mediaid=\"508\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_508\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1321",
+        "new_question_id": "3871",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "377",
+        "notes_id_link": "1_1661",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Switch to regular oral tramadol",
+            "Add topical ibuprofen",
+            "Add oral ibuprofen + proton pump inhibitor",
+            "Add oral etoricoxib",
+            "Add oral diclofenac",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old woman with a history of left hip osteoarthritis presents for review. She is currently taking co-codamol 30/500 for pain on a regular basis but this is unfortunately not controlling her symptoms. There is no past medical history of note, in particular no asthma or gastrointestinal problems. What is the most suitable next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is to <b>add oral ibuprofen + proton pump inhibitor</b>. This is because the patient's pain from osteoarthritis is not being adequately controlled by co-codamol, which is a combination of paracetamol and codeine. The National Institute for Health and Care Excellence (NICE) guidelines in the UK recommend adding a non-steroidal anti-inflammatory drug (NSAID), such as ibuprofen, if paracetamol or topical NSAIDs are ineffective. A proton pump inhibitor (PPI) should be co-prescribed with an NSAID to reduce the risk of adverse gastrointestinal side effects, especially in older patients.<br /><br />Discussing the incorrect options:<br /><br /><b>Switch to regular oral tramadol</b>: While tramadol is a stronger analgesic than co-codamol, it's not recommended as first-line therapy due to its potential for addiction and side effects such as nausea, vomiting, constipation and drowsiness. Furthermore, NICE guidelines suggest that opioids like tramadol should only be considered after the failure of at least three other analgesics.<br /><br /><b>Add topical ibuprofen</b>: Topical NSAIDs can be effective for relieving pain from osteoarthritis. However, this patient's pain is not being controlled by her current medication so it's likely she needs systemic rather than topical treatment.<br /><br /><b>Add oral etoricoxib</b>: Etoricoxib is a type of NSAID known as a COX-2 inhibitor. These drugs can also be effective for treating osteoarthritis pain but they carry a higher risk of cardiovascular side effects compared to traditional NSAIDs like ibuprofen. Therefore, they're generally only used when other treatments have failed or are contraindicated.<br /><br /><b>Add oral diclofenac</b>: Diclofenac is another type of NSAID that could potentially help manage this patient's pain. However, it carries a higher risk of cardiovascular side effects compared to ibuprofen and therefore would not be the first choice according to UK guidelines.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old woman with a history of left hip osteoarthritis presents for review. She is currently taking co-codamol 30/500 for pain on a regular basis but this is unfortunately not controlling her symptoms. There is no past medical history of note, in particular no asthma or gastrointestinal problems. What is the most suitable next step in management?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is to <b>add oral ibuprofen + proton pump inhibitor</b>. This is because the patient's pain from osteoarthritis is not being adequately controlled by co-codamol, which is a combination of paracetamol and codeine. The National Institute for Health and Care Excellence (NICE) guidelines in the UK recommend adding a non-steroidal anti-inflammatory drug (NSAID), such as ibuprofen, if paracetamol or topical NSAIDs are ineffective. A proton pump inhibitor (PPI) should be co-prescribed with an NSAID to reduce the risk of adverse gastrointestinal side effects, especially in older patients.<br /><br />Discussing the incorrect options:<br /><br /><b>Switch to regular oral tramadol</b>: While tramadol is a stronger analgesic than co-codamol, it's not recommended as first-line therapy due to its potential for addiction and side effects such as nausea, vomiting, constipation and drowsiness. Furthermore, NICE guidelines suggest that opioids like tramadol should only be considered after the failure of at least three other analgesics.<br /><br /><b>Add topical ibuprofen</b>: Topical NSAIDs can be effective for relieving pain from osteoarthritis. However, this patient's pain is not being controlled by her current medication so it's likely she needs systemic rather than topical treatment.<br /><br /><b>Add oral etoricoxib</b>: Etoricoxib is a type of NSAID known as a COX-2 inhibitor. These drugs can also be effective for treating osteoarthritis pain but they carry a higher risk of cardiovascular side effects compared to traditional NSAIDs like ibuprofen. Therefore, they're generally only used when other treatments have failed or are contraindicated.<br /><br /><b>Add oral diclofenac</b>: Diclofenac is another type of NSAID that could potentially help manage this patient's pain. However, it carries a higher risk of cardiovascular side effects compared to ibuprofen and therefore would not be the first choice according to UK guidelines.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Osteoarthritis: management",
+        "body": "NICE updated its guidelines on the management of osteoarthritis (OA) in 2022<br /><ul><li>all patients should be offered help with weight loss, given advice about <span class=\"concept\" data-cid=\"11203\">local muscle strengthening exercises and general aerobic fitness</span></li><li><span class=\"concept\" data-cid=\"376\">topical NSAIDs</span> are first-line analgesics. Topical NSAIDs may be particualrly beneficial for patients with OA of the knee or hand <a href='https://www.nice.org.uk/guidance/ng226/chapter/Recommendations#diagnosis:~:text=Offer%20a%20topical%20non%2Dsteroidal%20anti%2Dinflammatory%20drug%20(NSAID)' title='NICE - 2022 osteoarthritis guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> </li><li>second-line treatment is oral NSAIDs<ul><li>a <span class=\"concept\" data-cid=\"377\">proton pump inhibitor should be co-prescribed with NSAIDs</span></li><li>these drugs should be avoided if the patient takes aspirin</li></ul></li><li>NICE recommend we do not offer paracetamol or weak opioids, unless: <a href='https://www.nice.org.uk/guidance/ng226/chapter/Recommendations#diagnosis:~:text=Do%20not%20routinely%20offer%20paracetamol%20or%20weak%20opioids%20unless' title='NICE - 2022 osteoarthritis guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>they are only used infrequently for short-term pain relief and</li><li>all other pharmacological treatments are contraindicated, not tolerated or ineffective</li></ul></li><li>glucosamine and strong opioids are not recommended</li><li>non-pharmacological treatment options include walking aids for knee and hip OA</li><li>intra-articular steroid injections may be tried if standard pharmacological treatment is ineffective<ul><li>patients should be aware that they only provide short-term relief (2-10 weeks)</li></ul></li><li>if conservative methods fail then refer for consideration of joint replacement</li></ul>",
+        "notes_hash": "362c6344a0346adc6e1632beab7736e4",
+        "knowledge_graph_node_id_link": 10963,
+        "concept": "NICE recommend co-prescribing a PPI with NSAIDs in all patients with osteoarthritis",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "4081",
+        "up_votes": "34",
+        "down_votes": "77",
+        "column_array": [
+            0,
+            "400",
+            "846",
+            "2497",
+            "168",
+            "170",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_920\" data-linkid=\"920\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_920\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_920\" data-linkid=\"920\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_920\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng226/chapter/Recommendations\">2022 osteoarthritis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CYTGpcPz3dg\" data-description=\"Osteoarthritis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1040\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CYTGpcPz3dg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CYTGpcPz3dg\" data-description=\"Osteoarthritis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1040\">Osteoarthritis</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1821\" data-mediaid=\"1821\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1821\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1821\" data-mediaid=\"1821\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1821\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jSzfO_9s_GA\" data-description=\"Osteoarthritis Explained Clearly\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1557\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jSzfO_9s_GA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jSzfO_9s_GA\" data-description=\"Osteoarthritis Explained Clearly\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1557\">Osteoarthritis Explained Clearly</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2712\" data-mediaid=\"2712\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2712\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2712\" data-mediaid=\"2712\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2712\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "376": {
+                "concept_text": "Knee osteoarthritis - topical NSAIDs are first-line",
+                "concept_percentile": "70"
+            },
+            "377": {
+                "concept_text": "NICE recommend co-prescribing a PPI with NSAIDs in all patients with osteoarthritis",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "462_B_11",
+        "new_question_id": "8633",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_453",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hypercalcaemia",
+            "Hyperkalaemia",
+            "Hyperphosphataemia",
+            "Hyperuricaemia",
+            "Hypocalcaemia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 77-year-old man on the ward has only produced 120 mL of urine in the past 8 hours. Which metabolic abnormality is the most serious potential complication of his condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Hyperkalaemia is the most serious electrolyte abnormality that can complicate acute kidney injury. It can result in muscle weakness, paralysis, arrhythmias and cardiac arrest. ECG changes are a more accurate way of identifying cardiac toxicity than plasma potassium level. If characteristic ECG changes of hyperkalaemia are seen, then it is important to give the patient either calcium gluconate or calcium chloride, which acts as a cardiac membrane stabiliser, while potassium-lowering treatments are given.   <br /><br />Hyperphosphataemia and hypocalcaemia are both complications of chronic kidney disease.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 77-year-old man on the ward has only produced 120 mL of urine in the past 8 hours. Which metabolic abnormality is the most serious potential complication of his condition?",
+        "correct_answer": "2",
+        "question_notes": "Hyperkalaemia is the most serious electrolyte abnormality that can complicate acute kidney injury. It can result in muscle weakness, paralysis, arrhythmias and cardiac arrest. ECG changes are a more accurate way of identifying cardiac toxicity than plasma potassium level. If characteristic ECG changes of hyperkalaemia are seen, then it is important to give the patient either calcium gluconate or calcium chloride, which acts as a cardiac membrane stabiliser, while potassium-lowering treatments are given.   <br /><br />Hyperphosphataemia and hypocalcaemia are both complications of chronic kidney disease.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hyperkalaemia",
+        "body": "Plasma potassium levels are regulated by a number of factors including aldosterone, acid-base balance and insulin levels. Metabolic acidosis is associated with hyperkalaemia as hydrogen and potassium ions compete with each other for exchange with sodium ions across cell membranes and in the distal tubule. ECG changes seen in hyperkalaemia include tall-tented T waves, small P waves, widened QRS leading to a sinusoidal pattern and asystole<br /><br />Causes of hyperkalaemia:<br /><ul><li><span class=\"concept\" data-cid=\"5045\">acute kidney injury</span></li><li>drugs*: potassium sparing diuretics, <span class=\"concept\" data-cid=\"7712\">ACE inhibitors</span>, <span class=\"concept\" data-cid=\"7713\">angiotensin 2 receptor blockers</span>, <span class=\"concept\" data-cid=\"7711\">spironolactone</span>, <span class=\"concept\" data-cid=\"7714\">ciclosporin</span>, <span class=\"concept\" data-cid=\"9809\">heparin</span>**</li><li><span class=\"concept\" data-cid=\"7715\">metabolic acidosis</span></li><li><span class=\"concept\" data-cid=\"7716\">Addison's disease</span></li><li><span class=\"concept\" data-cid=\"7717\">rhabdomyolysis</span></li><li><span class=\"concept\" data-cid=\"7718\">massive blood transfusion</span></li></ul><br />Foods that are high in potassium:<br /><ul><li>salt substitutes (i.e. Contain potassium rather than sodium)</li><li>bananas, oranges, kiwi fruit, avocado, spinach, tomatoes</li></ul><br />*beta-blockers interfere with potassium transport into cells and can potentially cause hyperkalaemia in renal failure patients - remember beta-agonists, e.g. Salbutamol, are sometimes used as emergency treatment<br /><br />**both unfractionated and low-molecular weight heparin can cause hyperkalaemia. This is thought to be caused by inhibition of aldosterone secretion",
+        "notes_hash": "3ca592c962bd13f80f77c8090a222211",
+        "knowledge_graph_node_id_link": 10293,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4591",
+        "up_votes": "22",
+        "down_votes": "27",
+        "column_array": [
+            0,
+            "329",
+            "3092",
+            "88",
+            "914",
+            "168",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>National Kidney Foundation</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_531\" data-linkid=\"531\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_531\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_531\" data-linkid=\"531\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_531\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.kidney.org/nutrition/Kidney-Disease-Stages-1-4\">Renal Diet</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1499\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wrij_7e5OrQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"1499\">Understanding Hyperkalaemia (High Potassium)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2640\" data-mediaid=\"2640\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2640\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2640\" data-mediaid=\"2640\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2640\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"19\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"19\">Hyperkalemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_40\" data-mediaid=\"40\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_40\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_40\" data-mediaid=\"40\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_40\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "5045": {
+                "concept_text": "AKI may result in hyperkalemia ",
+                "concept_percentile": "50"
+            },
+            "7711": {
+                "concept_text": "Spironolactone causes hyperkalaemia",
+                "concept_percentile": "16"
+            },
+            "7712": {
+                "concept_text": "ACE inhibitors causes hyperkalaemia",
+                "concept_percentile": "73"
+            },
+            "7713": {
+                "concept_text": "Angiotensin 2 receptor blockers causes hyperkalaemia",
+                "concept_percentile": "62"
+            },
+            "7714": {
+                "concept_text": "Ciclosporin causes hyperkalaemia",
+                "concept_percentile": "8"
+            },
+            "7715": {
+                "concept_text": "Metabolic acidosis causes hyperkalaemia",
+                "concept_percentile": "65"
+            },
+            "7716": {
+                "concept_text": "Addison's disease causes hyperkalaemia",
+                "concept_percentile": "43"
+            },
+            "7717": {
+                "concept_text": "Rhabdomyolysis causes hyperkalaemia",
+                "concept_percentile": "26"
+            },
+            "7718": {
+                "concept_text": "Massive blood transfusion causes hyperkalaemia",
+                "concept_percentile": "24"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14739_B_47",
+        "new_question_id": "43933",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_627",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Drug reaction",
+            "Pregnancy",
+            "Sarcoidosis",
+            "Streptococcal infection",
+            "Tuberculosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 31-year-old woman who is 5 months pregnant presents to her GP. She has noticed marks on her legs for two months, that are sore with tight clothes. She has had two episodes of loose stool which have now resolved, which she puts down to stress. She has no allergies and is well. Her mother who was diagnosed with tuberculosis two years ago, moved to the UK last year.<br /><br />Her observations are:<br /><ul><li>Heart rate: 75bpm</li><li>Respiratory rate: 14/min</li><li>Temperature: 37\u00baC</li><li>Oxygen saturation: 99%</li><li>Blood pressure 125/84mmHg</li></ul><br />On examination, the following is seen:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Given the likely diagnosis, which factor is most likely related to her rash?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Pregnancy</b> is correct. The image demonstrates lots of visible circular nodular markings on both legs which are red. This pregnant woman has noticed some erythematous nodules on her shins bilaterally. They are tender (sore on tight-fitting clothing or palpation). Multiple erythematous nodules on the shins which are tender suggest erythema nodosum. This is a skin condition that has multiple aetiologies including pregnancy, combined oral contraception, infection, malignancy and drug reactions.<br /><br /><b>Drug reaction</b> is incorrect. There is no mention of this patient taking any medications and hence this is not the most likely factor relating to her erythema nodosum. Some examples of medications that can precipitate erythema nodosum include the combined oral contraceptive pill and penicillins. A drug allergy (or any allergy) may present with features such as wheals (commonly called hives) or itch, which were not present here.<br /><br /><b>Sarcoidosis</b> is incorrect. Sarcoidosis can present with a multitude of signs and symptoms including lupus pernio (a painful skin rash), shortness of breath and erythema nodosum. Although she seems to have erythema nodosum, no other features point to a possible diagnosis of sarcoidosis. <br /><br /><b>Streptococcal infection</b> is incorrect. In this case, the patient is pregnant but otherwise well with normal observations (making infection less likely). There is no mention of pyrexia or coryza or a sore throat and therefore no localising signs of infection. <br /><br /><b>Tuberculosis</b> is incorrect. Although this patient has a family history of tuberculosis which places her at higher risk, there are no symptoms present other than a rash. Textbook symptoms of tuberculosis include haemoptysis and constitutional b symptoms such as fever, night sweats and weight loss. It is possible for the patient to have latent tuberculosis (which is asymptomatic and not infective unless it becomes active tuberculosis), however, this is less likely than a precipitant which is known to be present such as pregnancy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old woman who is 5 months pregnant presents to her GP. She has noticed marks on her legs for two months, that are sore with tight clothes. She has had two episodes of loose stool which have now resolved, which she puts down to stress. She has no allergies and is well. Her mother who was diagnosed with tuberculosis two years ago, moved to the UK last year.<br /><br />Her observations are:<br /><ul><li>Heart rate: 75bpm</li><li>Respiratory rate: 14/min</li><li>Temperature: 37\u00baC</li><li>Oxygen saturation: 99%</li><li>Blood pressure 125/84mmHg</li></ul><br />On examination, the following is seen:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Given the likely diagnosis, which factor is most likely related to her rash?",
+        "correct_answer": "2",
+        "question_notes": "<b>Pregnancy</b> is correct. The image demonstrates lots of visible circular nodular markings on both legs which are red. This pregnant woman has noticed some erythematous nodules on her shins bilaterally. They are tender (sore on tight-fitting clothing or palpation). Multiple erythematous nodules on the shins which are tender suggest erythema nodosum. This is a skin condition that has multiple aetiologies including pregnancy, combined oral contraception, infection, malignancy and drug reactions.<br /><br /><b>Drug reaction</b> is incorrect. There is no mention of this patient taking any medications and hence this is not the most likely factor relating to her erythema nodosum. Some examples of medications that can precipitate erythema nodosum include the combined oral contraceptive pill and penicillins. A drug allergy (or any allergy) may present with features such as wheals (commonly called hives) or itch, which were not present here.<br /><br /><b>Sarcoidosis</b> is incorrect. Sarcoidosis can present with a multitude of signs and symptoms including lupus pernio (a painful skin rash), shortness of breath and erythema nodosum. Although she seems to have erythema nodosum, no other features point to a possible diagnosis of sarcoidosis. <br /><br /><b>Streptococcal infection</b> is incorrect. In this case, the patient is pregnant but otherwise well with normal observations (making infection less likely). There is no mention of pyrexia or coryza or a sore throat and therefore no localising signs of infection. <br /><br /><b>Tuberculosis</b> is incorrect. Although this patient has a family history of tuberculosis which places her at higher risk, there are no symptoms present other than a rash. Textbook symptoms of tuberculosis include haemoptysis and constitutional b symptoms such as fever, night sweats and weight loss. It is possible for the patient to have latent tuberculosis (which is asymptomatic and not infective unless it becomes active tuberculosis), however, this is less likely than a precipitant which is known to be present such as pregnancy.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Erythema nodosum",
+        "body": "Overview<br /><ul><li>inflammation of subcutaneous fat</li><li>typically causes tender, erythematous, nodular lesions</li><li>usually occurs over shins, may also occur elsewhere (e.g. forearms, thighs)</li><li>usually resolves within 6 weeks</li><li>lesions heal without scarring</li></ul><br />Causes<br /><ul><li>infection<ul><li><span class=\"concept\" data-cid=\"10584\">streptococci</span></li><li><span class=\"concept\" data-cid=\"8609\">tuberculosis</span></li><li>brucellosis</li></ul></li><li>systemic disease<ul><li><span class=\"concept\" data-cid=\"5179\">sarcoidosis</span></li><li>inflammatory bowel disease</li><li>Behcet's</li></ul></li><li>malignancy/lymphoma</li><li>drugs<ul><li>penicillins</li><li>sulphonamides</li><li>combined oral contraceptive pill</li></ul></li><li><span class=\"concept\" data-cid=\"11007\">pregnancy</span></li></ul><br />Investigation for underlying causes<br /><ul><li><span class=\"concept\" data-cid=\"12490\">chest x-ray</span> (to assess for sarcoidosis, tuberculosis, other pulmonary infections, and lymphoma)</li><li>Throat swab for Group A strep</li><li>FBC, CRP</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd938b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema nodosum\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd938.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema nodosum\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd939.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd940b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema nodosum\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd940.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx005.jpg\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx005.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsd006.jpg\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/dsd006.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd537b.jpg\" data-fancybox=\"gallery\" data-caption=\"This patient developed erythema nodosum secondary to streptococcal infection\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd537.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd539b.jpg\" data-fancybox=\"gallery\" data-caption=\"Close-up of an erythema nodosum lesion\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd539.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd540b.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of erythema nodoum in an individual with darker skin\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd540.jpg\" alt=\"\" /></a></div></div><div class=\"row\"></div></div>",
+        "notes_hash": "dff2b504dae8e4c5c4be0b992c809d36",
+        "knowledge_graph_node_id_link": 10280,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5180",
+        "up_votes": "21",
+        "down_votes": "34",
+        "column_array": [
+            0,
+            "191",
+            "2889",
+            "890",
+            "343",
+            "867",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1074\" data-linkid=\"1074\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1074\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">32</span><button type=\"button\" style=\"\" id=\"link_dislike_1074\" data-linkid=\"1074\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1074\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/erythema-nodosum/\">Erythema nodosum</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "12490": {
+                "concept_text": "Chest x-ray should be done in all patients with erythema nodosum",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1809",
+        "new_question_id": "6554",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2183",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Actinic keratosis",
+            "Leukoplakia",
+            "Squamous cell carcinoma",
+            "Mucocoele",
+            "Bowen's disease",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old man presents with a 'sore' on his lip. This has been present for around four months and has been getting slowly worse. His past medical history includes ischaemic heart disease and chronic obstructive pulmonary disease. He still smokes around 20 cigarettes per day. <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx130.jpg' /></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most likely diagnosis in this case is <b>Squamous cell carcinoma</b>. The patient's age, history of smoking, and the appearance of the lesion with its chronicity and progressive worsening are all suggestive of squamous cell carcinoma (SCC). SCC is a malignant tumour arising from keratinocytes in the epidermis. It commonly affects sun-exposed areas like the face and lips. Smoking is a significant risk factor for SCC development.<br /><br /><b>Actinic keratosis</b> is an incorrect option because it typically presents as a rough, scaly patch on sun-exposed skin. It is a precursor to SCC but does not have the same appearance as the lesion described in this case.<br /><br /><b>Leukoplakia</b> is also incorrect as it usually presents as white patches or plaques on the oral mucosa, which cannot be scraped off. While leukoplakia can be associated with malignancy, it does not have the same clinical appearance as the lip sore described here.<br /><br /><b>Mucocoele</b> is another incorrect choice because it presents as a painless, fluid-filled swelling that often occurs on the lower lip due to trauma or obstruction of salivary glands. The chronicity and worsening nature of the lesion in this case do not fit with a mucocoele.<br /><br />Finally, <b>Bowen's disease</b> is an incorrect option because it typically appears as an erythematous, scaly patch with well-defined borders on sun-exposed skin. Although Bowen's disease represents squamous cell carcinoma in situ and shares some risk factors with invasive SCC, its clinical presentation differs from that described in this scenario.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old man presents with a 'sore' on his lip. This has been present for around four months and has been getting slowly worse. His past medical history includes ischaemic heart disease and chronic obstructive pulmonary disease. He still smokes around 20 cigarettes per day. <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx130.jpg' /></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The most likely diagnosis in this case is <b>Squamous cell carcinoma</b>. The patient's age, history of smoking, and the appearance of the lesion with its chronicity and progressive worsening are all suggestive of squamous cell carcinoma (SCC). SCC is a malignant tumour arising from keratinocytes in the epidermis. It commonly affects sun-exposed areas like the face and lips. Smoking is a significant risk factor for SCC development.<br /><br /><b>Actinic keratosis</b> is an incorrect option because it typically presents as a rough, scaly patch on sun-exposed skin. It is a precursor to SCC but does not have the same appearance as the lesion described in this case.<br /><br /><b>Leukoplakia</b> is also incorrect as it usually presents as white patches or plaques on the oral mucosa, which cannot be scraped off. While leukoplakia can be associated with malignancy, it does not have the same clinical appearance as the lip sore described here.<br /><br /><b>Mucocoele</b> is another incorrect choice because it presents as a painless, fluid-filled swelling that often occurs on the lower lip due to trauma or obstruction of salivary glands. The chronicity and worsening nature of the lesion in this case do not fit with a mucocoele.<br /><br />Finally, <b>Bowen's disease</b> is an incorrect option because it typically appears as an erythematous, scaly patch with well-defined borders on sun-exposed skin. Although Bowen's disease represents squamous cell carcinoma in situ and shares some risk factors with invasive SCC, its clinical presentation differs from that described in this scenario.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Squamous cell carcinoma of the skin",
+        "body": "Squamous cell carcinoma is a common variant of skin cancer. Metastases are rare but may occur in 2-5% of patients.<br /><br />Risk factors include:<br /><ul><li>excessive exposure to sunlight / psoralen UVA therapy</li><li>actinic keratoses and Bowen's disease</li><li>immunosuppression e.g. following <span class=\"concept\" data-cid=\"2441\">renal transplant</span>, HIV</li><li>smoking</li><li>long-standing leg ulcers (Marjolin's ulcer)</li><li>genetic conditions e.g. xeroderma pigmentosum, oculocutaneous albinism</li></ul><br />Features<br /><ul><li>typically on sun-exposed sites such as the head and neck or dorsum of the hands and arms</li><li>rapidly expanding painless, ulcerate nodules</li><li>may have a cauliflower-like appearance</li><li>there may be areas of bleeding</li></ul><br /><h5 class='notes-heading'>Image gallery</h5><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx130.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx130.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx127.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx127.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx131.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx131.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd132b.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd132.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd128b.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd128.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd126b.jpg\" data-fancybox=\"gallery\" data-caption=\"Squamous cell carcinoma\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd126.jpg\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Treatment</h5><br />Surgical excision with 4mm margins if lesion <20mm in diameter. If tumour >20mm then margins should be 6mm. Mohs micrographic surgery may be used in high-risk patients and in cosmetically important sites.<br /><br /><h5 class='notes-heading'>Prognosis</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Good Prognosis</b></th><th><b>Poor prognosis</b></th></tr></thead><tbody><tr><td>Well differentiated tumours</td><td>Poorly differentiated tumours</td></tr><tr><td><20mm diameter</td><td>>20mm in diameter</td></tr><tr><td><2mm deep</td><td>>4mm deep</td></tr><tr><td>No associated diseases</td><td>Immunosupression for whatever reason</td></tr></tbody></table></div>",
+        "notes_hash": "8e0355f8352e524e7624b50e5c739a0b",
+        "knowledge_graph_node_id_link": 11065,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5645",
+        "up_votes": "25",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "222",
+            "151",
+            "4700",
+            "45",
+            "527",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_467\" data-linkid=\"467\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_467\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_467\" data-linkid=\"467\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_467\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma/\">Squamous cell carcinoma</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mmR2R8XB-JU\" data-description=\"Skin cancers\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"866\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/mmR2R8XB-JU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/mmR2R8XB-JU\" data-description=\"Skin cancers\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"866\">Skin cancers</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1515\" data-mediaid=\"1515\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1515\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1515\" data-mediaid=\"1515\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1515\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2441": {
+                "concept_text": "Renal transplant patients - skin cancer (particularly squamous cell) is the most common malignancy secondary to immunosuppression",
+                "concept_percentile": "59"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_764",
+        "new_question_id": "8359",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2913",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Vitreous haemorrhage",
+            "Retinal detachment",
+            "Ischaemic optic neuropathy",
+            "Central retinal vein occlusion",
+            "Central retinal artery occlusion",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 84-year-old man presents with loss of vision in his left eye since the morning. He is otherwise asymptomatic and of note has had no associated eye pain or headaches. His past medical history includes ischaemic heart disease but he is otherwise well. On examination he has no vision in his left eye. The left pupil responds poorly to light but the consensual light reaction is normal. Fundoscopy reveals a red spot over a pale and opaque retina. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Central retinal artery occlusion</b>. The patient's presentation of sudden, painless vision loss in one eye, poor direct pupillary light response, normal consensual light reaction, and fundoscopic findings of a pale and opaque retina with a cherry-red spot are classic features of central retinal artery occlusion (CRAO). CRAO occurs when the central retinal artery becomes blocked, typically by an embolus, leading to ischemia and infarction of the inner retina. It is considered an ophthalmic emergency requiring immediate evaluation and treatment.<br /><br />The first incorrect option is <b>Vitreous haemorrhage</b>. This condition presents with sudden, painless vision loss or floaters in the affected eye. However, the fundoscopic examination would reveal blood within the vitreous humour rather than a pale and opaque retina with a cherry-red spot.<br /><br />The second incorrect option is <b>Retinal detachment</b>. Although this condition can also present with sudden, painless vision loss or floaters in the affected eye, it is often accompanied by flashes of light or a curtain-like shadow over the visual field. Fundoscopy would reveal an elevated retina separated from the underlying choroid layer.<br /><br />The third incorrect option is <b>Ischaemic optic neuropathy</b>. This condition typically presents as sudden, painless vision loss that may be associated with optic disc swelling on fundoscopy. However, it does not cause a pale and opaque retina with a cherry-red spot.<br /><br />Lastly, the fourth incorrect option is <b>Central retinal vein occlusion</b>. Central retinal vein occlusion (CRVO) presents as sudden-onset, painless vision loss in one eye similar to CRAO. However, a fundoscopic examination would reveal diffuse retinal haemorrhages ('blood and thunder' appearance), venous dilation and tortuosity rather than the pale and opaque retina with a cherry-red spot seen in CRAO.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 84-year-old man presents with loss of vision in his left eye since the morning. He is otherwise asymptomatic and of note has had no associated eye pain or headaches. His past medical history includes ischaemic heart disease but he is otherwise well. On examination he has no vision in his left eye. The left pupil responds poorly to light but the consensual light reaction is normal. Fundoscopy reveals a red spot over a pale and opaque retina. What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Central retinal artery occlusion</b>. The patient's presentation of sudden, painless vision loss in one eye, poor direct pupillary light response, normal consensual light reaction, and fundoscopic findings of a pale and opaque retina with a cherry-red spot are classic features of central retinal artery occlusion (CRAO). CRAO occurs when the central retinal artery becomes blocked, typically by an embolus, leading to ischemia and infarction of the inner retina. It is considered an ophthalmic emergency requiring immediate evaluation and treatment.<br /><br />The first incorrect option is <b>Vitreous haemorrhage</b>. This condition presents with sudden, painless vision loss or floaters in the affected eye. However, the fundoscopic examination would reveal blood within the vitreous humour rather than a pale and opaque retina with a cherry-red spot.<br /><br />The second incorrect option is <b>Retinal detachment</b>. Although this condition can also present with sudden, painless vision loss or floaters in the affected eye, it is often accompanied by flashes of light or a curtain-like shadow over the visual field. Fundoscopy would reveal an elevated retina separated from the underlying choroid layer.<br /><br />The third incorrect option is <b>Ischaemic optic neuropathy</b>. This condition typically presents as sudden, painless vision loss that may be associated with optic disc swelling on fundoscopy. However, it does not cause a pale and opaque retina with a cherry-red spot.<br /><br />Lastly, the fourth incorrect option is <b>Central retinal vein occlusion</b>. Central retinal vein occlusion (CRVO) presents as sudden-onset, painless vision loss in one eye similar to CRAO. However, a fundoscopic examination would reveal diffuse retinal haemorrhages ('blood and thunder' appearance), venous dilation and tortuosity rather than the pale and opaque retina with a cherry-red spot seen in CRAO.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Central retinal artery occlusion",
+        "body": "Central retinal artery occlusion is a relatively rare cause of sudden unilateral visual loss. It is due to thromboembolism (from atherosclerosis) or arteritis (e.g. temporal arteritis)<br /><br /><span class=\"concept\" data-cid=\"12055\">Features</span><br /><ul><li>sudden, painless unilateral visual loss</li><li>relative afferent pupillary defect</li><li>'cherry red' spot on a pale retina</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img071.jpg\" data-fancybox=\"gallery\" data-caption=\"Central retinal artery occlusion: note the pale retina\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img071.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd580b.jpg\" data-fancybox=\"gallery\" data-caption=\"Fundoscopic image showing a typical cherry red spot in a patient with central retinal artery occlusion\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd580.jpg\" alt=\"\" /></a></div></div></div><br />Management is difficult and the prognosis is poor<br /><ul><li>any underlying conditions should be identified and treated (e.g. intravenous steroids for temporal arteritis)</li><li>if a patient presents acutely then Intraarterial thrombolysis may be attempted but currently, trials show mixed results.</li></ul>",
+        "notes_hash": "896e65a52084d9e77f066e45724c42fd",
+        "knowledge_graph_node_id_link": 10819,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6941",
+        "up_votes": "25",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "120",
+            "285",
+            "240",
+            "773",
+            "5523",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>American Academy of Ophthalmology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1637\" data-linkid=\"1637\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1637\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1637\" data-linkid=\"1637\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1637\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://eyewiki.aao.org/Retinal_Artery_Occlusion\">Central Retinal Artery Occlusion</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1490",
+        "new_question_id": "7918",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "4149",
+        "notes_id_link": "1_316",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Fluconazole",
+            "Co-trimoxazole",
+            "Erythromycin",
+            "Ganciclovir",
+            "Sulfadiazine and pyrimethamine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 31-year-old man who is known to be HIV positive presents with dyspnoea and a dry cough. He is currently homeless and has not been attending his outpatient appointments or taking antiretroviral medication.<br />Clinical examination reveals a respiratory rate of 24 / min. Chest auscultation is unremarkable with only scattered crackles. His oxygen saturation is 96% on room air but this falls rapidly after walking the length of the ward. Given the likely diagnosis of Pneumocystis jiroveci pneumonia, what is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>co-trimoxazole</b>, as it is the first-line treatment for Pneumocystis jiroveci pneumonia (PJP) in HIV-positive patients. Co-trimoxazole, a combination of sulfamethoxazole and trimethoprim, works synergistically to inhibit the synthesis of folic acid in the organism, leading to its death. It has been shown to be effective in treating PJP and reducing mortality rates in patients with HIV.<br /><br /><b>Fluconazole</b> is an antifungal medication that targets the synthesis of ergosterol, a component of fungal cell membranes. While Pneumocystis jiroveci was once considered a fungus, it is now classified as a yeast-like fungus. Fluconazole is not effective against PJP and is more commonly used to treat Candida infections or cryptococcal meningitis in HIV-positive patients.<br /><br /><b>Erythromycin</b> is a macrolide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is not effective against Pneumocystis jiroveci, which does not have a bacterial structure. Erythromycin may be used to treat bacterial respiratory infections such as community-acquired pneumonia caused by Streptococcus pneumoniae or Mycoplasma pneumoniae.<br /><br /><b>Ganciclovir</b> is an antiviral medication that inhibits viral DNA polymerase and primarily targets cytomegalovirus (CMV) infections. It has no activity against Pneumocystis jiroveci and would not be effective in treating PJP. Ganciclovir may be used to treat CMV retinitis or pneumonitis in immunocompromised patients.<br /><br /><b>Sulfadiazine and pyrimethamine</b> is a combination therapy that inhibits the synthesis of folic acid in organisms, similar to co-trimoxazole. However, this combination is not used for the treatment of PJP. Instead, it is the first-line treatment for toxoplasmosis, another opportunistic infection that can affect HIV-positive patients.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old man who is known to be HIV positive presents with dyspnoea and a dry cough. He is currently homeless and has not been attending his outpatient appointments or taking antiretroviral medication.<br />Clinical examination reveals a respiratory rate of 24 / min. Chest auscultation is unremarkable with only scattered crackles. His oxygen saturation is 96% on room air but this falls rapidly after walking the length of the ward. Given the likely diagnosis of Pneumocystis jiroveci pneumonia, what is the most appropriate first-line treatment?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>co-trimoxazole</b>, as it is the first-line treatment for Pneumocystis jiroveci pneumonia (PJP) in HIV-positive patients. Co-trimoxazole, a combination of sulfamethoxazole and trimethoprim, works synergistically to inhibit the synthesis of folic acid in the organism, leading to its death. It has been shown to be effective in treating PJP and reducing mortality rates in patients with HIV.<br /><br /><b>Fluconazole</b> is an antifungal medication that targets the synthesis of ergosterol, a component of fungal cell membranes. While Pneumocystis jiroveci was once considered a fungus, it is now classified as a yeast-like fungus. Fluconazole is not effective against PJP and is more commonly used to treat Candida infections or cryptococcal meningitis in HIV-positive patients.<br /><br /><b>Erythromycin</b> is a macrolide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is not effective against Pneumocystis jiroveci, which does not have a bacterial structure. Erythromycin may be used to treat bacterial respiratory infections such as community-acquired pneumonia caused by Streptococcus pneumoniae or Mycoplasma pneumoniae.<br /><br /><b>Ganciclovir</b> is an antiviral medication that inhibits viral DNA polymerase and primarily targets cytomegalovirus (CMV) infections. It has no activity against Pneumocystis jiroveci and would not be effective in treating PJP. Ganciclovir may be used to treat CMV retinitis or pneumonitis in immunocompromised patients.<br /><br /><b>Sulfadiazine and pyrimethamine</b> is a combination therapy that inhibits the synthesis of folic acid in organisms, similar to co-trimoxazole. However, this combination is not used for the treatment of PJP. Instead, it is the first-line treatment for toxoplasmosis, another opportunistic infection that can affect HIV-positive patients.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "HIV: <i>Pneumocystis jiroveci</i> pneumonia",
+        "body": "Whilst the organism <i>Pneumocystis carinii</i> is now referred to as <i>Pneumocystis jiroveci</i>, the term <i>Pneumocystis carinii</i> pneumonia (PCP) is still in common use<br /><ul><li><i>Pneumocystis jiroveci</i> is an unicellular eukaryote, generally classified as a fungus but some authorities consider it a protozoa</li><li>PCP is the most common opportunistic infection in AIDS</li><li>all patients with a <span class=\"concept\" data-cid=\"1776\">CD4 count < 200/mm\u00b3</span> should receive <span class=\"concept\" data-cid=\"9186\">PCP prophylaxis</span></li></ul><br />Features<br /><ul><li>dyspnoea</li><li>dry cough</li><li>fever</li><li>very few chest signs</li></ul><br /><span class=\"concept\" data-cid=\"636\">Pneumothorax</span> is a common complication of PCP.<br /><br />Extrapulmonary manifestations are rare (1-2% of cases), may cause<br /><ul><li>hepatosplenomegaly</li><li>lymphadenopathy</li><li>choroid lesions</li></ul><br />Investigation<br /><ul><li>CXR: typically shows bilateral interstitial pulmonary infiltrates but can present with other x-ray findings e.g. lobar consolidation. May be normal</li><li><span class=\"concept\" data-cid=\"2351\">exercise-induced desaturation</span></li><li>sputum often fails to show PCP, bronchoalveolar lavage (BAL) often needed to demonstrate PCP (<span class=\"concept\" data-cid=\"12325\">silver stain</span> shows characteristic cysts)</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb973b.jpg\" data-fancybox=\"gallery\" data-caption=\"PA chest film showing hypoinflated lung volumes and increased bibasilar ground glass opacities. There is an incidental right subclavian central venous catheter present - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb973.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb067b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT scan showing a large pneumothorax developing in a patient with <i>Pneumocystis jiroveci</i> pneumonia - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb067.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4149\">co-trimoxazole</span></li><li>IV pentamidine in severe cases</li><li><span class=\"concept\" data-cid=\"9442\">aerosolized pentamidine is an alternative treatment for <i>Pneumocystis jiroveci</i> pneumonia but is less effective with a risk of pneumothorax</span></li><li>steroids if hypoxic (if pO2 < 9.3kPa then steroids reduce risk of respiratory failure by 50% and death by a third)</li></ul>",
+        "notes_hash": "63ad881741f138670325301d4f03ff52",
+        "knowledge_graph_node_id_link": 1346,
+        "concept": "Pneumocystis jiroveci penumonia is treated with co-trimoxazole, which is a mix of trimethoprim and sulfamethoxazole",
+        "concept_percentile": "85",
+        "concept_colour": "rgb(76,255,0)",
+        "number_attempts": "5450",
+        "up_votes": "27",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "284",
+            "3955",
+            "292",
+            "100",
+            "819",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1540\" data-linkid=\"1540\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1540\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1540\" data-linkid=\"1540\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1540\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/pneumocystis-pneumonia.html\">Pneumocystis pneumonia</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_570\" data-linkid=\"570\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_570\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_570\" data-linkid=\"570\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_570\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/pneumocystis-jirovecii-pneumonia\">Pneumocystis Jirovecii Pneumonia review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xSMvcmlIfX8\" data-description=\"Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1241\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xSMvcmlIfX8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xSMvcmlIfX8\" data-description=\"Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1241\">Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2192\" data-mediaid=\"2192\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2192\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2192\" data-mediaid=\"2192\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2192\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-sM-sRGtOcE\" data-description=\"Pneumocystis jirovecii - Pneumocystis pneumonia\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1464\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-sM-sRGtOcE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-sM-sRGtOcE\" data-description=\"Pneumocystis jirovecii - Pneumocystis pneumonia\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1464\">Pneumocystis jirovecii - Pneumocystis pneumonia</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2577\" data-mediaid=\"2577\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2577\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2577\" data-mediaid=\"2577\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2577\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "4149": {
+                "concept_text": "Pneumocystis jiroveci penumonia is treated with co-trimoxazole, which is a mix of trimethoprim and sulfamethoxazole",
+                "concept_percentile": "85"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

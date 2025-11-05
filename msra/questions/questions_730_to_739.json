@@ -1,0 +1,827 @@
+[
+    {
+        "question_id": "4946_B_76",
+        "new_question_id": "19800",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "9521",
+        "notes_id_link": "1_383",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Carbamazepine",
+            "Fluoxetine",
+            "Furosemide",
+            "Indapamide",
+            "Lithium",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man with polyuria undergoes investigation. His results are as follows: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Urine Osmolality before tests</td><td>285 mOsm/kg * 10<sup>9</sup>/l</td></tr><tr><td>After water deprivation test</td><td>283 mOsm/kg  * 10<sup>9</sup>/l</td></tr><tr><td>After exogenous anti-diuretic hormone (ADH)</td><td>290 mOsm/kg * 10<sup>9</sup>/l</td></tr></tbody></table></div><br />Which of the following medications may cause this picture?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The lack of response to exogenous ADH suggests that this is nephrogenic diabetes insipidus (DI) as opposed to central (cranial) DI. Here, the kidneys are not sensitive to ADH. Lithium and demeclocycline are recognised causes.<br /><br />Carbamazepine, furosemide and indapamide do not cause diabetes insipidus.<br /><br />Fluoxetine is a recognised cause of syndrome of inappropriate ADH secretion (SIADH) but does not cause diabetes insipidus.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man with polyuria undergoes investigation. His results are as follows: <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Urine Osmolality before tests</td><td>285 mOsm/kg * 10<sup>9</sup>/l</td></tr><tr><td>After water deprivation test</td><td>283 mOsm/kg  * 10<sup>9</sup>/l</td></tr><tr><td>After exogenous anti-diuretic hormone (ADH)</td><td>290 mOsm/kg * 10<sup>9</sup>/l</td></tr></tbody></table></div><br />Which of the following medications may cause this picture?",
+        "correct_answer": "5",
+        "question_notes": "The lack of response to exogenous ADH suggests that this is nephrogenic diabetes insipidus (DI) as opposed to central (cranial) DI. Here, the kidneys are not sensitive to ADH. Lithium and demeclocycline are recognised causes.<br /><br />Carbamazepine, furosemide and indapamide do not cause diabetes insipidus.<br /><br />Fluoxetine is a recognised cause of syndrome of inappropriate ADH secretion (SIADH) but does not cause diabetes insipidus.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Diabetes insipidus",
+        "body": "Diabetes insipidus (DI) is a condition characterised by a deficiency in the action of antidiuretic hormone (ADH), also known as arginine vasopressin (AVP). ADH is synthesised by the magnocellular neurons in the supraoptic and paraventricular nuclei of the hypothalamus and stored in the posterior pituitary. <br /><br />A deficiency in ADH secretion is known as cranial (central) DI, often referred to as arginine vasopressin deficiency (AVP-D), whereas insensitivity of the kidney to ADH is known as nephrogenic DI (arginine vasopressin resistance, AVP-R).<br /><br />Causes of cranial DI<br /><ul><li>idiopathic</li><li>post head injury</li><li>pituitary surgery</li><li>craniopharyngiomas</li><li>infiltrative<ul><li>histiocytosis X</li><li>sarcoidosis</li></ul></li><li>DIDMOAD is the association of cranial Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy and Deafness (also known as Wolfram's syndrome)</li></ul><br />Causes of nephrogenic DI<br /><ul><li><span class=\"concept\" data-cid=\"9929\">genetic</span>:<ul><li>more common form affects the vasopression (ADH) receptor</li><li>less common form results from a mutation in the gene that encodes the aquaporin 2 channel</li></ul></li><li>electrolytes<ul><li>hypercalcaemia</li><li>hypokalaemia</li></ul></li><li><span class=\"concept\" data-cid=\"9521\">lithium</span><ul><li><span class=\"concept\" data-cid=\"11265\">lithium desensitizes the kidney's ability to respond to ADH in the collecting ducts</span></li></ul></li><li>demeclocycline</li><li>tubulo-interstitial disease: obstruction, sickle-cell, pyelonephritis</li><li><span class=\"concept\" data-cid=\"9748\">haemochromatosis</span> (some cases may also present with cranial DI)</li></ul><br /><span class=\"concept\" data-cid=\"4453\">Features</span><br /><ul><li>polyuria</li><li>polydipsia</li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"1006\">high plasma osmolality (often >295 mOsm/kg), low urine osmolality (often <300 mOsm/kg)</span></li><li>a urine osmolality of >700 mOsm/kg generally excludes diabetes insipidus</li><li><span class=\"concept\" data-cid=\"4791\">water deprivation test</span></li><li>a desmopressin test can help differentiate cranial from nephrogenic DI (an increase in urine osmolality suggests cranial DI)</li></ul><br />Management<br /><ul><li>nephrogenic diabetes insipidus<ul><li>thiazides</li><li>low salt/protein diet</li></ul></li><li><span class=\"concept\" data-cid=\"8354\">central diabetes insipidus can be treated with desmopressin</span></li></ul>",
+        "notes_hash": "740e62569d396fb7530baea651867172",
+        "knowledge_graph_node_id_link": 1273,
+        "concept": "Lithium is a recognised cause of nephrogenic diabetes insipidus",
+        "concept_percentile": "93",
+        "concept_colour": "rgb(35,255,0)",
+        "number_attempts": "5636",
+        "up_votes": "32",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "384",
+            "302",
+            "1122",
+            "687",
+            "3141",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Merck manual</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_495\" data-linkid=\"495\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_495\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">26</span><button type=\"button\" style=\"\" id=\"link_dislike_495\" data-linkid=\"495\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_495\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.msdmanuals.com/professional/genitourinary-disorders/renal-transport-abnormalities/nephrogenic-diabetes-insipidus\">Nephrogenic diabetes insipidus</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/75JrAx4hBC0\" data-description=\"Diabetes insipidus\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1261\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/75JrAx4hBC0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/75JrAx4hBC0\" data-description=\"Diabetes insipidus\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1261\">Diabetes insipidus</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2223\" data-mediaid=\"2223\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2223\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2223\" data-mediaid=\"2223\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2223\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q-YfE9v0hrA\" data-description=\"An Approach to Polyuria\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"794\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/q-YfE9v0hrA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/q-YfE9v0hrA\" data-description=\"An Approach to Polyuria\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"794\">An Approach to Polyuria</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1384\" data-mediaid=\"1384\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1384\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1384\" data-mediaid=\"1384\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1384\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/BRHMC9wSoHc\" data-description=\"Understanding Diabetes Insipidus\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"872\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/BRHMC9wSoHc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/BRHMC9wSoHc\" data-description=\"Understanding Diabetes Insipidus\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"872\">Understanding Diabetes Insipidus</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1525\" data-mediaid=\"1525\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1525\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1525\" data-mediaid=\"1525\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1525\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "9521": {
+                "concept_text": "Lithium is a recognised cause of nephrogenic diabetes insipidus",
+                "concept_percentile": "93"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4712_B_65",
+        "new_question_id": "13994",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "2772",
+        "notes_id_link": "1_871",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Sumatriptan",
+            "Verapamil",
+            "Propranolol",
+            "Sertraline",
+            "Paracetamol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old male presents to the emergency department at 3am with a severe unilateral headache. He describes the pain as being 'unbearable' and located behind his right eye. On examination, his right eye is red and watery, with a small pupil, and the patient is noticeably agitated. On further questioning, he states that this has been happening each night for several weeks.<br /><br />Which drug can be used long-term to prevent these headaches from occurring?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Verapamil</b> is used for <b>cluster headache prophylaxis</b>. Sumatriptan is used as an acute rescue therapy (along with high-flow oxygen), so make sure you read the question properly. Propranolol is used for migraine prophylaxis. Sertraline has a similar mode of action to sumatriptan but is an SSRI used for depression. Paracetamol would not be effective for prophylaxis of cluster headaches.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old male presents to the emergency department at 3am with a severe unilateral headache. He describes the pain as being 'unbearable' and located behind his right eye. On examination, his right eye is red and watery, with a small pupil, and the patient is noticeably agitated. On further questioning, he states that this has been happening each night for several weeks.<br /><br />Which drug can be used long-term to prevent these headaches from occurring?",
+        "correct_answer": "2",
+        "question_notes": "<b>Verapamil</b> is used for <b>cluster headache prophylaxis</b>. Sumatriptan is used as an acute rescue therapy (along with high-flow oxygen), so make sure you read the question properly. Propranolol is used for migraine prophylaxis. Sertraline has a similar mode of action to sumatriptan but is an SSRI used for depression. Paracetamol would not be effective for prophylaxis of cluster headaches.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Cluster headache",
+        "body": "Cluster headaches are known to be one of the most painful conditions that patients can have the misfortune to suffer. The name relates to the pattern of the headaches - they typically occur in clusters lasting several weeks, with the clusters themselves typically once a year.<br /><br />Cluster headaches are more common in men (3:1) and smokers. <span class=\"concept\" data-cid=\"1138\">Alcohol may trigger an attack</span> and there also appears to be a relation to nocturnal sleep.<br /><br /><span class=\"concept\" data-cid=\"905\">Features</span><br />   -<span class=\"concept\" data-cid=\"11897\">intense sharp, stabbing pain around one eye</span><br /><ul><li>pain typical occurs once or twice a day, <span class=\"concept\" data-cid=\"10567\">each episode lasting 15 mins - 2 hours</span></li><li> the patient is <span class=\"concept\" data-cid=\"11897\">restless</span> and agitated during an attack due to the severity</li></ul></li><li>clusters <span class=\"concept\" data-cid=\"10568\">typically last 4-12 weeks</span></li><li>accompanied by redness, <span class=\"concept\" data-cid=\"11897\">lacrimation</span>, lid swelling</li><li>nasal stuffiness</li><li>miosis and ptosis in a minority</li></ul><br />Investigations<br /><ul><li>most patients will have neuroimaging - underlying brain lesions are sometimes found even if the clinical symptoms are typical for cluster headache</li><li>MRI with gadolinium contrast is the investigation of choice</li></ul><br />Management<br /><ul><li>NICE recommend seeking specialist advice from a neurologist if a patient develops cluster headaches</li><li><span class=\"concept\" data-cid=\"904\">acute<ul><li>100% oxygen (80% response rate within 15 minutes)</li><li>subcutaneous triptan  (75% response rate within 15 minutes)</span></li></ul></li><li>prophylaxis<ul><li><span class=\"concept\" data-cid=\"2772\">verapamil is the drug of choice</span></li><li>there is also some evidence to support a tapering dose of prednisolone</li></ul></li></ul><br />Some neurologists use the term trigeminal autonomic cephalgia to group a number of conditions including cluster headache, paroxysmal hemicrania and short-lived unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT). It is recommended such patients are referred for specialist assessment as specific treatment may be required, for example it is known paroxysmal hemicrania responds very well to indomethacin",
+        "notes_hash": "5795cb248fc430ff2599d54fdfc9f499",
+        "knowledge_graph_node_id_link": 1018,
+        "concept": "Verapamil is used for long-term prophylaxis of cluster headaches",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "5840",
+        "up_votes": "63",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "642",
+            "3765",
+            "1375",
+            "41",
+            "17",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_443\" data-linkid=\"443\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_443\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_443\" data-linkid=\"443\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_443\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG150/chapter/Recommendations\">2012 Headache guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PrbIkzAX5xc\" data-description=\"Cluster headaches\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"1177\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/PrbIkzAX5xc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PrbIkzAX5xc\" data-description=\"Cluster headaches\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"1177\">Cluster headaches</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2031\" data-mediaid=\"2031\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2031\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_2031\" data-mediaid=\"2031\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2031\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HusczG_wh8I\" data-description=\"Cluster headache\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1410\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/HusczG_wh8I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HusczG_wh8I\" data-description=\"Cluster headache\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1410\">Cluster headache</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2477\" data-mediaid=\"2477\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2477\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2477\" data-mediaid=\"2477\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2477\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zaG82Z7lCOE\" data-description=\"Cluster Headaches - symptoms, pathophysiology, treatment\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1340\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zaG82Z7lCOE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zaG82Z7lCOE\" data-description=\"Cluster Headaches - symptoms, pathophysiology, treatment\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1340\">Cluster Headaches - symptoms, pathophysiology, treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2361\" data-mediaid=\"2361\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2361\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2361\" data-mediaid=\"2361\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2361\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "1138": {
+                "concept_text": "Alcohol is a common trigger for cluster headaches",
+                "concept_percentile": "72"
+            },
+            "2772": {
+                "concept_text": "Verapamil is used for long-term prophylaxis of cluster headaches",
+                "concept_percentile": "90"
+            },
+            "10567": {
+                "concept_text": "A cluster headache can last between 15 minutes to 2 hours",
+                "concept_percentile": "95"
+            },
+            "10568": {
+                "concept_text": "'Clusters' of cluster headaches typically last from 4 to 12 weeks",
+                "concept_percentile": "94"
+            },
+            "11897": {
+                "concept_text": "Episodic, intense, unilateral eye pain, lacrimation, restless --> ?cluster headache",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4763_B_19",
+        "new_question_id": "14353",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3029",
+        "notes_id_link": "1_1855",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Sciatic nerve",
+            "Common peroneal nerve",
+            "Tibialis anterior",
+            "Tibialis posterior",
+            "Extensor hallucis longus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old lady presents to her general practitioner for a wound check, 1 week post total knee arthroplasty (TKA). She is recovering well from the surgery and is starting to mobilise more frequently, however she reports that she is having difficulty dorsiflexing her foot when walking.<br /><br />Given the history, what structure is most likely to have been damaged during the TKA operation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The common peroneal nerve is one of the terminal branches of the sciatic nerve, beginning at the top of the popliteal fossa. It then follows the medial border of the biceps femoris, before wrapping around the neck of the fibula. Its anatomical location means that it is possible for it to be damaged during procedures that involve the knee, such as joint replacements and ligament repairs. Although damage to both the sciatic nerve (1) and the common peroneal nerve (2) can lead to foot drop, given this patient's history of a total knee replacement, the common peroneal nerve is much more likely to be the cause of her complaint. <br /><br />Tibialis anterior (3) and tibialis posterior (4) are both muscles that control the movement of the foot. Tibialis anterior is the muscle that acts to dorsiflex and invert the foot and is innervated by the deep peroneal nerve, which is a branch of the common peroneal nerve. Whilst it controls the action that the patient is having difficulty with, the common peroneal nerve is much more likely to have been damaged in the surgery than tibialis anterior, and therefore (3) is not the correct answer. Tibialis posterior is responsible for the plantar flexion and eversion of the foot, which are not the movements involved in this presentation.<br /><br />Extensor hallucis longus (5) controls extension of the big toe and dorsiflexion of the foot. It arises distal to the knee joint and therefore is unlikely to have been damaged during the operation",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old lady presents to her general practitioner for a wound check, 1 week post total knee arthroplasty (TKA). She is recovering well from the surgery and is starting to mobilise more frequently, however she reports that she is having difficulty dorsiflexing her foot when walking.<br /><br />Given the history, what structure is most likely to have been damaged during the TKA operation?",
+        "correct_answer": "2",
+        "question_notes": "The common peroneal nerve is one of the terminal branches of the sciatic nerve, beginning at the top of the popliteal fossa. It then follows the medial border of the biceps femoris, before wrapping around the neck of the fibula. Its anatomical location means that it is possible for it to be damaged during procedures that involve the knee, such as joint replacements and ligament repairs. Although damage to both the sciatic nerve (1) and the common peroneal nerve (2) can lead to foot drop, given this patient's history of a total knee replacement, the common peroneal nerve is much more likely to be the cause of her complaint. <br /><br />Tibialis anterior (3) and tibialis posterior (4) are both muscles that control the movement of the foot. Tibialis anterior is the muscle that acts to dorsiflex and invert the foot and is innervated by the deep peroneal nerve, which is a branch of the common peroneal nerve. Whilst it controls the action that the patient is having difficulty with, the common peroneal nerve is much more likely to have been damaged in the surgery than tibialis anterior, and therefore (3) is not the correct answer. Tibialis posterior is responsible for the plantar flexion and eversion of the foot, which are not the movements involved in this presentation.<br /><br />Extensor hallucis longus (5) controls extension of the big toe and dorsiflexion of the foot. It arises distal to the knee joint and therefore is unlikely to have been damaged during the operation",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Osteoarthritis: joint replacement",
+        "body": "Joint replacement (arthroplasty) remains the most effective treatment for osteoarthritis patients who experience significant pain.<br /><br />Selection criteria<br /><ul><li>around 25% of patients are now younger than 60-years-old</li><li>whilst obesity is often thought to be a barrier to joint replacement there is only a slight increase in short-term complications. There is no difference in long-term joint replacement survival</li></ul><br />Surgical techniques<br /><ul><li>for hips the most common type of operation is a cemented hip replacement. A metal femoral component is cemented into the femoral shaft. This is accompanied by a cemented acetabular polyethylene cup</li><li>uncemented hip replacements are becoming increasingly popular, particularly in younger more active patients. They are more expensive than conventional cemented hip replacements</li><li>hip resurfacing is also sometimes used where a metal cap is attached over the femoral head. This is often used in younger patients and has the advantage that the femoral neck is preserved which may be useful if conventional arthroplasty is needed later in life</li></ul><br />Post-operative recovery<br /><ul><li>patients receive both physiotherapy and a course of home-exercises</li><li>walking sticks or crutches are usually used for up to 6 weeks after hip or knee replacement surgery</li></ul><br />Patients who have had a hip replacement operation should receive basic advice to minimise the risk of dislocation:<br /><ul><li>avoiding flexing the hip > 90 degrees</li><li>avoid low chairs</li><li>do not cross your legs</li><li>sleep on your back for the first 6 weeks</li></ul><br />Complications<br /><ul><li>wound and joint infection</li><li>thromboembolism: NICE recommend patients receive low-molecular weight heparin for 4 weeks following a hip replacement</li><li>dislocation</li></ul>",
+        "notes_hash": "c3ccee9224df01bd2378f47dbba05426",
+        "knowledge_graph_node_id_link": 10963,
+        "concept": "The nerve most likely to be injured during knee arthroplasty is the common peroneal nerve ",
+        "concept_percentile": "60",
+        "concept_colour": "rgb(203,255,0)",
+        "number_attempts": "5843",
+        "up_votes": "18",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "246",
+            "4606",
+            "739",
+            "162",
+            "90",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9310_B_25",
+        "new_question_id": "24442",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "10861",
+        "notes_id_link": "1_2861",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "A course of oral antibiotic",
+            "A short course of oral steroids",
+            "Intranasal antihistamine spray",
+            "Intranasal steroid spray or drops",
+            "Urgent referral to Ear, Nose and Throat (ENT) team",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man complains of a 6-month history of right-sided nasal obstruction with rhinorrhoea. There is no blood-stained discharge or epistaxis. His left nostril is not affected. He otherwise feels well. He has tried regular nasal irrigation but this has not helped so he would like to know what the next option is. <br /><br />On examination, his observations are within normal range. His ears and throat are unremarkable. His right nostril appears blocked with discharge, his left is clear.<br /><br />What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Urgent referral to ENT is recommended if there are unilateral symptoms, unilateral polyps or blood-stained discharge as this increases suspicious of cancer. This is the case for this patient.<br /><br />If there are no red flag symptoms, intranasal corticosteroid spray or drops can be used to manage chronic sinusitis or nasal polyps. Options include intranasal mometasone furoate, fluticasone furoate, or fluticasone propionate. Drops may be preferred if there is severe obstruction.<br /><br />Intranasal antihistamine spray is licensed for allergic rhinitis.<br /><br />Oral antibiotics may be considered in acute sinusitis if a person has had symptoms for around 10 days or more with no improvement and there is suspicion of bacterial infection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man complains of a 6-month history of right-sided nasal obstruction with rhinorrhoea. There is no blood-stained discharge or epistaxis. His left nostril is not affected. He otherwise feels well. He has tried regular nasal irrigation but this has not helped so he would like to know what the next option is. <br /><br />On examination, his observations are within normal range. His ears and throat are unremarkable. His right nostril appears blocked with discharge, his left is clear.<br /><br />What is the most appropriate next step in management?",
+        "correct_answer": "5",
+        "question_notes": "Urgent referral to ENT is recommended if there are unilateral symptoms, unilateral polyps or blood-stained discharge as this increases suspicious of cancer. This is the case for this patient.<br /><br />If there are no red flag symptoms, intranasal corticosteroid spray or drops can be used to manage chronic sinusitis or nasal polyps. Options include intranasal mometasone furoate, fluticasone furoate, or fluticasone propionate. Drops may be preferred if there is severe obstruction.<br /><br />Intranasal antihistamine spray is licensed for allergic rhinitis.<br /><br />Oral antibiotics may be considered in acute sinusitis if a person has had symptoms for around 10 days or more with no improvement and there is suspicion of bacterial infection.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Chronic rhinosinusitis",
+        "body": "Chronic rhinosinusitis affects up to 1 in 10 people. It is generally defined as an inflammatory disorder of the paranasal sinuses and linings of the nasal passages that lasts 12 weeks or longer.<br /><br />Predisposing factors include:<br /><ul><li>atopy: hay fever, asthma</li><li>nasal obstruction e.g. Septal deviation or nasal polyps</li><li>recent local infection e.g. Rhinitis or dental extraction</li><li>swimming/diving</li><li>smoking</li></ul><br />Features<br /><ul><li>facial pain: typically frontal pressure pain which is worse on bending forward</li><li>nasal discharge: usually clear if allergic or vasomotor. Thicker, purulent discharge suggests secondary infection</li><li>nasal obstruction: e.g. 'mouth breathing'</li><li>post-nasal drip: may produce chronic cough</li></ul><br />Management of recurrent or chronic sinusitis<br /><ul><li>avoid allergen</li><li>intranasal corticosteroids</li><li><span class=\"concept\" data-cid=\"10862\">nasal irrigation with saline solution</span></li></ul><br />Red flags symptoms<br /><ul><li><span class=\"concept\" data-cid=\"10861\">unilateral symptoms</span></li><li>persistent symptoms despite compliance with 3 months of treatment</li><li>epistaxis</li></ul>",
+        "notes_hash": "cf1d742e0f38e50f0c813c0b272bad1c",
+        "knowledge_graph_node_id_link": 1506,
+        "concept": "Unilateral symptoms are a red flag for patients with chronic rhinosinusitis",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "6823",
+        "up_votes": "37",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "46",
+            "52",
+            "289",
+            "1382",
+            "5054",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xH4lmriOzzc\" data-description=\"Sinusitis\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1269\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xH4lmriOzzc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xH4lmriOzzc\" data-description=\"Sinusitis\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1269\">Sinusitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2245\" data-mediaid=\"2245\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2245\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2245\" data-mediaid=\"2245\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2245\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DJ10WqjCNjw\" data-description=\"Understanding Sinusitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1428\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/DJ10WqjCNjw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DJ10WqjCNjw\" data-description=\"Understanding Sinusitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1428\">Understanding Sinusitis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2523\" data-mediaid=\"2523\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2523\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2523\" data-mediaid=\"2523\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2523\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "10861": {
+                "concept_text": "Unilateral symptoms are a red flag for patients with chronic rhinosinusitis",
+                "concept_percentile": "89"
+            },
+            "10862": {
+                "concept_text": "Nasal irrigation with saline solution is a treatment option for chronic rhinosinusitis",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_58",
+        "new_question_id": "7990",
+        "question_type": "1",
+        "category": "2",
+        "concept_id_link": "1367",
+        "notes_id_link": "1_328",
+        "theme": "Primary open-angle glaucoma: management",
+        "instruction": "For each one of the following questions please select the correct answer:",
+        "options": [
+            "",
+            "Timolol",
+            "Pilocarpine",
+            "Brimonidine",
+            "Dorzolamide",
+            "Acetylcysteine",
+            "Ranibizumab",
+            "Atropine",
+            "Latanoprost",
+            "Cyclopentolate",
+            "Tropicamide"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Adverse effects include brown pigmentation of the iris",
+            "Fubhyq or nibvqrq va cngvragf gnxvat ZNBV qehtf",
+            "Pnhfrf chcvyynel pbafgevpgvba, oyheerq ivfvba naq urnqnpurf"
+        ],
+        "answers": [
+            "8",
+            "3",
+            "2"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Adverse effects include brown pigmentation of the iris",
+        "correct_answer": "8",
+        "question_notes": "",
+        "answer_order": "8",
+        "answer": "8",
+        "title": "Primary open-angle glaucoma: management",
+        "body": "Glaucomas are optic neuropathies associated with raised intraocular pressure (IOP). They can be classified based on whether the peripheral iris is covering the trabecular meshwork, which is important in the drainage of aqueous humour from the anterior chamber of the eye. In open-angle glaucoma, the iris is clear of the meshwork. The trabecular network functionally offers an increased resistance to aqueous outflow, causing increased IOP.<br /><br />The aim of treatment is to lower intra-ocular pressure which in turn has been shown to prevent progressive loss of visual field.<br /><br />NICE guidelines<br /><ul><li>offer <span class=\"concept\" data-cid=\"12065\">360\u00b0 selective laser trabeculoplasty (SLT)</span> first-line to people with an IOP of \u2265 24 mmHg <a href='https://www.nice.org.uk/guidance/ng81/chapter/Recommendations#treatment:~:text=Offer%20360%C2%B0%20selective%20laser%20trabeculoplasty%20(SLT)' title='NICE - 2017 Glaucoma guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>360\u00b0 SLT can delay the need for eye drops and can reduce but does not remove the chance they will be needed at all</li><li>a second 360\u00b0 SLT procedure may be needed at a later date</li></ul></li><li>prostaglandin analogue (PGA) eyedrops should be used next-line <a href='https://www.nice.org.uk/guidance/ng81/chapter/Recommendations#treatment:~:text=Offer%20a%20generic%20prostaglandin%20analogue%20(PGA)' title='NICE - 2017 Glaucoma guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> </li><li>the next line of treatments includes: <ul><li>beta-blocker eye drops</li><li><span class=\"concept\" data-cid=\"9395\">carbonic anhydrase inhibitor</span> eye drops</li><li>sympathomimetic eye drops</li></ul></li><li>surgery in the form of a trabeculectomy may be considered in refractory cases.</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Medication</b></th><th><b>Mode of action</b></th><th><b>Notes</b></th></tr></thead><tbody><tr><td>Prostaglandin analogues (e.g. <span class=\"concept\" data-cid=\"9397\">latanoprost</span>)</td><td><span class=\"concept\" data-cid=\"9397\">Increases uveoscleral outflow</span></td><td>Once daily administration<br /><br />Adverse effects include <span class=\"concept\" data-cid=\"1367\">brown pigmentation of the iris, increased eyelash length</span></td></tr><tr><td>Beta-blockers (e.g. timolol, <span class=\"concept\" data-cid=\"9396\">betaxolol</span>)</td><td><span class=\"concept\" data-cid=\"9413\">Reduces aqueous production</span></td><td>Should be avoided in asthmatics and patients with heart block</td></tr><tr><td>Sympathomimetics (e.g. brimonidine, an <span class=\"concept\" data-cid=\"9394\">alpha2-adrenoceptor agonist</span>)</td><td>Reduces aqueous production and increases outflow</td><td>Avoid if taking MAOI or tricyclic antidepressants<br /><br />Adverse effects include hyperaemia</td></tr><tr><td>Carbonic anhydrase inhibitors (e.g. Dorzolamide)</td><td>Reduces aqueous production</td><td>Systemic absorption may cause sulphonamide-like reactions</td></tr><tr><td>Miotics (e.g. pilocarpine, a <span class=\"concept\" data-cid=\"9393\">muscarinic receptor agonist</span>)</td><td>Increases uveoscleral outflow</td><td>Adverse effects included a constricted pupil, headache and blurred vision</td></tr></tbody></table></div>",
+        "notes_hash": "cad0ef79dec517899f0078c204c499ad",
+        "knowledge_graph_node_id_link": 1287,
+        "concept": "Key side effects of prostaglandin analogues include increased eyelash length, iris pigmentation and periocular pigmentation",
+        "concept_percentile": "2",
+        "concept_colour": "rgb(255,10,0)",
+        "number_attempts": "175",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "81",
+            "49",
+            "70",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_812\" data-linkid=\"812\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_812\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_812\" data-linkid=\"812\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_812\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng81/chapter/Recommendations\">2017 Glaucoma guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IS0ZqqfZMQI\" data-description=\"Understanding Open Angle Glaucoma\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"1212\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/IS0ZqqfZMQI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IS0ZqqfZMQI\" data-description=\"Understanding Open Angle Glaucoma\" data-upvotes=\"6\" data-downvotes=\"3\" data-media=\"1212\">Understanding Open Angle Glaucoma</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2125\" data-mediaid=\"2125\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2125\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2125\" data-mediaid=\"2125\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2125\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/guspTGxUO_c\" data-description=\"Glaucoma (open-angle, closed-angle, and normal-tension)\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"415\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/guspTGxUO_c/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/guspTGxUO_c\" data-description=\"Glaucoma (open-angle, closed-angle, and normal-tension)\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"415\">Glaucoma (open-angle, closed-angle, and normal-tension)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_710\" data-mediaid=\"710\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_710\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_710\" data-mediaid=\"710\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_710\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "1367": {
+                "concept_text": "Key side effects of prostaglandin analogues include increased eyelash length, iris pigmentation and periocular pigmentation",
+                "concept_percentile": "2"
+            },
+            "9413": {
+                "concept_text": "Beta blockers such as timolol work in primary open-angle glaucoma by reducing aqueous production",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1804",
+        "new_question_id": "11217",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_629",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Eczema herpeticum",
+            "Pemphigus vulgaris",
+            "Erythema multiforme major",
+            "Impetigo",
+            "Necrotizing fasciitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old man presents as he is feeling generally unwell. Around 5 days ago he started having a sore throat associated with myalgia and lethargy. Yesterday he developed a fever and over the course of the past 24 hours a rash has appeared. His past medical history includes anxiety and atopic eczema. On examination he has a widespread erythematous rash, with many of the lesions having a 'target' appearance. Some of the lesions are becoming bullous. His pulse is 120/min and temperature 38.4\u00ba. He also has conjunctivitis and some ulceration and sloughing around the mouth:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer in this case is <b>Erythema multiforme major</b>. Erythema multiforme is an acute, immune-mediated skin condition that typically presents with target-like lesions on the skin and mucous membranes. In this patient, the history of a sore throat followed by fever, myalgia, and lethargy along with the appearance of a widespread erythematous rash with target lesions and mucosal involvement (conjunctivitis and oral ulceration) strongly suggest erythema multiforme major. This condition can be triggered by infections (commonly herpes simplex virus or mycoplasma pneumoniae) or medications.<br /><br /><b>Eczema herpeticum</b> is an incorrect option as it is a complication of atopic eczema where there is an extensive infection with herpes simplex virus. It presents with clusters of painful vesicles on an erythematous base that may rupture and form erosions. Although the patient has a history of atopic eczema, the presentation with target lesions and mucosal involvement makes erythema multiforme major more likely.<br /><br /><b>Pemphigus vulgaris</b> is an autoimmune blistering disorder characterized by intraepidermal blisters involving both the skin and mucous membranes. The clinical presentation may include bullae that rupture easily, leaving painful erosions. However, the sudden onset of symptoms following a sore throat and fever in this case make it less likely than erythema multiforme major.<br /><br /><b>Impetigo</b> is a superficial bacterial skin infection caused mainly by <i>Staphylococcus aureus</i> or <i>Streptococcus pyogenes</i>. It presents as honey-colored crusted lesions or small fluid-filled blisters that may rupture. The widespread rash involving multiple areas of the body along with systemic symptoms such as fever and myalgia make erythema multiforme major a more appropriate diagnosis.<br /><br />Lastly, <b>necrotizing fasciitis</b> is a rapidly progressive bacterial infection involving the subcutaneous tissue and fascia. It presents with severe pain, erythema, and edema that rapidly progress to necrosis and systemic symptoms such as fever and hypotension. The presence of target lesions, mucosal involvement, and the absence of severe pain or rapid progression of symptoms in this case make erythema multiforme major more likely than necrotizing fasciitis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old man presents as he is feeling generally unwell. Around 5 days ago he started having a sore throat associated with myalgia and lethargy. Yesterday he developed a fever and over the course of the past 24 hours a rash has appeared. His past medical history includes anxiety and atopic eczema. On examination he has a widespread erythematous rash, with many of the lesions having a 'target' appearance. Some of the lesions are becoming bullous. His pulse is 120/min and temperature 38.4\u00ba. He also has conjunctivitis and some ulceration and sloughing around the mouth:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer in this case is <b>Erythema multiforme major</b>. Erythema multiforme is an acute, immune-mediated skin condition that typically presents with target-like lesions on the skin and mucous membranes. In this patient, the history of a sore throat followed by fever, myalgia, and lethargy along with the appearance of a widespread erythematous rash with target lesions and mucosal involvement (conjunctivitis and oral ulceration) strongly suggest erythema multiforme major. This condition can be triggered by infections (commonly herpes simplex virus or mycoplasma pneumoniae) or medications.<br /><br /><b>Eczema herpeticum</b> is an incorrect option as it is a complication of atopic eczema where there is an extensive infection with herpes simplex virus. It presents with clusters of painful vesicles on an erythematous base that may rupture and form erosions. Although the patient has a history of atopic eczema, the presentation with target lesions and mucosal involvement makes erythema multiforme major more likely.<br /><br /><b>Pemphigus vulgaris</b> is an autoimmune blistering disorder characterized by intraepidermal blisters involving both the skin and mucous membranes. The clinical presentation may include bullae that rupture easily, leaving painful erosions. However, the sudden onset of symptoms following a sore throat and fever in this case make it less likely than erythema multiforme major.<br /><br /><b>Impetigo</b> is a superficial bacterial skin infection caused mainly by <i>Staphylococcus aureus</i> or <i>Streptococcus pyogenes</i>. It presents as honey-colored crusted lesions or small fluid-filled blisters that may rupture. The widespread rash involving multiple areas of the body along with systemic symptoms such as fever and myalgia make erythema multiforme major a more appropriate diagnosis.<br /><br />Lastly, <b>necrotizing fasciitis</b> is a rapidly progressive bacterial infection involving the subcutaneous tissue and fascia. It presents with severe pain, erythema, and edema that rapidly progress to necrosis and systemic symptoms such as fever and hypotension. The presence of target lesions, mucosal involvement, and the absence of severe pain or rapid progression of symptoms in this case make erythema multiforme major more likely than necrotizing fasciitis.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Erythema multiforme",
+        "body": "Erythema multiforme is a hypersensitivity reaction that is most commonly triggered by infections. It may be divided into minor and major forms.<br /><br />Previously it was thought that Stevens-Johnson syndrome (SJS) was a severe form of erythema multiforme. They are now however considered as separate entities.<br /><br />Features<br /><ul><li>target lesions</li><li>initially seen on the back of the hands / feet before spreading to the torso</li><li>upper limbs are more commonly affected than the lower limbs</li><li>pruritus is occasionally seen and is usually mild</li></ul><br />Causes<br /><ul><li>viruses: herpes simplex virus (the most common cause), Orf*</li><li>idiopathic</li><li>bacteria: <i>Mycoplasma</i>, <i>Streptococcus</i></li><li>drugs: penicillin, sulphonamides, carbamazepine, allopurinol, NSAIDs, oral contraceptive pill, nevirapine</li><li>connective tissue disease e.g. Systemic lupus erythematosus</li><li>sarcoidosis</li><li>malignancy</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd001b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd001.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd002b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd002.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd003b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd003.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd941b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd941.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd942b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme on the right side of the neck. In this case, developed after the onset of herpes labailis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd942.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme - giant target lesions on her forearms\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd004b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd004.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd001b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd001.jpg\" alt=\"\" /></a></div></div><div class=\"row\"></div></div><br /><h5 class='notes-heading'>Erythema multiforme major</h5><br />The more severe form, erythema multiforme major is associated with mucosal involvement.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd463b.jpg\" data-fancybox=\"gallery\" data-caption=\"This image shows the ventral and lateral surfaces of the tongue with multiple irregular, erythematous patches and areas of epithelial sloughing and superficial ulceration, consistent with mucosal erosions. The lesions have a geographic and well-demarcated appearance, and are surrounded by erythematous mucosa, indicating active inflammation. These findings are characteristic of erythema multiforme major, which typically involves painful mucosal erosions (oral, ocular, or genital) in conjunction with targetoid skin lesions. Erythema multiforme major is often precipitated by HSV infection or medications and requires prompt recognition.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd463.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of mucosal involvement in erythema multiforme major\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg\" alt=\"\" /></a></div></div></div><br />*Orf is a skin disease of sheep and goats caused by a parapox virus",
+        "notes_hash": "6894b0b812d0342a75faf627e8ea52aa",
+        "knowledge_graph_node_id_link": 10471,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5937",
+        "up_votes": "26",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "824",
+            "1002",
+            "3827",
+            "113",
+            "171",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_56\" data-linkid=\"56\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_56\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_56\" data-linkid=\"56\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_56\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/erythema-multiforme/\">Erythema multiforme</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1NeeMpKzHFo\" data-description=\"Erythema multiforme\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1448\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1NeeMpKzHFo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1NeeMpKzHFo\" data-description=\"Erythema multiforme\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1448\">Erythema multiforme</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2560\" data-mediaid=\"2560\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2560\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_2560\" data-mediaid=\"2560\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2560\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2871_B_282",
+        "new_question_id": "13582",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "2450",
+        "notes_id_link": "1_1941",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise her to come to the emergency department",
+            "Advise her to take the IM hydrocortisone at come to the emergency department for review",
+            "Advise her to not take any hydrocortisone until the vomiting settles",
+            "Adviser her to take IM hydrocortisone only if starting to feel faint or experiencing postural symptoms",
+            "Advise her to double the dose of oral hydrocortisone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old woman calls the endocrinology nurse for advice. She has been vomiting for the last 24 hours and has been unable to take her regular medications. She has a past medical history of Addison's disease. She normally takes oral hydrocortisone and fludrocortisone. Apart from vomiting and reduced oral intake she denies any symptoms. Specifically, she has not been dizzy on standing, had any blackouts or any diarrhoea. She has also been having a normal temperature. She has IM hydrocortisone at home. <br /><br />What is the most appropriate advice to give in regards to her hydrocortisone?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This is a patient with Addison's disease who is unable to take her regular oral hydrocortisone and is therefore at risk of developing an Addisonian crisis. If unable to take the normal oral hydrocortisone then the patient should be advised to take IM hydrocortisone to avoid this. This is why all patients with Addison's disease should have IM hydrocortisone for these situations. <br /><br />Given that she has been vomiting for the past 24 hours it is appropriate for her to attend the emergency department for assessment and possible IV fluids, IV hydrocortisone.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old woman calls the endocrinology nurse for advice. She has been vomiting for the last 24 hours and has been unable to take her regular medications. She has a past medical history of Addison's disease. She normally takes oral hydrocortisone and fludrocortisone. Apart from vomiting and reduced oral intake she denies any symptoms. Specifically, she has not been dizzy on standing, had any blackouts or any diarrhoea. She has also been having a normal temperature. She has IM hydrocortisone at home. <br /><br />What is the most appropriate advice to give in regards to her hydrocortisone?",
+        "correct_answer": "2",
+        "question_notes": "This is a patient with Addison's disease who is unable to take her regular oral hydrocortisone and is therefore at risk of developing an Addisonian crisis. If unable to take the normal oral hydrocortisone then the patient should be advised to take IM hydrocortisone to avoid this. This is why all patients with Addison's disease should have IM hydrocortisone for these situations. <br /><br />Given that she has been vomiting for the past 24 hours it is appropriate for her to attend the emergency department for assessment and possible IV fluids, IV hydrocortisone.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Addison's disease: management",
+        "body": "Patients who have Addison's disease are usually given both glucocorticoid and mineralocorticoid replacement therapy.<br /><br />This usually means that patients take a combination of:<br /><ul><li><span class=\"concept\" data-cid=\"493\">hydrocortisone</span>: usually given in 2 or 3 divided doses. Patients typically require 20-30 mg per day, with the <span class=\"concept\" data-cid=\"11256\">majority given in the first half of the day</span></li><li><span class=\"concept\" data-cid=\"493\">fludrocortisone</span></li></ul><br />Patient education is important:<br /><ul><li>emphasise the importance of not missing glucocorticoid doses</li><li>consider MedicAlert bracelets and steroid cards</li><li>patients should be provided with <span class=\"concept\" data-cid=\"2445\">hydrocortisone for injection</span> with needles and syringes to treat an adrenal crisis</li><li>discuss how to adjust the glucocorticoid dose during an intercurrent illness (see below)</li></ul><br />Management of intercurrent illness<br /><ul><li>in simple terms the <span class=\"concept\" data-cid=\"494\">glucocorticoid dose should be doubled, with the fludrocortisone dose staying the same</span></li><li>the Addison's Clinical Advisory Panel have produced guidelines detailing particular scenarios - please see the CKS link for more details</li></ul>",
+        "notes_hash": "166e71d52791defe13da78d02e47e057",
+        "knowledge_graph_node_id_link": 1122,
+        "concept": "A person with Addisons' who vomits should take IM hydrocortisone until vomiting stops",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "6062",
+        "up_votes": "23",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "516",
+            "4478",
+            "60",
+            "121",
+            "887",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1320\" data-linkid=\"1320\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1320\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1320\" data-linkid=\"1320\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1320\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/258\">2017 Adrenal insufficiency \u00e2\u20ac\u201c recognition and management </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"107\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/Primary_adrenal_insufficiency.webm\" data-description=\"Primary adrenal insufficiency (Addison's disease)\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"107\">Primary adrenal insufficiency (Addison's disease)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_190\" data-mediaid=\"190\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_190\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_190\" data-mediaid=\"190\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_190\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"243\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wqJUifWOGEo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wqJUifWOGEo\" data-description=\"Addison's disease\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"243\">Addison's disease</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_408\" data-mediaid=\"408\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_408\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_408\" data-mediaid=\"408\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_408\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1687\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1E0LcT-M1NY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1E0LcT-M1NY\" data-description=\"Understanding Adrenal Insufficiency\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1687\">Understanding Adrenal Insufficiency</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2862\" data-mediaid=\"2862\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2862\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2862\" data-mediaid=\"2862\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2862\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "493": {
+                "concept_text": "Addison's disease management - hydrocortisone + fludrocortisone",
+                "concept_percentile": "45"
+            },
+            "494": {
+                "concept_text": "Addison's patient with intercurrent illness --> double the glucocorticoids, keep fludrocortisone dose the same",
+                "concept_percentile": "71"
+            },
+            "2445": {
+                "concept_text": "Patients with Addison's should be given a hydrocortisone injection kit for adrenal crises",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_1155",
+        "new_question_id": "34281",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "6003",
+        "notes_id_link": "1_1037",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Azithromycin",
+            "Clonazepam",
+            "Montelukast",
+            "Sodium valproate",
+            "Tramadol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old woman presents to the emergency department with a mixed drug overdose. She reports taking all of her medications at once following a family bereavement. During her admission, she complains of palpitations and shortness of breath before losing consciousness.<br /><br />ECG: Polymorphic ventricular tachycardia, QTc > 550ms.<br /><br />What prescribed medication is most likely responsible for the above presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient's ECG demonstrates torsades de pointes which is characteristically described as a broad complex, polymorphic ventricular tachycardia, associated with a markedly prolonged QTc interval (>500ms). Of the medications listed, macrolide antibiotics such as <b>azithromycin</b> are capable of prolonging the QTc interval and, therefore, predisposing this patient to torsades de pointes.<br /><br /><b>Clonazepam</b> is a benzodiazepine used in the treatment of anxiety, myoclonus and epilepsy. In overdose, it causes respiratory and central nervous system depression. It does not cause QTc interval prolongation.<br /><br /><b>Montelukast</b> is a leukotriene receptor antagonist used in the treatment of asthma. Common side effects include gastrointestinal symptoms such as diarrhoea and abdominal discomfort. It does not prolong the QTc interval.<br /><br /><b>Sodium valproate</b> is an anti-epileptic drug with a large number of side effects including alopecia, pancreatitis, anaemia, thrombocytopenia and tremor. However, it would not be responsible for the cardiac arrhythmia seen in this patient. <br /><br /><b>Tramadol</b> is a worrying drug to take in an overdose as it causes respiratory and central nervous system depression. However, it does not predispose patients to a prolonged QTc interval and ventricular arrhythmias such as torsades de pointes.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old woman presents to the emergency department with a mixed drug overdose. She reports taking all of her medications at once following a family bereavement. During her admission, she complains of palpitations and shortness of breath before losing consciousness.<br /><br />ECG: Polymorphic ventricular tachycardia, QTc > 550ms.<br /><br />What prescribed medication is most likely responsible for the above presentation?",
+        "correct_answer": "1",
+        "question_notes": "This patient's ECG demonstrates torsades de pointes which is characteristically described as a broad complex, polymorphic ventricular tachycardia, associated with a markedly prolonged QTc interval (>500ms). Of the medications listed, macrolide antibiotics such as <b>azithromycin</b> are capable of prolonging the QTc interval and, therefore, predisposing this patient to torsades de pointes.<br /><br /><b>Clonazepam</b> is a benzodiazepine used in the treatment of anxiety, myoclonus and epilepsy. In overdose, it causes respiratory and central nervous system depression. It does not cause QTc interval prolongation.<br /><br /><b>Montelukast</b> is a leukotriene receptor antagonist used in the treatment of asthma. Common side effects include gastrointestinal symptoms such as diarrhoea and abdominal discomfort. It does not prolong the QTc interval.<br /><br /><b>Sodium valproate</b> is an anti-epileptic drug with a large number of side effects including alopecia, pancreatitis, anaemia, thrombocytopenia and tremor. However, it would not be responsible for the cardiac arrhythmia seen in this patient. <br /><br /><b>Tramadol</b> is a worrying drug to take in an overdose as it causes respiratory and central nervous system depression. However, it does not predispose patients to a prolonged QTc interval and ventricular arrhythmias such as torsades de pointes.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Torsades de pointes",
+        "body": "Torsades de pointes ('twisting of the points') is a form of polymorphic ventricular tachycardia associated with a long QT interval. It may deteriorate into ventricular fibrillation and hence lead to sudden death.<br /><br />Causes of long QT interval<br /><ul><li>congenital<ul><li>Jervell-Lange-Nielsen syndrome</li><li>Romano-Ward syndrome</li></ul></li><li>antiarrhythmics: amiodarone, sotalol, class 1a antiarrhythmic drugs</li><li>tricyclic antidepressants</li><li>antipsychotics</li><li>chloroquine</li><li>terfenadine</li><li><span class=\"concept\" data-cid=\"6003\">erythromycin</span></li><li>electrolyte: hypocalcaemia, hypokalaemia, hypomagnesaemia</li><li>myocarditis</li><li><span class=\"concept\" data-cid=\"3643\">hypothermia</span></li><li><span class=\"concept\" data-cid=\"3139\">subarachnoid haemorrhage</span></li></ul><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4928\">IV magnesium sulphate</span></li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg069c.png'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><div class='imagetext'>ECG showing torsades de pointes</div>",
+        "notes_hash": "f437fe0bc29269baa1461a5878531819",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Macrolides can cause torsades de pointes",
+        "concept_percentile": "73",
+        "concept_colour": "rgb(137,255,0)",
+        "number_attempts": "7073",
+        "up_votes": "6",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "4019",
+            "1216",
+            "70",
+            "1467",
+            "301",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_353\" data-linkid=\"353\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_353\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">28</span><button type=\"button\" style=\"\" id=\"link_dislike_353\" data-linkid=\"353\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_353\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/polymorphic-vt-and-torsades-de-pointes-tdp/\">Torsades de pointes</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Long_QT_syndrome_and_Torsade.webm\" data-description=\"Long QT syndrome &amp; torsade de pointes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1097\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Long_QT_syndrome_and_Torsade.webm\" data-description=\"Long QT syndrome &amp; torsade de pointes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1097\">Long QT syndrome &amp; torsade de pointes</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1899\" data-mediaid=\"1899\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1899\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1899\" data-mediaid=\"1899\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1899\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3643": {
+                "concept_text": "Hypothermia is a cause of Torsades de pointes",
+                "concept_percentile": "52"
+            },
+            "4928": {
+                "concept_text": "IV magnesium sulfate is used to treat torsades de pointes",
+                "concept_percentile": "70"
+            },
+            "6003": {
+                "concept_text": "Macrolides can cause torsades de pointes",
+                "concept_percentile": "73"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_131",
+        "new_question_id": "4193",
+        "question_type": "1",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1703",
+        "theme": "Chest pain",
+        "instruction": "For each one of the following scenarios select the most likely diagnosis:",
+        "options": [
+            "",
+            "Myocardial infarction",
+            "Gastro-oesophageal reflux disease",
+            "Anxiety",
+            "Pleurisy",
+            "Pericarditis",
+            "Pneumothorax",
+            "Myocarditis",
+            "Pulmonary embolism",
+            "Musculoskeletal chest pain",
+            "Dissecting aortic aneurysm"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 31-year-old woman complains of a four week history of retrosternal 'burning' pain. The pain is often worse following eating. Her past medical history includes depression and she uses Microgynon (a combined oral contraceptive pill). Clinical examination is unremarkable.",
+            "T 25-rxtk-hew ftg vhfietbgl hy bgmxkfbmmxgm vxgmkte vaxlm itbgl hoxk max itlm yhnk pxxdl. Ax atl gh itlm fxwbvte ablmhkr hy ghmx hmaxk matg t ibehgbwte tulvxll hixktmbhg 9 fhgmal tzh. Max itbg bl wxlvkbuxw tl 'axtor' tgw hymxg tllhvbtmxw pbma mbgzebgz bg abl ebil tgw ybgzxkl. Max xiblhwxl nlnteer atiixg tm kxlm tgw etlm lxoxkte fbgnmxl.",
+            "T 44-rxtk-hew ftg ikxlxgml pbma vxgmkte, lxoxkx vaxlm itbg pabva lmtkmxw tkhngw hgx ahnk tzh. Maxkx bl gh ktwbtmbhg hy max itbg hk tllhvbtmxw lahkmgxll-hy-ukxtma. Ax atl atw lhfx lbfbetk yexxmbgz itbgl hoxk max itlm mph pxxdl unm maxlx lxmmexw lihgmtgxhnler tymxk t yxp lxvhgwl. Hg xqtfbgtmbhg ax bl lpxtmbgz, inelx 84 / fbg, uehhw ikxllnkx 134 / 82 ffAz tgw kxlibktmhkr ktmx 18 / fbg."
+        ],
+        "answers": [
+            "2",
+            "3",
+            "1"
+        ],
+        "notes": [
+            "Both depression and combined oral contraceptive pill use are common and therefore do not necessarily point to one diagnosis in particular. The history is however classical for oesophagitis and hence a diagnosis of gastro-oeophageal reflux disease is likely.",
+            "",
+            "The location, severity and nature of the pain combined with the sweating point towards myocardial ischaemia."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old woman complains of a four week history of retrosternal 'burning' pain. The pain is often worse following eating. Her past medical history includes depression and she uses Microgynon (a combined oral contraceptive pill). Clinical examination is unremarkable.",
+        "correct_answer": "2",
+        "question_notes": "Both depression and combined oral contraceptive pill use are common and therefore do not necessarily point to one diagnosis in particular. The history is however classical for oesophagitis and hence a diagnosis of gastro-oeophageal reflux disease is likely.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Chest pain",
+        "body": "The table below gives characteristic exam question features for conditions causing chest pain<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Condition</b></th><th><b>Characteristic exam feature</b></th></tr></thead><tbody><tr><td>Myocardial infarction</td><td>Cardiac-sounding pain<br /><ul><li>heavy, central chest pain they may radiate to the neck and left arm</li><li>nausea, sweating</li><li>elderly patients and diabetics may experience no pain</li></ul><br />Risk factors for cardiovascular disease</td></tr><tr><td>Pneumothorax</td><td>History of asthma, Marfan's etc<br />Sudden dyspnoea and pleuritic chest pain</td></tr><tr><td>Pulmonary embolism</td><td>Sudden dyspnoea and pleuritic chest pain<br />Calf pain/swelling<br />Current combined pill user, malignancy</td></tr><tr><td>Pericarditis</td><td>Sharp pain relieved by sitting forwards<br />May be pleuritic in nature</td></tr><tr><td>Dissecting aortic aneurysm</td><td>'Tearing' chest pain radiating through to the back<br />Unequal upper limb blood pressure</td></tr><tr><td>Gastro-oesophageal reflux disease</td><td>Burning retrosternal pain<br />Other possible symptoms include regurgitation and dysphagia</td></tr><tr><td>Musculoskeletal chest pain</td><td>One of the most common diagnoses made in the Emergency Department. The pain is often worse on movement or palpation.<br /><br />May be precipitated by trauma or coughing</td></tr><tr><td>Shingles</td><td>Pain often precedes the rash</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Further notes</h5><br /><b>Aortic dissection</b><br /><ul><li>This occurs when there is a flap or filling defect within the aortic intima. Blood tracks into the medial layer and splits the tissues with the subsequent creation of a false lumen. It most commonly occurs in the ascending aorta or just distal to the left subclavian artery (less common). It is most common in Afro-carribean males aged 50-70 years. </li><li>Patients usually present with a tearing intrascapular pain, which may be similar to the pain of a myocardial infarct. </li><li>The dissection may spread either proximally or distally with subsequent disruption to the arterial branches that are encountered. </li><li>In the Stanford classification system the disease is classified into lesions with a proximal origin (Type A) and those that commence distal to the left subclavian (Type B).</li><li>Diagnosis may be suggested by a chest x-ray showing a widened mediastinum. Confirmation of the diagnosis is usually made by use of CT angiography</li><li>Proximal (Type A) lesions are usually treated surgically, type B lesions are usually managed non operatively.</li></ul><br /><b>Pulmonary embolism</b><br /><ul><li>Typically sudden onset of chest pain, haemoptysis, hypoxia and small pleural effusions may be present. </li><li>Most patients will have an underlying deep vein thrombosis</li><li>Diagnosis may be suggested by various ECG findings including S waves in lead I, Q waves in lead III and inverted T waves in lead III. Confirmation of the diagnosis is usually made through use of CT pulmonary angiography.</li><li>Treatment is with anticoagulation, in those patients who develop a cardiac arrest or severe compromise from their PE, consideration may be given to thrombolysis.</li></ul><br /><b>Myocardial infarction</b><br /><ul><li>Traditionally described as sudden onset of central, crushing chest pain. It may radiate into the neck and down the left arm. Signs of autonomic dysfunction may be present. The presenting features may be atypical in the elderly and those with diabetes.</li><li>Diagnosis is made through identification of new and usually dynamic ECG changes (and cardiac enzyme changes). Inferior and anterior infarcts may be distinguished by the presence of specific ECG changes (usually II, III and aVF for inferior, leads V1-V5 for anterior).</li><li>Treatment is with oral antiplatelet agents, primary coronary angioplasty and/ or thrombolysis.</li></ul><br /><b>Perforated peptic ulcer</b><br /><ul><li>Patients usually develop sudden onset of epigastric abdominal pain, it may be soon followed by generalised abdominal pain.</li><li>There may be features of antecendant abdominal discomfort, the pain of gastric ulcer is typically worse immediately after eating.</li><li>Diagnosis may be made by erect chest x-ray which may show a small amount of free intra-abdominal air (very large amounts of air are more typically associated with colonic perforation).</li><li>Treatment is usually with a laparotomy, small defects may be excised and overlaid with an omental patch, larger defects are best managed with a partial gastrectomy.</li></ul><br /><b>Boerhaaves syndrome</b><br /><ul><li>Spontaneous rupture of the oesophagus that occurs as a result of repeated episodes of vomiting.</li><li>The rupture is usually distally sited and on the left side.</li><li>Patients usually give a history of sudden onset of severe chest pain that may complicate severe vomiting.</li><li>Severe sepsis occurs secondary to mediastinitis.</li><li>Diagnosis is CT contrast swallow.</li><li>Treatment is with thoracotomy and lavage, if less than 12 hours after onset then primary repair is usually feasible, surgery delayed beyond 12 hours is best managed by insertion of a T tube to create a controlled fistula between oesophagus and skin.</li><li>Delays beyond 24 hours are associated with a very high mortality rate.</li></ul>",
+        "notes_hash": "29172145afb6f1a35a4288da78565736",
+        "knowledge_graph_node_id_link": 10003,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "3194",
+        "up_votes": "3",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "3147",
+            "2595",
+            "2208",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1958",
+        "new_question_id": "9305",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_577",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Gram positive cocci",
+            "Gram positive bacilli",
+            "Gram negative cocci",
+            "Gram negative bacilli",
+            "Fungal hyphae",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman is admitted to the medical ward with a 3-week history of fevers and lethargy.  On examination, you note a few splinter haemorrhages in the finger nails and a loud systolic murmur at the apex.  Your consultant instructs you to take 3 sets of blood cultures and to arrange an echocardiogram.  Later that day you receive a call from microbiology about the provisional blood culture results.<br /><br />Which of the following is most likely to have grown?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The vast majority of cases of bacterial endocarditis are caused by gram positive cocci.  <br /><br />Common causes:<br /><ul><li><i>Streptococcus viridans</i></li><li><i>Staphylococcus aureus</i> (in intravenous drugs uses or prosthetic valves)</li><li><i>Staphylococcus epidermidis</i> (in prosthetic valves)</li></ul><br />Rarer causes:<br /><ul><li><i>Enterococcus</i></li><li><i>Streptococcus bovis</i></li><li><i>Candida</i></li><li>HACEK group</li><li><i>Coxiella burnetii</i></li></ul><br />Acute endocarditis is most commonly caused by <i>Staphylococcus</i>, while subacute cases are most commonly caused by <i>Streptococcus</i> species. <br /><br />Knowledge of the common underlying organisms is important for directing empirical antibiotic therapy:<br /><ul><li>Native valve endocarditis (NVE): amoxicillin + gentamicin</li><li>NVE with severe sepsis, penicillin allergy or suspected methicillin-resistent staphylococcus aureus (MRSA): vancomycin + gentamicin</li><li>NVE with severe sepsis and risk factors gram negative infection: vancomycin + meropenem</li><li>Prosthetic valve endocarditis: vancomycin, gentamicin + rifampacin</li></ul><br />Once blood culture results are available, antibiotic therapy can be altered to provide specific cover.  Treatment usually consists of long courses (4-6 weeks) of intravenous antibiotic therapy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman is admitted to the medical ward with a 3-week history of fevers and lethargy.  On examination, you note a few splinter haemorrhages in the finger nails and a loud systolic murmur at the apex.  Your consultant instructs you to take 3 sets of blood cultures and to arrange an echocardiogram.  Later that day you receive a call from microbiology about the provisional blood culture results.<br /><br />Which of the following is most likely to have grown?",
+        "correct_answer": "1",
+        "question_notes": "The vast majority of cases of bacterial endocarditis are caused by gram positive cocci.  <br /><br />Common causes:<br /><ul><li><i>Streptococcus viridans</i></li><li><i>Staphylococcus aureus</i> (in intravenous drugs uses or prosthetic valves)</li><li><i>Staphylococcus epidermidis</i> (in prosthetic valves)</li></ul><br />Rarer causes:<br /><ul><li><i>Enterococcus</i></li><li><i>Streptococcus bovis</i></li><li><i>Candida</i></li><li>HACEK group</li><li><i>Coxiella burnetii</i></li></ul><br />Acute endocarditis is most commonly caused by <i>Staphylococcus</i>, while subacute cases are most commonly caused by <i>Streptococcus</i> species. <br /><br />Knowledge of the common underlying organisms is important for directing empirical antibiotic therapy:<br /><ul><li>Native valve endocarditis (NVE): amoxicillin + gentamicin</li><li>NVE with severe sepsis, penicillin allergy or suspected methicillin-resistent staphylococcus aureus (MRSA): vancomycin + gentamicin</li><li>NVE with severe sepsis and risk factors gram negative infection: vancomycin + meropenem</li><li>Prosthetic valve endocarditis: vancomycin, gentamicin + rifampacin</li></ul><br />Once blood culture results are available, antibiotic therapy can be altered to provide specific cover.  Treatment usually consists of long courses (4-6 weeks) of intravenous antibiotic therapy.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Infective endocarditis: aetiology",
+        "body": "The strongest risk factor for developing infective endocarditis is a <span class=\"concept\" data-cid=\"754\">previous episode</span> of endocarditis. The following types of patients are affected:<br /><ul><li>previously normal valves (50%, typically acute presentation)<ul><li><span class=\"concept\" data-cid=\"10284\">the mitral valve is most commonly affected</span></li></ul></li><li>rheumatic valve disease (30%)</li><li>prosthetic valves</li><li>congenital heart defects</li><li>intravenous drug users (IVDUs)<ul><li> e.g. typically causing <span class=\"concept\" data-cid=\"3609\">tricuspid</span> lesion)</li></ul></li><li>others: <span class=\"concept\" data-cid=\"9673\">recent piercings</span></li></ul><br />Causes<br /><ul><li><i>Staphylococcus aureus</i><ul><li><span class=\"concept\" data-cid=\"755\">now the most common cause of infective endocarditis</span></li><li>particularly common in acute presentation and <span class=\"concept\" data-cid=\"4960\">IVDUs</span></li></ul></li><li><i>Streptococcus viridans</i> <ul><li>historically <i>Streptococcus viridans</i> was the most common cause of infective endocarditis. This is no longer the case, except in developing countries</li><li>technically <i>Streptococcus viridans</i> is a pseudotaxonomic term, referring to viridans streptococci, rather than a particular organism. The two most notable viridans streptococci are <i>Streptococcus mitis</i> and <i>Streptococcus sanguinis</i></li><li>they are both commonly found in the mouth and in particular dental plaque so endocarditis caused by these organisms is linked with <span class=\"concept\" data-cid=\"8813\">poor dental hygiene</span> or following a dental procedure</li></ul></li><li>coagulase-negative Staphylococci such as <span class=\"concept\" data-cid=\"12488\"><i>Staphylococcus epidermidis</i></span><ul><li>commonly colonize indwelling lines and are the most cause of endocarditis in patients following prosthetic valve surgery, usually the result of perioperative contamination.</li><li>after 2 months the spectrum of organisms which cause endocarditis return to normal (i.e. <i>Staphylococcus aureus</i> is the most common cause)</li></ul></li><li><i>Streptococcus bovis</i><ul><li>associated with <span class=\"concept\" data-cid=\"753\">colorectal cancer</span></li><li>the subtype <span class=\"concept\" data-cid=\"10668\"><i>Streptococcus gallolyticus</i></span> is most linked with colorectal cancer </li></ul></li><li>non-infective<ul><li>systemic lupus erythematosus (Libman-Sacks)</li><li>malignancy: marantic endocarditis</li></ul></li></ul><br />Culture negative causes<br /><ul><li>prior antibiotic therapy</li><li><i>Coxiella burnetii</i></li><li><i>Bartonella</i></li><li><i>Brucella</i></li><li>HACEK: <i>Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, Kingella</i>)</li></ul>",
+        "notes_hash": "4cc599f5421efad9246987cf3557f19a",
+        "knowledge_graph_node_id_link": 1155,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5643",
+        "up_votes": "41",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "4261",
+            "512",
+            "587",
+            "264",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_486\" data-linkid=\"486\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_486\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_486\" data-linkid=\"486\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_486\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG64/chapter/Recommendations\">2008 Prophylaxis against infective endocarditis</a></td></tr></table><br><br><table style='width:100%'><tr><td>American Heart Association</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_393\" data-linkid=\"393\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_393\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_393\" data-linkid=\"393\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_393\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ahajournals.org/doi/full/10.1161/circulationaha.105.165564\">Infective endocarditis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a2/Endocarditis.webm\" data-description=\"Endocarditis\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"66\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a2/Endocarditis.webm\" data-description=\"Endocarditis\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"66\">Endocarditis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_118\" data-mediaid=\"118\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_118\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_118\" data-mediaid=\"118\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_118\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/10RaKBTTyeo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/10RaKBTTyeo\" data-description=\"Infective Endocarditis\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1375\">Infective Endocarditis</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2419\" data-mediaid=\"2419\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2419\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2419\" data-mediaid=\"2419\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2419\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3609": {
+                "concept_text": "Infective endocarditis in intravenous drug users most commonly affects the tricuspid valve",
+                "concept_percentile": "73"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

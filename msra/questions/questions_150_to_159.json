@@ -1,0 +1,825 @@
+[
+    {
+        "question_id": "1479_B_244",
+        "new_question_id": "2109",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1261",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Synthetic steroid used to treat childhood wheeze",
+            "Macrolide antibiotic used to treat respiratory syncytial virus (RSV)",
+            "Monoclonal antibody used to prevent respiratory syncytial virus (RSV)",
+            "Macrolide antibiotic used to prevent hospital acquired pneumonia",
+            "Monoclonal antibody used to treat hospital acquired pneumonia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You see the mother of a 6-month-old baby who was born premature (at 32 weeks) and has recently been discharged from hospital following an admission with 'breathing problems'. Whilst he was in the hospital he was given an injection called palivizumab, however, the mother cannot recall what this medication is for. <br /><br />Which one of the following best describes this medication and its indication?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Palivizumab is a monoclonal antibody which is used to prevent respiratory syncytial virus (RSV) in children who are at increased risk of severe disease. <br /><br />Those at risk of developing RSV include<br /><ul><li>Premature infants</li><li>Infants with lung or heart abnormalities</li><li>Immunocompromised infants</li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You see the mother of a 6-month-old baby who was born premature (at 32 weeks) and has recently been discharged from hospital following an admission with 'breathing problems'. Whilst he was in the hospital he was given an injection called palivizumab, however, the mother cannot recall what this medication is for. <br /><br />Which one of the following best describes this medication and its indication?",
+        "correct_answer": "3",
+        "question_notes": "Palivizumab is a monoclonal antibody which is used to prevent respiratory syncytial virus (RSV) in children who are at increased risk of severe disease. <br /><br />Those at risk of developing RSV include<br /><ul><li>Premature infants</li><li>Infants with lung or heart abnormalities</li><li>Immunocompromised infants</li></ul>",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Bronchiolitis",
+        "body": "Bronchiolitis is a condition characterised by acute bronchiolar inflammation.  <span class=\"concept\" data-cid=\"1278\">Respiratory syncytial virus (RSV) is the pathogen in 75-80% of cases</span>. NICE released guidelines on bronchiolitis in 2015. Please see the link for more details.<br /><br />Epidemiology<br /><ul><li>most common cause of a serious lower respiratory tract infection in < 1yr olds (90% are 1-9 months, with a peak incidence of 3-6 months). Maternal IgG provides protection to newborns against RSV</li><li>higher incidence in winter</li></ul><br />Basics<br /><ul><li>respiratory syncytial virus (RSV) is the pathogen in 75-80% of cases</li><li>other causes: mycoplasma, adenoviruses</li><li>may be secondary bacterial infection</li><li>more serious if bronchopulmonary dysplasia (e.g. Premature), <span class=\"concept\" data-cid=\"2942\">congenital heart disease</span> or cystic fibrosis</li></ul><br /><span class=\"concept\" data-cid=\"12516\">Features</span><br /><ul><li>coryzal symptoms (including mild fever) precede:</li><li>dry cough</li><li>increasing breathlessness</li><li>wheezing, fine inspiratory crackles (not always present)</li><li>feeding difficulties associated with increasing dyspnoea are often the reason for hospital admission</li></ul><br />NICE recommend immediate referral (usually by 999 ambulance) if they have any of the following:<br /><ul><li>apnoea (observed or reported)</li><li>child looks seriously unwell to a healthcare professional</li><li>severe respiratory distress, for example <span class=\"concept\" data-cid=\"2888\">grunting</span>, marked chest recession, or a respiratory rate of over 70 breaths/minute</li><li>central cyanosis</li><li>persistent oxygen saturation of less than 92% when breathing air.</li></ul><br />NICE recommend that clinicians 'consider' referring to hospital if any of the following apply:<br /><ul><li>a respiratory rate of over 60 breaths/minute</li><li>difficulty with breastfeeding or inadequate oral fluid intake (50-75% of usual volume 'taking account of risk factors and using clinical judgement')</li><li>clinical dehydration.</li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"12389\">immunofluorescence of nasopharyngeal secretions may show RSV</span></li></ul><br />Management is largely <span class=\"concept\" data-cid=\"4126\">supportive</span><br /><ul><li>humidified oxygen is given via a head box and is typically recommended if the oxygen saturations are persistently < 92%</li><li>nasogastric feeding may be needed if children cannot take enough fluid/feed by mouth</li><li>suction is sometimes used for excessive upper airway secretions</li></ul>",
+        "notes_hash": "3d83eeb146c84d0d3527756fc912dfb2",
+        "knowledge_graph_node_id_link": 1068,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5531",
+        "up_votes": "47",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "130",
+            "261",
+            "4410",
+            "78",
+            "652",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_197\" data-linkid=\"197\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_197\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_197\" data-linkid=\"197\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_197\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng9/chapter/1-Recommendations\">2015 Bronchiolitis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/3/3d/Respiratory_Syncytial_Virus_and_Bronchiolitis.webm\" data-description=\"Respiratory Syncytial Virus and Bronchiolitis\" data-upvotes=\"17\" data-downvotes=\"0\" data-media=\"366\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/3/3d/Respiratory_Syncytial_Virus_and_Bronchiolitis.webm\" data-description=\"Respiratory Syncytial Virus and Bronchiolitis\" data-upvotes=\"17\" data-downvotes=\"0\" data-media=\"366\">Respiratory Syncytial Virus and Bronchiolitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_619\" data-mediaid=\"619\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_619\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"media_dislike_619\" data-mediaid=\"619\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_619\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VcyQIiN5vGk\" data-description=\"Bronchiolitis (causes, pathophysiology, signs and symptoms, treatment)\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"826\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/VcyQIiN5vGk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VcyQIiN5vGk\" data-description=\"Bronchiolitis (causes, pathophysiology, signs and symptoms, treatment)\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"826\">Bronchiolitis (causes, pathophysiology, signs and symptoms, treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1450\" data-mediaid=\"1450\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1450\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1450\" data-mediaid=\"1450\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1450\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xM2U8tkZgas\" data-description=\"Bronchiolitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1160\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xM2U8tkZgas/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xM2U8tkZgas\" data-description=\"Bronchiolitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1160\">Bronchiolitis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2010\" data-mediaid=\"2010\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2010\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2010\" data-mediaid=\"2010\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2010\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4RU_bysa5Lc\" data-description=\"Bronchiolitis wheeze - REQUIRES HEADPHONES\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"194\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4RU_bysa5Lc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4RU_bysa5Lc\" data-description=\"Bronchiolitis wheeze - REQUIRES HEADPHONES\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"194\">Bronchiolitis wheeze - REQUIRES HEADPHONES</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_323\" data-mediaid=\"323\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_323\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_323\" data-mediaid=\"323\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_323\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2888": {
+                "concept_text": "In bronchiolitis, the presence of grunting necessitates immediate referral to hospital",
+                "concept_percentile": "96"
+            },
+            "4126": {
+                "concept_text": "Bronchiolitis does not require antibiotics, children requires supportive management only",
+                "concept_percentile": "88"
+            },
+            "12389": {
+                "concept_text": "Immunofluorescence of nasopharyngeal secretions is used to detect RSV in infants with suspected bronchiolitis",
+                "concept_percentile": "38"
+            },
+            "12516": {
+                "concept_text": "Infant with coryzal symptoms, cough, fever and bilateral crackles --> ? bronchiolitis",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22929_B_78",
+        "new_question_id": "35783",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "8226",
+        "notes_id_link": "10_204",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Axillary nerve, loss of sensation over the 'sergeant patch' region of the shoulder",
+            "Radial nerve, inability to flex the 1st, 2nd and 3rd digits of the hand",
+            "Radial nerve, wrist drop",
+            "Ulnar nerve, inability to extend the 4th and 5th digits of the hand",
+            "Ulnar nerve, loss of sensation on the dorsum of the hand over the thumb and index finger",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old woman is brought into the emergency department following a fall. Her left arm appears swollen and, upon further imaging, a displaced mid-shaft humeral fracture is diagnosed.<br /><br />What nerve is most likely to be damaged as a result of this fracture, and how would this present clinically?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Radial nerve, wrist drop</b> is the correct answer. The radial nerve runs in the radial groove of the mid-shaft of the humerus, therefore it is very vulnerable to damage in a mid-shaft humeral fracture. The radial nerve innervates the extensor muscles of the wrist (amongst other things), therefore damage to the radial nerve would result in a wrist drop.<br /><br /><b>Axillary nerve</b> is incorrect as it is located near the proximal humerus, so is less likely to be affected by a mid-shaft humeral fracture. Damage to the axillary nerve does cause loss of sensation over the 'sergeant patch' region of the shoulder, amongst other things.<br /><br /><b>'Radial nerve, inability to flex the 1st, 2nd and 3rd digits of the hand'</b> is incorrect as the clinical presentation does not match that damaged nerve. Inability to flex the 1st, 2nd and 3rd digits of the hand is the characteristic finding in 'the hand of benediction' which is seen in median nerve injuries.<br /><br /><b>Ulnar nerve, inability to extend the 4th and 5th digits of the hand</b> describes the 'ulnar claw'. Ulnar nerve damage is far less likely than radial nerve damage in the context of a mid-shaft humeral fracture, therefore this answer is incorrect.<br /><br /><b>Ulnar nerve, loss of sensation over the dorsum of the hand on the thumb and index finger</b> is incorrect as the clinical presentation does not match the damaged nerve. Loss of sensation on the dorsum of the hand over the thumb and index finger is a finding in radial nerve injury.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old woman is brought into the emergency department following a fall. Her left arm appears swollen and, upon further imaging, a displaced mid-shaft humeral fracture is diagnosed.<br /><br />What nerve is most likely to be damaged as a result of this fracture, and how would this present clinically?",
+        "correct_answer": "3",
+        "question_notes": "<b>Radial nerve, wrist drop</b> is the correct answer. The radial nerve runs in the radial groove of the mid-shaft of the humerus, therefore it is very vulnerable to damage in a mid-shaft humeral fracture. The radial nerve innervates the extensor muscles of the wrist (amongst other things), therefore damage to the radial nerve would result in a wrist drop.<br /><br /><b>Axillary nerve</b> is incorrect as it is located near the proximal humerus, so is less likely to be affected by a mid-shaft humeral fracture. Damage to the axillary nerve does cause loss of sensation over the 'sergeant patch' region of the shoulder, amongst other things.<br /><br /><b>'Radial nerve, inability to flex the 1st, 2nd and 3rd digits of the hand'</b> is incorrect as the clinical presentation does not match that damaged nerve. Inability to flex the 1st, 2nd and 3rd digits of the hand is the characteristic finding in 'the hand of benediction' which is seen in median nerve injuries.<br /><br /><b>Ulnar nerve, inability to extend the 4th and 5th digits of the hand</b> describes the 'ulnar claw'. Ulnar nerve damage is far less likely than radial nerve damage in the context of a mid-shaft humeral fracture, therefore this answer is incorrect.<br /><br /><b>Ulnar nerve, loss of sensation over the dorsum of the hand on the thumb and index finger</b> is incorrect as the clinical presentation does not match the damaged nerve. Loss of sensation on the dorsum of the hand over the thumb and index finger is a finding in radial nerve injury.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Radial nerve",
+        "body": "Continuation of posterior cord of the brachial plexus (root values C5 to T1)<br /><br />Path<br /><ul><li>In the axilla: lies posterior to the axillary artery on subscapularis, latissimus dorsi and teres major.</li><li>Enters the arm between the brachial artery and the long head of triceps (medial to humerus).</li><li>Spirals around the posterior surface of the humerus in the groove for the radial nerve.</li><li>At the distal third of the lateral border of the humerus it then pierces the intermuscular septum and descends in front of the lateral epicondyle. </li><li>At the lateral epicondyle it lies deeply between brachialis and brachioradialis where it then divides into a superficial and deep terminal branch.</li><li>Deep branch crosses the supinator to become the posterior interosseous nerve.</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb119b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>In the image above the relationships of the radial nerve can be appreciated</div><br /><h5 class='notes-heading'>Regions innervated</h5><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td>Motor (main nerve)</td><td><ul><li>Triceps</li><li>Anconeus</li><li>Brachioradialis</li><li>Extensor carpi radialis</td></tr><tr><td></li></ul>Motor (posterior interosseous branch)</td><td><ul><li>Supinator</li><li>Extensor carpi ulnaris</li><li>Extensor digitorum</li><li>Extensor indicis</li><li>Extensor digiti minimi</li><li>Extensor pollicis longus and brevis</li><li><span class=\"concept\" data-cid=\"6617\">Abductor pollicis longus</span></td></tr><tr><td></li></ul>Sensory</td><td>The area of skin supplying the proximal phalanges on the dorsal aspect of the hand is supplied by the radial nerve (this does not apply to the little finger and part of the ring finger)</td></tr></tbody></table></div> <br /><b>Muscular innervation and effect of denervation</b><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Anatomical location</b></th><th><b>Muscle affected</b></th><th><b>Effect of paralysis</b></th></tr></thead><tbody><tr><td>Shoulder</td><td>Long head of triceps</td><td>Minor effects on shoulder stability in abduction</td></tr><tr><td>Arm</td><td>Triceps</td><td>Loss of elbow extension</td></tr><tr><td>Forearm</td><td>Supinator<br />Brachioradialis<br />Extensor carpi radialis longus and brevis</td><td>Weakening of supination of prone hand and elbow flexion in mid prone position</td></tr></tbody></table></div><br />Patterns of damage<br /><ul><li><span class=\"concept\" data-cid=\"8226\">wrist drop</span></li><li>sensory loss to small area between the dorsal aspect of the 1st and 2nd metacarpals</li></ul><br />Axillary damage<br /><ul><li>as above</li><li>paralysis of triceps</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='http://en.wikipedia.org/wiki/Radial nerve'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb052b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>The cutaneous sensation of the upper limb- illustrating the contribution of the radial nerve</div>",
+        "notes_hash": "bee3faa383f9468dac170fa560c187a6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Wrist drop is clinical sign that may be found with a mid shaft humeral fracture",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "5642",
+        "up_votes": "16",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "848",
+            "433",
+            "3998",
+            "247",
+            "116",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3M6dzH1i-GI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3M6dzH1i-GI\" data-description=\"Radial Nerve - 3D Anatomy Tutorial\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"362\">Radial Nerve - 3D Anatomy Tutorial</a></td></tr><tr><td><span ><small>Anatomy Zone - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_612\" data-mediaid=\"612\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_612\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_612\" data-mediaid=\"612\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_612\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "8226": {
+                "concept_text": "Wrist drop is clinical sign that may be found with a mid shaft humeral fracture",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1524",
+        "new_question_id": "59772",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "5129",
+        "notes_id_link": "1_1004",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Start levothyroxine and monitor response",
+            "Order anti-thyroid peroxidase antibodies",
+            "Refer for pituitary MRI",
+            "Repeat thyroid function tests in 6 weeks",
+            "Request thyroid ultrasound",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old woman presents to her GP with fatigue and weight gain. She has no significant past medical history. On examination, her blood pressure is 104/68 mmHg and she appears pale. Laboratory results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>TSH</td><td>0.6 mU/L</td><td>(0.4 - 4.0)</td></tr><tr><td>Free T4</td><td>7 pmol/L</td><td>(10 - 22)</td></tr></tbody></table></div><br />What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Refer for pituitary MRI</b>: This is the correct answer because the combination of a low free T4 with a low-normal TSH suggests secondary hypothyroidism due to pituitary dysfunction, rather than primary thyroid disease. In primary hypothyroidism, TSH would be elevated as the pituitary attempts to stimulate a failing thyroid gland. Secondary hypothyroidism occurs when there is inadequate stimulation of the thyroid by TSH due to pituitary or hypothalamic disease; imaging of the pituitary region (MRI) is necessary to evaluate for possible lesions such as adenomas or infiltrative processes.<br /><br /><b>Start levothyroxine and monitor response</b>: While hormone replacement will eventually be required, it is crucial first to establish whether there is underlying pituitary pathology, as this may have other endocrine implications (e.g., adrenal insufficiency). Starting treatment without further investigation risks missing other hormone deficiencies that could be life-threatening if not addressed.<br /><br /><b>Order anti-thyroid peroxidase antibodies</b>: These are useful in diagnosing autoimmune primary hypothyroidism (Hashimoto\u2019s), but less relevant here since the pattern of TFTs does not support primary gland failure; antibody testing would not clarify a central cause.<br /><br /><b>Repeat thyroid function tests in 6 weeks</b>: This approach may delay diagnosis of an important underlying cause such as hypopituitarism or mass effect from a sellar lesion, risking further complications.<br /><br /><b>Request thyroid ultrasound</b>: Ultrasound evaluates structural abnormalities within the thyroid itself, which would be indicated if there was suspicion of goitre or nodules causing primary dysfunction\u2014not in cases where laboratory findings point toward central causes.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old woman presents to her GP with fatigue and weight gain. She has no significant past medical history. On examination, her blood pressure is 104/68 mmHg and she appears pale. Laboratory results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>TSH</td><td>0.6 mU/L</td><td>(0.4 - 4.0)</td></tr><tr><td>Free T4</td><td>7 pmol/L</td><td>(10 - 22)</td></tr></tbody></table></div><br />What is the most appropriate next step in management?",
+        "correct_answer": "3",
+        "question_notes": "<b>Refer for pituitary MRI</b>: This is the correct answer because the combination of a low free T4 with a low-normal TSH suggests secondary hypothyroidism due to pituitary dysfunction, rather than primary thyroid disease. In primary hypothyroidism, TSH would be elevated as the pituitary attempts to stimulate a failing thyroid gland. Secondary hypothyroidism occurs when there is inadequate stimulation of the thyroid by TSH due to pituitary or hypothalamic disease; imaging of the pituitary region (MRI) is necessary to evaluate for possible lesions such as adenomas or infiltrative processes.<br /><br /><b>Start levothyroxine and monitor response</b>: While hormone replacement will eventually be required, it is crucial first to establish whether there is underlying pituitary pathology, as this may have other endocrine implications (e.g., adrenal insufficiency). Starting treatment without further investigation risks missing other hormone deficiencies that could be life-threatening if not addressed.<br /><br /><b>Order anti-thyroid peroxidase antibodies</b>: These are useful in diagnosing autoimmune primary hypothyroidism (Hashimoto\u2019s), but less relevant here since the pattern of TFTs does not support primary gland failure; antibody testing would not clarify a central cause.<br /><br /><b>Repeat thyroid function tests in 6 weeks</b>: This approach may delay diagnosis of an important underlying cause such as hypopituitarism or mass effect from a sellar lesion, risking further complications.<br /><br /><b>Request thyroid ultrasound</b>: Ultrasound evaluates structural abnormalities within the thyroid itself, which would be indicated if there was suspicion of goitre or nodules causing primary dysfunction\u2014not in cases where laboratory findings point toward central causes.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hypothyroidism: causes",
+        "body": "Hypothyroidism affects around 1-2% of women in the UK and is around 5-10 times more common in females than males.<br /><br /><h5 class='notes-heading'>Primary hypothyroidism</h5><br />Hashimoto's thyroiditis <br /><ul><li>most common cause</li><li>autoimmune disease, associated with IDDM, Addison's or pernicious anaemia</li><li>may cause transient thyrotoxicosis in the acute phase</li><li>5-10 times more common in women</li></ul><br />Subacute thyroiditis (de Quervain's)<br /><br />Riedel thyroiditis<br /><br />After thyroidectomy or radioiodine treatment<br /><br />Drug therapy (e.g. lithium, amiodarone or anti-thyroid drugs such as carbimazole)<br /><br />Dietary iodine deficiency<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Venn diagram showing how different causes of thyroid dysfunction may manifest. Note how many causes of hypothyroidism may have an initial thyrotoxic phase.</div><br /><h5 class='notes-heading'>Secondary hypothyroidism (rare)</h5><br />From pituitary failure<br /><br />Other associated conditions<br /><ul><li>Down's syndrome</li><li>Turner's syndrome</li><li>coeliac disease</li></ul>",
+        "notes_hash": "287672d4cc9aa0d0a65b6e72232cdc43",
+        "knowledge_graph_node_id_link": 1050,
+        "concept": "Secondary hypothyroidism is caused by pituitary failure and needs imaging",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4116",
+        "up_votes": "13",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "1666",
+            "665",
+            "701",
+            "893",
+            "191",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wyanDtvx8K0\" data-description=\"Hypothyroidism and Hashimoto's Thyroiditis: Visual Explanation for Students\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"779\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wyanDtvx8K0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wyanDtvx8K0\" data-description=\"Hypothyroidism and Hashimoto's Thyroiditis: Visual Explanation for Students\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"779\">Hypothyroidism and Hashimoto's Thyroiditis: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1357\" data-mediaid=\"1357\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1357\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1357\" data-mediaid=\"1357\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1357\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DWq-VkghZ0M\" data-description=\"Thyroid disease\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"106\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/DWq-VkghZ0M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/DWq-VkghZ0M\" data-description=\"Thyroid disease\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"106\">Thyroid disease</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_186\" data-mediaid=\"186\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_186\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_186\" data-mediaid=\"186\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_186\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1721",
+        "new_question_id": "6140",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2002",
+        "theme": "Most appropriate first assessment of osteoporosis risk",
+        "instruction": "",
+        "options": [
+            "",
+            "Assess her using the FRAX tool",
+            "Check her calcium and phosphate levels",
+            "Assess her using the Birmingham Hip Score tool",
+            "Order an x-ray of her hips and lumbar spine",
+            "Arrange a dual-energy X-ray absorptiometry (DEXA) scan",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 70-year-old woman who has a strong family history of fragility fractures secondary to osteoporosis presents as she is concerned about her own risk. What is the most appropriate way to assess her risk?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Assess her using the FRAX tool</b> is correct because NICE guidance on osteoporosis (NG56) recommends a validated fracture-risk calculator such as FRAX or QFracture as the initial step for the majority of patients, including all women aged 65 years and over. FRAX incorporates age, sex, weight, height, smoking, alcohol, family history and other clinical risk factors to generate a 10-year probability of major osteoporotic and hip fracture, thereby guiding whether further imaging (DEXA) or immediate treatment is necessary. Starting with FRAX avoids unnecessary radiation, cost and clinic visits, yet still identifies those at highest risk who will benefit from bone-protective therapy or bone-density measurement.<br /><br /><b>Check her calcium and phosphate levels</b> is useful when considering secondary causes of osteoporosis, but these biochemistry tests do not quantify fracture risk. A normal calcium/phosphate result can falsely reassure and will not influence treatment decisions unless a metabolic bone disorder is uncovered. They are therefore adjunctive rather than primary risk assessment tools in an otherwise well individual.<br /><br /><b>Assess her using the Birmingham Hip Score tool</b> would be inappropriate. This score was developed to evaluate patient-reported pain and function after hip arthroplasty; it has no role in predicting future fragility fractures and omits systemic risk factors entirely. Employing it here would provide no meaningful information about osteoporosis.<br /><br /><b>Order an x-ray of her hips and lumbar spine</b> might reveal established fractures or severe osteopenia, but plain radiography is insensitive for early bone-loss, involves radiation and, crucially, cannot calculate future fracture probability. NICE discourages routine screening x-rays for osteoporosis risk assessment in asymptomatic individuals.<br /><br /><b>Arrange a dual-energy X-ray absorptiometry (DEXA) scan</b> is a tempting choice because DEXA is the gold standard for measuring bone mineral density. However, guidance recommends reserving DEXA for patients whose FRAX result sits near or above the intervention threshold, or those with specific high-risk features. Jumping straight to DEXA risks over-investigation; beginning with FRAX is the evidence-based, resource-efficient pathway.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 70-year-old woman who has a strong family history of fragility fractures secondary to osteoporosis presents as she is concerned about her own risk. What is the most appropriate way to assess her risk?",
+        "correct_answer": "1",
+        "question_notes": "<b>Assess her using the FRAX tool</b> is correct because NICE guidance on osteoporosis (NG56) recommends a validated fracture-risk calculator such as FRAX or QFracture as the initial step for the majority of patients, including all women aged 65 years and over. FRAX incorporates age, sex, weight, height, smoking, alcohol, family history and other clinical risk factors to generate a 10-year probability of major osteoporotic and hip fracture, thereby guiding whether further imaging (DEXA) or immediate treatment is necessary. Starting with FRAX avoids unnecessary radiation, cost and clinic visits, yet still identifies those at highest risk who will benefit from bone-protective therapy or bone-density measurement.<br /><br /><b>Check her calcium and phosphate levels</b> is useful when considering secondary causes of osteoporosis, but these biochemistry tests do not quantify fracture risk. A normal calcium/phosphate result can falsely reassure and will not influence treatment decisions unless a metabolic bone disorder is uncovered. They are therefore adjunctive rather than primary risk assessment tools in an otherwise well individual.<br /><br /><b>Assess her using the Birmingham Hip Score tool</b> would be inappropriate. This score was developed to evaluate patient-reported pain and function after hip arthroplasty; it has no role in predicting future fragility fractures and omits systemic risk factors entirely. Employing it here would provide no meaningful information about osteoporosis.<br /><br /><b>Order an x-ray of her hips and lumbar spine</b> might reveal established fractures or severe osteopenia, but plain radiography is insensitive for early bone-loss, involves radiation and, crucially, cannot calculate future fracture probability. NICE discourages routine screening x-rays for osteoporosis risk assessment in asymptomatic individuals.<br /><br /><b>Arrange a dual-energy X-ray absorptiometry (DEXA) scan</b> is a tempting choice because DEXA is the gold standard for measuring bone mineral density. However, guidance recommends reserving DEXA for patients whose FRAX result sits near or above the intervention threshold, or those with specific high-risk features. Jumping straight to DEXA risks over-investigation; beginning with FRAX is the evidence-based, resource-efficient pathway.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Osteoporosis: assessing risk",
+        "body": "We worry about osteoporosis because of the increased risk of fragility fractures. So how do we assess which patients are at risk and need further investigation?<br /><br />NICE produced guidelines in 2012: Osteoporosis: assessing the risk of fragility fracture. The following is based on those guidelines.<br /><br />They advise that all women aged >= 65 years and all men aged >= 75 years should be assessed. Younger patients should be assessed in the presence of risk factors, such as:<br /><ul><li>previous fragility fracture</li><li>current use or frequent recent use of oral or systemic glucocorticoid</li><li>history of falls</li><li>family history of hip fracture</li><li>other causes of secondary osteoporosis, for example:<ul><li>hypogonadism in either sex including low testosterone in men and premature menopause in women</li><li>endocrine conditions, including diabetes mellitus, Cushing's disease, hyperthyroidism</li><li>conditions associated with malabsorption, including inflammatory bowel disease, coeliac disease, and chronic pancreatitis.</li><li>rheumatoid arthritis and other inflammatory arthropathies.</li></ul></li><li>low body mass index (BMI) (less than 18.5 kg/m\u00b2)</li><li>smoking</li><li>alcohol intake of more than 14 units per week for women and more than 14 units per week for men.</li></ul><br /><br /><h5 class='notes-heading'>Methods of risk assessment</h5><br />The first step is to <span class=\"concept\" data-cid=\"12223\">exclude secondary causes</span> of osteoporosis as underlying conditions may also require treatment. Examples of secondary causes are listed above.<br /><br />If a patient has had a recent fragility fracture, non-osteoporotic causes should be looked for, for example, bone metastases, myeloma and Paget's disease.<br /><br />A DEXA scan should be offered without calculating the fragilty risk score in the following situations:<br /><ul><li><span class=\"concept\" data-cid=\"12225\">> 50 years of age with a history of fragility fracture</span></li><li>< 40 years of age who have a major risk factor for fragility fracture - these patients should be referred to a specialist depending on the T-score</li><li>before starting treatments that may have a rapid adverse effect on bone density (for example, sex hormone deprivation for treatment for breast or prostate cancer)</li></ul><br /><h6 class='notes-subheading'>Fragility fracture risk score</h6><br />NICE recommends using a clinical prediction tool such as <span class=\"concept\" data-cid=\"12224\">FRAX or QFracture</span> to assess a patient's 10-year risk of developing a fracture. These take into account a number of factors, including the risk factors listed above. This is analogous to the cardiovascular risk tools such as QRISK.<br /><br /><h5 class='notes-heading'>Interpreting the results of FRAX</h5><br />It is important to note though that there is a lot of room for pragmatism and clinical judgement in these guidelines. This reflects the approximate nature of risk scoring and multiple factors that determine fracture risk. <br /><br />QFracture<br /><ul><li><span class=\"concept\" data-cid=\"12226\">if the 10-year fracture risk is \u2265 10% then a DEXA scan should be arranged</span></li></ul><br />FRAX<br /><ul><li>a colour 'risk' is given by the calculator - green, orange or red</li><li>patients in the orange zone should have a DEXA scan if not already done to further refine their 10-year risk</li><li>patients in the red zone should also have a DEXA scan if not already done to act as a baseline and guide drug treatment</li></ul><br /><h5 class='notes-heading'>When should we reassess a patient's risk?</h5><br />NICE recommend that we recalculate a patient's risk (i.e. repeat the FRAX/QFracture):<br /><div class='bs-callout bs-callout-default'><i><i><br /><ul><li>if the original calculated risk was in the region of the intervention threshold for a proposed treatment and only after a minimum of 2 years, or</li><li>when there has been a change in the person's risk factors</li></ul></i></i></div>",
+        "notes_hash": "b3a31bde9471f572ad41c4cd9c5c228c",
+        "knowledge_graph_node_id_link": 10843,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "2486",
+        "up_votes": "0",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "1814",
+            "18",
+            "3",
+            "6",
+            "645",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_103\" data-linkid=\"103\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_103\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_103\" data-linkid=\"103\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_103\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG146/chapter/1-Guidance\">2012 Osteoporosis: assessing the risk of fragility fracture</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_607\" data-linkid=\"607\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_607\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_607\" data-linkid=\"607\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_607\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/16/Suppl_6/s121\">2012 Recent advances in the risk assessment and treatment of osteoporosis</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4564_B_47",
+        "new_question_id": "15341",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "3691",
+        "notes_id_link": "1_2394",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Stork mark",
+            "Strawberry naevus",
+            "Mongolian blue spot",
+            "Melanocytic naevi",
+            "Port wine stain",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are performing a 6-week-check on an infant with a large birthmark that is purplish in colour. His mother was told this would probably not resolve by itself and could be associated with other vascular problems.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer here is port wine stain. These typically occur on the face as a purplish/red macule with irregular contours. They can be associated with intracranial vascular abnormalities like Sturge-Weber-Syndrome. They do not spontaneously resolve and can become darker or lumpy in later life. Treatment is with cosmetics or laser therapy.<br /><br />Strawberry naevus or capillary haemangioma appear as a small red patch which develops in the first month of life, increasing in size until around 9 months and becoming more vascular. They are not present at birth and regress spontaneously. <br /><br />Salmon patches or stork marks are pink telangiectatic macules present at birth and commonly found on the forehead or back of neck. They do not require treatment and often self-resolve. They are not associated with underlying conditions.<br /><br />Mongolian blue spots are areas of bluish discolouration over the lower back and buttock which often disappear by 1 year of age. They should be documented and highlighted to parents as they can be mistake for bruising. <br /><br />Melanocytic naevi are raised brown/black nodules which can be hairy and up to 20cm in diameter. There is a risk of developing melanomas from these and so they should be closely monitored.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are performing a 6-week-check on an infant with a large birthmark that is purplish in colour. His mother was told this would probably not resolve by itself and could be associated with other vascular problems.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer here is port wine stain. These typically occur on the face as a purplish/red macule with irregular contours. They can be associated with intracranial vascular abnormalities like Sturge-Weber-Syndrome. They do not spontaneously resolve and can become darker or lumpy in later life. Treatment is with cosmetics or laser therapy.<br /><br />Strawberry naevus or capillary haemangioma appear as a small red patch which develops in the first month of life, increasing in size until around 9 months and becoming more vascular. They are not present at birth and regress spontaneously. <br /><br />Salmon patches or stork marks are pink telangiectatic macules present at birth and commonly found on the forehead or back of neck. They do not require treatment and often self-resolve. They are not associated with underlying conditions.<br /><br />Mongolian blue spots are areas of bluish discolouration over the lower back and buttock which often disappear by 1 year of age. They should be documented and highlighted to parents as they can be mistake for bruising. <br /><br />Melanocytic naevi are raised brown/black nodules which can be hairy and up to 20cm in diameter. There is a risk of developing melanomas from these and so they should be closely monitored.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Port wine stains",
+        "body": "Port wine stains are vascular birthmarks that tend to be unilateral.  They are deep red or purple in colour.  Unlike other vascular birthmarks such as salmon patches and strawberry haemangiomas, they do not spontaneously resolve, and in fact often darken and become raised over time.  Treatment is with cosmetic camouflage or laser therapy (multiple sessions are required).",
+        "notes_hash": "54a96a60be00ca3a4414045af64492fd",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Port wine stains are a vascular birthmark that do not spontaneoulsy resolve",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "6244",
+        "up_votes": "27",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "238",
+            "939",
+            "1199",
+            "429",
+            "3439",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_244\" data-linkid=\"244\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_244\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_244\" data-linkid=\"244\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_244\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/capillary-vascular-malformation/\">Capillary vascular malformation</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21291_B_62",
+        "new_question_id": "34251",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4061",
+        "notes_id_link": "1_1388",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Admit and arrange a CT head",
+            "Give aspirin immediately",
+            "Reassure and manage as an outpatient",
+            "Thrombectomy",
+            "Thrombolysis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old man presents to the Emergency Department having had a 4 hour incident of right facial weakness with forehead sparing. <br /><br />His medical history includes polymyalgia rheumatica and haemophilia B. The only regular medication he takes is low dose prednisolone. He has smoked 20 cigarettes a day for the past 20 years.<br /><br />On examination, he no longer has any neurological signs or symptoms, which he states resolved 20 minutes ago.<br /><br />What is the most appropriate initial management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This history is suspicious of a transient ischaemic attack (TIA) given the acute onset of stroke-like non-permanent neurological symptoms. His age being greater than 55, his bleeding disorder, his sex, and his smoking history are all risk factors for a TIA. The past medical history of polymyalgia rheumatica and its management of low dose prednisolone are distractors, will not cause his symptoms, and should not change the likely diagnosis of TIA or the management plan.<br /><br /><b>Admit and arrange a CT head.</b> This patient has a history of haemophilia B, which greatly increases his risk of a haemorrhagic causes of stroke-like neurological deficit (as indicated by the forehead sparing, an upper motor neuron sign). This would also be done if the patient were on an anticoagulant such as apixaban. <br /><br /><b>Give aspirin immediately.</b> 300mg of aspirin is the management of a TIA in a patient who is neither on anticoagulants nor has a bleeding disorder. As this patient has haemophilia B, it is vital to rule out a haemorrhagic cause, because aspirin will only worsen the bleeding due to its antiplatelet properties.<br /><br /><b>Reassure and manage as an outpatient.</b> This is the wrong management for both haemorrhagic and ischaemic causes of TIA, either of which is possible in this man's case (hence needing a CT head for differentiation).<br /><br /><b>Thrombectomy.</b> This is the management of ischaemic stroke presenting within 6 hours of symptom onset (or generally within 24 hours if there is imaging evidence of salvageable, viable brain tissue). This man is at high risk of a haemorrhagic stroke, however, so imaging is needed to rule a bleed out.<br /><br /><b>Thrombolysis.</b> This is the management of an ischaemic stroke presenting within 4.5 hours of symptom onset. Again, a haemorrhagic stroke in this man must be ruled out with imaging.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old man presents to the Emergency Department having had a 4 hour incident of right facial weakness with forehead sparing. <br /><br />His medical history includes polymyalgia rheumatica and haemophilia B. The only regular medication he takes is low dose prednisolone. He has smoked 20 cigarettes a day for the past 20 years.<br /><br />On examination, he no longer has any neurological signs or symptoms, which he states resolved 20 minutes ago.<br /><br />What is the most appropriate initial management?",
+        "correct_answer": "1",
+        "question_notes": "This history is suspicious of a transient ischaemic attack (TIA) given the acute onset of stroke-like non-permanent neurological symptoms. His age being greater than 55, his bleeding disorder, his sex, and his smoking history are all risk factors for a TIA. The past medical history of polymyalgia rheumatica and its management of low dose prednisolone are distractors, will not cause his symptoms, and should not change the likely diagnosis of TIA or the management plan.<br /><br /><b>Admit and arrange a CT head.</b> This patient has a history of haemophilia B, which greatly increases his risk of a haemorrhagic causes of stroke-like neurological deficit (as indicated by the forehead sparing, an upper motor neuron sign). This would also be done if the patient were on an anticoagulant such as apixaban. <br /><br /><b>Give aspirin immediately.</b> 300mg of aspirin is the management of a TIA in a patient who is neither on anticoagulants nor has a bleeding disorder. As this patient has haemophilia B, it is vital to rule out a haemorrhagic cause, because aspirin will only worsen the bleeding due to its antiplatelet properties.<br /><br /><b>Reassure and manage as an outpatient.</b> This is the wrong management for both haemorrhagic and ischaemic causes of TIA, either of which is possible in this man's case (hence needing a CT head for differentiation).<br /><br /><b>Thrombectomy.</b> This is the management of ischaemic stroke presenting within 6 hours of symptom onset (or generally within 24 hours if there is imaging evidence of salvageable, viable brain tissue). This man is at high risk of a haemorrhagic stroke, however, so imaging is needed to rule a bleed out.<br /><br /><b>Thrombolysis.</b> This is the management of an ischaemic stroke presenting within 4.5 hours of symptom onset. Again, a haemorrhagic stroke in this man must be ruled out with imaging.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Transient ischaemic attack",
+        "body": "A transient ischaemic attack (TIA), as the name suggests, is a brief period of neurological deficit due to a vascular cause, typically lasting less than an hour. The National Clinical Guideline for Stroke was published in 2023 and made a number of updated recommendations, including the use of dual antiplatelet therapy (DAPT). It should be noted that DAPT is not currently recommended for 'major' ischaemic stroke as the risk of haemorrhagic transformation is too high.<br /><br />The original definition of a TIA was time-based: a sudden onset of a focal neurologic symptom and/or sign lasting less than 24 hours, brought on by a transient decrease in blood flow. However, this has now changed as it is recognised that even short periods of ischaemia can result in pathological changes to the brain. Therefore, a new '<b>tissue-based'</b> definition is now used: <span class=\"concept\" data-cid=\"9800\">a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischaemia, without acute infarction.</span> <a href='https://radiopaedia.org/articles/transient-ischaemic-attack?lang=gb#:~:text=without%20acute%20infarction.-,Terminology,-In%20the%20past' title='Radiopaedia - Transient ischaemic attack' target='_blank' class='badge rounded-pill text-bg-light deeplink'>REF</a> <br /><br />Patients often use the term 'mini-stroke' for TIAs.<br /><br /><h5 class='notes-heading'>Clinical features</h5><br />The clinical features are similar to those of a stroke, i.e. sudden onset, focal neurological deficit but, rather than persisting, the features resolve, typically within 1 hour.<br /><br />Possible features include<br /><ul><li>unilateral weakness or sensory loss.</li><li>aphasia or dysarthria</li><li>ataxia, vertigo, or loss of balance</li><li>visual problems<ul><li>sudden transient loss of vision in one eye (amaurosis fugax)</li><li>diplopia</li><li>homonymous hemianopia</li></ul></li></ul><br /><h5 class='notes-heading'>Assessment and referral</h5><br />Patients with acute focal neurological symptoms that resolve completely within 24 hours of onset (i.e. suspected TIA) should:  <br /><ul><li>be given <span class=\"concept\" data-cid=\"12219\">aspirin 300 mg</span> immediately unless contraindicated </li><li>assessed urgently within 24 hours by a stroke specialist clinician</li></ul><br />Examples of TIA mimics that require exclusion<br /><ul><li><span class=\"concept\" data-cid=\"3993\">hypoglycaemia</span></li><li>intracranial haemorrhage<ul><li>all <span class=\"concept\" data-cid=\"4061\">patients on anticoagulants or with similar risk factors should be admitted for urgent imaging to exclude haemorrhage</span></li></ul></li></ul><br />If a patient presents more than 7 days ago they should be seen by a stroke specialist clinician as soon as possible within 7 days.<br /><br />The <span class=\"concept\" data-cid=\"1684\">ABCD2 prognostic score</span> has previously been used to risk stratify patients who present with a suspected TIA. However, data from studies have suggested it performs poorly and it is therefore no longer recommended.<br /><br />Patients with suspected TIA should be assessed by a stroke specialist clinician before a decision on brain imaging  <a href='https://www.nice.org.uk/guidance/ng128/chapter/Recommendations#imaging-for-people-who-have-had-a-suspected-tia-or-acute-non-disabling-stroke' title='NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>NICE recommend that CT brains should not be done '<i>unless there is clinical suspicion of an alternative diagnosis that CT could detect</i>'<ul><li>an example exception would be when there is a concern about haemorrhage as the patient is taking anticoagulants</li></ul></li><li><span class=\"concept\" data-cid=\"3417\">MRI (including diffusion-weighted and blood-sensitive sequences)</span> is preferred to determine the territory of ischaemia, or to detect haemorrhage or alternative pathologies<ul><li>it should be done on the same day as the specialist assessment if possible</li></ul></li></ul><br /><h5 class='notes-heading'>Management of TIA</h5><br />It should be remembered that patients who've had a TIA are at high risk of further vascular events, particularly in the first few days. This section covers management following a diagnosis, i.e. after being seen by a stroke specialist clinician.<br /><br /><h6 class='notes-subheading'>Medication</h6><br />Immediate antithrombotic therapy: <a href='https://www.strokeguideline.org/chapter/acute-care/?</td><td>gl=1*blvbdc*</td><td>up*MQ..*</td><td>ga*NDIwODM5NTIwLjE3MTQ3MzkxOTE.*</td><td>ga</td><td>EE3BZMVLRT*MTcxNDczOTE5MC4xLjEuMTcxNDczOTM0OC4wLjAuMA..#161:~:text=B-,Patients%20with%20TIA%20or%20minor%20ischaemic%20stroke,-should%20be%20given' title='National Clinical Guideline for Stroke - 2023 National Clinical Guideline for Stroke' target='_blank' class='badge rounded-pill text-bg-light deeplink'>REF</a><ul><li>patients with TIA or minor ischaemic stroke should be given antiplatelet therapy provided there is neither a contraindication nor a high risk of bleeding</li><li>for <span class=\"concept\" data-cid=\"12217\">patients within 24 hours of onset of TIA or minor ischaemic stroke and with a low risk of bleeding, the following DAPT regimes</span> should be considered:<ul><li>clopidogrel (initial dose 300 mg followed by 75 mg od) + aspirin (initial dose 300 mg followed by 75 mg od for 21 days) followed by <span class=\"concept\" data-cid=\"279\">monotherapy with clopidogrel 75 mg od</span></li><li>ticagrelor + clopidogrel is an alternative</li></ul></li><li><span class=\"concept\" data-cid=\"12218\">if not appropriate for DAPT</span>:<ul><li>clopidogrel 300 mg loading dose followed by 75 mg od should be given</li></ul></li><li>proton pump inhibitor therapy should be considered for DAPT</li></ul><br />The different antithrombotic recommendations may seem confusing - it is helpful to think of 3 different phases for a typical patient:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Resolved TIA symptoms, awaiting specialist review within 24 hours</th><th>Reviewed by specialist, initial 21 days when at high risk of further events</th><th>Long-term secondary prevention after 21 days</th></tr></thead><tbody><tr><td>Aspirin</td><td>Aspirin + Clopidogrel</td><td>Clopidogrel</td></tr></tbody></table></div><br />If a patient has atrial fibrillation they should be anticoagulated as soon as intracranial haemorrhage has been excluded.<br /><br />Lipid modification<br /><ul><li>high-intensity statin (such as atorvastatin 20-80 mg daily) - the aim of statin therapy is to reduce non-HDL cholesterol by more than 40%</li></ul></li></ul><br /><h6 class='notes-subheading'>Further investigation</h6><br />Carotid imaging<br /><ul><li><span class=\"concept\" data-cid=\"11529\">atherosclerosis in the carotid artery</span> may be a source of emboli in some patients</li><li>patients who are considered candidates for carotid intervention should have carotid imaging performed within 24 hours of assessment<ul><li><span class=\"concept\" data-cid=\"11530\">carotid duplex ultrasound</span> or either CT angiography or MR angiography</li></ul></li><li>carotid endarterectomy is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled <a href='https://www.nice.org.uk/guidance/ng128/chapter/Recommendations#imaging-for-people-who-have-had-a-suspected-tia-or-acute-non-disabling-stroke:~:text=Urgent%20carotid%20endarterectomy' title='NICE - 2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>should only be considered if the <span class=\"concept\" data-cid=\"2583\">stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET)</span> criteria</li></ul></li></ul>  + it should be noted that previous guidelines have used other reporting methods, that have resulted in different cut-offs, e.g. European Carotid Surgery Trial (ECST) with a cut-off of 70%<br /><ul><li>it should be performed as soon as possible within 7 days</li></ul></li></ul>",
+        "notes_hash": "62cab92ff218121aa4fc701cc5361a4a",
+        "knowledge_graph_node_id_link": 1087,
+        "concept": "If a patient is on warfarin/a DOAC/ or has a bleeding disorder and they are suspected of having a TIA, they should be admitted immediately for imaging to exclude a haemorrhage",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "6045",
+        "up_votes": "29",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "3981",
+            "1550",
+            "473",
+            "20",
+            "21",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>RCP</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1176\" data-linkid=\"1176\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1176\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_1176\" data-linkid=\"1176\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1176\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">25</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeaudit.org/SupportFiles/Documents/Guidelines/2016-National-Clinical-Guideline-for-Stroke-5t-(1).aspx\">2016 Stroke guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>National Clinical Guideline for Stroke</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2117\" data-linkid=\"2117\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2117\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2117\" data-linkid=\"2117\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2117\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeguideline.org/contents/\">2023 National Clinical Guideline for Stroke</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1507\" data-linkid=\"1507\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1507\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1507\" data-linkid=\"1507\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1507\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng128/chapter/Recommendations\">2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2096\" data-linkid=\"2096\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2096\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2096\" data-linkid=\"2096\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2096\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/transient-ischaemic-attack?lang=gb\">Transient ischaemic attack</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bRYzHVfxwL0\" data-description=\"Understanding Carotid Artery Stenosis\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"1300\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/bRYzHVfxwL0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bRYzHVfxwL0\" data-description=\"Understanding Carotid Artery Stenosis\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"1300\">Understanding Carotid Artery Stenosis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2300\" data-mediaid=\"2300\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2300\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2300\" data-mediaid=\"2300\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2300\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "279": {
+                "concept_text": "Antiplatelets\n   - TIA: clopidogrel\n   - ischaemic stroke: clopidogrel",
+                "concept_percentile": "92"
+            },
+            "3993": {
+                "concept_text": "Hypoglycaemia can lead to focal neurological symptoms and needs to be ruled out as a mimic of TIA",
+                "concept_percentile": "94"
+            },
+            "4061": {
+                "concept_text": "If a patient is on warfarin/a DOAC/ or has a bleeding disorder and they are suspected of having a TIA, they should be admitted immediately for imaging to exclude a haemorrhage",
+                "concept_percentile": "82"
+            },
+            "9800": {
+                "concept_text": "The definition of a TIA is now tissue-based, not time-based: a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischaemia, without acute infarction\n",
+                "concept_percentile": "81"
+            },
+            "11530": {
+                "concept_text": "All TIA patients should have an urgent carotid doppler unless they are not a candidate for carotid endarterectomy ",
+                "concept_percentile": "64"
+            },
+            "12217": {
+                "concept_text": "Patients with a TIA or minor ischaemic stroke who present within 24 hours, and with a low risk of bleeding, should be given DAPT (e.g. clopidogrel + aspirin)",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "505_B_10",
+        "new_question_id": "2302",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1316",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reassurance",
+            "Amoxicillin",
+            "Topical antibiotic drops",
+            "Oral antibiotic and topical antibiotic drops",
+            "Referral for hearing test",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 5-year-old girl presents with her mother and complains of left-sided otalgia and reduced hearing over the past 8 weeks. Her teacher reports she is struggling compared to the other children. On examination, she has a temperature of 36.7\u00baC and the canal appears normal. The tympanic membrane is retracted. <br /><br />What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This child has otitis media with effusion (glue ear). Following the revised NICE guidelines in 2011, children should be observed for 6-12 weeks as symptoms are normally self-limiting and referral should be reserved if symptoms persist beyond this period. <br /><br />However, referral should be earlier if: <br /><ul><li>Symptoms are significantly affecting hearing, development or education</li><li>Immediate referral in children with Downs syndrome or cleft palate</li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 5-year-old girl presents with her mother and complains of left-sided otalgia and reduced hearing over the past 8 weeks. Her teacher reports she is struggling compared to the other children. On examination, she has a temperature of 36.7\u00baC and the canal appears normal. The tympanic membrane is retracted. <br /><br />What is the most appropriate next step?",
+        "correct_answer": "5",
+        "question_notes": "This child has otitis media with effusion (glue ear). Following the revised NICE guidelines in 2011, children should be observed for 6-12 weeks as symptoms are normally self-limiting and referral should be reserved if symptoms persist beyond this period. <br /><br />However, referral should be earlier if: <br /><ul><li>Symptoms are significantly affecting hearing, development or education</li><li>Immediate referral in children with Downs syndrome or cleft palate</li></ul>",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Glue ear",
+        "body": "Glue ear describes otitis media with an effusion (other terms include serous otitis media). It is common with the majority of children having at least one episode during childhood<br /><br />Risk factors<br /><ul><li>male sex</li><li>siblings with glue ear</li><li>higher incidence in Winter and Spring</li><li>bottle feeding</li><li>day care attendance</li><li>parental smoking</li></ul><br />Features<br /><ul><li>peaks at 2 years of age</li><li>hearing loss is usually the presenting feature (glue ear is the commonest cause of conductive hearing loss and elective surgery in childhood)</li><li>secondary problems such as speech and language delay, behavioural or balance problems may also be seen</li></ul><br />Treatment options include:<br /><ul><li>active observation: the management for a child with a first presentation of otitis media with effusion is active observation for 3 months - no intervention is required</li><li>grommet insertion - to allow air to pass through into the middle ear and hence do the job normally done by the Eustachian tube. The majority stop functioning after about 10 months</li><li>adenoidectomy</li></ul>",
+        "notes_hash": "6f7594570156855488ff90ecc27df5cb",
+        "knowledge_graph_node_id_link": 1189,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6472",
+        "up_votes": "32",
+        "down_votes": "31",
+        "column_array": [
+            0,
+            "927",
+            "936",
+            "496",
+            "376",
+            "3737",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_992",
+        "new_question_id": "32892",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "4508",
+        "notes_id_link": "1_1229",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "10mg",
+            "15mg",
+            "20mg",
+            "30mg",
+            "60mg",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old man with terminal lung cancer is reviewed by the palliative care team to assess his needs with regards to analgesia. He currently takes 30mg of slow-release morphine twice daily. Although this adequately controls his pain levels, he is increasingly finding it difficult to swallow both tablet and liquid forms of the medication. As such, the palliative team recommend that he switches to subcutaneous morphine.<br /><br />What dose should he take daily?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient takes a total of 60mg of oral morphine throughout the day. Given that this controls his pain, the dose does not need to be increased. To switch from oral to subcutaneous morphine, the total dose should be divided by two. As such, he should be given a total of 60 / 2 = <b>30mg</b> of subcutaneous morphine daily.<br /><br />The other options are therefore incorrect.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old man with terminal lung cancer is reviewed by the palliative care team to assess his needs with regards to analgesia. He currently takes 30mg of slow-release morphine twice daily. Although this adequately controls his pain levels, he is increasingly finding it difficult to swallow both tablet and liquid forms of the medication. As such, the palliative team recommend that he switches to subcutaneous morphine.<br /><br />What dose should he take daily?",
+        "correct_answer": "4",
+        "question_notes": "This patient takes a total of 60mg of oral morphine throughout the day. Given that this controls his pain, the dose does not need to be increased. To switch from oral to subcutaneous morphine, the total dose should be divided by two. As such, he should be given a total of 60 / 2 = <b>30mg</b> of subcutaneous morphine daily.<br /><br />The other options are therefore incorrect.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Palliative care prescribing: pain",
+        "body": "<h5 class='notes-heading'>NICE guidelines</h5><br />In 2012 NICE published guidelines on the use of opioids in palliative care. Selected points are listed below. Please see the link for more details.<br /><br />Starting treatment<br /><ul><li>when starting treatment, offer patients with advanced and progressive disease regular oral modified-release (MR) or oral immediate-release morphine (depending on patient preference), with oral immediate-release morphine for breakthrough pain</li><li>if no comorbidities use 20-30mg of MR a day with 5mg morphine for breakthrough pain. For example, 15mg modified-release morphine tablets twice a day with 5mg of oral morphine solution as required</li><li>oral modified-release morphine should be used in preference to transdermal patches</li><li>laxatives should be prescribed for all patients initiating strong opioids</li><li>patients should be advised that nausea is often transient. If it persists then an antiemetic should be offered</li><li>drowsiness is usually transient - if it does not settle then adjustment of the dose should be considered</li></ul><br /><h5 class='notes-heading'>SIGN guidelines</h5><br />SIGN issued guidance on the control of pain in adults with cancer in 2008. Selected points<br /><ul><li>the breakthrough dose of morphine is <span class=\"concept\" data-cid=\"232\">one-sixth</span> the daily dose of morphine</li><li>all patients who receive opioids should be prescribed a laxative</li><li>opioids should be used with caution in patients with chronic kidney disease<ul><li><span class=\"concept\" data-cid=\"1456\">oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment</span> </li><li>if renal impairment is more severe, alfentanil, <span class=\"concept\" data-cid=\"10059\">buprenorphine and fentanyl</span> are preferred</li></ul></li><li><span class=\"concept\" data-cid=\"233\">metastatic bone pain</span> may respond to strong opioids, bisphosphonates or radiotherapy. The assertion that NSAIDs are particularly effective for metastatic bone pain is not supported by studies. Strong opioids have the lowest number needed to treat for relieving the pain and can provide quick relief, in contrast to radiotherapy and bisphosphonates*. All patients, however, should be considered for referral to a clinical oncologist for consideration of further treatments such as radiotherapy</li></ul><br /><h5 class='notes-heading'>Other points</h5><br />When increasing the dose of opioids the next dose should be increased by <span class=\"concept\" data-cid=\"236\">30-50%</span>.<br /><br />In addition to strong opioids, bisphosphonates and radiotherapy, <span class=\"concept\" data-cid=\"4579\">denosumab</span> may be used to treat metastatic bone pain.<br /><br /><h5 class='notes-heading'>Opioid side-effects</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Usually transient</b></th><th><b>Usually persistent</b></th></tr></thead><tbody><tr><td>Nausea<br /><span class=\"concept\" data-cid=\"9215\">Drowsiness</span></td><td><span class=\"concept\" data-cid=\"9212\">Constipation</span></td></tr></tbody></table></div><br /><h5 class='notes-heading'>Conversion between opioids</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral codeine</td><td>Oral morphine</td><td><span class=\"concept\" data-cid=\"235\">Divide by 10</span></td></tr><tr><td>Oral tramadol</td><td>Oral morphine</td><td><span class=\"concept\" data-cid=\"234\">Divide by 10</span>**</td></tr></tbody></table></div><br />Oxycodone generally causes less sedation, vomiting and pruritis than morphine but more constipation.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral morphine</td><td>Oral oxycodone</td><td>Divide by 1.5-2***</td></tr></tbody></table></div><br />The current BNF gives the following conversion factors for transdermal perparations<br /><ul><li>a transdermal fentanyl 12 microgram patch equates to approximately 30 mg oral morphine daily</li><li>a transdermal buprenorphine 10 microgram patch equates to approximately 24 mg oral morphine daily.</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid4\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral morphine</td><td>Subcutaneous morphine</td><td><span class=\"concept\" data-cid=\"4508\">Divide by 2</span></td></tr><tr><td>Oral morphine</td><td>Subcutaneous diamorphine</td><td>Divide by 3</td></tr><tr><td>Oral oxycodone</td><td>Subcutaneous diamorphine</td><td>Divide by 1.5</td></tr></tbody></table></div><br />*BMJ 2015;350:h315 Cancer induced bone pain<br /><br />**this has previously been stated as 5 but the current version of the BNF states a conversion of 10<br /><br />***historically a conversion factor of 2 has been used (i.e. oral oxycodone is twice as strong as oral morphine). The current BNF however uses a conversion rate of 1.5",
+        "notes_hash": "8e823079a3d7f96115e5674c9f9f3306",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Divide by two for oral to subcutaneous morphine conversion ",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "6766",
+        "up_votes": "38",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "592",
+            "567",
+            "248",
+            "4962",
+            "397",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_627\" data-linkid=\"627\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_627\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">40</span><button type=\"button\" style=\"\" id=\"link_dislike_627\" data-linkid=\"627\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_627\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">30</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/guidance/prescribing-in-palliative-care.html\">Prescribing opioids in palliative care</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_678\" data-linkid=\"678\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_678\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">39</span><button type=\"button\" style=\"\" id=\"link_dislike_678\" data-linkid=\"678\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_678\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg140/chapter/1-recommendations\">2012 Opioids in palliative care guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH5UxisYm9I\" data-description=\"Understanding The Causes of Pain and Pain Management\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1327\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/MH5UxisYm9I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH5UxisYm9I\" data-description=\"Understanding The Causes of Pain and Pain Management\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1327\">Understanding The Causes of Pain and Pain Management</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2346\" data-mediaid=\"2346\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2346\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2346\" data-mediaid=\"2346\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2346\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "232": {
+                "concept_text": "Breakthrough dose = 1/6th of daily morphine dose",
+                "concept_percentile": "39"
+            },
+            "233": {
+                "concept_text": "Metastatic bone pain may respond to analgesia, bisphosphonates or radiotherapy",
+                "concept_percentile": "60"
+            },
+            "1456": {
+                "concept_text": "Oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment",
+                "concept_percentile": "70"
+            },
+            "4508": {
+                "concept_text": "Divide by two for oral to subcutaneous morphine conversion ",
+                "concept_percentile": "64"
+            },
+            "9212": {
+                "concept_text": "Opioids may cause constipation",
+                "concept_percentile": "9"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_742",
+        "new_question_id": "6532",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_218",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Argyll-Robertson pupil",
+            "Sixth nerve palsy",
+            "Horner's syndrome",
+            "Third nerve palsy",
+            "Holmes-Adie pupil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 48-year-old man presents with a 'droopy eyelid' on the right side. You also notice that his right pupil appears smaller than the left:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img061.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><br />What is this most likely to represent?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Horner's syndrome</b>. Horner's syndrome, also known as oculosympathetic paresis, is a rare condition characterised by a triad of ptosis (drooping eyelid), miosis (constricted pupil), and anhidrosis (lack of sweating) on the affected side of the face. <br /><br />In the photo, a right-sided ptosis and miosis can be seen pointing to a diagnosis of Horner's syndrome. This condition results from a disruption in the sympathetic nerve supply to the eye. The clinical presentation described fits perfectly with Horner's syndrome.<br /><br /><b>Argyll-Robertson pupil</b> is incorrect because this condition typically presents with bilateral small pupils that constrict when the patient focuses on a near object but do not react to direct or consensual light stimulation. They are often referred to as 'prostitute's pupils' because they 'accommodate but do not react'. It is seen primarily in patients with neurosyphilis, which does not fit with the presented case.<br /><br /><b>Sixth nerve palsy</b> is also incorrect. A sixth cranial nerve palsy would present with horizontal double vision that increases when looking towards the affected side due to paralysis of the lateral rectus muscle, which abducts the eye. There would be no associated ptosis or miosis.<br /><br />Similarly, <b>third nerve palsy</b> is incorrect as it typically presents with drooping of the eyelid (ptosis), dilation of the pupil (mydriasis), upward and outward deviation of the eye ('down & out' appearance) and inability to move eye inward and downward due to paralysis of the medial rectus and inferior rectus muscles respectively. In contrast, Horner's syndrome causes constriction of the pupil rather than dilation.<br /><br />Finally, <b>Holmes-Adie pupil</b>, also known as tonic pupil, is incorrect. This condition presents with a unilateral dilated pupil that reacts poorly to light but shows slow constriction on accommodation. It may be associated with absent reflexes elsewhere in the body such as the ankle-jerk reflex. Holmes-Adie syndrome doesn't cause ptosis which was observed in our patient.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 48-year-old man presents with a 'droopy eyelid' on the right side. You also notice that his right pupil appears smaller than the left:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img061.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><br />What is this most likely to represent?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Horner's syndrome</b>. Horner's syndrome, also known as oculosympathetic paresis, is a rare condition characterised by a triad of ptosis (drooping eyelid), miosis (constricted pupil), and anhidrosis (lack of sweating) on the affected side of the face. <br /><br />In the photo, a right-sided ptosis and miosis can be seen pointing to a diagnosis of Horner's syndrome. This condition results from a disruption in the sympathetic nerve supply to the eye. The clinical presentation described fits perfectly with Horner's syndrome.<br /><br /><b>Argyll-Robertson pupil</b> is incorrect because this condition typically presents with bilateral small pupils that constrict when the patient focuses on a near object but do not react to direct or consensual light stimulation. They are often referred to as 'prostitute's pupils' because they 'accommodate but do not react'. It is seen primarily in patients with neurosyphilis, which does not fit with the presented case.<br /><br /><b>Sixth nerve palsy</b> is also incorrect. A sixth cranial nerve palsy would present with horizontal double vision that increases when looking towards the affected side due to paralysis of the lateral rectus muscle, which abducts the eye. There would be no associated ptosis or miosis.<br /><br />Similarly, <b>third nerve palsy</b> is incorrect as it typically presents with drooping of the eyelid (ptosis), dilation of the pupil (mydriasis), upward and outward deviation of the eye ('down & out' appearance) and inability to move eye inward and downward due to paralysis of the medial rectus and inferior rectus muscles respectively. In contrast, Horner's syndrome causes constriction of the pupil rather than dilation.<br /><br />Finally, <b>Holmes-Adie pupil</b>, also known as tonic pupil, is incorrect. This condition presents with a unilateral dilated pupil that reacts poorly to light but shows slow constriction on accommodation. It may be associated with absent reflexes elsewhere in the body such as the ankle-jerk reflex. Holmes-Adie syndrome doesn't cause ptosis which was observed in our patient.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Horner's syndrome",
+        "body": "<span class=\"concept\" data-cid=\"530\">Features</span><br /><ul><li><span class=\"concept\" data-cid=\"531\">miosis (small pupil)</span></li><li>ptosis</li><li>enophthalmos* (sunken eye) </li><li><span class=\"concept\" data-cid=\"529\">anhidrosis (loss of sweating one side)</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb970b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing a Pancoast tumour (non-small cell) in the right lung in a middle-aged woman  - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb970.jpg\" alt=\"\" /></a></div></div></div><br />Distinguishing between causes<br /><ul><li>heterochromia (difference in iris colour) is seen in congenital Horner's</li><li>anhidrosis: see below</li><li>pharmacologic tests <ul><li>can be useful to confirm the diagnosis of Horner syndrome and localise the lesion</li><li>apraclonidine drops (an alpha-adrenergic agonist) can be used: causes pupillary dilation in Horner's syndrome due to denervation supersensitivity but produces mild pupillary constriction in the normal pupil by down-regulating the norepinephrine release at the synaptic cleft</li></ul></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Central lesions</b></th><th><b>Pre-ganglionic lesions</b></th><th><b>Post-ganglionic lesions</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"529\">Anhidrosis of the face, arm and trunk</span></td><td><span class=\"concept\" data-cid=\"529\">Anhidrosis of the face</span></td><td><span class=\"concept\" data-cid=\"529\">No anhidrosis</span></td></tr><tr><td><b>S</b>troke<br /><b>S</b>yringomyelia<br />Multiple <b>s</b>clerosis<br />Tumour<br />Encephalitis</td><td><span class=\"concept\" data-cid=\"11668\">Pancoast's <b>t</b>umour</span><br /><b>T</b>hyroidectomy<br /><b>T</b>rauma<br />Cervical rib</td><td><b>C</b>arotid artery dissection<br /><b>C</b>arotid aneurysm<br /><b>C</b>avernous sinus thrombosis<br /><b>C</b>luster headache</td></tr></tbody></table></div><br />*in reality the appearance is due to a narrow palpebral aperture rather than true enophthalmos",
+        "notes_hash": "3942667f2347eaf87127ab3f20108ece",
+        "knowledge_graph_node_id_link": 1290,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5796",
+        "up_votes": "25",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "373",
+            "68",
+            "4357",
+            "697",
+            "301",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9XKj95DBscM\" data-description=\"Horner's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1202\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9XKj95DBscM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9XKj95DBscM\" data-description=\"Horner's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"1202\">Horner's syndrome</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2109\" data-mediaid=\"2109\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2109\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_2109\" data-mediaid=\"2109\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2109\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/17/Pancoast_tumor.webm\" data-description=\"Pancoast tumors\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"304\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/17/Pancoast_tumor.webm\" data-description=\"Pancoast tumors\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"304\">Pancoast tumors</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_515\" data-mediaid=\"515\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_515\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_515\" data-mediaid=\"515\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_515\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Eo2ZDDc5jyc\" data-description=\"Horner's syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1267\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Eo2ZDDc5jyc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Eo2ZDDc5jyc\" data-description=\"Horner's syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1267\">Horner's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2241\" data-mediaid=\"2241\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2241\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2241\" data-mediaid=\"2241\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2241\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBVGh0gyyYc\" data-description=\"How to Examine Horner's Syndrome\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"346\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JBVGh0gyyYc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JBVGh0gyyYc\" data-description=\"How to Examine Horner's Syndrome\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"346\">How to Examine Horner's Syndrome</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_588\" data-mediaid=\"588\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_588\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_588\" data-mediaid=\"588\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_588\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "531": {
+                "concept_text": "Ptosis + dilated pupil = third nerve palsy; ptosis + constricted pupil = Horner's",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5478_B_7",
+        "new_question_id": "16468",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4542",
+        "notes_id_link": "1_2644",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Anterior uveitis",
+            "Corneal ulcer",
+            "Subconjunctival haemorrhage",
+            "Glaucoma",
+            "Endophthalmitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 80-year-old woman with age-related macular degeneration(AMD) rushed to the emergency department with a painless bloodshot left eye. She was extremely anxious and concerned about her condition. She was given an intravitreal injection to the left eye for the treatment of AMD the day before. Examination revealed no further decrease in her visual acuity. There was, however, bleeding under the conjunctiva, surrounding the site of intravitreal injection.<br /><br />What is the likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Subconjunctival haemorrhage is the correct diagnosis for this scenario. All the other listed options are associated with a painful red eye. Subconjunctival haemorrhage happens as a result of blood vessels being punctured during the intravitreal injection and gets better in a week or two.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 80-year-old woman with age-related macular degeneration(AMD) rushed to the emergency department with a painless bloodshot left eye. She was extremely anxious and concerned about her condition. She was given an intravitreal injection to the left eye for the treatment of AMD the day before. Examination revealed no further decrease in her visual acuity. There was, however, bleeding under the conjunctiva, surrounding the site of intravitreal injection.<br /><br />What is the likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Subconjunctival haemorrhage is the correct diagnosis for this scenario. All the other listed options are associated with a painful red eye. Subconjunctival haemorrhage happens as a result of blood vessels being punctured during the intravitreal injection and gets better in a week or two.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Subconjunctival haemorrhage",
+        "body": "Subconjunctival haemorrhages result from the bleeding of blood vessels into the subconjunctival space. The vessels that bleed are usually the ones responsible for supplying the conjunctiva or episclera.  The cause is most commonly traumatic followed by spontaneous idiopathic cases, Valsalva manoeuvres and several systemic diseases. Subconjunctival haemorrhages can look dramatic and cause worry to patients, however they are rarely an indicator of anything sinister.<br /><br /><h5 class='notes-heading'>Epidemiology:</h5><br /><ul><li>Subconjunctival haemorrhages are more common in women than in men when there has been no history of trauma</li><li>The annual incidence of non-traumatic subconjunctival haemorrhages is 0.6%, the risk increases with age as the risk factors are more common in elderly patients. Newborns are also more susceptible </li><li>The incidence of both traumatic and non-traumatic subconjunctival haemorrhages is 2.6% </li></ul><br /><h5 class='notes-heading'>Risk factors:</h5><br /><ul><li>Trauma and contact lens usage (68%): these are the most common causes generally, as well as being often the sole risk factor in younger patients</li><li>Idiopathic</li><li>Valsalva manoeuvre e.g. coughing, straining  </li><li>Hypertension</li><li>Bleeding disorders</li><li>Drugs such as aspirin, NSAIDs and anticoagulants</li><li>Diabetes</li><li>Arterial disease and hyperlipidaemia</li></ul><br /><h5 class='notes-heading'>Symptoms:</h5><br /><ul><li>Red-eye, usually unilateral</li><li>Subconjunctival haemorrhages are mostly asymptomatic, however mild irritation may be present</li></ul>  <br /><h5 class='notes-heading'>Signs:</h5><br /><ul><li>Flat, red patch on the conjunctiva. It will have well-defined edges and normal conjunctiva surrounding it. Patches can vary in size depending on the size of the bleed, and can involve the whole conjunctiva </li><li>Traumatic haemorrhages are most common in the temporal region (40.5%), with the inferior conjunctiva as the next most commonly affected area</li><li>Vision should be normal, including acuity, visual fields and range of eye movements</li><li>On examination, the fundus should be normal</li></ul><br /><b>Investigations:</b><br /><ul><li>The diagnosis of a subconjunctival haemorrhage is a clinical one</li><li>If there is no obvious traumatic cause, check the patient's blood pressure. If raised, refer the patient appropriately</li><li>If the patient is taking warfarin, check the INR. If raised, refer for appropriate adjustments to the dose to bring the INR back into the target range</li><li>If you cannot see the whole border of the haemorrhage i.e. the full extent of the haemorrhage is unclear, it may be associated with an intracranial bleed or an orbital roof fracture. This is often corroborated with a history of trauma and a black eye. Further appropriate investigations should then be done, including a full cranial nerve exam looking for neurological signs as well as a CT head, after discussion with a senior</li><li>Recurrent or spontaneous, bilateral subconjunctival haemorrhages warrant investigations for bleeding disorders or other pathology  </li></ul><br /><b>Management:</b><br /><ul><li>Reassure the patient that whilst a subconjunctival haemorrhage may look alarming, it is a benign condition that will resolve on its own in 2 to 3 weeks. If the patient presents to services immediately after the haemorrhage occurs, it can spread over a couple of days until it begins to resolve. The colour of the patch may change to yellow/ green, like a bruise, but preparing the patient for this will prevent any alarm if this happens. </li><li>If the cause is traumatic consider a referral to the ophthalmologist to ensure no other damage has been caused to the eye</li><li>Advise the patient to consult their GP if this happens again because, as previously mentioned, recurrent subconjunctival haemorrhages warrant investigations for bleeding disorders or other potential pathology</li><li>Artificial tears can be used for a couple of weeks if there is any mild irritation</li></ul><br /><h5 class='notes-heading'>Prognosis:</h5><br /><ul><li>This is a mild, self-limiting illness and should resolve on it's own in 2-3 weeks</li></ul>",
+        "notes_hash": "062552e84a3e5d654cc7f7b0a34acd81",
+        "knowledge_graph_node_id_link": 1134,
+        "concept": "Iatrogenic subconjunctival haemorrhage is common post intravitreal injections and patients should be preinformed of the condition prior to commencing the treatment",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "4060",
+        "up_votes": "34",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "34",
+            "40",
+            "3621",
+            "26",
+            "339",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

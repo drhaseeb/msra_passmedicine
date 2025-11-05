@@ -1,0 +1,972 @@
+[
+    {
+        "question_id": "16300_B_1381",
+        "new_question_id": "46970",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "1261",
+        "notes_id_link": "1_2207",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Anastrozole",
+            "Goserelin",
+            "Pembrolizumab",
+            "Tamoxifen",
+            "Trastuzumab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman presents to her general practitioner after noticing a lump in her right breast. She has no significant past medical history. On examination, a lump is noted and she is urgently referred for further investigations, which reveal a malignant lesion. Biopsies of the lesion undergo further testing:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Oestrogen receptor (OR)</td><td>Positive</td></tr><tr><td>Progesterone receptor (PR)</td><td>Negative</td></tr><tr><td>Human epidermal growth factor receptor 2 (HER2)</td><td>Negative</td></tr></tbody></table></div><br />What is the most appropriate treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Management of breast cancer is guided by the hormone and HER2 status of the tumour. As this patient's breast cancer biopsy is OR-positive, she should be offered a selective oestrogen receptor modulator (SERM) or an aromatase inhibitor. As she is post-menopausal, the latter is more appropriate - the majority of oestrogen production occurs via the aromatisation process in post-menopausal women. <b>Anastrozole</b> is an example of an aromatase inhibitor that is used for this purpose. <br /><br /><b>Goserelin</b> is a gonadotropin-releasing hormone agonist. It is used to suppress ovarian function in pre-menopausal women as an alternative agent to tamoxifen, although the latter is preferred.<br /><br /><b>Pembrolizumab</b> is a monoclonal antibody used as an adjunct to chemotherapy for patients with triple-negative breast cancer. Given that this patient is OR-positive and post-menopausal, anastrozole is more appropriate. <br /><br /><b>Tamoxifen</b> is a SERM. Whilst also used in the management of OR-positive breast cancer, it is instead used for pre-menopausal patients.<br /><br /><b>Trastuzumab</b>, often known by the brand name Herceptin, is a monoclonal antibody that blocks HER2. This patient is HER2 negative and so it would not play a role in her management.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman presents to her general practitioner after noticing a lump in her right breast. She has no significant past medical history. On examination, a lump is noted and she is urgently referred for further investigations, which reveal a malignant lesion. Biopsies of the lesion undergo further testing:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Oestrogen receptor (OR)</td><td>Positive</td></tr><tr><td>Progesterone receptor (PR)</td><td>Negative</td></tr><tr><td>Human epidermal growth factor receptor 2 (HER2)</td><td>Negative</td></tr></tbody></table></div><br />What is the most appropriate treatment?",
+        "correct_answer": "1",
+        "question_notes": "Management of breast cancer is guided by the hormone and HER2 status of the tumour. As this patient's breast cancer biopsy is OR-positive, she should be offered a selective oestrogen receptor modulator (SERM) or an aromatase inhibitor. As she is post-menopausal, the latter is more appropriate - the majority of oestrogen production occurs via the aromatisation process in post-menopausal women. <b>Anastrozole</b> is an example of an aromatase inhibitor that is used for this purpose. <br /><br /><b>Goserelin</b> is a gonadotropin-releasing hormone agonist. It is used to suppress ovarian function in pre-menopausal women as an alternative agent to tamoxifen, although the latter is preferred.<br /><br /><b>Pembrolizumab</b> is a monoclonal antibody used as an adjunct to chemotherapy for patients with triple-negative breast cancer. Given that this patient is OR-positive and post-menopausal, anastrozole is more appropriate. <br /><br /><b>Tamoxifen</b> is a SERM. Whilst also used in the management of OR-positive breast cancer, it is instead used for pre-menopausal patients.<br /><br /><b>Trastuzumab</b>, often known by the brand name Herceptin, is a monoclonal antibody that blocks HER2. This patient is HER2 negative and so it would not play a role in her management.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Breast cancer: management",
+        "body": "The management of breast cancer depends on the staging, tumour type and patient background. It may involve any of the following:<br /><ul><li>surgery</li><li>radiotherapy</li><li>hormone therapy</li><li>biological therapy</li><li>chemotherapy</li></ul><br /><h5 class='notes-heading'>Surgery</h5><br />The vast majority of patients who have breast cancer diagnosed will be offered surgery. An exception may be a very frail, elderly lady with metastatic disease who may be better managed with hormonal therapy.<br /><br />Prior to surgery, the presence/absence of axillary lymphadenopathy determines management:<br /><ul><li><span class=\"concept\" data-cid=\"10185\">women with no palpable axillary lymphadenopathy at presentation should have a pre-operative axillary ultrasound</span> before their primary surgery<ul><li><span class=\"concept\" data-cid=\"10186\">if negative then they should have a sentinel node biopsy to assess the nodal burden</span></li></ul></li><li><span class=\"concept\" data-cid=\"10189\">in patients with breast cancer who present with clinically palpable lymphadenopathy, axillary node clearance is indicated at primary surgery</span><ul><li><span class=\"concept\" data-cid=\"10191\">this may lead to arm lymphedema and functional arm impairment</span></li></ul></li></ul><br />Depending on the characteristics of the tumour women either have a wide-local excision or a mastectomy. Around two-thirds of tumours can be removed with a wide-local excision. The table below lists some of the factors determining which operation is offered:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Mastectomy</b></th><th><b>Wide Local Excision</b></th></tr></thead><tbody><tr><td>Multifocal tumour</td><td>Solitary lesion</td></tr><tr><td>Central tumour</td><td>Peripheral tumour</td></tr><tr><td>Large lesion in small breast</td><td>Small lesion in large breast</td></tr><tr><td>DCIS > 4cm</td><td>DCIS < 4cm</td></tr></tbody></table></div><br />Women should be offered breast reconstruction to achieve a cosmetically suitable result regardless of the type of operation they have. For women who've had a mastectomy this may be done at the initial operation or at a later date.<br /><br /><h5 class='notes-heading'>Radiotherapy</h5><br /><span class=\"concept\" data-cid=\"9151\">Whole breast radiotherapy is recommended after a woman has had a wide-local excision as this may reduce the risk of recurrence by around two-thirds</span>. For women who've had a mastectomy radiotherapy is offered for T3-T4 tumours and for those with four or more positive axillary nodes<br /><br /><h5 class='notes-heading'>Hormonal therapy</h5><br />Adjuvant hormonal therapy is offered if tumours are positive for hormone receptors. For many years this was done using tamoxifen for 5 years after diagnosis. <span class=\"concept\" data-cid=\"3967\">Tamoxifen is still used in pre- and peri-menopausal women</span>. In <span class=\"concept\" data-cid=\"1261\">post-menopausal women, aromatase inhibitors such as anastrozole</span> are used for this purpose*. This is important as aromatisation accounts for the majority of oestrogen production in post-menopausal women and therefore anastrozole is used for ER +ve breast cancer in this group. <br /><br />Important side effects of tamoxifen include an increased risk of endometrial cancer, venous thromboembolism and menopausal symptoms.<br /><br /><h5 class='notes-heading'>Biological therapy</h5><br />The most common type of biological therapy used for breast cancer is <span class=\"concept\" data-cid=\"3966\">trastuzumab (Herceptin)</span>. It is only useful in the 20-25% of tumours that are <span class=\"concept\" data-cid=\"3966\">HER2 positive</span>.<br /><br />Trastuzumab cannot be used in patients with a history of heart disorders.<br /><br /><h5 class='notes-heading'>Chemotherapy</h5><br />Cytotoxic therapy may be used either prior to surgery ('neoadjuvanant' chemotherapy) to <span class=\"concept\" data-cid=\"10193\">downstage a primary lesion</span> or after surgery depending on the stage of the tumour, for example, if there is <span class=\"concept\" data-cid=\"3968\">axillary node disease - FEC-D is used in this situation</span>.",
+        "notes_hash": "a1625b661574094c033c3b6808a7a993",
+        "knowledge_graph_node_id_link": 1030,
+        "concept": "Adjuvant hormonal therapy for ER +ve breast cancer: anastrozole in post-menopausal women ",
+        "concept_percentile": "62",
+        "concept_colour": "rgb(193,255,0)",
+        "number_attempts": "6175",
+        "up_votes": "21",
+        "down_votes": "14",
+        "column_array": [
+            0,
+            "3745",
+            "63",
+            "19",
+            "2240",
+            "108",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_433\" data-linkid=\"433\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_433\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_433\" data-linkid=\"433\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_433\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng101/chapter/Recommendations\">Early and locally advanced breast cancer: Diagnosis and treatment</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KgrXNlk89vs\" data-description=\"Pharmacology - CANCER DRUGS - HORMONAL THERAPY\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1066\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/KgrXNlk89vs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KgrXNlk89vs\" data-description=\"Pharmacology - CANCER DRUGS - HORMONAL THERAPY\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1066\">Pharmacology - CANCER DRUGS - HORMONAL THERAPY</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1859\" data-mediaid=\"1859\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1859\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1859\" data-mediaid=\"1859\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1859\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jPtCkcILCGU\" data-description=\"Breast cancer\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"701\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jPtCkcILCGU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jPtCkcILCGU\" data-description=\"Breast cancer\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"701\">Breast cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1226\" data-mediaid=\"1226\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1226\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1226\" data-mediaid=\"1226\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1226\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "1261": {
+                "concept_text": "Adjuvant hormonal therapy for ER +ve breast cancer: anastrozole in post-menopausal women ",
+                "concept_percentile": "62"
+            },
+            "9151": {
+                "concept_text": "Whole breast radiotherapy is recommended after a woman has had a wide-local excision as this may reduce the risk of recurrence by around two-thirds",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "12729_B_234",
+        "new_question_id": "54774",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "12022",
+        "notes_id_link": "1_1188",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Azithromycin",
+            "Co-amoxiclav",
+            "Gentamicin",
+            "Rifampicin",
+            "Vancomycin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old man presents with a surgical wound infection after undergoing an elective cholecystectomy. Cultures from the wound swab confirm methicillin-resistant <i>Staphylococcus aureus</i> (MRSA). He has no known drug allergies.<br /><br />What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Vancomycin</b> is the correct choice. MRSA can be implicated in surgical site infections, as in this scenario. Vancomycin is an effective treatment option for MRSA infections as it inhibits cell wall synthesis, which allows it to target MRSA bacteria despite their resistance to beta-lactam antibiotics. Alternative treatments for MRSA include teicoplanin and linezolid, which may be considered in certain clinical scenarios.<br /><br /><b>Azithromycin</b> is incorrect. Azithromycin, a macrolide antibiotic, is not typically used for treating MRSA. This is because MRSA commonly exhibits resistance to this class of antibiotics. Therefore, it should not be used as a standalone treatment.<br /><br /><b>Co-amoxiclav</b> (amoxicillin with clavulanic acid) is also incorrect. MRSA has developed resistance to beta-lactam antibiotics, including penicillins and combinations of beta-lactams with beta-lactamase inhibitors\u2014rendering co-amoxiclav ineffective against it.<br /><br /><b>Gentamicin</b> would not be the optimal single-agent therapy. Although gentamicin, an aminoglycoside antibiotic, may exhibit some activity against MRSA, its use alone is discouraged due to concerns about resistance and suboptimal efficacy when not combined with other antibiotics.<br /><br /><b>Rifampicin</b> alone is not recommended. While rifampicin can play a crucial role in combination therapies for treating MRSA infections\u2014particularly those involving deep tissues or prosthetic devices\u2014it should not be used as monotherapy because of the risk of resistance developing when used alone.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old man presents with a surgical wound infection after undergoing an elective cholecystectomy. Cultures from the wound swab confirm methicillin-resistant <i>Staphylococcus aureus</i> (MRSA). He has no known drug allergies.<br /><br />What is the most appropriate first-line treatment?",
+        "correct_answer": "5",
+        "question_notes": "<b>Vancomycin</b> is the correct choice. MRSA can be implicated in surgical site infections, as in this scenario. Vancomycin is an effective treatment option for MRSA infections as it inhibits cell wall synthesis, which allows it to target MRSA bacteria despite their resistance to beta-lactam antibiotics. Alternative treatments for MRSA include teicoplanin and linezolid, which may be considered in certain clinical scenarios.<br /><br /><b>Azithromycin</b> is incorrect. Azithromycin, a macrolide antibiotic, is not typically used for treating MRSA. This is because MRSA commonly exhibits resistance to this class of antibiotics. Therefore, it should not be used as a standalone treatment.<br /><br /><b>Co-amoxiclav</b> (amoxicillin with clavulanic acid) is also incorrect. MRSA has developed resistance to beta-lactam antibiotics, including penicillins and combinations of beta-lactams with beta-lactamase inhibitors\u2014rendering co-amoxiclav ineffective against it.<br /><br /><b>Gentamicin</b> would not be the optimal single-agent therapy. Although gentamicin, an aminoglycoside antibiotic, may exhibit some activity against MRSA, its use alone is discouraged due to concerns about resistance and suboptimal efficacy when not combined with other antibiotics.<br /><br /><b>Rifampicin</b> alone is not recommended. While rifampicin can play a crucial role in combination therapies for treating MRSA infections\u2014particularly those involving deep tissues or prosthetic devices\u2014it should not be used as monotherapy because of the risk of resistance developing when used alone.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "MRSA",
+        "body": "Methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) was one of the first organisms which highlighted the dangers of hospital-acquired infections.<br /><br />Who should be screened for MRSA?<br /><ul><li>all patients awaiting elective admissions (exceptions include day patients having terminations of pregnancy and ophthalmic surgery. Patients admitted to mental health trusts are also excluded)</li><li>from 2011 all emergency admissions will be screened</li></ul><br />How should a patient be screened for MRSA?<br /><ul><li>nasal swab and skin lesions or wounds</li><li>the swab should be wiped around the inside rim of a patient's nose for 5 seconds</li><li>the microbiology form must be labelled 'MRSA screen'</li></ul><br />Suppression of MRSA from a carrier once identified<br /><ul><li>nose: mupirocin 2% in white soft paraffin, tds for 5 days</li><li>skin: chlorhexidine gluconate, od for 5 days. Apply all over but particularly to the axilla, groin and perineum</li></ul><br />The following antibiotics are commonly used in the treatment of MRSA infections:<br /><ul><li><span class=\"concept\" data-cid=\"12022\">vancomycin</span></li><li>teicoplanin</li><li>linezolid</li></ul><br />Some strains may be sensitive to the antibiotics listed below but they should not generally be used alone because resistance may develop:<br /><ul><li>rifampicin</li><li>macrolides</li><li>tetracyclines</li><li>aminoglycosides</li><li>clindamycin</li></ul><br />Relatively new antibiotics such as linezolid, quinupristin/dalfopristin combinations and tigecycline have activity against MRSA but should be reserved for resistant cases<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd128b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Interaction of MRSA (green bacteria) with a human white cell. The bacteria shown is strain MRSA252, a leading cause of hospital-associated infections in the United States and United Kingdom. Credit: NIAID</div>",
+        "notes_hash": "b9e685a33975f9295ab1587e59f6579e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Vancomycin is a useful antibiotic to treat MRSA infections",
+        "concept_percentile": "49",
+        "concept_colour": "rgb(255,249,0)",
+        "number_attempts": "4917",
+        "up_votes": "7",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "215",
+            "456",
+            "215",
+            "121",
+            "3910",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_858\" data-linkid=\"858\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_858\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_858\" data-linkid=\"858\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_858\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nice.org.uk/guidance/CG139/chapter/1-Guidance\">2012 Infection control guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>Health Protection Agency</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_766\" data-linkid=\"766\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_766\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_766\" data-linkid=\"766\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_766\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/330793/MRSA_screening_and_supression_primary_care_guidance.pdf\">2009 MRSA Screening and Suppression guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "12022": {
+                "concept_text": "Vancomycin is a useful antibiotic to treat MRSA infections",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2652_B_58",
+        "new_question_id": "16179",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "4351",
+        "notes_id_link": "1_454",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Nephrotoxicity",
+            "Diarrhoea",
+            "Oligomenorrhoea",
+            "Medication-induced phaeochromocytoma",
+            "Pulmonary fibrosis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 38-year-old female is being discharged from the cardiology ward on amiodarone, as a result of the recent discovery of her having atrial fibrillation. <br /><br />Which of the following is a side effect of this medication you should counsel her on?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Amiodarone is a class III anti-arrhythmic agent which is indicated in the management of numerous arrhythmias. It is a key drug and its side effects are often tested in medical student finals.<br /><br />It is associated with a range of side effects, classically including: pulmonary fibrosis; thyroid disturbances (rather than phaeochromocytoma); a slate-grey appearance of the skin; and further arrhythmias.<br /><br />It is not believed to be routinely associated with diarrhoea, oligomenorrhoea nor nephrotoxicity (though it can cause hepatotoxicity).",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 38-year-old female is being discharged from the cardiology ward on amiodarone, as a result of the recent discovery of her having atrial fibrillation. <br /><br />Which of the following is a side effect of this medication you should counsel her on?",
+        "correct_answer": "5",
+        "question_notes": "Amiodarone is a class III anti-arrhythmic agent which is indicated in the management of numerous arrhythmias. It is a key drug and its side effects are often tested in medical student finals.<br /><br />It is associated with a range of side effects, classically including: pulmonary fibrosis; thyroid disturbances (rather than phaeochromocytoma); a slate-grey appearance of the skin; and further arrhythmias.<br /><br />It is not believed to be routinely associated with diarrhoea, oligomenorrhoea nor nephrotoxicity (though it can cause hepatotoxicity).",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Amiodarone: adverse effects",
+        "body": "Adverse effects of amiodarone use<br /><ul><li><span class=\"concept\" data-cid=\"4244\">thyroid dysfunction</span>: both <span class=\"concept\" data-cid=\"6495\">hypothyroidism</span> and <span class=\"concept\" data-cid=\"6496\">hyper-thyroidism</span></li><li><span class=\"concept\" data-cid=\"6497\">corneal deposits</span></li><li><span class=\"concept\" data-cid=\"4351\">pulmonary fibrosis</span>/<span class=\"concept\" data-cid=\"6501\">pneumonitis</span></li><li><span class=\"concept\" data-cid=\"6505\">liver fibrosis/hepatitis</span></li><li><span class=\"concept\" data-cid=\"6498\">peripheral neuropathy</span>, myopathy</li><li><span class=\"concept\" data-cid=\"5557\">photosensitivity</span></li><li><span class=\"concept\" data-cid=\"2289\">'slate-grey' appearance</span></li><li>thrombophlebitis and injection site reactions</li><li><span class=\"concept\" data-cid=\"6503\">bradycardia</span></li><li><span class=\"concept\" data-cid=\"6500\">lengths QT interval</span></li></ul><br />Important drug interactions of amiodarone include:<br /><ul><li>decreased metabolism of warfarin, therefore increased INR</li><li><span class=\"concept\" data-cid=\"6689\">increased digoxin levels</span></li></ul>",
+        "notes_hash": "11d24d2959b29ea1ea4071fe995fbeea",
+        "knowledge_graph_node_id_link": 10880,
+        "concept": "Amiodarone - associated with pulmonary fibrosis",
+        "concept_percentile": "44",
+        "concept_colour": "rgb(255,224,0)",
+        "number_attempts": "5025",
+        "up_votes": "21",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "547",
+            "312",
+            "211",
+            "121",
+            "3834",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2289": {
+                "concept_text": "Amiodarone can cause a grey skin appearance",
+                "concept_percentile": "7"
+            },
+            "4351": {
+                "concept_text": "Amiodarone - associated with pulmonary fibrosis",
+                "concept_percentile": "44"
+            },
+            "5557": {
+                "concept_text": "Amiodarone is a cause of photosensitivity",
+                "concept_percentile": "13"
+            },
+            "6495": {
+                "concept_text": "Amiodarone may cause hypothyroidism",
+                "concept_percentile": "46"
+            },
+            "6496": {
+                "concept_text": "Amiodarone may cause hyperthyroidism",
+                "concept_percentile": "29"
+            },
+            "6497": {
+                "concept_text": "Amiodarone may cause corneal deposits",
+                "concept_percentile": "12"
+            },
+            "6498": {
+                "concept_text": "Amiodarone may cause peripheral neuropathy",
+                "concept_percentile": "19"
+            },
+            "6500": {
+                "concept_text": "Amiodarone may cause lengthens QT interval",
+                "concept_percentile": "23"
+            },
+            "6501": {
+                "concept_text": "Amiodarone may cause pneumonitis",
+                "concept_percentile": "22"
+            },
+            "6503": {
+                "concept_text": "Amiodarone may cause bradycardia",
+                "concept_percentile": "30"
+            },
+            "6505": {
+                "concept_text": "Amiodarone may cause hepatotoxicity",
+                "concept_percentile": "35"
+            },
+            "6689": {
+                "concept_text": "Amiodarone may cause precipitation of digoxin toxicity - if starting amiodarone on a patient taking digoxin the dose should be reduced",
+                "concept_percentile": "17"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5018_B_53",
+        "new_question_id": "16272",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "4413",
+        "notes_id_link": "1_1927",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Doxazosin",
+            "Prochlorperazine",
+            "Isoprenaline",
+            "Fludrocortisone",
+            "Dobutamine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old woman has suffered recurrent falls due to orthostatic hypotension. She has tried conservative measures such as taking in more fluid and salt. Her medications have been reviewed and some of her medications have been stopped. She has also tried wearing compression stockings. Nevertheless, she still suffers dizziness on standing up. <br /><br />What is a possible medication option to reduce her symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Doxazosin is a selective a1-blocker that is used to treat hypertension. This medication will worsen orthostatic hypotensions. Prochlorperazine is used in vertigo. Isoprenaline and dobutamine are ionotropic agents, that are sometimes used for patients in shock. They are not used for orthostatic hypotension.<br /><br />Fludrocortisone increases renal sodium reabsorption and increases the plasma volume. This helps to counteract the physiological orthostatic vasovagal reflex. Its efficacy is supported by 2 small observational studies and one small double-blind trials. The European Society of Cardiology has given a Class IIa recommendation to Fludrocortisone<br /><br />Management of orthostatic hypotension (ESC 2018):<br /><ul><li>education and lifestyle measures such as adequate hydration and salt intake </li><li>discontinuation of vasoactive drugs e.g. nitrates, antihypertensives, neuroleptic agents or dopaminergic drugs</li><li>if symptoms persist, consider compression garments, fludrocortisone, midodrine, counter-pressure manoeuvres, and head-up tilt sleeping</li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old woman has suffered recurrent falls due to orthostatic hypotension. She has tried conservative measures such as taking in more fluid and salt. Her medications have been reviewed and some of her medications have been stopped. She has also tried wearing compression stockings. Nevertheless, she still suffers dizziness on standing up. <br /><br />What is a possible medication option to reduce her symptoms?",
+        "correct_answer": "4",
+        "question_notes": "Doxazosin is a selective a1-blocker that is used to treat hypertension. This medication will worsen orthostatic hypotensions. Prochlorperazine is used in vertigo. Isoprenaline and dobutamine are ionotropic agents, that are sometimes used for patients in shock. They are not used for orthostatic hypotension.<br /><br />Fludrocortisone increases renal sodium reabsorption and increases the plasma volume. This helps to counteract the physiological orthostatic vasovagal reflex. Its efficacy is supported by 2 small observational studies and one small double-blind trials. The European Society of Cardiology has given a Class IIa recommendation to Fludrocortisone<br /><br />Management of orthostatic hypotension (ESC 2018):<br /><ul><li>education and lifestyle measures such as adequate hydration and salt intake </li><li>discontinuation of vasoactive drugs e.g. nitrates, antihypertensives, neuroleptic agents or dopaminergic drugs</li><li>if symptoms persist, consider compression garments, fludrocortisone, midodrine, counter-pressure manoeuvres, and head-up tilt sleeping</li></ul>",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Syncope",
+        "body": "Syncope may be defined as a transient loss of consciousness due to global cerebral hypoperfusion with rapid onset, short duration and spontaneous complete recovery. Note how this definition excludes other causes of collapse such as epilepsy.<br /><br />The European Society of Cardiology published guidelines in 2009 on the investigation and management of syncope. They suggested the following classification:<br /><br />Reflex syncope (neurally mediated)<br /><ul><li>vasovagal: triggered by emotion, pain or stress. Often referred to as 'fainting'</li><li>situational: cough, micturition, gastrointestinal</li><li>carotid sinus syncope</li></ul><br />Orthostatic syncope<br /><ul><li>primary autonomic failure: Parkinson's disease, Lewy body dementia</li><li>secondary autonomic failure: e.g. Diabetic neuropathy, amyloidosis, uraemia</li><li>drug-induced: diuretics, alcohol, vasodilators</li><li>volume depletion: haemorrhage, diarrhoea</li></ul><br />Cardiac syncope<br /><ul><li>arrhythmias: bradycardias (sinus node dysfunction, AV conduction disorders) or tachycardias (supraventricular, ventricular)</li><li>structural: valvular, myocardial infarction, hypertrophic obstructive cardiomyopathy</li><li>others: pulmonary embolism</li></ul>  <br />Reflex syncope is the most common cause in all age groups although orthostatic and cardiac causes become progressively more common in older patients.<br /><br />Evaluation<br /><ul><li>cardiovascular examination</li><li>postural blood pressure readings: a symptomatic fall in systolic BP > 20 mmHg or diastolic BP > 10 mmHg or decrease in systolic BP < 90 mmHg is considered diagnostic</li><li>ECG for all patients</li><li>other tests depend on clinical features <ul><li><span class=\"concept\" data-cid=\"12088\">patients with typical features, no postural drop and a normal ECG do not require further investigations</span></li></ul></li></ul>",
+        "notes_hash": "c46bbc2d791a5910950fc854ed125ffe",
+        "knowledge_graph_node_id_link": 10009,
+        "concept": "Fludrocortisone and midodrine are pharmacological options for treatment of orthostatic hypotension",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5970",
+        "up_votes": "33",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "653",
+            "684",
+            "312",
+            "3959",
+            "362",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>European Society of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_732\" data-linkid=\"732\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_732\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_732\" data-linkid=\"732\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_732\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/eurheartj/article/30/21/2631/2887508\">2009 Syncope guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1348",
+        "new_question_id": "59412",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "6672",
+        "notes_id_link": "1_915",
+        "theme": "First-line antihypertensive choice for Black African-Caribbean patient",
+        "instruction": "",
+        "options": [
+            "",
+            "ACE inhibitor",
+            "Angiotensin receptor blocker",
+            "Beta-blocker",
+            "Calcium channel blocker",
+            "Thiazide-like diuretic",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 48-year-old woman of African-Caribbean origin attends a nurse-led hypertension clinic after an NHS Health Check. She has no significant past medical history and is not on any regular medication. Ambulatory blood pressure monitoring shows a daytime average of 151/97 mmHg. Her BMI is 29 kg/m\u00b2, QRISK3 score is 8%, and urine ACR and eGFR are within normal limits. She does not have diabetes or evidence of organ damage.<br /><br />Which antihypertensive would be most appropriate to initiate according to current UK guidelines?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Calcium channel blocker</b> is the correct answer because NICE guidelines recommend this as the first-line antihypertensive for adults of black African or African-Caribbean origin, regardless of age, in the absence of diabetes with nephropathy or compelling alternative indications (such as heart failure). This recommendation reflects reduced efficacy of ACE inhibitors and ARBs in this population due to lower renin levels. The scenario ensures there are no contraindications (normal renal function, no proteinuria) and no comorbidities that would alter management, making a calcium channel blocker clearly preferred.<br /><br /><b>ACE inhibitor</b> is less effective as initial monotherapy in patients of black African or African-Caribbean origin without diabetes-related nephropathy due to differences in underlying pathophysiology\u2014primarily low-renin hypertension. NICE specifically advises against their use as first-line agents in this group unless there are other indications such as diabetic nephropathy.<br /><br /><b>Angiotensin receptor blocker</b>, while occasionally used instead of ACE inhibitors when these aren\u2019t tolerated (e.g., cough), shares similar limitations regarding initial efficacy in this patient group. It may be considered later if combination therapy is required but is not recommended as the sole first agent here.<br /><br /><b>Beta-blocker</b> is not recommended for routine initial treatment of hypertension except where there are specific additional indications such as angina or heart failure, which are absent here. Beta-blockers also confer less protection against stroke compared to other classes when used alone for primary hypertension.<br /><br /><b>Thiazide-like diuretic</b> can be considered at step two if blood pressure control isn\u2019t achieved with a calcium channel blocker alone; however, it is not advised by NICE for first-line use unless both calcium channel blockers and ACE inhibitors/ARBs are unsuitable or contraindicated.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 48-year-old woman of African-Caribbean origin attends a nurse-led hypertension clinic after an NHS Health Check. She has no significant past medical history and is not on any regular medication. Ambulatory blood pressure monitoring shows a daytime average of 151/97 mmHg. Her BMI is 29 kg/m\u00b2, QRISK3 score is 8%, and urine ACR and eGFR are within normal limits. She does not have diabetes or evidence of organ damage.<br /><br />Which antihypertensive would be most appropriate to initiate according to current UK guidelines?",
+        "correct_answer": "4",
+        "question_notes": "<b>Calcium channel blocker</b> is the correct answer because NICE guidelines recommend this as the first-line antihypertensive for adults of black African or African-Caribbean origin, regardless of age, in the absence of diabetes with nephropathy or compelling alternative indications (such as heart failure). This recommendation reflects reduced efficacy of ACE inhibitors and ARBs in this population due to lower renin levels. The scenario ensures there are no contraindications (normal renal function, no proteinuria) and no comorbidities that would alter management, making a calcium channel blocker clearly preferred.<br /><br /><b>ACE inhibitor</b> is less effective as initial monotherapy in patients of black African or African-Caribbean origin without diabetes-related nephropathy due to differences in underlying pathophysiology\u2014primarily low-renin hypertension. NICE specifically advises against their use as first-line agents in this group unless there are other indications such as diabetic nephropathy.<br /><br /><b>Angiotensin receptor blocker</b>, while occasionally used instead of ACE inhibitors when these aren\u2019t tolerated (e.g., cough), shares similar limitations regarding initial efficacy in this patient group. It may be considered later if combination therapy is required but is not recommended as the sole first agent here.<br /><br /><b>Beta-blocker</b> is not recommended for routine initial treatment of hypertension except where there are specific additional indications such as angina or heart failure, which are absent here. Beta-blockers also confer less protection against stroke compared to other classes when used alone for primary hypertension.<br /><br /><b>Thiazide-like diuretic</b> can be considered at step two if blood pressure control isn\u2019t achieved with a calcium channel blocker alone; however, it is not advised by NICE for first-line use unless both calcium channel blockers and ACE inhibitors/ARBs are unsuitable or contraindicated.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hypertension: management",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. Some of the key changes include:<br /><ul><li>lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%</li><li>angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated</li><li>if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a calcium channel blocker OR a thiazide-like diuretic can be used. Previously only a calcium channel blocker was recommended</li></ul><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocates.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6674\">140/90 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span></td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6676\">160/100 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span></td></tr><tr><td><b>Severe hypertension</b></td><td><span class=\"concept\" data-cid=\"6673\">Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</span></td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><h5 class='notes-heading'>Managing hypertension</h5><br />Lifestyle advice should not be forgotten and is frequently tested in exams:<br /><ul><li><span class=\"concept\" data-cid=\"10294\">a low salt diet is recommended, aiming for less than 6g/day</span>, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg</li><li>caffeine intake should be reduced</li><li>the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span> (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span> (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br />For patients < 40 years consider specialist referral to exclude secondary causes.<br /><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div><br /><br />Step 1 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6670\">patients < 55-years-old</span> or a background of <span class=\"concept\" data-cid=\"9851\">type 2 diabetes mellitus</span>: <b>A</b>CE inhibitor or a <b>A</b>ngiotensin receptor blocker (<b>A</b>CE-i or <b>A</b>RB): <b>(A)</b><ul><li><span class=\"concept\" data-cid=\"922\">angiotensin receptor blockers should be used where ACE inhibitors are not tolerated (e.g. due to a cough)</span></li></ul></li><li><span class=\"concept\" data-cid=\"6671\">patients >= 55-years-old</span> or of <span class=\"concept\" data-cid=\"6672\">black African or African-Caribbean origin</span>: <b>C</b>alcium channel blocker <b>(C)</b><ul><li><span class=\"concept\" data-cid=\"916\">ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line</span></li></ul></li></ul><br />Step 2 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6682\">if already taking an <b>A</b>CE-i or <b>A</b>RB add a <b>C</b>alcium channel blocker or a thiazide-like <b>D</b>iuretic</span></li><li><span class=\"concept\" data-cid=\"9850\">if already taking a <b>C</b>alcium channel blocker add an <b>A</b>CE-i or <b>A</b>RB or a thiazide-like <b>D</b>iuretic</span><ul><li><span class=\"concept\" data-cid=\"1386\">for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor</span></li></ul></li><li><b>(A + C) or (A + D)</b> or <b>(C + A) or (C + D)</b> </li></ul><br />Step 3 treatment<br /><ul><li>add a third drug to make, i.e.:<ul><li><span class=\"concept\" data-cid=\"6683\">if already taking an <b>(A + C)</b> then add a <b>D</b></span></li><li><span class=\"concept\" data-cid=\"9849\">if already <b>(A + D)</b> then add a <b>C</b></span></li></ul></li><li><b>(A + C + D)</b> </li></ul><br />Step 4 treatment<br /><ul><li>NICE define step 4 as resistant hypertension and suggest either adding a 4<sup>th</sup> drug (as below) or seeking specialist advice</li><li>first, check for:<ul><li>confirm elevated clinic BP with ABPM or HBPM</li><li>assess for postural hypotension.</li><li>discuss adherence</li></ul></li><li><span class=\"concept\" data-cid=\"6684\">if potassium < 4.5 mmol/l add low-dose spironolactone</span></li><li><span class=\"concept\" data-cid=\"6685\">if potassium > 4.5 mmol/l add an alpha- or beta-blocker</span></li></ul><br />Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:<br /><div class='bs-callout bs-callout-default'><i><i><br />If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained. <br /></i></i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Blood pressure targets</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td><span class=\"concept\" data-cid=\"6678\">140/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6680\">135/85 mmHg</span></td></tr><tr><td><b>Age > 80 years</b></td><td><span class=\"concept\" data-cid=\"6679\">150/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6681\">145/85 mmHg</span></td></tr></tbody></table></div>",
+        "notes_hash": "95248e6fb11c2374837320c9bd891a27",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+        "concept_percentile": "37",
+        "concept_colour": "rgb(255,188,0)",
+        "number_attempts": "6527",
+        "up_votes": "3",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "723",
+            "416",
+            "35",
+            "5336",
+            "17",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_978\" data-linkid=\"978\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_978\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">134</span><button type=\"button\" style=\"\" id=\"link_dislike_978\" data-linkid=\"978\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_978\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">121</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2429\" data-mediaid=\"2429\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2429\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2429\" data-mediaid=\"2429\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2429\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "922": {
+                "concept_text": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+                "concept_percentile": "32"
+            },
+            "1386": {
+                "concept_text": "For patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor",
+                "concept_percentile": "73"
+            },
+            "6670": {
+                "concept_text": "Newly diagnosed patient with hypertension (< 55 years) - add an ACE inhibitor or an angiotensin receptor blocker",
+                "concept_percentile": "43"
+            },
+            "6671": {
+                "concept_text": "Newly diagnosed patient with hypertension (> 55 years) - add a calcium channel blocker",
+                "concept_percentile": "21"
+            },
+            "6672": {
+                "concept_text": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+                "concept_percentile": "37"
+            },
+            "6673": {
+                "concept_text": "Criteria for considering immediate treatment based on a clinic reading - 180/120 mmHg",
+                "concept_percentile": "16"
+            },
+            "6674": {
+                "concept_text": "Definition of stage 1 hypertension (Clinic reading) - 140/90 mmHg",
+                "concept_percentile": "46"
+            },
+            "6675": {
+                "concept_text": "Definition of stage 1 hypertension (ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "19"
+            },
+            "6676": {
+                "concept_text": "Definition of stage 2 hypertension (Clinic reading) - 160/100 mmHg",
+                "concept_percentile": "34"
+            },
+            "6677": {
+                "concept_text": "Definition of stage 2 hypertension (ABPM/HBPM) - 150/95 mmHg",
+                "concept_percentile": "21"
+            },
+            "6678": {
+                "concept_text": "Blood pressure target (< 80 years, clinic reading) - 140/90 mmHg",
+                "concept_percentile": "26"
+            },
+            "6679": {
+                "concept_text": "Blood pressure target (> 80 years, clinic reading) - 150/90 mmHg",
+                "concept_percentile": "24"
+            },
+            "6680": {
+                "concept_text": "Blood pressure target (< 80 years, ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "23"
+            },
+            "6681": {
+                "concept_text": "Blood pressure target (> 80 years, ABPM/HBPM) - 145/85 mmHg",
+                "concept_percentile": "26"
+            },
+            "6682": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor - add a calcium channel blocker or a thiazide-like diuretic",
+                "concept_percentile": "47"
+            },
+            "6683": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+                "concept_percentile": "52"
+            },
+            "6684": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a thiazide diuretic. K+ < 4.5mmol/l - add spironolactone",
+                "concept_percentile": "56"
+            },
+            "6685": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a standard-dose thiazide diuretic. K+ > 4.5mmol/l - add an alpha- or beta-blocker",
+                "concept_percentile": "60"
+            },
+            "9849": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a thiazide diuretic - add a calcium channel blocker",
+                "concept_percentile": "24"
+            },
+            "9850": {
+                "concept_text": "Poorly controlled hypertension, already taking a calcium channel blocker - add an ACE inhibitor or an angiotensin receptor blocker or a thiazide-like diuretic",
+                "concept_percentile": "46"
+            },
+            "9851": {
+                "concept_text": "Newly diagnosed patient with hypertension who has a background of type 2 diabetes mellitus - add an ACE inhibitor or an angiotensin receptor blocker regardless of age",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2040",
+        "new_question_id": "1708",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "3250",
+        "notes_id_link": "1_1200",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Saphenous nerve",
+            "Femoral nerve",
+            "Sciatic nerve",
+            "Common peroneal nerve",
+            "Tibial nerve",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old man attends your surgery two days after being struck on the lateral aspect of his right knee by the bumper of a car travelling at low speed. He is able to walk, albeit with an antalgic gait. However, he is unable to dorsiflex the ankle, evert the foot or extend his toes. There is loss of sensation of the dorsum of the foot. Which structure is he most likely to have damaged?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The common peroneal nerve supplies the muscles of the peroneal and anterior compartment of the leg and sensation to the dorsum of the foot.<br /><br />It travels through the popliteal fossa, wrapping around the head of the fibula (where it is sometimes palpable). <br /><br />Habitual leg crossing, prolonged bed rest, hyperflexion of the knee, pressure in obstetric stirrups and conditioning in ballet dancers are typical 'textbook' examples of scenarios where peroneal neuropathy can occur as a result of nerve compression against the head of the fibular. Transient trauma at this site (as in this scenario) can cause a temporary neurapraxia, whereas prolonged or more severe trauma can result in permanent foot drop.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old man attends your surgery two days after being struck on the lateral aspect of his right knee by the bumper of a car travelling at low speed. He is able to walk, albeit with an antalgic gait. However, he is unable to dorsiflex the ankle, evert the foot or extend his toes. There is loss of sensation of the dorsum of the foot. Which structure is he most likely to have damaged?",
+        "correct_answer": "4",
+        "question_notes": "The common peroneal nerve supplies the muscles of the peroneal and anterior compartment of the leg and sensation to the dorsum of the foot.<br /><br />It travels through the popliteal fossa, wrapping around the head of the fibula (where it is sometimes palpable). <br /><br />Habitual leg crossing, prolonged bed rest, hyperflexion of the knee, pressure in obstetric stirrups and conditioning in ballet dancers are typical 'textbook' examples of scenarios where peroneal neuropathy can occur as a result of nerve compression against the head of the fibular. Transient trauma at this site (as in this scenario) can cause a temporary neurapraxia, whereas prolonged or more severe trauma can result in permanent foot drop.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Common peroneal nerve lesion",
+        "body": "The sciatic nerve divides into the tibial and common peroneal nerves. Injury often occurs at the neck of the fibula<br /><br />The most characteristic feature of a common peroneal nerve lesion is <span class=\"concept\" data-cid=\"10008\">foot drop</span>.<br /><br />Other features include:<br /><ul><li><span class=\"concept\" data-cid=\"3250\">weakness of foot dorsiflexion</span></li><li><span class=\"concept\" data-cid=\"3250\">weakness of foot eversion</span></li><li>weakness of extensor hallucis longus</li><li><span class=\"concept\" data-cid=\"10205\">sensory loss over the dorsum of the foot and the lower lateral part of the leg</span></li><li>wasting of the anterior tibial and peroneal muscles</li></ul>",
+        "notes_hash": "47adedae5f02d8179ea5e5b786ba2c71",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Common peroneal nerve lesion can cause weakness of foot dorsiflexion and foot eversion",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "5323",
+        "up_votes": "22",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "112",
+            "71",
+            "145",
+            "4569",
+            "426",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3250": {
+                "concept_text": "Common peroneal nerve lesion can cause weakness of foot dorsiflexion and foot eversion",
+                "concept_percentile": "65"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2270",
+        "new_question_id": "7545",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2550",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Nerve conduction studies and EMG",
+            "MRI Cervical spine",
+            "MRI Lumbar Spine",
+            "CT C-spine",
+            "AP and lateral C-spine radiographs",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old gentleman with a background of lumbar spondylosis and chronic back pain presents with gradually worsening bilateral upper limb paraesthesias and leg stiffness. Which one of the investigations below is diagnostic for his likely condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The presence of upper limb neurological symptoms indicates that there is pathology either within his cervical spinal cord or brain. Brain disease is more likely to cause unilateral problems. <br /><br />A MRI lumbar spine would therefore not provide a unifying diagnosis here. <br /><br />In the context of known lumbar degenerative spine, degenerative cervical myelopathy is the number one differential for this presentation. An MRI of the cervical spine is the gold standard test where cervical myelopathy is suspected. It may reveal disc degeneration and ligament hypertrophy, with accompanying cord signal change. It is not uncommon for patients to suffer from tandem (cervical and lumbar) stenosis. <br /><br />Other answers:<br /><ul><li>CT imaging is reserved for patients with contraindications to magnetic resonance imaging.  A CT myelogram is the first line investigation in this case</li><li>Radiographs are not clinically useful in the workup of these patients, though osteoarthritic changes (e.g. osteophytes) can be visible if they are performed.</li><li>Other investigatons (e.g. nerve conduction studies, EMG) may be performed when the clinical picture is unclear. These can help to exclude mononeuropathies and other lower motor neuron disorders. However, where there is strong clinical suspicion and the diagnosis is suspected, an MRI of the cervical spine should be performed. </li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old gentleman with a background of lumbar spondylosis and chronic back pain presents with gradually worsening bilateral upper limb paraesthesias and leg stiffness. Which one of the investigations below is diagnostic for his likely condition?",
+        "correct_answer": "2",
+        "question_notes": "The presence of upper limb neurological symptoms indicates that there is pathology either within his cervical spinal cord or brain. Brain disease is more likely to cause unilateral problems. <br /><br />A MRI lumbar spine would therefore not provide a unifying diagnosis here. <br /><br />In the context of known lumbar degenerative spine, degenerative cervical myelopathy is the number one differential for this presentation. An MRI of the cervical spine is the gold standard test where cervical myelopathy is suspected. It may reveal disc degeneration and ligament hypertrophy, with accompanying cord signal change. It is not uncommon for patients to suffer from tandem (cervical and lumbar) stenosis. <br /><br />Other answers:<br /><ul><li>CT imaging is reserved for patients with contraindications to magnetic resonance imaging.  A CT myelogram is the first line investigation in this case</li><li>Radiographs are not clinically useful in the workup of these patients, though osteoarthritic changes (e.g. osteophytes) can be visible if they are performed.</li><li>Other investigatons (e.g. nerve conduction studies, EMG) may be performed when the clinical picture is unclear. These can help to exclude mononeuropathies and other lower motor neuron disorders. However, where there is strong clinical suspicion and the diagnosis is suspected, an MRI of the cervical spine should be performed. </li></ul>",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Degenerative cervical myelopathy",
+        "body": "Degenerative cervical myelopathy (DCM) has a number of risk factors, which include smoking due to its effects on the intervertebral discs, genetics and occupation - those exposing patients to high axial loading [1]. <br /><br />The presentation of DCM is very variable. Early symptoms are often subtle and can vary in severity day to day, making the disease difficult to detect initially. However as a progressive condition, worsening, deteriorating or new symptoms should be a warning sign.<br /><br />DCM symptoms can include any combination of [1]: <br /><ul><li>Pain (affecting the neck, upper or lower limbs)</li><li>Loss of motor function (loss of digital dexterity, preventing simple tasks such as holding a fork or doing up their shirt buttons, arm or leg weakness/stiffness leading to impaired gait and imbalance</li><li>Loss of sensory function causing numbness</li><li>Loss of autonomic function (urinary or faecal incontinence and/or impotence) - these can occur and do not necessarily suggest cauda equina syndrome in the absence of other hallmarks of that condition</li><li>Hoffman's sign: is a reflex test to assess for cervical myelopathy. It is performed by gently flicking one finger on a patient's hand. A positive test results in reflex twitching of the other fingers on the same hand in response to the flick. </li></ul><br />The most common symptoms at presentation of DCM are unknown, but in one series 50% of patients were initially incorrectly diagnosed and sometimes treated for carpal tunnel syndrome [2].<br /><br />An MRI of the cervical spine is the gold standard test where cervical myelopathy is suspected. It may reveal disc degeneration and ligament hypertrophy, with accompanying cord signal change.<br /><br />All patients with degenerative cervical myelopathy should be urgently referred for assessment by specialist spinal services (neurosurgery or orthopaedic spinal surgery). This is due to the importance of early treatment. The timing of surgery is important, as any existing spinal cord damage can be permanent. Early treatment (within 6 months of diagnosis) offers the best chance of a full recovery but at present, most patients are presenting too late. In one study, patients averaged over 5 appointments before diagnosis, representing >2 years. <br /><br />Currently, decompressive surgery is the only effective treatment. It has been shown to prevent disease progression. Close observation is an option for mild stable disease, but anything progressive or more severe requires surgery to prevent further deterioration. Physiotherapy should only be initiated by specialist services, as manipulation can cause more spinal cord damage. <br /><br />References<br />1. Baron EM, Young WF. Cervical spondylotic myelopathy: a brief review of its pathophysiology, clinical course, and diagnosis. Neurosurgery. 2007 Jan;60(1 Supp1 1):S35-41.<br />2. Behrbalk E, Salame K, Regev GJ, Keynan O, Boszczyk B, Lidar Z. Delayed diagnosis of cervical spondylotic myelopathy by primary care physicians. Neurosurg Focus. 2013 Jul;35(1):E1.",
+        "notes_hash": "7ef7736b1e8f10c4795c45507825b99b",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6513",
+        "up_votes": "31",
+        "down_votes": "34",
+        "column_array": [
+            0,
+            "812",
+            "3444",
+            "2015",
+            "106",
+            "136",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xfguBiqsoDk\" data-description=\"MS with positive Hoffman's sign and Babinski test\" data-upvotes=\"38\" data-downvotes=\"4\" data-media=\"444\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xfguBiqsoDk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xfguBiqsoDk\" data-description=\"MS with positive Hoffman's sign and Babinski test\" data-upvotes=\"38\" data-downvotes=\"4\" data-media=\"444\">MS with positive Hoffman's sign and Babinski test</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1322\" data-mediaid=\"1322\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1322\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">38</span><button type=\"button\" style=\"\" id=\"media_dislike_1322\" data-mediaid=\"1322\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1322\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uVI55amnVuk\" data-description=\"Hoffmann's Sign or Reflex - Upper Motor Neuron Lesion\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"756\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uVI55amnVuk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uVI55amnVuk\" data-description=\"Hoffmann's Sign or Reflex - Upper Motor Neuron Lesion\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"756\">Hoffmann's Sign or Reflex - Upper Motor Neuron Lesion</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1323\" data-mediaid=\"1323\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1323\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1323\" data-mediaid=\"1323\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1323\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20495_B_776",
+        "new_question_id": "47742",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "12000",
+        "notes_id_link": "1_431",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "CT angiography",
+            "Contrast CT head",
+            "Lumbar puncture",
+            "MRI angiography",
+            "Non-contrast CT head",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old woman is rushed to hospital after developing a severe occipital headache that reached its maximum intensity within 1 minute and came on suddenly whilst she was watching television. The headache is associated with nausea, vomiting, photophobia, and neck stiffness. The woman is afebrile and felt completely well prior to the onset of her symptoms. <br /><br />What is the most appropriate first-line investigation for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Non-contrast CT head</b> is the first-line investigation of choice for suspected subarachnoid haemorrhage. A positive result will show hyperdense areas (due to bleeding) in the subarachnoid space/basal cisterns. This woman's history of sudden onset severe occipital headache associated with meningism is characteristic of subarachnoid haemorrhage. <br /><br /><b>CT angiography</b> is performed in patients with confirmed subarachnoid haemorrhage to identify the causal pathology and to plan definitive treatment. <br /><br />A <b>contrast CT head</b> is not necessary to identify a subarachnoid haemorrhage and takes longer to perform than a non-contrast CT head. Contrast is useful in CT head scans to identify contrast-enhanced lesions such as tumours, plaques (in multiple sclerosis), or abscesses. <br /><br />A <b>lumbar puncture</b> is performed in patients with suspected subarachnoid haemorrhage if a CT head scan performed more than 6 hours after symptom onset is inconclusive or negative. A lumbar puncture must be performed at least 12 hours after symptom onset to allow time for xanthochromia (due to the breakdown of blood cells in the cerebrospinal fluid) to develop. <br /><br /><b>MRI angiography</b> is more time-consuming than CT angiography. It would be performed if CT angiography did not identify the cause of the subarachnoid haemorrhage.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman is rushed to hospital after developing a severe occipital headache that reached its maximum intensity within 1 minute and came on suddenly whilst she was watching television. The headache is associated with nausea, vomiting, photophobia, and neck stiffness. The woman is afebrile and felt completely well prior to the onset of her symptoms. <br /><br />What is the most appropriate first-line investigation for this patient?",
+        "correct_answer": "5",
+        "question_notes": "<b>Non-contrast CT head</b> is the first-line investigation of choice for suspected subarachnoid haemorrhage. A positive result will show hyperdense areas (due to bleeding) in the subarachnoid space/basal cisterns. This woman's history of sudden onset severe occipital headache associated with meningism is characteristic of subarachnoid haemorrhage. <br /><br /><b>CT angiography</b> is performed in patients with confirmed subarachnoid haemorrhage to identify the causal pathology and to plan definitive treatment. <br /><br />A <b>contrast CT head</b> is not necessary to identify a subarachnoid haemorrhage and takes longer to perform than a non-contrast CT head. Contrast is useful in CT head scans to identify contrast-enhanced lesions such as tumours, plaques (in multiple sclerosis), or abscesses. <br /><br />A <b>lumbar puncture</b> is performed in patients with suspected subarachnoid haemorrhage if a CT head scan performed more than 6 hours after symptom onset is inconclusive or negative. A lumbar puncture must be performed at least 12 hours after symptom onset to allow time for xanthochromia (due to the breakdown of blood cells in the cerebrospinal fluid) to develop. <br /><br /><b>MRI angiography</b> is more time-consuming than CT angiography. It would be performed if CT angiography did not identify the cause of the subarachnoid haemorrhage.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Subarachnoid haemorrhage",
+        "body": "A subarachnoid haemorrhage (SAH) is an intracranial haemorrhage that is defined as the presence of blood within the subarachnoid space, i.e. deep to the subarachnoid layer of the meninges.<br /><br />The most common cause of SAH is head injury and this is called <i> traumatic SAH </i>. In the absence of trauma, SAH is termed <i> spontaneous SAH </i>. The rest of this note focuses on spontaneous SAH.<br /><br />Causes of spontaneous SAH include: <br /><ul><li>intracranial aneurysm (saccular 'berry' aneurysms)<ul><li>accounts for around 85% of cases</li><li>conditions associated with berry aneurysms include hypertension,<span class=\"concept\" data-cid=\"8028\">adult polycystic kidney disease</span>, <span class=\"concept\" data-cid=\"5302\">Ehlers-Danlos syndrome</span> and coarctation of the aorta</li></ul></li><li>arteriovenous malformation</li><li>pituitary apoplexy</li><li>mycotic (infective) aneurysms</li></ul><br />Classical presenting features include: <br /><ul><li>headache<ul><li>usually of sudden-onset ('thunderclap' or 'hit with a baseball bat')</li><li>severe ('worst of my life')</li><li>occipital </li><li>typically peaking in intensity within 1 to 5 minutes</li><li>there may be a history of a less-severe 'sentinel' headache in the weeks prior to presentation</li></ul></li><li>nausea and vomiting</li><li><span class=\"concept\" data-cid=\"2771\">meningism</span> (photophobia, neck stiffness)</li><li>coma</li><li>seizures</li><li>ECG changes including <span class=\"concept\" data-cid=\"2993\">ST elevation</span> may be seen<ul><li>this may be secondary to either autonomic neural stimulation from the hypothalamus or elevated levels of circulating catecholamines</li></ul></li></ul><br />Investigation<br /><ul><li> <span class=\"concept\" data-cid=\"12000\">non-contrast CT head</span> is the first-line investigation of choice<ul><li>acute blood (hyperdense/bright on CT) is typically distributed in the basal cisterns, sulci and in severe cases the ventricular system. </li></ul></li><li><span class=\"concept\" data-cid=\"11999\">if CT head is done within 6 hours of symptom onset and is normal</span><ul><li><span class=\"concept\" data-cid=\"11999\">new guidelines suggest <b>not</b> doing a lumbar puncture</span></li><li>consider an alternative diagnosis</li></ul></li><li><span class=\"concept\" data-cid=\"5099\">if CT head is done more than 6 hours after symptom onset and is normal</span><ul><li><span class=\"concept\" data-cid=\"5099\">do a lumber puncture (LP)</span></li><li>timing wise the LP should be performed at least <span class=\"concept\" data-cid=\"8027\">12 hours</span> following the onset of symptoms to allow the development of <span class=\"concept\" data-cid=\"1504\">xanthochromia (the result of red blood cell breakdown)</span>. </li><li>xanthochromia helps to distinguish true SAH from a 'traumatic tap' (blood introduced by the LP procedure). </li><li><span class=\"concept\" data-cid=\"10285\">as well as xanthochromia, CSF findings consistent with subarachnoid haemorrhage include a normal or raised opening pressure</span></li></ul></li><li>if the CT shows evidence of a SAH<ul><li>referral to neurosurgery to be made as soon as SAH is confirmed</li></ul></li></ul><br />After spontaneous SAH is confirmed, the aim of investigation is to identify a causative pathology that needs urgent treatment:<br /><ul><li><span class=\"concept\" data-cid=\"1805\">CT intracranial angiogram</span> (to identify a vascular lesion e.g. aneurysm or AVM)</li><li>+/- digital subtraction angiogram (catheter angiogram)</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb179b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT image shows diffuse subarachnoid haemorrhage in all basal cisterns, bilateral sylvian fissures and the inter-hemispheric fissure. This case demonstrates the typical distribution that takes the blood into the subarachnoid space in a subarachnoid hemorrhage.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb179.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb988b.jpg\" data-fancybox=\"gallery\" data-caption=\"CT showing a subarachnoid haemorrhage as a white area in the centre (marked by the arrow) and stretching into the sulci to either side\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb988.jpg\" alt=\"\" /></a></div></div></div><br />Management of  a confirmed aneurysmal subarachnoid haemorrhage<br /><ul><li>supportive<ul><li>bed rest</li><li>analgesia</li><li>venous thromboembolism prophylaxis</li><li>discontinuation of antithrombotics (reversal of anticoagulation if present)</li></ul></li><li>vasospasm is prevented using a course of oral <span class=\"concept\" data-cid=\"1804\">nimodipine</span></li><li>intracranial aneurysms are at risk of rebleeding and therefore require prompt intervention, preferably within 24 hours<ul><li><span class=\"concept\" data-cid=\"9935\">most intracranial aneurysms are now treated with a coil by interventional neuroradiologists, but a minority require a craniotomy and clipping by a neurosurgeon</span></li></ul></li></ul><br />Complications of aneurysmal SAH: <br /><ul><li>re-bleeding<ul><li>happens in around 10% of cases and most common in the first 12 hours</li><li>if rebleeding is suspected (e.g. sudden worsening of neurological symptoms) then a <span class=\"concept\" data-cid=\"11006\">repeat CT</span> should be arranged</li><li>associated with a high mortality (up to 70%)</li></ul></li><li><span class=\"concept\" data-cid=\"1439\">hydrocephalus</span><ul><li>hydrocephalus is temporarily treated with an external ventricular drain (CSF diverted into a bag at the bedside) or, if required, a long-term ventriculoperitoneal shunt</li></ul></li><li><span class=\"concept\" data-cid=\"1190\">vasospasm</span> (also termed delayed cerebral ischaemia), typically 7-14 days after onset<ul><li>ensure euvolaemia (normal blood volume)</li><li>consider treatment with a vasopressor if symptoms persist</li></ul></li><li><span class=\"concept\" data-cid=\"1196\">hyponatraemia</span> (most typically due to syndrome inappropriate anti-diuretic hormone (<span class=\"concept\" data-cid=\"1438\">SIADH</span>))</li><li>seizures</li></ul><br />Important predictive factors in SAH:<br /><ul><li>conscious level on admission</li><li>age</li><li>amount of blood visible on CT head</li></ul>",
+        "notes_hash": "06e57ec9fa5a5ace5bc615c293d28183",
+        "knowledge_graph_node_id_link": 1105,
+        "concept": "Non-contrast CT head is the first-line investigation of choice for suspected subarachnoid haemorrhage",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "4922",
+        "up_votes": "13",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "171",
+            "507",
+            "263",
+            "51",
+            "3930",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1558\" data-linkid=\"1558\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1558\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1558\" data-linkid=\"1558\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1558\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/subarachnoid-haemorrhage?lang=gb\">Subarachnoid haemorrhage </a></td></tr></table><br><br><table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1346\" data-linkid=\"1346\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1346\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_1346\" data-linkid=\"1346\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1346\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/raised-intracranial-pressure-ecg-library/\">Example ECG changes in subarachnoid haemorrhage</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2091\" data-linkid=\"2091\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2091\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"link_dislike_2091\" data-linkid=\"2091\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2091\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng228/chapter/Recommendations\">2022 Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/7/7a/Arteriovenous_malformation_video.webm\" data-description=\"Arteriovenous malformation\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"979\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/7/7a/Arteriovenous_malformation_video.webm\" data-description=\"Arteriovenous malformation\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"979\">Arteriovenous malformation</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1701\" data-mediaid=\"1701\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1701\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1701\" data-mediaid=\"1701\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1701\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WRqRjhD-Dxs\" data-description=\"Subarachnoid Haemorrhage / pathophysiology, complications and management\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1438\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WRqRjhD-Dxs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WRqRjhD-Dxs\" data-description=\"Subarachnoid Haemorrhage / pathophysiology, complications and management\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1438\">Subarachnoid Haemorrhage / pathophysiology, complications and management</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2538\" data-mediaid=\"2538\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2538\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2538\" data-mediaid=\"2538\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2538\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kb_wzb7-rvE\" data-description=\"Intracranial Haemorrhage Types\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"280\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Kb_wzb7-rvE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kb_wzb7-rvE\" data-description=\"Intracranial Haemorrhage Types\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"280\">Intracranial Haemorrhage Types</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_480\" data-mediaid=\"480\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_480\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_480\" data-mediaid=\"480\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_480\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "1504": {
+                "concept_text": "The presence of red blood cells in CSF may be due to traumatic tap. The presence of breakdown products of RBC in CSF is indicative of a SAH",
+                "concept_percentile": "44"
+            },
+            "1804": {
+                "concept_text": "Nimodipine is used to prevent vasospasm in aneurysmal subarachnoid haemorrhages",
+                "concept_percentile": "84"
+            },
+            "5099": {
+                "concept_text": "If subarachnoid haemorrhage is suspected but a CT head done > 6 hours after symptom onset is normal, a lumbar puncture should be done to confirm or exclude the diagnosis",
+                "concept_percentile": "84"
+            },
+            "9935": {
+                "concept_text": "Following a subarachnoid haemorrhage, most intracranial aneurysms are now treated with a coil by an interventional neuroradiologist",
+                "concept_percentile": "78"
+            },
+            "12000": {
+                "concept_text": "Non-contrast CT head is the first-line investigation of choice for suspected subarachnoid haemorrhage",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4972_B_159",
+        "new_question_id": "15610",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3569",
+        "notes_id_link": "1_1241",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Combined oral contraceptive pill",
+            "Copper coil (implantable uterine device)",
+            "Depo-provera injection",
+            "Diaphragm",
+            "Female condom",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old woman has come into your GP surgery requesting contraception. She is paralysed from the waist down from birth, but apart from that she has no other medical history of note and is fit and well with no symptoms. Which of the following is contraindicated due to her paralysis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Wheelchair users (as this woman is due to below waist paralysis), due to immobility, are at higher risk of DVT and PE than the general population, and that risk will be further increased by talking the COCP. It is currently UKMEC-3, which means it's not forbidden, just advised against.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old woman has come into your GP surgery requesting contraception. She is paralysed from the waist down from birth, but apart from that she has no other medical history of note and is fit and well with no symptoms. Which of the following is contraindicated due to her paralysis?",
+        "correct_answer": "1",
+        "question_notes": "Wheelchair users (as this woman is due to below waist paralysis), due to immobility, are at higher risk of DVT and PE than the general population, and that risk will be further increased by talking the COCP. It is currently UKMEC-3, which means it's not forbidden, just advised against.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Combined oral contraceptive pill: contraindications",
+        "body": "The decision of whether to start a women on the combined oral contraceptive pill is now guided by the UK Medical Eligibility Criteria (UKMEC). This scale categorises the potential cautions and contraindications according to a four point scale, as detailed below:<br /><ul><li>UKMEC 1: a condition for which there is no restriction for the use of the contraceptive method</li><li>UKMEC 2: advantages generally outweigh the disadvantages</li><li>UKMEC 3: disadvantages generally outweigh the advantages</li><li>UKMEC 4: represents an unacceptable health risk</li></ul><br />Examples of UKMEC 3 conditions include<br /><ul><li><span class=\"concept\" data-cid=\"7378\">more than 35 years old and smoking less than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"7379\">BMI > 35 kg/m^2</span>*</li><li><span class=\"concept\" data-cid=\"7380\">family history of thromboembolic disease in first degree relatives < 45 years</span></li><li><span class=\"concept\" data-cid=\"7381\">controlled hypertension</span></li><li><span class=\"concept\" data-cid=\"3569\">immobility e.g. wheel chair use</span></li><li><span class=\"concept\" data-cid=\"7410\">carrier of known gene mutations associated with breast cancer  (e.g. BRCA1/BRCA2)</span></li><li><span class=\"concept\" data-cid=\"10004\">current gallbladder disease</span></li></ul><br />Examples of UKMEC 4 conditions include <br /><ul><li><span class=\"concept\" data-cid=\"7384\">more than 35 years old and smoking more than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"4289\">migraine with aura</span></li><li><span class=\"concept\" data-cid=\"7386\">history of thromboembolic disease or thrombogenic mutation</span></li><li><span class=\"concept\" data-cid=\"7387\">history of stroke or ischaemic heart disease</span></li><li><span class=\"concept\" data-cid=\"1103\">breast feeding < 6 weeks post-partum</span></li><li><span class=\"concept\" data-cid=\"7389\">uncontrolled hypertension</span></li><li><span class=\"concept\" data-cid=\"7390\">current breast cancer</span></li><li><span class=\"concept\" data-cid=\"7391\">major surgery with prolonged immobilisation</span></li><li><span class=\"concept\" data-cid=\"11564\">positive antiphospholipid antibodies (e.g. in SLE)</span></li></ul><br />Diabetes mellitus diagnosed > 20 years ago is classified as UKMEC 3 or 4 depending on severity<br /><br />Changes in 2016<br /><ul><li><span class=\"concept\" data-cid=\"7383\">breast feeding 6 weeks - 6 months postpartum</span> was changed from UKMEC 3 &rarr; 2</li></ul>",
+        "notes_hash": "15c7e7457c88565620bc37b5c51d9ac3",
+        "knowledge_graph_node_id_link": 10894,
+        "concept": "Wheelchair users should not be prescribed the COCP as first-line contraceptive, as they are 'UKMEC 3'- risks outweigh benefits",
+        "concept_percentile": "68",
+        "concept_colour": "rgb(163,255,0)",
+        "number_attempts": "6264",
+        "up_votes": "23",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "4364",
+            "1031",
+            "410",
+            "293",
+            "166",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_305\" data-linkid=\"305\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_305\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">27</span><button type=\"button\" style=\"\" id=\"link_dislike_305\" data-linkid=\"305\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_305\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-ukmec-summary-september-2019.pdf\">UK Medical Eligibility Criteria for Contraceptive Use</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3569": {
+                "concept_text": "Wheelchair users should not be prescribed the COCP as first-line contraceptive, as they are 'UKMEC 3'- risks outweigh benefits",
+                "concept_percentile": "68"
+            },
+            "11564": {
+                "concept_text": "Positive antiphospholipid antibodies (e.g. in SLE) is UKMEC 4 for the COCP",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2153",
+        "new_question_id": "61234",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "12294",
+        "notes_id_link": "1_327",
+        "theme": "Asthma management step-up to MART therapy",
+        "instruction": "",
+        "options": [
+            "",
+            "Add a separate long-acting beta-agonist inhaler",
+            "Add a leukotriene receptor antagonist",
+            "Increase the dose of the beclometasone inhaler",
+            "Refer to a respiratory specialist",
+            "Switch to a low-dose ICS/formoterol combination inhaler",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 24-year-old with asthma attends for review. Despite using a regular beclometasone inhaler, they use their salbutamol inhaler four times a week and wake with a cough weekly. Inhaler technique is correct.<br /><br />Select the single most appropriate next step in management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Switch to a low-dose ICS/formoterol combination inhaler</b> is the correct answer. This patient's asthma is uncontrolled, as evidenced by their use of a short-acting beta-agonist (SABA) more than twice a week and nocturnal symptoms. The 2024 joint NICE/BTS/SIGN guidelines represent a significant change in asthma management. For patients aged 12 and over who are symptomatic on a regular low-dose inhaled corticosteroid (ICS) with a SABA as required, the recommended next step is to switch to a low-dose ICS/formoterol combination inhaler to be used for both maintenance and reliever therapy (MART). The MART approach involves the patient taking a regular daily maintenance dose and also using the same inhaler for symptom relief as needed. This strategy has been shown to reduce the risk of severe exacerbations compared to traditional regimens, as it ensures that an anti-inflammatory (the ICS component) is delivered whenever the reliever is used. This patient fits the criteria for this change perfectly.<br /><br /><b>Add a separate long-acting beta-agonist inhaler</b> is incorrect. While adding a long-acting beta-agonist (LABA) to an ICS was the standard 'step 3' in previous UK asthma guidelines, this is no longer the recommended first-line approach for stepping up treatment. The new guidelines favour switching to a combination ICS/formoterol inhaler for MART. The rationale is that using a single combination inhaler for both maintenance and relief is more effective at preventing exacerbations and is more convenient for patients, which may improve adherence. Adding a separate LABA while continuing a SABA for relief misses the key benefit of the anti-inflammatory reliever strategy.<br /><br /><b>Add a leukotriene receptor antagonist</b> is incorrect at this stage. A leukotriene receptor antagonist (LTRA), such as montelukast, is a potential add-on therapy for asthma. However, according to the new guidelines, it is not the initial step-up for a patient inadequately controlled on a low-dose ICS. An LTRA is now considered as a trial therapy at Step 4, for patients whose asthma is not controlled on a moderate-dose MART regimen. It is therefore an inappropriate next step for this patient.<br /><br /><b>Increase the dose of the beclometasone inhaler</b> is an incorrect next step. In previous guidelines, increasing the ICS dose (e.g., from low to moderate) was an alternative to adding a LABA. The current evidence and guidelines, however, strongly support the addition of a LABA (specifically formoterol in a combination inhaler for MART) as being more effective for most patients than simply increasing the steroid dose. The benefits of bronchodilation from the LABA component combined with the anti-inflammatory reliever strategy are prioritised over escalating the ICS dose alone at this stage of management.<br /><br /><b>Refer to a respiratory specialist</b> is not indicated at this point. Referral to secondary care is reserved for patients with difficult-to-control or severe asthma. This typically includes individuals whose asthma is not controlled despite treatment with a moderate-dose MART regimen and trials of add-on therapies (Step 5 of the pathway), or those on a high-dose ICS. This patient is at a much earlier stage in their treatment pathway, and there are several primary care management steps that should be taken first.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 24-year-old with asthma attends for review. Despite using a regular beclometasone inhaler, they use their salbutamol inhaler four times a week and wake with a cough weekly. Inhaler technique is correct.<br /><br />Select the single most appropriate next step in management from the options below.",
+        "correct_answer": "5",
+        "question_notes": "<b>Switch to a low-dose ICS/formoterol combination inhaler</b> is the correct answer. This patient's asthma is uncontrolled, as evidenced by their use of a short-acting beta-agonist (SABA) more than twice a week and nocturnal symptoms. The 2024 joint NICE/BTS/SIGN guidelines represent a significant change in asthma management. For patients aged 12 and over who are symptomatic on a regular low-dose inhaled corticosteroid (ICS) with a SABA as required, the recommended next step is to switch to a low-dose ICS/formoterol combination inhaler to be used for both maintenance and reliever therapy (MART). The MART approach involves the patient taking a regular daily maintenance dose and also using the same inhaler for symptom relief as needed. This strategy has been shown to reduce the risk of severe exacerbations compared to traditional regimens, as it ensures that an anti-inflammatory (the ICS component) is delivered whenever the reliever is used. This patient fits the criteria for this change perfectly.<br /><br /><b>Add a separate long-acting beta-agonist inhaler</b> is incorrect. While adding a long-acting beta-agonist (LABA) to an ICS was the standard 'step 3' in previous UK asthma guidelines, this is no longer the recommended first-line approach for stepping up treatment. The new guidelines favour switching to a combination ICS/formoterol inhaler for MART. The rationale is that using a single combination inhaler for both maintenance and relief is more effective at preventing exacerbations and is more convenient for patients, which may improve adherence. Adding a separate LABA while continuing a SABA for relief misses the key benefit of the anti-inflammatory reliever strategy.<br /><br /><b>Add a leukotriene receptor antagonist</b> is incorrect at this stage. A leukotriene receptor antagonist (LTRA), such as montelukast, is a potential add-on therapy for asthma. However, according to the new guidelines, it is not the initial step-up for a patient inadequately controlled on a low-dose ICS. An LTRA is now considered as a trial therapy at Step 4, for patients whose asthma is not controlled on a moderate-dose MART regimen. It is therefore an inappropriate next step for this patient.<br /><br /><b>Increase the dose of the beclometasone inhaler</b> is an incorrect next step. In previous guidelines, increasing the ICS dose (e.g., from low to moderate) was an alternative to adding a LABA. The current evidence and guidelines, however, strongly support the addition of a LABA (specifically formoterol in a combination inhaler for MART) as being more effective for most patients than simply increasing the steroid dose. The benefits of bronchodilation from the LABA component combined with the anti-inflammatory reliever strategy are prioritised over escalating the ICS dose alone at this stage of management.<br /><br /><b>Refer to a respiratory specialist</b> is not indicated at this point. Referral to secondary care is reserved for patients with difficult-to-control or severe asthma. This typically includes individuals whose asthma is not controlled despite treatment with a moderate-dose MART regimen and trials of add-on therapies (Step 5 of the pathway), or those on a high-dose ICS. This patient is at a much earlier stage in their treatment pathway, and there are several primary care management steps that should be taken first.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Asthma: management in adults",
+        "body": "In 2024 NICE, the British Thoracic Society and SIGN produced joint guidelines on the management of asthma following many years of conflicting guidelines. The new guidelines represent a major step change in the management of asthma is both diagnosed and treated.<br /><br />For many years patients with asthma were started on a short-acting beta-2 agonist (SABA) inhaler before 'stepping up' to a regular inhaled corticosteroid with a SABA as required. The new guidelines now advocate the use of combined inhalers (ICS + long-acting beta-2 agonist) as reliever therapy or regularly, depending on the severity of asthma. Given the prevalence of asthma, it is likely that doctors will have to deal with patients on 'conventional' asthma treatments for many years to come. The joint guidelines therefore include guidance on how to manage these patients if their current treatment is controlling their symptoms sufficiently.<br /><br /><h5 class='notes-heading'>Management of adult patients aged children aged \u2265 12 years with newly diagnosed asthma</h5><br />Step 1 <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a><ul><li>a <span class=\"concept\" data-cid=\"12286\">low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler to be taken as needed for symptom relief</span><ul><li>this is termed anti-inflammatory reliever (AIR) therapy</li></ul></li><li>if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:<ul><li><span class=\"concept\" data-cid=\"12295\">start treatment with low-dose MART</span> (maintenance and reliever therapy, see below)</li><li>treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)</li></ul></li></ul><br />Step 2  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li><span class=\"concept\" data-cid=\"12287\">a low-dose MART</span><ul><li>MART describes using an inhaled corticosteroid (ICS)/formoterol combination inhaler for daily maintenance therapy and the relief of symptoms as needed, i.e. regularly and as required</li></ul></li></ul><br />Step 3<br /><ul><li>a <span class=\"concept\" data-cid=\"12288\">moderate-dose MART</span></li></ul><br />Step 4<br /><ul><li><span class=\"concept\" data-cid=\"12289\">check the fractional exhaled nitric oxide (FeNO) level if available, and the blood eosinophil count</span>  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20(FeNO)%20level%20if%20available' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <ul><li>if <span class=\"concept\" data-cid=\"12290\">either of these is raised, refer to a specialist in asthma care</span></li><li>if <span class=\"concept\" data-cid=\"12291\">neither FeNO nor eosinophil count is raised, consider a trial of either a leukotriene receptor antagonist (LTRA) or a long-acting muscarinic receptor antagonist (LAMA)</span> used in addition to moderate-dose MART</li><li>if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)</li></ul></li></ul><br />Step 5<br /><ul><li><span class=\"concept\" data-cid=\"12292\">refer people to a specialist in asthma care</span> when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602b.png\" data-fancybox=\"gallery\" data-caption=\"Algorithm showing pharmacological management of asthma in people aged 12 years and over\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd602.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Transferring people aged 12 and over from other treatment pathways</h5><br />There will be many people whose asthma was managed according to the previous guidelines that present with uncontrolled asthmatic symptoms. The guidelines give advice on how these people should be switched:  <a href='https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Transferring%20people%20aged%2012%20and%20over%20from%20other%20treatment%20pathways,-These%20recommendations%20are' title='NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Existing asthma treatment</th><th>New asthma treatment</th></tr></thead><tbody><tr><td>SABA as required only</td><td><span class=\"concept\" data-cid=\"12293\"> Low-dose ICS/formoterol combination inhaler used as needed (as-needed AIR therapy)</span></td></tr><tr><td>SABA as required + regular low-dose ICS<br />SABA as required + regular low-dose ICS/LABA <br />SABA as required + regular low-dose ICS + LTRA <br />SABA as required + regular low-dose ICS/LABA + LTRA</td><td><span class=\"concept\" data-cid=\"12294\">Regular low-dose regular ICS/formoterol combination inhaler (MART therapy)</span></td></tr><tr><td>SABA as required + regular moderate-dose ICS<br />SABA as required + regular moderate-dose ICS/LABA  <br />SABA as required + regular moderate-dose ICS + LTRA or LAMA<br />SABA as required + regular moderate-dose ICS/LABA + LTRA or LAMA</td><td>Regular moderate-dose MART therapy</td></tr><tr><td>Treatment regime containing a high-dose ICS</td><td>Refer to a respiratory specialist</td></tr></tbody></table></div>",
+        "notes_hash": "b11ce0ccb8c27014563f244a47ea595b",
+        "knowledge_graph_node_id_link": 11377,
+        "concept": "Adults with asthma who are poorly controlled on SABA prn + regularly ICS &rarr; regular low-dose regular ICS/formoterol combination inhaler (MART therapy)",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "359",
+        "up_votes": "1",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "30",
+            "29",
+            "23",
+            "3",
+            "274",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2123\" data-linkid=\"2123\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2123\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">48</span><button type=\"button\" style=\"\" id=\"link_dislike_2123\" data-linkid=\"2123\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2123\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng245/chapter/Recommendations\">2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hjdIyyC8T-E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hjdIyyC8T-E\" data-description=\"Inhaler and Nebuliser Explanation\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"131\">Inhaler and Nebuliser Explanation</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_225\" data-mediaid=\"225\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_225\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_225\" data-mediaid=\"225\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_225\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "12286": {
+                "concept_text": "Asthma: adults and children \u2265 12 years first-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler as required",
+                "concept_percentile": "55"
+            },
+            "12287": {
+                "concept_text": "Asthma: adults and children \u2265 12 years second-line treatment --> low-dose inhaled corticosteroid (ICS)/formoterol combination inhaler regularly and as required (MART)",
+                "concept_percentile": "35"
+            },
+            "12288": {
+                "concept_text": "Asthma: adults and children \u2265 12 years not controlled on low-dose MART --> moderate-dose MART\n",
+                "concept_percentile": "27"
+            },
+            "12289": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART --> check the FeNO level if available, and the blood eosinophil count",
+                "concept_percentile": "36"
+            },
+            "12290": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if either FeNO level or blood eosinophil raised then --> refer to a respiratory specialist",
+                "concept_percentile": "35"
+            },
+            "12291": {
+                "concept_text": "Asthma: adults not controlled on moderate-dose MART - if neither FeNO level nor blood eosinophil raised -->  trial of either a LTRA or a LAMA",
+                "concept_percentile": "49"
+            },
+            "12292": {
+                "concept_text": "Refer adults to a respiratory specialist when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA",
+                "concept_percentile": "20"
+            },
+            "12294": {
+                "concept_text": "Adults with asthma who are poorly controlled on SABA prn + regularly ICS --> regular low-dose regular ICS/formoterol combination inhaler (MART therapy)",
+                "concept_percentile": "100"
+            },
+            "12295": {
+                "concept_text": "If an adult presents with highly symptomatic asthma (for example, regular nocturnal waking) or with a severe exacerbation then treat the acute symptoms and start MART",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

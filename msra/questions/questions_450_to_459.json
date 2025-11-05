@@ -1,0 +1,859 @@
+[
+    {
+        "question_id": "4429_B_101",
+        "new_question_id": "21995",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "10662",
+        "notes_id_link": "1_1182",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Continue anticoagulation long-term",
+            "Stop anticoagulation as he has had a successful catheter ablation",
+            "Repeat an ECG in 3 months, and if the patient remains in sinus rhythm stop anticoagulation",
+            "Repeat an ECG in 12 months, and if the patient remains in sinus rhythm stop anticoagulation",
+            "Stop anticoagulation owing to his uncontrolled high blood pressure",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 66-year-old man attends surgery for review of his atrial fibrillation. He underwent a successful catheter ablation for atrial fibrillation 1 month ago.<br /><br />He has a past medical history of type 2 diabetes and hypertension. His last recorded blood pressure was 145/90 mmHg.<br /><br />What is the most appropriate management in terms of his anticoagulation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Based on the american college of cardiology guidelines the decision to discontinue anticoagulation beyond 2 months post-catheter ablation should be based upon the patient's stroke risk profile, not on the clinical outcome of the procedure. There is no prospective evidence published that it is safe to stop anticoagulation after an ablation if the CHA2DS2-Vasc score is greater than or equal to 1. In the above scenario, the stroke risk based on the CHA2DS2-VASc score remains high (3 points indicating moderate to high risk) and therefore anticoagulation should be continued.<br /><br />Although monitoring of heart rhythm is important owing to risk of recurrence, anticoagulation should still be continued even if the patient remains in sinus rhythm.<br /><br />There is no indication to stop anticoagulation based on his blood pressure readings.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 66-year-old man attends surgery for review of his atrial fibrillation. He underwent a successful catheter ablation for atrial fibrillation 1 month ago.<br /><br />He has a past medical history of type 2 diabetes and hypertension. His last recorded blood pressure was 145/90 mmHg.<br /><br />What is the most appropriate management in terms of his anticoagulation?",
+        "correct_answer": "1",
+        "question_notes": "Based on the american college of cardiology guidelines the decision to discontinue anticoagulation beyond 2 months post-catheter ablation should be based upon the patient's stroke risk profile, not on the clinical outcome of the procedure. There is no prospective evidence published that it is safe to stop anticoagulation after an ablation if the CHA2DS2-Vasc score is greater than or equal to 1. In the above scenario, the stroke risk based on the CHA2DS2-VASc score remains high (3 points indicating moderate to high risk) and therefore anticoagulation should be continued.<br /><br />Although monitoring of heart rhythm is important owing to risk of recurrence, anticoagulation should still be continued even if the patient remains in sinus rhythm.<br /><br />There is no indication to stop anticoagulation based on his blood pressure readings.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Atrial fibrillation: rate control and maintenance of sinus rhythm",
+        "body": "NICE updated its guidelines on the management of atrial fibrillation (AF) in 2021. The following is also based on the joint American Heart Association (AHA), American College of Cardiology (ACC) and European Society of Cardiology (ESC) 2012 guidelines<br /><br /><h5 class='notes-heading'>Patients presenting acutely with AF</h5><br />If a patient has signs of haemodynamic instability (e.g. hypotension, heart failure) they should be <span class=\"concept\" data-cid=\"11783\">electrically cardioverted</span>, as per the peri-arrest tachycardia guidelines.<br /><br />For haemodynamically stable patients, the management depends on how acute the AF is:<br /><ul><li>< 48 hours:  rate or rhythm control</li><li><span class=\"concept\" data-cid=\"11784\">\u2265 48 hours or uncertain (e.g. patient not sure when symptoms started): rate control</span><ul><li>if considered for long-term rhythm control, delay cardioversion until they have been maintained on therapeutic anticoagulation for a <span class=\"concept\" data-cid=\"11785\">minimum of 3 weeks</span></li></ul></li><li>anticoagulation<ul><li><span class=\"concept\" data-cid=\"12390\">all patients with new-onset AF require anticoagulation, regardless of onset</span></li><li>long-term anticoagulation is based on the CHA<sub>2</sub>DS<sub>2</sub>-VASc score</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg088b.png\" data-fancybox=\"gallery\" data-caption=\"Atrial fibrillation - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg088.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Rate control</h5><br />Rate control should be offered as the first-line treatment strategy for atrial fibrillation except in people:<br /><ul><li>whose atrial fibrillation has a reversible cause</li><li>who have heart failure thought to be primarily caused by atrial fibrillation</li><li>with new-onset atrial fibrillation (< 48 hours)</li><li>with atrial flutter whose condition is considered suitable for an ablation strategy to restore sinus rhythm</li><li>for whom a rhythm-control strategy would be more suitable based on clinical judgement</li></ul><br /><h6 class='notes-subheading'>Medications</h6><br />Agents used to control rate in patients with atrial fibrillation<br /><ul><li><span class=\"concept\" data-cid=\"200\">beta-blockers</span><ul><li><span class=\"concept\" data-cid=\"10829\">a common contraindication for beta-blockers is asthma</span></li></ul></li><li>calcium channel blockers</li><li><span class=\"concept\" data-cid=\"3135\">digoxin</span><ul><li>not considered first-line anymore as they are less effective at controlling the heart rate during exercise</li><li>should only be considered if the person does no or very little physical exercise or other rate-limiting drug options are ruled out because of comorbidities </li><li>may have a role if there is coexistent heart failure</li></ul></li></ul><br /><h5 class='notes-heading'>Rhythm control</h5><br />Agents used to maintain sinus rhythm in patients with a history of atrial fibrillation<br /><ul><li>beta-blockers</li><li>dronedarone: second-line in patients following cardioversion</li><li>amiodarone: particularly if coexisting heart failure </li></ul><br /><br /><h5 class='notes-heading'>Catheter ablation</h5><br />NICE recommends the use of catheter ablation for those with AF who have not responded to or wish to avoid, antiarrhythmic medication.<br /><br />Technical aspects<br /><ul><li>the aim is to ablate the faulty electrical pathways that are resulting in atrial fibrillation. This is typically due to <span class=\"concept\" data-cid=\"10663\">aberrant electrical activity between the pulmonary veins and left atrium</span></li><li>the procedure is performed percutaneously, typically via the groin</li><li>both radiofrequency (uses heat generated from medium frequency alternating current) and cryotherapy can be used to ablate the tissue</li></ul><br />Anticoagulation <br /><ul><li>should be used 4 weeks before and during the procedure</li><li>it should be remember that catheter ablation controls the rhythm but does not reduce the stroke risk, even if patients remain in sinus rhythm. Therefore, <span class=\"concept\" data-cid=\"10662\">patients still require anticoagulation as per their CHA<sub>2</sub>DS<sub>2</sub>-VASc score</span><ul><li>if score = 0: 2 months anticoagulation recommended</li><li>if score > 1: longterm anticoagulation recommended</li></ul></li></ul><br />Outcome<br /><ul><li>notable complications include<ul><li>cardiac tamponade</li><li>stroke</li><li>pulmonary vein stenosis</li></ul></li><li>success rate<ul><li>around 50% of patients experience an early recurrence (within 3 months) of AF that often resolves spontaneously</li><li>longer term, after 3 years, around 55% of patients who've had a single procedure remain in sinus rhythm. Of patients who've undergone multiple procedures around 80% are in sinus rhythm</li></ul></li></ul>",
+        "notes_hash": "e9661ae706ac2fe13caef3b9d80ba0f4",
+        "knowledge_graph_node_id_link": 1162,
+        "concept": "Patients who've had a catheter ablation for atrial fibrillation still require long-term anticoagulation as per their CHA<sub>2</sub>DS<sub>2</sub>-VASc score ",
+        "concept_percentile": "93",
+        "concept_colour": "rgb(35,255,0)",
+        "number_attempts": "6779",
+        "up_votes": "26",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "4445",
+            "483",
+            "1519",
+            "303",
+            "29",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2046\" data-linkid=\"2046\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2046\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">32</span><button type=\"button\" style=\"\" id=\"link_dislike_2046\" data-linkid=\"2046\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2046\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng196/chapter/Recommendations\">2021 Atrial fibrillation guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>European Society of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_32\" data-linkid=\"32\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_32\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_32\" data-linkid=\"32\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_32\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/eurheartj/article/42/5/373/5899003\">2020 Atrial fibrillation guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J33lfh6w3gI\" data-description=\"Understanding Atrial Fibrillation\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1688\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/J33lfh6w3gI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J33lfh6w3gI\" data-description=\"Understanding Atrial Fibrillation\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1688\">Understanding Atrial Fibrillation</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2869\" data-mediaid=\"2869\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2869\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2869\" data-mediaid=\"2869\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2869\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wxJuP-i9Jx0\" data-description=\"Atrial Fibrillation Overview - ECG, types, pathophysiology, treatment, complications\" data-upvotes=\"6\" data-downvotes=\"4\" data-media=\"1107\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wxJuP-i9Jx0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wxJuP-i9Jx0\" data-description=\"Atrial Fibrillation Overview - ECG, types, pathophysiology, treatment, complications\" data-upvotes=\"6\" data-downvotes=\"4\" data-media=\"1107\">Atrial Fibrillation Overview - ECG, types, pathophysiology, treatment, complications</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1917\" data-mediaid=\"1917\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1917\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1917\" data-mediaid=\"1917\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1917\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "200": {
+                "concept_text": "Atrial fibrillation: rate control - beta blockers preferable to digoxin",
+                "concept_percentile": "54"
+            },
+            "10662": {
+                "concept_text": "Patients who've had a catheter ablation for atrial fibrillation still require long-term anticoagulation as per their CHA<sub>2</sub>DS<sub>2</sub>-VASc score ",
+                "concept_percentile": "93"
+            },
+            "10829": {
+                "concept_text": "Beta-blockers are contraindicated in patients with asthma when managing atrial fibrillation",
+                "concept_percentile": "100"
+            },
+            "11783": {
+                "concept_text": "Acute presentation of atrial fibrillation: if signs of haemodynamic instability (e.g. hypotension, heart failure) --> electrical cardioversion, as per the peri-arrest tachycardia guidelines",
+                "concept_percentile": "60"
+            },
+            "11784": {
+                "concept_text": "Acute onset of atrial fibrillation: if \u2265 48 hours or uncertain (e.g. patient not sure when symptoms started) --> rate control",
+                "concept_percentile": "89"
+            },
+            "11785": {
+                "concept_text": "Acute onset of atrial fibrillation: if \u2265 48 hours - rate control initially, then if considered for long-term rhythm control, delay cardioversion until they have been maintained on therapeutic anticoagulation for a minimum of 3 weeks",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14383_B_11",
+        "new_question_id": "35878",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "5147",
+        "notes_id_link": "1_2392",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute angle-closure glaucoma",
+            "Anterior uveitis",
+            "Bacterial conjunctivitis",
+            "Blepharitis",
+            "Keratitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old contact lens wearer was referred to a casualty ophthalmology clinic by her GP. She is complaining about her left eye, it is red, painful and has a gritty sensation. She also noticed increased sensitivity to light. There is no eye discharge.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Keratitis</b> is the correct answer. The typical presentation usually involves a red eye, photophobia, pain and gritty sensation. Wearing contact lenses is a known risk factor.<br /><br /><b>Acute angle-closure glaucoma</b> can present as a red and painful eye. However, gritty sensation in a contact lens wearer point towards keratitis.<br /><br /><b>Anterior uveitis</b> is a very good differential. It can also present as an acute red eye and discomfort. It often is associated with certain systemic inflammatory conditions (e.g. ankylosing spondylitis, ulcerative colitis). Keratitis; however, is much more common among contact lens wearers and has a typical gritty sensation.<br /><br /><b>Bacterial conjunctivitis</b> would typically present as a red, itchy eye with sticky discharge.<br /><br /><b>Blepharitis</b> can present with grittiness and sticky eyes, especially in the morning. Symptoms are usually bilateral.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old contact lens wearer was referred to a casualty ophthalmology clinic by her GP. She is complaining about her left eye, it is red, painful and has a gritty sensation. She also noticed increased sensitivity to light. There is no eye discharge.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "<b>Keratitis</b> is the correct answer. The typical presentation usually involves a red eye, photophobia, pain and gritty sensation. Wearing contact lenses is a known risk factor.<br /><br /><b>Acute angle-closure glaucoma</b> can present as a red and painful eye. However, gritty sensation in a contact lens wearer point towards keratitis.<br /><br /><b>Anterior uveitis</b> is a very good differential. It can also present as an acute red eye and discomfort. It often is associated with certain systemic inflammatory conditions (e.g. ankylosing spondylitis, ulcerative colitis). Keratitis; however, is much more common among contact lens wearers and has a typical gritty sensation.<br /><br /><b>Bacterial conjunctivitis</b> would typically present as a red, itchy eye with sticky discharge.<br /><br /><b>Blepharitis</b> can present with grittiness and sticky eyes, especially in the morning. Symptoms are usually bilateral.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Keratitis",
+        "body": "Keratitis describes inflammation of the cornea. Microbial keratitis is not like conjunctivitis - it is potentially sight threatening and should therefore be urgently evaluated and treated.<br /><br /><br /><h5 class='notes-heading'>Aetiology</h5><br />Causes<br /><ul><li>bacterial<ul><li>typically <i>Staphylococcus aureus</i></li><li><span class=\"concept\" data-cid=\"4249\"><i>Pseudomonas aeruginosa</i> is seen in contact lens wearers</span></li></ul></li><li>fungal</li><li>amoebic<ul><li><span class=\"concept\" data-cid=\"5204\">acanthamoebic keratitis</span></li><li>accounts for around 5% of cases</li><li>increased incidence if eye exposure to soil or <span class=\"concept\" data-cid=\"10697\">contaminated water</span></li><li>pain is classically out of proportion to the findings</li></ul></li><li>parasitic: onchocercal keratitis ('river blindness')</li></ul><br />Remember, other factors may causes keratitis:<br /><ul><li>viral: <span class=\"concept\" data-cid=\"9547\">herpes simplex keratitis</span></li><li>environmental<ul><li>photokeratitis: e.g. welder's arc eye</li><li>exposure keratitis</li><li>contact lens acute red eye (CLARE)</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Clinical features</h5><br /><span class=\"concept\" data-cid=\"5147\">Features</span><br /><ul><li>red eye: pain and erythema</li><li>photophobia</li><li>foreign body, gritty sensation</li><li>hypopyon may be seen</li></ul><br /><br /><h5 class='notes-heading'>Evaluation and management</h5><br />Referral<br /><ul><li>contact lens wearers<ul><li>assessing contact lens wearers who present with a painful red eye is difficult</li><li>an accurate diagnosis can only usually be made with a slit-lamp,<span class=\"concept\" data-cid=\"10661\"> meaning same-day referral to an eye specialist is usually required to rule out microbial keratitis</span></li></ul></li></ul><br />Management<br /><ul><li>stop using contact lens until the symptoms have fully resolved</li><li>topical antibiotics<ul><li>typically quinolones are used first-line</li></ul></li><li>cycloplegic for pain relief<ul><li>e.g. cyclopentolate</li></ul></li></ul><br />Complications may include:<br /><ul><li>corneal scarring</li><li>perforation</li><li>endophthalmitis</li><li>visual loss</li></ul>",
+        "notes_hash": "d52ae70f3989deefea6a1fa98977929b",
+        "knowledge_graph_node_id_link": 11046,
+        "concept": "Features of keratitis: red eye, photophobia and gritty sensation",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "5125",
+        "up_votes": "24",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "132",
+            "579",
+            "424",
+            "294",
+            "3696",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "5147": {
+                "concept_text": "Features of keratitis: red eye, photophobia and gritty sensation",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "15566_B_112",
+        "new_question_id": "24535",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "224",
+        "notes_id_link": "1_1216",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cervical radiculopathy",
+            "De Quervain's tenosynovitis",
+            "Radial tunnel syndrome",
+            "Medial epicondylitis",
+            "Lateral epicondylitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Robert, a 56-year-old man, presents with pain in his right forearm and hand, triggered by movement. The pain began after he moved house and lifted several heavy boxes. It is particularly aggravated by gripping or lifting objects and improves with rest.<br /><br />On examination, the pain is reproduced by resisted wrist extension and forearm supination with the elbow extended. There is localised tenderness over the lateral epicondyle of the humerus at the origin of the common extensor tendon. Neurological examination is normal, with no motor or sensory deficits.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Lateral epicondylitis, or tennis elbow, is caused by repetitive strain involving wrist extension and gripping activities. It is characterised by pain over the lateral epicondyle, where the common extensor tendon originates. The pain is typically worsened by resisted wrist extension, particularly with the elbow extended. Maximal tenderness is felt at the lateral epicondyle. Management includes physiotherapy, activity modification, and analgesia.<br /><br />Medial epicondylitis, or golfer\u2019s elbow, presents with pain on the medial aspect of the forearm, with maximal tenderness over the medial epicondyle. Pain is aggravated by resisted wrist flexion or forearm pronation.<br /><br />Radial tunnel syndrome may mimic lateral epicondylitis but is caused by radial nerve entrapment within the radial tunnel. Pain is typically located 5\u20136 cm distal to the lateral epicondyle rather than directly over it. Neurological features such as altered sensation over the dorsum of the first web space may also be present.<br /><br />De Quervain\u2019s tenosynovitis presents with radial wrist pain that may radiate proximally along the forearm. It is typically exacerbated by gripping or thumb extension.<br /><br />Cervical radiculopathy results from nerve root compression as spinal nerves exit the cervical spine. It usually presents with neck pain and neurological symptoms such as dermatomal sensory loss, motor weakness not limited by pain, and paraesthesia (e.g. pins and needles).",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Robert, a 56-year-old man, presents with pain in his right forearm and hand, triggered by movement. The pain began after he moved house and lifted several heavy boxes. It is particularly aggravated by gripping or lifting objects and improves with rest.<br /><br />On examination, the pain is reproduced by resisted wrist extension and forearm supination with the elbow extended. There is localised tenderness over the lateral epicondyle of the humerus at the origin of the common extensor tendon. Neurological examination is normal, with no motor or sensory deficits.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "Lateral epicondylitis, or tennis elbow, is caused by repetitive strain involving wrist extension and gripping activities. It is characterised by pain over the lateral epicondyle, where the common extensor tendon originates. The pain is typically worsened by resisted wrist extension, particularly with the elbow extended. Maximal tenderness is felt at the lateral epicondyle. Management includes physiotherapy, activity modification, and analgesia.<br /><br />Medial epicondylitis, or golfer\u2019s elbow, presents with pain on the medial aspect of the forearm, with maximal tenderness over the medial epicondyle. Pain is aggravated by resisted wrist flexion or forearm pronation.<br /><br />Radial tunnel syndrome may mimic lateral epicondylitis but is caused by radial nerve entrapment within the radial tunnel. Pain is typically located 5\u20136 cm distal to the lateral epicondyle rather than directly over it. Neurological features such as altered sensation over the dorsum of the first web space may also be present.<br /><br />De Quervain\u2019s tenosynovitis presents with radial wrist pain that may radiate proximally along the forearm. It is typically exacerbated by gripping or thumb extension.<br /><br />Cervical radiculopathy results from nerve root compression as spinal nerves exit the cervical spine. It usually presents with neck pain and neurological symptoms such as dermatomal sensory loss, motor weakness not limited by pain, and paraesthesia (e.g. pins and needles).",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Lateral epicondylitis",
+        "body": "Lateral epicondylitis typically follows unaccustomed activity such as house painting or playing tennis ('tennis elbow'). It is most common in people aged 45-55 years and typically affects the dominant arm.<br /><br />Features<br /><ul><li>pain and tenderness localised to the lateral epicondyle</li><li><span class=\"concept\" data-cid=\"224\">pain worse on wrist extension against resistance with the elbow extended or supination of the forearm with the elbow extended</span></li><li>episodes typically last between 6 months and 2 years. Patients tend to have acute pain for 6-12 weeks</li></ul><br />Management options<br /><ul><li>advice on avoiding muscle overload</li><li>simple analgesia</li><li>steroid injection</li><li>physiotherapy</li></ul>",
+        "notes_hash": "6111c8aff8e0c2ca10eadf12d42d6054",
+        "knowledge_graph_node_id_link": 1227,
+        "concept": "Lateral epicondylitis: worse on resisted wrist extension/suppination whilst elbow extended",
+        "concept_percentile": "47",
+        "concept_colour": "rgb(255,239,0)",
+        "number_attempts": "5172",
+        "up_votes": "4",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "44",
+            "292",
+            "206",
+            "155",
+            "4475",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3bFO7wrIxQc\" data-description=\"Understanding Tennis Elbow and Golfer's Elbow (Lateral & Medial Epicondylitis)\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1475\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/3bFO7wrIxQc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/3bFO7wrIxQc\" data-description=\"Understanding Tennis Elbow and Golfer's Elbow (Lateral & Medial Epicondylitis)\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1475\">Understanding Tennis Elbow and Golfer's Elbow (Lateral & Medial Epicondylitis)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2603\" data-mediaid=\"2603\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2603\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_2603\" data-mediaid=\"2603\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2603\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "224": {
+                "concept_text": "Lateral epicondylitis: worse on resisted wrist extension/suppination whilst elbow extended",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16718_B_1166",
+        "new_question_id": "32029",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_629",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bullous pemphigoid",
+            "Erythema marginatum",
+            "Erythema multiforme",
+            "Erythema nodosum",
+            "Stevens-Johnson syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old woman present to her general practitioner with a new-onset rash on her forearms. She says that it is not itchy and denies any other symptoms. She has a past medical history of recurrent urinary tract infections that she usually treats with amoxicillin. Otherwise, she feels well and does not take any regular medication. Her rash is shown below: <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Which one of the following is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is erythema multiforme. This patient is presenting with some giant non-itchy target lesions on her forearm. The name of target lesions comes from the fact they have three concentric colour zones, a darker centre with a blister, a ring around this that is paler pink and raised due to oedema and a bright red outermost ring. This shape of lesion is characteristic of erythema multiforme, a hypersensitivity reaction that is most commonly triggered by infections or drugs usage. This patient is taking amoxicillin (penicillin) for her recurrent urinary tract infections, which probably triggered the reaction.  <br /><br />Bullous pemphigoid is an autoimmune condition causing sub-epidermal blistering of the skin. It is common in elderly patients and is usually itchy. Given that this patient has no blisters and itchiness the diagnosis is unlikely. <br /><br />Erythema marginatum is a form of reactive inflammatory erythema seen in around 10% of the cases of rheumatic fever and it is rare in adults. It involves pink rings on the torso and inner surfaces of the limbs that are barely raised and are non-itchy. In this case, the lesions are not itchy, but they are clearly raised. This patient does not complain of other symptoms, making this diagnosis unlikely. <br /><br />Erythema nodosum is an inflammation of subcutaneous fat that typically causes tender, erythematous, nodular lesions. It typically occurs on the shins. It can be caused by an infection or a systemic disease such as sarcoidosis. This patient's lesions are targeted lesions, whilst in erythema nodosum, you would expect a more of a 'bulging' lesion. <br /><br />Stevens-Johnson syndrome is a severe systemic reaction affecting the skin and mucosa, almost always caused by a drug reaction. The characteristic rash is typically maculopapular with target lesions. This patient has this type of lesion, however, this patient is systematically well, whilst in Stevens-Johnson syndrome, fever and arthralgia extremely are common. The condition causes epidermolysis (blistering and peeling) which causes severe fluid loss, causing the patient to feel extremely unwell. This is not seen in this patient.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old woman present to her general practitioner with a new-onset rash on her forearms. She says that it is not itchy and denies any other symptoms. She has a past medical history of recurrent urinary tract infections that she usually treats with amoxicillin. Otherwise, she feels well and does not take any regular medication. Her rash is shown below: <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943.jpg'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.dermnet.org.nz'  target='_blank' style = 'font-size:11px; color:LightGray;' >DermNet NZ</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />Which one of the following is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is erythema multiforme. This patient is presenting with some giant non-itchy target lesions on her forearm. The name of target lesions comes from the fact they have three concentric colour zones, a darker centre with a blister, a ring around this that is paler pink and raised due to oedema and a bright red outermost ring. This shape of lesion is characteristic of erythema multiforme, a hypersensitivity reaction that is most commonly triggered by infections or drugs usage. This patient is taking amoxicillin (penicillin) for her recurrent urinary tract infections, which probably triggered the reaction.  <br /><br />Bullous pemphigoid is an autoimmune condition causing sub-epidermal blistering of the skin. It is common in elderly patients and is usually itchy. Given that this patient has no blisters and itchiness the diagnosis is unlikely. <br /><br />Erythema marginatum is a form of reactive inflammatory erythema seen in around 10% of the cases of rheumatic fever and it is rare in adults. It involves pink rings on the torso and inner surfaces of the limbs that are barely raised and are non-itchy. In this case, the lesions are not itchy, but they are clearly raised. This patient does not complain of other symptoms, making this diagnosis unlikely. <br /><br />Erythema nodosum is an inflammation of subcutaneous fat that typically causes tender, erythematous, nodular lesions. It typically occurs on the shins. It can be caused by an infection or a systemic disease such as sarcoidosis. This patient's lesions are targeted lesions, whilst in erythema nodosum, you would expect a more of a 'bulging' lesion. <br /><br />Stevens-Johnson syndrome is a severe systemic reaction affecting the skin and mucosa, almost always caused by a drug reaction. The characteristic rash is typically maculopapular with target lesions. This patient has this type of lesion, however, this patient is systematically well, whilst in Stevens-Johnson syndrome, fever and arthralgia extremely are common. The condition causes epidermolysis (blistering and peeling) which causes severe fluid loss, causing the patient to feel extremely unwell. This is not seen in this patient.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Erythema multiforme",
+        "body": "Erythema multiforme is a hypersensitivity reaction that is most commonly triggered by infections. It may be divided into minor and major forms.<br /><br />Previously it was thought that Stevens-Johnson syndrome (SJS) was a severe form of erythema multiforme. They are now however considered as separate entities.<br /><br />Features<br /><ul><li>target lesions</li><li>initially seen on the back of the hands / feet before spreading to the torso</li><li>upper limbs are more commonly affected than the lower limbs</li><li>pruritus is occasionally seen and is usually mild</li></ul><br />Causes<br /><ul><li>viruses: herpes simplex virus (the most common cause), Orf*</li><li>idiopathic</li><li>bacteria: <i>Mycoplasma</i>, <i>Streptococcus</i></li><li>drugs: penicillin, sulphonamides, carbamazepine, allopurinol, NSAIDs, oral contraceptive pill, nevirapine</li><li>connective tissue disease e.g. Systemic lupus erythematosus</li><li>sarcoidosis</li><li>malignancy</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd001b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd001.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd002b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd002.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd003b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd003.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd941b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd941.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd942b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme on the right side of the neck. In this case, developed after the onset of herpes labailis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd942.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme - giant target lesions on her forearms\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd943.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd004b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd004.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd001b.jpg\" data-fancybox=\"gallery\" data-caption=\"Erythema multiforme\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd001.jpg\" alt=\"\" /></a></div></div><div class=\"row\"></div></div><br /><h5 class='notes-heading'>Erythema multiforme major</h5><br />The more severe form, erythema multiforme major is associated with mucosal involvement.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd463b.jpg\" data-fancybox=\"gallery\" data-caption=\"This image shows the ventral and lateral surfaces of the tongue with multiple irregular, erythematous patches and areas of epithelial sloughing and superficial ulceration, consistent with mucosal erosions. The lesions have a geographic and well-demarcated appearance, and are surrounded by erythematous mucosa, indicating active inflammation. These findings are characteristic of erythema multiforme major, which typically involves painful mucosal erosions (oral, ocular, or genital) in conjunction with targetoid skin lesions. Erythema multiforme major is often precipitated by HSV infection or medications and requires prompt recognition.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd463.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of mucosal involvement in erythema multiforme major\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd115.jpg\" alt=\"\" /></a></div></div></div><br />*Orf is a skin disease of sheep and goats caused by a parapox virus",
+        "notes_hash": "6894b0b812d0342a75faf627e8ea52aa",
+        "knowledge_graph_node_id_link": 10471,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5716",
+        "up_votes": "15",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "168",
+            "721",
+            "4165",
+            "346",
+            "316",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_56\" data-linkid=\"56\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_56\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_56\" data-linkid=\"56\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_56\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/erythema-multiforme/\">Erythema multiforme</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1NeeMpKzHFo\" data-description=\"Erythema multiforme\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1448\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1NeeMpKzHFo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1NeeMpKzHFo\" data-description=\"Erythema multiforme\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"1448\">Erythema multiforme</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2560\" data-mediaid=\"2560\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2560\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_2560\" data-mediaid=\"2560\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2560\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4285_B_3",
+        "new_question_id": "15796",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4068",
+        "notes_id_link": "1_329",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "None",
+            "Intravitreal anti-VEGF injection",
+            "Laser photocoagulation",
+            "Photodynamic therapy",
+            "High doses of beta-carotene, vitamins C and E, and zinc",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old gentleman was seen in your GP clinic during your FY2 rotation in General Practice. He complained of blurring of vision in the right eye for the past 4 months but finally decided to come to see you because he felt his vision is now very distorted. On examination, both his eyes were white with no signs of inflammation. Both corneas were clear and there was not any fluorescein uptake. On dilated fundoscopy, the left eye looked fairly normal. In the right eye, you could see some yellowish deposits in the centre of the macula. <br /><br />Which ONE of the following is the curative treatment for this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The above mentioned condition is dry age-related macular degeneration. The yellowish deposits are drusen which are typical of dry AMD. There is currently no curative treatment for dry AMD but you can give high doses of beta-carotene, vitamins C and E, and zinc to slow the deterioration of visual loss. Intravitreal anti-VEGF injections, laser photocoagulation and photodynamic therapy are treatment options for treating wet AMD.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old gentleman was seen in your GP clinic during your FY2 rotation in General Practice. He complained of blurring of vision in the right eye for the past 4 months but finally decided to come to see you because he felt his vision is now very distorted. On examination, both his eyes were white with no signs of inflammation. Both corneas were clear and there was not any fluorescein uptake. On dilated fundoscopy, the left eye looked fairly normal. In the right eye, you could see some yellowish deposits in the centre of the macula. <br /><br />Which ONE of the following is the curative treatment for this condition?",
+        "correct_answer": "1",
+        "question_notes": "The above mentioned condition is dry age-related macular degeneration. The yellowish deposits are drusen which are typical of dry AMD. There is currently no curative treatment for dry AMD but you can give high doses of beta-carotene, vitamins C and E, and zinc to slow the deterioration of visual loss. Intravitreal anti-VEGF injections, laser photocoagulation and photodynamic therapy are treatment options for treating wet AMD.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Age-related macular degeneration",
+        "body": "Age-related macular degeneration is the most common cause of blindness in the UK. Degeneration of the central retina (macula) is the key feature with changes usually bilateral. ARMD is characterised by degeneration of retinal photoreceptors that results in the formation of drusen which can be seen on fundoscopy and retinal photography. It is more common with advancing age and is more common in females.<br /><br />Risk factors<br /><ul><li>advancing age itself is the greatest risk factor for ARMD<ul><li>the risk of ARMD increases 3 fold for patients aged older than 75 years, versus those aged 65-74.</li></ul></li><li><span class=\"concept\" data-cid=\"640\">smoking</span><ul><li>current smokers are twice as likely as non-smokers to have ARMD related visual loss, and ex-smokers have a slightly increased risk of developing the condition, (OR 1.13). </li></ul></li><li>family history is also a strong risk factor for developing ARMD<ul><li>first degree relatives of a sufferer of ARMD are thought to be four times more likely to inherit the condition.</li></ul></li><li>other risk factors for developing the condition include those associated with an increased risk of ischaemic cardiovascular disease, such as hypertension, dyslipidaemia and diabetes mellitus. </li></ul><br /><br /><h5 class='notes-heading'>Classification</h5><br />Traditionally two forms of macular degeneration are seen:<br /><ul><li>dry macular degeneration<ul><li>90% of cases</li><li>also known as atrophic</li><li>characterised by <span class=\"concept\" data-cid=\"639\">drusen</span>  - yellow round spots in Bruch's membrane</li></ul></li><li>wet macular degeneration<ul><li>10% of cases</li><li>also known as exudative or neovascular macular degeneration</li><li>characterised by <span class=\"concept\" data-cid=\"11900\">choroidal neovascularisation</span></li><li>leakage of serous fluid and blood can subsequently result in a rapid loss of vision</li><li>carries the worst prognosis</li></ul></li></ul><br />Recently there has been a move to a more updated classification:<br /><ul><li>early age-related macular degeneration (non-exudative, age-related maculopathy): drusen and alterations to the retinal pigment epithelium (RPE)</li><li>late age-related macular degeneration (neovascularisation, exudative)</li></ul><br /><h5 class='notes-heading'>Clinical features</h5><br />Patients typically present with a subacute onset of visual loss with:<br /><ul><li>a reduction in visual acuity, particularly for near field objects<ul><li>gradual in dry ARMD </li><li>subacute in wet ARMD</li></ul></li><li><span class=\"concept\" data-cid=\"12500\">worse in the centre of vision</span> (e.g. difficulty reading, recognising faces, driving)</li><li>difficulties in dark adaptation with an overall deterioration in vision at night</li><li>fluctuations in visual disturbance which may vary significantly from day to day</li><li>they may also suffer from photopsia, (a perception of flickering or flashing lights), and glare around objects</li><li>visual hallucinations may also occur resulting in Charles-Bonnet syndrome</li></ul><br />Signs:<br /><ul><li>distortion of line perception may be noted on <span class=\"concept\" data-cid=\"11392\">Amsler grid testing</span></li><li>fundoscopy reveals the presence of drusen, yellow areas of pigment deposition in the macular area, which may become confluent in late disease to form a macular scar.</li><li>in wet ARMD well demarcated red patches may be seen which represent intra-retinal or sub-retinal fluid leakage or haemorrhage. </li></ul>   <br />Investigations:<br /><ul><li>slit-lamp microscopy is the initial investigation of choice, to identify any pigmentary, exudative or haemorrhagic changes affecting the retina which may identify the presence of ARMD. This is usually accompanied by colour fundus photography to provide a baseline against which changes can be identified over time.</li><li>fluorescein angiography is utilised if neovascular ARMD is suspected, as this can guide intervention with anti-VEGF therapy. This may be complemented with indocyanine green angiography to visualise any changes in the choroidal circulation. </li><li>optical coherence tomography is used to visualise the retina in three dimensions because it can reveal areas of disease which aren't visible using microscopy alone. </li></ul><br /><h5 class='notes-heading'>Management</h5><br />Treatment<br /><ul><li>the AREDS trial examined the treatment of dry ARMD in 3640 subjects. It showed that a combination of zinc with anti-oxidant vitamins A,C and E reduced progression of the disease by around one third. Patients with more extensive drusen seemed to benefit most from the intervention. Treatment is therefore recommended in patients with at least moderate category dry ARMD. </li><li><span class=\"concept\" data-cid=\"4069\">vascular endothelial growth factor (VEGF)</span> <ul><li>VEGR is a potent mitogen and drives increased vascular permeability in patients with wet ARMD</li><li>a number of trials have shown that use of anti-VEGF agents can limit progression of wet ARMD and stabilise or reverse visual loss</li><li>evidence suggests that they should be instituted within the first two months of diagnosis of wet ARMD if possible</li><li>examples of anti-VEGF agents include ranibizumab, <span class=\"concept\" data-cid=\"11448\">bevacizumab</span> and pegaptanib,. The agents are usually administered by 4 weekly injection. </li></ul></li><li>laser photocoagulation does slow progression of ARMD where there is new vessel formation, although there is a risk of acute visual loss after treatment, which may be increased in patients with sub-foveal ARMD. For this reason anti-VEGF therapies are usually preferred.</li></ul>",
+        "notes_hash": "09af800e13bb1ef3f1990b7d53bc66af",
+        "knowledge_graph_node_id_link": 1286,
+        "concept": "There is no curative medical treatment for dry AMD. High dose of beta-carotene, vitamins C and E, and zinc can be given to slow deterioration of visual loss",
+        "concept_percentile": "63",
+        "concept_colour": "rgb(188,255,0)",
+        "number_attempts": "5183",
+        "up_votes": "52",
+        "down_votes": "59",
+        "column_array": [
+            0,
+            "2200",
+            "1112",
+            "785",
+            "86",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Webvision</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_410\" data-linkid=\"410\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_410\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">42</span><button type=\"button\" style=\"\" id=\"link_dislike_410\" data-linkid=\"410\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_410\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">42</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://webvision.med.utah.edu/book/part-xii-cell-biology-of-retinal-degenerations/age-related-macular-degeneration-amd/\">Age related macular degeneration fundoscopy findings</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "639": {
+                "concept_text": "<b>D</b>rusen = <b>D</b>ry macular degeneration",
+                "concept_percentile": "67"
+            },
+            "640": {
+                "concept_text": "Macular degeneration - smoking is risk factor",
+                "concept_percentile": "80"
+            },
+            "11392": {
+                "concept_text": "Amsler grid testing (to check for distortion of line perception) may be useful in testing patients with suspected age related macular degeneration",
+                "concept_percentile": "85"
+            },
+            "12500": {
+                "concept_text": "Elderly patient, gradual, central visual loss --> age-related macular degeneration",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "23539_B_218",
+        "new_question_id": "38948",
+        "question_type": "0",
+        "category": "0",
+        "concept_id_link": "0",
+        "notes_id_link": "9_277",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Buckle fracture",
+            "Complete transverse fracture",
+            "Greenstick fracture",
+            "Salter-Harris 1 fracture",
+            "Salter-Harris 2 fracture",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 8-year-old boy is brought to the emergency department after falling onto his right hand. He is in severe pain and movement is minimally tolerated.<br /><br />On examination, there are no signs of neurovascular compromise and the overlying skin is intact.<br /><br />An x-ray is performed:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What best describes this injury?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Buckle fracture</b> is correct. This child's radiograph demonstrates a transverse fracture of their right radius that is incomplete (as the cortex beside each end of the fracture line is interrupted). It can be seen that the cortex beside each end of the fracture line is bulging outwards, suggesting the presence of a buckle (or torus) fracture, which is common in children aged 5-10 years due to the increased elasticity. The reason the swelling occurs can be understood by imagining the bone buckling or crushing in on itself with the sides bulging outwards.<br /><br /><b>Greenstick fracture</b> is incorrect. Although this is also common in children, a greenstick fracture would only have a unilateral breach of the cortex. In this x-ray, the cortex is not breached and is instead bulging, making a buckle fracture more likely.<br /><br /><b>Salter-Harris 1 fracture</b> is incorrect. The x-ray would include a fracture involving the growth plate, without any surrounding cortical swelling. A Salter-Harris 1 fracture would involve the physis only and may appear normal on an x-ray, which is not the case here.<br /><br /><b>Salter-Harris 2 fracture</b> is incorrect. The x-ray would include a fracture involving the growth plate, without any surrounding cortical swelling. A Salter-Harris 2 fracture would involve the physis and metaphysis, which is not the case here.<br /><br /><b>Complete transverse fracture</b> is incorrect. This would be characterised by the line traversing the entirety of the bone, interrupting the cortex on both sides. In this x-ray, the cortex is not disrupted.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 8-year-old boy is brought to the emergency department after falling onto his right hand. He is in severe pain and movement is minimally tolerated.<br /><br />On examination, there are no signs of neurovascular compromise and the overlying skin is intact.<br /><br />An x-ray is performed:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What best describes this injury?",
+        "correct_answer": "1",
+        "question_notes": "<b>Buckle fracture</b> is correct. This child's radiograph demonstrates a transverse fracture of their right radius that is incomplete (as the cortex beside each end of the fracture line is interrupted). It can be seen that the cortex beside each end of the fracture line is bulging outwards, suggesting the presence of a buckle (or torus) fracture, which is common in children aged 5-10 years due to the increased elasticity. The reason the swelling occurs can be understood by imagining the bone buckling or crushing in on itself with the sides bulging outwards.<br /><br /><b>Greenstick fracture</b> is incorrect. Although this is also common in children, a greenstick fracture would only have a unilateral breach of the cortex. In this x-ray, the cortex is not breached and is instead bulging, making a buckle fracture more likely.<br /><br /><b>Salter-Harris 1 fracture</b> is incorrect. The x-ray would include a fracture involving the growth plate, without any surrounding cortical swelling. A Salter-Harris 1 fracture would involve the physis only and may appear normal on an x-ray, which is not the case here.<br /><br /><b>Salter-Harris 2 fracture</b> is incorrect. The x-ray would include a fracture involving the growth plate, without any surrounding cortical swelling. A Salter-Harris 2 fracture would involve the physis and metaphysis, which is not the case here.<br /><br /><b>Complete transverse fracture</b> is incorrect. This would be characterised by the line traversing the entirety of the bone, interrupting the cortex on both sides. In this x-ray, the cortex is not disrupted.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Paediatric fractures",
+        "body": "<h5 class='notes-heading'>Paediatric fracture types</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type</b></th><th><b> \tInjury pattern</b></th></tr></thead><tbody><tr><td>Complete fracture\t</td><td>Both sides of the cortex are breached</td></tr><tr><td>Toddlers fracture\t</td><td>Oblique tibial fracture in infants</td></tr><tr><td>Plastic deformity</td><td>\tStress on bone resulting in deformity without cortical disruption</td></tr><tr><td>Greenstick fracture\t</td><td>Unilateral cortical breach only</td></tr><tr><td>Buckle ('torus') fracture\t</td><td>Incomplete cortical disruption resulting in periosteal haematoma only</td></tr></tbody></table></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb963b.jpg\" data-fancybox=\"gallery\" data-caption=\"Greenstick fracture - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb963.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964b.jpg\" data-fancybox=\"gallery\" data-caption=\"Buckle (torus) fracture - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb964.jpg\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Growth plate fractures</h5><br />In paediatric practice, fractures may also involve the growth plate and these injuries are classified according to the Salter-Harris system (given below):<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Type</b></th><th><b> \tInjury pattern</b></th></tr></thead><tbody><tr><td>I\t</td><td>Fracture through the physis only (x-ray often normal)</td></tr><tr><td>II\t</td><td>Fracture through the physis and metaphysis</td></tr><tr><td>III</td><td>\tFracture through the physis and epiphysis to include the joint</td></tr><tr><td>IV\t</td><td>Fracture involving the physis, metaphysis and epiphysis</td></tr><tr><td>V\t</td><td>Crush injury involving the physis (x-ray may resemble type I, and appear normal)</td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb225b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb225.png'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://www.radiopaedia.org/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Radiopaedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb225b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb965b.jpg\" data-fancybox=\"gallery\" data-caption=\"Salter-Harris I fracture of distal radius - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb965.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb966b.jpg\" data-fancybox=\"gallery\" data-caption=\"Salter-Harris II fracture of ring finger proximal phalanx - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb966.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb967b.jpg\" data-fancybox=\"gallery\" data-caption=\"Salter-Harris III fracture of big toe proximal phalanx - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb967.jpg\" alt=\"\" /></a></div></div></div><br />As a general rule, it is safer to assume that growth plate tenderness is indicative of an underlying fracture even if the x-ray appears normal. Injuries of Types III, IV and V will usually require surgery. Type V injuries are often associated with disruption to growth.<br /><br /><b>Non accidental injury</b><br /><ul><li>Delayed presentation</li><li>Delay in attaining milestones</li><li>Lack of concordance between proposed and actual mechanism of injury</li><li>Multiple injuries</li><li>Injuries at sites not commonly exposed to trauma</li><li>Children on the at risk register</li></ul><br /><h5 class='notes-heading'>Pathological fractures</h5><br />Genetic conditions, such as osteogenesis imperfecta, may cause pathological fractures. <br /><br />Osteogenesis imperfecta<br /><ul><li>Defective osteoid formation due to congenital inability to produce adequate intercellular substances like osteoid, collagen and dentine.</li><li>Failure of maturation of collagen in all the connective tissues.</li><li>Radiology may show translucent bones, multiple fractures, particularly of the long bones, wormian bones (irregular patches of ossification) and a trefoil pelvis.</li></ul><br />Subtype of osteogenesis imperfecta<br /><ul><li>Type I - The collagen is normal quality but insufficient quantity.</li><li>Type II -  Poor collagen quantity and quality.</li><li>Type III -  Collagen poorly formed. Normal quantity.</li><li>Type IV -  Sufficient collagen quantity but poor quality.</li></ul><br />Osteopetrosis<br /><ul><li>Bones become harder and more dense. </li><li>Autosomal recessive condition. </li><li>It is commonest in young adults. </li><li>Radiology reveals a lack of differentiation between the cortex and the medulla described as marble bone.</li></ul>",
+        "notes_hash": "e663121d81b24b6828b375c23c4cfb49",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "1819",
+        "up_votes": "9",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "1290",
+            "87",
+            "276",
+            "116",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9310_B_21",
+        "new_question_id": "24441",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "646",
+        "notes_id_link": "1_336",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intramuscular ceftriaxone",
+            "Intramuscular ceftriaxone + oral amoxicillin",
+            "Oral azithromycin",
+            "Oral cefixime",
+            "Oral cefixime + oral azithromycin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are working in the sexual health clinic. A 24-year-old male presents with dysuria and urethral discharge. He had unprotected sexual intercourse 2 weeks ago. You do a full sexual health screen. Two days later he returns to get his results; the initial test is positive for <i>Neisseria gonorrhoea</i>, sensitivities are not known. <br /><br />What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The first line management of gonorrhoea is ceftriaxone 1g intramuscular (IM) as a single dose. <br /><br />Ciprofloxacin 500mg orally can be used instead if the sensitivities are known and it is sensitive to ciprofloxacin.<br /><br />If the patient is needle-phobic oral cefixime 400mg + oral azithromycin 2g (single doses) can be used. <br /><br />Oral azithromycin 2g can be used alone if there is an allergy to cefixime.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are working in the sexual health clinic. A 24-year-old male presents with dysuria and urethral discharge. He had unprotected sexual intercourse 2 weeks ago. You do a full sexual health screen. Two days later he returns to get his results; the initial test is positive for <i>Neisseria gonorrhoea</i>, sensitivities are not known. <br /><br />What is the most appropriate management?",
+        "correct_answer": "1",
+        "question_notes": "The first line management of gonorrhoea is ceftriaxone 1g intramuscular (IM) as a single dose. <br /><br />Ciprofloxacin 500mg orally can be used instead if the sensitivities are known and it is sensitive to ciprofloxacin.<br /><br />If the patient is needle-phobic oral cefixime 400mg + oral azithromycin 2g (single doses) can be used. <br /><br />Oral azithromycin 2g can be used alone if there is an allergy to cefixime.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Gonorrhoea",
+        "body": "Gonorrhoea is caused by the <span class=\"concept\" data-cid=\"5851\">Gram-negative diplococcus</span> <i>Neisseria gonorrhoeae</i>. Acute infection can occur on any mucous membrane surface, typically genitourinary but also rectum and pharynx. The incubation period of gonorrhoea is 2-5 days<br /><br />Features<br /><ul><li>males: urethral discharge, dysuria</li><li>females: cervicitis e.g. leading to vaginal discharge</li><li>rectal and pharyngeal infection is usually asymptomatic</li></ul><br />Microbiology<br /><ul><li>immunisation is not possible and reinfection is common due to antigen variation of type IV pili (proteins which adhere to surfaces) and Opa proteins (surface proteins which bind to receptors on immune cells)</li></ul><br />Local complications that may develop include <span class=\"concept\" data-cid=\"3176\">urethral strictures</span>, epididymitis and salpingitis (hence may lead to infertility). Disseminated infection may occur - see below<br /><br />Management<br /><ul><li>ciprofloxacin used to be the treatment of choice. However, there is increased resistance to ciprofloxacin (around 36% in the UK) and therefore cephalosporins are now more widely used</li><li>there was a change in the 2019 British Society for Sexual Health and HIV (BASHH) guidelines. Previously the first-line treatment was IM ceftriaxone + oral azithromycin. The new first-line treatment is a single dose of <span class=\"concept\" data-cid=\"646\">IM ceftriaxone 1g</span> (i.e. no longer add azithromycin). If sensitivities are known (and the organism is sensitive to ciprofloxacin) then a single dose of oral ciprofloxacin 500mg should be given</li><li>if ceftriaxone is refused (e.g. needle-phobic) then <span class=\"concept\" data-cid=\"10869\">oral cefixime 400mg (single dose) + oral azithromycin 2g (single dose)</span> should be used</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd132b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Colorized scanning electron micrograph of <i>Neisseria gonorrhoeae</i>. Credit: NIAID</div><br />Disseminated gonococcal infection (DGI) and gonococcal arthritis may also occur, with gonococcal infection being the most common cause of septic arthritis in young adults. The pathophysiology of DGI is not fully understood but is thought to be due to haematogenous spread from mucosal infection (e.g. Asymptomatic genital infection). Initially there may be a classic triad of symptoms: tenosynovitis, migratory polyarthritis and dermatitis. Later complications include septic arthritis, endocarditis and perihepatitis (Fitz-Hugh-Curtis syndrome)<br /><br />Key features of disseminated gonococcal infection<br /><ul><li><span class=\"concept\" data-cid=\"9908\">tenosynovitis</span></li><li><span class=\"concept\" data-cid=\"9908\">migratory polyarthritis</span></li><li><span class=\"concept\" data-cid=\"9908\">dermatitis</span> (lesions can be maculopapular or vesicular)</li></ul>",
+        "notes_hash": "903cf24835ee30758f64ba1a699b7add",
+        "knowledge_graph_node_id_link": 1215,
+        "concept": "Intramuscular ceftriaxone is the treatment of choice for <i>Gonorrhoea</i>",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "5660",
+        "up_votes": "24",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "4832",
+            "432",
+            "189",
+            "81",
+            "126",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society for Sexual Health and HIV (BASHH)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_518\" data-linkid=\"518\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_518\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_518\" data-linkid=\"518\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_518\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashhguidelines.org/media/1208/gc-2019.pdf\">2019 Gonorrhoea guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2UsFW1foX4\" data-description=\"Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1546\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x2UsFW1foX4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x2UsFW1foX4\" data-description=\"Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1546\">Neisseria gonorrhea (STI) symptoms, pathophysiology, complications and treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2700\" data-mediaid=\"2700\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2700\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2700\" data-mediaid=\"2700\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2700\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A0tQcKo4KqQ\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1123\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/A0tQcKo4KqQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/A0tQcKo4KqQ\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1123\">Neisseria gonorrhoeae</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1943\" data-mediaid=\"1943\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1943\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1943\" data-mediaid=\"1943\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1943\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UBWxSAYJ4fk\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"969\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UBWxSAYJ4fk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UBWxSAYJ4fk\" data-description=\"Neisseria gonorrhoeae\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"969\">Neisseria gonorrhoeae</a></td></tr><tr><td><span ><small>ATP - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1678\" data-mediaid=\"1678\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1678\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1678\" data-mediaid=\"1678\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1678\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "646": {
+                "concept_text": "Intramuscular ceftriaxone is the treatment of choice for <i>Gonorrhoea</i>",
+                "concept_percentile": "56"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1925",
+        "new_question_id": "60864",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "2270",
+        "notes_id_link": "1_1890",
+        "theme": "ACE inhibitor causing angioedema without urticaria",
+        "instruction": "",
+        "options": [
+            "",
+            "ACE inhibitor-induced angioedema",
+            "Calcium channel blocker-induced angioedema",
+            "Hereditary angioedema",
+            "Allergic angioedema",
+            "Idiopathic angioedema",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman presents to the emergency department with facial swelling that developed over 6 hours. She has swelling of her lips, tongue, and periorbital areas but no rash or wheals. Her medical history includes hypertension and type 2 diabetes. She takes ramipril, metformin, and amlodipine.<br /><br />What is the most likely cause of her presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>ACE inhibitor-induced angioedema</b> is the most likely diagnosis in this case. This patient presents with the classic features of angioedema affecting the face, lips, and tongue without urticaria, and she is taking ramipril, an ACE inhibitor. ACE inhibitor-induced angioedema is the most common cause of drug-induced angioedema without urticaria. It occurs due to increased bradykinin levels as ACE normally breaks down bradykinin. This type of angioedema can occur at any time during treatment, even months or years after starting the medication. The absence of urticaria is characteristic of ACE inhibitor-induced angioedema, distinguishing it from allergic reactions. The condition can be life-threatening if it involves the larynx and requires immediate discontinuation of the ACE inhibitor.<br /><br /><b>Calcium channel blocker-induced angioedema</b> is much less common than ACE inhibitor-induced angioedema. While amlodipine can rarely cause angioedema, it is not typically associated with this presentation. Calcium channel blockers more commonly cause peripheral oedema rather than angioedema. Given that the patient is taking ramipril, which is a well-known cause of angioedema, this would be a less likely explanation for her symptoms.<br /><br /><b>Hereditary angioedema</b> typically presents earlier in life, often during childhood or adolescence, and has a family history. It is caused by C1 esterase inhibitor deficiency and usually affects the face, lips, tongue, and sometimes the larynx and gastrointestinal tract. While it can present later in life, the timing of this presentation in a patient taking ACE inhibitors makes drug-induced angioedema more likely.<br /><br /><b>Allergic angioedema</b> is usually associated with urticaria (wheals/hives) and occurs rapidly after exposure to an allergen such as foods, medications, or environmental triggers. The absence of urticaria in this case makes allergic angioedema less likely. Additionally, allergic angioedema typically occurs within minutes to hours of exposure to a new allergen, and there is no history of new exposures mentioned.<br /><br /><b>Idiopathic angioedema</b> is a diagnosis of exclusion made when no underlying cause can be identified. Given that this patient is taking ramipril, a well-known cause of angioedema, and presents with the typical pattern of ACE inhibitor-induced angioedema (facial swelling without urticaria), it would be inappropriate to label this as idiopathic without first considering and excluding drug-induced causes.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman presents to the emergency department with facial swelling that developed over 6 hours. She has swelling of her lips, tongue, and periorbital areas but no rash or wheals. Her medical history includes hypertension and type 2 diabetes. She takes ramipril, metformin, and amlodipine.<br /><br />What is the most likely cause of her presentation?",
+        "correct_answer": "1",
+        "question_notes": "<b>ACE inhibitor-induced angioedema</b> is the most likely diagnosis in this case. This patient presents with the classic features of angioedema affecting the face, lips, and tongue without urticaria, and she is taking ramipril, an ACE inhibitor. ACE inhibitor-induced angioedema is the most common cause of drug-induced angioedema without urticaria. It occurs due to increased bradykinin levels as ACE normally breaks down bradykinin. This type of angioedema can occur at any time during treatment, even months or years after starting the medication. The absence of urticaria is characteristic of ACE inhibitor-induced angioedema, distinguishing it from allergic reactions. The condition can be life-threatening if it involves the larynx and requires immediate discontinuation of the ACE inhibitor.<br /><br /><b>Calcium channel blocker-induced angioedema</b> is much less common than ACE inhibitor-induced angioedema. While amlodipine can rarely cause angioedema, it is not typically associated with this presentation. Calcium channel blockers more commonly cause peripheral oedema rather than angioedema. Given that the patient is taking ramipril, which is a well-known cause of angioedema, this would be a less likely explanation for her symptoms.<br /><br /><b>Hereditary angioedema</b> typically presents earlier in life, often during childhood or adolescence, and has a family history. It is caused by C1 esterase inhibitor deficiency and usually affects the face, lips, tongue, and sometimes the larynx and gastrointestinal tract. While it can present later in life, the timing of this presentation in a patient taking ACE inhibitors makes drug-induced angioedema more likely.<br /><br /><b>Allergic angioedema</b> is usually associated with urticaria (wheals/hives) and occurs rapidly after exposure to an allergen such as foods, medications, or environmental triggers. The absence of urticaria in this case makes allergic angioedema less likely. Additionally, allergic angioedema typically occurs within minutes to hours of exposure to a new allergen, and there is no history of new exposures mentioned.<br /><br /><b>Idiopathic angioedema</b> is a diagnosis of exclusion made when no underlying cause can be identified. Given that this patient is taking ramipril, a well-known cause of angioedema, and presents with the typical pattern of ACE inhibitor-induced angioedema (facial swelling without urticaria), it would be inappropriate to label this as idiopathic without first considering and excluding drug-induced causes.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "ACE inhibitors",
+        "body": "Angiotensin-converting enzyme (ACE) inhibitors are now the established first-line treatment in younger patients with hypertension and are also extensively used to treat heart failure. They are known to be less effective in treating hypertensive Afro-Caribbean patients. ACE inhibitors are also used to treat diabetic nephropathy and have a role in the secondary prevention of ischaemic heart disease.<br /><br />Mechanism of action:<br /><ul><li>inhibits the conversion angiotensin I to angiotensin II<ul><li>&rarr; decrease in angiotensin II levels &rarr; to vasodilation and reduced blood pressure</li><li>&rarr; decrease in angiotensin II levels &rarr; reduced stimulation for aldosterone release &rarr; decrease in sodium and water retention by the kidneys</li></ul></li><li>renoprotective mechanism<ul><li>angiotensin II constricts the efferent glomerular arterioles </li><li>ACE inhibitors therefore lead to <span class=\"concept\" data-cid=\"12098\">dilation of the efferent arterioles</span> &rarr; reduced glomerular capillary pressure &rarr; decreased mechanical stress on the delicate filtration barriers of the glomeruli</li><li>this is particularly important in diabetic nephropathy</li></ul></li><li><span class=\"concept\" data-cid=\"5284\">ACE inhibitors are activated by phase 1 metabolism in the liver </span></li></ul><br />Side-effects:<br /><ul><li>cough<ul><li>occurs in around 15% of patients and may occur up to a year after starting treatment</li><li>thought to be due to <span class=\"concept\" data-cid=\"2034\">increased bradykinin levels</span></li></ul></li><li><span class=\"concept\" data-cid=\"2270\">angioedema</span>: may occur up to a year after starting treatment</li><li><span class=\"concept\" data-cid=\"5266\">hyperkalaemia</span></li><li>first-dose hypotension: more common in patients taking diuretics</li></ul><br />Cautions and contraindications<br /><ul><li><span class=\"concept\" data-cid=\"3346\">pregnancy</span> and breastfeeding - avoid</li><li><span class=\"concept\" data-cid=\"10496\">renovascular disease</span> - may result in renal impairment</li><li><span class=\"concept\" data-cid=\"3361\">aortic stenosis</span> - may result in hypotension</li><li>hereditary of idiopathic angioedema</li><li><span class=\"concept\" data-cid=\"10244\">specialist advice should be sought before starting ACE inhibitors in patients with a potassium >= 5.0 mmol/L</span></li></ul><br />Interactions<br /><ul><li>patients receiving high-dose diuretic therapy (more than 80 mg of furosemide a day)<ul><li>significantly increases the risk of hypotension</li></ul></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"3883\">urea and electrolytes should be checked before treatment is initiated and after increasing the dose</span><ul><li>a rise in the creatinine and potassium may be expected after starting ACE inhibitors</li><li><span class=\"concept\" data-cid=\"3884\">acceptable changes are an increase in serum creatinine, up to 30% from baseline</span> and an increase in potassium up to 5.5 mmol/l.</li><li>significant renal impairment may occur in patients who have undiagnosed <span class=\"concept\" data-cid=\"10906\">bilateral renal artery stenosis</span></li></ul></li></ul><br />Examples of common ACE inhibitors<br /><ul><li>ramipril</li><li>enalapril</li><li>lisinopril</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div>",
+        "notes_hash": "b9bc8382b304704c258a375c1f412b6c",
+        "knowledge_graph_node_id_link": 10620,
+        "concept": "Drug-induced angioedema without urticaria is most frequently associated with angiotensin converting enzyme inhibitors or, less frequently, angiotensin II receptor blockers",
+        "concept_percentile": "91",
+        "concept_colour": "rgb(45,255,0)",
+        "number_attempts": "1453",
+        "up_votes": "2",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "1061",
+            "245",
+            "24",
+            "62",
+            "61",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_471\" data-linkid=\"471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">63</span><button type=\"button\" style=\"\" id=\"link_dislike_471\" data-linkid=\"471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">41</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg182/chapter/1-recommendations\">2014 Chronic kidney disease guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1747\" data-linkid=\"1747\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1747\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">62</span><button type=\"button\" style=\"\" id=\"link_dislike_1747\" data-linkid=\"1747\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1747\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug-class/angiotensin-converting-enzyme-inhibitors.html\">ACE inhibitors</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "2270": {
+                "concept_text": "Drug-induced angioedema without urticaria is most frequently associated with angiotensin converting enzyme inhibitors or, less frequently, angiotensin II receptor blockers",
+                "concept_percentile": "91"
+            },
+            "3883": {
+                "concept_text": "Urea and electrolytes should be checked at baseline, within two weeks of initiation and after any change of dose. They should be rechecked at 1, 3, and 6 months after establishing maintenance dose",
+                "concept_percentile": "37"
+            },
+            "3884": {
+                "concept_text": "An increase in serum creatinine up to 30% from baseline is acceptable when initiating ACE inhibitor treatment",
+                "concept_percentile": "83"
+            },
+            "5266": {
+                "concept_text": "ACE inhibitor causes hyperkalaemia ",
+                "concept_percentile": "57"
+            },
+            "10496": {
+                "concept_text": "ACE inhibitors - contraindicated in patients with renovascular disease",
+                "concept_percentile": "77"
+            },
+            "10906": {
+                "concept_text": "After starting an ACE inhibitor, significant renal impairment may occur if the patient has undiagnosed bilateral renal artery stenosis",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1383",
+        "new_question_id": "5424",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1855",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Following a hip replacement patients should avoid crossing their legs",
+            "Hip resurfacing is now the most common type of hip replacement operation performed in the UK",
+            "Patients should be encouraged to avoid using walking sticks in weeks 2-6 following a hip operation",
+            "Patients who are under the age of 60 years should be discouraged from having joint replacement surgery",
+            "Hip replacement surgery should not be offered to patients with a BMI > 28 kg/m^2",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following statements regarding joint replacement surgery is correct?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is that <b>following a hip replacement patients should avoid crossing their legs</b>. This is a crucial post-operative instruction given to patients following total hip arthroplasty to prevent dislocation of the prosthesis. The hip is most unstable in the first few months after surgery, and certain movements, including adduction past the midline (crossing legs), internal rotation, and flexion beyond 90 degrees, can compromise the stability of the new joint. These movement restrictions are often referred to as 'hip precautions' and are essential for successful recovery.<br /><br /><b>Hip resurfacing is now the most common type of hip replacement operation performed in the UK</b> is incorrect. Total hip arthroplasty remains the gold standard and most common procedure. Hip resurfacing, while still performed, has declined in popularity due to concerns about metal-on-metal articulations and associated complications such as adverse reactions to metal debris (ARMD).<br /><br /><b>Patients should be encouraged to avoid using walking sticks in weeks 2-6 following a hip operation</b> is incorrect. Walking aids are an essential part of rehabilitation following hip surgery. They help protect the operated hip by allowing partial weight-bearing as prescribed and improve balance and confidence. Patients typically progress from a frame to crutches or sticks as their strength and mobility improve.<br /><br /><b>Patients who are under the age of 60 years should be discouraged from having joint replacement surgery</b> is incorrect. Age alone is not a contraindication to joint replacement surgery. The decision should be based on symptoms, functional impairment, and failure of conservative management. Younger patients with severe arthritis can benefit significantly from joint replacement, although they may need revision surgery later in life.<br /><br /><b>Hip replacement surgery should not be offered to patients with a BMI > 28 kg/m^2</b> is incorrect. While obesity can increase surgical risks and complications, a BMI of 28 kg/m^2 is only slightly overweight and would not be a contraindication to surgery. Current UK guidelines suggest optimising BMI where possible but do not specify an absolute cut-off. Some centres may have local policies regarding very high BMIs (typically >40 kg/m^2) due to technical difficulties and increased risks.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following statements regarding joint replacement surgery is correct?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is that <b>following a hip replacement patients should avoid crossing their legs</b>. This is a crucial post-operative instruction given to patients following total hip arthroplasty to prevent dislocation of the prosthesis. The hip is most unstable in the first few months after surgery, and certain movements, including adduction past the midline (crossing legs), internal rotation, and flexion beyond 90 degrees, can compromise the stability of the new joint. These movement restrictions are often referred to as 'hip precautions' and are essential for successful recovery.<br /><br /><b>Hip resurfacing is now the most common type of hip replacement operation performed in the UK</b> is incorrect. Total hip arthroplasty remains the gold standard and most common procedure. Hip resurfacing, while still performed, has declined in popularity due to concerns about metal-on-metal articulations and associated complications such as adverse reactions to metal debris (ARMD).<br /><br /><b>Patients should be encouraged to avoid using walking sticks in weeks 2-6 following a hip operation</b> is incorrect. Walking aids are an essential part of rehabilitation following hip surgery. They help protect the operated hip by allowing partial weight-bearing as prescribed and improve balance and confidence. Patients typically progress from a frame to crutches or sticks as their strength and mobility improve.<br /><br /><b>Patients who are under the age of 60 years should be discouraged from having joint replacement surgery</b> is incorrect. Age alone is not a contraindication to joint replacement surgery. The decision should be based on symptoms, functional impairment, and failure of conservative management. Younger patients with severe arthritis can benefit significantly from joint replacement, although they may need revision surgery later in life.<br /><br /><b>Hip replacement surgery should not be offered to patients with a BMI > 28 kg/m^2</b> is incorrect. While obesity can increase surgical risks and complications, a BMI of 28 kg/m^2 is only slightly overweight and would not be a contraindication to surgery. Current UK guidelines suggest optimising BMI where possible but do not specify an absolute cut-off. Some centres may have local policies regarding very high BMIs (typically >40 kg/m^2) due to technical difficulties and increased risks.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Osteoarthritis: joint replacement",
+        "body": "Joint replacement (arthroplasty) remains the most effective treatment for osteoarthritis patients who experience significant pain.<br /><br />Selection criteria<br /><ul><li>around 25% of patients are now younger than 60-years-old</li><li>whilst obesity is often thought to be a barrier to joint replacement there is only a slight increase in short-term complications. There is no difference in long-term joint replacement survival</li></ul><br />Surgical techniques<br /><ul><li>for hips the most common type of operation is a cemented hip replacement. A metal femoral component is cemented into the femoral shaft. This is accompanied by a cemented acetabular polyethylene cup</li><li>uncemented hip replacements are becoming increasingly popular, particularly in younger more active patients. They are more expensive than conventional cemented hip replacements</li><li>hip resurfacing is also sometimes used where a metal cap is attached over the femoral head. This is often used in younger patients and has the advantage that the femoral neck is preserved which may be useful if conventional arthroplasty is needed later in life</li></ul><br />Post-operative recovery<br /><ul><li>patients receive both physiotherapy and a course of home-exercises</li><li>walking sticks or crutches are usually used for up to 6 weeks after hip or knee replacement surgery</li></ul><br />Patients who have had a hip replacement operation should receive basic advice to minimise the risk of dislocation:<br /><ul><li>avoiding flexing the hip > 90 degrees</li><li>avoid low chairs</li><li>do not cross your legs</li><li>sleep on your back for the first 6 weeks</li></ul><br />Complications<br /><ul><li>wound and joint infection</li><li>thromboembolism: NICE recommend patients receive low-molecular weight heparin for 4 weeks following a hip replacement</li><li>dislocation</li></ul>",
+        "notes_hash": "c3ccee9224df01bd2378f47dbba05426",
+        "knowledge_graph_node_id_link": 10963,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4788",
+        "up_votes": "30",
+        "down_votes": "45",
+        "column_array": [
+            0,
+            "3141",
+            "406",
+            "495",
+            "323",
+            "423",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4322_B_420",
+        "new_question_id": "14009",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "2286",
+        "notes_id_link": "1_1932",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "L-arginine supplements",
+            "Avanafil",
+            "Paracetamol",
+            "Bisoprolol",
+            "Amlodipine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man presents to his general practitioner concerned about his sex life. He is unable to get and maintain an erection and feel it is affecting him mentally. <br /><br />He has a past medical history of atrial fibrillation and hypertension. <br /><br />Which one of the following may be the underlying cause of erectile dysfunction in this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Erectile dysfunction (ED) is a recognised adverse effect of beta-blockers. <br /><br />L-arginine is a precursor for nitric oxide, which is a potent vasodilator. It can be a form of treatment for ED. <br /><br />Paracetamol is not commonly known to cause erectile dysfunction. Also, there is no history to suggest paracetamol use. <br /><br />Avanafil, like sildenafil, is a type of viagra that is used to treat ED. <br /><br />Amlodipine is not associated with ED.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man presents to his general practitioner concerned about his sex life. He is unable to get and maintain an erection and feel it is affecting him mentally. <br /><br />He has a past medical history of atrial fibrillation and hypertension. <br /><br />Which one of the following may be the underlying cause of erectile dysfunction in this patient?",
+        "correct_answer": "4",
+        "question_notes": "Erectile dysfunction (ED) is a recognised adverse effect of beta-blockers. <br /><br />L-arginine is a precursor for nitric oxide, which is a potent vasodilator. It can be a form of treatment for ED. <br /><br />Paracetamol is not commonly known to cause erectile dysfunction. Also, there is no history to suggest paracetamol use. <br /><br />Avanafil, like sildenafil, is a type of viagra that is used to treat ED. <br /><br />Amlodipine is not associated with ED.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Beta-blockers",
+        "body": "Beta-blockers are an important class of drug used mainly in the management of cardiovascular disorders.<br /><br />Indications<br /><ul><li>angina</li><li>post-myocardial infarction</li><li>heart failure: beta-blockers were previously avoided in heart failure but there is now strong evidence that certain beta-blockers improve both symptoms and mortality</li><li>arrhythmias: beta-blockers have now replaced digoxin as the rate-control drug of choice in atrial fibrillation</li><li>hypertension: the role of beta-blockers has diminished in recent years due to a lack of evidence in terms of reducing stroke and myocardial infarction.</li><li>thyrotoxicosis</li><li>migraine prophylaxis</li><li>anxiety</li></ul><br />Examples<br /><ul><li>atenolol</li><li>propranolol: one of the first beta-blockers to be developed. Lipid soluble therefore crosses the blood-brain barrier</li></ul><br />Side-effects<br /><ul><li><span class=\"concept\" data-cid=\"7425\">bronchospasm</span></li><li><span class=\"concept\" data-cid=\"7426\">cold peripheries</span></li><li><span class=\"concept\" data-cid=\"7427\">fatigue</span></li><li><span class=\"concept\" data-cid=\"7431\">sleep disturbances, including nightmares</span></li><li><span class=\"concept\" data-cid=\"2286\">erectile dysfunction</span></li></ul><br />Contraindications<br /><ul><li>uncontrolled heart failure</li><li>asthma</li><li>sick sinus syndrome</li><li><span class=\"concept\" data-cid=\"3531\">concurrent verapamil use: may precipitate severe bradycardia</span></li></ul>",
+        "notes_hash": "e9fc7ee82734cfcc0cea0cebd444d2b5",
+        "knowledge_graph_node_id_link": 10622,
+        "concept": "Beta-blockers, such as bisoprolol, can cause erectile dysfunction",
+        "concept_percentile": "46",
+        "concept_colour": "rgb(255,234,0)",
+        "number_attempts": "6235",
+        "up_votes": "13",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "161",
+            "377",
+            "9",
+            "4603",
+            "1084",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_530\" data-linkid=\"530\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_530\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_530\" data-linkid=\"530\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_530\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/beta-adrenoceptor-blocking-drugs.html\">Beta-blockers</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/41Xloc_vvX8\" data-description=\"Alpha and beta blockers\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"632\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/41Xloc_vvX8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/41Xloc_vvX8\" data-description=\"Alpha and beta blockers\" data-upvotes=\"9\" data-downvotes=\"0\" data-media=\"632\">Alpha and beta blockers</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1086\" data-mediaid=\"1086\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1086\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1086\" data-mediaid=\"1086\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1086\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "2286": {
+                "concept_text": "Beta-blockers, such as bisoprolol, can cause erectile dysfunction",
+                "concept_percentile": "46"
+            },
+            "3531": {
+                "concept_text": "Verapamil and beta-blockers should never be taken concurrently - possibility of heart block and fatal arrest",
+                "concept_percentile": "36"
+            },
+            "7425": {
+                "concept_text": "Beta-blockers may cause bronchospasm",
+                "concept_percentile": "46"
+            },
+            "7426": {
+                "concept_text": "Beta-blockers may cause cold peripheries",
+                "concept_percentile": "31"
+            },
+            "7427": {
+                "concept_text": "Beta-blockers may cause lethargy/drowsiness",
+                "concept_percentile": "15"
+            },
+            "7431": {
+                "concept_text": "Beta-blockers may cause insomnia",
+                "concept_percentile": "35"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

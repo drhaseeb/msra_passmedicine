@@ -1,0 +1,1014 @@
+[
+    {
+        "question_id": "1_B_9461",
+        "new_question_id": "9902",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_694",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Sick thyroid syndrome",
+            "Acute bacterial thyroiditis",
+            "Hashimoto's thyroiditis",
+            "Subacute thyroiditis",
+            "Toxic multinodular goitre",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 46-year-old woman is referred to endocrine with a tender neck swelling. Blood results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>TSH</td><td><0.1 mU/l</td></tr><tr><td>T4</td><td>188 nmol/l</td></tr><tr><td>&nbsp;</td></tr><tr><td>Hb</td><td>14.2 g/dl</td></tr><tr><td>Plt</td><td>377 * 10<sup>9</sup>/l</td></tr><tr><td>WBC</td><td>6.4 * 10<sup>9</sup>/l</td></tr><tr><td>&nbsp;</td></tr><tr><td>ESR</td><td>65 mm/hr</td></tr></tbody></table></div><br />Technetium thyroid scan shows decreased uptake globally<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Subacute thyroiditis is suggested by the tender goitre, hyperthyroidism and raised ESR. The globally reduced uptake on technetium thyroid scan is also typical",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 46-year-old woman is referred to endocrine with a tender neck swelling. Blood results are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>TSH</td><td><0.1 mU/l</td></tr><tr><td>T4</td><td>188 nmol/l</td></tr><tr><td>&nbsp;</td></tr><tr><td>Hb</td><td>14.2 g/dl</td></tr><tr><td>Plt</td><td>377 * 10<sup>9</sup>/l</td></tr><tr><td>WBC</td><td>6.4 * 10<sup>9</sup>/l</td></tr><tr><td>&nbsp;</td></tr><tr><td>ESR</td><td>65 mm/hr</td></tr></tbody></table></div><br />Technetium thyroid scan shows decreased uptake globally<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Subacute thyroiditis is suggested by the tender goitre, hyperthyroidism and raised ESR. The globally reduced uptake on technetium thyroid scan is also typical",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Subacute (De Quervain's) thyroiditis",
+        "body": "Subacute thyroiditis (also known as De Quervain's thyroiditis and subacute granulomatous thyroiditis) is thought to occur following viral infection and typically presents with hyperthyroidism.<br /><br />There are typically <span class=\"concept\" data-cid=\"2066\">4 phases</span>;<br /><ul><li><span class=\"concept\" data-cid=\"11200\">phase 1 (lasts 3-6 weeks): hyperthyroidism</span>, <span class=\"concept\" data-cid=\"824\">painful goitre</span>, <span class=\"concept\" data-cid=\"9398\">raised ESR</span></li><li>phase 2 (1-3 weeks): euthyroid</li><li>phase 3 (weeks - months): hypothyroidism</li><li>phase 4: thyroid structure and function goes back to normal</li></ul><br />Investigations<br /><ul><li>thyroid scintigraphy: <span class=\"concept\" data-cid=\"8282\">globally reduced uptake of iodine-131</span></li></ul><br />Management<br /><ul><li>usually self-limiting - most patients do not require treatment</li><li>thyroid pain may respond to aspirin or other <span class=\"concept\" data-cid=\"6405\">NSAIDs</span></li><li>in more severe cases steroids are used, particularly if hypothyroidism develops</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd917b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Venn diagram showing how different causes of thyroid dysfunction may manifest. Note how many causes of hypothyroidism may have an initial thyrotoxic phase.</div>",
+        "notes_hash": "111735756d2056020155e5c4e6894ec2",
+        "knowledge_graph_node_id_link": 1349,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6914",
+        "up_votes": "36",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "389",
+            "254",
+            "1230",
+            "3682",
+            "1359",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "824": {
+                "concept_text": "Thyrotoxicosis with tender goitre = subacute (De Quervain's) thyroiditis",
+                "concept_percentile": "66"
+            },
+            "8282": {
+                "concept_text": "In De Quervain's thyroiditis there is globally reduced uptake of iodine-131 during thyroid scintigraphy",
+                "concept_percentile": "23"
+            },
+            "9398": {
+                "concept_text": "Subacute thyroiditis - raised ESR",
+                "concept_percentile": "34"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2287",
+        "new_question_id": "61415",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "1323",
+        "notes_id_link": "1_2212",
+        "theme": "Initial pharmacological management of acute pulmonary oedema",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous furosemide",
+            "Intravenous glyceryl trinitrate infusion",
+            "Continuous positive airway pressure",
+            "Intravenous morphine",
+            "Nebulised salbutamol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old woman with a history of heart failure presents with acute breathlessness. She is audibly wheezy and distressed. On examination, her respiratory rate is 32/min, blood pressure is 170/98 mmHg, and oxygen saturation is 88% on air. Widespread bilateral crepitations are heard. Oxygen is given. <br /><br />Select the single most appropriate initial pharmacological treatment from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient is presenting with classic features of acute cardiogenic pulmonary oedema, a life-threatening emergency. The history of heart failure, acute breathlessness, hypoxia, and examination findings of widespread crepitations are all highly suggestive. The primary pathology is fluid overload in the pulmonary circulation due to left ventricular failure. The initial management goals are to improve oxygenation, reduce the work of breathing, and decrease preload and afterload.<br /><br /><b>Intravenous furosemide</b> is the correct answer. It is a potent loop diuretic that is the cornerstone of first-line pharmacological management for acute pulmonary oedema. Administered intravenously, it has a rapid onset of action. Its primary effect is to induce a brisk diuresis, which removes excess fluid from the body, thereby reducing intravascular volume and pulmonary venous pressure (preload). This directly addresses the underlying cause of the pulmonary oedema. In addition to its diuretic effect, furosemide also has a direct venodilator effect, which further helps to reduce preload even before diuresis begins. According to NICE and European Society of Cardiology guidelines, IV loop diuretics should be administered to all patients with acute heart failure who have signs of fluid overload, unless contraindicated.<br /><br /><b>Intravenous glyceryl trinitrate infusion</b> is an important treatment but is typically considered an adjunct to diuretics rather than the initial monotherapy. GTN is a vasodilator that primarily reduces preload by causing venodilation, and at higher doses, also reduces afterload by causing arterial dilation. It is particularly useful in patients with acute pulmonary oedema who are hypertensive (as in this case, with a BP of 170/98 mmHg) or have concomitant myocardial ischaemia. While it would likely be started in this patient, the fundamental problem of fluid overload is most directly and effectively addressed by diuretics. Therefore, furosemide should be administered first or concurrently, but it remains the primary initial pharmacological intervention.<br /><br /><b>Continuous positive airway pressure</b> (CPAP) is a non-pharmacological intervention and a crucial part of managing severe acute pulmonary oedema. It is highly effective at improving oxygenation, reducing the work of breathing, and decreasing both preload and afterload. Given this patient's hypoxia (SpO2 88%) and respiratory distress, she is a clear candidate for CPAP. However, the question asks for the most appropriate initial <i>pharmacological</i> treatment. While CPAP would be started very early, often at the same time as medications, it does not replace the need to administer drugs to treat the underlying fluid overload. Diuretics remain the essential first-line drug therapy.<br /><br /><b>Intravenous morphine</b> was historically used in the management of acute pulmonary oedema for its anxiolytic effects and its ability to cause venodilation, thereby reducing preload. However, its use is no longer routinely recommended by NICE. Observational studies have suggested a potential for harm, including an increased risk of mortality, prolonged hospital stay, and a higher likelihood of requiring mechanical ventilation. Its respiratory depressant effects can be particularly dangerous in a patient who is already hypoxic and in respiratory distress. It should only be considered in select cases for severe distress, with extreme caution.<br /><br /><b>Nebulised salbutamol</b> is not an appropriate treatment in this context. The wheeze heard on examination is described as 'cardiac asthma'. This is caused by bronchospasm resulting from peribronchial oedema and congestion, not by primary airway inflammation as seen in asthma or COPD. The underlying cause is fluid overload. Therefore, the treatment must be directed at removing the fluid with diuretics. Administering a beta-2 agonist like salbutamol would be ineffective at treating the root cause and could be harmful by increasing heart rate and myocardial oxygen demand in a patient with a failing heart.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old woman with a history of heart failure presents with acute breathlessness. She is audibly wheezy and distressed. On examination, her respiratory rate is 32/min, blood pressure is 170/98 mmHg, and oxygen saturation is 88% on air. Widespread bilateral crepitations are heard. Oxygen is given. <br /><br />Select the single most appropriate initial pharmacological treatment from the options below.",
+        "correct_answer": "1",
+        "question_notes": "This patient is presenting with classic features of acute cardiogenic pulmonary oedema, a life-threatening emergency. The history of heart failure, acute breathlessness, hypoxia, and examination findings of widespread crepitations are all highly suggestive. The primary pathology is fluid overload in the pulmonary circulation due to left ventricular failure. The initial management goals are to improve oxygenation, reduce the work of breathing, and decrease preload and afterload.<br /><br /><b>Intravenous furosemide</b> is the correct answer. It is a potent loop diuretic that is the cornerstone of first-line pharmacological management for acute pulmonary oedema. Administered intravenously, it has a rapid onset of action. Its primary effect is to induce a brisk diuresis, which removes excess fluid from the body, thereby reducing intravascular volume and pulmonary venous pressure (preload). This directly addresses the underlying cause of the pulmonary oedema. In addition to its diuretic effect, furosemide also has a direct venodilator effect, which further helps to reduce preload even before diuresis begins. According to NICE and European Society of Cardiology guidelines, IV loop diuretics should be administered to all patients with acute heart failure who have signs of fluid overload, unless contraindicated.<br /><br /><b>Intravenous glyceryl trinitrate infusion</b> is an important treatment but is typically considered an adjunct to diuretics rather than the initial monotherapy. GTN is a vasodilator that primarily reduces preload by causing venodilation, and at higher doses, also reduces afterload by causing arterial dilation. It is particularly useful in patients with acute pulmonary oedema who are hypertensive (as in this case, with a BP of 170/98 mmHg) or have concomitant myocardial ischaemia. While it would likely be started in this patient, the fundamental problem of fluid overload is most directly and effectively addressed by diuretics. Therefore, furosemide should be administered first or concurrently, but it remains the primary initial pharmacological intervention.<br /><br /><b>Continuous positive airway pressure</b> (CPAP) is a non-pharmacological intervention and a crucial part of managing severe acute pulmonary oedema. It is highly effective at improving oxygenation, reducing the work of breathing, and decreasing both preload and afterload. Given this patient's hypoxia (SpO2 88%) and respiratory distress, she is a clear candidate for CPAP. However, the question asks for the most appropriate initial <i>pharmacological</i> treatment. While CPAP would be started very early, often at the same time as medications, it does not replace the need to administer drugs to treat the underlying fluid overload. Diuretics remain the essential first-line drug therapy.<br /><br /><b>Intravenous morphine</b> was historically used in the management of acute pulmonary oedema for its anxiolytic effects and its ability to cause venodilation, thereby reducing preload. However, its use is no longer routinely recommended by NICE. Observational studies have suggested a potential for harm, including an increased risk of mortality, prolonged hospital stay, and a higher likelihood of requiring mechanical ventilation. Its respiratory depressant effects can be particularly dangerous in a patient who is already hypoxic and in respiratory distress. It should only be considered in select cases for severe distress, with extreme caution.<br /><br /><b>Nebulised salbutamol</b> is not an appropriate treatment in this context. The wheeze heard on examination is described as 'cardiac asthma'. This is caused by bronchospasm resulting from peribronchial oedema and congestion, not by primary airway inflammation as seen in asthma or COPD. The underlying cause is fluid overload. Therefore, the treatment must be directed at removing the fluid with diuretics. Administering a beta-2 agonist like salbutamol would be ineffective at treating the root cause and could be harmful by increasing heart rate and myocardial oxygen demand in a patient with a failing heart.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Heart failure: acute management",
+        "body": "Recommended treatments for all patients<br /><ul><li><span class=\"concept\" data-cid=\"1323\">IV loop diuretics</span><ul><li>e.g. furosemide or bumetanide</li></ul></li></ul><br />Possible additional treatments<br /><ul><li>oxygen<ul><li>this should be given in line with British Thoracic Society guidelines, i.e. keep oxygen saturations at 94-98%</li></ul></li><li>vasodilators <ul><li>e.g. IV GTN, isosorbide dinitrate or sodium nitroprusside infusion</li><li>reduce preload and afterload</li><li>nitrates should not be routinely given to all patients, may be considered if systolic BP > 100 mmHg</li><li>they may, however, have a role if <span class=\"concept\" data-cid=\"11412\">concomitant myocardial ischaemia, severe hypertension</span> or regurgitant aortic or mitral valve disease</li><li>the major side-effect/contraindication is hypotension</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944b.jpg\" data-fancybox=\"gallery\" data-caption=\"Chest x-ray showing pulmonary oedema - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb944.jpg\" alt=\"\" /></a></div></div></div><br />Patients with respiratory failure<br /><ul><li><span class=\"concept\" data-cid=\"4795\">CPAP</span> </li></ul><br />Patients with hypotension (e.g. < 85 mmHg)/cardiogenic shock<br /><ul><li>this can be a difficult scenario to manage<ul><li>some of the treatments typically used for acute heart failure (e.g. loop diuretics and nitrates) may exacerbate the hypotension</li></ul></li><li><span class=\"concept\" data-cid=\"11580\">inotropic agents</span><ul><li>e.g. dobutamine</li><li>should be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock </li></ul></li><li>vasopressor agents <ul><li>e.g. norepinephrine</li><li>normally only used if insufficient response to inotropes and evidence of end-organ hypoperfusion</li></ul></li><li>mechanical circulatory assistance<ul><li>e.g. intra-aortic balloon counterpulsation or ventricular assist devices</li></ul></li></ul><br />Other treatments<br /><ul><li><span class=\"concept\" data-cid=\"1937\">opiates</span><ul><li>NICE state 'do not routinely offer opiates to people with acute heart failure'</li><li>they were previously used routinely and help to reduce dyspnoea/distress in patients</li><li>however some studies have suggested increased morbidity in patients given opiates</li></ul></li></ul><br />General points<br /><ul><li>regular medication for heart failure such as beta-blockers ACE-inhibitors should be continued<ul><li><span class=\"concept\" data-cid=\"11413\">beta-blockers</span> should only be stopped if the patient has heart rate less than 50 beats per minute, second or third degree atrioventricular block, or shock</li></ul></li></ul>",
+        "notes_hash": "4cfe617b6bef1a9a0bf323f21a860ea0",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "IV loop diuretic is the treatment for acute pulmonary oedema",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "412",
+        "up_votes": "1",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "347",
+            "14",
+            "31",
+            "4",
+            "16",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_387\" data-linkid=\"387\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_387\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_387\" data-linkid=\"387\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_387\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg187/chapter/1-Recommendations\">2014 Acute heart failure: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"478\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OHQK5PUTQ_0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OHQK5PUTQ_0\" data-description=\"CPAP and Non-Invasive Ventilation in 5 minutes\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"478\">CPAP and Non-Invasive Ventilation in 5 minutes</a></td></tr><tr><td><span ><small>Nick Smith - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_841\" data-mediaid=\"841\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_841\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_841\" data-mediaid=\"841\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_841\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"412\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/o1LAJ-EBFTc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/o1LAJ-EBFTc\" data-description=\"Pulmonary oedema\" data-upvotes=\"1\" data-downvotes=\"3\" data-media=\"412\">Pulmonary oedema</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_705\" data-mediaid=\"705\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_705\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_705\" data-mediaid=\"705\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_705\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "1323": {
+                "concept_text": "IV loop diuretic is the treatment for acute pulmonary oedema",
+                "concept_percentile": "79"
+            },
+            "4795": {
+                "concept_text": "Acute heart failure not responding to treatment - consider CPAP",
+                "concept_percentile": "92"
+            },
+            "11412": {
+                "concept_text": "For patients with acute heart failure, nitrates may be useful if the patient has a systolic BP > 100 mmHg. Particularly useful if concomitant myocardial ischaemia or severe hypertension",
+                "concept_percentile": "100"
+            },
+            "11580": {
+                "concept_text": "Acute heart failure with hypotension - inotropes (e.g. dobutamine) be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock\n",
+                "concept_percentile": "80"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21386_B_167",
+        "new_question_id": "38308",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "2654",
+        "notes_id_link": "1_963",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Gastrointestinal upset",
+            "Hepatotoxicity",
+            "Nephrotoxicity",
+            "Optic neuritis",
+            "Peripheral neuropathy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old man has a 5-month history of cough, fever, and unexpected weight loss. A sputum culture is positive for acid-fast bacilli. He is given a drug regimen including a 6-month course of isoniazid and rifampicin, alongside ethambutol and pyrazinamide for the first 2 months. The patient has also been prescribed pyridoxine.<br /><br />What complication may be prevented by the co-prescription of pyridoxine?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Peripheral neuropathy</b> is correct. The patient's features and the presence of acid-fast bacilli in their sputum confirm a diagnosis of tuberculosis. Pyridoxine should be co-prescribed to all patients commencing isoniazid in order to reduce the risk of peripheral neuropathy. The risk of peripheral neuropathy is highest in patients with comorbidities including diabetes, malnutrition, or HIV.<br /><br /><b>Gastrointestinal upset</b> is incorrect. This would not be improved or prevented by the co-prescription of pyridoxine.<br /><br /><b>Hepatotoxicity</b> is incorrect. This is a complication of isoniazid therapy, and would not be improved or prevented by the co-prescription of pyridoxine.<br /><br /><b>Nephrotoxicity</b> is incorrect. This is not classically associated with tuberculosis pharmacotherapy. Pyridoxine does not play a role in the prevention of nephrotoxicity in the treatment of tuberculosis. <br /><br /><b>Optic neuritis</b> is incorrect. This is a complication of ethambutol and would not be improved or prevented by the co-prescription of pyridoxine.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old man has a 5-month history of cough, fever, and unexpected weight loss. A sputum culture is positive for acid-fast bacilli. He is given a drug regimen including a 6-month course of isoniazid and rifampicin, alongside ethambutol and pyrazinamide for the first 2 months. The patient has also been prescribed pyridoxine.<br /><br />What complication may be prevented by the co-prescription of pyridoxine?",
+        "correct_answer": "5",
+        "question_notes": "<b>Peripheral neuropathy</b> is correct. The patient's features and the presence of acid-fast bacilli in their sputum confirm a diagnosis of tuberculosis. Pyridoxine should be co-prescribed to all patients commencing isoniazid in order to reduce the risk of peripheral neuropathy. The risk of peripheral neuropathy is highest in patients with comorbidities including diabetes, malnutrition, or HIV.<br /><br /><b>Gastrointestinal upset</b> is incorrect. This would not be improved or prevented by the co-prescription of pyridoxine.<br /><br /><b>Hepatotoxicity</b> is incorrect. This is a complication of isoniazid therapy, and would not be improved or prevented by the co-prescription of pyridoxine.<br /><br /><b>Nephrotoxicity</b> is incorrect. This is not classically associated with tuberculosis pharmacotherapy. Pyridoxine does not play a role in the prevention of nephrotoxicity in the treatment of tuberculosis. <br /><br /><b>Optic neuritis</b> is incorrect. This is a complication of ethambutol and would not be improved or prevented by the co-prescription of pyridoxine.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Tuberculosis: drug side-effects and mechanism of action",
+        "body": "Rifampicin<br /><ul><li>mechanism of action: <span class=\"concept\" data-cid=\"6992\">inhibits bacterial DNA dependent RNA polymerase preventing transcription of DNA into mRNA</span></li><li>potent liver enzyme inducer</li><li><span class=\"concept\" data-cid=\"6996\">hepatitis</span>, <span class=\"concept\" data-cid=\"6995\">orange secretions</span></li><li>flu-like symptoms</li></ul><br />Isoniazid<br /><ul><li>mechanism of action: <span class=\"concept\" data-cid=\"4122\">inhibits mycolic acid synthesis</span></li><li><span class=\"concept\" data-cid=\"952\">peripheral neuropathy</span>: <span class=\"concept\" data-cid=\"2654\">prevent with pyridoxine (Vitamin B6)</span></li><li><span class=\"concept\" data-cid=\"6999\">hepatitis</span>, agranulocytosis</li><li>liver enzyme inhibitor</li></ul><br />Pyrazinamide<br /><ul><li><span class=\"concept\" data-cid=\"6993\">mechanism of action: </span><ul><li>converted by pyrazinamidase into pyrazinoic acid which in turn inhibits fatty acid synthase (FAS) I</li><li>this disrupts fatty acid production needed for bacterial growth</li></ul></li><li>hyperuricaemia causing <span class=\"concept\" data-cid=\"6997\">gout</span></li><li>arthralgia, myalgia</li><li><span class=\"concept\" data-cid=\"6998\">hepatitis</span></li></ul><br />Ethambutol<br /><ul><li>mechanism of action: <span class=\"concept\" data-cid=\"6994\">inhibits the enzyme arabinosyl transferase which polymerizes arabinose into arabinan</span></li><li><span class=\"concept\" data-cid=\"951\">optic neuritis</span>: <span class=\"concept\" data-cid=\"4962\">check visual acuity before and during treatment</span></li><li>dose needs adjusting in patients with renal impairment</li></ul>",
+        "notes_hash": "eea08e78ea59e42c063a3d5aec72612a",
+        "knowledge_graph_node_id_link": 1138,
+        "concept": "The risk of peripheral neuropathy with isoniazid can be reduced by prescribing pyridoxine",
+        "concept_percentile": "49",
+        "concept_colour": "rgb(255,249,0)",
+        "number_attempts": "4939",
+        "up_votes": "16",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "76",
+            "292",
+            "104",
+            "261",
+            "4206",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_58\" data-linkid=\"58\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_58\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_58\" data-linkid=\"58\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_58\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng33/chapter/Recommendations\">2016 Tuberculosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6P6zBHpWiGA\" data-description=\"Tuberculosis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"1231\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/6P6zBHpWiGA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/6P6zBHpWiGA\" data-description=\"Tuberculosis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"1231\">Tuberculosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2163\" data-mediaid=\"2163\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2163\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2163\" data-mediaid=\"2163\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2163\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "952": {
+                "concept_text": "Isoniazid causes peripheral neuropathy",
+                "concept_percentile": "38"
+            },
+            "2654": {
+                "concept_text": "The risk of peripheral neuropathy with isoniazid can be reduced by prescribing pyridoxine",
+                "concept_percentile": "49"
+            },
+            "6995": {
+                "concept_text": "Rifampicin may cause orange tears and urine",
+                "concept_percentile": "30"
+            },
+            "6996": {
+                "concept_text": "Rifampicin may cause hepatotoxicity",
+                "concept_percentile": "33"
+            },
+            "6997": {
+                "concept_text": "Pyrazinamide may cause gout",
+                "concept_percentile": "34"
+            },
+            "6998": {
+                "concept_text": "Pyrazinamide may cause hepatotoxicity",
+                "concept_percentile": "13"
+            },
+            "6999": {
+                "concept_text": "Isoniazid may cause hepatotoxicity",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_9",
+        "new_question_id": "12394",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "1560",
+        "notes_id_link": "1_706",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Alcohol abuse",
+            "Sickle cell disease",
+            "Balanitis",
+            "Failure to reduce the foreskin",
+            "Hypospadias",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are clerking a 28-year-old in the emergency department. He complains of painful prolonged erection of the penis. He states that he has had the same issue on two previous occasions.<br /><br />What is the likely underlying cause of his repeated presentations?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Although alcohol and illicit drug use can cause priapism sickle cell is known to cause recurrent attacks.<br /><br />Balanitis is inflammation at the head of the penis and is not linked to priapism.<br /><br />Failure to reduce the foreskin is a cause of paraphimosis.<br /><br />Hypospadias is a birth defect resulting in the urethra opening to the underside of the penis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are clerking a 28-year-old in the emergency department. He complains of painful prolonged erection of the penis. He states that he has had the same issue on two previous occasions.<br /><br />What is the likely underlying cause of his repeated presentations?",
+        "correct_answer": "2",
+        "question_notes": "Although alcohol and illicit drug use can cause priapism sickle cell is known to cause recurrent attacks.<br /><br />Balanitis is inflammation at the head of the penis and is not linked to priapism.<br /><br />Failure to reduce the foreskin is a cause of paraphimosis.<br /><br />Hypospadias is a birth defect resulting in the urethra opening to the underside of the penis.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Sickle-cell anaemia",
+        "body": "Sickle-cell anaemia is an <span class=\"concept\" data-cid=\"4063\">autosomal recessive</span> condition that results for synthesis of an abnormal haemoglobin chain termed HbS. It is more common in people of African descent as the heterozygous condition offers some protection against malaria. Around 10% of UK Afro-Caribbean's are carriers of HbS (i.e. heterozygous). Such people are only symptomatic if severely hypoxic.<br /><br /><span class=\"concept\" data-cid=\"8424\">Symptoms in homozygotes don't tend to develop until 4-6 months when the abnormal HbSS molecules take over from fetal haemoglobin.</span><br /><br />Pathophysiology<br /><ul><li>haemoglobin<ul><li>normal haemoglobin: HbAA</li><li>sickle cell trait: HbAS</li><li><span class=\"concept\" data-cid=\"11435\">homozygous sickle cell disease: HbSS</span>. Some patients inherit one HbS and another abnormal haemoglobin (HbC) resulting in a <span class=\"concept\" data-cid=\"10599\">milder form of sickle cell disease (HbSC)</span></li></ul></li><li>polar amino acid glutamate is substituted by non-polar valine in each of the two beta chains (codon 6). This decreases the water solubility of deoxy-Hb</li><li>in the deoxygenated state the HbS molecules polymerise and cause RBCs to sickle<ul><li>HbAS patients sickle at p02 2.5 - 4 kPa</li><li>HbSS patients at p02 5 - 6 kPa</li></ul></li><li>sickle cells are fragile and haemolyse; they block small blood vessels and cause infarction</li></ul><br />Investigations<br /><ul><li>definitive diagnosis of sickle cell disease is by <span class=\"concept\" data-cid=\"9881\">haemoglobin electrophoresis</span></li></ul>",
+        "notes_hash": "7ccfdb6b2a9dfc424f8c387bb33323b1",
+        "knowledge_graph_node_id_link": 11033,
+        "concept": "Recurrent priapism can be seen in sickle cell disease",
+        "concept_percentile": "59",
+        "concept_colour": "rgb(209,255,0)",
+        "number_attempts": "5410",
+        "up_votes": "33",
+        "down_votes": "18",
+        "column_array": [
+            0,
+            "116",
+            "4357",
+            "393",
+            "287",
+            "257",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/S9-f8CItE-Q\" data-description=\"Sickle cell anaemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"342\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/S9-f8CItE-Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/S9-f8CItE-Q\" data-description=\"Sickle cell anaemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"342\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>12DaysinMarch - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_582\" data-mediaid=\"582\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_582\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_582\" data-mediaid=\"582\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_582\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e67ZP2C3Pr4\" data-description=\"Sickle cell anaemia\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"709\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/e67ZP2C3Pr4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e67ZP2C3Pr4\" data-description=\"Sickle cell anaemia\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"709\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>AK lectures - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1243\" data-mediaid=\"1243\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1243\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1243\" data-mediaid=\"1243\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1243\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"239\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fIIJmg_1hv0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"239\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_398\" data-mediaid=\"398\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_398\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_398\" data-mediaid=\"398\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_398\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "4063": {
+                "concept_text": "Sickle cell anaemia is an autosomal recessive condition",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2386",
+        "new_question_id": "61675",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11545",
+        "notes_id_link": "1_1649",
+        "theme": "Next medication for post-NSTEMI patient with heart failure.",
+        "instruction": "",
+        "options": [
+            "",
+            "Ramipril",
+            "Eplerenone",
+            "Furosemide",
+            "Sacubitril/valsartan",
+            "Isosorbide mononitrate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man is reviewed 5 days after a medically managed NSTEMI. He is breathless on minimal exertion with bibasal crackles. He is on aspirin, ticagrelor, atorvastatin, and bisoprolol. An echocardiogram shows LVEF 35%.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>4.9 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Urea</td><td>9.1 mmol/L</td><td>(2.5 - 7.8)</td></tr><tr><td>Creatinine</td><td>130 \u00b5mol/L</td><td>(60 - 110)</td></tr></tbody></table></div><br />Select the single most appropriate medication to add.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Ramipril</b> is the correct answer. According to NICE guidelines (CG172), all patients should be offered an ACE inhibitor following a myocardial infarction (MI), as soon as they are haemodynamically stable. This patient is already on a beta-blocker, suggesting stability. ACE inhibitors have a significant mortality benefit, particularly in patients with evidence of left ventricular systolic dysfunction (LVEF \u226440%), which this patient has (LVEF 35%). While an aldosterone antagonist like eplerenone is also indicated in this scenario, the same NICE guideline recommends that it is initiated 'preferably after ACE inhibitor therapy'. Therefore, starting ramipril is the most appropriate next step. The mild renal impairment and borderline high potassium level necessitate careful initiation at a low dose and subsequent monitoring of renal function and electrolytes, but do not represent an absolute contraindication.<br /><br /><b>Eplerenone</b> is an important medication for this patient but not the most appropriate next step. Aldosterone antagonists are recommended for patients post-MI who have both symptoms of heart failure and an LVEF of 40% or less. This patient meets these criteria. However, NICE guidance advises that treatment should be initiated after an ACE inhibitor has been started. Furthermore, eplerenone should not be initiated if the potassium is >5.0 mmol/L. This patient's potassium is 4.9 mmol/L, which is borderline high. Starting an ACE inhibitor first, which can also cause hyperkalaemia, allows for monitoring of the potassium response before adding a second agent that carries the same risk. Prioritising the ACE inhibitor is the safer and guideline-concordant approach.<br /><br /><b>Furosemide</b> would be a reasonable choice for providing symptomatic relief from the fluid overload suggested by the bibasal crackles and breathlessness. As a loop diuretic, it would help to manage the symptoms of heart failure. However, unlike ACE inhibitors, beta-blockers, and aldosterone antagonists, loop diuretics have not been shown to confer a mortality benefit in the post-MI setting. The question asks for the most appropriate medication to add, which in the context of secondary prevention, prioritises disease-modifying, prognostic medications over purely symptomatic treatments. The focus should be on initiating therapies that improve long-term outcomes.<br /><br /><b>Sacubitril/valsartan</b> is an angiotensin receptor-neprilysin inhibitor (ARNI) used in the management of chronic heart failure with a reduced ejection fraction. While it has been shown to be superior to ACE inhibitors in this context (PARADIGM-HF trial), it is not recommended as the initial therapy in the immediate post-MI setting. UK practice is to establish and optimise standard therapy (ACEi/ARB, beta-blocker, MRA) first. Patients are typically switched to an ARNI later if they remain symptomatic. Furthermore, switching from an ACE inhibitor requires a 36-hour washout period to reduce the risk of angioedema, making it an inappropriate choice for initial inpatient management post-MI.<br /><br /><b>Isosorbide mononitrate</b> is a nitrate vasodilator primarily used for the symptomatic relief of angina. It has no proven mortality benefit in the secondary prevention of MI. This patient's presentation is of heart failure (breathlessness with bibasal crackles), not angina. Therefore, there is no clear indication for a nitrate, and it would not be prioritised over evidence-based, life-prolonging therapies such as an ACE inhibitor.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man is reviewed 5 days after a medically managed NSTEMI. He is breathless on minimal exertion with bibasal crackles. He is on aspirin, ticagrelor, atorvastatin, and bisoprolol. An echocardiogram shows LVEF 35%.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>4.9 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Urea</td><td>9.1 mmol/L</td><td>(2.5 - 7.8)</td></tr><tr><td>Creatinine</td><td>130 \u00b5mol/L</td><td>(60 - 110)</td></tr></tbody></table></div><br />Select the single most appropriate medication to add.",
+        "correct_answer": "1",
+        "question_notes": "<b>Ramipril</b> is the correct answer. According to NICE guidelines (CG172), all patients should be offered an ACE inhibitor following a myocardial infarction (MI), as soon as they are haemodynamically stable. This patient is already on a beta-blocker, suggesting stability. ACE inhibitors have a significant mortality benefit, particularly in patients with evidence of left ventricular systolic dysfunction (LVEF \u226440%), which this patient has (LVEF 35%). While an aldosterone antagonist like eplerenone is also indicated in this scenario, the same NICE guideline recommends that it is initiated 'preferably after ACE inhibitor therapy'. Therefore, starting ramipril is the most appropriate next step. The mild renal impairment and borderline high potassium level necessitate careful initiation at a low dose and subsequent monitoring of renal function and electrolytes, but do not represent an absolute contraindication.<br /><br /><b>Eplerenone</b> is an important medication for this patient but not the most appropriate next step. Aldosterone antagonists are recommended for patients post-MI who have both symptoms of heart failure and an LVEF of 40% or less. This patient meets these criteria. However, NICE guidance advises that treatment should be initiated after an ACE inhibitor has been started. Furthermore, eplerenone should not be initiated if the potassium is >5.0 mmol/L. This patient's potassium is 4.9 mmol/L, which is borderline high. Starting an ACE inhibitor first, which can also cause hyperkalaemia, allows for monitoring of the potassium response before adding a second agent that carries the same risk. Prioritising the ACE inhibitor is the safer and guideline-concordant approach.<br /><br /><b>Furosemide</b> would be a reasonable choice for providing symptomatic relief from the fluid overload suggested by the bibasal crackles and breathlessness. As a loop diuretic, it would help to manage the symptoms of heart failure. However, unlike ACE inhibitors, beta-blockers, and aldosterone antagonists, loop diuretics have not been shown to confer a mortality benefit in the post-MI setting. The question asks for the most appropriate medication to add, which in the context of secondary prevention, prioritises disease-modifying, prognostic medications over purely symptomatic treatments. The focus should be on initiating therapies that improve long-term outcomes.<br /><br /><b>Sacubitril/valsartan</b> is an angiotensin receptor-neprilysin inhibitor (ARNI) used in the management of chronic heart failure with a reduced ejection fraction. While it has been shown to be superior to ACE inhibitors in this context (PARADIGM-HF trial), it is not recommended as the initial therapy in the immediate post-MI setting. UK practice is to establish and optimise standard therapy (ACEi/ARB, beta-blocker, MRA) first. Patients are typically switched to an ARNI later if they remain symptomatic. Furthermore, switching from an ACE inhibitor requires a 36-hour washout period to reduce the risk of angioedema, making it an inappropriate choice for initial inpatient management post-MI.<br /><br /><b>Isosorbide mononitrate</b> is a nitrate vasodilator primarily used for the symptomatic relief of angina. It has no proven mortality benefit in the secondary prevention of MI. This patient's presentation is of heart failure (breathlessness with bibasal crackles), not angina. Therefore, there is no clear indication for a nitrate, and it would not be prioritised over evidence-based, life-prolonging therapies such as an ACE inhibitor.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Myocardial infarction: secondary prevention",
+        "body": "NICE produced guidelines on the management of patients following a myocardial infarction (MI) in 2013. Some key points are listed below<br /><br /><span class=\"concept\" data-cid=\"11545\">All patients should be offered the following drugs</span>:<br /><ul><li>dual antiplatelet therapy (aspirin plus a second antiplatelet agent)</li><li>ACE inhibitor </li><li>beta-blocker</li><li>statin</li></ul><br />Some selected lifestyle points:<br /><ul><li>diet: advise a Mediterranean style diet, switch butter and cheese for plant oil based products. Do not recommend omega-3 supplements or eating oily fish</li><li>exercise: advise 20-30 mins a day until patients are 'slightly breathless'</li><li><span class=\"concept\" data-cid=\"372\">sexual activity may resume 4 weeks after an uncomplicated MI</span>. Reassure patients that sex does not increase their likelihood of a further MI. PDE5 inhibitors (e.g, sildenafil) may be used 6 months after a MI. They should however be avoided in patient prescribed either nitrates or nicorandil</li></ul><br />Most patients who've had an acute coronary syndrome are now given dual antiplatelet therapy (DAPT). Clopidogrel was previously the second antiplatelet of choice. Now ticagrelor and prasugrel (also ADP-receptor inhibitors) are more widely used. NICE now recommend:<br /><ul><li>post acute coronary syndrome (medically managed): add ticagrelor to aspirin, stop ticagrelor after 12 months</li><li>post percutaneous coronary intervention: add prasugrel or ticagrelor to aspirin, stop the second antiplatelet after 12 months</li><li>this 12 month period may be altered for people at a high-risk of bleeding or those who at high-risk of further ischaemic events</li></ul><br />Aldosterone antagonists<br /><ul><li><span class=\"concept\" data-cid=\"9699\">patients who have had an acute MI and who have symptoms and/or signs of heart failure and left ventricular systolic dysfunction, treatment with an aldosterone antagonist</span> licensed for post-MI treatment (e.g. eplerenone) should be initiated within 3-14 days of the MI, preferably after ACE inhibitor therapy</li></ul>",
+        "notes_hash": "7b03b88e6ebde825d0c2d48c58011c5d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Following an ACS, all patients should be offered:<br /><ul><li>dual antiplatelet therapy (aspirin plus a second antiplatelet agent)</li><li>ACE inhibitor </li><li>beta-blocker</li><li>statin</li></ul>",
+        "concept_percentile": "71",
+        "concept_colour": "rgb(147,255,0)",
+        "number_attempts": "274",
+        "up_votes": "0",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "135",
+            "40",
+            "66",
+            "28",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>European Society of Cardiology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_925\" data-linkid=\"925\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_925\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_925\" data-linkid=\"925\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_925\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/eurheartj/article/39/2/119/4095042\">2017 STEMI guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_350\" data-linkid=\"350\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_350\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_350\" data-linkid=\"350\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_350\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng185\">2020 Acute coronary syndromes guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "11545": {
+                "concept_text": "Following an ACS, all patients should be offered:\n   - dual antiplatelet therapy (aspirin plus a second antiplatelet agent)\n   - ACE inhibitor \n   - beta-blocker\n   - statin",
+                "concept_percentile": "71"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1638",
+        "new_question_id": "5813",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "6193",
+        "notes_id_link": "1_1929",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pauciarticular arthritis",
+            "Osteoporosis",
+            "Episcleritis",
+            "Erythema nodosum",
+            "Primary sclerosing cholangitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following extra-intestinal manifestations of inflammatory bowel disease is much more common in ulcerative colitis than in Crohn's disease?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Primary sclerosing cholangitis</b>. This is a chronic liver disease characterised by inflammation and fibrosis of the bile ducts, leading to cirrhosis and liver failure. It is strongly associated with ulcerative colitis (UC) but not Crohn's disease. The pathogenesis of primary sclerosing cholangitis (PSC) is not fully understood, but it is thought that immune-mediated damage occurs in the biliary epithelium, which can be triggered by gut-derived antigens in genetically susceptible individuals. Up to 80% of patients with PSC have concurrent UC, whereas only 3% are associated with Crohn's disease.<br /><br /><b>Pauciarticular arthritis</b> refers to arthritis affecting fewer than five joints. It can occur in both ulcerative colitis and Crohn's disease as an extra-intestinal manifestation, without a significant difference in prevalence between the two conditions.<br /><br /><b>Osteoporosis</b>, defined as a reduction in bone mineral density leading to an increased risk of fracture, can also occur as a complication of both UC and Crohn's disease due to factors such as chronic inflammation, steroid use and malnutrition. However, there isn't a clear distinction between these two diseases regarding their association with osteoporosis.<br /><br /><b>Episcleritis</b>, which involves inflammation of the episclera (a thin layer on top of the white part of the eye), is another extra-intestinal manifestation that can be seen in both UC and Crohn's disease. Again, there isn't a significant difference in its occurrence between these two conditions.<br /><br />Lastly, <b>Erythema nodosum</b>, a skin condition that results in red tender lumps usually on the shins, can occur as an extra-intestinal manifestation of inflammatory bowel diseases (IBD). It is more commonly associated with Crohn's disease rather than ulcerative colitis.<br /><br />Therefore, out of these options presented, primary sclerosing cholangitis stands out as being much more common in ulcerative colitis compared to Crohn's disease.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following extra-intestinal manifestations of inflammatory bowel disease is much more common in ulcerative colitis than in Crohn's disease?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Primary sclerosing cholangitis</b>. This is a chronic liver disease characterised by inflammation and fibrosis of the bile ducts, leading to cirrhosis and liver failure. It is strongly associated with ulcerative colitis (UC) but not Crohn's disease. The pathogenesis of primary sclerosing cholangitis (PSC) is not fully understood, but it is thought that immune-mediated damage occurs in the biliary epithelium, which can be triggered by gut-derived antigens in genetically susceptible individuals. Up to 80% of patients with PSC have concurrent UC, whereas only 3% are associated with Crohn's disease.<br /><br /><b>Pauciarticular arthritis</b> refers to arthritis affecting fewer than five joints. It can occur in both ulcerative colitis and Crohn's disease as an extra-intestinal manifestation, without a significant difference in prevalence between the two conditions.<br /><br /><b>Osteoporosis</b>, defined as a reduction in bone mineral density leading to an increased risk of fracture, can also occur as a complication of both UC and Crohn's disease due to factors such as chronic inflammation, steroid use and malnutrition. However, there isn't a clear distinction between these two diseases regarding their association with osteoporosis.<br /><br /><b>Episcleritis</b>, which involves inflammation of the episclera (a thin layer on top of the white part of the eye), is another extra-intestinal manifestation that can be seen in both UC and Crohn's disease. Again, there isn't a significant difference in its occurrence between these two conditions.<br /><br />Lastly, <b>Erythema nodosum</b>, a skin condition that results in red tender lumps usually on the shins, can occur as an extra-intestinal manifestation of inflammatory bowel diseases (IBD). It is more commonly associated with Crohn's disease rather than ulcerative colitis.<br /><br />Therefore, out of these options presented, primary sclerosing cholangitis stands out as being much more common in ulcerative colitis compared to Crohn's disease.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Inflammatory bowel disease: key differences",
+        "body": "The two main types of inflammatory bowel disease are Crohn's disease and ulcerative colitis. They have many similarities in terms of presenting symptoms, investigation findings and management options. <br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd910b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd910.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd910b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Venn diagram showing shared features and differences between ulcerative colitis and Crohn's disease. Note that whilst some features are present in both, some are much more common in one of the conditions, for example <span class=\"concept\" data-cid=\"6194\">colorectal cancer</span> in ulcerative colitis</div><br />There are however some key differences which are highlighted in table below:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>Crohn's disease (CD)</b></th><th><b>Ulcerative colitis (UC)</b></th></tr></thead><tbody><tr><td><b>Features</b></td><td>Diarrhoea usually non-bloody <br /><span class=\"concept\" data-cid=\"6204\">Weight loss</span> more prominent <br />Upper gastrointestinal symptoms, <span class=\"concept\" data-cid=\"6205\">mouth ulcers</span>, <span class=\"concept\" data-cid=\"6206\">perianal disease</span><br />Abdominal mass palpable in the right iliac fossa</td><td><span class=\"concept\" data-cid=\"6196\">Bloody diarrhoea</span> more common<br />Abdominal pain in the left lower quadrant<br /><span class=\"concept\" data-cid=\"6197\">Tenesmus</span></td></tr><tr><td><b>Extra-intestinal</b></td><td><span class=\"concept\" data-cid=\"6217\">Gallstones</span> are more common secondary to reduced bile acid reabsorption <br /><br /><span class=\"concept\" data-cid=\"6218\">Oxalate renal stones</span>*</td><td><span class=\"concept\" data-cid=\"6193\">Primary sclerosing cholangitis</span> more common</td></tr><tr><td><b>Complications</b></td><td><span class=\"concept\" data-cid=\"6207\">Obstruction</span>, <span class=\"concept\" data-cid=\"6208\">fistula</span>, colorectal cancer</td><td>Risk of colorectal cancer high in UC than CD</td></tr><tr><td><b>Pathology</b></td><td><span class=\"concept\" data-cid=\"6209\">Lesions may be seen anywhere from the mouth to anus</span><br /><br />Skip lesions may be present</td><td><span class=\"concept\" data-cid=\"6195\">Inflammation always starts at rectum and never spreads beyond ileocaecal valve</span><br /><br /><span class=\"concept\" data-cid=\"6198\">Continuous disease</span></td></tr><tr><td><b>Histology</b></td><td><span class=\"concept\" data-cid=\"6211\">Inflammation in all layers from mucosa to serosa</span><br /><ul><li><span class=\"concept\" data-cid=\"6213\">increased goblet cells</span></li><li><span class=\"concept\" data-cid=\"6212\">granulomas</span></td><td><span class=\"concept\" data-cid=\"6199\">No inflammation beyond submucosa</span> (unless fulminant disease)</li></ul>  - inflammatory cell infiltrate in lamina propria<br /><ul><li>neutrophils migrate through the walls of glands to form <span class=\"concept\" data-cid=\"6200\">crypt abscesses</span></li><li><span class=\"concept\" data-cid=\"6201\">depletion of goblet cells</span> and mucin from gland epithelium</li><li>granulomas are infrequent</td></tr><tr><td></li></ul><b>Endoscopy</b></td><td>Deep ulcers, <span class=\"concept\" data-cid=\"6210\">skip lesions</span> - <span class=\"concept\" data-cid=\"6214\">'cobble-stone' appearance</span></td><td>Widespread ulceration with preservation of adjacent mucosa which has the appearance of polyps ('<span class=\"concept\" data-cid=\"6202\">pseudopolyps</span>')</td></tr><tr><td><b>Radiology</b></td><td>Small bowel enema<br /><ul><li>high sensitivity and specificity for examination of the terminal ileum</li><li>strictures: '<span class=\"concept\" data-cid=\"6215\">Kantor's string sign</span>'</li><li>proximal bowel dilation</li><li><span class=\"concept\" data-cid=\"6216\">'rose thorn' ulcers</span></li><li>fistulae</td><td></li></ul>Barium enema<br /><ul><li><span class=\"concept\" data-cid=\"6203\">loss of haustrations</span></li><li><span class=\"concept\" data-cid=\"6202\">superficial ulceration, 'pseudopolyps'</span></li><li>long standing disease: <span class=\"concept\" data-cid=\"4193\">colon is narrow and short -'drainpipe colon'</span></td></tr></tbody></table></div></li></ul><br />*impaired bile acid rebsorption increases the loss calcium in the bile. Calcium normally binds oxalate.",
+        "notes_hash": "4a170d61214540715a39b5a5ce043276",
+        "knowledge_graph_node_id_link": 10823,
+        "concept": "Ulcerative colitis - primary sclerosing cholangitis",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "6458",
+        "up_votes": "31",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "305",
+            "85",
+            "658",
+            "756",
+            "4654",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iefghc2g91M\" data-description=\"Inflammatory Bowel Disease - Crohn's and Ulcerative Colitis\" data-upvotes=\"20\" data-downvotes=\"2\" data-media=\"1110\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/iefghc2g91M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iefghc2g91M\" data-description=\"Inflammatory Bowel Disease - Crohn's and Ulcerative Colitis\" data-upvotes=\"20\" data-downvotes=\"2\" data-media=\"1110\">Inflammatory Bowel Disease - Crohn's and Ulcerative Colitis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1923\" data-mediaid=\"1923\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1923\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"media_dislike_1923\" data-mediaid=\"1923\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1923\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "6193": {
+                "concept_text": "Ulcerative colitis - primary sclerosing cholangitis",
+                "concept_percentile": "76"
+            },
+            "6194": {
+                "concept_text": "Ulcerative colitis - colorectal cancer",
+                "concept_percentile": "43"
+            },
+            "6195": {
+                "concept_text": "Ulcerative colitis - inflammation starting at the rectum and not spreading beyond the ileocaecal valve",
+                "concept_percentile": "33"
+            },
+            "6196": {
+                "concept_text": "Ulcerative colitis - bloody diarrhoea",
+                "concept_percentile": "47"
+            },
+            "6197": {
+                "concept_text": "Ulcerative colitis - tenesmus",
+                "concept_percentile": "24"
+            },
+            "6198": {
+                "concept_text": "Ulcerative colitis - continuous disease",
+                "concept_percentile": "37"
+            },
+            "6199": {
+                "concept_text": "Ulcerative colitis - no inflammation beyond submucosa",
+                "concept_percentile": "42"
+            },
+            "6200": {
+                "concept_text": "Ulcerative colitis - crypt abscesses",
+                "concept_percentile": "46"
+            },
+            "6201": {
+                "concept_text": "Ulcerative colitis - depletion of goblet cells",
+                "concept_percentile": "22"
+            },
+            "6202": {
+                "concept_text": "Ulcerative colitis - pseudopolyps seen on endoscopy",
+                "concept_percentile": "58"
+            },
+            "6203": {
+                "concept_text": "Ulcerative colitis - loss of haustrations on barium enema",
+                "concept_percentile": "35"
+            },
+            "6204": {
+                "concept_text": "Crohn's disease - weight loss",
+                "concept_percentile": "29"
+            },
+            "6205": {
+                "concept_text": "Crohn's disease - mouth ulcers",
+                "concept_percentile": "6"
+            },
+            "6206": {
+                "concept_text": "Crohn's disease - perianal disease",
+                "concept_percentile": "22"
+            },
+            "6207": {
+                "concept_text": "Crohn's disease - intestinal obstruction",
+                "concept_percentile": "49"
+            },
+            "6208": {
+                "concept_text": "Crohn's disease - fistula",
+                "concept_percentile": "72"
+            },
+            "6209": {
+                "concept_text": "Crohn's disease - inflammation anywhere from the mouth to anus",
+                "concept_percentile": "17"
+            },
+            "6210": {
+                "concept_text": "Crohn's disease - skip lesions",
+                "concept_percentile": "43"
+            },
+            "6211": {
+                "concept_text": "Crohn's disease - inflammation in all layers from mucosa to serosa",
+                "concept_percentile": "18"
+            },
+            "6212": {
+                "concept_text": "Crohn's disease - granulomas",
+                "concept_percentile": "31"
+            },
+            "6213": {
+                "concept_text": "Crohn's disease - increased goblet cells",
+                "concept_percentile": "65"
+            },
+            "6214": {
+                "concept_text": "Crohn's disease - cobble-stone appearance on endoscopy",
+                "concept_percentile": "46"
+            },
+            "6215": {
+                "concept_text": "Crohn's disease - Kantor's string sign",
+                "concept_percentile": "43"
+            },
+            "6216": {
+                "concept_text": "Crohn's disease - rose thorn ulcers",
+                "concept_percentile": "18"
+            },
+            "6217": {
+                "concept_text": "Crohn's disease - gallstones",
+                "concept_percentile": "39"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_242",
+        "new_question_id": "11128",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "950",
+        "notes_id_link": "1_961",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Parvovirus",
+            "Human papilloma virus",
+            "Epstein-Barr virus",
+            "Human herpes virus 8",
+            "Varicella zoster virus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old man who is HIV positive describes that he has developed some flat purple patches inside his mouth and legs. On examination his GP notes violaceous, purple papular lesions on his feet and calves as well as his mouth. He suspects that this patient may have Karposi's sarcoma.<br /><br />Which one of the following causes this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Kaposi's sarcoma is caused by HHV-8 (human herpes virus 8) and commonly occurs in patients who have HIV.<br /><br />Parvovirus B19 is a virus which causes fifths disease in children -which is also known as slapped cheek syndrome. It is also a cause of foetal hydrops.<br /><br />The human papilloma virus is associated with genital warts and cervical cancer.<br /><br />The Epstein-Barr virus is the cause of infectious mononucleosis (glandular fever). It is also associated with Hodgkin's lymphoma, Burkitt's lymphoma, gastric cancer and nasopharyngeal carcinoma.<br /><br />Varicella zoster virus causes chickenpox and shingles.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old man who is HIV positive describes that he has developed some flat purple patches inside his mouth and legs. On examination his GP notes violaceous, purple papular lesions on his feet and calves as well as his mouth. He suspects that this patient may have Karposi's sarcoma.<br /><br />Which one of the following causes this condition?",
+        "correct_answer": "4",
+        "question_notes": "Kaposi's sarcoma is caused by HHV-8 (human herpes virus 8) and commonly occurs in patients who have HIV.<br /><br />Parvovirus B19 is a virus which causes fifths disease in children -which is also known as slapped cheek syndrome. It is also a cause of foetal hydrops.<br /><br />The human papilloma virus is associated with genital warts and cervical cancer.<br /><br />The Epstein-Barr virus is the cause of infectious mononucleosis (glandular fever). It is also associated with Hodgkin's lymphoma, Burkitt's lymphoma, gastric cancer and nasopharyngeal carcinoma.<br /><br />Varicella zoster virus causes chickenpox and shingles.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "HIV: Kaposi's sarcoma",
+        "body": "Kaposi's sarcoma<br /><ul><li>caused by <span class=\"concept\" data-cid=\"950\">HHV-8 (human herpes virus 8)</span></li><li><span class=\"concept\" data-cid=\"9890\">presents as purple papules or plaques on the skin or mucosa</span> (e.g. gastrointestinal and respiratory tract)</li><li>skin lesions may later ulcerate</li><li>respiratory involvement may cause massive haemoptysis and pleural effusion</li><li>radiotherapy + resection</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><img class='ajaximage' src = 'https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/img031.jpg' /></td></tr><tr><td valign='top' align='left'></td><td align='right'></td></tr></table></CENTER><div class='imagetext'>Kaposi's sarcoma in a patient with HIV</div>",
+        "notes_hash": "4f05b239caff1d3ae0cab0b122348730",
+        "knowledge_graph_node_id_link": 1139,
+        "concept": "Kaposi's sarcoma - caused by HHV-8 (human herpes virus 8)",
+        "concept_percentile": "44",
+        "concept_colour": "rgb(255,224,0)",
+        "number_attempts": "5045",
+        "up_votes": "25",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "323",
+            "724",
+            "986",
+            "2942",
+            "69",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermIS.net</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_985\" data-linkid=\"985\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_985\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_985\" data-linkid=\"985\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_985\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermis.net/dermisroot/en/11054/image.htm\">Picture of Kaposi's sarcoma</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1632\" data-linkid=\"1632\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1632\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_1632\" data-linkid=\"1632\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1632\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/kaposi-sarcoma/\">Kaposi's sarcoma</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1633\" data-linkid=\"1633\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1633\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_1633\" data-linkid=\"1633\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1633\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/kaposis-sarcoma\">Kaposi's sarcoma</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gehvdaJUoZE\" data-description=\"Human herpesvirus 8 (Kaposi's sarcoma)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1135\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gehvdaJUoZE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gehvdaJUoZE\" data-description=\"Human herpesvirus 8 (Kaposi's sarcoma)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1135\">Human herpesvirus 8 (Kaposi's sarcoma)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1959\" data-mediaid=\"1959\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1959\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1959\" data-mediaid=\"1959\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1959\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lx1XggeG758\" data-description=\"Kaposi's sarcoma\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1390\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/lx1XggeG758/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lx1XggeG758\" data-description=\"Kaposi's sarcoma\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1390\">Kaposi's sarcoma</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2444\" data-mediaid=\"2444\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2444\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2444\" data-mediaid=\"2444\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2444\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xSMvcmlIfX8\" data-description=\"Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1241\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xSMvcmlIfX8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xSMvcmlIfX8\" data-description=\"Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1241\">Opportunistic Infections and AIDS-defining illnesses - CD4+ cell count, malignancy, treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2188\" data-mediaid=\"2188\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2188\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2188\" data-mediaid=\"2188\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2188\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "950": {
+                "concept_text": "Kaposi's sarcoma - caused by HHV-8 (human herpes virus 8)",
+                "concept_percentile": "44"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20302_B_47",
+        "new_question_id": "37188",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "11746",
+        "notes_id_link": "1_1087",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Heinz bodies",
+            "Howell-Jolly bodies",
+            "Increased number of reticulocytes",
+            "Rouleaux formation",
+            "Schistocytes",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 71-year-old man presents to his GP with a 3-month history of tiredness, back pain and both increased urination and thirst. The GP requests a urine protein electrophoresis and a serum-free light-chain assay, which confirm the diagnosis. <br /><br />What finding is most likely on this patient's blood film?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has presented with symptoms of multiple myeloma, including hypercalcaemia (increased urination and thirst), anaemia (tiredness) and back pain. Myeloma is diagnosed by urine protein electrophoresis and serum-free light-chain assay. <br /><br /><b>Rouleaux formation</b> is the correct answer. They appear as stacks of red blood cells (RBC) on a blood film. This occurs due to an increase in acute-phase proteins, which are positively charged. The negative charge of the RBCs attracts the acute phase proteins, which attract more RBCs. It is important to note that a rouleaux formation is seen in various inflammatory conditions and is not exclusive to lymphoproliferative disorders, such as myeloma. The aforementioned mechanism is also measured clinically by the erythrocyte sedimentation rate blood test.<br /><br /><b>Heinz bodies</b> is incorrect- these are not seen in myeloma but are associated with G6PD deficiency. They are caused by damage to haemoglobin from oxidative stress, which results in the denaturing of each haemoglobin molecule (which becomes visible on microscopy).<br /><br /><b>Howell-Jolly bodies</b> is the wrong answer. These are usually present in hyposplenic or asplenic disorders, including megaloblastic anaemia and post-splenectomy patients. <br /><br /><b>Increased number of reticulocytes</b> is incorrect. Reticulocytes are immature RBCs which are typically raised when RBC turnover is increased. This could be due to haemolysis (acute haemolytic anaemia) or significant blood loss. <br /><br /><b>Schistocytes</b> is the wrong answer. These are fragmented and irregularly-shaped red blood cells which occur in patients with metallic heart valves or haemolytic anaemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 71-year-old man presents to his GP with a 3-month history of tiredness, back pain and both increased urination and thirst. The GP requests a urine protein electrophoresis and a serum-free light-chain assay, which confirm the diagnosis. <br /><br />What finding is most likely on this patient's blood film?",
+        "correct_answer": "4",
+        "question_notes": "This patient has presented with symptoms of multiple myeloma, including hypercalcaemia (increased urination and thirst), anaemia (tiredness) and back pain. Myeloma is diagnosed by urine protein electrophoresis and serum-free light-chain assay. <br /><br /><b>Rouleaux formation</b> is the correct answer. They appear as stacks of red blood cells (RBC) on a blood film. This occurs due to an increase in acute-phase proteins, which are positively charged. The negative charge of the RBCs attracts the acute phase proteins, which attract more RBCs. It is important to note that a rouleaux formation is seen in various inflammatory conditions and is not exclusive to lymphoproliferative disorders, such as myeloma. The aforementioned mechanism is also measured clinically by the erythrocyte sedimentation rate blood test.<br /><br /><b>Heinz bodies</b> is incorrect- these are not seen in myeloma but are associated with G6PD deficiency. They are caused by damage to haemoglobin from oxidative stress, which results in the denaturing of each haemoglobin molecule (which becomes visible on microscopy).<br /><br /><b>Howell-Jolly bodies</b> is the wrong answer. These are usually present in hyposplenic or asplenic disorders, including megaloblastic anaemia and post-splenectomy patients. <br /><br /><b>Increased number of reticulocytes</b> is incorrect. Reticulocytes are immature RBCs which are typically raised when RBC turnover is increased. This could be due to haemolysis (acute haemolytic anaemia) or significant blood loss. <br /><br /><b>Schistocytes</b> is the wrong answer. These are fragmented and irregularly-shaped red blood cells which occur in patients with metallic heart valves or haemolytic anaemia.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Myeloma: features and investigation",
+        "body": "Multiple myeloma (MM) is a haematological malignancy characterised by plasma cell proliferation. It arises due to genetic mutations which occur as B-lymphocytes differentiate into mature plasma cells.<br /><br /><h5 class='notes-heading'>Features</h5><br />The median age at presentation is 70 years old. <br /><br />Use the mnemonic <span class=\"concept\" data-cid=\"2358\"><b>CRABBI</b>:</span><br /><ul><li><u>C</u>alcium<ul><li><span class=\"concept\" data-cid=\"6635\">hypercalcaemia</span></li><li>primary factor: <span class=\"concept\" data-cid=\"9845\">due primarily to increased osteoclastic bone resorption caused by local cytokines (e.g. IL-1, tumour necrosis factor) released by the myeloma cells</span></li><li>much less common contributing factors: impaired renal function, increased renal tubular calcium reabsorption and elevated PTH-rP levels</li><li>this leads to constipation, nausea, anorexia and confusion</li></ul></li><li><u>R</u>enal<ul><li>monoclonal production of immunoglobulins results in <span class=\"concept\" data-cid=\"9538\">light chain deposition within the renal tubules</span></li><li>this causes renal damage which presents as dehydration and increasing thirst</li><li>other causes of renal impairment in myeloma include <span class=\"concept\" data-cid=\"9538\">amyloidosis, nephrocalcinosis, nephrolithiasis</span></li></ul></li><li><u>A</u>naemia<ul><li>bone marrow crowding suppresses erythropoiesis leading to anaemia</li><li>this causes fatigue and pallor</li></ul></li><li><u>B</u>leeding<ul><li>bone marrow crowding also results in thrombocytopenia which puts patients at increased risk of bleeding and bruising</li></ul></li><li><u>B</u>ones<ul><li>bone marrow infiltration by plasma cells and cytokine-mediated osteoclast overactivity creates lytic bone lesions</li><li>this may present as pain (especially in the back) and <span class=\"concept\" data-cid=\"5519\">increases the risk of pathological fractures</span></li></ul></li><li><u>I</u>nfection<ul><li>a reduction in the production of normal immunoglobulins results in increased susceptibility to infection</li></ul></li></ul><br />Other features include<br /><ul><li>amyloidosis e.g. macroglossia</li><li>carpal tunnel syndrome</li><li>neuropathy</li><li>hyperviscosity</li></ul><br /><br /><h5 class='notes-heading'>Investigations</h5><br />Bloods<br /><ul><li>full blood count: anaemia</li><li>peripheral blood film: <span class=\"concept\" data-cid=\"11746\">rouleaux formation</span></li><li>urea and electrolytes: renal failure</li><li>bone profile: hypercalcaemia</li><li>a rise in immunoglobulins may be implied by an elevated (<span class=\"concept\" data-cid=\"169\">total protein - albumin</span>)</li></ul><br />Protein electrophoresis<br /><ul><li>raised concentrations of monoclonal IgA/IgG proteins will be present in the serum</li><li>in the urine, they are known as <span class=\"concept\" data-cid=\"4919\">Bence Jones proteins</span></li></ul><br />Bone marrow aspiration<br /><ul><li>confirms the diagnosis if the number of <span class=\"concept\" data-cid=\"5279\">plasma cells is significantly raised</span></li></ul><br />Imaging<br /><ul><li>historically a skeletal survey has been done to look for bone lesions</li><li>however, <span class=\"concept\" data-cid=\"3666\">whole-body MRI</span> is increasingly used and is now recommended in the 2016 NICE guidelines</li><li>X-rays: 'rain-drop skull' (likened to the pattern rain forms after hitting a surface and splashing, where it leaves a random pattern of dark spots). Note that a very similar, but subtly different finding is found in primary hyperparathyroidism - 'pepperpot skull'</li></ul><br /><br /><h5 class='notes-heading'>Diagnostic criteria</h5><br />The diagnostic criteria for multiple myeloma requires one major and one minor criteria or three minor criteria in an individual who has signs or symptoms of multiple myeloma.<br /><br />Major criteria<br /><ul><li>Plasmacytoma (as demonstrated on evaluation of biopsy specimen)</li><li>30% plasma cells in a bone marrow sample</li><li>Elevated levels of M protein in the blood or urine</li></ul><br />Minor criteria<br /><ul><li>10% to 30% plasma cells in a bone marrow sample.</li><li>Minor elevations in the level of M protein in the blood or urine.</li><li>Osteolytic lesions (as demonstrated on imaging studies).</li><li>Low levels of antibodies (not produced by the cancer cells) in the blood.</li></ul>",
+        "notes_hash": "d2883a0c8694b72ab75dc176f6d24fe8",
+        "knowledge_graph_node_id_link": 1199,
+        "concept": "Rouleaux formation is seen in myeloma",
+        "concept_percentile": "62",
+        "concept_colour": "rgb(193,255,0)",
+        "number_attempts": "6006",
+        "up_votes": "33",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "554",
+            "1043",
+            "397",
+            "3827",
+            "185",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_157\" data-linkid=\"157\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_157\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_157\" data-linkid=\"157\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_157\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng35/chapter/Recommendations\">2016 myeloma guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SVlV68XVQLg\" data-description=\"Multiple Myeloma\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"744\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/SVlV68XVQLg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SVlV68XVQLg\" data-description=\"Multiple Myeloma\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"744\">Multiple Myeloma</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1297\" data-mediaid=\"1297\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1297\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1297\" data-mediaid=\"1297\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1297\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jdytgW5wKa4\" data-description=\"What is multiple myeloma?\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"381\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jdytgW5wKa4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jdytgW5wKa4\" data-description=\"What is multiple myeloma?\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"381\">What is multiple myeloma?</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_651\" data-mediaid=\"651\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_651\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_651\" data-mediaid=\"651\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_651\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ghvoKhpAc64\" data-description=\"Multiple Myeloma\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1433\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ghvoKhpAc64/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ghvoKhpAc64\" data-description=\"Multiple Myeloma\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1433\">Multiple Myeloma</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2529\" data-mediaid=\"2529\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2529\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2529\" data-mediaid=\"2529\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2529\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/_Lm-9vc57AU\" data-description=\"Multiple Myeloma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1401\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/_Lm-9vc57AU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/_Lm-9vc57AU\" data-description=\"Multiple Myeloma\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1401\">Multiple Myeloma</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2466\" data-mediaid=\"2466\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2466\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2466\" data-mediaid=\"2466\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2466\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yi84Tm6gGEc\" data-description=\"Multiple Myeloma Mnemonic...the story of the plasma cell\" data-upvotes=\"6\" data-downvotes=\"4\" data-media=\"746\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yi84Tm6gGEc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yi84Tm6gGEc\" data-description=\"Multiple Myeloma Mnemonic...the story of the plasma cell\" data-upvotes=\"6\" data-downvotes=\"4\" data-media=\"746\">Multiple Myeloma Mnemonic...the story of the plasma cell</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1299\" data-mediaid=\"1299\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1299\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1299\" data-mediaid=\"1299\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1299\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eov_LKNsW4k\" data-description=\"Multiple Myeloma - Diagnosis and Treatment\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"745\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eov_LKNsW4k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eov_LKNsW4k\" data-description=\"Multiple Myeloma - Diagnosis and Treatment\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"745\">Multiple Myeloma - Diagnosis and Treatment</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1298\" data-mediaid=\"1298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1298\" data-mediaid=\"1298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-TjI1EeXyzA\" data-description=\"Multiple Myeloma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"801\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-TjI1EeXyzA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-TjI1EeXyzA\" data-description=\"Multiple Myeloma\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"801\">Multiple Myeloma</a></td></tr><tr><td><span ><small>CRASH! Medical Review - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1392\" data-mediaid=\"1392\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1392\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1392\" data-mediaid=\"1392\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1392\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2358": {
+                "concept_text": "'CRAB' features of multiple myeloma = hyperCalcaemia, Renal failure, Anaemia (and thrombocytopenia) and Bone fractures/lytic lesions",
+                "concept_percentile": "94"
+            },
+            "6635": {
+                "concept_text": "Myeloma causes hypercalcaemia",
+                "concept_percentile": "32"
+            },
+            "11746": {
+                "concept_text": "Rouleaux formation is seen in myeloma",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1642",
+        "new_question_id": "4853",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "9071",
+        "notes_id_link": "1_1822",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intravenous amiodarone",
+            "Oral digoxin",
+            "Intravenous adenosine",
+            "Oral bisoprolol",
+            "Intravenous verapamil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old man with no past medical history of note is admitted to the Emergency Department with palpitations. His blood pressure is 120/78 mmHg and his pulse is 165 bpm. An ECG is taken:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the treatment of choice?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has a supraventricular tachycardia. If vagal manoeuvres fail to terminate the arrhythmia adenosine should be given.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old man with no past medical history of note is admitted to the Emergency Department with palpitations. His blood pressure is 120/78 mmHg and his pulse is 165 bpm. An ECG is taken:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007.jpg'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd007b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the treatment of choice?",
+        "correct_answer": "3",
+        "question_notes": "This patient has a supraventricular tachycardia. If vagal manoeuvres fail to terminate the arrhythmia adenosine should be given.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Supraventricular tachycardia",
+        "body": "Whilst strictly speaking the term supraventricular tachycardia (SVT) refers to any tachycardia that is not ventricular in origin the term is generally used in the context of paroxysmal SVT. Episodes are characterised by the sudden onset of a narrow complex tachycardia, typically an atrioventricular nodal re-entry tachycardia (AVNRT). Other causes include atrioventricular re-entry tachycardias (AVRT) and junctional tachycardias.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg085b.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing AV Nodal Re-entry Tachycardia (AVNRT) - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg085.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg108b.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing a supraventricular tachycardia - e Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg108.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management</h5><br />Acute management<br /><ul><li><span class=\"concept\" data-cid=\"9619\">vagal manoeuvres:</span><ul><li>Valsalva manoeuvre: e.g. trying to blow into an empty plastic syringe</li><li>carotid sinus massage</li></ul></li><li><span class=\"concept\" data-cid=\"9071\">intravenous adenosine</span> <ul><li><span class=\"concept\" data-cid=\"11526\">rapid IV bolus</span> of <span class=\"concept\" data-cid=\"11527\"> 6mg &rarr; if unsuccessful give 12 mg &rarr; if unsuccessful give further 18 mg</span></li><li>contraindicated in asthmatics - <span class=\"concept\" data-cid=\"12323\">verapamil</span> is a preferable option</li></ul></li><li>if vagal manoeuvres and adenosine ineffective:<ul><li><span class=\"concept\" data-cid=\"12404\">verapamil or beta-blocker</span></li><li>electrical cardioversion</li></ul></li></ul><br />Prevention of episodes<br /><ul><li>beta-blockers</li><li>radio-frequency ablation</li></ul>",
+        "notes_hash": "991e2356419dd66f47cfd6fea4400b1c",
+        "knowledge_graph_node_id_link": 1163,
+        "concept": "Patients with SVT who are haemodynamically stable and who do not respond to vagal manoeuvres, the next step is treating with adenosine",
+        "concept_percentile": "58",
+        "concept_colour": "rgb(214,255,0)",
+        "number_attempts": "6242",
+        "up_votes": "25",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "532",
+            "45",
+            "5191",
+            "415",
+            "59",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_18\" data-linkid=\"18\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_18\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_18\" data-linkid=\"18\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_18\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/supraventricular-tachycardia-svt-ecg-library/\">Supraventricular tachycardia</a></td></tr></table><br><br><table style='width:100%'><tr><td>Resuscitation Council UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2053\" data-linkid=\"2053\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2053\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"link_dislike_2053\" data-linkid=\"2053\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2053\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/sites/default/files/2021-04/Tachycardia%20Algorithm%202021.pdf\">2021 Tachycardia algorithm</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tRuvXP-H164\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"913\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/tRuvXP-H164/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tRuvXP-H164\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"913\">Atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT)</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1583\" data-mediaid=\"1583\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1583\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1583\" data-mediaid=\"1583\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1583\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"374\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sTdV8xCNbBM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sTdV8xCNbBM\" data-description=\"Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"374\">Intro to EKG Interpretation - Mechanisms of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_637\" data-mediaid=\"637\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_637\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_637\" data-mediaid=\"637\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_637\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"375\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/iT3cVVK74tU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/iT3cVVK74tU\" data-description=\"Intro to EKG Interpretation - Overview of Tachyarrhythmias\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"375\">Intro to EKG Interpretation - Overview of Tachyarrhythmias</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_638\" data-mediaid=\"638\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_638\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_638\" data-mediaid=\"638\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_638\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f5xC5ofq4aE\" data-description=\"Understanding Supraventricular Tachycardia (SVT)\" data-upvotes=\"24\" data-downvotes=\"1\" data-media=\"1210\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/f5xC5ofq4aE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f5xC5ofq4aE\" data-description=\"Understanding Supraventricular Tachycardia (SVT)\" data-upvotes=\"24\" data-downvotes=\"1\" data-media=\"1210\">Understanding Supraventricular Tachycardia (SVT)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2122\" data-mediaid=\"2122\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2122\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">24</span><button type=\"button\" style=\"\" id=\"media_dislike_2122\" data-mediaid=\"2122\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2122\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"377\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NULY6Ecj6gA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NULY6Ecj6gA\" data-description=\"Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"377\">Intro to EKG Interpretation - Practicing Tachyarrhythmia Identification</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_640\" data-mediaid=\"640\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_640\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_640\" data-mediaid=\"640\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_640\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cj9CtfjFdRA\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"84\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cj9CtfjFdRA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cj9CtfjFdRA\" data-description=\"Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"84\">Atrioventricular reentrant tachycardia (AVRT) &amp; nodal reentrant tachycardia (AVNRT)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_145\" data-mediaid=\"145\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_145\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_145\" data-mediaid=\"145\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_145\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"376\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/pd5FF8jGR78/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pd5FF8jGR78\" data-description=\"Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"376\">Intro to EKG Interpretation - How to Identify Any Tachyarrhythmia with 6 Easy Questions</a></td></tr><tr><td><span ><small>Strong Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_639\" data-mediaid=\"639\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_639\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_639\" data-mediaid=\"639\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_639\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "9071": {
+                "concept_text": "Patients with SVT who are haemodynamically stable and who do not respond to vagal manoeuvres, the next step is treating with adenosine",
+                "concept_percentile": "58"
+            },
+            "9619": {
+                "concept_text": "The first-line management of SVT is vagal manoeuvres: e.g. Valsalva manoeuvre or carotid sinus massage",
+                "concept_percentile": "69"
+            },
+            "12404": {
+                "concept_text": "If vagal manoeuvres and adenosine ineffective for SVT --> verapamil or beta-blocker",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_188",
+        "new_question_id": "6336",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3487",
+        "notes_id_link": "1_207",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Concurrent sodium valproate use",
+            "Liver impairment",
+            "Concurrent clarithromycin use",
+            "Hypokalaemia",
+            "Hypocalcaemia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You review an 82-year-old woman who takes digoxin for atrial fibrillation. Which one of the following factors is most likely to predispose her to develop digoxin toxicity?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Hypokalaemia</b>. Digoxin toxicity is more likely to occur in the presence of hypokalaemia. This is because digoxin and potassium compete for binding sites on the Na+/K+ ATPase pump, which is inhibited by digoxin as part of its mechanism of action. When potassium levels are low, there is less competition for these binding sites, allowing more digoxin to bind and exert its effects, thus increasing the risk of toxicity.<br /><br /><b>Concurrent sodium valproate use</b> does not significantly affect digoxin levels or predispose a patient to digoxin toxicity. Sodium valproate primarily affects the central nervous system and has no known significant interactions with cardiac glycosides such as digoxin.<br /><br /><b>Liver impairment</b> also does not significantly increase the risk of digoxin toxicity. Although liver impairment can affect drug metabolism and clearance, digoxin is primarily eliminated by renal excretion. Therefore, kidney function has a greater impact on serum digoxin levels than liver function.<br /><br /><b>Concurrent clarithromycin use</b> can increase serum levels of digoxin and potentially lead to toxicity due to inhibition of P-glycoprotein mediated renal tubular secretion of digoxin by clarithromycin. However, this interaction's clinical significance may vary among patients depending upon their individual risk factors for developing toxicity.<br /><br />Finally, <b>Hypocalcaemia</b> does not directly predispose a patient to develop digoxin toxicity. While severe hypocalcaemia can potentiate the effects of cardiac glycosides leading to increased myocardial excitability, it does not directly affect serum concentrations or pharmacokinetics of digoxin in a way that would substantially increase the risk for development of toxicity.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You review an 82-year-old woman who takes digoxin for atrial fibrillation. Which one of the following factors is most likely to predispose her to develop digoxin toxicity?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Hypokalaemia</b>. Digoxin toxicity is more likely to occur in the presence of hypokalaemia. This is because digoxin and potassium compete for binding sites on the Na+/K+ ATPase pump, which is inhibited by digoxin as part of its mechanism of action. When potassium levels are low, there is less competition for these binding sites, allowing more digoxin to bind and exert its effects, thus increasing the risk of toxicity.<br /><br /><b>Concurrent sodium valproate use</b> does not significantly affect digoxin levels or predispose a patient to digoxin toxicity. Sodium valproate primarily affects the central nervous system and has no known significant interactions with cardiac glycosides such as digoxin.<br /><br /><b>Liver impairment</b> also does not significantly increase the risk of digoxin toxicity. Although liver impairment can affect drug metabolism and clearance, digoxin is primarily eliminated by renal excretion. Therefore, kidney function has a greater impact on serum digoxin levels than liver function.<br /><br /><b>Concurrent clarithromycin use</b> can increase serum levels of digoxin and potentially lead to toxicity due to inhibition of P-glycoprotein mediated renal tubular secretion of digoxin by clarithromycin. However, this interaction's clinical significance may vary among patients depending upon their individual risk factors for developing toxicity.<br /><br />Finally, <b>Hypocalcaemia</b> does not directly predispose a patient to develop digoxin toxicity. While severe hypocalcaemia can potentiate the effects of cardiac glycosides leading to increased myocardial excitability, it does not directly affect serum concentrations or pharmacokinetics of digoxin in a way that would substantially increase the risk for development of toxicity.<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Digoxin and digoxin toxicity",
+        "body": "Digoxin is a cardiac glycoside now mainly used for rate control in the management of atrial fibrillation. As it has <span class=\"concept\" data-cid=\"9729\">positive inotropic properties it is sometimes used for improving symptoms (but not mortality) in patients with heart failure</span>.<br /><br />Mechanism of action<br /><ul><li>decreases conduction through the atrioventricular node which slows the ventricular rate in atrial fibrillation and flutter</li><li>increases the force of cardiac muscle contraction due to <span class=\"concept\" data-cid=\"515\">inhibition of the Na<sup>+</sup>/K<sup>+</sup> ATPase pump</span>. Also stimulates vagus nerve</li><li><span class=\"concept\" data-cid=\"2300\">digoxin has a narrow therapeutic index</span></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"9713\">digoxin level is not monitored routinely, except in suspected toxicity</span></li><li><span class=\"concept\" data-cid=\"9529\">if toxicity is suspected, digoxin concentrations should be measured within 8 to 12 hours of the last dose</span></li></ul><br /><br /><h5 class='notes-heading'>Digoxin toxicity</h5><br />Plasma concentration alone does not determine whether a patient has developed digoxin toxicity. <span class=\"concept\" data-cid=\"9763\">Toxicity may occur even when the concentration is within the therapeutic range</span>. The BNF advises that the likelihood of toxicity increases progressively from 1.5 to 3 mcg/l.<br /><br />Features<br /><ul><li>generally unwell, lethargy, nausea & vomiting, <span class=\"concept\" data-cid=\"6686\">anorexia</span>, <span class=\"concept\" data-cid=\"6687\">confusion</span>, <span class=\"concept\" data-cid=\"6688\">yellow-green vision</span></li><li>arrhythmias (e.g. <span class=\"concept\" data-cid=\"6698\">AV block</span>, <span class=\"concept\" data-cid=\"6696\">bradycardia</span>)</li><li><span class=\"concept\" data-cid=\"1975\">gynaecomastia</span></li></ul><br />Precipitating factors<br /><ul><li>classically: <span class=\"concept\" data-cid=\"3487\">hypokalaemia</span><ul><li><span class=\"concept\" data-cid=\"9922\">digoxin normally binds to the ATPase pump on the same site as potassium. Hypokalaemia &rarr; digoxin more easily bind to the ATPase pump &rarr; increased inhibitory effects</span></li></ul></li><li>increasing age</li><li><span class=\"concept\" data-cid=\"3525\">renal failure</span></li><li>myocardial ischaemia</li><li>hypomagnesaemia, hypercalcaemia, hypernatraemia, acidosis</li><li>hypoalbuminaemia</li><li>hypothermia</li><li>hypothyroidism</li><li>drugs: <span class=\"concept\" data-cid=\"6689\">amiodarone</span>, <span class=\"concept\" data-cid=\"3589\">quinidine</span>, <span class=\"concept\" data-cid=\"6690\">verapamil</span>, <span class=\"concept\" data-cid=\"6691\">diltiazem</span>, <span class=\"concept\" data-cid=\"6692\">spironolactone</span> (competes for secretion in distal convoluted tubule therefore reduce excretion), <span class=\"concept\" data-cid=\"6695\">ciclosporin</span>. Also drugs which cause hypokalaemia e.g. <span class=\"concept\" data-cid=\"6693\">thiazides</span> and <span class=\"concept\" data-cid=\"6694\">loop diuretics</span></li></ul><br /><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"3526\">Digibind</span></li><li>correct arrhythmias</li><li>monitor potassium</li></ul>",
+        "notes_hash": "8fc8ff1fc4bf18fc30889a3341ff6293",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hypokalaemia predisposes patients to digoxin toxicity",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "6019",
+        "up_votes": "40",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "498",
+            "632",
+            "843",
+            "3920",
+            "126",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GI6c0OwhuPg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GI6c0OwhuPg\" data-description=\"Digoxin Mnemonic - Cardiac Glycosides (Inotropes)\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1652\">Digoxin Mnemonic - Cardiac Glycosides (Inotropes)</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2822\" data-mediaid=\"2822\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2822\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_2822\" data-mediaid=\"2822\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2822\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "515": {
+                "concept_text": "Digoxin - inhibits the Na<sup>+</sup>/K<sup>+</sup> ATPase pump",
+                "concept_percentile": "11"
+            },
+            "1975": {
+                "concept_text": "Gynaecomastia is a recognised side effect of digoxin",
+                "concept_percentile": "40"
+            },
+            "3487": {
+                "concept_text": "Hypokalaemia predisposes patients to digoxin toxicity",
+                "concept_percentile": "89"
+            },
+            "3589": {
+                "concept_text": "Type 1 diabetes often presents with the triad of weight loss, polyuria and polydipsia ",
+                "concept_percentile": "3"
+            },
+            "6686": {
+                "concept_text": "Digoxin may cause anorexia",
+                "concept_percentile": "8"
+            },
+            "6687": {
+                "concept_text": "Digoxin may cause confusion",
+                "concept_percentile": "15"
+            },
+            "6688": {
+                "concept_text": "Digoxin may cause yellow-green vision",
+                "concept_percentile": "39"
+            },
+            "6689": {
+                "concept_text": "Amiodarone may cause precipitation of digoxin toxicity - if starting amiodarone on a patient taking digoxin the dose should be reduced",
+                "concept_percentile": "17"
+            },
+            "6690": {
+                "concept_text": "Verapamil may cause precipitation of digoxin toxicity",
+                "concept_percentile": "20"
+            },
+            "6691": {
+                "concept_text": "Diltiazem may cause precipitation of digoxin toxicity",
+                "concept_percentile": "51"
+            },
+            "6693": {
+                "concept_text": "Thiazides may cause precipitation of digoxin toxicity",
+                "concept_percentile": "54"
+            },
+            "6694": {
+                "concept_text": "Loop diuretics may cause precipitation of digoxin toxicity",
+                "concept_percentile": "38"
+            },
+            "6695": {
+                "concept_text": "Ciclosporin may cause precipitation of digoxin toxicity",
+                "concept_percentile": "8"
+            },
+            "9713": {
+                "concept_text": "Digoxin level is not monitored routinely, except in suspected toxicity ",
+                "concept_percentile": "60"
+            },
+            "9763": {
+                "concept_text": "Digoxin toxicity may occur even when the concentration is within the therapeutic range",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

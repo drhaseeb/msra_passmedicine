@@ -1,0 +1,911 @@
+[
+    {
+        "question_id": "24141_B_22",
+        "new_question_id": "42360",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "8316",
+        "notes_id_link": "1_2416",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute cholecystitis",
+            "Acute pancreatitis",
+            "Alcoholic hepatitis",
+            "Hepatitis A",
+            "Non-alcoholic steatohepatitis (NASH)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man presents to the emergency department with right upper quadrant pain, fatigue, and anorexia that has been going on for a few weeks and is getting gradually worse. His past medical history includes heavy alcohol intake, gastroesophageal reflux disease (GORD) and a hiatus hernia. He only takes omeprazole and has no known allergies.<br /><br />On examination, he looks jaundiced.<br /><br />A liver function test is done which shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>50 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALT</td><td>150 u/L</td><td>(3 - 40)</td></tr><tr><td>AST</td><td>300 u/L</td><td>(8 - 33)</td></tr><tr><td>Albumin</td><td>35 g/L</td><td>(35 - 50)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Alcoholic hepatitis</b> usually presents between the age of 40 and 50 years in those with a history of heavy alcohol use (usually >100 g/day for more than 20 years which is equal to about 3 glasses of 12% wine or 7 beers). Common presenting symptoms include right upper quadrant pain, anorexia, weight loss, jaundice, muscle wasting, and fever.  AST/ALT>2 is characteristic of alcoholic hepatitis and points toward the diagnosis in this patient.<br /><br /><b>Acute cholecystitis</B> is inflammation of the gall bladder that usually presents with acute right upper quadrant pain associated with high inflammatory markers. This man is presenting with sub-acute symptoms along with an AST/ALT ratio of 2, making alcoholic hepatitis a more likely diagnosis.<br /><br /><b>Hepatitis A</b> is a viral infection that presents acutely with abdominal pain and vomiting usually after travelling to Africa, Asia, the Middle East, or Central and South America. This patient is presenting with sub-acute symptoms with no recent travel history, making hepatitis A a less likely diagnosis.<br /><br /><b> Non-alcoholic steatohepatitis (NASH)</b> is an advanced form of non-alcoholic fatty liver disease which could present in a similar presentation with abdominal pain and fatigue. However, having an AST/ALT ratio of 2 makes this a less likely diagnosis.<br /><br /><b>Acute pancreatitis</b> usually presents with acute epigastric pain radiating to the back associated with high amylase levels. The subacute presentation in this man along with the AST/ALT ratio of 2 makes this a less likely diagnosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man presents to the emergency department with right upper quadrant pain, fatigue, and anorexia that has been going on for a few weeks and is getting gradually worse. His past medical history includes heavy alcohol intake, gastroesophageal reflux disease (GORD) and a hiatus hernia. He only takes omeprazole and has no known allergies.<br /><br />On examination, he looks jaundiced.<br /><br />A liver function test is done which shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>50 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALT</td><td>150 u/L</td><td>(3 - 40)</td></tr><tr><td>AST</td><td>300 u/L</td><td>(8 - 33)</td></tr><tr><td>Albumin</td><td>35 g/L</td><td>(35 - 50)</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "<b>Alcoholic hepatitis</b> usually presents between the age of 40 and 50 years in those with a history of heavy alcohol use (usually >100 g/day for more than 20 years which is equal to about 3 glasses of 12% wine or 7 beers). Common presenting symptoms include right upper quadrant pain, anorexia, weight loss, jaundice, muscle wasting, and fever.  AST/ALT>2 is characteristic of alcoholic hepatitis and points toward the diagnosis in this patient.<br /><br /><b>Acute cholecystitis</B> is inflammation of the gall bladder that usually presents with acute right upper quadrant pain associated with high inflammatory markers. This man is presenting with sub-acute symptoms along with an AST/ALT ratio of 2, making alcoholic hepatitis a more likely diagnosis.<br /><br /><b>Hepatitis A</b> is a viral infection that presents acutely with abdominal pain and vomiting usually after travelling to Africa, Asia, the Middle East, or Central and South America. This patient is presenting with sub-acute symptoms with no recent travel history, making hepatitis A a less likely diagnosis.<br /><br /><b> Non-alcoholic steatohepatitis (NASH)</b> is an advanced form of non-alcoholic fatty liver disease which could present in a similar presentation with abdominal pain and fatigue. However, having an AST/ALT ratio of 2 makes this a less likely diagnosis.<br /><br /><b>Acute pancreatitis</b> usually presents with acute epigastric pain radiating to the back associated with high amylase levels. The subacute presentation in this man along with the AST/ALT ratio of 2 makes this a less likely diagnosis.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Alcoholic liver disease",
+        "body": "Alcoholic liver disease covers a spectrum of conditions:<br /><ul><li>alcoholic fatty liver disease</li><li>alcoholic hepatitis</li><li>cirrhosis</li></ul><br />Selected investigation findings:<br /><ul><li>gamma-GT is characteristically elevated</li><li>the ratio of <span class=\"concept\" data-cid=\"8316\">AST:ALT is normally > 2</span>, a ratio of > 3 is strongly suggestive of acute alcoholic hepatitis</li></ul><br />Selected management notes for alcoholic hepatitis:<br /><ul><li><span class=\"concept\" data-cid=\"5501\">glucocorticoids</span> (e.g. prednisolone) are often used during acute episodes of alcoholic hepatitis<ul><li><span class=\"concept\" data-cid=\"5500\">Maddrey's discriminant function (DF)</span> is often used during acute episodes to determine who would benefit from glucocorticoid therapy</li><li>it is calculated by a formula using <span class=\"concept\" data-cid=\"11025\">prothrombin time and bilirubin</span> concentration</li></ul></li><li>pentoxyphylline is also sometimes used<ul><li>the STOPAH study (see reference) compared the two common treatments for alcoholic hepatitis, pentoxyphylline and prednisolone. It showed that prednisolone improved survival at 28 days and that pentoxyphylline did not improve outcomes</li></ul></li></ul>",
+        "notes_hash": "d42d58cabb6735e0c5597f6fe244cdc7",
+        "knowledge_graph_node_id_link": 1235,
+        "concept": "The AST/ALT ratio in alcoholic hepatitis is 2:1",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "8433",
+        "up_votes": "21",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "842",
+            "522",
+            "6648",
+            "143",
+            "278",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/19/Cirrhosis.webm\" data-description=\"Liver cirrhosis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"977\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/1/19/Cirrhosis.webm\" data-description=\"Liver cirrhosis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"977\">Liver cirrhosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1697\" data-mediaid=\"1697\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1697\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1697\" data-mediaid=\"1697\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1697\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RudR2_VVoaw\" data-description=\"Alcohol-related liver disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"27\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RudR2_VVoaw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RudR2_VVoaw\" data-description=\"Alcohol-related liver disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"27\">Alcohol-related liver disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_51\" data-mediaid=\"51\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_51\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_51\" data-mediaid=\"51\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_51\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 10,
+        "concepts_for_notes": {
+            "5501": {
+                "concept_text": "Corticosteroids are used in the management of severe alcoholic hepatitis",
+                "concept_percentile": "32"
+            },
+            "8316": {
+                "concept_text": "The AST/ALT ratio in alcoholic hepatitis is 2:1",
+                "concept_percentile": "80"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1776",
+        "new_question_id": "3368",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1568",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tolterodine",
+            "Teriparatide",
+            "Toremifene",
+            "Finasteride",
+            "Tamsulosin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 57-year-old woman is referred to urogynaecology with symptoms of urge incontinence. A trial of bladder retraining is unsuccessful. It is therefore decided to use a muscarinic antagonist. <br /><br />Which one of the following medications is an example of a muscarinic antagonist?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Other examples of muscarinic antagonists used in urinary incontinence include oxybutynin and solifenacin. Examples of muscarinic antagonists used in different conditions include ipratropium (chronic obstructive pulmonary disease) and procyclidine (Parkinson's disease).<br /><br />Tamsulosin is an alpha blocker.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 57-year-old woman is referred to urogynaecology with symptoms of urge incontinence. A trial of bladder retraining is unsuccessful. It is therefore decided to use a muscarinic antagonist. <br /><br />Which one of the following medications is an example of a muscarinic antagonist?",
+        "correct_answer": "1",
+        "question_notes": "Other examples of muscarinic antagonists used in urinary incontinence include oxybutynin and solifenacin. Examples of muscarinic antagonists used in different conditions include ipratropium (chronic obstructive pulmonary disease) and procyclidine (Parkinson's disease).<br /><br />Tamsulosin is an alpha blocker.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Urinary incontinence",
+        "body": "Urinary incontinence (UI) is a common problem, affecting around 4-5% of the population. It is more common in elderly females. <br /><br />Risk factors<br /><ul><li>advancing age</li><li>previous pregnancy and childbirth</li><li>high body mass index</li><li>hysterectomy</li><li>family history</li></ul><br />Classification<br /><ul><li><span class=\"concept\" data-cid=\"11615\">overactive bladder (OAB)/urge incontinence</span><ul><li>due to detrusor overactivity</li><li>the urge to urinate is quickly followed by uncontrollable leakage ranging from a few drops to complete bladder emptying</li></ul></li><li>stress incontinence: leaking small amounts when <span class=\"concept\" data-cid=\"4783\">coughing or laughing</span></li><li>mixed incontinence: both urge and stress</li><li>overflow incontinence: due to <span class=\"concept\" data-cid=\"4782\">bladder outlet obstruction</span>, e.g. due to prostate enlargement</li><li><span class=\"concept\" data-cid=\"11553\">functional incontinence</span><ul><li>comorbid physical conditions impair the patient's ability to get to a bathroom in time</li><li>causes include dementia, sedating medication and injury/illness resulting in decreased ambulation</li></ul></li></ul><br />Initial investigation<br /><ul><li>bladder diaries should be completed for a minimum of 3 days</li><li>vaginal examination to exclude pelvic organ prolapse and ability to initiate voluntary contraction of pelvic floor muscles ('Kegel' exercises)</li><li><span class=\"concept\" data-cid=\"2860\">urine dipstick and culture</span></li><li>urodynamic studies<ul><li><span class=\"concept\" data-cid=\"12421\">not routinely required before starting initial conservative treatment for urinary incontinence</span></li><li>may be considered if the diagnosis is uncertain,  mixed incontinence is suspected or surgical intervention is planned</li></ul></li></ul><br /><h6 class='notes-subheading'>Management depends on whether urge or stress UI is the predominant picture</h6> <br /><br />If urge incontinence is predominant:<br /><ul><li><span class=\"concept\" data-cid=\"342\">bladder retraining</span> (lasts for a minimum of 6 weeks, the idea is to gradually increase the intervals between voiding) </li><li><span class=\"concept\" data-cid=\"4664\">bladder stabilising drugs: antimuscarinics are first-line</span><ul><li>NICE recommend oxybutynin (immediate release), tolterodine (immediate release) or darifenacin (once daily preparation)</li><li><span class=\"concept\" data-cid=\"8320\"> avoid immediate-release oxybutynin in frail older women</span></li><li>solifenacin is an alternative antimuscarinic agent</li></ul></li><li>mirabegron (a <span class=\"concept\" data-cid=\"2295\">beta-3 agonist</span>) may be useful if there is concern about anticholinergic side-effects in <span class=\"concept\" data-cid=\"7869\">frail elderly patients</span></li><li>if <span class=\"concept\" data-cid=\"12317\">troublesome nocturia is a feature, desmopressin</span> may be considered</li><li>for women with overactive bladder that has not responded to non-surgical management:<ul><li>if urodynamic investigations determine that detrusor overactivity is causing her overactive bladder symptoms then consider <span class=\"concept\" data-cid=\"12326\">botulinum toxin type A bladder wall injection</span></li></ul></li></ul><br />If stress incontinence is predominant:<br /><ul><li>lifestyle measures, e.g. weight reduction, reducing caffeine intake</li><li><span class=\"concept\" data-cid=\"342\">pelvic floor muscle training</span><ul><li>NICE recommend at least 8 contractions performed 3 times per day for a minimum of 3 months</li></ul></li><li>surgical procedures include:<ul><li>mid-urethral tape procedures (still recommended by NICE but only after discussing risks and benefits)</li><li>intramural bulking agent injections</li><li>colposuspension</li></ul></li><li><span class=\"concept\" data-cid=\"11018\">duloxetine</span> may be offered to women if they decline surgical procedures<ul><li>a combined noradrenaline and serotonin reuptake inhibitor</li><li>mechanism of action: increased synaptic concentration of noradrenaline and serotonin within the pudendal nerve &rarr; increased stimulation of urethral striated muscles within the sphincter &rarr; enhanced contraction</li></ul></li></ul>",
+        "notes_hash": "6003d1ac7f9e8dcae13affdb7cd360c6",
+        "knowledge_graph_node_id_link": 10100,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7550",
+        "up_votes": "50",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "5662",
+            "215",
+            "267",
+            "545",
+            "861",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_272\" data-linkid=\"272\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_272\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_272\" data-linkid=\"272\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_272\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">37</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng123/chapter/Recommendations\">2019 urinary incontinence guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "342": {
+                "concept_text": "Urinary incontinence - first-line treatment:\r\n   - urge incontinence: bladder retraining\r\n   - stress incontinence: pelvic floor muscle training",
+                "concept_percentile": "64"
+            },
+            "2860": {
+                "concept_text": "Urine dipstick test and culture should be done as part of the basic investigations for urinary incontinence",
+                "concept_percentile": "71"
+            },
+            "4664": {
+                "concept_text": "Patients with urge incontinence who have failed bladder retraining can trial bladder stabilising drugs (antimuscarinics) such as oxybutynin, tolterodine or darifenacin",
+                "concept_percentile": "85"
+            },
+            "4782": {
+                "concept_text": "Bladder still palpable after urination, think retention with urinary overflow ",
+                "concept_percentile": "85"
+            },
+            "4783": {
+                "concept_text": "Urinary incontinence when coughing is most likely to be due to stress incontinence",
+                "concept_percentile": "29"
+            },
+            "11018": {
+                "concept_text": "Duloxetine may be used in patients with stress incontinence who don't respond to pelvic floor muscle exercises and decline surgical intervention",
+                "concept_percentile": "83"
+            },
+            "12326": {
+                "concept_text": "Botulinum toxin type A bladder wall injections may be considered for refactory overactive bladder symptoms",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5384_B_17",
+        "new_question_id": "30590",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "11309",
+        "notes_id_link": "1_1176",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Further dose of IV atropine",
+            "Intravenous amiodarone",
+            "Refer to local interventional cardiology centre",
+            "Repeated trial of transcutaneous pacing",
+            "Transvenous pacing",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 89-year-old female presents to the emergency department following a collapse. On arrival, an ECG is performed which shows a complete heart block with a heart rate of 35 bpm. The patient also complains of feeling lightheaded. She is given 500 micrograms of IV atropine which shows no change. This is repeated another five times, and her heart rate does not rise above 40 bpm. Transcutaneous pacing is attempted but is ineffective.<br /><br />Which of these is the next management step according to the Resuscitation Council (UK) guidelines?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "According to the advanced life support (ALS) bradycardia algorithm, transvenous pacing follows atropine and transcutaneous pacing if bradycardia persists.<br /><br />The maximum dose of atropine is 3mg which the patient has already received; therefore, this option is incorrect. Atropine increases the heart rate and improves the atrioventricular conduction by blocking parasympathetic stimulation.<br /><br />Amiodarone is used to treat tachycardia (e.g. atrial fibrillation with rapid ventricular response) and not bradycardia. In addition, amiodarone is a class III antiarrhythmic that acts as a potassium channel blocker, thus increasing the refractory period in the cardiac cycle and slowing the heart rate. This would undoubtedly worsen the patient's condition.<br /><br />The definitive management for complete heart block or Mobitz type II is a dual-chamber pacemaker. It is essential to stabilise the patient first before transfer for pacemaker insertion. This patient is currently unstable, and so pacemaker insertion is not currently appropriate.<br /><br />If transcutaneous pacing has been unsuccessful, the subsequent management step should be utilised, which is transvenous pacing, rather than attempting further transcutaneous pacing.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 89-year-old female presents to the emergency department following a collapse. On arrival, an ECG is performed which shows a complete heart block with a heart rate of 35 bpm. The patient also complains of feeling lightheaded. She is given 500 micrograms of IV atropine which shows no change. This is repeated another five times, and her heart rate does not rise above 40 bpm. Transcutaneous pacing is attempted but is ineffective.<br /><br />Which of these is the next management step according to the Resuscitation Council (UK) guidelines?",
+        "correct_answer": "5",
+        "question_notes": "According to the advanced life support (ALS) bradycardia algorithm, transvenous pacing follows atropine and transcutaneous pacing if bradycardia persists.<br /><br />The maximum dose of atropine is 3mg which the patient has already received; therefore, this option is incorrect. Atropine increases the heart rate and improves the atrioventricular conduction by blocking parasympathetic stimulation.<br /><br />Amiodarone is used to treat tachycardia (e.g. atrial fibrillation with rapid ventricular response) and not bradycardia. In addition, amiodarone is a class III antiarrhythmic that acts as a potassium channel blocker, thus increasing the refractory period in the cardiac cycle and slowing the heart rate. This would undoubtedly worsen the patient's condition.<br /><br />The definitive management for complete heart block or Mobitz type II is a dual-chamber pacemaker. It is essential to stabilise the patient first before transfer for pacemaker insertion. This patient is currently unstable, and so pacemaker insertion is not currently appropriate.<br /><br />If transcutaneous pacing has been unsuccessful, the subsequent management step should be utilised, which is transvenous pacing, rather than attempting further transcutaneous pacing.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Peri-arrest rhythms: bradycardia",
+        "body": "The 2021 Resuscitation Council (UK) guidelines emphasise that the management of bradycardia depends on:<br /><ul><li>1. identifying the presence of signs indicating haemodynamic compromise - 'adverse signs'</li><li>2. identifying the potential risk of asystole</li></ul><br /><h5 class='notes-heading'>Adverse signs</h5><br />The following factors indicate haemodynamic compromise and hence the need for treatment:<br /><ul><li>shock: hypotension (systolic blood pressure < 90 mmHg), pallor, sweating, cold, clammy extremities, confusion or impaired consciousness</li><li>syncope</li><li>myocardial ischaemia</li><li>heart failure </li></ul><br /><span class=\"concept\" data-cid=\"1328\">Atropine (500mcg IV)</span> is the first line treatment in this situation.<br /><br />If there is an unsatisfactory response the following interventions may be used:<br /><ul><li><span class=\"concept\" data-cid=\"5237\">atropine, up to a maximum of 3mg</span></li><li><span class=\"concept\" data-cid=\"1329\">transcutaneous pacing</span></li><li><span class=\"concept\" data-cid=\"11310\">isoprenaline/adrenaline infusion</span> titrated to response</li></ul><br />Specialist help should be sought for consideration of <span class=\"concept\" data-cid=\"11309\">transvenous pacing</span> if there is no response to the above measures.<br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd966b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd966.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Potential risk of asystole</h5><br />The following are <span class=\"concept\" data-cid=\"11311\">risk factors for asystole</span>. Even if there is a satisfactory response to atropine specialist help is indicated to consider the need for transvenous pacing:<br /><ul><li>complete heart block with broad complex QRS</li><li>recent asystole</li><li>Mobitz type II AV block</li><li>ventricular pause > 3 seconds</li></ul>",
+        "notes_hash": "39df0e772d90eaa5dfaecde477fd4340",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Transvenous pacing should be considered if a bradycardia doesn't respond to drugs or transcutaneous pacing",
+        "concept_percentile": "71",
+        "concept_colour": "rgb(147,255,0)",
+        "number_attempts": "6273",
+        "up_votes": "30",
+        "down_votes": "56",
+        "column_array": [
+            0,
+            "228",
+            "229",
+            "1114",
+            "260",
+            "4442",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resuscitation Council UK</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2054\" data-linkid=\"2054\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2054\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_2054\" data-linkid=\"2054\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2054\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/sites/default/files/2021-04/Bradycardia%20Algorithm%202021.pdf\">2021 Bradycardia algorithm</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RuxKTCv_s0M\" data-description=\"Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1089\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RuxKTCv_s0M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RuxKTCv_s0M\" data-description=\"Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"1089\">Arrhythmia Overview - Mechanism of bradyarrhythmia and tachyarrhythmia</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1889\" data-mediaid=\"1889\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1889\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1889\" data-mediaid=\"1889\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1889\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "1329": {
+                "concept_text": "External pacing is used for symptomatic bradycardia if atropine fails",
+                "concept_percentile": "84"
+            },
+            "5237": {
+                "concept_text": "Patients with bradycardia and signs of shock require 500micrograms of atropine (repeated up to max 3mg)",
+                "concept_percentile": "80"
+            },
+            "11309": {
+                "concept_text": "Transvenous pacing should be considered if a bradycardia doesn't respond to drugs or transcutaneous pacing",
+                "concept_percentile": "71"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1975",
+        "new_question_id": "1717",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "997",
+        "notes_id_link": "1_1201",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Salmon calcitonin",
+            "Chemotherapy",
+            "Bisphosphonates",
+            "Prednisolone",
+            "IV 0.9% saline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old gentleman with known multiple myeloma presents with abdominal pain, polydipsia and confusion. Some blood results are shown below. <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na+</td><td>145 mmol/l</td></tr><tr><td>K+</td><td>4.1 mmol/l</td></tr><tr><td>Albumin</td><td>35 g/l</td></tr><tr><td>Calcium</td><td>3.55 mmol/l</td></tr><tr><td>Alkaline phosphatase</td><td>120 iu/l</td></tr><tr><td>Urea</td><td>7.2mmol/l</td></tr><tr><td>Creatinine</td><td>130\u00b5mol/l</td></tr></tbody></table></div><br />What is the most important initial management of his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The man has hypercalcaemia secondary to multiple myeloma. He has polydipsia, and his sodium is at the upper limit of normal so he is likely to be dehydrated. IV 0.9% saline should be the first treatment given for symptomatic hypercalcaemia to correct dehydration. <br /><br />Bisphosphonates are very important especially when the hypercalcaemia is due to malignancy and is likely to recur after dehydration is corrected, as they lower calcium and prevent osteoclast resorption of bone. <br /><br />Bisphosphonates are now preferred to salmon calcitonin particularly because of their longer half-life.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old gentleman with known multiple myeloma presents with abdominal pain, polydipsia and confusion. Some blood results are shown below. <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na+</td><td>145 mmol/l</td></tr><tr><td>K+</td><td>4.1 mmol/l</td></tr><tr><td>Albumin</td><td>35 g/l</td></tr><tr><td>Calcium</td><td>3.55 mmol/l</td></tr><tr><td>Alkaline phosphatase</td><td>120 iu/l</td></tr><tr><td>Urea</td><td>7.2mmol/l</td></tr><tr><td>Creatinine</td><td>130\u00b5mol/l</td></tr></tbody></table></div><br />What is the most important initial management of his symptoms?",
+        "correct_answer": "5",
+        "question_notes": "The man has hypercalcaemia secondary to multiple myeloma. He has polydipsia, and his sodium is at the upper limit of normal so he is likely to be dehydrated. IV 0.9% saline should be the first treatment given for symptomatic hypercalcaemia to correct dehydration. <br /><br />Bisphosphonates are very important especially when the hypercalcaemia is due to malignancy and is likely to recur after dehydration is corrected, as they lower calcium and prevent osteoclast resorption of bone. <br /><br />Bisphosphonates are now preferred to salmon calcitonin particularly because of their longer half-life.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Hypercalcaemia: management",
+        "body": "The initial management of hypercalcaemia is <span class=\"concept\" data-cid=\"997\">rehydration with normal saline</span>, typically 3-4 litres/day. Following rehydration bisphosphonates may be used. They typically take 2-3 days to work with maximal effect being seen at 7 days<br /><br />Other options include:<br /><ul><li>calcitonin - quicker effect than bisphosphonates</li><li>steroids in sarcoidosis</li></ul><br />Loop diuretics such as furosemide are sometimes used in hypercalcaemia, particularly in patients who cannot tolerate aggressive fluid rehydration. However, they should be used with caution as they may worsen electrolyte derangement and volume depletion.",
+        "notes_hash": "2183240d161bf88bdbd4bf3a8956731b",
+        "knowledge_graph_node_id_link": 10263,
+        "concept": "IV fluid therapy is the first-line management in patients with hypercalcaemia",
+        "concept_percentile": "43",
+        "concept_colour": "rgb(255,219,0)",
+        "number_attempts": "6834",
+        "up_votes": "29",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "89",
+            "21",
+            "504",
+            "119",
+            "6101",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1326\" data-linkid=\"1326\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1326\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1326\" data-linkid=\"1326\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1326\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/270\">Hypercalcaemia \u00e2\u20ac\u201c presentation and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"233\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/630hhyQ-jE0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"233\">Hypercalcemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_389\" data-mediaid=\"389\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_389\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_389\" data-mediaid=\"389\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_389\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1144\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Rs7MwyKZryY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1144\">Hypercalcemia in malignancy</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1979\" data-mediaid=\"1979\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1979\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1979\" data-mediaid=\"1979\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1979\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "997": {
+                "concept_text": "IV fluid therapy is the first-line management in patients with hypercalcaemia",
+                "concept_percentile": "43"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_42",
+        "new_question_id": "2842",
+        "question_type": "1",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1457",
+        "theme": "Vitamin deficiency",
+        "instruction": "For each one of the following scenarios select the vitamin which may cause these features if deficient:",
+        "options": [
+            "",
+            "Vitamin A",
+            "Thiamine",
+            "Niacin",
+            "Pyridoxine",
+            "Folic acid",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E",
+            "Vitamin K"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Bleeding gums",
+            "Chzqqgndz, bnmetrhnm zmc dbydlzsntr rjhm",
+            "Nrsdnlzkzbhz"
+        ],
+        "answers": [
+            "7",
+            "3",
+            "8"
+        ],
+        "notes": [
+            "",
+            "This is pellagra",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Bleeding gums",
+        "correct_answer": "7",
+        "question_notes": "",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Vitamin deficiency",
+        "body": "The table below summarises vitamin deficiency states<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Vitamin</b></th><th><b>Chemical name</b></th><th><b>Deficiency state</b></th></tr></thead><tbody><tr><td>A</td><td>Retinoids</td><td>Night-blindness (nyctalopia)</td></tr><tr><td>B1</td><td>Thiamine</td><td>Beriberi<br /><ul><li>polyneuropathy, Wernicke-Korsakoff syndrome</li><li>heart failure</td></tr><tr><td></li></ul>B3</td><td>Niacin</td><td>Pellagra<br /><ul><li>dermatitis</li><li>diarrhoea</li><li>dementia</td></tr><tr><td></li></ul>B6</td><td>Pyridoxine</td><td>Anaemia, irritability, seizures</td></tr><tr><td>B7</td><td>Biotin</td><td>Dermatitis, seborrhoea</td></tr><tr><td>B9</td><td>Folic acid</td><td>Megaloblastic anaemia, deficiency during pregnancy - neural tube defects</td></tr><tr><td>B12</td><td>Cyanocobalamin</td><td>Megaloblastic anaemia, peripheral neuropathy</td></tr><tr><td>C</td><td>Ascorbic acid</td><td>Scurvy<br /><ul><li>gingivitis</li><li>bleeding</td></tr><tr><td></li></ul>D</td><td>Ergocalciferol, cholecalciferol</td><td>Rickets, osteomalacia</td></tr><tr><td>E</td><td>Tocopherol, tocotrienol</td><td>Mild haemolytic anaemia in newborn infants, ataxia, peripheral neuropathy</td></tr><tr><td>K</td><td>Naphthoquinone</td><td>Haemorrhagic disease of the newborn, bleeding diathesis</td></tr></tbody></table></div>",
+        "notes_hash": "c428f6ceb44c0ea2ca8882f4beeb88bf",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6018",
+        "up_votes": "41",
+        "down_votes": "28",
+        "column_array": [
+            0,
+            "4499",
+            "2973",
+            "5754",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_43",
+        "new_question_id": "2843",
+        "question_type": "1",
+        "category": "3",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1457",
+        "theme": "Vitamin deficiency",
+        "instruction": "For each one of the following scenarios select the vitamin which may cause these features if deficient:",
+        "options": [
+            "",
+            "Vitamin A",
+            "Thiamine",
+            "Niacin",
+            "Pyridoxine",
+            "Folic acid",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E",
+            "Vitamin K"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Wernicke-Korsakoff syndrome",
+            "Neural tube defects",
+            "Haemorrhagic disease of the newborn"
+        ],
+        "answers": [
+            "2",
+            "5",
+            "10"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Wernicke-Korsakoff syndrome",
+        "correct_answer": "2",
+        "question_notes": "",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Vitamin deficiency",
+        "body": "The table below summarises vitamin deficiency states<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Vitamin</b></th><th><b>Chemical name</b></th><th><b>Deficiency state</b></th></tr></thead><tbody><tr><td>A</td><td>Retinoids</td><td>Night-blindness (nyctalopia)</td></tr><tr><td>B1</td><td>Thiamine</td><td>Beriberi<br /><ul><li>polyneuropathy, Wernicke-Korsakoff syndrome</li><li>heart failure</td></tr><tr><td></li></ul>B3</td><td>Niacin</td><td>Pellagra<br /><ul><li>dermatitis</li><li>diarrhoea</li><li>dementia</td></tr><tr><td></li></ul>B6</td><td>Pyridoxine</td><td>Anaemia, irritability, seizures</td></tr><tr><td>B7</td><td>Biotin</td><td>Dermatitis, seborrhoea</td></tr><tr><td>B9</td><td>Folic acid</td><td>Megaloblastic anaemia, deficiency during pregnancy - neural tube defects</td></tr><tr><td>B12</td><td>Cyanocobalamin</td><td>Megaloblastic anaemia, peripheral neuropathy</td></tr><tr><td>C</td><td>Ascorbic acid</td><td>Scurvy<br /><ul><li>gingivitis</li><li>bleeding</td></tr><tr><td></li></ul>D</td><td>Ergocalciferol, cholecalciferol</td><td>Rickets, osteomalacia</td></tr><tr><td>E</td><td>Tocopherol, tocotrienol</td><td>Mild haemolytic anaemia in newborn infants, ataxia, peripheral neuropathy</td></tr><tr><td>K</td><td>Naphthoquinone</td><td>Haemorrhagic disease of the newborn, bleeding diathesis</td></tr></tbody></table></div>",
+        "notes_hash": "c428f6ceb44c0ea2ca8882f4beeb88bf",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5596",
+        "up_votes": "56",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "4864",
+            "5012",
+            "5105",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_239",
+        "new_question_id": "16906",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "900",
+        "notes_id_link": "1_862",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amlodipine",
+            "Propranolol",
+            "Verapamil",
+            "Phenoxybenzamine",
+            "Surgery",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man presents to the emergency department with a headache, sweating and palpitations.  These symptoms have been ongoing for the last hour and he feels they are worsening. <br /><br />On examination, his blood pressure is found to be 180/90 mmHg and a fine tremor is noted in both hands. His urine is sampled and shows raised levels of urinary metanephrines<br /><br />Given this man's presentation, what is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about a young man presenting with palpitations, tremor and a headache. Given his presentation, his most likely underlying diagnosis is a phaeochromocytoma. This is confirmed by the raised blood pressure on examination and the raised levels of urinary metanephrines. The first-line treatment for a phaeochromocytoma is a non-selective alpha blocker, in this case, phenoxybenzamine.<br /><br />Amlodipine is a calcium channel blocker, calcium channel blockers can be used in the treatment of phaeochromocytomas, however, they are often introduced second-line if blood pressure cannot be controlled. <br /><br />Propranolol is a beta blocker,  giving a beta blocker before an alpha-blocker in patients with a phaeochromocytoma can cause a hypertensive crisis and so is not the first line treatment in this case. However, it will be added after the alpha blocker has had time to work. <br /><br />Verapamil is a non-dihydropyridine calcium channel blocker and thus this cannot be used in conjunction with a beta blocker due to synergistic effects. Therefore this would not be used in this case. <br /><br />Surgery is the definitive treatment for a phaeochromocytoma as the tumour releasing the catecholamines needs to be removed. However, this will be done when the patient has been stabilised on alpha and beta blockers, normally around 10 days after treatment is started.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man presents to the emergency department with a headache, sweating and palpitations.  These symptoms have been ongoing for the last hour and he feels they are worsening. <br /><br />On examination, his blood pressure is found to be 180/90 mmHg and a fine tremor is noted in both hands. His urine is sampled and shows raised levels of urinary metanephrines<br /><br />Given this man's presentation, what is the most appropriate first-line treatment?",
+        "correct_answer": "4",
+        "question_notes": "This question is asking about a young man presenting with palpitations, tremor and a headache. Given his presentation, his most likely underlying diagnosis is a phaeochromocytoma. This is confirmed by the raised blood pressure on examination and the raised levels of urinary metanephrines. The first-line treatment for a phaeochromocytoma is a non-selective alpha blocker, in this case, phenoxybenzamine.<br /><br />Amlodipine is a calcium channel blocker, calcium channel blockers can be used in the treatment of phaeochromocytomas, however, they are often introduced second-line if blood pressure cannot be controlled. <br /><br />Propranolol is a beta blocker,  giving a beta blocker before an alpha-blocker in patients with a phaeochromocytoma can cause a hypertensive crisis and so is not the first line treatment in this case. However, it will be added after the alpha blocker has had time to work. <br /><br />Verapamil is a non-dihydropyridine calcium channel blocker and thus this cannot be used in conjunction with a beta blocker due to synergistic effects. Therefore this would not be used in this case. <br /><br />Surgery is the definitive treatment for a phaeochromocytoma as the tumour releasing the catecholamines needs to be removed. However, this will be done when the patient has been stabilised on alpha and beta blockers, normally around 10 days after treatment is started.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Phaeochromocytoma",
+        "body": "Phaeochromocytoma is a rare catecholamine secreting tumour. About 10% are familial and may be associated with <span class=\"concept\" data-cid=\"12468\">MEN type II</span>, neurofibromatosis and von Hippel-Lindau syndrome<br /><br />Basics<br /><ul><li>bilateral in 10%</li><li>malignant in 10%</li><li>extra-adrenal in 10% (most common site = organ of Zuckerkandl, adjacent to the bifurcation of the aorta)</li></ul><br /><span class=\"concept\" data-cid=\"4524\">Features</span> are typically episodic<br /><ul><li>hypertension (around 90% of cases, may be sustained)</li><li>headaches</li><li>palpitations</li><li>sweating</li><li>anxiety</li></ul><br />Tests<br /><ul><li><span class=\"concept\" data-cid=\"901\">24 hr urinary collection of metanephrines</span> (sensitivity 97%)</li><li>this has replaced a 24 hr urinary collection of catecholamines (sensitivity 86%)</li></ul><br /><span class=\"concept\" data-cid=\"3653\">Surgery is the definitive management. The patient must first however be stabilized with medical management</span>:<br /><ul><li><span class=\"concept\" data-cid=\"900\">alpha-blocker (e.g. phenoxybenzamine), given before a</span></li><li>beta-blocker (e.g. propranolol)</li></ul>",
+        "notes_hash": "6e43d7d19d8b8e8a0122f9d570e85e45",
+        "knowledge_graph_node_id_link": 1277,
+        "concept": "<b>PH</b>aeochromocytoma - give <b>PH</b>enoxybenzamine before beta-blockers",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "8169",
+        "up_votes": "48",
+        "down_votes": "14",
+        "column_array": [
+            0,
+            "398",
+            "2988",
+            "362",
+            "3662",
+            "759",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xrrSdRkU1cg\" data-description=\"Phaeochromocytoma\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"1402\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xrrSdRkU1cg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xrrSdRkU1cg\" data-description=\"Phaeochromocytoma\" data-upvotes=\"15\" data-downvotes=\"0\" data-media=\"1402\">Phaeochromocytoma</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2469\" data-mediaid=\"2469\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2469\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_2469\" data-mediaid=\"2469\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2469\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "900": {
+                "concept_text": "<b>PH</b>aeochromocytoma - give <b>PH</b>enoxybenzamine before beta-blockers",
+                "concept_percentile": "82"
+            },
+            "4524": {
+                "concept_text": "Phaeochromocytoma typically presents with a triad of sweating, headaches, and palpitations in association with severe hypertension",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1352",
+        "new_question_id": "59416",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "1381",
+        "notes_id_link": "1_915",
+        "theme": "Management of stage 2 hypertension in a patient over 55 with high cardiovascular risk",
+        "instruction": "",
+        "options": [
+            "",
+            "Amlodipine, atorvastatin, and lifestyle advice",
+            "Ramipril, atorvastatin, and lifestyle advice",
+            "Bendroflumethiazide, atorvastatin, and lifestyle advice",
+            "Amlodipine, lifestyle advice, and review in 3 months",
+            "Ramipril, amlodipine, atorvastatin, and lifestyle advice",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old woman presents to her GP with a 3-month history of headaches. She has no significant past medical history and takes no regular medications. Her blood pressure is 168/102 mmHg, confirmed on ambulatory blood pressure monitoring with an average of 155/98 mmHg. Her BMI is 28 kg/m\u00b2. Blood tests show total cholesterol 6.2 mmol/L and HDL 1.1 mmol/L. Her QRisk3 score is calculated as 15%.<br /><br />What is the most appropriate first-line management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Amlodipine, atorvastatin, and lifestyle advice</b> is the correct management for this patient. According to NICE guidelines, patients aged 55 years or older with stage 2 hypertension (clinic BP \u2265160/100 mmHg and ABPM average \u2265150/95 mmHg) should be started on a calcium channel blocker (CCB) such as amlodipine as first-line therapy. This patient is 62 years old with confirmed stage 2 hypertension (168/102 mmHg in clinic and 155/98 mmHg on ABPM). Age is a key determinant in the choice of initial antihypertensive therapy, with CCBs being more effective in older patients. Additionally, with a QRisk3 score of 15%, which indicates a high 10-year cardiovascular risk (>10%), statin therapy with atorvastatin is indicated for primary prevention. Lifestyle advice including salt reduction, weight loss, increased physical activity, and moderation of alcohol intake is essential alongside pharmacological management.<br /><br /><b>Ramipril, atorvastatin, and lifestyle advice</b> would not be the most appropriate first-line management. ACE inhibitors like ramipril are recommended as first-line therapy for patients under 55 years of age or those with type 2 diabetes mellitus. For patients aged 55 or older, like this 62-year-old woman, calcium channel blockers are preferred due to their superior efficacy in this age group. While the atorvastatin and lifestyle advice components are appropriate, the choice of antihypertensive does not follow current NICE guidelines for her age group.<br /><br /><b>Bendroflumethiazide, atorvastatin, and lifestyle advice</b> is not the recommended first-line approach. Thiazide diuretics are typically considered as second-line agents in the management of hypertension, usually added when a calcium channel blocker or ACE inhibitor/ARB alone is insufficient. Current guidelines recommend calcium channel blockers as first-line therapy for patients aged 55 years or older with hypertension. While the atorvastatin and lifestyle components are appropriate, bendroflumethiazide is not the optimal initial antihypertensive choice.<br /><br /><b>Amlodipine, lifestyle advice, and review in 3 months</b> is incomplete management. While amlodipine is the correct antihypertensive choice for this patient's age group and lifestyle advice is appropriate, this option omits statin therapy. With a QRisk3 score of 15%, which is well above the 10% threshold, statin therapy is clearly indicated for primary prevention of cardiovascular disease according to NICE guidelines. The elevated total cholesterol of 6.2 mmol/L further supports the need for lipid-lowering therapy.<br /><br /><b>Ramipril, amlodipine, atorvastatin, and lifestyle advice</b> represents an unnecessarily aggressive initial approach. While combination antihypertensive therapy may eventually be required for patients with resistant hypertension, NICE guidelines recommend starting with a single agent (step 1) before progressing to combination therapy (step 2). This patient has newly diagnosed hypertension and should begin with monotherapy using a calcium channel blocker, along with a statin and lifestyle modifications. Starting with dual antihypertensive therapy is not recommended as first-line management and may increase the risk of adverse effects.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old woman presents to her GP with a 3-month history of headaches. She has no significant past medical history and takes no regular medications. Her blood pressure is 168/102 mmHg, confirmed on ambulatory blood pressure monitoring with an average of 155/98 mmHg. Her BMI is 28 kg/m\u00b2. Blood tests show total cholesterol 6.2 mmol/L and HDL 1.1 mmol/L. Her QRisk3 score is calculated as 15%.<br /><br />What is the most appropriate first-line management?",
+        "correct_answer": "1",
+        "question_notes": "<b>Amlodipine, atorvastatin, and lifestyle advice</b> is the correct management for this patient. According to NICE guidelines, patients aged 55 years or older with stage 2 hypertension (clinic BP \u2265160/100 mmHg and ABPM average \u2265150/95 mmHg) should be started on a calcium channel blocker (CCB) such as amlodipine as first-line therapy. This patient is 62 years old with confirmed stage 2 hypertension (168/102 mmHg in clinic and 155/98 mmHg on ABPM). Age is a key determinant in the choice of initial antihypertensive therapy, with CCBs being more effective in older patients. Additionally, with a QRisk3 score of 15%, which indicates a high 10-year cardiovascular risk (>10%), statin therapy with atorvastatin is indicated for primary prevention. Lifestyle advice including salt reduction, weight loss, increased physical activity, and moderation of alcohol intake is essential alongside pharmacological management.<br /><br /><b>Ramipril, atorvastatin, and lifestyle advice</b> would not be the most appropriate first-line management. ACE inhibitors like ramipril are recommended as first-line therapy for patients under 55 years of age or those with type 2 diabetes mellitus. For patients aged 55 or older, like this 62-year-old woman, calcium channel blockers are preferred due to their superior efficacy in this age group. While the atorvastatin and lifestyle advice components are appropriate, the choice of antihypertensive does not follow current NICE guidelines for her age group.<br /><br /><b>Bendroflumethiazide, atorvastatin, and lifestyle advice</b> is not the recommended first-line approach. Thiazide diuretics are typically considered as second-line agents in the management of hypertension, usually added when a calcium channel blocker or ACE inhibitor/ARB alone is insufficient. Current guidelines recommend calcium channel blockers as first-line therapy for patients aged 55 years or older with hypertension. While the atorvastatin and lifestyle components are appropriate, bendroflumethiazide is not the optimal initial antihypertensive choice.<br /><br /><b>Amlodipine, lifestyle advice, and review in 3 months</b> is incomplete management. While amlodipine is the correct antihypertensive choice for this patient's age group and lifestyle advice is appropriate, this option omits statin therapy. With a QRisk3 score of 15%, which is well above the 10% threshold, statin therapy is clearly indicated for primary prevention of cardiovascular disease according to NICE guidelines. The elevated total cholesterol of 6.2 mmol/L further supports the need for lipid-lowering therapy.<br /><br /><b>Ramipril, amlodipine, atorvastatin, and lifestyle advice</b> represents an unnecessarily aggressive initial approach. While combination antihypertensive therapy may eventually be required for patients with resistant hypertension, NICE guidelines recommend starting with a single agent (step 1) before progressing to combination therapy (step 2). This patient has newly diagnosed hypertension and should begin with monotherapy using a calcium channel blocker, along with a statin and lifestyle modifications. Starting with dual antihypertensive therapy is not recommended as first-line management and may increase the risk of adverse effects.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Hypertension: management",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. Some of the key changes include:<br /><ul><li>lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%</li><li>angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated</li><li>if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a calcium channel blocker OR a thiazide-like diuretic can be used. Previously only a calcium channel blocker was recommended</li></ul><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocates.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6674\">140/90 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span></td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6676\">160/100 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span></td></tr><tr><td><b>Severe hypertension</b></td><td><span class=\"concept\" data-cid=\"6673\">Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</span></td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><h5 class='notes-heading'>Managing hypertension</h5><br />Lifestyle advice should not be forgotten and is frequently tested in exams:<br /><ul><li><span class=\"concept\" data-cid=\"10294\">a low salt diet is recommended, aiming for less than 6g/day</span>, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg</li><li>caffeine intake should be reduced</li><li>the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span> (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span> (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br />For patients < 40 years consider specialist referral to exclude secondary causes.<br /><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div><br /><br />Step 1 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6670\">patients < 55-years-old</span> or a background of <span class=\"concept\" data-cid=\"9851\">type 2 diabetes mellitus</span>: <b>A</b>CE inhibitor or a <b>A</b>ngiotensin receptor blocker (<b>A</b>CE-i or <b>A</b>RB): <b>(A)</b><ul><li><span class=\"concept\" data-cid=\"922\">angiotensin receptor blockers should be used where ACE inhibitors are not tolerated (e.g. due to a cough)</span></li></ul></li><li><span class=\"concept\" data-cid=\"6671\">patients >= 55-years-old</span> or of <span class=\"concept\" data-cid=\"6672\">black African or African-Caribbean origin</span>: <b>C</b>alcium channel blocker <b>(C)</b><ul><li><span class=\"concept\" data-cid=\"916\">ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line</span></li></ul></li></ul><br />Step 2 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6682\">if already taking an <b>A</b>CE-i or <b>A</b>RB add a <b>C</b>alcium channel blocker or a thiazide-like <b>D</b>iuretic</span></li><li><span class=\"concept\" data-cid=\"9850\">if already taking a <b>C</b>alcium channel blocker add an <b>A</b>CE-i or <b>A</b>RB or a thiazide-like <b>D</b>iuretic</span><ul><li><span class=\"concept\" data-cid=\"1386\">for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor</span></li></ul></li><li><b>(A + C) or (A + D)</b> or <b>(C + A) or (C + D)</b> </li></ul><br />Step 3 treatment<br /><ul><li>add a third drug to make, i.e.:<ul><li><span class=\"concept\" data-cid=\"6683\">if already taking an <b>(A + C)</b> then add a <b>D</b></span></li><li><span class=\"concept\" data-cid=\"9849\">if already <b>(A + D)</b> then add a <b>C</b></span></li></ul></li><li><b>(A + C + D)</b> </li></ul><br />Step 4 treatment<br /><ul><li>NICE define step 4 as resistant hypertension and suggest either adding a 4<sup>th</sup> drug (as below) or seeking specialist advice</li><li>first, check for:<ul><li>confirm elevated clinic BP with ABPM or HBPM</li><li>assess for postural hypotension.</li><li>discuss adherence</li></ul></li><li><span class=\"concept\" data-cid=\"6684\">if potassium < 4.5 mmol/l add low-dose spironolactone</span></li><li><span class=\"concept\" data-cid=\"6685\">if potassium > 4.5 mmol/l add an alpha- or beta-blocker</span></li></ul><br />Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:<br /><div class='bs-callout bs-callout-default'><i><i><br />If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained. <br /></i></i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Blood pressure targets</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td><span class=\"concept\" data-cid=\"6678\">140/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6680\">135/85 mmHg</span></td></tr><tr><td><b>Age > 80 years</b></td><td><span class=\"concept\" data-cid=\"6679\">150/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6681\">145/85 mmHg</span></td></tr></tbody></table></div>",
+        "notes_hash": "95248e6fb11c2374837320c9bd891a27",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "A patient over 55 years with stage 2 hypertension and a QRisk score of >10% requires a calcium channel blocker, atorvastatin and lifestyle advice as first-line therapy",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "5093",
+        "up_votes": "3",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "3821",
+            "793",
+            "17",
+            "345",
+            "117",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_978\" data-linkid=\"978\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_978\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">134</span><button type=\"button\" style=\"\" id=\"link_dislike_978\" data-linkid=\"978\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_978\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">121</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2429\" data-mediaid=\"2429\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2429\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2429\" data-mediaid=\"2429\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2429\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "922": {
+                "concept_text": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+                "concept_percentile": "32"
+            },
+            "1386": {
+                "concept_text": "For patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor",
+                "concept_percentile": "73"
+            },
+            "6670": {
+                "concept_text": "Newly diagnosed patient with hypertension (< 55 years) - add an ACE inhibitor or an angiotensin receptor blocker",
+                "concept_percentile": "43"
+            },
+            "6671": {
+                "concept_text": "Newly diagnosed patient with hypertension (> 55 years) - add a calcium channel blocker",
+                "concept_percentile": "21"
+            },
+            "6672": {
+                "concept_text": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+                "concept_percentile": "37"
+            },
+            "6673": {
+                "concept_text": "Criteria for considering immediate treatment based on a clinic reading - 180/120 mmHg",
+                "concept_percentile": "16"
+            },
+            "6674": {
+                "concept_text": "Definition of stage 1 hypertension (Clinic reading) - 140/90 mmHg",
+                "concept_percentile": "46"
+            },
+            "6675": {
+                "concept_text": "Definition of stage 1 hypertension (ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "19"
+            },
+            "6676": {
+                "concept_text": "Definition of stage 2 hypertension (Clinic reading) - 160/100 mmHg",
+                "concept_percentile": "34"
+            },
+            "6677": {
+                "concept_text": "Definition of stage 2 hypertension (ABPM/HBPM) - 150/95 mmHg",
+                "concept_percentile": "21"
+            },
+            "6678": {
+                "concept_text": "Blood pressure target (< 80 years, clinic reading) - 140/90 mmHg",
+                "concept_percentile": "26"
+            },
+            "6679": {
+                "concept_text": "Blood pressure target (> 80 years, clinic reading) - 150/90 mmHg",
+                "concept_percentile": "24"
+            },
+            "6680": {
+                "concept_text": "Blood pressure target (< 80 years, ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "23"
+            },
+            "6681": {
+                "concept_text": "Blood pressure target (> 80 years, ABPM/HBPM) - 145/85 mmHg",
+                "concept_percentile": "26"
+            },
+            "6682": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor - add a calcium channel blocker or a thiazide-like diuretic",
+                "concept_percentile": "47"
+            },
+            "6683": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+                "concept_percentile": "52"
+            },
+            "6684": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a thiazide diuretic. K+ < 4.5mmol/l - add spironolactone",
+                "concept_percentile": "56"
+            },
+            "6685": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a standard-dose thiazide diuretic. K+ > 4.5mmol/l - add an alpha- or beta-blocker",
+                "concept_percentile": "60"
+            },
+            "9849": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a thiazide diuretic - add a calcium channel blocker",
+                "concept_percentile": "24"
+            },
+            "9850": {
+                "concept_text": "Poorly controlled hypertension, already taking a calcium channel blocker - add an ACE inhibitor or an angiotensin receptor blocker or a thiazide-like diuretic",
+                "concept_percentile": "46"
+            },
+            "9851": {
+                "concept_text": "Newly diagnosed patient with hypertension who has a background of type 2 diabetes mellitus - add an ACE inhibitor or an angiotensin receptor blocker regardless of age",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2129",
+        "new_question_id": "6740",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2245",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Progesterone only pill (POP)",
+            "Copper intrauterine device",
+            "Combined oral contraceptive pill (COCP)",
+            "Progesterone injection (Depo-Provera)",
+            "Progesterone implant (Nexplanon)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22 year old woman attends the family planning clinic enquiring about contraception.  She is currently taking carbamazepine for epilepsy and her BMI is 39 kg/m\u00b2.  She has no other past medical history.  Which of the following would be the most suitable contraceptive to offer her?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "All woman who are taking an enzyme-inducing drug (EID) (carbamazepine is an example of an EID) should be advised to use a reliable contraceptive that is unaffected by EIDs.<br /><br />Examples of contraceptives that are unaffected by EIDs are:<br /><ul><li>Copper intrauterine device</li><li>Progesterone injection (Depo-provera)</li><li>Mirena intrauterine system</li></ul><br />The copper intra-uterine device is usually the preferred option, as it is a non-hormonal method.<br /><br />In the above scenario, the patient is obese with a BMI of 39 kg/m\u00b2.  Therefore, the contraceptive injection (Depo-Provera) would not be the most suitable option.  This is because it is associated with weight gain (2-3kg over 1 year).<br /><br />In patients on EIDs who wish to take the COCP (providing there are no contraindications) it is important to inform them that the effectiveness is decreased and there is an increased risk of pregnancy. <br />It is recommended that the dose of oestrogen is increased to 50mcg with no pill-free interval, or reduced to 4 days from 7 days (to reduce the chance of ovulation).  In addition, barrier methods would also be advised.  This applies when the patient is on an EID and for 4 weeks after stopping.<br /><br />In patients on EIDs who wish to take the POP or progesterone implant, then additional barrier contraception would be required while using EIDs and for 4 weeks after stopping.<br /><br />Note - rifampicin and rifabutin are potent EIDs and require longer periods of using barrier contraception after stopping (8 weeks).<br /><br />If emergency contraception is required, the copper intra-uterine device is again the best option.  If levonorgestrel (Levonelle) is used, then double the standard dose is recommended. Ulipristal acetate (ellaOne) is not recommended.<br /><br />FSRH guidelines.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22 year old woman attends the family planning clinic enquiring about contraception.  She is currently taking carbamazepine for epilepsy and her BMI is 39 kg/m\u00b2.  She has no other past medical history.  Which of the following would be the most suitable contraceptive to offer her?",
+        "correct_answer": "2",
+        "question_notes": "All woman who are taking an enzyme-inducing drug (EID) (carbamazepine is an example of an EID) should be advised to use a reliable contraceptive that is unaffected by EIDs.<br /><br />Examples of contraceptives that are unaffected by EIDs are:<br /><ul><li>Copper intrauterine device</li><li>Progesterone injection (Depo-provera)</li><li>Mirena intrauterine system</li></ul><br />The copper intra-uterine device is usually the preferred option, as it is a non-hormonal method.<br /><br />In the above scenario, the patient is obese with a BMI of 39 kg/m\u00b2.  Therefore, the contraceptive injection (Depo-Provera) would not be the most suitable option.  This is because it is associated with weight gain (2-3kg over 1 year).<br /><br />In patients on EIDs who wish to take the COCP (providing there are no contraindications) it is important to inform them that the effectiveness is decreased and there is an increased risk of pregnancy. <br />It is recommended that the dose of oestrogen is increased to 50mcg with no pill-free interval, or reduced to 4 days from 7 days (to reduce the chance of ovulation).  In addition, barrier methods would also be advised.  This applies when the patient is on an EID and for 4 weeks after stopping.<br /><br />In patients on EIDs who wish to take the POP or progesterone implant, then additional barrier contraception would be required while using EIDs and for 4 weeks after stopping.<br /><br />Note - rifampicin and rifabutin are potent EIDs and require longer periods of using barrier contraception after stopping (8 weeks).<br /><br />If emergency contraception is required, the copper intra-uterine device is again the best option.  If levonorgestrel (Levonelle) is used, then double the standard dose is recommended. Ulipristal acetate (ellaOne) is not recommended.<br /><br />FSRH guidelines.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Epilepsy: contraception",
+        "body": "There are a number of factors to consider for women with epilepsy:<br /><ul><li>the effect of the contraceptive on the effectiveness of the anti-epileptic medication</li><li>the effect of the anti-epileptic on the effectiveness of the contraceptive</li><li>the potential teratogenic effects of the anti-epileptic if the woman becomes pregnant</li></ul><br />Given the points above, the Faculty of Sexual & Reproductive Healthcare (FSRH) recommend the consistent use of condoms, in addition to other forms of contraception.<br /><br />For women taking phenytoin,carbamazepine, barbiturates, primidone, topiramate, oxcarbazepine:<br /><ul><li>UKMEC 3: the COCP and POP</li><li>UKMEC 2: implant</li><li>UKMEC 1: Depo-Provera, IUD, IUS</li></ul><br />For lamotrigine:<br /><ul><li>UKMEC 3: the COCP</li><li>UKMEC 1: POP, implant, Depo-Provera, IUD, IUS</li></ul><br />If a COCP is chosen then it should contain a minimum of 30 \u00b5g of ethinylestradiol.",
+        "notes_hash": "829d2e6c1c643e737a1d14a144a7dc24",
+        "knowledge_graph_node_id_link": 11266,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5353",
+        "up_votes": "41",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "590",
+            "4055",
+            "114",
+            "167",
+            "427",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20292_B_78",
+        "new_question_id": "40240",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3686",
+        "notes_id_link": "1_1381",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Femoral hernia",
+            "Hydrocele",
+            "Orchitis",
+            "Testicular torsion",
+            "Varicocele",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 3-month-old boy is being reviewed by the GP for undescended testis. His left testicle was found to be undescended during the newborn and infant physical examination (NIPE) at birth. On examination today, only one testicle is palpated in the scrotum. He is referred to urological surgeons for review.<br /><br />What complication is this patient at an increased risk of developing if the abnormality is not corrected?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Testicular torsion</b> is correct. If one testis has not descended, a watch-and-wait approach can be used for up to three months as it may descend spontaneously. If left untreated, undescended testicles are associated with an increased risk of testicular torsion, infertility, and testicular cancer and necessitate early intervention (by six months of age).<br /><br /><b>Femoral hernia</b> is incorrect. Femoral hernias are uncommon in childhood. However, an undescended testis may increase the risk of an inguinal hernia.<br /><br /><b>Hydrocele</b> is incorrect. Hydroceles are common at birth (especially in premature infants) but are benign and resolve spontaneously. There is no known association between a hydrocele and undescended testicles.<br /><br /><b>Orchitis</b> is incorrect. Orchitis can occur in an undescended testis, but there is no increase in the risk of orchitis due to the lack of descent.<br /><br /><b>Varicocele</b> is incorrect. Varicoceles are a common, treatable cause of male infertility. Although both varicoceles and undescended testicles increase the risk of infertility, undescended testicles do not increase the risk of varicocele.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 3-month-old boy is being reviewed by the GP for undescended testis. His left testicle was found to be undescended during the newborn and infant physical examination (NIPE) at birth. On examination today, only one testicle is palpated in the scrotum. He is referred to urological surgeons for review.<br /><br />What complication is this patient at an increased risk of developing if the abnormality is not corrected?",
+        "correct_answer": "4",
+        "question_notes": "<b>Testicular torsion</b> is correct. If one testis has not descended, a watch-and-wait approach can be used for up to three months as it may descend spontaneously. If left untreated, undescended testicles are associated with an increased risk of testicular torsion, infertility, and testicular cancer and necessitate early intervention (by six months of age).<br /><br /><b>Femoral hernia</b> is incorrect. Femoral hernias are uncommon in childhood. However, an undescended testis may increase the risk of an inguinal hernia.<br /><br /><b>Hydrocele</b> is incorrect. Hydroceles are common at birth (especially in premature infants) but are benign and resolve spontaneously. There is no known association between a hydrocele and undescended testicles.<br /><br /><b>Orchitis</b> is incorrect. Orchitis can occur in an undescended testis, but there is no increase in the risk of orchitis due to the lack of descent.<br /><br /><b>Varicocele</b> is incorrect. Varicoceles are a common, treatable cause of male infertility. Although both varicoceles and undescended testicles increase the risk of infertility, undescended testicles do not increase the risk of varicocele.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Undescended testis",
+        "body": "Undescended testis occurs in around <span class=\"concept\" data-cid=\"275\">2-3% of term male infants</span>, but is much more common if the baby is preterm. Around 25% of cases are bilateral.<br /><br /><span class=\"concept\" data-cid=\"3686\">Complications of undescended testis</span><br /><ul><li>infertility</li><li>torsion</li><li>testicular cancer</li><li>psychological</li></ul><br />Management<br /><ul><li>Unilateral undescended testis<ul><li><span class=\"concept\" data-cid=\"276\">referral should be considered from around 3 months of age</span>, with the baby ideally seeing a urological surgeon before 6 months of age</li><li>orchidopexy: Surgical practices vary although the majority of procedures are performed at around 1 year of age</li></ul></li><li><span class=\"concept\" data-cid=\"10427\">Bilateral undescended testes</span><ul><li>Should be reviewed by a senior paediatrician within 24hours as the child may need urgent endocrine or genetic investigation</li></ul></li></ul>",
+        "notes_hash": "602dab57174483803f1a6374eee29f19",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Undescended testicles are associated with an increased risk of infertility, torsion and testicular cancer",
+        "concept_percentile": "95",
+        "concept_colour": "rgb(25,255,0)",
+        "number_attempts": "5908",
+        "up_votes": "18",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "370",
+            "362",
+            "597",
+            "4326",
+            "253",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Publich Health England</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1666\" data-linkid=\"1666\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1666\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_1666\" data-linkid=\"1666\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1666\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook\">2019 Newborn and infant physical examination (NIPE) screening programme handbook</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "276": {
+                "concept_text": "Unilateral undescended testicle - review at 3 months - if persistent refer",
+                "concept_percentile": "99"
+            },
+            "3686": {
+                "concept_text": "Undescended testicles are associated with an increased risk of infertility, torsion and testicular cancer",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

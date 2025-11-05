@@ -1,0 +1,973 @@
+[
+    {
+        "question_id": "1_B_777",
+        "new_question_id": "1361",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "182",
+        "notes_id_link": "1_1138",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Scleritis",
+            "Conjunctivitis",
+            "Acute angle closure glaucoma",
+            "Anterior uveitis",
+            "Subconjunctival haemorrhage",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 63-year-old man presents to his GP complaining of pain in his right eye. On examination the sclera is red and the pupil is dilated with a hazy cornea. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Acute angle closure glaucoma</b>. This condition presents with a red eye, dilated pupil, and a hazy cornea due to increased intraocular pressure. The patient may also experience severe ocular pain, nausea and vomiting, blurred vision, and seeing halos around lights. It is an ophthalmic emergency that requires immediate treatment to prevent permanent vision loss.<br /><br /><b>Scleritis</b> is incorrect because it typically presents with severe ocular pain that can radiate to the forehead or jaw. The eye appears red, particularly in the area of the sclera. While this inflammation can cause some changes in vision, it does not typically cause a hazy cornea or a dilated pupil.<br /><br /><b>Conjunctivitis</b> is also incorrect as it usually presents with a red eye and discharge but not with pain, hazy cornea or dilated pupil. Conjunctivitis often affects both eyes whereas acute angle closure glaucoma generally starts in one eye.<br /><br /><b>Anterior uveitis</b>, or inflammation of the iris and ciliary body within the uvea of the eye, is another incorrect choice. While anterior uveitis can cause redness of the eye and pain, it typically causes photophobia rather than a hazy cornea. The pupil in anterior uveitis would be small (miotic) rather than dilated.<br /><br />Finally, <b>Subconjunctival haemorrhage</b> is incorrect as this condition presents with a bright red patch on the white part of the eye (sclera). It's often asymptomatic but may cause a sensation of fullness under the lid or mild irritation. It does not present with pain or visual changes such as hazy cornea or dilated pupils.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 63-year-old man presents to his GP complaining of pain in his right eye. On examination the sclera is red and the pupil is dilated with a hazy cornea. What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Acute angle closure glaucoma</b>. This condition presents with a red eye, dilated pupil, and a hazy cornea due to increased intraocular pressure. The patient may also experience severe ocular pain, nausea and vomiting, blurred vision, and seeing halos around lights. It is an ophthalmic emergency that requires immediate treatment to prevent permanent vision loss.<br /><br /><b>Scleritis</b> is incorrect because it typically presents with severe ocular pain that can radiate to the forehead or jaw. The eye appears red, particularly in the area of the sclera. While this inflammation can cause some changes in vision, it does not typically cause a hazy cornea or a dilated pupil.<br /><br /><b>Conjunctivitis</b> is also incorrect as it usually presents with a red eye and discharge but not with pain, hazy cornea or dilated pupil. Conjunctivitis often affects both eyes whereas acute angle closure glaucoma generally starts in one eye.<br /><br /><b>Anterior uveitis</b>, or inflammation of the iris and ciliary body within the uvea of the eye, is another incorrect choice. While anterior uveitis can cause redness of the eye and pain, it typically causes photophobia rather than a hazy cornea. The pupil in anterior uveitis would be small (miotic) rather than dilated.<br /><br />Finally, <b>Subconjunctival haemorrhage</b> is incorrect as this condition presents with a bright red patch on the white part of the eye (sclera). It's often asymptomatic but may cause a sensation of fullness under the lid or mild irritation. It does not present with pain or visual changes such as hazy cornea or dilated pupils.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Red eye",
+        "body": "There are many possible causes of a red eye. It is important to be able to recognise the causes which require urgent referral to an ophthalmologist. Below is a brief summary of the key distinguishing features<br /><br />Acute angle closure glaucoma<br /><ul><li>severe pain (may be ocular or headache)</li><li>decreased visual acuity, patient sees haloes</li><li><span class=\"concept\" data-cid=\"182\">semi-dilated pupil</span></li><li>hazy cornea</li></ul><br />Anterior uveitis<br /><ul><li>acute onset</li><li>pain</li><li>blurred vision and photophobia</li><li><span class=\"concept\" data-cid=\"182\">small, fixed oval pupil, ciliary flush</span></li></ul><br />Scleritis<br /><ul><li>severe pain (may be worse on movement) and tenderness</li><li>may be underlying autoimmune disease e.g. rheumatoid arthritis</li></ul><br />Conjunctivitis<br /><ul><li>purulent discharge if bacterial, clear discharge if viral</li></ul><br />Subconjunctival haemorrhage<br /><ul><li>history of trauma or coughing bouts</li></ul><br /><span class=\"concept\" data-cid=\"4248\">Endophthalmitis</span><br /><ul><li>typically red eye, pain and visual loss following intraocular surgery</li></ul>",
+        "notes_hash": "e670b5026b2787eb2aeca1ef7ca12079",
+        "knowledge_graph_node_id_link": 10034,
+        "concept": "Red eye - glaucoma or uveitis?<br /><ul><li>glaucoma: severe pain, haloes, 'semi-dilated' pupil</li><li>uveitis: small, fixed oval pupil, ciliary flush</li></ul>",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "5216",
+        "up_votes": "27",
+        "down_votes": "28",
+        "column_array": [
+            0,
+            "934",
+            "65",
+            "2992",
+            "1165",
+            "60",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "182": {
+                "concept_text": "Red eye - glaucoma or uveitis?\r\n   - glaucoma: severe pain, haloes, 'semi-dilated' pupil\r\n   - uveitis: small, fixed oval pupil, ciliary flush",
+                "concept_percentile": "96"
+            },
+            "4248": {
+                "concept_text": "Red eye, pain and visual loss following intraocular surgery are red flags for endophthalmitis and warrant urgent ophthalmic review",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1753",
+        "new_question_id": "60441",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "12448",
+        "notes_id_link": "1_3148",
+        "theme": "Subcutaneous morphine for acute dyspnoea in palliative care",
+        "instruction": "",
+        "options": [
+            "",
+            "Increase oral morphine to 40mg twice daily",
+            "Subcutaneous morphine 5mg stat",
+            "Oral lorazepam 0.5mg",
+            "Nebulised saline",
+            "High-flow oxygen therapy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old man with metastatic lung cancer is admitted to the hospice with severe breathlessness at rest. He has been on oral morphine 30mg twice daily for pain control. Despite treatment for a chest infection and drainage of a pleural effusion, he remains acutely dyspnoeic and distressed.<br /><br />What is the most appropriate immediate management for his breathlessness?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Subcutaneous morphine 5mg stat</b> is the most appropriate immediate management for acute dyspnoea in this palliative care setting. When patients are experiencing severe, distressing breathlessness that has not responded to treatment of reversible causes, subcutaneous opioids provide rapid relief. The subcutaneous route is preferred over oral in acute situations as it has a faster onset of action (within 15-30 minutes compared to 60-90 minutes for oral). Morphine works by reducing the sensation of breathlessness through central mechanisms, decreasing respiratory drive and anxiety associated with dyspnoea. In palliative care, the benefits of symptom relief outweigh concerns about respiratory depression, particularly in patients already established on opioids. The dose should be calculated as approximately one-sixth of the total daily oral morphine dose for breakthrough relief.<br /><br /><b>Increase oral morphine to 40mg twice daily</b> would be inappropriate for acute management as oral medications take longer to achieve therapeutic effect. While increasing the background opioid dose may be considered for ongoing breathlessness management, it does not address the immediate need for rapid symptom relief. The oral route is also less reliable in acutely unwell patients who may have altered gastrointestinal absorption.<br /><br /><b>Oral lorazepam 0.5mg</b> may have a role if there is significant anxiety or panic associated with breathlessness, but it is not the first-line treatment for dyspnoea itself. Benzodiazepines can be useful adjuncts, particularly when combined with opioids, but alone they do not address the primary sensation of breathlessness as effectively as opioids.<br /><br /><b>Nebulised saline</b> has limited evidence for benefit in cancer-related dyspnoea and would not provide adequate relief for severe symptoms. While nebulised treatments may help with some respiratory conditions, they are not indicated as primary therapy for breathlessness in advanced cancer when reversible causes have been addressed.<br /><br /><b>High-flow oxygen therapy</b> is not routinely beneficial for cancer-related dyspnoea unless there is documented hypoxaemia. Many patients with advanced cancer experience breathlessness without significant oxygen desaturation, and oxygen therapy may provide false reassurance while delaying more effective symptomatic treatments.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old man with metastatic lung cancer is admitted to the hospice with severe breathlessness at rest. He has been on oral morphine 30mg twice daily for pain control. Despite treatment for a chest infection and drainage of a pleural effusion, he remains acutely dyspnoeic and distressed.<br /><br />What is the most appropriate immediate management for his breathlessness?",
+        "correct_answer": "2",
+        "question_notes": "<b>Subcutaneous morphine 5mg stat</b> is the most appropriate immediate management for acute dyspnoea in this palliative care setting. When patients are experiencing severe, distressing breathlessness that has not responded to treatment of reversible causes, subcutaneous opioids provide rapid relief. The subcutaneous route is preferred over oral in acute situations as it has a faster onset of action (within 15-30 minutes compared to 60-90 minutes for oral). Morphine works by reducing the sensation of breathlessness through central mechanisms, decreasing respiratory drive and anxiety associated with dyspnoea. In palliative care, the benefits of symptom relief outweigh concerns about respiratory depression, particularly in patients already established on opioids. The dose should be calculated as approximately one-sixth of the total daily oral morphine dose for breakthrough relief.<br /><br /><b>Increase oral morphine to 40mg twice daily</b> would be inappropriate for acute management as oral medications take longer to achieve therapeutic effect. While increasing the background opioid dose may be considered for ongoing breathlessness management, it does not address the immediate need for rapid symptom relief. The oral route is also less reliable in acutely unwell patients who may have altered gastrointestinal absorption.<br /><br /><b>Oral lorazepam 0.5mg</b> may have a role if there is significant anxiety or panic associated with breathlessness, but it is not the first-line treatment for dyspnoea itself. Benzodiazepines can be useful adjuncts, particularly when combined with opioids, but alone they do not address the primary sensation of breathlessness as effectively as opioids.<br /><br /><b>Nebulised saline</b> has limited evidence for benefit in cancer-related dyspnoea and would not provide adequate relief for severe symptoms. While nebulised treatments may help with some respiratory conditions, they are not indicated as primary therapy for breathlessness in advanced cancer when reversible causes have been addressed.<br /><br /><b>High-flow oxygen therapy</b> is not routinely beneficial for cancer-related dyspnoea unless there is documented hypoxaemia. Many patients with advanced cancer experience breathlessness without significant oxygen desaturation, and oxygen therapy may provide false reassurance while delaying more effective symptomatic treatments.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Palliative care prescribing: dyspnoea",
+        "body": "Underlying causes of breathlessness should be considered and treated if appropriate, for example infection, pleural effusion, pulmonary oedema, anaemia or bronchospasm. If these are not reversible or specific treatments fail, then the following may be tried:<br /><ul><li>first choice: opioids (e.g. <span class=\"concept\" data-cid=\"12447\">oral morphine for ongoing symptoms</span>, or <span class=\"concept\" data-cid=\"12448\">subcutaneous morphine for acute relief</span>)</li><li>other options: benzodiazepines (e.g. lorazepam, midazolam) if there is associated anxiety or panic</li><li>non-pharmacological measures such as a fan directed towards the face, positioning, and relaxation techniques can also provide relief</li></ul><br />In the terminal phase of illness, breathlessness is often best managed with subcutaneous opioids, and if distressing, may be combined with midazolam.",
+        "notes_hash": "e94f0401ffe62357294e221bd8707ce2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Subcutaneous morphine is useful for acute dyspnoea in palliative care setting",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "3404",
+        "up_votes": "7",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "417",
+            "1573",
+            "559",
+            "227",
+            "628",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "12447": {
+                "concept_text": "Oral morphine is useful for ongoing dyspnoea in palliative care setting",
+                "concept_percentile": "57"
+            },
+            "12448": {
+                "concept_text": "Subcutaneous morphine is useful for acute dyspnoea in palliative care setting",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_984",
+        "new_question_id": "7718",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "2831",
+        "notes_id_link": "1_288",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Rubella",
+            "Measles",
+            "Erythema multiforme",
+            "Idiopathic thrombocytopenic purpura",
+            "Henoch-Schonlein purpura",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 15-year-old girl presents with a palpable purpuric rash over her lower limbs accompanied by polyarthralgia following a recent sore throat. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Henoch-Schonlein purpura</b>. Henoch-Schonlein purpura (HSP), also known as IgA vasculitis, is a small vessel vasculitis characterised by palpable purpura, arthritis or arthralgia, abdominal pain and renal involvement. It often follows an upper respiratory tract infection and is most common in children. The palpable purpuric rash typically affects the lower limbs and buttocks.<br /><br /><b>Rubella</b>, the first incorrect option, presents with a pinkish-red maculopapular rash that starts on the face and spreads downwards. Other symptoms include fever, lymphadenopathy, and joint pains particularly in adult women. However, it does not present with a palpable purpuric rash.<br /><br />The second incorrect option is <b>Measles</b>. Measles is characterised by a prodromal phase of high fever, malaise, conjunctivitis, coryza and Koplik's spots followed by a generalised maculopapular rash which spreads from head to toe over 3 days. The rash isn't typically described as palpable or purpuric.<br /><br /><b>Erythema multiforme</b> was another incorrect option. This condition usually presents with target lesions (a red centre surrounded by a pale ring and then a red outer ring) following herpes simplex virus (HSV) infection or drug exposure. It does not typically present with polyarthralgia or follow an upper respiratory tract infection.<br /><br />Finally, <b>Idiopathic thrombocytopenic purpura</b> (ITP) was also incorrect. ITP can cause petechiae and bruising but it doesn't cause polyarthralgia or follow an upper respiratory tract infection like HSP does. Furthermore, while both conditions can cause a non-blanching rash due to blood leaking out of capillaries into the skin (causing purpura), the palpable nature of the rash seen in HSP helps distinguish between these two conditions.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 15-year-old girl presents with a palpable purpuric rash over her lower limbs accompanied by polyarthralgia following a recent sore throat. What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Henoch-Schonlein purpura</b>. Henoch-Schonlein purpura (HSP), also known as IgA vasculitis, is a small vessel vasculitis characterised by palpable purpura, arthritis or arthralgia, abdominal pain and renal involvement. It often follows an upper respiratory tract infection and is most common in children. The palpable purpuric rash typically affects the lower limbs and buttocks.<br /><br /><b>Rubella</b>, the first incorrect option, presents with a pinkish-red maculopapular rash that starts on the face and spreads downwards. Other symptoms include fever, lymphadenopathy, and joint pains particularly in adult women. However, it does not present with a palpable purpuric rash.<br /><br />The second incorrect option is <b>Measles</b>. Measles is characterised by a prodromal phase of high fever, malaise, conjunctivitis, coryza and Koplik's spots followed by a generalised maculopapular rash which spreads from head to toe over 3 days. The rash isn't typically described as palpable or purpuric.<br /><br /><b>Erythema multiforme</b> was another incorrect option. This condition usually presents with target lesions (a red centre surrounded by a pale ring and then a red outer ring) following herpes simplex virus (HSV) infection or drug exposure. It does not typically present with polyarthralgia or follow an upper respiratory tract infection.<br /><br />Finally, <b>Idiopathic thrombocytopenic purpura</b> (ITP) was also incorrect. ITP can cause petechiae and bruising but it doesn't cause polyarthralgia or follow an upper respiratory tract infection like HSP does. Furthermore, while both conditions can cause a non-blanching rash due to blood leaking out of capillaries into the skin (causing purpura), the palpable nature of the rash seen in HSP helps distinguish between these two conditions.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Henoch-Schonlein purpura",
+        "body": "Henoch-Schonlein purpura (HSP) is an <span class=\"concept\" data-cid=\"8406\">IgA mediated small vessel vasculitis</span>. There is a degree of overlap with <span class=\"concept\" data-cid=\"8408\">IgA nephropathy</span> (Berger's disease). HSP is usually seen in children following an infection.<br /><br /><span class=\"concept\" data-cid=\"2831\">Features</span><br /><ul><li><span class=\"concept\" data-cid=\"8407\">palpable purpuric rash</span> (with localized oedema) over buttocks and extensor surfaces of arms and legs</li><li>abdominal pain</li><li>polyarthritis</li><li>features of IgA nephropathy may occur e.g. haematuria, renal failure</li></ul><br />Treatment<br /><ul><li>analgesia for arthralgia</li><li>treatment of nephropathy is generally supportive. There is inconsistent evidence for the use of steroids and immunosuppressants</li></ul><br />Prognosis<br /><ul><li>usually excellent, HSP is a self-limiting condition, especially in children without renal involvement</li><li><span class=\"concept\" data-cid=\"11764\">blood pressure and urinanalysis</span> should be monitored to detect progressive renal involvement</li><li>around 1/3rd of patients have a relapse</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx107.jpg\" data-fancybox=\"gallery\" data-caption=\"Henoch-Schonlein purpura\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx107.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx106.jpg\" data-fancybox=\"gallery\" data-caption=\"Henoch-Schonlein purpura\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx106.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx105.jpg\" data-fancybox=\"gallery\" data-caption=\"Henoch-Schonlein purpura\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddx105.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "3f39d3a9e21ea07414c569867850e5cf",
+        "knowledge_graph_node_id_link": 1234,
+        "concept": "Henoch-Schonlein purpura classically presents with abdominal pain, arthritis, haematuria and a purpuric rash over the buttocks and extensor surfaces of arms and legs",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "5683",
+        "up_votes": "31",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "52",
+            "42",
+            "378",
+            "878",
+            "4333",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e7/Vasculitis_video.webm\" data-description=\"Vasculitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"92\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e7/Vasculitis_video.webm\" data-description=\"Vasculitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"92\">Vasculitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_656\" data-mediaid=\"656\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_656\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_656\" data-mediaid=\"656\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_656\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zf_WkqX7lPg\" data-description=\"Henoch Sch\u00c3\u00b6nlein Purpura in 3 Minutes\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1419\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Zf_WkqX7lPg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zf_WkqX7lPg\" data-description=\"Henoch Sch\u00c3\u00b6nlein Purpura in 3 Minutes\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1419\">Henoch Sch\u00c3\u00b6nlein Purpura in 3 Minutes</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2491\" data-mediaid=\"2491\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2491\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2491\" data-mediaid=\"2491\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2491\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MzXwZPxjTWk\" data-description=\"Henoch-Schonlein purpura\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1151\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/MzXwZPxjTWk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MzXwZPxjTWk\" data-description=\"Henoch-Schonlein purpura\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1151\">Henoch-Schonlein purpura</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1991\" data-mediaid=\"1991\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1991\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1991\" data-mediaid=\"1991\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1991\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "2831": {
+                "concept_text": "Henoch-Schonlein purpura classically presents with abdominal pain, arthritis, haematuria and a purpuric rash over the buttocks and extensor surfaces of arms and legs",
+                "concept_percentile": "66"
+            },
+            "8406": {
+                "concept_text": "Henoch-Schonlein purpura - IgA mediated small vessel vasculitis",
+                "concept_percentile": "11"
+            },
+            "8407": {
+                "concept_text": "Henoch-Schonlein purpura - palpable purpuric rash over buttocks",
+                "concept_percentile": "36"
+            },
+            "8408": {
+                "concept_text": "Henoch-Schonlein purpura - an association with IgA nephropathy",
+                "concept_percentile": "47"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "21388_B_404",
+        "new_question_id": "55102",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "401",
+        "notes_id_link": "1_1693",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Prescribe atorvastatin 80mg",
+            "Prescribe fluvastatin 80 mg",
+            "Prescribe pravastatin 40 mg",
+            "Prescribe simvastatin 40 mg",
+            "Reassure that there is no indication for statin therapy and give lifestyle advice",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 67-year-old man with a history of peripheral vascular disease presents to the GP for a routine follow-up. He declined statin therapy at the point of this diagnosis but wishes to commence this now. He has no history of ischaemic heart disease or stroke.<br /><br />His most recent lipid profile from two weeks ago shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Total cholesterol</td><td>5.5 mmol/L</td><td>(< 5)</td></tr><tr><td>Triglyceride</td><td>2.8 mmol/L</td><td>(< 2)</td></tr><tr><td>HDL cholesterol</td><td>2.2 mmol/L</td><td>(> 1)</td></tr><tr><td>LDL cholesterol</td><td>3.5 mmol/L</td><td>(< 3)</td></tr></tbody></table></div><br />What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Prescribe atorvastatin 80 mg</b> is correct. Current guidelines recommend high-intensity statin therapy (such as atorvastatin 80 mg) for patients with atherosclerotic cardiovascular disease, including peripheral vascular disease (PVD). Atorvastatin is considered a high-intensity statin, meaning it can lower LDL cholesterol by more than 50%. Given this patient\u2019s history of PVD, even though his lipid levels are not severely elevated, he is at high risk for cardiovascular events, and atorvastatin 80 mg would be the most appropriate next step for primary prevention of further vascular complications.<br /><br /><b>Prescribe fluvastatin 80 mg</b> is incorrect. Fluvastatin is a statin, but it is not considered a high-intensity statin. NICE would class fluvastatin 80 mg as a medium-intensity statin. While it may lower cholesterol levels, it does not provide the potent LDL cholesterol reduction recommended for patients with peripheral vascular disease, making it a less optimal choice.<br /><br /><b>Prescribe pravastatin 40mg</b> is incorrect. Similar to fluvastatin, pravastatin is not classified as a high-intensity statin. NICE classifies pravastatin 40 mg as a low-intensity statin. At 40 mg, it may help lower cholesterol levels but does not meet the recommended criteria for patients with established cardiovascular disease, including peripheral vascular disease.<br /><br /><b>Prescribe simvastatin 40mg</b> is incorrect. Although simvastatin can lower LDL cholesterol, it is not considered a high-intensity statin at this dose. NICE classifies simvastatin 40 mg as a medium-intensity statin. Given the patient's history of peripheral vascular disease, a more potent option, such as atorvastatin 80 mg (from the given options), is preferred for optimal management of cardiovascular risk. If this simvastatin dose were 80 mg, then NICE would classify this as a high-intensity statin.<br /><br /><b>Reassure that there is no indication for statin therapy</b> is incorrect. The patient has peripheral vascular disease, which places him at high risk for cardiovascular events. Current guidelines recommend initiating statin therapy in such cases, regardless of his current lipid levels, to help prevent future complications. Therefore, reassurance without therapy is not appropriate.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 67-year-old man with a history of peripheral vascular disease presents to the GP for a routine follow-up. He declined statin therapy at the point of this diagnosis but wishes to commence this now. He has no history of ischaemic heart disease or stroke.<br /><br />His most recent lipid profile from two weeks ago shows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Total cholesterol</td><td>5.5 mmol/L</td><td>(< 5)</td></tr><tr><td>Triglyceride</td><td>2.8 mmol/L</td><td>(< 2)</td></tr><tr><td>HDL cholesterol</td><td>2.2 mmol/L</td><td>(> 1)</td></tr><tr><td>LDL cholesterol</td><td>3.5 mmol/L</td><td>(< 3)</td></tr></tbody></table></div><br />What is the most appropriate next step?",
+        "correct_answer": "1",
+        "question_notes": "<b>Prescribe atorvastatin 80 mg</b> is correct. Current guidelines recommend high-intensity statin therapy (such as atorvastatin 80 mg) for patients with atherosclerotic cardiovascular disease, including peripheral vascular disease (PVD). Atorvastatin is considered a high-intensity statin, meaning it can lower LDL cholesterol by more than 50%. Given this patient\u2019s history of PVD, even though his lipid levels are not severely elevated, he is at high risk for cardiovascular events, and atorvastatin 80 mg would be the most appropriate next step for primary prevention of further vascular complications.<br /><br /><b>Prescribe fluvastatin 80 mg</b> is incorrect. Fluvastatin is a statin, but it is not considered a high-intensity statin. NICE would class fluvastatin 80 mg as a medium-intensity statin. While it may lower cholesterol levels, it does not provide the potent LDL cholesterol reduction recommended for patients with peripheral vascular disease, making it a less optimal choice.<br /><br /><b>Prescribe pravastatin 40mg</b> is incorrect. Similar to fluvastatin, pravastatin is not classified as a high-intensity statin. NICE classifies pravastatin 40 mg as a low-intensity statin. At 40 mg, it may help lower cholesterol levels but does not meet the recommended criteria for patients with established cardiovascular disease, including peripheral vascular disease.<br /><br /><b>Prescribe simvastatin 40mg</b> is incorrect. Although simvastatin can lower LDL cholesterol, it is not considered a high-intensity statin at this dose. NICE classifies simvastatin 40 mg as a medium-intensity statin. Given the patient's history of peripheral vascular disease, a more potent option, such as atorvastatin 80 mg (from the given options), is preferred for optimal management of cardiovascular risk. If this simvastatin dose were 80 mg, then NICE would classify this as a high-intensity statin.<br /><br /><b>Reassure that there is no indication for statin therapy</b> is incorrect. The patient has peripheral vascular disease, which places him at high risk for cardiovascular events. Current guidelines recommend initiating statin therapy in such cases, regardless of his current lipid levels, to help prevent future complications. Therefore, reassurance without therapy is not appropriate.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Hyperlipidaemia: management",
+        "body": "In 2014 NICE updated their guidelines on lipid modification. This proved highly controversial as it meant that we should be recommending statins to a significant proportion of the population over the age of 60 years. Anyway, the key points of the new guidelines are summarised below.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Graphic showing choice of statin.</div><br /><h5 class='notes-heading'>Primary prevention - who and how to assess risk</h5><br />A systematic strategy should be used to identify people aged over 40 years who are likely to be at high risk of cardiovascular disease (CVD), defined as a 10-year risk of <b>10%</b> or greater. <br /><br />NICE recommend we use the <b>QRISK2</b> CVD risk assessment tool for patients aged <= 84 years. Patients >= 85 years are at high risk of CVD due to their age. QRISK2 should not be used in the following situations as there are more specific guidelines for these patient groups:<br /><ul><li>type 1 diabetics</li><li>patients with an estimated glomerular filtration rate (eGFR) less than 60 ml/min and/or albuminuria</li><li>patients with a history of familial hyperlipidaemia</li></ul><br />NICE suggest QRISK2 may underestimate CVD risk in the following population groups:<br /><ul><li>people treated for HIV</li><li>people with serious mental health problems</li><li>people taking medicines that can cause dyslipidaemia such as antipsychotics, corticosteroids or immunosuppressant drugs</li><li>people with autoimmune disorders/systemic inflammatory disorders such as systemic lupus erythematosus</li></ul><br /><br /><h5 class='notes-heading'>Measuring lipid levels</h5><br />When measuring lipids both the total cholesterol and HDL should be checked to provide the most accurate risk of CVD. A full lipid profile should also be checked (i.e. including triglycerides) before starting a statin. The samples do not need to be fasting.<br /><br />In the vast majority of patients the cholesterol measurements will be fed into the QRISK2 tool. If however, the patient's cholesterol is very high we should consider familial hyperlipidaemia. NICE recommend the following that we should consider the possibility of familial hypercholesterolaemia and investigate further if:<br /><ul><li>the total cholesterol level greater than 7.5 mmol/L and/or</li><li>there is a personal or family history of premature coronary heart disease (an event before 60 years in an index person or first-degree relative [parents, siblings, children])</li></ul><br /><br /><h5 class='notes-heading'>Interpreting the QRISK2 result</h5><br />Probably the headline change in the 2014 guidelines was the new, lower cut-off of 10-year CVD risk cut-off of 10%. <br /><br /><h5 class='notes-heading'>NICE now recommend we offer a statin to people with a QRISK2 10-year risk of >= 10%</h5><br />Lifestyle factors are of course important and NICE recommend that we give patients the option of having their CVD risk reassessed after a period of time before starting a statin.<br /><br />Atorvastatin 20mg should be offered first-line.<br /><br /><br /><h5 class='notes-heading'>Special situations</h5><br />Type 1 diabetes mellitus<br /><ul><li>NICE recommend that we 'consider statin treatment for the primary prevention of CVD in all adults with type 1 diabetes'</li><li>atorvastatin 20 mg should be offered if type 1 diabetics who are:<ul><li>older than 40 years, or</li><li>have had diabetes for more than 10 years or</li><li>have established nephropathy or</li><li>have other CVD risk factors</li></ul></li></ul><br />Chronic kidney disease (CKD)<br /><ul><li>atorvastatin 20mg should be offered to patients with CKD</li><li>increase the dose if a greater than 40% reduction in non-HDL cholesterol is not achieved and the eGFR > 30 ml/min. If the eGFR is < 30 ml/min a renal specialist should be consulted before increasing the dose</li></ul><br /><h5 class='notes-heading'>Secondary prevention</h5><br /><span class=\"concept\" data-cid=\"401\">All patients with CVD should be taking a statin in the absence of any contraindication.</span><br /><br />Atorvastatin 80mg should be offered first-line.<br /><br /><br /><h5 class='notes-heading'>Follow-up of people started on statins</h5><br />NICE recommend we follow up patients at 3 months<br /><ul><li>repeat a full lipid profile</li><li>if the non-HDL cholesterol has not fallen by at least 40% concordance and lifestyle changes should be discussed with the patient</li><li>NICE recommend we consider increasing the dose of atorvastatin up to 80mg</li></ul><br /><h5 class='notes-heading'>Lifestyle modifications</h5><br />These are in many ways predictable but NICE make a number of specific points:<br /><br />Cardioprotective diet<br /><ul><li>total fat intake should be <= 30% of total energy intake</li><li>saturated fats should be <= 7% of total energy intake</li><li>intake of dietary cholesterol should be < 300 mg/day</li><li>saturated fats should be replaced by monounsaturated and polyunsaturated fats where possible</li><li>replace saturated and monounsaturated fat intake with olive oil, rapeseed oil or spreads based on these oils</li><li>choose wholegrain varieties of starchy food</li><li>reduce their intake of sugar and food products containing refined sugars including fructose</li><li>eat at least 5 portions of fruit and vegetables per day</li><li>eat at least 2 portions of fish per week, including a portion of oily fish</li><li>eat at least 4 to 5 portions of unsalted nuts, seeds and legumes per week</li></ul><br />Physical activity<br /><ul><li>each week aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity or a mix of moderate and vigorous aerobic activity</li><li> do muscle-strengthening activities on 2 or more days a week that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders and arms) in line with national guidance for the general population</li></ul><br />Weight management<br /><ul><li>no specific advice is given, overweight patients should be managed in keeping with relevant NICE guidance</li></ul><br />Alcohol intake<br /><ul><li>again no specific advice, other than the general recommendation: men and women are advised not to drink more than 14 units a week on a regular basis</li></ul><br />Smoking cessation<br /><ul><li>smokers should be encouraged to quit</li></ul>",
+        "notes_hash": "8739f00ed2e9f8c680b44cbd80b1714c",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Patients with established cardiovascular disease (e.g. IHD, stroke, PVD) should take high-intensity statin therapy (e.g. atorvastatin 80mg) regardless of baseline lipid profile ",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "4180",
+        "up_votes": "11",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "2813",
+            "52",
+            "53",
+            "794",
+            "468",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_909\" data-linkid=\"909\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_909\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_909\" data-linkid=\"909\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_909\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG181/chapter/1-Recommendations\">2014 Lipid modification guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "401": {
+                "concept_text": "Patients with established cardiovascular disease (e.g. IHD, stroke, PVD) should take high-intensity statin therapy (e.g. atorvastatin 80mg) regardless of baseline lipid profile ",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "9750_B_201",
+        "new_question_id": "22978",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "10947",
+        "notes_id_link": "1_491",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Blood cultures",
+            "FBC",
+            "LFTs",
+            "U&Es",
+            "Viral throat swab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 31-year-old male presents to his GP complaining of a sudden onset 3 day history of fever, shivers and a sore throat. He has a past medical history of ulcerative colitis, for which he is treated with the aminosalicylate, mesalazine. <br /><br />What is the most important investigation in this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Aminosalicylates, such as sulphasalazine or mesalazine have a number of side effects. Mesalazine, in particular, can cause agranulocytosis, which may present with sudden onset rigors, fever and sore throat. <br /><br />In this situation, FBC is the most important investigation to order to investigate agranulocytosis. <br /><br />Other important investigation will include blood cultures, viral throat swabs and baseline LFTs and U&Es.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old male presents to his GP complaining of a sudden onset 3 day history of fever, shivers and a sore throat. He has a past medical history of ulcerative colitis, for which he is treated with the aminosalicylate, mesalazine. <br /><br />What is the most important investigation in this patient?",
+        "correct_answer": "2",
+        "question_notes": "Aminosalicylates, such as sulphasalazine or mesalazine have a number of side effects. Mesalazine, in particular, can cause agranulocytosis, which may present with sudden onset rigors, fever and sore throat. <br /><br />In this situation, FBC is the most important investigation to order to investigate agranulocytosis. <br /><br />Other important investigation will include blood cultures, viral throat swabs and baseline LFTs and U&Es.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Aminosalicylate drugs",
+        "body": "5-aminosalicyclic acid (5-ASA) is released in the colon and is not absorbed. It acts locally as an anti-inflammatory. The mechanism of action is not fully understood but 5-ASA may inhibit prostaglandin synthesis<br /><br />Sulphasalazine<br /><ul><li>a combination of sulphapyridine (a sulphonamide) and 5-ASA</li><li>many side-effects are due to the sulphapyridine moiety: <span class=\"concept\" data-cid=\"7996\">rashes</span>, <span class=\"concept\" data-cid=\"5673\">oligospermia</span>, <span class=\"concept\" data-cid=\"7994\">headache</span>, <span class=\"concept\" data-cid=\"7995\">Heinz body anaemia</span>, <span class=\"concept\" data-cid=\"5679\">megaloblastic anaemia</span>, <span class=\"concept\" data-cid=\"7997\">lung fibrosis</span></li><li>other side-effects are common to 5-ASA drugs (see mesalazine)</li></ul><br />Mesalazine<br /><ul><li>a delayed release form of 5-ASA</li><li>sulphapyridine side-effects seen in patients taking sulphasalazine are avoided</li><li>mesalazine is still however associated with side-effects such as GI upset, headache, agranulocytosis, <span class=\"concept\" data-cid=\"7998\">pancreatitis</span>*, interstitial nephritis</li></ul><br />Olsalazine<br /><ul><li>two molecules of 5-ASA linked by a diazo bond, which is broken by colonic bacteria</li></ul><br />Aminosalicylates are associated with a variety of <span class=\"concept\" data-cid=\"10947\">haematological adverse effects, including agranulocytosis</span> - FBC is a key investigation in an unwell patient taking them.<br /><br />*pancreatitis is 7 times more common in patients taking mesalazine than sulfasalazine",
+        "notes_hash": "05184652ea3dfc41603abab4c10620ae",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Aminosalicylates are associated with a variety of haematological adverse effects, including agranulocytosis - FBC is a key investigation",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "7071",
+        "up_votes": "23",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "582",
+            "5609",
+            "375",
+            "113",
+            "392",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Gut</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_977\" data-linkid=\"977\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_977\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_977\" data-linkid=\"977\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_977\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://gut.bmj.com/content/51/4/536\">Adverse effects of sulfasalazine and mesalazine</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1239\" data-linkid=\"1239\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1239\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1239\" data-linkid=\"1239\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1239\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/sulfasalazine.html\">Sulfasalazine </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vzM4kidvu-Y\" data-description=\"Sulphasalazine (DMARD) - Pharmacology, mechanism of action, metabolism, side effects\" data-upvotes=\"0\" data-downvotes=\"4\" data-media=\"1114\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vzM4kidvu-Y/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vzM4kidvu-Y\" data-description=\"Sulphasalazine (DMARD) - Pharmacology, mechanism of action, metabolism, side effects\" data-upvotes=\"0\" data-downvotes=\"4\" data-media=\"1114\">Sulphasalazine (DMARD) - Pharmacology, mechanism of action, metabolism, side effects</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1928\" data-mediaid=\"1928\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1928\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1928\" data-mediaid=\"1928\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1928\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "5673": {
+                "concept_text": "Sulphasalazine can cause oligospermia and infertility in men",
+                "concept_percentile": "4"
+            },
+            "7994": {
+                "concept_text": "Sulphasalazine may cause headache",
+                "concept_percentile": "3"
+            },
+            "7995": {
+                "concept_text": "Sulphasalazine may cause Heinz body anaemia",
+                "concept_percentile": "3"
+            },
+            "7996": {
+                "concept_text": "Sulphasalazine may cause Steven-Johnson syndrome",
+                "concept_percentile": "16"
+            },
+            "7997": {
+                "concept_text": "Sulphasalazine may cause pulmonary fibrosis",
+                "concept_percentile": "23"
+            },
+            "7998": {
+                "concept_text": "Mesalazine > sulfasalazine in terms of pancreatitis risk",
+                "concept_percentile": "64"
+            },
+            "10947": {
+                "concept_text": "Aminosalicylates are associated with a variety of haematological adverse effects, including agranulocytosis - FBC is a key investigation",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2091",
+        "new_question_id": "4286",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1715",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Endocervical swab microscopy",
+            "Transvaginal ultrasound",
+            "High vaginal swab microscopy and culture",
+            "Blood cultures",
+            "Clinical evidence - history and examination",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old woman presents to her general practitioner with a four day history of pelvic pain and deep dyspareunia. Examination reveals a temperature of 37.9 degrees Celsius, lower abdominal tenderness and cervical motion tenderness. The GP suspects pelvic inflammatory disease may be the cause. What evidence should he or she use to decide whether to initiate antibiotics?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "NICE guidelines state that the diagnosis of pelvic inflammatory disease should be made on clinical grounds and that clinicians should have a low threshold for initiating treatment in the form of antibiotics. Although investigations should be performed - including taking endocervical and high vaginal swabs for microscopy and culture - these should not delay treatment. Negative swab results do not rule out the diagnosis. Blood cultures are unlikely to be indicated unless the patient appears systemically unwell. Transvaginal ultrasound is not first-line but may be indicated if an abscess is suspected.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old woman presents to her general practitioner with a four day history of pelvic pain and deep dyspareunia. Examination reveals a temperature of 37.9 degrees Celsius, lower abdominal tenderness and cervical motion tenderness. The GP suspects pelvic inflammatory disease may be the cause. What evidence should he or she use to decide whether to initiate antibiotics?",
+        "correct_answer": "5",
+        "question_notes": "NICE guidelines state that the diagnosis of pelvic inflammatory disease should be made on clinical grounds and that clinicians should have a low threshold for initiating treatment in the form of antibiotics. Although investigations should be performed - including taking endocervical and high vaginal swabs for microscopy and culture - these should not delay treatment. Negative swab results do not rule out the diagnosis. Blood cultures are unlikely to be indicated unless the patient appears systemically unwell. Transvaginal ultrasound is not first-line but may be indicated if an abscess is suspected.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Pelvic inflammatory disease",
+        "body": "Pelvic inflammatory disease (PID) is a term used to describe infection and inflammation of the female pelvic organs including the uterus, fallopian tubes, ovaries and the surrounding peritoneum. It is usually the result of ascending infection from the endocervix.<br /><br />Causative organisms<br /><ul><li><span class=\"concept\" data-cid=\"10593\"><i>Chlamydia trachomatis</i></span>: <span class=\"concept\" data-cid=\"10593\"> the most common cause</span></li><li><i>Neisseria gonorrhoeae</i></li><li><i>Mycoplasma genitalium</i></li><li><i>Mycoplasma hominis</i></li></ul><br /><span class=\"concept\" data-cid=\"3309\">Features</span><br /><ul><li>lower abdominal pain</li><li>fever</li><li>deep dyspareunia</li><li>dysuria and menstrual irregularities may occur</li><li>vaginal or cervical discharge</li><li>cervical excitation</li></ul><br />Investigation<br /><ul><li>a pregnancy test should be done to exclude an ectopic pregnancy</li><li>high vaginal swab<ul><li><span class=\"concept\" data-cid=\"10489\">these are often negative</span></li></ul></li><li>screen for Chlamydia and Gonorrhoea</li></ul><br />Management<br /><ul><li>due to the difficulty in making an accurate diagnosis, and the potential complications of untreated PID, consensus guidelines recommend having a low threshold for treatment<ul><li>first-line: <span class=\"concept\" data-cid=\"12254\">stat IM ceftriaxone + followed by 14 days of oral doxycycline + oral metronidazole - this now considered first-line due to the desire to avoid systemic fluoroquinolones where possible</span></li><li>alternative regime:  <span class=\"concept\" data-cid=\"1711\">oral ofloxacin + oral metronidazole</span></li></ul></li><li>RCOG guidelines suggest that in mild cases of PID intrauterine contraceptive devices may be left in. The more recent BASHH guidelines suggest that the evidence is limited but that <i>' Removal of the IUD should  be considered and may be associated with better short term clinical outcomes'</i></li></ul><br />Complications<br /><ul><li><span class=\"concept\" data-cid=\"11987\">perihepatitis (Fitz-Hugh Curtis Syndrome)</span><ul><li>occurs in around 10% of cases</li><li>it is characterised by right upper quadrant pain and may be confused with cholecystitis</li></ul></li><li>infertility - the risk may be as high as 10-20% after a single episode</li><li>chronic pelvic pain</li><li>ectopic pregnancy</li></ul>",
+        "notes_hash": "2eeda853cf09863c3efa62204ff1e3b2",
+        "knowledge_graph_node_id_link": 1037,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5099",
+        "up_votes": "59",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "188",
+            "82",
+            "1204",
+            "21",
+            "3604",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for Sexual Health and HIV (BASHH)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_898\" data-linkid=\"898\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_898\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_898\" data-linkid=\"898\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_898\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashhguidelines.org/media/1217/pid-update-2019.pdf\">UK National Guideline for the Management of Pelvic Inflammatory Disease 2019 Update</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eYk3GdBw-28\" data-description=\"Pelvic inflammatory disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"907\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eYk3GdBw-28/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eYk3GdBw-28\" data-description=\"Pelvic inflammatory disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"907\">Pelvic inflammatory disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1577\" data-mediaid=\"1577\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1577\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1577\" data-mediaid=\"1577\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1577\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1711": {
+                "concept_text": "Pelvic inflammatory disease: oral ofloxacin + oral metronidazole can be used as an alternative regime",
+                "concept_percentile": "56"
+            },
+            "3309": {
+                "concept_text": "Pelvic inflammatory disease: usually characterised by bilateral lower abdominal pain associated with vaginal discharge and high fever",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_43",
+        "new_question_id": "14711",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3309",
+        "notes_id_link": "1_1715",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Endometriosis",
+            "Appendicitis",
+            "Cystitis",
+            "Pyelonephritis",
+            "Pelvic inflammatory disease",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old female patient presents to the Emergency Department with a 5-day history of lower abdominal pain. She describes the pain as all over the lower abdomen. On further questioning, she reports having noticed a small amount of odorous vaginal discharge, urinary frequency and pain on urination. Her basic observations include heart rate 100 beats/minute, respiratory rate 20 breaths/minute, blood pressure 105/62 mmHg, temperature 38.7 \u00b0C. On examination, there is diffuse tenderness of the suprapubic region, right iliac fossa and bilateral lower back. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The pelvic inflammatory disease is usually characterised by bilateral lower abdominal pain associated with vaginal discharge and high fever. There can be urinary symptoms.<br /><br />Endometriosis does not usually present with fever.<br /><br />Appendicitis does not usually cause vaginal discharge.<br /><br />Pyelonephritis is usually unilateral and does not usually cause vaginal discharge. There is usually renal angle tenderness.<br /><br />Cystitis does not usually cause vaginal discharge and does not usually cause a high fever. Urinary symptoms would be more prominent.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old female patient presents to the Emergency Department with a 5-day history of lower abdominal pain. She describes the pain as all over the lower abdomen. On further questioning, she reports having noticed a small amount of odorous vaginal discharge, urinary frequency and pain on urination. Her basic observations include heart rate 100 beats/minute, respiratory rate 20 breaths/minute, blood pressure 105/62 mmHg, temperature 38.7 \u00b0C. On examination, there is diffuse tenderness of the suprapubic region, right iliac fossa and bilateral lower back. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The pelvic inflammatory disease is usually characterised by bilateral lower abdominal pain associated with vaginal discharge and high fever. There can be urinary symptoms.<br /><br />Endometriosis does not usually present with fever.<br /><br />Appendicitis does not usually cause vaginal discharge.<br /><br />Pyelonephritis is usually unilateral and does not usually cause vaginal discharge. There is usually renal angle tenderness.<br /><br />Cystitis does not usually cause vaginal discharge and does not usually cause a high fever. Urinary symptoms would be more prominent.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Pelvic inflammatory disease",
+        "body": "Pelvic inflammatory disease (PID) is a term used to describe infection and inflammation of the female pelvic organs including the uterus, fallopian tubes, ovaries and the surrounding peritoneum. It is usually the result of ascending infection from the endocervix.<br /><br />Causative organisms<br /><ul><li><span class=\"concept\" data-cid=\"10593\"><i>Chlamydia trachomatis</i></span>: <span class=\"concept\" data-cid=\"10593\"> the most common cause</span></li><li><i>Neisseria gonorrhoeae</i></li><li><i>Mycoplasma genitalium</i></li><li><i>Mycoplasma hominis</i></li></ul><br /><span class=\"concept\" data-cid=\"3309\">Features</span><br /><ul><li>lower abdominal pain</li><li>fever</li><li>deep dyspareunia</li><li>dysuria and menstrual irregularities may occur</li><li>vaginal or cervical discharge</li><li>cervical excitation</li></ul><br />Investigation<br /><ul><li>a pregnancy test should be done to exclude an ectopic pregnancy</li><li>high vaginal swab<ul><li><span class=\"concept\" data-cid=\"10489\">these are often negative</span></li></ul></li><li>screen for Chlamydia and Gonorrhoea</li></ul><br />Management<br /><ul><li>due to the difficulty in making an accurate diagnosis, and the potential complications of untreated PID, consensus guidelines recommend having a low threshold for treatment<ul><li>first-line: <span class=\"concept\" data-cid=\"12254\">stat IM ceftriaxone + followed by 14 days of oral doxycycline + oral metronidazole - this now considered first-line due to the desire to avoid systemic fluoroquinolones where possible</span></li><li>alternative regime:  <span class=\"concept\" data-cid=\"1711\">oral ofloxacin + oral metronidazole</span></li></ul></li><li>RCOG guidelines suggest that in mild cases of PID intrauterine contraceptive devices may be left in. The more recent BASHH guidelines suggest that the evidence is limited but that <i>' Removal of the IUD should  be considered and may be associated with better short term clinical outcomes'</i></li></ul><br />Complications<br /><ul><li><span class=\"concept\" data-cid=\"11987\">perihepatitis (Fitz-Hugh Curtis Syndrome)</span><ul><li>occurs in around 10% of cases</li><li>it is characterised by right upper quadrant pain and may be confused with cholecystitis</li></ul></li><li>infertility - the risk may be as high as 10-20% after a single episode</li><li>chronic pelvic pain</li><li>ectopic pregnancy</li></ul>",
+        "notes_hash": "2eeda853cf09863c3efa62204ff1e3b2",
+        "knowledge_graph_node_id_link": 1037,
+        "concept": "Pelvic inflammatory disease: usually characterised by bilateral lower abdominal pain associated with vaginal discharge and high fever",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "5504",
+        "up_votes": "32",
+        "down_votes": "58",
+        "column_array": [
+            0,
+            "41",
+            "27",
+            "142",
+            "491",
+            "4803",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for Sexual Health and HIV (BASHH)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_898\" data-linkid=\"898\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_898\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_898\" data-linkid=\"898\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_898\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashhguidelines.org/media/1217/pid-update-2019.pdf\">UK National Guideline for the Management of Pelvic Inflammatory Disease 2019 Update</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eYk3GdBw-28\" data-description=\"Pelvic inflammatory disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"907\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eYk3GdBw-28/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eYk3GdBw-28\" data-description=\"Pelvic inflammatory disease\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"907\">Pelvic inflammatory disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1577\" data-mediaid=\"1577\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1577\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1577\" data-mediaid=\"1577\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1577\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "1711": {
+                "concept_text": "Pelvic inflammatory disease: oral ofloxacin + oral metronidazole can be used as an alternative regime",
+                "concept_percentile": "56"
+            },
+            "3309": {
+                "concept_text": "Pelvic inflammatory disease: usually characterised by bilateral lower abdominal pain associated with vaginal discharge and high fever",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1029",
+        "new_question_id": "2294",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1312",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Minimal change disease",
+            "IgA nephropathy",
+            "Focal segmental glomerulosclerosis",
+            "Chronic pyelonephritis",
+            "Infantile microcystic disease",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is the most common cause of nephrotic syndrome in children?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "Minimal change glomerulonephritis nearly always presents as nephrotic syndrome, accounting for 80% of cases in children and 25% in adults. The majority of cases are idiopathic and respond well to steroids",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is the most common cause of nephrotic syndrome in children?",
+        "correct_answer": "1",
+        "question_notes": "Minimal change glomerulonephritis nearly always presents as nephrotic syndrome, accounting for 80% of cases in children and 25% in adults. The majority of cases are idiopathic and respond well to steroids",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Nephrotic syndrome in children",
+        "body": "Nephrotic syndrome is classically defined as a triad of<br /><ul><li>proteinuria (> 1 g/m^2 per 24 hours)</li><li>hypoalbuminaemia (< 25 g/l)</li><li>oedema</li></ul><br />In children the peak incidence is between 2 and 5 years of age. Around 80% of cases in children are due to a condition called minimal change glomerulonephritis. The condition generally carries a good prognosis with around 90% of cases responding to high-dose oral steroids.<br /><br />Other features include hyperlipidaemia, a hypercoagulable state (due to loss of antithrombin III) and a predisposition to infection (due to loss of immunoglobulins)",
+        "notes_hash": "be4e36344a3dbac210c777aeb4298f95",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5321",
+        "up_votes": "22",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "4639",
+            "523",
+            "116",
+            "17",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WOkcWIpYsgA\" data-description=\"Nephrotic Syndrome - Types and pathology (histology)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"249\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WOkcWIpYsgA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WOkcWIpYsgA\" data-description=\"Nephrotic Syndrome - Types and pathology (histology)\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"249\">Nephrotic Syndrome - Types and pathology (histology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_421\" data-mediaid=\"421\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_421\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_421\" data-mediaid=\"421\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_421\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JvcRbf0zD_Q\" data-description=\"Minimal Change Disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"499\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JvcRbf0zD_Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JvcRbf0zD_Q\" data-description=\"Minimal Change Disease\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"499\">Minimal Change Disease</a></td></tr><tr><td><span ><small> Pathology mini tutorials - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_868\" data-mediaid=\"868\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_868\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_868\" data-mediaid=\"868\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_868\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CTg3IV89dK8\" data-description=\"Nephrotic Syndrome Explained Clearly\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1424\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CTg3IV89dK8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CTg3IV89dK8\" data-description=\"Nephrotic Syndrome Explained Clearly\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1424\">Nephrotic Syndrome Explained Clearly</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2504\" data-mediaid=\"2504\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2504\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2504\" data-mediaid=\"2504\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2504\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KmKYd98HN8U\" data-description=\"Minimal change disease\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"284\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/KmKYd98HN8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/KmKYd98HN8U\" data-description=\"Minimal change disease\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"284\">Minimal change disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_587\" data-mediaid=\"587\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_587\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_587\" data-mediaid=\"587\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_587\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZGPa_4FN9M4\" data-description=\"Nephrotic Syndrome - Overview\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"250\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZGPa_4FN9M4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZGPa_4FN9M4\" data-description=\"Nephrotic Syndrome - Overview\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"250\">Nephrotic Syndrome - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_420\" data-mediaid=\"420\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_420\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_420\" data-mediaid=\"420\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_420\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2158",
+        "new_question_id": "61239",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "1605",
+        "notes_id_link": "1_206",
+        "theme": "Life-threatening asthma initial bronchodilator management choice",
+        "instruction": "",
+        "options": [
+            "",
+            "Salbutamol via pressurised metered-dose inhaler with spacer",
+            "Nebulised salbutamol in air",
+            "Nebulised salbutamol in oxygen",
+            "Nebulised ipratropium bromide in oxygen",
+            "Intravenous salbutamol",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman presents to the Emergency Department with acute breathlessness and wheeze. She is unable to complete sentences. Observations show respiratory rate 32/min, heart rate 125 bpm, oxygen saturations 88% on room air. Peak expiratory flow is 30% predicted. She has a silent chest on auscultation.<br /><br />Select the single most appropriate initial bronchodilator management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Nebulised salbutamol in oxygen</b> is the correct answer. This patient has life-threatening asthma, evidenced by oxygen saturations <92%, PEFR <33% predicted, inability to complete sentences, tachycardia >110 bpm, tachypnoea >25/min, and a silent chest. According to BTS guidelines, patients with life-threatening features require high-dose nebulised beta-agonist therapy delivered via oxygen-driven nebuliser. The oxygen delivery serves two purposes: it provides supplemental oxygen to correct hypoxaemia (targeting SpO\u2082 94-98%) whilst simultaneously delivering the bronchodilator. This dual approach addresses both the immediate hypoxia and bronchospasm. Nebulised delivery ensures rapid onset of action and high drug deposition in the airways. This should be given alongside oral corticosteroids (prednisolone 40-50mg) and consideration of nebulised ipratropium bromide as an adjunct.<br /><br /><b>Salbutamol via pressurised metered-dose inhaler with spacer</b> is inappropriate in life-threatening asthma. Whilst pMDI with spacer is effective for moderate exacerbations and may be equivalent to nebulisers in acute severe asthma without life-threatening features, it is insufficient when life-threatening features are present. This patient's severe respiratory distress, silent chest, and hypoxaemia indicate the need for more aggressive bronchodilator delivery alongside oxygen therapy. The BTS specifically recommends nebulised therapy for life-threatening presentations.<br /><br /><b>Nebulised salbutamol in air</b> would be suboptimal management. Whilst the nebulised route is appropriate for life-threatening asthma, delivering it in air rather than oxygen fails to address this patient's significant hypoxaemia (SpO\u2082 88%). In life-threatening asthma with hypoxaemia, oxygen should be used as the driving gas for nebulisation, allowing simultaneous correction of hypoxia whilst delivering bronchodilator therapy. Air-driven nebulisers are reserved for patients at risk of hypercapnic respiratory failure, which is not the primary concern here.<br /><br /><b>Nebulised ipratropium bromide in oxygen</b> is an important adjunct in severe and life-threatening asthma but should not be used as first-line monotherapy. Short-acting beta-agonists like salbutamol provide more rapid and potent bronchodilation than anticholinergics. Ipratropium should be added to nebulised salbutamol in severe or life-threatening cases, or when initial beta-agonist therapy proves insufficient. Using ipratropium alone would delay the most effective bronchodilator treatment.<br /><br /><b>Intravenous salbutamol</b> is reserved for patients with life-threatening or near-fatal asthma who are deteriorating despite optimal inhaled therapy, or in situations where inhaled drug delivery is inadequate. It is not first-line management and requires senior critical care involvement due to potential adverse effects including tachycardia, arrhythmias, and hypokalaemia. This patient should first receive nebulised therapy, which is safer and usually effective when properly administered.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman presents to the Emergency Department with acute breathlessness and wheeze. She is unable to complete sentences. Observations show respiratory rate 32/min, heart rate 125 bpm, oxygen saturations 88% on room air. Peak expiratory flow is 30% predicted. She has a silent chest on auscultation.<br /><br />Select the single most appropriate initial bronchodilator management from the options below.",
+        "correct_answer": "3",
+        "question_notes": "<b>Nebulised salbutamol in oxygen</b> is the correct answer. This patient has life-threatening asthma, evidenced by oxygen saturations <92%, PEFR <33% predicted, inability to complete sentences, tachycardia >110 bpm, tachypnoea >25/min, and a silent chest. According to BTS guidelines, patients with life-threatening features require high-dose nebulised beta-agonist therapy delivered via oxygen-driven nebuliser. The oxygen delivery serves two purposes: it provides supplemental oxygen to correct hypoxaemia (targeting SpO\u2082 94-98%) whilst simultaneously delivering the bronchodilator. This dual approach addresses both the immediate hypoxia and bronchospasm. Nebulised delivery ensures rapid onset of action and high drug deposition in the airways. This should be given alongside oral corticosteroids (prednisolone 40-50mg) and consideration of nebulised ipratropium bromide as an adjunct.<br /><br /><b>Salbutamol via pressurised metered-dose inhaler with spacer</b> is inappropriate in life-threatening asthma. Whilst pMDI with spacer is effective for moderate exacerbations and may be equivalent to nebulisers in acute severe asthma without life-threatening features, it is insufficient when life-threatening features are present. This patient's severe respiratory distress, silent chest, and hypoxaemia indicate the need for more aggressive bronchodilator delivery alongside oxygen therapy. The BTS specifically recommends nebulised therapy for life-threatening presentations.<br /><br /><b>Nebulised salbutamol in air</b> would be suboptimal management. Whilst the nebulised route is appropriate for life-threatening asthma, delivering it in air rather than oxygen fails to address this patient's significant hypoxaemia (SpO\u2082 88%). In life-threatening asthma with hypoxaemia, oxygen should be used as the driving gas for nebulisation, allowing simultaneous correction of hypoxia whilst delivering bronchodilator therapy. Air-driven nebulisers are reserved for patients at risk of hypercapnic respiratory failure, which is not the primary concern here.<br /><br /><b>Nebulised ipratropium bromide in oxygen</b> is an important adjunct in severe and life-threatening asthma but should not be used as first-line monotherapy. Short-acting beta-agonists like salbutamol provide more rapid and potent bronchodilation than anticholinergics. Ipratropium should be added to nebulised salbutamol in severe or life-threatening cases, or when initial beta-agonist therapy proves insufficient. Using ipratropium alone would delay the most effective bronchodilator treatment.<br /><br /><b>Intravenous salbutamol</b> is reserved for patients with life-threatening or near-fatal asthma who are deteriorating despite optimal inhaled therapy, or in situations where inhaled drug delivery is inadequate. It is not first-line management and requires senior critical care involvement due to potential adverse effects including tachycardia, arrhythmias, and hypokalaemia. This patient should first receive nebulised therapy, which is safer and usually effective when properly administered.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Acute asthma: management",
+        "body": "The British Thoracic Society (BTS) classify patients with acute asthma into moderate, severe or life-threatening categories.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Moderate</b></th><th><span class=\"concept\" data-cid=\"5448\"><b>Severe</b></span></th><th><b>Life-threatening</b></th></tr></thead><tbody><tr><td> <span class=\"concept\" data-cid=\"6413\">PEFR 50-75% best or predicted</span><br /> <span class=\"concept\" data-cid=\"6414\">Speech normal</span><br /> <span class=\"concept\" data-cid=\"6415\">RR < 25 / min</span><br /> <span class=\"concept\" data-cid=\"6416\">Pulse < 110 bpm</span></td><td><span class=\"concept\" data-cid=\"6417\">PEFR 33 - 50% best or predicted</span><br /> <span class=\"concept\" data-cid=\"4144\">Can't complete sentences</span><br /> <span class=\"concept\" data-cid=\"6419\">RR > 25/min</span><br /> <span class=\"concept\" data-cid=\"6420\">Pulse > 110 bpm</span></td><td><span class=\"concept\" data-cid=\"6421\">PEFR < 33% best or predicted</span><br /> <span class=\"concept\" data-cid=\"6422\">Oxygen sats < 92%</span><br /><span class=\"concept\" data-cid=\"1463\">'Normal' pCO<sub>2</sub> (4.6-6.0 kPa)</span><br /> <span class=\"concept\" data-cid=\"6423\">Silent chest, cyanosis or feeble respiratory effort</span><br /> <span class=\"concept\" data-cid=\"6424\">Bradycardia, dysrhythmia or hypotension</span><br /> <span class=\"concept\" data-cid=\"6425\">Exhaustion</span>, <span class=\"concept\" data-cid=\"1485\">confusion</span> or coma</td></tr></tbody></table></div><br />Note that a patient having any one of the life-threatening features should be treated as having a life-threatening attack.<br /><br />A fourth category, '<b>Near-fatal asthma</b>', is also recognised characterised by a <span class=\"concept\" data-cid=\"4472\">raised pCO<sub>2</sub></span> and/or requiring mechanical ventilation with raised inflation pressures.<br /><br />Further assessment<br /><ul><li>the BTS guidelines recommend <span class=\"concept\" data-cid=\"10910\">arterial blood gases for patients with oxygen sats < 92%</span></li><li>a chest x-ray is not routinely recommended, unless:<ul><li>life-threatening asthma</li><li>suspected pneumothorax</li><li>failure to respond to treatment</li></ul></li></ul><br />Management<br /><ul><li>admission<ul><li>all patients with life-threatening should be admitted in hospital</li><li>patients with features of severe acute asthma should also be admitted if they fail to respond to initial treatment.</li><li>other admission criteria include a <span class=\"concept\" data-cid=\"1501\">previous near-fatal asthma attack</span>, <span class=\"concept\" data-cid=\"10907\">pregnancy</span>, an attack occurring despite already using oral corticosteroid and presentation at night</li></ul></li><li>oxygen<ul><li>if patients are hypoxaemic, it is important to start them on supplemental oxygen therapy</li><li>if patients are acutely unwell they should be started on 15L of supplemental via a non-rebreathe mask, which can then be titrated down to a flow rate where they are able to maintain a <span class=\"concept\" data-cid=\"10908\">SpO\u201a\u201a 94-98%</span>.</li></ul></li><li>bronchodilation with short-acting beta\u201a\u201a-agonists (SABA)<ul><li>high-dose inhaled SABA e.g. salbutamol, terbutaline</li><li>in patients without features of life-threatening or near-fatal asthma, this can be given by a standard pressurised metered-dose inhaler (pMDI) or by an oxygen-driven nebulizer</li><li>in patients with features of a life-threatening exacerbation of asthma, <span class=\"concept\" data-cid=\"1605\">nebulised SABA</span> is recommended</li></ul></li><li>corticosteroid<ul><li>all patients should be given 40-50mg of <span class=\"concept\" data-cid=\"11822\">prednisolone orally</span> (PO) daily, which should be continued for at least five days or until the patient recovers from the attack</li><li>during this time, patients should continue their normal medication routine including inhaled corticosteroids.</li></ul></li><li><span class=\"concept\" data-cid=\"10909\">ipratropium bromide: in patients with severe or life-threatening asthma</span>, or in patients who have not responded to beta\u201a\u201a-agonist and corticosteroid treatment, nebulised ipratropium bromide, a short-acting muscarinic antagonist</li><li>IV magnesium sulphate<ul><li>the BTS notes that the evidence base is mixed for this treatment that is now commonly given for severe/life-threatening asthma</li></ul></li><li>IV aminophylline may be considered following consultation with senior medical staff</li><li>patients who fail to respond require <span class=\"concept\" data-cid=\"5561\">senior critical care support</span> and should be treated in an appropriate ITU/HDU setting. Treatment options include:<ul><li><span class=\"concept\" data-cid=\"12063\">intubation and ventilation</span></li><li>extracorporeal membrane oxygenation (ECMO)</li></ul></li></ul><br />Criteria for discharge<br /><ul><li>been <span class=\"concept\" data-cid=\"10912\">stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours</span></li><li><span class=\"concept\" data-cid=\"11365\">inhaler technique checked and recorded</span></li><li><span class=\"concept\" data-cid=\"10911\">PEF >75% of best or predicted</span></li></ul>",
+        "notes_hash": "bd67d4c0d520a9e30fd538ab6bd8815d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Nebulised salbutamol delivered in O2 is the first line management for acute severe asthma with life-threatening features",
+        "concept_percentile": "98",
+        "concept_colour": "rgb(10,255,0)",
+        "number_attempts": "230",
+        "up_votes": "1",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "13",
+            "10",
+            "176",
+            "13",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_191\" data-linkid=\"191\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_191\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">69</span><button type=\"button\" style=\"\" id=\"link_dislike_191\" data-linkid=\"191\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_191\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">134</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/\">2019 Asthma guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1605": {
+                "concept_text": "Nebulised salbutamol delivered in O2 is the first line management for acute severe asthma with life-threatening features",
+                "concept_percentile": "98"
+            },
+            "4144": {
+                "concept_text": "If a patient cannot complete sentences, they have severe asthma",
+                "concept_percentile": "59"
+            },
+            "6413": {
+                "concept_text": "Moderate asthma  PEFR  50-75% best or predicted",
+                "concept_percentile": "10"
+            },
+            "6414": {
+                "concept_text": "Moderate asthma  speech normal",
+                "concept_percentile": "39"
+            },
+            "6415": {
+                "concept_text": "Moderate asthma  RR < 25 / min",
+                "concept_percentile": "16"
+            },
+            "6416": {
+                "concept_text": "Moderate asthma  pulse < 110 bpm",
+                "concept_percentile": "16"
+            },
+            "6417": {
+                "concept_text": "Severe asthma  PEFR 33 - 50% best or predicted",
+                "concept_percentile": "11"
+            },
+            "6419": {
+                "concept_text": "Severe asthma  RR > 25/min",
+                "concept_percentile": "23"
+            },
+            "6420": {
+                "concept_text": "Severe asthma  pulse > 110 bpm",
+                "concept_percentile": "26"
+            },
+            "6421": {
+                "concept_text": "Life-threatening asthma  PEFR < 33% best or predicted",
+                "concept_percentile": "18"
+            },
+            "6422": {
+                "concept_text": "Life-threatening asthma  oxygen sats < 92%",
+                "concept_percentile": "64"
+            },
+            "6423": {
+                "concept_text": "Life-threatening asthma  silent chest, cyanosis or feeble respiratory effort",
+                "concept_percentile": "31"
+            },
+            "6424": {
+                "concept_text": "Life-threatening asthma  bradycardia, dysrhythmia or hypotension",
+                "concept_percentile": "34"
+            },
+            "6425": {
+                "concept_text": "Life-threatening asthma  exhaustion, confusion or coma",
+                "concept_percentile": "45"
+            },
+            "10909": {
+                "concept_text": "Nebulised ipratropium bromide should be given to all patients with severe or life-threatening asthma",
+                "concept_percentile": "95"
+            },
+            "11365": {
+                "concept_text": "Inhaler technique should be checked and recorded before discharging a patient who has been admitted with acute asthma",
+                "concept_percentile": "94"
+            },
+            "12063": {
+                "concept_text": "Patient with acute asthma who do not respond to full medical treatment and are becoming acidotic should be intubated and ventilated, rather than given BiPAP/CPAP",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1423",
+        "new_question_id": "8207",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "661",
+        "notes_id_link": "1_371",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tricyclic antidepressants",
+            "5HT3 antagonists",
+            "Third generation cephalosporins",
+            "Benzodiazepines",
+            "Atypical antipsychotics",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which class of drug have the Medicines and Healthcare products Regulatory Agency warned may be associated with an increased risk of venous thromboembolism in elderly patients?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Atypical antipsychotics</b>. The Medicines and Healthcare products Regulatory Agency (MHRA) in the UK has issued a warning about an increased risk of venous thromboembolism (VTE) in elderly patients using atypical antipsychotics. These drugs, which include clozapine, risperidone, olanzapine, and quetiapine among others, are often prescribed for the management of schizophrenia and bipolar disorder. They act by blocking dopamine D2 receptors in the brain which helps to reduce psychotic symptoms. However, they can also cause hyperprolactinaemia and weight gain which may increase the risk of VTE.<br /><br /><b>Tricyclic antidepressants</b> are not associated with an increased risk of VTE according to MHRA. These drugs work by inhibiting the reuptake of serotonin and norepinephrine into presynaptic neurons thereby increasing their concentration in the synaptic cleft and enhancing neurotransmission.<br /><br /><b>5HT3 antagonists</b>, such as ondansetron or granisetron used mainly for nausea and vomiting, especially during chemotherapy, have not been linked with an increased risk of VTE. They work by blocking 5-HT3 receptors located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema.<br /><br /><b>Third generation cephalosporins</b>, like ceftriaxone or ceftazidime used to treat various bacterial infections including <i>Pseudomonas aeruginosa</i>, do not pose an increased risk for VTE according to MHRA guidelines. Their mechanism involves disrupting cell wall synthesis leading to bacterial cell death.<br /><br />Lastly, <b>benzodiazepines</b>, such as diazepam or lorazepam used for anxiety disorders, sleep disorders or alcohol withdrawal symptoms, have not been associated with an elevated risk of VTE either. They enhance GABAergic neurotransmission leading to sedative, hypnotic, anxiolytic, muscle relaxant effects.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which class of drug have the Medicines and Healthcare products Regulatory Agency warned may be associated with an increased risk of venous thromboembolism in elderly patients?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Atypical antipsychotics</b>. The Medicines and Healthcare products Regulatory Agency (MHRA) in the UK has issued a warning about an increased risk of venous thromboembolism (VTE) in elderly patients using atypical antipsychotics. These drugs, which include clozapine, risperidone, olanzapine, and quetiapine among others, are often prescribed for the management of schizophrenia and bipolar disorder. They act by blocking dopamine D2 receptors in the brain which helps to reduce psychotic symptoms. However, they can also cause hyperprolactinaemia and weight gain which may increase the risk of VTE.<br /><br /><b>Tricyclic antidepressants</b> are not associated with an increased risk of VTE according to MHRA. These drugs work by inhibiting the reuptake of serotonin and norepinephrine into presynaptic neurons thereby increasing their concentration in the synaptic cleft and enhancing neurotransmission.<br /><br /><b>5HT3 antagonists</b>, such as ondansetron or granisetron used mainly for nausea and vomiting, especially during chemotherapy, have not been linked with an increased risk of VTE. They work by blocking 5-HT3 receptors located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema.<br /><br /><b>Third generation cephalosporins</b>, like ceftriaxone or ceftazidime used to treat various bacterial infections including <i>Pseudomonas aeruginosa</i>, do not pose an increased risk for VTE according to MHRA guidelines. Their mechanism involves disrupting cell wall synthesis leading to bacterial cell death.<br /><br />Lastly, <b>benzodiazepines</b>, such as diazepam or lorazepam used for anxiety disorders, sleep disorders or alcohol withdrawal symptoms, have not been associated with an elevated risk of VTE either. They enhance GABAergic neurotransmission leading to sedative, hypnotic, anxiolytic, muscle relaxant effects.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Antipsychotics",
+        "body": "Antipsychotics are a group of drugs used in the management of schizophrenia and other forms of psychosis, mania and agitation. They are usually divided into typical and atypical antipsychotics. The atypical antipsychotics were developed due to the <span class=\"concept\" data-cid=\"9338\">problematic extrapyramidal side-effects</span> which are associated with the first generation of typical antipsychotics.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th>Typical antipsychotics</th><th>Atypical antipsychotics</th></tr></thead><tbody><tr><td><b>Mechanism of action</b></td><td><span class=\"concept\" data-cid=\"12105\">Dopamine D2 receptor antagonists, blocking dopaminergic transmission in the mesolimbic pathways</span></td><td>Act on a variety of receptors (D2, D3, D4, 5-HT)</td></tr><tr><td><b>Adverse effects</b></td><td>Extrapyramidal side-effects and hyperprolactinaemia common</td><td>Extrapyramidal side-effects and hyperprolactinaemia less common<br />Metabolic effects</td></tr><tr><td><b>Examples</b></td><td>Haloperidol <br />Chlorpromazine</td><td>Clozapine<br />Risperidone<br />Olanzapine</td></tr></tbody></table></div><br />The rest of this section will focus on typical antipsychotics, with atypical antipsychotics covered elsewhere.<br /><br />Extrapyramidal side-effects (EPSEs)<br /><ul><li><span class=\"concept\" data-cid=\"6150\">Parkinsonism</span></li><li><span class=\"concept\" data-cid=\"5396\">acute dystonia</span><ul><li><span class=\"concept\" data-cid=\"8951\">sustained muscle contraction</span> (e.g. <span class=\"concept\" data-cid=\"6151\">torticollis</span>, <span class=\"concept\" data-cid=\"10021\">oculogyric crisis</span>)</li><li><span class=\"concept\" data-cid=\"9335\">may be managed with procyclidine</span></li></ul></li><li><span class=\"concept\" data-cid=\"4098\">akathisia (severe restlessness)</span></li><li><span class=\"concept\" data-cid=\"6154\">tardive dyskinesia</span> (<span class=\"concept\" data-cid=\"3601\">late onset</span> of choreoathetoid movements, abnormal, involuntary, may occur in 40% of patients, <span class=\"concept\" data-cid=\"9337\">may be irreversible</span>, most common is <span class=\"concept\" data-cid=\"8953\">chewing and pouting of jaw</span>)</li></ul><br /><br />The Medicines and Healthcare products Regulatory Agency has issued specific warnings when antipsychotics are used in elderly patients:<br /><ul><li><span class=\"concept\" data-cid=\"661\">increased risk of stroke</span></li><li><span class=\"concept\" data-cid=\"661\">increased risk of venous thromboembolism</span></li></ul><br />Other side-effects<br /><ul><li>antimuscarinic: <span class=\"concept\" data-cid=\"6157\">dry mouth</span>, <span class=\"concept\" data-cid=\"6158\">blurred vision</span>, <span class=\"concept\" data-cid=\"6159\">urinary retention</span>, <span class=\"concept\" data-cid=\"6160\">constipation</span></li><li>sedation, <span class=\"concept\" data-cid=\"6162\">weight gain</span></li><li><span class=\"concept\" data-cid=\"6163\">raised prolactin</span><ul><li>may result in galactorrhoea</li><li><span class=\"concept\" data-cid=\"10254\">due to inhibition of the dopaminergic tuberoinfundibular pathway</span></li></ul></li><li><span class=\"concept\" data-cid=\"9512\">impaired glucose tolerance</span></li><li><span class=\"concept\" data-cid=\"6164\">neuroleptic malignant syndrome</span>: pyrexia, muscle stiffness</li><li><span class=\"concept\" data-cid=\"6165\">reduced seizure threshold</span> (greater with atypicals)</li><li><span class=\"concept\" data-cid=\"6170\">prolonged QT interval</span> (particularly haloperidol)</li></ul>",
+        "notes_hash": "c155fc6c436f98c1c346eb0cf0ccb7b4",
+        "knowledge_graph_node_id_link": 10644,
+        "concept": "Antipsychotics in the elderly - increased risk of stroke and VTE",
+        "concept_percentile": "67",
+        "concept_colour": "rgb(168,255,0)",
+        "number_attempts": "6679",
+        "up_votes": "23",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "1338",
+            "682",
+            "109",
+            "265",
+            "4285",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_251\" data-linkid=\"251\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_251\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_251\" data-linkid=\"251\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_251\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/psychoses-and-related-disorders.html\">Psychoses and related disorders</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wCtC3LN2Vfc\" data-description=\"Antipsychotics, Dopamine, and EPS\" data-upvotes=\"12\" data-downvotes=\"1\" data-media=\"653\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wCtC3LN2Vfc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wCtC3LN2Vfc\" data-description=\"Antipsychotics, Dopamine, and EPS\" data-upvotes=\"12\" data-downvotes=\"1\" data-media=\"653\">Antipsychotics, Dopamine, and EPS</a></td></tr><tr><td><span ><small>Dirty USMLE - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1124\" data-mediaid=\"1124\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1124\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_1124\" data-mediaid=\"1124\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1124\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"10\" data-downvotes=\"2\" data-media=\"619\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nKkIh1B2Js8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nKkIh1B2Js8\" data-description=\"Antipsychotics \" data-upvotes=\"10\" data-downvotes=\"2\" data-media=\"619\">Antipsychotics </a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1054\" data-mediaid=\"1054\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1054\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_1054\" data-mediaid=\"1054\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1054\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FUr8ltXh1Pc\" data-description=\"Video of patients with tardive dyskinesia\" data-upvotes=\"13\" data-downvotes=\"4\" data-media=\"265\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FUr8ltXh1Pc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FUr8ltXh1Pc\" data-description=\"Video of patients with tardive dyskinesia\" data-upvotes=\"13\" data-downvotes=\"4\" data-media=\"265\">Video of patients with tardive dyskinesia</a></td></tr><tr><td><span ><small>Abnormal Involuntary Movement Scale training video - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_455\" data-mediaid=\"455\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_455\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_455\" data-mediaid=\"455\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_455\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "661": {
+                "concept_text": "Antipsychotics in the elderly - increased risk of stroke and VTE",
+                "concept_percentile": "67"
+            },
+            "4098": {
+                "concept_text": "Akathisia is a sense of inner restlessness and inability to keep still",
+                "concept_percentile": "46"
+            },
+            "6150": {
+                "concept_text": "Antipsychotics may cause parkinsonism",
+                "concept_percentile": "22"
+            },
+            "6151": {
+                "concept_text": "Antipsychotics may cause torticollis",
+                "concept_percentile": "27"
+            },
+            "6154": {
+                "concept_text": "Antipsychotics may cause tardive dyskinesia",
+                "concept_percentile": "30"
+            },
+            "6157": {
+                "concept_text": "Antipsychotics may cause dry mouth",
+                "concept_percentile": "22"
+            },
+            "6158": {
+                "concept_text": "Antipsychotics may cause blurred vision",
+                "concept_percentile": "15"
+            },
+            "6159": {
+                "concept_text": "Antipsychotics may cause urinary retention",
+                "concept_percentile": "32"
+            },
+            "6160": {
+                "concept_text": "Antipsychotics may cause constipation",
+                "concept_percentile": "18"
+            },
+            "6162": {
+                "concept_text": "Antipsychotics may cause weight gain",
+                "concept_percentile": "26"
+            },
+            "6163": {
+                "concept_text": "Antipsychotics may cause hyperprolactinaemia",
+                "concept_percentile": "21"
+            },
+            "6164": {
+                "concept_text": "Antipsychotics may cause neuroleptic malignant syndrome",
+                "concept_percentile": "41"
+            },
+            "6165": {
+                "concept_text": "Antipsychotics may cause reduced seizure threshold",
+                "concept_percentile": "18"
+            },
+            "9335": {
+                "concept_text": "Acute dystonia secondary to antipsychotics is usually managed with procyclidine",
+                "concept_percentile": "96"
+            },
+            "9512": {
+                "concept_text": "Long-term atypical antipsychotics can lead to the development of glucose dysregulation and diabetes",
+                "concept_percentile": "18"
+            },
+            "10021": {
+                "concept_text": "Antipsychotics can cause an acute dystonic reaction, an important form of which is an oculogyric crisis",
+                "concept_percentile": "54"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

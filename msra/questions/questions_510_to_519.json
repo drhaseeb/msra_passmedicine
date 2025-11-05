@@ -1,0 +1,968 @@
+[
+    {
+        "question_id": "1_B_1675",
+        "new_question_id": "1644",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1187",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Aspirin + statin",
+            "Aspirin + dipyridamole + statin + ramipril",
+            "Clopidogrel + statin",
+            "Aspirin + dipyridamole",
+            "Aspirin + dipyridamole + statin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 59-year-old man with no significant past medical history is admitted to hospital following an ischaemic stroke. He presented outside of the thrombolysis window and is treated with aspirin for the first few days. His blood pressure is 130/80 mmHg, fasting glucose is 5.6 mmol/l and fasting cholesterol is 3.9 mmol/l. He makes a good recovery and has regained nearly all of his previous functions upon discharge. Following recent NICE guidelines, which of the following medications should he be taking upon discharge (i.e. after 14 days)?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Clopidogrel + statin</b>. According to NICE guidelines (NG128), following an ischaemic stroke, patients should be offered clopidogrel 75mg daily as the preferred antiplatelet therapy. A high-intensity statin (typically atorvastatin 20-80mg) should also be prescribed for secondary prevention, regardless of the baseline cholesterol level. This combination has been shown to provide optimal secondary prevention of further cerebrovascular events.<br /><br /><b>Aspirin + statin</b> is incorrect because while aspirin was historically used as first-line antiplatelet therapy, clopidogrel monotherapy is now preferred over aspirin alone or aspirin plus dipyridamole due to better efficacy and tolerability.<br /><br /><b>Aspirin + dipyridamole + statin + ramipril</b> is incorrect. While ACE inhibitors like ramipril can be beneficial in some stroke patients, they are not routinely indicated in all cases, particularly when blood pressure is well-controlled as in this case. Additionally, aspirin plus dipyridamole is no longer recommended as first-line therapy.<br /><br /><b>Aspirin + dipyridamole</b> is incorrect as this combination has been superseded by clopidogrel monotherapy in current guidelines. Additionally, statin therapy has been omitted which should be prescribed for all ischaemic stroke patients.<br /><br /><b>Aspirin + dipyridamole + statin</b> is incorrect for the same reasons - clopidogrel is now preferred over aspirin plus dipyridamole combination therapy. While the statin is correctly included, the antiplatelet strategy is outdated according to current guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 59-year-old man with no significant past medical history is admitted to hospital following an ischaemic stroke. He presented outside of the thrombolysis window and is treated with aspirin for the first few days. His blood pressure is 130/80 mmHg, fasting glucose is 5.6 mmol/l and fasting cholesterol is 3.9 mmol/l. He makes a good recovery and has regained nearly all of his previous functions upon discharge. Following recent NICE guidelines, which of the following medications should he be taking upon discharge (i.e. after 14 days)?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Clopidogrel + statin</b>. According to NICE guidelines (NG128), following an ischaemic stroke, patients should be offered clopidogrel 75mg daily as the preferred antiplatelet therapy. A high-intensity statin (typically atorvastatin 20-80mg) should also be prescribed for secondary prevention, regardless of the baseline cholesterol level. This combination has been shown to provide optimal secondary prevention of further cerebrovascular events.<br /><br /><b>Aspirin + statin</b> is incorrect because while aspirin was historically used as first-line antiplatelet therapy, clopidogrel monotherapy is now preferred over aspirin alone or aspirin plus dipyridamole due to better efficacy and tolerability.<br /><br /><b>Aspirin + dipyridamole + statin + ramipril</b> is incorrect. While ACE inhibitors like ramipril can be beneficial in some stroke patients, they are not routinely indicated in all cases, particularly when blood pressure is well-controlled as in this case. Additionally, aspirin plus dipyridamole is no longer recommended as first-line therapy.<br /><br /><b>Aspirin + dipyridamole</b> is incorrect as this combination has been superseded by clopidogrel monotherapy in current guidelines. Additionally, statin therapy has been omitted which should be prescribed for all ischaemic stroke patients.<br /><br /><b>Aspirin + dipyridamole + statin</b> is incorrect for the same reasons - clopidogrel is now preferred over aspirin plus dipyridamole combination therapy. While the statin is correctly included, the antiplatelet strategy is outdated according to current guidelines.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Stroke: management of acute ischaemic stroke",
+        "body": "The National Clinical Guideline for Stroke was published in 2023 and is a partial update of the 2016 Royal College of Physicians (RCP) guidelines.<br /><br />Selected points relating to the management of acute stroke include:<br /><ul><li>blood glucose, hydration, oxygen saturation and temperature should be maintained within normal limits</li><li>blood pressure<ul><li><span class=\"concept\" data-cid=\"213\">blood pressure should not be lowered in the acute phase of ischaemic stroke</span> unless there are complications e.g. Hypertensive encephalopathy or they are being considered for thrombolysis (see below)</li><li><span class=\"concept\" data-cid=\"12220\">blood pressure control should be considered for patients who present with an acute ischaemic stroke</span>, if they present within 6 hours and have a systolic blood pressure > 150 mmHg</li></ul></li><li><span class=\"concept\" data-cid=\"11769\">aspirin 300mg orally or rectally should be given as soon as possible if a haemorrhagic stroke has been excluded</span></li><li>with regards to atrial fibrillation, the RCP state: 'anticoagulants should not be started until brain imaging has excluded haemorrhage, and usually not until 14 days have passed from the onset of an ischaemic stroke'</li><li>if the cholesterol is > 3.5 mmol/l patients should be commenced on a statin. Many physicians will delay treatment until after at least 48 hours due to the risk of haemorrhagic transformation</li></ul><br /><br /><h5 class='notes-heading'>Thrombolysis for acute ischaemic stroke</h5><br />Thrombolysis is now given to around 10% of patients who present with an acute ischaemic stroke in the UK. It requires a dedicated team to determine eligibility, ensure timely delivery and provide hyperacute stroke services to patients afterwards.<br /><br />The standard criteria for thrombolysis with alteplase or tenecteplase are as follows: <br /><ul><li>it is administered within <span class=\"concept\" data-cid=\"214\">4.5 hours of onset</span> of stroke symptoms</li><li><span class=\"concept\" data-cid=\"214\">haemorrhage has been definitively excluded</span> (i.e. Imaging has been performed)</li></ul><br />The 2023 National Clinical Guideline for Stroke broadened the potential inclusion criteria. <br /><ul><li>it recommends that patients with an <span class=\"concept\" data-cid=\"12221\">acute ischaemic stroke, regardless of age or stroke severity, who were last known to be well more than 4.5 hours earlier, should be considered for thrombolysis with alteplase if</span>:<ul><li>treatment can be started between 4.5 and 9 hours of known onset, or within 9 hours of the midpoint of sleep when they have woken with symptoms, AND</li><li>they have evidence from CT/MR perfusion (core-perfusion mismatch) or MRI (DWI-FLAIR mismatch) of the potential to salvage brain tissue</li></ul></li><li>this should be irrespective of whether they have a large artery occlusion and require mechanical thrombectomy.</li><li>there are specific criteria in the guidelines that determine the imagine criteria that determine whether thrombolysis should be performed</li></ul><br /><span class=\"concept\" data-cid=\"2669\">Blood pressure should be lowered to 185/110 mmHg before thrombolysis</span>.<br /><br /><h6 class='notes-subheading'>Contraindications to thrombolysis</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Absolute</th><th>\tRelative</th></tr></thead><tbody><tr><td>- Previous intracranial haemorrhage<br />- Seizure at onset of stroke<br />- Intracranial neoplasm<br />- Suspected subarachnoid haemorrhage<br />- Stroke or traumatic brain injury in preceding 3 months<br />- Lumbar puncture in preceding 7 days<br />- Gastrointestinal haemorrhage in preceding 3 weeks<br />- Active bleeding<br />- Oesophageal varices<br />- Uncontrolled hypertension >200/120mmHg\t</td><td>- Pregnancy<br />- Concurrent anticoagulation (INR >1.7)<br />- Haemorrhagic diathesis<br />- Active diabetic haemorrhagic retinopathy<br />- Suspected intracardiac thrombus<br />- Major surgery / trauma in the preceding 2 weeks</td></tr></tbody></table></div><br /><br /><h5 class='notes-heading'>Thrombectomy for acute ischaemic stroke</h5><br />Mechanical thrombectomy is an exciting new treatment option for patients with an acute ischaemic stroke. NICE incorporated recommendations into their 2019 guidelines. It is important to remember the significant resources and senior personnel to provide such a service 24 hours a day. NICE recommend that all decisions about thrombectomy take into account a patient's overall clinical status:<br /><ul><li>NICE recommend a pre-stroke functional status of less than 3 on the modified Rankin scale and a score of more than 5 on the National Institutes of Health Stroke Scale (NIHSS)</li></ul><br />Offer thrombectomy as soon as possible and within <span class=\"concept\" data-cid=\"9594\">6 hours of symptom onset</span>, together <span class=\"concept\" data-cid=\"9596\">with intravenous thrombolysis (if within 4.5 hours)</span>, to people who have:<br />acute ischaemic stroke and<br /><ul><li>confirmed occlusion of the <b>proximal anterior circulation</b> demonstrated by computed tomographic angiography (CTA) or magnetic resonance angiography (MRA) </li></ul><br />Offer thrombectomy as soon as possible to people who were last known to be well between <span class=\"concept\" data-cid=\"9595\">6 hours and 24 hours previously (including wake-up strokes)</span>:<br /><ul><li>confirmed occlusion of the <b>proximal anterior circulation</b> demonstrated by CTA or MRA and</li><li>if there is the <span class=\"concept\" data-cid=\"9595\">potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume</span></li></ul><br /><i>Consider</i> thrombectomy together with intravenous thrombolysis (if within 4.5 hours) as soon as possible for people last known to be well up to 24 hours previously (including wake-up strokes):<br /><ul><li>who have acute ischaemic stroke and confirmed occlusion of the <b>proximal posterior circulation (that is, basilar or posterior cerebral artery)</b> demonstrated by CTA or MRA and</li><li>if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume</li></ul><br /><br /><h5 class='notes-heading'>Secondary prevention</h5><br />Recommendations from NICE include:<br /><ul><li><span class=\"concept\" data-cid=\"10231\">clopidogrel is now recommended</span> by NICE ahead of combination use of aspirin plus modified-release (MR) dipyridamole in people who have had an ischaemic stroke</li><li><span class=\"concept\" data-cid=\"10232\">aspirin is recommended after an ischaemic stroke only if clopidogrel is contraindicated or not tolerated</span></li></ul><br /><span class=\"concept\" data-cid=\"4059\">Carotid endarterectomy</span> is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled<br /><ul><li>should only be considered if the stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria</li></ul>  - it should be noted that previous guidelines have used other reporting methods, that have resulted in different cut-offs, e.g. European Carotid Surgery Trial (ECST) with a cut-off of 70%<br /><ul><li>it should be performed as soon as possible within 7 days</li></ul>",
+        "notes_hash": "fc458ce060f248e40f318667f9e90e4d",
+        "knowledge_graph_node_id_link": 1086,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4190",
+        "up_votes": "41",
+        "down_votes": "45",
+        "column_array": [
+            0,
+            "252",
+            "319",
+            "3118",
+            "126",
+            "375",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1314\" data-linkid=\"1314\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1314\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_1314\" data-linkid=\"1314\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1314\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">38</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/2/161\"> Thrombolysis and thrombectomy for acute ischaemic stroke </a></td></tr></table><br><br><table style='width:100%'><tr><td>Age and Ageing</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1008\" data-linkid=\"1008\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1008\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"link_dislike_1008\" data-linkid=\"1008\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1008\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/ageing/article-pdf/33/1/6/39726/afg121.pdf\">Interesting article on managing blood pressure during acute stroke</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_900\" data-linkid=\"900\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_900\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">30</span><button type=\"button\" style=\"\" id=\"link_dislike_900\" data-linkid=\"900\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_900\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng128/chapter/Recommendations\">2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></td></tr></table><br><br><table style='width:100%'><tr><td>National Clinical Guideline for Stroke</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2116\" data-linkid=\"2116\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2116\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_2116\" data-linkid=\"2116\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2116\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeguideline.org/contents/\">2023 National Clinical Guideline for Stroke</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qCvV11R2lgg\" data-description=\"Iscchaemic stroke\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1011\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/qCvV11R2lgg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qCvV11R2lgg\" data-description=\"Iscchaemic stroke\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1011\">Iscchaemic stroke</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1780\" data-mediaid=\"1780\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1780\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1780\" data-mediaid=\"1780\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1780\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJeUOPc9pgs\" data-description=\"Haemorrhagic stroke\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1012\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TJeUOPc9pgs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJeUOPc9pgs\" data-description=\"Haemorrhagic stroke\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1012\">Haemorrhagic stroke</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1781\" data-mediaid=\"1781\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1781\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1781\" data-mediaid=\"1781\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1781\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"502\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/y-dfiMGv3Xk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"502\">Stroke</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_876\" data-mediaid=\"876\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_876\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_876\" data-mediaid=\"876\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_876\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"104\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cLi0lPt5UcA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"104\">Stroke</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_183\" data-mediaid=\"183\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_183\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_183\" data-mediaid=\"183\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_183\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/H4xErylBd1g\" data-description=\"GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"1186\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/H4xErylBd1g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/H4xErylBd1g\" data-description=\"GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"1186\">GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)</a></td></tr><tr><td><span ><small>Radiology Channel - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2045\" data-mediaid=\"2045\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2045\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2045\" data-mediaid=\"2045\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2045\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "2669": {
+                "concept_text": "Hypertension (>185/110 mmHg) in the setting of acute ischaemic stroke should be treated prior to thrombolysis",
+                "concept_percentile": "95"
+            },
+            "4059": {
+                "concept_text": "Carotid artery endarterectomy can be considered if there is a stroke or TIA in the carotid territory, and the patient is not severely disabled. \r\n",
+                "concept_percentile": "85"
+            },
+            "9594": {
+                "concept_text": "The standard target time for thrombectomy in acute ischaemic stroke is 6 hours",
+                "concept_percentile": "93"
+            },
+            "9595": {
+                "concept_text": "For thrombectomy in acute ischaemic stroke, an extended target time of 6-24 hours may be considered if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume",
+                "concept_percentile": "48"
+            },
+            "9596": {
+                "concept_text": "A combination of thrombolysis AND thrombectomy is recommend for patients with an acute ischaemic stroke who present within 4.5 hours",
+                "concept_percentile": "97"
+            },
+            "10231": {
+                "concept_text": "Clopidogrel is the preferred antiplatelet for secondary prevention following stroke",
+                "concept_percentile": "87"
+            },
+            "10232": {
+                "concept_text": "If clopidogrel is contraindicated or not tolerated, give aspirin for secondary prevention following stroke",
+                "concept_percentile": "85"
+            },
+            "11769": {
+                "concept_text": "Stroke: aspirin 300mg should be given once a haemorrhagic stroke has been excluded by a CT scan",
+                "concept_percentile": "60"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4972_B_134",
+        "new_question_id": "15581",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "3913",
+        "notes_id_link": "1_203",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bisphosphonates",
+            "Dexamethasone",
+            "IV 0.9% N saline",
+            "Radiotherapy",
+            "Sodium bicarbonate",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An 82-year-old man with a medical history of prostate cancer, asthma, and COPD comes to the emergency department. He is complaining of abdominal pain, bone pain, and general weakness. While doing some investigations, you notice that he has a shortened QT interval on ECG. What is the most appropriate initial management of the complication this man has?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This is a presentation of hypercalcaemia, the most common metabolic complication in cancer patients. It can be caused by a number of processes in cancer, in this instance it is most likely bone metastases from prostate cancer. The initial management (after hypercalcaemia has been confirmed with U&E investigation), is rehydration with 3 to 4 litres of normal saline. Following this, bisphosphonates may be used, however as the question asked for initial management, IV 0.9% N saline is the correct answer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An 82-year-old man with a medical history of prostate cancer, asthma, and COPD comes to the emergency department. He is complaining of abdominal pain, bone pain, and general weakness. While doing some investigations, you notice that he has a shortened QT interval on ECG. What is the most appropriate initial management of the complication this man has?",
+        "correct_answer": "3",
+        "question_notes": "This is a presentation of hypercalcaemia, the most common metabolic complication in cancer patients. It can be caused by a number of processes in cancer, in this instance it is most likely bone metastases from prostate cancer. The initial management (after hypercalcaemia has been confirmed with U&E investigation), is rehydration with 3 to 4 litres of normal saline. Following this, bisphosphonates may be used, however as the question asked for initial management, IV 0.9% N saline is the correct answer.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hypercalcaemia: causes",
+        "body": "<span class=\"concept\" data-cid=\"995\">Two conditions account for 90% of cases of hypercalcaemia</span>:<br /><ul><li>1. <span class=\"concept\" data-cid=\"6637\">Primary hyperparathyroidism</span>: commonest cause in non-hospitalised patients</li><li>2. Malignancy: the commonest cause in hospitalised patients. This may be due to a number of processes, including; <ul><li>PTHrP from the tumour e.g. <span class=\"concept\" data-cid=\"6636\">squamous cell lung cancer</span></li><li><span class=\"concept\" data-cid=\"6634\">bone metastases</span></li><li><span class=\"concept\" data-cid=\"6635\">myeloma</span>,: due primarily to increased osteoclastic bone resorption caused by local cytokines (e.g. IL-1, tumour necrosis factor) released by the myeloma cells</li></ul></li><li>for this reason, <span class=\"concept\" data-cid=\"5460\">measuring parathyroid hormone levels is the key investigation for patients with hypercalcaemia</span></li></ul><br />Other causes include<br /><ul><li><span class=\"concept\" data-cid=\"6638\">sarcoidosis</span><ul><li>other causes of granulomas may lead to hypercalcaemia e.g. tuberculosis and histoplasmosis</li></ul></li><li><span class=\"concept\" data-cid=\"6639\">vitamin D intoxication</span></li><li><span class=\"concept\" data-cid=\"6640\">acromegaly</span></li><li><span class=\"concept\" data-cid=\"6641\">thyrotoxicosis</span></li><li><span class=\"concept\" data-cid=\"6642\">Milk-alkali syndrome</span></li><li>drugs: <ul><li><span class=\"concept\" data-cid=\"511\">thiazides</span></li><li>calcium-containing antacids</li></ul></li><li><span class=\"concept\" data-cid=\"6643\">dehydration</span></li><li><span class=\"concept\" data-cid=\"6644\">Addison's disease</span></li><li>Paget's disease of the bone<ul><li>usually normal in this condition but hypercalcaemia may occur with prolonged immobilisation</li></ul></li></ul>",
+        "notes_hash": "18f1f603d516f5d0a6a3a13a6a8381be",
+        "knowledge_graph_node_id_link": 10263,
+        "concept": "Hypercalcaemia is the most common metabolic complication in patients with cancer",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "5480",
+        "up_votes": "46",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "667",
+            "195",
+            "4154",
+            "45",
+            "419",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1324\" data-linkid=\"1324\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1324\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">17</span><button type=\"button\" style=\"\" id=\"link_dislike_1324\" data-linkid=\"1324\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1324\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/3/270\">Hypercalcaemia \u00e2\u20ac\u201c presentation and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"233\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/630hhyQ-jE0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/630hhyQ-jE0\" data-description=\"Hypercalcemia\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"233\">Hypercalcemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_387\" data-mediaid=\"387\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_387\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_387\" data-mediaid=\"387\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_387\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"1144\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Rs7MwyKZryY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Rs7MwyKZryY\" data-description=\"Hypercalcemia in malignancy\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"1144\">Hypercalcemia in malignancy</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1977\" data-mediaid=\"1977\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1977\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1977\" data-mediaid=\"1977\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1977\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "511": {
+                "concept_text": "Thiazides cause hypercalcaemia",
+                "concept_percentile": "86"
+            },
+            "5460": {
+                "concept_text": "Measuring PTH level is the first step in investigating hypercalcaemia",
+                "concept_percentile": "100"
+            },
+            "6634": {
+                "concept_text": "Bone metastases causes hypercalcaemia",
+                "concept_percentile": "5"
+            },
+            "6635": {
+                "concept_text": "Myeloma causes hypercalcaemia",
+                "concept_percentile": "32"
+            },
+            "6636": {
+                "concept_text": "Squamous cell lung cancer causes hypercalcaemia",
+                "concept_percentile": "29"
+            },
+            "6637": {
+                "concept_text": "Primary hyperparathyroidism causes hypercalcaemia",
+                "concept_percentile": "43"
+            },
+            "6638": {
+                "concept_text": "Sarcoidosis causes hypercalcaemia",
+                "concept_percentile": "33"
+            },
+            "6639": {
+                "concept_text": "Vitamin D intoxication causes hypercalcaemia",
+                "concept_percentile": "37"
+            },
+            "6640": {
+                "concept_text": "Acromegaly causes hypercalcaemia",
+                "concept_percentile": "14"
+            },
+            "6641": {
+                "concept_text": "Thyrotoxicosis causes hypercalcaemia",
+                "concept_percentile": "30"
+            },
+            "6642": {
+                "concept_text": "Milk-alkali syndrome causes hypercalcaemia",
+                "concept_percentile": "1"
+            },
+            "6643": {
+                "concept_text": "Dehydration causes hypercalcaemia",
+                "concept_percentile": "26"
+            },
+            "6644": {
+                "concept_text": "Addison's disease causes hypercalcaemia",
+                "concept_percentile": "28"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1866",
+        "new_question_id": "10896",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "922",
+        "notes_id_link": "1_915",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Stop ramipril and start amlodipine",
+            "Stop ramipril and start losartan",
+            "Stop ramipril and start indapamide",
+            "Stop ramipril and start lisinopril",
+            "Reassure him that the cough is unlikely to be related to ramipril given the time of onset",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 53-year-old man is reviewed in clinic. Two months ago he was started on ramipril after being diagnosed with stage 2 hypertension following ambulatory blood pressure monitoring. His clinic readings had decreased from 164/96 mmHg to 142/84 mmHg. Unfortunately he has developed a troublesome, dry cough over the past 4 weeks. What is the most appropriate course of action?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Stop ramipril and start losartan</b>. Ramipril is an angiotensin-converting enzyme (ACE) inhibitor, which can cause a dry cough in some patients due to the accumulation of bradykinin. This side effect usually occurs within the first few weeks of treatment. Losartan, an angiotensin II receptor blocker (ARB), is a suitable alternative for patients who experience this side effect from ACE inhibitors, as it does not affect bradykinin levels and has a similar antihypertensive efficacy.<br /><br /><b>Stop ramipril and start amlodipine</b> would not be the most appropriate choice in this case. Although amlodipine, a calcium channel blocker, is effective in treating hypertension, it may not provide the same level of renoprotection as an ARB like losartan. Additionally, switching to another class of antihypertensive medication could potentially lead to different side effects or less optimal blood pressure control.<br /><br /><b>Stop ramipril and start indapamide</b> is also not the best option. Indapamide is a thiazide-like diuretic that can be used to treat hypertension; however, it does not offer the same renoprotective benefits as ARBs or ACE inhibitors. Furthermore, diuretics may have other side effects such as electrolyte disturbances that make them less desirable as first-line agents in certain patients.<br /><br /><b>Stop ramipril and start lisinopril</b> would not address the problem since lisinopril is also an ACE inhibitor and thus carries the same risk of causing a dry cough due to bradykinin accumulation.<br /><br />Lastly, <b>Reassure him that the cough is unlikely to be related to ramipril given the time of onset</b> would be incorrect because although the cough started four weeks after initiating ramipril, it is still within the typical timeframe for this side effect to occur. It would be inappropriate to dismiss the patient's concerns without considering a change in medication to alleviate this bothersome side effect.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 53-year-old man is reviewed in clinic. Two months ago he was started on ramipril after being diagnosed with stage 2 hypertension following ambulatory blood pressure monitoring. His clinic readings had decreased from 164/96 mmHg to 142/84 mmHg. Unfortunately he has developed a troublesome, dry cough over the past 4 weeks. What is the most appropriate course of action?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Stop ramipril and start losartan</b>. Ramipril is an angiotensin-converting enzyme (ACE) inhibitor, which can cause a dry cough in some patients due to the accumulation of bradykinin. This side effect usually occurs within the first few weeks of treatment. Losartan, an angiotensin II receptor blocker (ARB), is a suitable alternative for patients who experience this side effect from ACE inhibitors, as it does not affect bradykinin levels and has a similar antihypertensive efficacy.<br /><br /><b>Stop ramipril and start amlodipine</b> would not be the most appropriate choice in this case. Although amlodipine, a calcium channel blocker, is effective in treating hypertension, it may not provide the same level of renoprotection as an ARB like losartan. Additionally, switching to another class of antihypertensive medication could potentially lead to different side effects or less optimal blood pressure control.<br /><br /><b>Stop ramipril and start indapamide</b> is also not the best option. Indapamide is a thiazide-like diuretic that can be used to treat hypertension; however, it does not offer the same renoprotective benefits as ARBs or ACE inhibitors. Furthermore, diuretics may have other side effects such as electrolyte disturbances that make them less desirable as first-line agents in certain patients.<br /><br /><b>Stop ramipril and start lisinopril</b> would not address the problem since lisinopril is also an ACE inhibitor and thus carries the same risk of causing a dry cough due to bradykinin accumulation.<br /><br />Lastly, <b>Reassure him that the cough is unlikely to be related to ramipril given the time of onset</b> would be incorrect because although the cough started four weeks after initiating ramipril, it is still within the typical timeframe for this side effect to occur. It would be inappropriate to dismiss the patient's concerns without considering a change in medication to alleviate this bothersome side effect.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hypertension: management",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. Some of the key changes include:<br /><ul><li>lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%</li><li>angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated</li><li>if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a calcium channel blocker OR a thiazide-like diuretic can be used. Previously only a calcium channel blocker was recommended</li></ul><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocates.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6674\">140/90 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span></td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6676\">160/100 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span></td></tr><tr><td><b>Severe hypertension</b></td><td><span class=\"concept\" data-cid=\"6673\">Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</span></td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><h5 class='notes-heading'>Managing hypertension</h5><br />Lifestyle advice should not be forgotten and is frequently tested in exams:<br /><ul><li><span class=\"concept\" data-cid=\"10294\">a low salt diet is recommended, aiming for less than 6g/day</span>, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg</li><li>caffeine intake should be reduced</li><li>the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span> (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span> (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br />For patients < 40 years consider specialist referral to exclude secondary causes.<br /><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div><br /><br />Step 1 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6670\">patients < 55-years-old</span> or a background of <span class=\"concept\" data-cid=\"9851\">type 2 diabetes mellitus</span>: <b>A</b>CE inhibitor or a <b>A</b>ngiotensin receptor blocker (<b>A</b>CE-i or <b>A</b>RB): <b>(A)</b><ul><li><span class=\"concept\" data-cid=\"922\">angiotensin receptor blockers should be used where ACE inhibitors are not tolerated (e.g. due to a cough)</span></li></ul></li><li><span class=\"concept\" data-cid=\"6671\">patients >= 55-years-old</span> or of <span class=\"concept\" data-cid=\"6672\">black African or African-Caribbean origin</span>: <b>C</b>alcium channel blocker <b>(C)</b><ul><li><span class=\"concept\" data-cid=\"916\">ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line</span></li></ul></li></ul><br />Step 2 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6682\">if already taking an <b>A</b>CE-i or <b>A</b>RB add a <b>C</b>alcium channel blocker or a thiazide-like <b>D</b>iuretic</span></li><li><span class=\"concept\" data-cid=\"9850\">if already taking a <b>C</b>alcium channel blocker add an <b>A</b>CE-i or <b>A</b>RB or a thiazide-like <b>D</b>iuretic</span><ul><li><span class=\"concept\" data-cid=\"1386\">for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor</span></li></ul></li><li><b>(A + C) or (A + D)</b> or <b>(C + A) or (C + D)</b> </li></ul><br />Step 3 treatment<br /><ul><li>add a third drug to make, i.e.:<ul><li><span class=\"concept\" data-cid=\"6683\">if already taking an <b>(A + C)</b> then add a <b>D</b></span></li><li><span class=\"concept\" data-cid=\"9849\">if already <b>(A + D)</b> then add a <b>C</b></span></li></ul></li><li><b>(A + C + D)</b> </li></ul><br />Step 4 treatment<br /><ul><li>NICE define step 4 as resistant hypertension and suggest either adding a 4<sup>th</sup> drug (as below) or seeking specialist advice</li><li>first, check for:<ul><li>confirm elevated clinic BP with ABPM or HBPM</li><li>assess for postural hypotension.</li><li>discuss adherence</li></ul></li><li><span class=\"concept\" data-cid=\"6684\">if potassium < 4.5 mmol/l add low-dose spironolactone</span></li><li><span class=\"concept\" data-cid=\"6685\">if potassium > 4.5 mmol/l add an alpha- or beta-blocker</span></li></ul><br />Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:<br /><div class='bs-callout bs-callout-default'><i><i><br />If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained. <br /></i></i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Blood pressure targets</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td><span class=\"concept\" data-cid=\"6678\">140/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6680\">135/85 mmHg</span></td></tr><tr><td><b>Age > 80 years</b></td><td><span class=\"concept\" data-cid=\"6679\">150/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6681\">145/85 mmHg</span></td></tr></tbody></table></div>",
+        "notes_hash": "95248e6fb11c2374837320c9bd891a27",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+        "concept_percentile": "32",
+        "concept_colour": "rgb(255,163,0)",
+        "number_attempts": "7189",
+        "up_votes": "16",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "781",
+            "6147",
+            "75",
+            "112",
+            "74",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_978\" data-linkid=\"978\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_978\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">134</span><button type=\"button\" style=\"\" id=\"link_dislike_978\" data-linkid=\"978\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_978\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">121</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2429\" data-mediaid=\"2429\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2429\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2429\" data-mediaid=\"2429\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2429\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "922": {
+                "concept_text": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+                "concept_percentile": "32"
+            },
+            "1386": {
+                "concept_text": "For patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor",
+                "concept_percentile": "73"
+            },
+            "6670": {
+                "concept_text": "Newly diagnosed patient with hypertension (< 55 years) - add an ACE inhibitor or an angiotensin receptor blocker",
+                "concept_percentile": "43"
+            },
+            "6671": {
+                "concept_text": "Newly diagnosed patient with hypertension (> 55 years) - add a calcium channel blocker",
+                "concept_percentile": "21"
+            },
+            "6672": {
+                "concept_text": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+                "concept_percentile": "37"
+            },
+            "6673": {
+                "concept_text": "Criteria for considering immediate treatment based on a clinic reading - 180/120 mmHg",
+                "concept_percentile": "16"
+            },
+            "6674": {
+                "concept_text": "Definition of stage 1 hypertension (Clinic reading) - 140/90 mmHg",
+                "concept_percentile": "46"
+            },
+            "6675": {
+                "concept_text": "Definition of stage 1 hypertension (ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "19"
+            },
+            "6676": {
+                "concept_text": "Definition of stage 2 hypertension (Clinic reading) - 160/100 mmHg",
+                "concept_percentile": "34"
+            },
+            "6677": {
+                "concept_text": "Definition of stage 2 hypertension (ABPM/HBPM) - 150/95 mmHg",
+                "concept_percentile": "21"
+            },
+            "6678": {
+                "concept_text": "Blood pressure target (< 80 years, clinic reading) - 140/90 mmHg",
+                "concept_percentile": "26"
+            },
+            "6679": {
+                "concept_text": "Blood pressure target (> 80 years, clinic reading) - 150/90 mmHg",
+                "concept_percentile": "24"
+            },
+            "6680": {
+                "concept_text": "Blood pressure target (< 80 years, ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "23"
+            },
+            "6681": {
+                "concept_text": "Blood pressure target (> 80 years, ABPM/HBPM) - 145/85 mmHg",
+                "concept_percentile": "26"
+            },
+            "6682": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor - add a calcium channel blocker or a thiazide-like diuretic",
+                "concept_percentile": "47"
+            },
+            "6683": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+                "concept_percentile": "52"
+            },
+            "6684": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a thiazide diuretic. K+ < 4.5mmol/l - add spironolactone",
+                "concept_percentile": "56"
+            },
+            "6685": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a standard-dose thiazide diuretic. K+ > 4.5mmol/l - add an alpha- or beta-blocker",
+                "concept_percentile": "60"
+            },
+            "9849": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a thiazide diuretic - add a calcium channel blocker",
+                "concept_percentile": "24"
+            },
+            "9850": {
+                "concept_text": "Poorly controlled hypertension, already taking a calcium channel blocker - add an ACE inhibitor or an angiotensin receptor blocker or a thiazide-like diuretic",
+                "concept_percentile": "46"
+            },
+            "9851": {
+                "concept_text": "Newly diagnosed patient with hypertension who has a background of type 2 diabetes mellitus - add an ACE inhibitor or an angiotensin receptor blocker regardless of age",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9439",
+        "new_question_id": "4714",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1796",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Lumbar spine x-ray",
+            "Arrange physiotherapy",
+            "Refer for duplex scan",
+            "Refer for MRI",
+            "Perform a myeloma screen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 75-year-old man presents with lower back pain that comes on when he walks. After taking a full history and completing a neurological and vascular examination which is normal a diagnosis of spinal stenosis is suspected. After prescribing analgesia, what is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This presentation requires a MRI to confirm the diagnosis of spinal stenosis and exclude other causes such as metastatic disease.<br /><br />The history of lower back pain which is worse on walking is very characteristic of spinal stenosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 75-year-old man presents with lower back pain that comes on when he walks. After taking a full history and completing a neurological and vascular examination which is normal a diagnosis of spinal stenosis is suspected. After prescribing analgesia, what is the most appropriate next step?",
+        "correct_answer": "4",
+        "question_notes": "This presentation requires a MRI to confirm the diagnosis of spinal stenosis and exclude other causes such as metastatic disease.<br /><br />The history of lower back pain which is worse on walking is very characteristic of spinal stenosis.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Lower back pain",
+        "body": "Lower back pain (LBP) is one of the most common presentations seen in practice. Whilst the majority of presentations will be of a non-specific muscular nature it is worth keeping in mind possible causes which may need specific treatment. <br /><br />Red flags for lower back pain<br /><ul><li>age < 20 years or > 50 years</li><li>history of previous malignancy</li><li>night pain</li><li>history of trauma</li><li>systemically unwell e.g. weight loss, fever</li></ul><br />The table below indicates some specific causes of LBP:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Facet joint</b></th><th>May be acute or chronic<br />Pain worse in the morning and on standing<br />On examination there may be pain over the facets. The pain is typically worse on extension of the back</th></tr></thead><tbody><tr><td><b>Spinal stenosis</b></td><td>Usually gradual onset<br />Unilateral or bilateral leg pain (with or without back pain), numbness, and weakness which is worse on walking. Resolves when sits down. Pain may be described as 'aching', 'crawling'.<br />Relieved by sitting down, leaning forwards and crouching down<br />Clinical examination is often normal<br />Requires MRI to confirm diagnosis</td></tr><tr><td><b>Ankylosing spondylitis</b></td><td>Typically a young man who presents with lower back pain and stiffness<br />Stiffness is usually worse in morning and improves with activity<br />Peripheral arthritis (25%, more common if female)</td></tr><tr><td><b>Peripheral arterial disease</b></td><td>Pain on walking, relieved by rest<br />Absent or weak foot pulses and other signs of limb ischaemia<br />Past history may include smoking and other vascular diseases</td></tr></tbody></table></div>",
+        "notes_hash": "39f58dc7b5285cf29db1dcd28548598d",
+        "knowledge_graph_node_id_link": 10192,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4889",
+        "up_votes": "24",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "393",
+            "1083",
+            "35",
+            "3283",
+            "95",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1471\" data-linkid=\"1471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1471\" data-linkid=\"1471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng59/chapter/Recommendations\">2016 Low back pain guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1517",
+        "new_question_id": "49617",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "2420",
+        "notes_id_link": "1_2642",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute angle closure glaucoma",
+            "Corneal ulcer",
+            "Episcleritis",
+            "Scleritis",
+            "Uveitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man presents to the eye casualty department with redness of the left eye that has come on over the past couple of days. He denies any pain or visual disturbance, although states that the eye feels 'gritty'. He has no significant past medical history.<br /><br />On examination, segmental redness is present in the lateral aspect of the left eye. Visual acuity is 6/6 in both eyes. Visual field testing is normal bilaterally. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The most likely cause here is <b>episcleritis</b>. This is the acute onset of inflammation in the episclera and is almost always idiopathic. It is unilateral in approximately 50% of cases. In contrast with the other conditions listed here, episcleritis is not typically painful, although is often described as feeling 'sore' or 'gritty'. The redness often appears in a focal or segmental pattern, rather than widespread redness of the entire eye. The condition is generally self-limiting.<br /><br /><b>Acute angle closure glaucoma</b> is incorrect. This would present with a painful, rather than painless, red eye, and a reduction in visual acuity. The conjunctiva would be diffusely red and the pupil would be fixed and semi-dilated.<br /><br /><b>Corneal ulcer</b> is incorrect. This often presents with pain and a reduction in visual acuity. It is a sight-threatening condition and requires immediate management.<br /><br /> <b>Scleritis</b> is incorrect. This presents similarly to episcleritis, although scleritis is classically painful and the eye would appear more diffusely red, rather than being restricted to a segment. It is potentially sight-threatening.<br /><br /><b>Uveitis</b> typically presents with pain, making it unlikely in this scenario. It may also present with an irregular pupil and ciliary injection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man presents to the eye casualty department with redness of the left eye that has come on over the past couple of days. He denies any pain or visual disturbance, although states that the eye feels 'gritty'. He has no significant past medical history.<br /><br />On examination, segmental redness is present in the lateral aspect of the left eye. Visual acuity is 6/6 in both eyes. Visual field testing is normal bilaterally. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "The most likely cause here is <b>episcleritis</b>. This is the acute onset of inflammation in the episclera and is almost always idiopathic. It is unilateral in approximately 50% of cases. In contrast with the other conditions listed here, episcleritis is not typically painful, although is often described as feeling 'sore' or 'gritty'. The redness often appears in a focal or segmental pattern, rather than widespread redness of the entire eye. The condition is generally self-limiting.<br /><br /><b>Acute angle closure glaucoma</b> is incorrect. This would present with a painful, rather than painless, red eye, and a reduction in visual acuity. The conjunctiva would be diffusely red and the pupil would be fixed and semi-dilated.<br /><br /><b>Corneal ulcer</b> is incorrect. This often presents with pain and a reduction in visual acuity. It is a sight-threatening condition and requires immediate management.<br /><br /> <b>Scleritis</b> is incorrect. This presents similarly to episcleritis, although scleritis is classically painful and the eye would appear more diffusely red, rather than being restricted to a segment. It is potentially sight-threatening.<br /><br /><b>Uveitis</b> typically presents with pain, making it unlikely in this scenario. It may also present with an irregular pupil and ciliary injection.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Episcleritis",
+        "body": "Episcleritis is describes the acute onset of inflammation in the episclera of one or both eyes.<br /><br />The majority of cases are idiopathic, associated conditions include:<br /><ul><li>inflammatory bowel disease</li><li>rheumatoid arthritis</li></ul><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"4738\">red eye</span></li><li><span class=\"concept\" data-cid=\"2420\">classically not painful</span> (in comparison to scleritis), but mild pain/irritation is common</li><li>watering and mild photophobia may be present</li><li>in episcleritis, the <span class=\"concept\" data-cid=\"10698\">injected vessels are mobile when gentle pressure is applied on the sclera</span><ul><li>in scleritis, vessels are deeper, hence do not move</li></ul></li><li><span class=\"concept\" data-cid=\"5436\">phenylephrine drops</span> may be used to differentiate between episcleritis and scleritis<ul><li>phenylephrine blanches the conjunctival and episcleral vessels but not the scleral vessels</li><li>if the eye redness improves after phenylephrine a diagnosis of episcleritis can be made</li></ul></li><li>approximately 50% of cases are bilateral</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd574b.jpg\" data-fancybox=\"gallery\" data-caption=\"Episcleritis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd574.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd575b.jpg\" data-fancybox=\"gallery\" data-caption=\"Episcleritis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd575.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"4739\">conservative</span></li><li>artificial tears may sometimes be used</li></ul>",
+        "notes_hash": "a5946ae8f35c471476225d22b0a7a2fb",
+        "knowledge_graph_node_id_link": 1132,
+        "concept": "Episcleritis is a cause of red eye which is classically not painful",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "3972",
+        "up_votes": "12",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "25",
+            "473",
+            "3164",
+            "202",
+            "108",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2420": {
+                "concept_text": "Episcleritis is a cause of red eye which is classically not painful",
+                "concept_percentile": "52"
+            },
+            "5436": {
+                "concept_text": "Phenylephrine drops can be used to distinguish between episcleritis and scleritis",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_725",
+        "new_question_id": "1270",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1100",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Internuclear ophthalmoplegia",
+            "Bilateral third nerve palsy",
+            "Horner's syndrome",
+            "Holmes-Adie syndrome",
+            "Argyll-Robertson pupil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 42-year-old man is diagnosed with syphilis following months of ill health. On examination he is noted to have bilateral small pupils which accommodate but do not respond to light. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Argyll-Robertson pupil</b>. This is a condition typically associated with neurosyphilis, a tertiary form of syphilis caused by the spirochete <i>Treponema pallidum</i>. In this condition, the pupils are small and irregular in shape. They accommodate (constrict when focusing on near objects) but do not react to direct light, a phenomenon known as 'light-near dissociation'. This occurs due to damage to the pretectal nuclei in the midbrain that control pupillary light reflex.<br /><br /><b>Internuclear ophthalmoplegia</b> is incorrect. It is a disorder characterised by paresis or paralysis of the eye adduction during horizontal gaze due to a lesion of the medial longitudinal fasciculus. The affected individual will have difficulty moving their eye inwards towards the nose but normal or nearly normal abduction on lateral gaze. There would be no changes in pupillary size or reaction.<br /><br /><b>Bilateral third nerve palsy</b> is also incorrect. A lesion affecting cranial nerve III (oculomotor nerve) can cause drooping of the eyelid (ptosis), dilated pupil that does not respond well to light or accommodation, and deviation of the eyeball downwards and outwards. However, it does not cause small pupils that accommodate but do not respond to light.<br /><br />The diagnosis is not <b>Horner's syndrome</b>, which presents with ptosis (drooping eyelid), miosis (small pupil), anhidrosis (lack of sweating) on one side of the face - these are collectively known as Horner's triad. It results from disruption of sympathetic innervation to the face and eye, but it doesn't affect pupillary response to light.<br /><br />Finally, <b>Holmes-Adie syndrome</b> is also incorrect. This condition presents with one or both pupils being large and having slow or absent reactions to light but a normal or near-normal reaction to accommodation - this is known as 'light-near dissociation'. However, unlike Argyll-Robertson pupils which are typically small, Holmes-Adie pupils are usually larger than normal.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 42-year-old man is diagnosed with syphilis following months of ill health. On examination he is noted to have bilateral small pupils which accommodate but do not respond to light. What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Argyll-Robertson pupil</b>. This is a condition typically associated with neurosyphilis, a tertiary form of syphilis caused by the spirochete <i>Treponema pallidum</i>. In this condition, the pupils are small and irregular in shape. They accommodate (constrict when focusing on near objects) but do not react to direct light, a phenomenon known as 'light-near dissociation'. This occurs due to damage to the pretectal nuclei in the midbrain that control pupillary light reflex.<br /><br /><b>Internuclear ophthalmoplegia</b> is incorrect. It is a disorder characterised by paresis or paralysis of the eye adduction during horizontal gaze due to a lesion of the medial longitudinal fasciculus. The affected individual will have difficulty moving their eye inwards towards the nose but normal or nearly normal abduction on lateral gaze. There would be no changes in pupillary size or reaction.<br /><br /><b>Bilateral third nerve palsy</b> is also incorrect. A lesion affecting cranial nerve III (oculomotor nerve) can cause drooping of the eyelid (ptosis), dilated pupil that does not respond well to light or accommodation, and deviation of the eyeball downwards and outwards. However, it does not cause small pupils that accommodate but do not respond to light.<br /><br />The diagnosis is not <b>Horner's syndrome</b>, which presents with ptosis (drooping eyelid), miosis (small pupil), anhidrosis (lack of sweating) on one side of the face - these are collectively known as Horner's triad. It results from disruption of sympathetic innervation to the face and eye, but it doesn't affect pupillary response to light.<br /><br />Finally, <b>Holmes-Adie syndrome</b> is also incorrect. This condition presents with one or both pupils being large and having slow or absent reactions to light but a normal or near-normal reaction to accommodation - this is known as 'light-near dissociation'. However, unlike Argyll-Robertson pupils which are typically small, Holmes-Adie pupils are usually larger than normal.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Argyll-Robertson pupil",
+        "body": "Argyll-Robertson pupil is one of the classic pupillary syndrome. It is sometimes seen in neurosyphilis. A mnemonic used for the Argyll-Robertson Pupil (ARP) is Accommodation Reflex Present (ARP) but Pupillary Reflex Absent (PRA)<br /><br />Features<br /><ul><li>small, irregular pupils</li><li>no response to light but there is a response to accommodate</li></ul><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"4073\">diabetes mellitus</span></li><li><span class=\"concept\" data-cid=\"6106\">syphilis</span></li></ul>",
+        "notes_hash": "64f084e750b81cd621749c45ad26a2e8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4768",
+        "up_votes": "27",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "148",
+            "92",
+            "131",
+            "538",
+            "3859",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Stanford Medicine</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_62\" data-linkid=\"62\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_62\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_62\" data-linkid=\"62\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_62\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://stanfordmedicine25.stanford.edu/the25/pupillary.html\">Pupillary Control: The Basics</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4073": {
+                "concept_text": "Diabetes is now the most common cause of Argyll-Robertson pupil in the UK because neurosyphilis is now rarely seen",
+                "concept_percentile": "75"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4370_B_17",
+        "new_question_id": "12402",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "1568",
+        "notes_id_link": "1_1430",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "1-9 months",
+            "Newborn baby",
+            "6 months - 3 years",
+            "8 years",
+            "12 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are teaching a session on common causes of respiratory infections to a group of medical students. Whilst discussing croup, one student asks at what age it would most likely be diagnosed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Croup is an infection typically caused by the parainfluenza virus. It classically affects those age 6 months to 3 years.<br /><br />Bronchiolitis is an infection typically caused by the respiratory syncytial virus. It classically affects those between one and nine months old.<br /><br />Neonatal respiratory distress can occur as a result of prematurity.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are teaching a session on common causes of respiratory infections to a group of medical students. Whilst discussing croup, one student asks at what age it would most likely be diagnosed?",
+        "correct_answer": "3",
+        "question_notes": "Croup is an infection typically caused by the parainfluenza virus. It classically affects those age 6 months to 3 years.<br /><br />Bronchiolitis is an infection typically caused by the respiratory syncytial virus. It classically affects those between one and nine months old.<br /><br />Neonatal respiratory distress can occur as a result of prematurity.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Croup",
+        "body": "Croup is a form of upper respiratory tract infection seen in infants and toddlers. It is characterised by stridor which is caused by a combination of laryngeal oedema and secretions. <span class=\"concept\" data-cid=\"1277\">Parainfluenza viruses</span> account for the majority of cases.<br /><br />Epidemiology<br /><ul><li>peak incidence at <span class=\"concept\" data-cid=\"1568\">6 months - 3 years</span></li><li>more common in <span class=\"concept\" data-cid=\"2940\">autumn</span></li></ul><br />Features<br /><ul><li>cough<ul><li>barking, seal-like</li><li>worse at night</li></ul></li><li>stridor<ul><li><span class=\"concept\" data-cid=\"2886\">remember, the throat should be not examined due to the risk of precipitating airway obstruction</span></li></ul></li><li>fever</li><li>coryzal symptoms</li><li>increased work of breathing e.g. retraction</li></ul><br />Severity grading:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Mild</b></th><th><b>Moderate</b></th><th><b>Severe</b></th></tr></thead><tbody><tr><td><br /><ul><li>Occasional barking cough</li><li>No audible stridor at rest</li><li>No or mild suprasternal and/or intercostal recession</li><li>The child is happy and is prepared to eat, drink, and play</td><td></li></ul><br /><ul><li>Frequent barking cough </li><li>Easily <span class=\"concept\" data-cid=\"11391\">audible stridor at rest</span></li><li>Suprasternal and sternal wall retraction at rest</li><li>No or little distress or agitation</li><li>The child can be placated and is interested in its surroundings</td><td></li></ul><br /><ul><li>Frequent barking cough</li><li>Prominent inspiratory (and occasionally, expiratory) stridor at rest</li><li>Marked sternal wall retractions</li><li>Significant distress and agitation, or lethargy or restlessness (a sign of hypoxaemia)</li><li>Tachycardia occurs with more severe obstructive symptoms and hypoxaemia</td></tr></tbody></table></div></li></ul><br />NICE suggest admitting any child with:<br /><ul><li>moderate or severe croup</li><li>< 3 months of age</li><li>known upper airway abnormalities (e.g. Laryngomalacia, Down's syndrome)</li><li>uncertainty about diagnosis (important differentials include acute epiglottitis, bacterial tracheitis, peritonsillar abscess and foreign body inhalation)</li></ul><br />Investigations<br /><ul><li>the vast majority of children are diagnosed clinically</li><li>however, if a chest x-ray is done:<ul><li>a posterior-anterior view will show subglottic narrowing, commonly called the '<span class=\"concept\" data-cid=\"10735\">steeple sign</span>'</li><li>in contrast, a lateral view in acute epiglottis will show swelling of the epiglottis - the 'thumb sign'</li></ul></li></ul><br />Management<br /><ul><li>NICE recommend giving a <span class=\"concept\" data-cid=\"1459\">single dose of oral dexamethasone (0.15mg/kg) to all children regardless of severity</span></li><li><span class=\"concept\" data-cid=\"1156\">prednisolone</span> is an alternative if dexamethasone is not available</li></ul><br />Emergency treatment<br /><ul><li>high-flow oxygen</li><li>nebulised adrenaline</li></ul>",
+        "notes_hash": "e3143ad23c84bb71b0c239a303c5edab",
+        "knowledge_graph_node_id_link": 1082,
+        "concept": "Whereas the peak incidence of croup is 6 months -3 years, bronchiolitis is seen in 1-9 month olds",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "5660",
+        "up_votes": "34",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "482",
+            "18",
+            "5090",
+            "58",
+            "12",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EAWjRXNBudY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\">Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1471\" data-mediaid=\"1471\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1471\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1471\" data-mediaid=\"1471\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1471\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TOwtv_q8DUo\" data-description=\"Croup: Presentation, Management and Mnemonics\" data-upvotes=\"13\" data-downvotes=\"1\" data-media=\"1398\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TOwtv_q8DUo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TOwtv_q8DUo\" data-description=\"Croup: Presentation, Management and Mnemonics\" data-upvotes=\"13\" data-downvotes=\"1\" data-media=\"1398\">Croup: Presentation, Management and Mnemonics</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2463\" data-mediaid=\"2463\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2463\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_2463\" data-mediaid=\"2463\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2463\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8TBKMn0I9Tk\" data-description=\"Croup (larynotracheobronchitis)\" data-upvotes=\"23\" data-downvotes=\"2\" data-media=\"908\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8TBKMn0I9Tk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8TBKMn0I9Tk\" data-description=\"Croup (larynotracheobronchitis)\" data-upvotes=\"23\" data-downvotes=\"2\" data-media=\"908\">Croup (larynotracheobronchitis)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1578\" data-mediaid=\"1578\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1578\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"media_dislike_1578\" data-mediaid=\"1578\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1578\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"171\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gYhGIFQcCnU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"171\">Stridor - audio</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_299\" data-mediaid=\"299\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_299\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_299\" data-mediaid=\"299\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_299\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "1277": {
+                "concept_text": "Parainfluenza virus accounts for the majority of cases of croup",
+                "concept_percentile": "56"
+            },
+            "1459": {
+                "concept_text": "Croup - A single dose of oral dexamethasone (0.15 mg/kg) is to be taken immediately regardless of severity",
+                "concept_percentile": "88"
+            },
+            "1568": {
+                "concept_text": "Whereas the peak incidence of croup is 6 months -3 years, bronchiolitis is seen in 1-9 month olds",
+                "concept_percentile": "81"
+            },
+            "11391": {
+                "concept_text": "Croup: audible stridor at rest is an indication for admission",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "25698_B_82",
+        "new_question_id": "42996",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "464",
+        "notes_id_link": "1_1849",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Bone marrow density scan",
+            "CT chest",
+            "Echocardiogram",
+            "Liver ultrasound scan",
+            "Oral glucose tolerance test",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old woman attends the breast cancer clinic.<br /><br />She has undergone wide local excision of a right-sided grade 2 HER2 positive breast tumour. The decision is made to commence adjuvant trastuzumab (Herceptin).<br /><br />What investigation is required before commencing this drug?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Echocardiogram</b> is correct. An important major side effect of trastuzumab (Herceptin) is cardiomyopathy. Therefore patients prescribed trastuzumab require monitoring of left ventricular ejection fraction through serial echocardiograms before and during treatment. <br /><br /><b>Bone marrow density scan</b> is incorrect. This would be required if the drug was likely to increase the risk of osteoporosis. However, this is not a side effect of trastuzumab (Herceptin). Osteoporosis is a side effect of letrozole which is a therapy for ER-positive breast cancer in postmenopausal women. <br /><br /><b>CT chest</b> is incorrect. It is not a recommended investigation prior to commencing trastuzumab (Herceptin). This would also expose the patient to unnecessary radiation. <br /><br /><b>Liver ultrasound scan</b> is incorrect. Liver dysfunction is rare with trastuzumab (Herceptin). Patients would likely undergo live function tests before commencing trastuzumab but there is no need to conduct a liver ultrasound. <br /><br /><b>Oral glucose tolerance test</b> is incorrect. Trastuzumab is not known to cause abnormalities in glucose metabolism. If this patient was being commenced on steroids it would be important to consider monitoring their blood sugar levels.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old woman attends the breast cancer clinic.<br /><br />She has undergone wide local excision of a right-sided grade 2 HER2 positive breast tumour. The decision is made to commence adjuvant trastuzumab (Herceptin).<br /><br />What investigation is required before commencing this drug?",
+        "correct_answer": "3",
+        "question_notes": "<b>Echocardiogram</b> is correct. An important major side effect of trastuzumab (Herceptin) is cardiomyopathy. Therefore patients prescribed trastuzumab require monitoring of left ventricular ejection fraction through serial echocardiograms before and during treatment. <br /><br /><b>Bone marrow density scan</b> is incorrect. This would be required if the drug was likely to increase the risk of osteoporosis. However, this is not a side effect of trastuzumab (Herceptin). Osteoporosis is a side effect of letrozole which is a therapy for ER-positive breast cancer in postmenopausal women. <br /><br /><b>CT chest</b> is incorrect. It is not a recommended investigation prior to commencing trastuzumab (Herceptin). This would also expose the patient to unnecessary radiation. <br /><br /><b>Liver ultrasound scan</b> is incorrect. Liver dysfunction is rare with trastuzumab (Herceptin). Patients would likely undergo live function tests before commencing trastuzumab but there is no need to conduct a liver ultrasound. <br /><br /><b>Oral glucose tolerance test</b> is incorrect. Trastuzumab is not known to cause abnormalities in glucose metabolism. If this patient was being commenced on steroids it would be important to consider monitoring their blood sugar levels.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Trastuzumab",
+        "body": "Trastuzumab (Herceptin) is a <span class=\"concept\" data-cid=\"463\">monoclonal antibody directed against the HER2/neu receptor</span>. It is used mainly in metastatic breast cancer although some patients with early disease are now also given trastuzumab.<br /><br />Adverse effects<br /><ul><li>flu-like symptoms and diarrhoea are common</li><li><span class=\"concept\" data-cid=\"464\">cardiotoxicity</span><ul><li>more <span class=\"concept\" data-cid=\"10880\">common when anthracyclines have also been used</span></li><li>an echo is usually performed before starting treatment</li></ul></li></ul>",
+        "notes_hash": "20c85798b5cf2f2d796d7d74375f801d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Trastuzumab (Herceptin) - cardiac toxicity is common",
+        "concept_percentile": "30",
+        "concept_colour": "rgb(255,153,0)",
+        "number_attempts": "4304",
+        "up_votes": "22",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "1371",
+            "471",
+            "1706",
+            "589",
+            "167",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Biologics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_167\" data-linkid=\"167\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_167\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"link_dislike_167\" data-linkid=\"167\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_167\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721347/\">Trastuzumab in the management of early and advanced stage breast cancer</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "463": {
+                "concept_text": "Trastuzumab (Herceptin) - monoclonal antibody that acts on the HER2/neu receptor",
+                "concept_percentile": "8"
+            },
+            "464": {
+                "concept_text": "Trastuzumab (Herceptin) - cardiac toxicity is common",
+                "concept_percentile": "30"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_243",
+        "new_question_id": "7524",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2541",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "High calcium diet",
+            "High protein diet",
+            "Low potassium diet",
+            "Low starch diet",
+            "High phosphorus diet",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man with chronic kidney failure has been advised by his nephrologist that he needs to follow a 'renal diet'. He comes to see you to learn more about this. <br /><br />Which one of the following is usually advised to patients with chronic kidney disease?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is a <b>low potassium diet</b>. Patients with chronic kidney disease (CKD) often have difficulty excreting potassium due to reduced kidney function. A build-up of potassium in the blood can lead to hyperkalemia, which can cause serious complications such as abnormal heart rhythms and even cardiac arrest. Therefore, it is important for patients with CKD to follow a low potassium diet to help maintain normal potassium levels.<br /><br />A <b>high calcium diet</b> is not typically recommended for patients with CKD. In fact, these patients may need to limit their calcium intake due to an increased risk of developing hypercalcemia and vascular calcification. In advanced stages of CKD, the kidneys struggle to convert vitamin D into its active form, leading to decreased calcium absorption and secondary hyperparathyroidism. This can result in high serum phosphate levels which contribute to vascular calcification. Therefore, a balance of calcium intake needs to be maintained in CKD patients.<br /><br />A <b>high protein diet</b> is also not advised for patients with CKD. High protein intake can put additional strain on already compromised kidneys by increasing the production of nitrogenous waste products such as urea and creatinine. Instead, a moderate protein intake tailored to the individual's needs is usually recommended for those with CKD.<br /><br />A <b>low starch diet</b> might be beneficial for some individuals, especially those with diabetes or obesity; however, it is not specific advice given solely based on having chronic kidney disease. Patients with CKD should focus on maintaining a balanced diet that meets their nutritional needs while avoiding excessive intake of certain nutrients like potassium and phosphorus.<br /><br />Lastly, a <b>high phosphorus diet</b> is not recommended for patients with CKD either. Similar to the issue with excess calcium intake, high phosphorus levels can contribute to vascular calcification and bone disease. Patients with CKD are often advised to limit their phosphorus intake by avoiding high-phosphorus foods such as dairy products, nuts, and certain processed foods. In some cases, they may also require phosphate binders to help reduce the absorption of phosphorus from their diet.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man with chronic kidney failure has been advised by his nephrologist that he needs to follow a 'renal diet'. He comes to see you to learn more about this. <br /><br />Which one of the following is usually advised to patients with chronic kidney disease?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer in this case is a <b>low potassium diet</b>. Patients with chronic kidney disease (CKD) often have difficulty excreting potassium due to reduced kidney function. A build-up of potassium in the blood can lead to hyperkalemia, which can cause serious complications such as abnormal heart rhythms and even cardiac arrest. Therefore, it is important for patients with CKD to follow a low potassium diet to help maintain normal potassium levels.<br /><br />A <b>high calcium diet</b> is not typically recommended for patients with CKD. In fact, these patients may need to limit their calcium intake due to an increased risk of developing hypercalcemia and vascular calcification. In advanced stages of CKD, the kidneys struggle to convert vitamin D into its active form, leading to decreased calcium absorption and secondary hyperparathyroidism. This can result in high serum phosphate levels which contribute to vascular calcification. Therefore, a balance of calcium intake needs to be maintained in CKD patients.<br /><br />A <b>high protein diet</b> is also not advised for patients with CKD. High protein intake can put additional strain on already compromised kidneys by increasing the production of nitrogenous waste products such as urea and creatinine. Instead, a moderate protein intake tailored to the individual's needs is usually recommended for those with CKD.<br /><br />A <b>low starch diet</b> might be beneficial for some individuals, especially those with diabetes or obesity; however, it is not specific advice given solely based on having chronic kidney disease. Patients with CKD should focus on maintaining a balanced diet that meets their nutritional needs while avoiding excessive intake of certain nutrients like potassium and phosphorus.<br /><br />Lastly, a <b>high phosphorus diet</b> is not recommended for patients with CKD either. Similar to the issue with excess calcium intake, high phosphorus levels can contribute to vascular calcification and bone disease. Patients with CKD are often advised to limit their phosphorus intake by avoiding high-phosphorus foods such as dairy products, nuts, and certain processed foods. In some cases, they may also require phosphate binders to help reduce the absorption of phosphorus from their diet.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Chronic kidney disease: dietary advice",
+        "body": "Patients with renal failure are advised to adopt a diet which has<br /><ul><li>Low protein</li><li>Low phosphate</li><li>Low sodium </li><li>Low potassium</li></ul><br />This diet is encouraged in order to reduce renal strain - as many of these products are excreted by the kidneys.",
+        "notes_hash": "63c8c17956cb3fe2e6ece27f43e788af",
+        "knowledge_graph_node_id_link": 1222,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6892",
+        "up_votes": "16",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "875",
+            "656",
+            "5126",
+            "89",
+            "146",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16567_B_142",
+        "new_question_id": "32509",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "10734",
+        "notes_id_link": "1_2922",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cyclizine",
+            "Domperidone",
+            "Metoclopramide",
+            "Ondansetron",
+            "Prednisolone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 77-year-old man is receiving palliative care after having been diagnosed with glioblastoma. His pain is well controlled on regular paracetamol. However, he is complaining of feeling nauseous. <br /><br />What would be the most appropriate first-line anti-emetic to prescribe for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Cyclizine is a good first line anti-emetic for intracranial or intra-vestibular causes of nausea and vomiting. It is also used in palliative care for gastrointestinal obstruction. <br /><br />Domperidone antagonises the inhibitory effect of dopamine, resulting in stimulation of gastric muscle contraction. It is a good anti-emetic to use for gastro-intestinal pain in palliative care.<br /><br />Metoclopramide is used for the symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting. It is a prokinetic agent which is unlikely to provide relief from nausea related to increased intracranial pressure. <br /><br />Ondansetron is indicated for the prevention and treatment of nausea and vomiting related to chemotherapy. It is a selective 5-hydroxytryptamine (5-HT3) antagonist.<br /><br />If steroids are used in palliative care, dexamethasone is usually chosen as the first line. Steroids have multiple indications in this setting including treatment of nausea, anorexia, spinal cord compression and liver capsule pain. Dexamethasone may have a role in treating this patient's nausea if the intracranial pressure is raised and could be considered in addition to cyclizine. Cyclizine should be used as a first-line option if the nausea is thought to be due to raised intracranial pressure.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 77-year-old man is receiving palliative care after having been diagnosed with glioblastoma. His pain is well controlled on regular paracetamol. However, he is complaining of feeling nauseous. <br /><br />What would be the most appropriate first-line anti-emetic to prescribe for this patient?",
+        "correct_answer": "1",
+        "question_notes": "Cyclizine is a good first line anti-emetic for intracranial or intra-vestibular causes of nausea and vomiting. It is also used in palliative care for gastrointestinal obstruction. <br /><br />Domperidone antagonises the inhibitory effect of dopamine, resulting in stimulation of gastric muscle contraction. It is a good anti-emetic to use for gastro-intestinal pain in palliative care.<br /><br />Metoclopramide is used for the symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting. It is a prokinetic agent which is unlikely to provide relief from nausea related to increased intracranial pressure. <br /><br />Ondansetron is indicated for the prevention and treatment of nausea and vomiting related to chemotherapy. It is a selective 5-hydroxytryptamine (5-HT3) antagonist.<br /><br />If steroids are used in palliative care, dexamethasone is usually chosen as the first line. Steroids have multiple indications in this setting including treatment of nausea, anorexia, spinal cord compression and liver capsule pain. Dexamethasone may have a role in treating this patient's nausea if the intracranial pressure is raised and could be considered in addition to cyclizine. Cyclizine should be used as a first-line option if the nausea is thought to be due to raised intracranial pressure.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Palliative care prescribing: nausea and vomiting",
+        "body": "Nausea and vomiting in palliative care is often multi-factorial, however it is still important to identify the most prominent cause in order to guide choice of anti-emetic therapy. Six potential syndromes have been identified in palliative care, with gastric stasis and chemical disturbance being the most common and prominent. <br /><br /><b>Six broad nausea and vomiting syndromes</b>   <br /><ul><li>Reduced gastric motility<ul><li>May be opioid related</li><li>Related to serotonin (5HT4) and dopamine (D2) receptors</li></ul></li><li>Chemically mediated<ul><li>Secondary to hypercalcaemia, opioids, or chemotherapy</li></ul></li><li>Visceral/serosal<ul><li>Due to constipation</li><li>Oral candidiasis</li></ul></li><li>Raised intra-cranial pressure<ul><li>Usually in context of cerebral metastases </li></ul></li><li>Vestibular<ul><li>Related to activation of acetylcholine and histamine (H1) receptors </li><li>Most frequently in palliative care is opioid related</li><li>Can be motion related, or due to base of skull tumours </li></ul></li><li>Cortical<ul><li>May be due to anxiety, pain, fear and/or anticipatory nausea </li><li>Related to GABA and histamine (H1) receptors in the cerebral cortex</li></ul></li></ul><br />In palliative care, pharmacological therapy is the usually the first-line method for treating nausea and vomiting. In general, there are two approaches to choosing drug therapy, either empirical or mechanistic. An empirical approach involves choosing medication based on either physician preference or commonly a dopamine antagonist (e.g. metoclopramide) is used first-line. Alternatively, the mechanistic approach utilises matching choice of anti-emetic drug to the likely cause of the patient's nausea and vomiting. <br /><br /><b>Mechanistic approach</b><br /><ul><li>Reduced gastric motility<ul><li>Pro-kinetic agents are useful in these scenarios as the nausea and vomiting is usually resulting from gastric dysmotility and stasis</li><li><concept10852Pro-kinetic agents are often dopamine (D2) receptor antagonists</span></li><li>According to BMJ best practice, first-line medications include metoclopramide and domperidone  </li><li>However, NICE indicate that metoclopramide should not be used when pro-kinesis may negatively affect the gastrointestinal tract, particularly in complete bowel obstruction, gastrointestinal perforation, or immediately following gastric surgery</li></ul></li><li>Chemically mediated<ul><li>If possible, the chemical disturbance should be corrected first </li><li>In the context of other chemically mediated syndromes, for example due to opioid medications, there are a number of suggested medications </li><li>Key treatment options include ondansetron, haloperidol and levomepromazine </li></ul></li><li>Visceral/serosal causes<ul><li>Cyclizine and levomepromazine are first-line </li><li>Anti-cholinergics such as hyoscine can be useful </li></ul></li><li>Raised intra-cranial pressure<ul><li><span class=\"concept\" data-cid=\"10734\">Cyclizine</span>is recommended first-line for nausea and vomiting due to intracranial disease</li><li>Dexamethasone can also be usd</li><li>Radiotherapy can be considered if there is likely raised intra-cranial pressure due to cranial tumours</li></ul></li><li>Vestibular<ul><li>BMJ best practice recommends use of cyclizine as a first-line treatment in disorders due to the vestibular system</li><li>Refractory vestibular causes of nausea and vomiting can be treated alternatively with metoclopramide or prochlorperazine</li><li>Atypical antipsychotics such as olanzapine or risperidone can be used in refractory cases according to UptoDate </li></ul></li><li>Cortical<ul><li>If anticipatory nausea is the clear cause, a short acting benzodiazepine such as lorazepam can be useful </li><li>If benzodiazepines are not ideal, BMJ best practice recommends use of cyclizine </li><li>Ondansetron and metoclopramide can also be trialled</li></ul></li></ul><br /><b>Route of administration</b><br /><ul><li>oral anti-emetics are preferable and therefore should be used if possible</li><li>Situations where use of oral medications may not be possible include if the patient is vomiting, has issues with malabsorption, or there is severe gastric stasis </li><li>If the oral route is not possible the parenteral route of administration is preferred</li><li>The intravenous route can be use if intravenous access is already established</li></ul>",
+        "notes_hash": "22c51cc14f5fe24e4a40d82103d46c0f",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Cyclizine is a good first line anti-emetic for intracranial causes of nausea and vomiting",
+        "concept_percentile": "96",
+        "concept_colour": "rgb(20,255,0)",
+        "number_attempts": "6799",
+        "up_votes": "42",
+        "down_votes": "51",
+        "column_array": [
+            0,
+            "3727",
+            "346",
+            "906",
+            "1508",
+            "312",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "10734": {
+                "concept_text": "Cyclizine is a good first line anti-emetic for intracranial causes of nausea and vomiting",
+                "concept_percentile": "96"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

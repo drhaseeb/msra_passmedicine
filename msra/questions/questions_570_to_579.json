@@ -1,0 +1,933 @@
+[
+    {
+        "question_id": "1_E_47",
+        "new_question_id": "10920",
+        "question_type": "1",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_915",
+        "theme": "NICE hypertension guidelines",
+        "instruction": "The diagram below is taken from the NICE guidelines on the management of hypertension:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd567b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd567.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd567b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />For each of the numbered gaps above, please select one option from the list. Assume there are no contraindications to standard treatment.",
+        "options": [
+            "",
+            "Frailty ",
+            "Heart failure",
+            "Type 2 diabetes mellitus",
+            "(A + C) or (A + D)",
+            "A + C",
+            "A + D",
+            "4.0",
+            "4.5",
+            "5.0",
+            ""
+        ],
+        "num_of_options": 9,
+        "questions": [
+            "Gap (1)",
+            "Xrg (2)",
+            "Xrg (3)"
+        ],
+        "answers": [
+            "3",
+            "4",
+            "8"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Gap (1)",
+        "correct_answer": "3",
+        "question_notes": "",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Hypertension: management",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. Some of the key changes include:<br /><ul><li>lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%</li><li>angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated</li><li>if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a calcium channel blocker OR a thiazide-like diuretic can be used. Previously only a calcium channel blocker was recommended</li></ul><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocates.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6674\">140/90 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span></td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6676\">160/100 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span></td></tr><tr><td><b>Severe hypertension</b></td><td><span class=\"concept\" data-cid=\"6673\">Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</span></td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><h5 class='notes-heading'>Managing hypertension</h5><br />Lifestyle advice should not be forgotten and is frequently tested in exams:<br /><ul><li><span class=\"concept\" data-cid=\"10294\">a low salt diet is recommended, aiming for less than 6g/day</span>, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg</li><li>caffeine intake should be reduced</li><li>the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span> (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span> (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br />For patients < 40 years consider specialist referral to exclude secondary causes.<br /><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div><br /><br />Step 1 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6670\">patients < 55-years-old</span> or a background of <span class=\"concept\" data-cid=\"9851\">type 2 diabetes mellitus</span>: <b>A</b>CE inhibitor or a <b>A</b>ngiotensin receptor blocker (<b>A</b>CE-i or <b>A</b>RB): <b>(A)</b><ul><li><span class=\"concept\" data-cid=\"922\">angiotensin receptor blockers should be used where ACE inhibitors are not tolerated (e.g. due to a cough)</span></li></ul></li><li><span class=\"concept\" data-cid=\"6671\">patients >= 55-years-old</span> or of <span class=\"concept\" data-cid=\"6672\">black African or African-Caribbean origin</span>: <b>C</b>alcium channel blocker <b>(C)</b><ul><li><span class=\"concept\" data-cid=\"916\">ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line</span></li></ul></li></ul><br />Step 2 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6682\">if already taking an <b>A</b>CE-i or <b>A</b>RB add a <b>C</b>alcium channel blocker or a thiazide-like <b>D</b>iuretic</span></li><li><span class=\"concept\" data-cid=\"9850\">if already taking a <b>C</b>alcium channel blocker add an <b>A</b>CE-i or <b>A</b>RB or a thiazide-like <b>D</b>iuretic</span><ul><li><span class=\"concept\" data-cid=\"1386\">for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor</span></li></ul></li><li><b>(A + C) or (A + D)</b> or <b>(C + A) or (C + D)</b> </li></ul><br />Step 3 treatment<br /><ul><li>add a third drug to make, i.e.:<ul><li><span class=\"concept\" data-cid=\"6683\">if already taking an <b>(A + C)</b> then add a <b>D</b></span></li><li><span class=\"concept\" data-cid=\"9849\">if already <b>(A + D)</b> then add a <b>C</b></span></li></ul></li><li><b>(A + C + D)</b> </li></ul><br />Step 4 treatment<br /><ul><li>NICE define step 4 as resistant hypertension and suggest either adding a 4<sup>th</sup> drug (as below) or seeking specialist advice</li><li>first, check for:<ul><li>confirm elevated clinic BP with ABPM or HBPM</li><li>assess for postural hypotension.</li><li>discuss adherence</li></ul></li><li><span class=\"concept\" data-cid=\"6684\">if potassium < 4.5 mmol/l add low-dose spironolactone</span></li><li><span class=\"concept\" data-cid=\"6685\">if potassium > 4.5 mmol/l add an alpha- or beta-blocker</span></li></ul><br />Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:<br /><div class='bs-callout bs-callout-default'><i><i><br />If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained. <br /></i></i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Blood pressure targets</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td><span class=\"concept\" data-cid=\"6678\">140/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6680\">135/85 mmHg</span></td></tr><tr><td><b>Age > 80 years</b></td><td><span class=\"concept\" data-cid=\"6679\">150/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6681\">145/85 mmHg</span></td></tr></tbody></table></div>",
+        "notes_hash": "95248e6fb11c2374837320c9bd891a27",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5493",
+        "up_votes": "58",
+        "down_votes": "78",
+        "column_array": [
+            0,
+            "5167",
+            "3736",
+            "4377",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_978\" data-linkid=\"978\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_978\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">134</span><button type=\"button\" style=\"\" id=\"link_dislike_978\" data-linkid=\"978\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_978\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">121</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2429\" data-mediaid=\"2429\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2429\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2429\" data-mediaid=\"2429\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2429\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "922": {
+                "concept_text": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+                "concept_percentile": "32"
+            },
+            "1386": {
+                "concept_text": "For patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor",
+                "concept_percentile": "73"
+            },
+            "6670": {
+                "concept_text": "Newly diagnosed patient with hypertension (< 55 years) - add an ACE inhibitor or an angiotensin receptor blocker",
+                "concept_percentile": "43"
+            },
+            "6671": {
+                "concept_text": "Newly diagnosed patient with hypertension (> 55 years) - add a calcium channel blocker",
+                "concept_percentile": "21"
+            },
+            "6672": {
+                "concept_text": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+                "concept_percentile": "37"
+            },
+            "6673": {
+                "concept_text": "Criteria for considering immediate treatment based on a clinic reading - 180/120 mmHg",
+                "concept_percentile": "16"
+            },
+            "6674": {
+                "concept_text": "Definition of stage 1 hypertension (Clinic reading) - 140/90 mmHg",
+                "concept_percentile": "46"
+            },
+            "6675": {
+                "concept_text": "Definition of stage 1 hypertension (ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "19"
+            },
+            "6676": {
+                "concept_text": "Definition of stage 2 hypertension (Clinic reading) - 160/100 mmHg",
+                "concept_percentile": "34"
+            },
+            "6677": {
+                "concept_text": "Definition of stage 2 hypertension (ABPM/HBPM) - 150/95 mmHg",
+                "concept_percentile": "21"
+            },
+            "6678": {
+                "concept_text": "Blood pressure target (< 80 years, clinic reading) - 140/90 mmHg",
+                "concept_percentile": "26"
+            },
+            "6679": {
+                "concept_text": "Blood pressure target (> 80 years, clinic reading) - 150/90 mmHg",
+                "concept_percentile": "24"
+            },
+            "6680": {
+                "concept_text": "Blood pressure target (< 80 years, ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "23"
+            },
+            "6681": {
+                "concept_text": "Blood pressure target (> 80 years, ABPM/HBPM) - 145/85 mmHg",
+                "concept_percentile": "26"
+            },
+            "6682": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor - add a calcium channel blocker or a thiazide-like diuretic",
+                "concept_percentile": "47"
+            },
+            "6683": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+                "concept_percentile": "52"
+            },
+            "6684": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a thiazide diuretic. K+ < 4.5mmol/l - add spironolactone",
+                "concept_percentile": "56"
+            },
+            "6685": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a standard-dose thiazide diuretic. K+ > 4.5mmol/l - add an alpha- or beta-blocker",
+                "concept_percentile": "60"
+            },
+            "9849": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a thiazide diuretic - add a calcium channel blocker",
+                "concept_percentile": "24"
+            },
+            "9850": {
+                "concept_text": "Poorly controlled hypertension, already taking a calcium channel blocker - add an ACE inhibitor or an angiotensin receptor blocker or a thiazide-like diuretic",
+                "concept_percentile": "46"
+            },
+            "9851": {
+                "concept_text": "Newly diagnosed patient with hypertension who has a background of type 2 diabetes mellitus - add an ACE inhibitor or an angiotensin receptor blocker regardless of age",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2188",
+        "new_question_id": "3544",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1606",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Refer the patient for a laparoscopy and dye test",
+            "Address how the couple are having sexual intercourse and reassure the patient",
+            "Refer the patient for a basal temperature test",
+            "Refer the patient for a luteal phase progesterone test",
+            "Refer the patient's partner for semen analysis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22 year-old woman and her male partner present to their GP as they been unsuccessfully trying to conceive for 4 months. Her periods have been regular and there is no obvious cause in her history. What is the most appropriate next step in her management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "A healthy couple can expect to take up to one year to conceive. Investigations are therefore usually performed after one year of regular attempts to conceive. It may however be prudent to address any mechanical reasons that are preventing the couple from conceiving, hence the sexual intercourse history.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22 year-old woman and her male partner present to their GP as they been unsuccessfully trying to conceive for 4 months. Her periods have been regular and there is no obvious cause in her history. What is the most appropriate next step in her management?",
+        "correct_answer": "2",
+        "question_notes": "A healthy couple can expect to take up to one year to conceive. Investigations are therefore usually performed after one year of regular attempts to conceive. It may however be prudent to address any mechanical reasons that are preventing the couple from conceiving, hence the sexual intercourse history.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Infertility: causes and initial investigations",
+        "body": "Infertility affects around 1 in 7 couples. Around 84% of couples who have regular sex will conceive within 1 year, and 92% within 2 years<br /><br />Causes<br /><ul><li><span class=\"concept\" data-cid=\"9051\">male factor 30%</span></li><li>unexplained 20%</li><li>ovulation failure 20%</li><li>tubal damage 15%</li><li>other causes 15%</li></ul><br />Basic investigations<br /><ul><li>semen analysis</li><li><span class=\"concept\" data-cid=\"5253\">serum progesterone 7 days prior to expected next period</span>. For a typical 28 day cycle, this is done on <span class=\"concept\" data-cid=\"5341\">day 21</span>.</li></ul><br /><h5 class='notes-heading'>Interpretation of serum progestogen</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Level</b></th><th><b>Interpretation</b></th></tr></thead><tbody><tr><td>< 16 nmol/l</td><td>Repeat, if consistently low refer to specialist</td></tr><tr><td>16 - 30 nmol/l</td><td>Repeat</td></tr><tr><td>> 30 nmol/l</td><td>Indicates ovulation</td></tr></tbody></table></div><br />Key counselling points<br /><ul><li>folic acid</li><li>aim for BMI 20-25</li><li>advise regular sexual intercourse every 2 to 3 days</li><li>smoking/drinking advice</li></ul>",
+        "notes_hash": "2e5c80cf5d6fcec0fb73a779be791ae9",
+        "knowledge_graph_node_id_link": 10337,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4568",
+        "up_votes": "26",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "8",
+            "4185",
+            "13",
+            "135",
+            "227",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_300\" data-linkid=\"300\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_300\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_300\" data-linkid=\"300\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_300\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg156/chapter/Recommendations\">2013 Infertility guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0ZCEEY0cecA\" data-description=\"Understanding infertility\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"786\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0ZCEEY0cecA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0ZCEEY0cecA\" data-description=\"Understanding infertility\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"786\">Understanding infertility</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1367\" data-mediaid=\"1367\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1367\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1367\" data-mediaid=\"1367\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1367\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JhmTvH3trPQ\" data-description=\"Infertility in Women (causes and pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"401\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JhmTvH3trPQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JhmTvH3trPQ\" data-description=\"Infertility in Women (causes and pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"401\">Infertility in Women (causes and pathophysiology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_687\" data-mediaid=\"687\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_687\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_687\" data-mediaid=\"687\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_687\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "5253": {
+                "concept_text": "To confirm ovulation: Take the serum progesterone level 7 days prior to the expected next period",
+                "concept_percentile": "87"
+            },
+            "5341": {
+                "concept_text": "Day 21 progesterone test is the most reliable test to confirm ovulation",
+                "concept_percentile": "77"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "24170_B_11",
+        "new_question_id": "37803",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11775",
+        "notes_id_link": "1_1692",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Offer a lower dose of metformin",
+            "Offer dapagliflozin",
+            "Offer diet and lifestyle advice only",
+            "Offer gliclazide",
+            "Offer pioglitazone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 58-year-old man with type 2 diabetes presents to his GP for a review. He has stopped taking his modified-release metformin due to diarrhoea and nausea. Over the last few weeks, he has noticed that he feels more thirsty than usual and is getting progressively more tired. His blood pressure is 150/110 mmHg and he has no problems with his vision. Blood tests are performed and his HbA1c is 56 mmol/mol. A QRISK score is calculated which returns as 23%. He does not smoke or drink alcohol.<br /><br />What is the most appropriate next step in his management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Offer dapagliflozin</b> is correct. NICE updated its guidance on the management of type 2 diabetes in 2022. In the management of type 2 diabetes, if metformin is contraindicated or not tolerated and the patient has either established cardiovascular disease or a high risk of cardiovascular disease, they should be offered SGLT-2 monotherapy. This patient cannot tolerate metformin (as he has attempted a modified-release regimen with no success) and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer diet and lifestyle advice only</b> is incorrect as his HbA1c is very high and diet and lifestyle advice alone is unlikely to reduce it. As well as this, he now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer a lower dose of metformin</b> is incorrect. The patient was on modified-release metformin which often has fewer side effects, however, this was unsuccessful and not tolerated. If metformin is contraindicated or not tolerated and the patient has either established cardiovascular disease or a high risk of cardiovascular disease, they should be offered SGLT-2 monotherapy. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer gliclazide</b> is incorrect. This is not a first-line option in the management of type 2 diabetes. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), so the next option is giving an SGLT-2 inhibitor. If control with an SGLT-2 inhibitor alone is insufficient, gliclazide can then be offered as an add-on treatment.<br /><br /><b>Offer pioglitazone</b> is incorrect. This is not a first-line option in the management of type 2 diabetes. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), so the next option is giving an SGLT-2 inhibitor. If control with an SGLT-2 inhibitor alone is insufficient, pioglitazone can then be offered as an add-on treatment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 58-year-old man with type 2 diabetes presents to his GP for a review. He has stopped taking his modified-release metformin due to diarrhoea and nausea. Over the last few weeks, he has noticed that he feels more thirsty than usual and is getting progressively more tired. His blood pressure is 150/110 mmHg and he has no problems with his vision. Blood tests are performed and his HbA1c is 56 mmol/mol. A QRISK score is calculated which returns as 23%. He does not smoke or drink alcohol.<br /><br />What is the most appropriate next step in his management?",
+        "correct_answer": "2",
+        "question_notes": "<b>Offer dapagliflozin</b> is correct. NICE updated its guidance on the management of type 2 diabetes in 2022. In the management of type 2 diabetes, if metformin is contraindicated or not tolerated and the patient has either established cardiovascular disease or a high risk of cardiovascular disease, they should be offered SGLT-2 monotherapy. This patient cannot tolerate metformin (as he has attempted a modified-release regimen with no success) and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer diet and lifestyle advice only</b> is incorrect as his HbA1c is very high and diet and lifestyle advice alone is unlikely to reduce it. As well as this, he now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer a lower dose of metformin</b> is incorrect. The patient was on modified-release metformin which often has fewer side effects, however, this was unsuccessful and not tolerated. If metformin is contraindicated or not tolerated and the patient has either established cardiovascular disease or a high risk of cardiovascular disease, they should be offered SGLT-2 monotherapy. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), meaning he should be offered an SGLT-2 inhibitor, such as dapagliflozin.<br /><br /><b>Offer gliclazide</b> is incorrect. This is not a first-line option in the management of type 2 diabetes. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), so the next option is giving an SGLT-2 inhibitor. If control with an SGLT-2 inhibitor alone is insufficient, gliclazide can then be offered as an add-on treatment.<br /><br /><b>Offer pioglitazone</b> is incorrect. This is not a first-line option in the management of type 2 diabetes. This patient cannot tolerate metformin and now has an increased risk of cardiovascular disease (as his QRISK score is >10%), so the next option is giving an SGLT-2 inhibitor. If control with an SGLT-2 inhibitor alone is insufficient, pioglitazone can then be offered as an add-on treatment.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Diabetes mellitus: management of type 2",
+        "body": "NICE updated its guidance on the management of type 2 diabetes mellitus (T2DM) in 2022. This update reflected the advances in drug therapy and improved evidence regarding newer therapies such as SGLT-2 inhibitors.<br /><br /><div class='alert alert-warning'>It's worthwhile thinking of the average patient who is taking metformin for T2DM, you can titrate up metformin and encourage lifestyle changes to aim for a HbA1c of <span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%), but should only add a second drug if the HbA1c rises to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)<br /></div><br /><br />Dietary advice<br /><ul><li>encourage high fibre, low glycaemic index sources of carbohydrates</li><li>include low-fat dairy products and oily fish</li><li>control the intake of foods containing saturated fats and trans fatty acids</li><li>limited substitution of sucrose-containing foods for other carbohydrates is allowable, but care should be taken to avoid excess energy intake</li><li>discourage the use of foods marketed specifically at people with diabetes</li><li>initial target weight loss in an overweight person is 5-10%</li></ul><br /><br /><h5 class='notes-heading'>HbA1c targets</h5><br />This is an area which has changed in 2015<br /><ul><li>individual targets should be agreed with patients to encourage motivation</li><li>HbA1c should be checked every 3-6 months until stable, then 6 monthly</li><li>NICE encourage us to consider relaxing targets on <i>'a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes'</i></li><li>in 2015 the guidelines changed so HbA1c targets are now dependent on treatment:</li></ul><br /><h6 class='notes-subheading'>Lifestyle or single-drug treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Lifestyle</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Lifestyle + metformin</td><td><span class=\"concept\" data-cid=\"9108\">48 mmol/mol</span> (6.5%)</td></tr><tr><td>Includes any drug which may cause hypoglycaemia (e.g. lifestyle + sulfonylurea)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br />Practical examples<br /><ul><li>a patient is newly diagnosed with HbA1c and wants to try lifestyle treatment first. You agree on a target of 48 mmol/mol (6.5%)</li><li>you review a patient 6 months after starting metformin. His HbA1c is 51 mmol/mol (6.8%). You increase his metformin from 500mg bd to 500mg tds and reinforce lifestyle factors</li></ul><br /><h6 class='notes-subheading'>Patient already on treatment</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Management of T2DM</th><th>HbA1c target</th></tr></thead><tbody><tr><td>Already on one drug, but HbA1c has risen to <span class=\"concept\" data-cid=\"9109\">58 mmol/mol</span> (7.5%)</td><td>53 mmol/mol (7.0%)</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Initial drug therapy</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd928b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified initial management of type 2 diabetes mellitus</div><br /><span class=\"concept\" data-cid=\"9107\">Metformin remains the first-line drug</span> of choice in type 2 diabetes mellitus.<br /><ul><li>metformin should be titrated up slowly to minimise the possibility of gastrointestinal upset</li><li>if standard-release metformin is not tolerated then modified-release metformin should be trialled</li></ul><br /><span class=\"concept\" data-cid=\"11772\">SGLT-2 inhibitors</span><br /><ul><li>should also be given in addition to metformin if any of the following apply:<ul><li>the patient has a high risk of developing cardiovascular disease (CVD, e.g. QRISK \u2265 10%)</li><li>the patient has established CVD</li><li>the patient has chronic heart failure</li></ul></li><li><span class=\"concept\" data-cid=\"11773\">metformin should be established and titrated up before introducing the SGLT-2 inhibitor</span></li><li><span class=\"concept\" data-cid=\"11774\">SGLT-2 inhibitors should also be started at any point if a patient develops CVD (e.g. is diagnosed with ischaemic heart disease), a QRISK \u2265 10% or chronic heart failure</span></li></ul><br />If metformin is contraindicated<br /><ul><li>if the patient has a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11775\">SGLT-2 monotherapy</span></li></ul></li><li>if the patient doesn't have a risk of CVD, established CVD or chronic heart failure:<ul><li><span class=\"concept\" data-cid=\"11776\">DPP-4 inhibitor or pioglitazone or a sulfonylurea</span></li><li>SGLT-2 may be used if certain NICE criteria are met</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Further drug therapy if HbA1c targets are not met</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd929b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Simplified further management of type 2 diabetes mellitus if HbA1c targets are not met</div><br />If the HbA1c has risen to 58 mmol/mol (7.5%) then further treatment is indicated. Given the large number of drug therapy options, medication choices depend on individual clinical circumstances (comorbidities, contraindications, weight) and patient preference.<br /><br /><h6 class='notes-subheading'>Second-line therapy</h6><br /><span class=\"concept\" data-cid=\"11777\">Dual therapy - add one of the following:</span><br /><ul><li>metformin + DPP-4 inhibitor</li><li>metformin + pioglitazone</li><li>metformin + sulfonylurea</li><li>metformin + SGLT-2 inhibitor (if NICE criteria met)</li></ul><br /><h6 class='notes-subheading'>Third-line therapy</h6><br /><span class=\"concept\" data-cid=\"11395\">If a patient does not achieve control on dual therapy then the following options are possible:</span><br /><ul><li>metformin + DPP-4 inhibitor + sulfonylurea</li><li>metformin  + pioglitazone + sulfonylurea</li><li>metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met</li><li>insulin-based treatment</li></ul><br /><h6 class='notes-subheading'>Further therapy</h6><br />If triple therapy is not effective or tolerated consider <span class=\"concept\" data-cid=\"11396\">switching one of the drugs for a GLP-1 mimetic</span>:<br /><ul><li>BMI \u2265 35 kg/m\u00b2 and specific psychological or other medical problems associated with obesity or</li><li>BMI < 35 kg/m\u00b2 and for whom insulin therapy would have significant occupational implications or weight loss would benefit other significant obesity-related comorbidities</li><li>only continue if there is a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months</li></ul><br />GLP-1 mimetics should only be added to insulin under specialist care<br /><br />Starting insulin<br /><ul><li>metformin should be continued. In terms of other drugs NICE advice: <i>'Review the continued need for other blood glucose-lowering therapies'</i></li><li>NICE recommend starting with human NPH insulin (isophane, intermediate-acting) taken at bed-time or twice daily according to need</li></ul><br />Practical examples<br /><ul><li>you review an established type 2 diabetic on maximum dose metformin. Her HbA1c is 55 mmol/mol (7.2%). You do not add another drug as she has not reached the threshold of 58 mmol/mol (7.5%)</li><li>a type 2 diabetic is found to have an HbA1c of 62 mmol/mol (7.8%) at annual review. They are currently on maximum dose metformin. You elect to add a sulfonylurea</li></ul><br /><br /><h5 class='notes-heading'>Risk factor modification</h5><br />Hypertension<br /><ul><li><span class=\"concept\" data-cid=\"399\"><b>blood pressure targets are the same as for patients without type 2 diabetes</b> (see table below)</span></li><li>ACE inhibitors or angiotensin II receptor blockers (ARB) are first-line<ul><li>an <span class=\"concept\" data-cid=\"11206\">ARB is preferred if the patient has a black African or African-Caribbean</span> family origin</li></ul></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td>140/90 mmHg</td><td>135/85 mmHg</td></tr><tr><td><b>Age > 80 years</b></td><td>150/90 mmHg</td><td>145/85 mmHg</td></tr></tbody></table></div><br />Antiplatelets<br /><ul><li>should not be offered unless a patient has existing cardiovascular disease</li></ul><br />Lipids<br /><ul><li>following the 2014 NICE lipid modification guidelines only patients with a 10-year cardiovascular risk > 10% (using QRISK2) should be offered a statin. The first-line statin of choice is atorvastatin 20mg on</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd915b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Graphic showing choice of statin.</div>",
+        "notes_hash": "ca06d8c38ddc0f626be19075164b9bce",
+        "knowledge_graph_node_id_link": 10924,
+        "concept": "T2DM initial therapy: if metformin is contraindicated + patient has a risk of CVD, established CVD or chronic heart failure &rarr; SGLT-2 monotherapy",
+        "concept_percentile": "88",
+        "concept_colour": "rgb(61,255,0)",
+        "number_attempts": "6556",
+        "up_votes": "31",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "297",
+            "4792",
+            "87",
+            "1182",
+            "198",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_721\" data-linkid=\"721\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_721\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_721\" data-linkid=\"721\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_721\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">47</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/assets/qrg116.pdf\">2010 Management of diabetes</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_457\" data-linkid=\"457\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_457\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_457\" data-linkid=\"457\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_457\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">43</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG181/chapter/1-Recommendations\">2014 Lipid modification guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_911\" data-linkid=\"911\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_911\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">56</span><button type=\"button\" style=\"\" id=\"link_dislike_911\" data-linkid=\"911\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_911\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">54</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>7 minute medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1395\" data-linkid=\"1395\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1395\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">44</span><button type=\"button\" style=\"\" id=\"link_dislike_1395\" data-linkid=\"1395\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1395\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">32</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://anchor.fm/7minutemedics/episodes/Episode-2---Type-2-Diabetes-e2ebql\">Basics of type 2 diabetes - podcast</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4Y7wdX7iEAY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"51\" data-downvotes=\"6\" data-media=\"694\">Type 2 diabetes agents and their mechanism of action</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1195\" data-mediaid=\"1195\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1195\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">51</span><button type=\"button\" style=\"\" id=\"media_dislike_1195\" data-mediaid=\"1195\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1195\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/APHeDOkJKQ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"9\" data-downvotes=\"6\" data-media=\"693\"> Pharmacology of drugs used to treat type 2 diabetes</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1194\" data-mediaid=\"1194\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1194\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1194\" data-mediaid=\"1194\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1194\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/W0KPwTy0W9k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/W0KPwTy0W9k\" data-description=\"Diabetes Type II Pathophysiology\" data-upvotes=\"4\" data-downvotes=\"4\" data-media=\"400\">Diabetes Type II Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_685\" data-mediaid=\"685\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_685\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_685\" data-mediaid=\"685\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_685\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "9108": {
+                "concept_text": "The standard HbA1c target in type 2 diabetes mellitus is 48 mmol/mol",
+                "concept_percentile": "81"
+            },
+            "11395": {
+                "concept_text": "TD2M already on 2 drugs - if HbA1c > 58 mmol/mol then one of the following should be offered:\n   - metformin + DPP-4 inhibitor + sulfonylurea\n   - metformin  + pioglitazone + sulfonylurea\n   - metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met\n   - insulin-based treatment",
+                "concept_percentile": "73"
+            },
+            "11396": {
+                "concept_text": "TD2M: if a triple combination of drugs has failed to reduce HbA1c then switching one of the drugs for a GLP-1 mimetic is recommended, particularly if the BMI > 35",
+                "concept_percentile": "76"
+            },
+            "11772": {
+                "concept_text": "SGLT-2 inhibitors should be used in addition to metformin as initial therapy for T2DM if CVD, high-risk of CVD or chronic heart failure",
+                "concept_percentile": "65"
+            },
+            "11773": {
+                "concept_text": "If starting an SGLT-2 as initial therapy for T2DM then ensure metformin is titrated up first",
+                "concept_percentile": "91"
+            },
+            "11774": {
+                "concept_text": "In patients with T2DM, SGLT-2 should be introduced at any point they develop CVD, a high risk of CVD or chronic heart failure",
+                "concept_percentile": "66"
+            },
+            "11775": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated + patient has a risk of CVD, established CVD or chronic heart failure --> SGLT-2 monotherapy",
+                "concept_percentile": "88"
+            },
+            "11776": {
+                "concept_text": "T2DM initial therapy: if metformin is contraindicated (and no risk of CVD, established CVD or chronic heart failure) --> choice of DPP-4 inhibitor or Pioglitazone or Sulfonylurea or even SGLT-2 (if NICE criteria met)",
+                "concept_percentile": "89"
+            },
+            "11777": {
+                "concept_text": "T2DM on metformin, if HbA1c has risen to 58 mmol/mol then one of the following should be offered depending on the individual clinical scenario:\n   - DPP-4 inhibitor\n   - pioglitazone\n   - sulfonylurea\n   - SGLT-2 inhibitor (if NICE criteria met)",
+                "concept_percentile": "74"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "26005_B_5",
+        "new_question_id": "42087",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "11350",
+        "notes_id_link": "1_598",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Octreotide and pantoprazole",
+            "Pantoprazole and antibiotics",
+            "Propranolol and pantoprazole",
+            "Terlipressin and antibiotics",
+            "Terlipressin only",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old alcoholic male attends ED after an episode of haematemesis in the community. He is obtunded and thus unable to give a clear history. On examination, he is visibly jaundiced and has a grossly distended abdomen with shifting dullness. PR reveals melaena. His temperature is 37.4\u00baC, heart rate 115/min, and blood pressure of 105/60mmHg. The medical team suspects a variceal bleed. An urgent endoscopy is arranged after initial resuscitation measures.<br /><br />What medications should be given prior to his endoscopy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b> Terlipressin and antibiotics</b> is the correct answer. It is important to administer terlipressin, causing splanchnic vasoconstriction and therefore reducing blood loss from gastrointestinal haemorrhage. Terlipressin has been shown to improve mortality in variceal bleeding compared to placebo and is as effective as endoscopic therapy at reducing mortality, haemostasis and preventing re-bleeding. Studies suggest that antibiotic prophylaxis (quinolone antibiotics are typically used, particularly ciprofloxacin) prior to endoscopy and up to 8 h is useful in reducing bacteraemia and spontaneous bacterial peritonitis.<br /><br /><b> Octreotide </b> can be used for acute variceal bleeding, but use is less well supported in the literature than terlipressin.<br /><br />PPIs such as <b> pantoprazole </b> should not be given prior to endoscopy for the risk of obscuring findings. <br /><br /><b> Propranolol </b> is used for <i> prophylaxis </i> of variceal bleeding in the context of known varices. <br /><br /><b> Terlipressin only </b> is incorrect because antibiotics should be administered in addition.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old alcoholic male attends ED after an episode of haematemesis in the community. He is obtunded and thus unable to give a clear history. On examination, he is visibly jaundiced and has a grossly distended abdomen with shifting dullness. PR reveals melaena. His temperature is 37.4\u00baC, heart rate 115/min, and blood pressure of 105/60mmHg. The medical team suspects a variceal bleed. An urgent endoscopy is arranged after initial resuscitation measures.<br /><br />What medications should be given prior to his endoscopy?",
+        "correct_answer": "4",
+        "question_notes": "<b> Terlipressin and antibiotics</b> is the correct answer. It is important to administer terlipressin, causing splanchnic vasoconstriction and therefore reducing blood loss from gastrointestinal haemorrhage. Terlipressin has been shown to improve mortality in variceal bleeding compared to placebo and is as effective as endoscopic therapy at reducing mortality, haemostasis and preventing re-bleeding. Studies suggest that antibiotic prophylaxis (quinolone antibiotics are typically used, particularly ciprofloxacin) prior to endoscopy and up to 8 h is useful in reducing bacteraemia and spontaneous bacterial peritonitis.<br /><br /><b> Octreotide </b> can be used for acute variceal bleeding, but use is less well supported in the literature than terlipressin.<br /><br />PPIs such as <b> pantoprazole </b> should not be given prior to endoscopy for the risk of obscuring findings. <br /><br /><b> Propranolol </b> is used for <i> prophylaxis </i> of variceal bleeding in the context of known varices. <br /><br /><b> Terlipressin only </b> is incorrect because antibiotics should be administered in addition.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Variceal haemorrhage: management",
+        "body": "Patients with liver cirrhosis are at risk of developing portal hypertension (increased portal venous system pressure). One of the most significant complications of portal hypertension is oesophageal varices.  These are at risk of rupturing leading to a potentially severe and life-threatening upper gastrointestinal bleed.<br /><br />Acute treatment of variceal haemorrhage<br /><ul><li>ABC<ul><li>patients should be resuscitated prior to endoscopy</li><li>blood transfusion may be needed</li></ul></li><li>correct clotting: FFP, vitamin K, platelet transfusions may be required</li><li>vasoactive agents: <ul><li><span class=\"concept\" data-cid=\"10985\">terlipressin</span> is currently the only licensed vasoactive agent and is supported by NICE guidelines. It has been shown to be of benefit in initial haemostasis and preventing rebleeding</li><li>octreotide may also be used although there is some evidence that terlipressin has a greater effect on reducing mortality</li></ul></li><li><span class=\"concept\" data-cid=\"765\">prophylactic IV antibiotics</span><ul><li>have been shown to reduce mortality in patients with liver cirrhosis</li><li>quinolones are typically used</li><li>NICE support this in their 2016 guidelines:  '<i>Offer prophylactic intravenous antibiotics for people with cirrhosis who have upper gastrointestinal bleeding.</i>'</li></ul></li><li>both <span class=\"concept\" data-cid=\"11350\">terlipressin and antibiotics should be given before endoscopy</span> in patients with suspected variceal haemorrhage</li><li>endoscopy: endoscopic variceal band ligation is superior to endoscopic sclerotherapy. NICE recommend band ligation</li><li><span class=\"concept\" data-cid=\"10986\">Sengstaken-Blakemore tube</span> if uncontrolled haemorrhage</li><li>Transjugular Intrahepatic Portosystemic Shunt (TIPSS) if above measures fail<ul><li>connects the hepatic vein to the portal vein </li><li><span class=\"concept\" data-cid=\"11001\">exacerbation of hepatic encephalopathy</span> is a common complication</li></ul></li></ul><br />Prophylaxis of variceal haemorrhage<br /><ul><li><span class=\"concept\" data-cid=\"3946\">non-selective beta-blockers</span><ul><li><span class=\"concept\" data-cid=\"12434\">carvedilol</span> is the agent of choice in patients with compensated cirrhosis (more effective at lowering hepatic venous pressure gradient (HVPG) than propranolol)</li><li>propranolol is generally used in patients with decompensated cirrhosis (Carvedilol has additional \u03b11-blocking (vasodilatory) activity, which can lower systemic blood pressure more profoundly. In decompensated cirrhosis, patients are already prone to systemic hypotension, renal impairment etc)</li><li>reduced rebleeding and mortality compared to placebo</li></ul></li><li>endoscopic variceal band ligation (EVL)<ul><li>superior to endoscopic sclerotherapy</li><li>this is supported by NICE who recommends: '<i>Offer endoscopic variceal band ligation for the primary prevention of bleeding for people with cirrhosis who have medium to large oesophageal varices.</i>'</li><li>it should be performed at two-weekly intervals until all varices have been eradicated</li><li>proton pump inhibitor cover is given to prevent EVL-induced ulceration</li></ul></li><li>Transjugular Intrahepatic Portosystemic Shunt (TIPSS) may be used if the above measures are unsuccessful in preventing further episodes</li></ul>",
+        "notes_hash": "59b0839c516ddb863d01a40ce5ac60b9",
+        "knowledge_graph_node_id_link": 1144,
+        "concept": "Both terlipressin and antibiotics should be given <i>before</i> endoscopy in patients with suspected variceal haemorrhage",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "6693",
+        "up_votes": "21",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "255",
+            "337",
+            "161",
+            "5026",
+            "914",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society of Gastroenterology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_983\" data-linkid=\"983\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_983\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_983\" data-linkid=\"983\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_983\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">25</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bsg.org.uk/resource/variceal_haemorrhage_in_cirrhotic_patients.html\">Management of oesophageal varices</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians Edinburgh</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1497\" data-linkid=\"1497\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1497\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1497\" data-linkid=\"1497\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1497\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpe.ac.uk/sites/default/files/jrcpe_47_3_bhala.pdf\">2017 Management of acute upper gastrointestinal bleeding: an update for the general physician</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_128\" data-linkid=\"128\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_128\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_128\" data-linkid=\"128\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_128\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG141/chapter/1-Guidance\">2012 Acute upper gastrointestinal bleeding: management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Cochrane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_923\" data-linkid=\"923\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_923\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_923\" data-linkid=\"923\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_923\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.cochrane.org/CD002907/LIVER_antibiotic-prophylaxis-for-prevention-of-bacterial-infections-and-death-in-cirrhotic-patients-with-upper-gastrointestinal-bleeding\">Antibiotic prophylaxis for cirrhotic patients with gastrointestinal bleeding</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_961\" data-linkid=\"961\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_961\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_961\" data-linkid=\"961\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_961\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/6/589\">2012 Managing acute upper gastrointestinal bleeding in the acute assessment unit</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1233\" data-linkid=\"1233\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1233\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_1233\" data-linkid=\"1233\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1233\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng50/chapter/Recommendations\">2016 Liver cirrhosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VxJqw3dCgAs\" data-description=\"Portal hypertension\" data-upvotes=\"12\" data-downvotes=\"1\" data-media=\"1458\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/VxJqw3dCgAs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VxJqw3dCgAs\" data-description=\"Portal hypertension\" data-upvotes=\"12\" data-downvotes=\"1\" data-media=\"1458\">Portal hypertension</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2571\" data-mediaid=\"2571\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2571\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_2571\" data-mediaid=\"2571\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2571\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xYNthb4vqgU\" data-description=\"Approach to Upper Gastrointestinal Bleeding\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1281\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xYNthb4vqgU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xYNthb4vqgU\" data-description=\"Approach to Upper Gastrointestinal Bleeding\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1281\">Approach to Upper Gastrointestinal Bleeding</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2268\" data-mediaid=\"2268\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2268\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2268\" data-mediaid=\"2268\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2268\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "765": {
+                "concept_text": "Antibiotic prophylaxis reduces mortality in cirrhotic patients with gastrointestinal bleeding",
+                "concept_percentile": "88"
+            },
+            "3946": {
+                "concept_text": "A non-cardioselective B-blocker (NSBB) is used for the prophylaxis of oesophageal bleeding",
+                "concept_percentile": "77"
+            },
+            "11350": {
+                "concept_text": "Both terlipressin and antibiotics should be given <i>before</i> endoscopy in patients with suspected variceal haemorrhage",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4000_B_97",
+        "new_question_id": "33373",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "11441",
+        "notes_id_link": "1_667",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "10% dextrose IV",
+            "20% dextrose IV",
+            "Glucagon, IM",
+            "Glucogel, orally",
+            "Sandwich, orally",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are called to the orthopaedic ward to review a 78-year-old man. The nurses have recorded his blood sugar level at 2.4mmol/L. He is recovering following surgery for a neck femur fracture. He has a history of hypertension, diabetes, and chronic renal failure.  <br /><br />On examination, he is slightly agitated but able to answer your questions, his heart rate is 78bpm and blood pressure 134/82mmHg. <br /><br />What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is conscious and able to swallow so the most appropriate first-line treatment is a fast-acting oral carbohydrate. This can be as a liquid, tablet or gel, so in this case <b>glucogel</b> is the single best answer.<br /><br /><b>Intravenous 20% glucose</b> solution may be given through a large vein to patients who are unconscious. In this case, the patient is drowsy but able to speak and so oral treatment would be the best first-line treatment. <b>10% dextrose IV</b> is not the recommended level to correct hypoglycaemia. <br /><br />If the patient is unconscious or unable to swallow, <b>subcutaneous or intramuscular injection glucagon</b> may be given. In this case, the patient is conscious and so this is not the right answer. <br /><br /><b>A sandwich</b> can be a useful adjunct after acutely treating the hypoglycaemic episode, but it is a slower acting carbohydrate than a fast-acting glucose liquid required in this scenario. In the acute phase, if the patient is alert, a quick-acting carbohydrate should be given.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are called to the orthopaedic ward to review a 78-year-old man. The nurses have recorded his blood sugar level at 2.4mmol/L. He is recovering following surgery for a neck femur fracture. He has a history of hypertension, diabetes, and chronic renal failure.  <br /><br />On examination, he is slightly agitated but able to answer your questions, his heart rate is 78bpm and blood pressure 134/82mmHg. <br /><br />What is the most appropriate first-line treatment?",
+        "correct_answer": "4",
+        "question_notes": "This patient is conscious and able to swallow so the most appropriate first-line treatment is a fast-acting oral carbohydrate. This can be as a liquid, tablet or gel, so in this case <b>glucogel</b> is the single best answer.<br /><br /><b>Intravenous 20% glucose</b> solution may be given through a large vein to patients who are unconscious. In this case, the patient is drowsy but able to speak and so oral treatment would be the best first-line treatment. <b>10% dextrose IV</b> is not the recommended level to correct hypoglycaemia. <br /><br />If the patient is unconscious or unable to swallow, <b>subcutaneous or intramuscular injection glucagon</b> may be given. In this case, the patient is conscious and so this is not the right answer. <br /><br /><b>A sandwich</b> can be a useful adjunct after acutely treating the hypoglycaemic episode, but it is a slower acting carbohydrate than a fast-acting glucose liquid required in this scenario. In the acute phase, if the patient is alert, a quick-acting carbohydrate should be given.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Hypoglycaemia",
+        "body": "Causes<br /><ul><li>insulinoma - increased ratio of proinsulin to insulin</li><li>self-administration of insulin/sulphonylureas</li><li>liver failure</li><li>Addison's disease</li><li><span class=\"concept\" data-cid=\"11800\">alcohol</span><ul><li>causes exaggerated insulin secretion</li><li>mechanism is thought to be due to the effect of alcohol on the pancreatic microcirculation &rarr; redistribution of pancreatic blood flow from the exocrine into the endocrine parts &rarr; increased insulin secretion</li></ul></li><li>nesidioblastosis - beta cell hyperplasia</li></ul><br />Physiological response to hypoglycaemia<br /><ul><li>hormonal response: the first response of the body is decreased insulin secretion. This is followed by <span class=\"concept\" data-cid=\"9918\">increased glucagon secretion</span>. Growth hormone and cortisol are also released but later</li><li>sympathoadrenal response: increased catecholamine-mediated (adrenergic) and acetylcholine-mediated (cholinergic) neurotransmission in the peripheral autonomic nervous system and in the central nervous system</li></ul><br />Features<br /><ul><li>blood glucose levels and the severity of symptoms are not always correlated, especially in patients with diabetes.</li><li>blood glucose concentrations <3.3 mmol/L cause autonomic symptoms due to the release of glucagon and adrenaline (average frequency in brackets):<ul><li>Sweating</li><li>Shaking </li><li>Hunger</li><li>Anxiety</li><li>Nausea</li></ul></li><li>blood glucose concentrations below <2.8 mmol/L cause neuroglycopenic symptoms due to inadequate glucose supply to the brain:<ul><li>Weakness </li><li>Vision changes</li><li>Confusion </li><li>Dizziness</li></ul></li><li>Severe and uncommon features of hypoglycaemia include:<ul><li>Convulsion</li><li>Coma</li></ul></li></ul><br />Investigation of hypoglycaemia<br /><ul><li>if the cause of hypoglycaemia is not clear then a combination of serum insulin and c-peptide levels can be measured</li><li>remember that insulin and C-peptide are released in equimolar amounts from the pancreas, making C-peptide a marker of endogenous insulin production.</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Insulin Level</th><th>\tC-peptide Level</th><th>\tInterpretation</th><th>\tPotential Causes</th></tr></thead><tbody><tr><td>High\t</td><td>High\t</td><td><span class=\"concept\" data-cid=\"12274\">Endogenous insulin production</span></td><td>\tInsulinoma, Sulfonylurea use/abuse</td></tr><tr><td>High</td><td>\tLow\t</td><td><span class=\"concept\" data-cid=\"12275\">Exogenous insulin administration</span>\t</td><td>Exogenous insulin overdose, Factitious disorder</td></tr><tr><td>Low</td><td>\tLow\t</td><td>Non-insulin-related cause</td><td>Alcohol-induced hypoglycaemia, Critical illness (e.g., sepsis), Adrenal insufficiency, Growth hormone deficiency, Fasting/starvation</td></tr></tbody></table></div><br />Management of hypoglycaemia<br /><ul><li>the following guidelines are based on the BNF hypoglycaemia treatment summary.</li><li>in the community (for example, diabetes mellitus patients who inject insulin):<ul><li><span class=\"concept\" data-cid=\"11441\">Initially, oral glucose 10-20g should be given in liquid, gel or tablet form</span></li><li>Alternatively, a propriety quick-acting carbohydrate may be given: GlucoGel or Dextrogel.</li><li>A 'HypoKit' may be prescribed which contains a syringe and vial of glucagon for IM or SC injection at home</li></ul></li><li>in a hospital setting:<ul><li><span class=\"concept\" data-cid=\"11441\">If the patient is alert, a quick-acting carbohydrate may be given (as above)</span></li><li>If the patient is unconscious or unable to swallow, subcutaneous or intramuscular injection glucagon may be given.</li><li>Alternatively, intravenous 20% glucose solution may be given through a large vein</li></ul></li></ul>",
+        "notes_hash": "e2c6961bddebf47515f17b04aa798c7d",
+        "knowledge_graph_node_id_link": 1237,
+        "concept": "Hypoglycaemia treatment - if the patient is conscious and able to swallow the first-line treatment is a fast-acting carbohydrate by mouth i.e..  glucose liquids, tablets or gels",
+        "concept_percentile": "40",
+        "concept_colour": "rgb(255,204,0)",
+        "number_attempts": "5672",
+        "up_votes": "20",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "479",
+            "456",
+            "259",
+            "4215",
+            "263",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "11441": {
+                "concept_text": "Hypoglycaemia treatment - if the patient is conscious and able to swallow the first-line treatment is a fast-acting carbohydrate by mouth i.e..  glucose liquids, tablets or gels",
+                "concept_percentile": "40"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9289",
+        "new_question_id": "3807",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "373",
+        "notes_id_link": "1_1651",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Metformin",
+            "Bromocriptine",
+            "Laparoscopic ovarian cautery",
+            "Clomifene",
+            "Orlistat",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman with polycystic ovarian syndrome consults you as she is having problems becoming pregnant. She has a past history of oligomenorrhea and has previously recently stopped taking a combined oral contraceptive pill. Despite stopping the pill 6 months ago she is still not having regular periods. Her body mass index is 28 kg/m^2. Apart from advising her to lose weight, which one of the following interventions is most effective in increasing her chances of conceiving?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Whilst metformin has a role in the management of infertility it should be used second-line to anti-oestrogens such as clomifene. Similar questions to this often appear in which clomifene is not an option, in this case metformin is clearly the right answer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman with polycystic ovarian syndrome consults you as she is having problems becoming pregnant. She has a past history of oligomenorrhea and has previously recently stopped taking a combined oral contraceptive pill. Despite stopping the pill 6 months ago she is still not having regular periods. Her body mass index is 28 kg/m^2. Apart from advising her to lose weight, which one of the following interventions is most effective in increasing her chances of conceiving?",
+        "correct_answer": "4",
+        "question_notes": "Whilst metformin has a role in the management of infertility it should be used second-line to anti-oestrogens such as clomifene. Similar questions to this often appear in which clomifene is not an option, in this case metformin is clearly the right answer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Polycystic ovarian syndrome: management",
+        "body": "Polycystic ovarian syndrome (PCOS) is a complex condition of ovarian dysfunction thought to affect between 5-20% of women of reproductive age. Management is complicated and problem based partly because the aetiology of PCOS is not fully understood. Both hyperinsulinaemia and high levels of luteinizing hormone are seen in PCOS and there appears to be some overlap with the metabolic syndrome.<br /><br />General<br /><ul><li>weight reduction if appropriate</li><li>if a women requires contraception then a combined oral contraceptive (COC) pill may help regulate her cycle and induce a monthly bleed (see below)</li></ul><br />Hirsutism and acne<br /><ul><li>a COC pill may be used help manage hirsutism. Possible options include a third generation COC which has fewer androgenic effects or co-cyprindiol which has an anti-androgen action. Both of these types of COC may carry an increased risk of venous thromboembolism</li><li>if doesn't respond to COC then topical eflornithine may be tried</li><li>spironolactone, flutamide and finasteride may be used under specialist supervision</li></ul><br />Infertility<br /><ul><li>weight reduction if appropriate</li><li>the management of infertility in patients with PCOS should be supervised by a specialist. There is an ongoing debate as to whether metformin, clomifene or a combination should be used to stimulate ovulation</li><li>a 2007 trial published in the New England Journal of Medicine suggested clomifene was the most effective treatment. There is a potential risk of multiple pregnancies with anti-oestrogen* therapies such as clomifene. The RCOG published an opinion paper in 2008 and concluded that on current evidence metformin is not a first line treatment of choice in the management of PCOS</li><li>metformin is also used, either combined with clomifene or alone, particularly in patients who are obese</li><li>gonadotrophins</li></ul><br />*work by occupying hypothalamic oestrogen receptors without activating them. This interferes with the binding of oestradiol and thus prevents negative feedback inhibition of FSH secretion",
+        "notes_hash": "02e214b85ce5f61cada349ae6934ecdf",
+        "knowledge_graph_node_id_link": 1158,
+        "concept": "Infertility in PCOS - clomifene is typically used first-line",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "4554",
+        "up_votes": "45",
+        "down_votes": "38",
+        "column_array": [
+            0,
+            "691",
+            "61",
+            "58",
+            "3660",
+            "84",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>ESHRE (European Society of Human Reproduction and Embryology)</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1983\" data-linkid=\"1983\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1983\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_1983\" data-linkid=\"1983\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1983\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.monash.edu/medicine/sphpm/mchri/pcos/guideline\">2018 International Evidence Based Guideline for the Assessment and Management of PCOS </a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Obstetricians and Gynaecologists</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1595\" data-linkid=\"1595\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1595\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1595\" data-linkid=\"1595\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1595\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg_33.pdf\">2014 Long-term Consequences of Polycystic Ovary Syndrome</a></td></tr></table><br><br><table style='width:100%'><tr><td>RCOG</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_700\" data-linkid=\"700\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_700\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_700\" data-linkid=\"700\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_700\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcog.org.uk/globalassets/documents/guidelines/scientific-impact-papers/sip_13.pdf\">Opinion paper on metformin in PCOS</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1467\" data-linkid=\"1467\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1467\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1467\" data-linkid=\"1467\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1467\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/polycystic-ovary-syndrome-pro\">Polycystic ovarian syndrome review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 8,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2027_B_11",
+        "new_question_id": "6774",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_225",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Total anterior circulation stroke",
+            "Partial anterior circulation stroke",
+            "Posterior circulation stroke",
+            "Lacunar stroke",
+            "Haemorrhagic stroke",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old man is admitted to the stroke ward. You are asked to examine him. He denies any headache. You find he has normal motor function but has completely lost sensation on the right hand side of his body. There is no hemianopia or dysphasia. What type of stroke is this?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Lacunar strokes can present with<br /><ul><li>unilateral motor disturbance affecting the face, arm or leg or all 3.  </li><li>complete one sided sensory loss. </li><li>ataxia hemiparesis.</li></ul><br />A total anterior circulation stroke would present with homonymous hemianopia, unilateral weakness and higher cortical dysfunction e.g. neglect. A partial anterior circulation stroke has 2 out of 3 symptoms. A posterior circulation stroke presents with isolated homonymous hemianopia, loss of consciousness or cerebellar signs. A haemorrhagic stroke presents suddenly with a thunderclap headache.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old man is admitted to the stroke ward. You are asked to examine him. He denies any headache. You find he has normal motor function but has completely lost sensation on the right hand side of his body. There is no hemianopia or dysphasia. What type of stroke is this?",
+        "correct_answer": "4",
+        "question_notes": "Lacunar strokes can present with<br /><ul><li>unilateral motor disturbance affecting the face, arm or leg or all 3.  </li><li>complete one sided sensory loss. </li><li>ataxia hemiparesis.</li></ul><br />A total anterior circulation stroke would present with homonymous hemianopia, unilateral weakness and higher cortical dysfunction e.g. neglect. A partial anterior circulation stroke has 2 out of 3 symptoms. A posterior circulation stroke presents with isolated homonymous hemianopia, loss of consciousness or cerebellar signs. A haemorrhagic stroke presents suddenly with a thunderclap headache.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Stroke: types",
+        "body": "The <b>Oxford Stroke Classification</b> (also known as the Bamford Classification) classifies strokes based on the initial symptoms.  A summary is as follows:<br /><br />The following criteria should be assessed:<br /><ul><li>1. unilateral hemiparesis and/or hemisensory loss of the face, arm & leg</li><li>2. homonymous hemianopia</li><li>3. higher cognitive dysfunction e.g. dysphasia</li></ul><br /><span class=\"concept\" data-cid=\"11631\">Total anterior circulation infarcts</span> (TACI, c. 15%)<br /><ul><li>involves middle and anterior cerebral arteries</li><li>all 3 of the above criteria are present</li></ul><br /><span class=\"concept\" data-cid=\"11630\">Partial anterior circulation infarcts</span> (PACI, c. 25%)<br /><ul><li>involves smaller arteries of anterior circulation e.g. upper or lower division of middle cerebral artery</li><li>2 of the above criteria are present</li></ul><br />Lacunar infarcts (LACI, c. 25%)<br /><ul><li>involves perforating arteries around the internal capsule, thalamus and basal ganglia</li><li>presents with 1 of the following:</li><li>1. unilateral weakness (and/or sensory deficit) of face and arm, arm and leg or all three.</li><li>2. pure sensory stroke.</li><li>3. ataxic hemiparesis</li></ul><br />Posterior circulation infarcts (POCI, c. 25%)<br /><ul><li>involves <span class=\"concept\" data-cid=\"4060\">vertebrobasilar arteries</span></li><li>presents with 1 of the following:</li><li>1. cerebellar or brainstem syndromes</li><li>2. loss of consciousness</li><li>3. isolated homonymous hemianopia</li></ul><br /><h5 class='notes-heading'>Other recognised patterns of stroke:</h5><br />Lateral medullary syndrome (posterior inferior cerebellar artery)<br /><ul><li>aka Wallenberg's syndrome</li><li>ipsilateral: ataxia, nystagmus, dysphagia, facial numbness, cranial nerve palsy e.g. Horner's</li><li>contralateral: limb sensory loss</li></ul><br />Weber's syndrome<br /><ul><li>ipsilateral III palsy</li><li>contralateral weakness</li></ul>",
+        "notes_hash": "ac27d4d86ad5a36776c1a0d0fbccf7c6",
+        "knowledge_graph_node_id_link": 1086,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4205",
+        "up_votes": "32",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "108",
+            "932",
+            "215",
+            "2918",
+            "32",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"8\" data-downvotes=\"0\" data-media=\"502\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/y-dfiMGv3Xk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"8\" data-downvotes=\"0\" data-media=\"502\">Stroke</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_877\" data-mediaid=\"877\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_877\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_877\" data-mediaid=\"877\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_877\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1q-VTKPweuk\" data-description=\"The HINTS exam in vertigo\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"654\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1q-VTKPweuk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1q-VTKPweuk\" data-description=\"The HINTS exam in vertigo\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"654\">The HINTS exam in vertigo</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1127\" data-mediaid=\"1127\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1127\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1127\" data-mediaid=\"1127\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1127\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4BftS-3EIRI\" data-description=\"Strokes & The Rule of 4s\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"1187\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4BftS-3EIRI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4BftS-3EIRI\" data-description=\"Strokes & The Rule of 4s\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"1187\">Strokes & The Rule of 4s</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2046\" data-mediaid=\"2046\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2046\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_2046\" data-mediaid=\"2046\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2046\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qxiRfP9XmpE\" data-description=\"Brainstem stroke syndromes\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"672\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/qxiRfP9XmpE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qxiRfP9XmpE\" data-description=\"Brainstem stroke syndromes\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"672\">Brainstem stroke syndromes</a></td></tr><tr><td><span ><small>Soton Brain Hub - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1165\" data-mediaid=\"1165\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1165\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1165\" data-mediaid=\"1165\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1165\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dym7F9kMDj8\" data-description=\"Midbrain Syndromes - Weber\u00e2\u20ac\u2122s Syndrome, Benedikt\u00e2\u20ac\u2122s Syndrome and Parinaud Syndrome\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1439\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/dym7F9kMDj8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dym7F9kMDj8\" data-description=\"Midbrain Syndromes - Weber\u00e2\u20ac\u2122s Syndrome, Benedikt\u00e2\u20ac\u2122s Syndrome and Parinaud Syndrome\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1439\">Midbrain Syndromes - Weber\u00e2\u20ac\u2122s Syndrome, Benedikt\u00e2\u20ac\u2122s Syndrome and Parinaud Syndrome</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2540\" data-mediaid=\"2540\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2540\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2540\" data-mediaid=\"2540\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2540\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kfr1VRdPjQs\" data-description=\"Bamford classification\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"475\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Kfr1VRdPjQs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kfr1VRdPjQs\" data-description=\"Bamford classification\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"475\">Bamford classification</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_833\" data-mediaid=\"833\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_833\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_833\" data-mediaid=\"833\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_833\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"104\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cLi0lPt5UcA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"104\">Stroke</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_182\" data-mediaid=\"182\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_182\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_182\" data-mediaid=\"182\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_182\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "4060": {
+                "concept_text": "A POCI (posterior circulation infarct) involves the vertebrobasilar arteries",
+                "concept_percentile": "69"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20292_B_62",
+        "new_question_id": "39174",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1524",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Immediate N-acetylcysteine",
+            "Immediate activated charcoal",
+            "Immediate sodium bicarbonate",
+            "Manage conservatively",
+            "N-acetylcysteine  in 4 hours",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22-year-old woman presents to the emergency department after an intentional paracetamol overdose. She is alert and oriented but is tearful and regrets this decision. She took 16 tablets 5 hours ago.<br /><br />Blood tests are performed:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>13 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALP</td><td>66 u/L</td><td>(30 - 100)</td></tr><tr><td>ALT</td><td>34 u/L</td><td>(3 - 40)</td></tr><tr><td>\u00ce\u00b3GT</td><td>45 u/L</td><td>(8 - 60)</td></tr><tr><td>Albumin</td><td>43 g/L</td><td>(35 - 50)</td></tr><tr><td>Paracetamol level</td><td>65 mg/L</td><td>(<6)</td></tr><tr><td>pH</td><td>7.38</td><td>(7.35 - 7.45)</td></tr><tr><td>pCO2</td><td>5.3 kPa</td><td>(4.5 - 6.0)</td></tr><tr><td>pO2</td><td>12 kPa</td><td>(10 - 14)</td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most appropriate step in her management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Manage conservatively</b> is the correct answer. This patient has presented with an acute, single paracetamol overdose. There is no clinical evidence of liver toxicity (jaundice, right upper quadrant pain, altered mental state) and her blood results are normal. Her overdose is less than 150mg/kg (16 tablets *500mg /65kgs=123mg/kg), it was taken 5 hours ago, and it was not a staggered overdose. Her paracetamol level has returned to 65mg/L. When this is plotted on the nomogram it is below the treatment line. As this patient has no indications for treatment with N-acetylcysteine, managing conservatively is justified.<br /><br /><b>Immediate N-acetylcysteine</b> is incorrect. The patient does not meet the criteria to start N-acetylcysteine treatment mainly because her paracetamol level is below the treatment line.<br /><br /><b>Immediate activated charcoal</b> is incorrect. It may be appropriate if the patient presented within 1 hour of ingestion. This patient presented after 5 hours of her overdose making this option ineffective.<br /><br /><b>Immediate sodium bicarbonate</b> is incorrect. It does not form part of the routine management of a paracetamol overdose. Sodium bicarbonate may be used for urinary alkalinization in other drug toxicities such as aspirin overdose and if there is evidence of metabolic acidosis. The patient in this scenario is stated to have a normal blood gas result.<br /><br /><b>N-acetylcysteine in 4 hours</b> is incorrect. The patient does not meet the criteria to start N-acetylcysteine treatment mainly because her paracetamol level is below the treatment line.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22-year-old woman presents to the emergency department after an intentional paracetamol overdose. She is alert and oriented but is tearful and regrets this decision. She took 16 tablets 5 hours ago.<br /><br />Blood tests are performed:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Bilirubin</td><td>13 \u00b5mol/L</td><td>(3 - 17)</td></tr><tr><td>ALP</td><td>66 u/L</td><td>(30 - 100)</td></tr><tr><td>ALT</td><td>34 u/L</td><td>(3 - 40)</td></tr><tr><td>\u00ce\u00b3GT</td><td>45 u/L</td><td>(8 - 60)</td></tr><tr><td>Albumin</td><td>43 g/L</td><td>(35 - 50)</td></tr><tr><td>Paracetamol level</td><td>65 mg/L</td><td>(<6)</td></tr><tr><td>pH</td><td>7.38</td><td>(7.35 - 7.45)</td></tr><tr><td>pCO2</td><td>5.3 kPa</td><td>(4.5 - 6.0)</td></tr><tr><td>pO2</td><td>12 kPa</td><td>(10 - 14)</td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br />What is the most appropriate step in her management?",
+        "correct_answer": "4",
+        "question_notes": "<b>Manage conservatively</b> is the correct answer. This patient has presented with an acute, single paracetamol overdose. There is no clinical evidence of liver toxicity (jaundice, right upper quadrant pain, altered mental state) and her blood results are normal. Her overdose is less than 150mg/kg (16 tablets *500mg /65kgs=123mg/kg), it was taken 5 hours ago, and it was not a staggered overdose. Her paracetamol level has returned to 65mg/L. When this is plotted on the nomogram it is below the treatment line. As this patient has no indications for treatment with N-acetylcysteine, managing conservatively is justified.<br /><br /><b>Immediate N-acetylcysteine</b> is incorrect. The patient does not meet the criteria to start N-acetylcysteine treatment mainly because her paracetamol level is below the treatment line.<br /><br /><b>Immediate activated charcoal</b> is incorrect. It may be appropriate if the patient presented within 1 hour of ingestion. This patient presented after 5 hours of her overdose making this option ineffective.<br /><br /><b>Immediate sodium bicarbonate</b> is incorrect. It does not form part of the routine management of a paracetamol overdose. Sodium bicarbonate may be used for urinary alkalinization in other drug toxicities such as aspirin overdose and if there is evidence of metabolic acidosis. The patient in this scenario is stated to have a normal blood gas result.<br /><br /><b>N-acetylcysteine in 4 hours</b> is incorrect. The patient does not meet the criteria to start N-acetylcysteine treatment mainly because her paracetamol level is below the treatment line.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Paracetamol overdose: management",
+        "body": "The following is based on 2012 Commission on Human Medicines (CHM) review of paracetamol overdose management. The big change in these guidelines was the removal of the 'high-risk' treatment line on the normogram. All patients are therefore treated the same regardless of risk factors for hepatotoxicity. The National Poisons Information Service/TOXBASE should always be consulted for situations outside of the normal parameters.<br /><br />The minority of patients who <span class=\"concept\" data-cid=\"9725\">present within 1 hour may benefit from activated charcoal to reduce absorption of the drug</span>.<br /><br />Acetylcysteine should be given if:<br /><ul><li>the plasma paracetamol concentration is on or above a single treatment line joining points of 100 mg/L at 4 hours and 15 mg/L at 15 hours, regardless of risk factors of hepatotoxicity</li><li>there is a <span class=\"concept\" data-cid=\"3125\">staggered overdose</span>* or there is doubt over the time of paracetamol ingestion, regardless of the plasma paracetamol concentration; or</li><li><span class=\"concept\" data-cid=\"11854\">patients who present 8-24 hours</span> after ingestion of an acute overdose of more than 150 mg/kg of paracetamol even if the plasma-paracetamol concentration is not yet available</li><li><span class=\"concept\" data-cid=\"11855\">patients who present > 24 hours</span> if they are clearly jaundiced or have hepatic tenderness, their ALT is above the upper limit of normal<ul><li><span class=\"concept\" data-cid=\"11856\">acetylcysteine should be continued if the paracetamol concentration or ALT remains elevated</span> whilst seeking specialist advice</li></ul></li></ul><br />Acetylcysteine is now infused over 1 hour (rather than the previous 15 minutes) to reduce the number of adverse effects. <span class=\"concept\" data-cid=\"2674\">Acetylcysteine commonly causes an anaphylactoid reaction (non-IgE mediated mast cell release)</span>. <span class=\"concept\" data-cid=\"2675\">Anaphylactoid reactions to IV acetylcysteine are generally treated by stopping the infusion, then restarting at a slower rate</span>.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><h5 class='notes-heading'>King's College Hospital criteria for liver transplantation (paracetamol liver failure)</h5><br /><span class=\"concept\" data-cid=\"11439\">Arterial pH</span> <span class=\"concept\" data-cid=\"11440\">< 7.3, 24 hours after ingestion</span><br /><br />or all of the following:<br /><ul><li>prothrombin time > 100 seconds</li><li>creatinine > 300 \u00b5mol/l</li><li>grade III or IV encephalopathy</th></tr></thead><tbody></tbody></table></div></li></ul><br />*an overdose is considered staggered if all the tablets were not taken within 1 hour",
+        "notes_hash": "4911000a286e8bba54b991d5bc9bab33",
+        "knowledge_graph_node_id_link": 11395,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4176",
+        "up_votes": "27",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "809",
+            "52",
+            "7",
+            "3213",
+            "95",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Medicines and Healthcare products Regulatory Agency</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_662\" data-linkid=\"662\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_662\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_662\" data-linkid=\"662\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_662\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/drug-safety-update/treating-paracetamol-overdose-with-intravenous-acetylcysteine-new-guidance\">2012 Paracetamol overdose update</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3125": {
+                "concept_text": "Patients who take a staggered paracetamol overdose should receive treatment with acetylcysteine",
+                "concept_percentile": "85"
+            },
+            "11440": {
+                "concept_text": "Liver transplantation criteria in paracetamol overdose: pH < 7.3 more than 24 hours after ingestion",
+                "concept_percentile": "73"
+            },
+            "11854": {
+                "concept_text": "Paracetamol overdose: if presentation 8-24 hours after ingestion of an overdose of more than 150 mg/kg start acetylcysteine even if the plasma-paracetamol concentration is not yet available",
+                "concept_percentile": "46"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_180",
+        "new_question_id": "4668",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1790",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Threadworms",
+            "Human roundworm",
+            "Psoriasis",
+            "Haemorrhoids",
+            "Tapeworm",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother brings in her 6-year-old boy who complains of 'an itchy bottom' at night. He is otherwise systemically well, developing normally and denies any change in his bowel habit. An external examination of the anus is unremarkable.<br /><br />Which one of the following is the most likely cause?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "Threadworms are a common cause of anal itching in children. Examination is often unremarkable. Threadworms are best seen at nighttime and appear like moving white threads in the anal area.<br /><br />Human roundworm does not usually cause itching and are rare in the UK. <br /><br />Tapeworms are parasites that can live in the intestine, they do not cause anal itching and are often asymptomatic<br /><br />Psoriasis is usually found on the elbows, knees, scalp and lower back. It may also be found in the genital area and would present with scaly, red skin.<br /><br />Haemorrhoids are swollen vessels located around the anus which can result in itching and rectal bleeding, usually on a background of constipation.<br /><br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother brings in her 6-year-old boy who complains of 'an itchy bottom' at night. He is otherwise systemically well, developing normally and denies any change in his bowel habit. An external examination of the anus is unremarkable.<br /><br />Which one of the following is the most likely cause?",
+        "correct_answer": "1",
+        "question_notes": "Threadworms are a common cause of anal itching in children. Examination is often unremarkable. Threadworms are best seen at nighttime and appear like moving white threads in the anal area.<br /><br />Human roundworm does not usually cause itching and are rare in the UK. <br /><br />Tapeworms are parasites that can live in the intestine, they do not cause anal itching and are often asymptomatic<br /><br />Psoriasis is usually found on the elbows, knees, scalp and lower back. It may also be found in the genital area and would present with scaly, red skin.<br /><br />Haemorrhoids are swollen vessels located around the anus which can result in itching and rectal bleeding, usually on a background of constipation.<br /><br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Threadworms",
+        "body": "Infestation with threadworms (<i>Enterobius vermicularis</i>, sometimes called pinworms) is extremely common amongst children in the UK. Infestation occurs after swallowing eggs that are present in the environment.<br /><br />Threadworm infestation is asymptomatic in around 90% of cases, possible features include:<br /><ul><li><span class=\"concept\" data-cid=\"12023\">perianal itching</span>, particularly at night</li><li>girls may have vulval symptoms</li></ul><br />Diagnosis may be made by the <span class=\"concept\" data-cid=\"10465\">applying Sellotape to the perianal area</span> and sending it to the laboratory for microscopy to see the eggs. However, most patients are treated empirically and this approach is supported in the CKS guidelines.<br /><br />Management<br /><ul><li>CKS recommend a combination of anthelmintic with hygiene measures for <span class=\"concept\" data-cid=\"10464\">all members of the household</span></li><li><span class=\"concept\" data-cid=\"4663\">mebendazole</span> is used first-line for children > 6 months old. A single dose is given unless infestation persists</li></ul>",
+        "notes_hash": "7d58ca3688368f7644c2d0db675816e2",
+        "knowledge_graph_node_id_link": 11069,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4343",
+        "up_votes": "22",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "3542",
+            "200",
+            "30",
+            "33",
+            "538",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "4663": {
+                "concept_text": "Mebendazole is first line therapy for treatment of threadworm",
+                "concept_percentile": "44"
+            },
+            "10464": {
+                "concept_text": "Household contacts of patients with threadworms should be treated even if they have no symptoms",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_642",
+        "new_question_id": "1527",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "195",
+        "notes_id_link": "1_1175",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "10ml 1:10,000 IV",
+            "0.5ml 1:1,000 IM",
+            "0.5ml 1:10,000 IM",
+            "5ml 1:1,000 IM",
+            "Nebulised adrenaline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old man with a known history of peanut allergy presents to the Emergency Department with a swollen face. On examination blood pressure is 85/60 mmHg, pulse 120 bpm and there is a bilateral expiratory wheeze. What is the most appropriate form of adrenaline to give?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer in this case is <b>0.5ml 1:1,000 IM</b>. This is the most appropriate form of adrenaline to give because it follows UK guidelines for the management of anaphylaxis. According to these guidelines, intramuscular (IM) adrenaline should be administered as first-line treatment for patients presenting with signs and symptoms of anaphylaxis, such as hypotension and respiratory distress. The recommended dose for adults is 0.5ml of a 1:1,000 (1mg/ml) solution.<br /><br />The other options are incorrect for various reasons:<br /><br /><b>10ml 1:10,000 IV</b> - Intravenous (IV) administration of adrenaline is typically reserved for severe cases where there is no response to initial IM treatment or if there's immediate life-threatening anaphylaxis involving airway obstruction or circulatory collapse. Additionally, the dose mentioned here would be too high; if IV administration were necessary, a lower concentration (e.g., 0.05-0.10 ml/kg/min) would be used.<br /><br /><b>0.5ml 1:10,000 IM</b> - This option provides a lower concentration than recommended by the guidelines. Using a lower concentration may lead to inadequate treatment and potentially worsen the patient's condition.<br /><br /><b>5ml 1:1,000 IM</b> - This option represents a significantly higher dose than what is recommended by the guidelines (2.5 times higher). Administration of such a high dose could lead to adverse effects such as tachycardia, hypertension, and arrhythmias.<br /><br /><b>Nebulised adrenaline</b> - Nebulised adrenaline is not indicated for anaphylaxis management but rather for conditions like croup or acute asthma exacerbations where local vasoconstriction can help alleviate airway inflammation and obstruction. In this scenario, the patient requires systemic administration of adrenaline to reverse hypotension and respiratory distress.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old man with a known history of peanut allergy presents to the Emergency Department with a swollen face. On examination blood pressure is 85/60 mmHg, pulse 120 bpm and there is a bilateral expiratory wheeze. What is the most appropriate form of adrenaline to give?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer in this case is <b>0.5ml 1:1,000 IM</b>. This is the most appropriate form of adrenaline to give because it follows UK guidelines for the management of anaphylaxis. According to these guidelines, intramuscular (IM) adrenaline should be administered as first-line treatment for patients presenting with signs and symptoms of anaphylaxis, such as hypotension and respiratory distress. The recommended dose for adults is 0.5ml of a 1:1,000 (1mg/ml) solution.<br /><br />The other options are incorrect for various reasons:<br /><br /><b>10ml 1:10,000 IV</b> - Intravenous (IV) administration of adrenaline is typically reserved for severe cases where there is no response to initial IM treatment or if there's immediate life-threatening anaphylaxis involving airway obstruction or circulatory collapse. Additionally, the dose mentioned here would be too high; if IV administration were necessary, a lower concentration (e.g., 0.05-0.10 ml/kg/min) would be used.<br /><br /><b>0.5ml 1:10,000 IM</b> - This option provides a lower concentration than recommended by the guidelines. Using a lower concentration may lead to inadequate treatment and potentially worsen the patient's condition.<br /><br /><b>5ml 1:1,000 IM</b> - This option represents a significantly higher dose than what is recommended by the guidelines (2.5 times higher). Administration of such a high dose could lead to adverse effects such as tachycardia, hypertension, and arrhythmias.<br /><br /><b>Nebulised adrenaline</b> - Nebulised adrenaline is not indicated for anaphylaxis management but rather for conditions like croup or acute asthma exacerbations where local vasoconstriction can help alleviate airway inflammation and obstruction. In this scenario, the patient requires systemic administration of adrenaline to reverse hypotension and respiratory distress.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Adrenaline",
+        "body": "Adrenaline is a sympathomimetic amine with both alpha and beta adrenergic stimulating properties<br /><br />Indications<br /><ul><li>anaphylaxis</li><li>cardiac arrest</li></ul><br /><span class=\"concept\" data-cid=\"195\">Recommend Adult Life Support (ALS) adrenaline doses</span><br /><ul><li>anaphylaxis: 0.5ml 1:1,000 IM</li><li>cardiac arrest: 10ml 1:10,000 IV or 1ml of 1:1000 IV</li></ul><br />Management of accidental injection e.g. resulting in digital ischaemia<br /><ul><li><span class=\"concept\" data-cid=\"196\">local infiltration of phentolamine</span></li></ul><br />Background<br /><ul><li>responsible for the fight or flight response</li><li>released by the adrenal glands</li><li>acts on &alpha; 1 and 2, &beta; 1 and 2 receptors</li><li>acts on &beta; 2 receptors in skeletal muscle vessels-causing vasodilation</li><li>increases cardiac output and total peripheral resistance</li><li>causes vasoconstriction in the skin and kidneys causing a <b>narrow pulse pressure</b></li></ul>  <br />Actions on &alpha; adrenergic receptors: <br /><ul><li>inhibits insulin secretion by the pancreas</li><li>stimulates glycogenolysis in the liver and muscle</li><li>stimulates glycolysis in muscle</li></ul><br />Actions on&beta; adrenergic receptors:<br /><ul><li>stimulates glucagon secretion in the pancreas</li><li>stimulates ACTH</li><li>stimulates lipolysis by adipose tissue</li></ul>",
+        "notes_hash": "eec5f685893d429858c1a408dda33e13",
+        "knowledge_graph_node_id_link": 11389,
+        "concept": "Recommend Adult Life Support (ALS) adrenaline doses<br /><ul><li>anaphylaxis: 0.5mg - 0.5ml 1:1,000 IM</li><li>cardiac arrest: 1mg - 10ml 1:10,000 IV or 1ml of 1:1000 IV</li></ul>",
+        "concept_percentile": "78",
+        "concept_colour": "rgb(112,255,0)",
+        "number_attempts": "8984",
+        "up_votes": "28",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "301",
+            "6789",
+            "1399",
+            "468",
+            "27",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Resus Council</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_702\" data-linkid=\"702\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_702\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_702\" data-linkid=\"702\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_702\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.resus.org.uk/anaphylaxis/emergency-treatment-of-anaphylactic-reactions/\">2008 Anaphylaxis guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "195": {
+                "concept_text": "Recommend Adult Life Support (ALS) adrenaline doses\n   - anaphylaxis: 0.5mg - 0.5ml 1:1,000 IM\n   - cardiac arrest: 1mg - 10ml 1:10,000 IV or 1ml of 1:1000 IV",
+                "concept_percentile": "78"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]
