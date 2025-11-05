@@ -10,7 +10,7 @@ const app = {
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {}, // { "1_B_2093": "correct", ... }
-        totalQuestions: 2960,
+        totalQuestions: 2960, // <-- FIX: Changed from 3207
         batchSize: 10,
         questionsPath: 'msra/questions/',
         textbookIndexPath: 'msra/textbook.html',
@@ -302,7 +302,7 @@ const app = {
         this.loadingModal.show();
         
         // 1. Load all questions (if not already loaded)
-        await this.loadAllQuestions(module, true); // true = force decrypt
+        await this.loadAllQuestions(module, true); // true = force decrypt if needed
         
         // 2. Get filters
         const categoryId = document.getElementById(`${module}-category-select`).value;
@@ -422,11 +422,12 @@ const app = {
                     .then(batchData => {
                         return batchData.map((q, index) => {
                             const questionIndex = start + index;
-                            // Only decrypt if needed (e.g., first load)
-                            if (forceDecrypt && typeof q.question === 'string') {
+                            // Only decrypt if needed (e.g., first load) and if it's the MSRA module
+                            if (module === 'msra' && forceDecrypt && typeof q.question === 'string') {
                                 q.question = this.decryptText(q.question, questionIndex);
                                 q.questions = q.questions.map(qs => this.decryptText(qs, questionIndex));
                             }
+                            q.decrypted = true; // Mark as processed
                             return q;
                         });
                     })
@@ -463,23 +464,17 @@ const app = {
         }
 
         // --- Decrypt on the fly if not already decrypted ---
-        if (!q.decrypted) {
-            // Find the original 0-based index
-            const batchIndex = Math.floor(q.new_question_id / config.batchSize); // Assuming new_question_id is 1-based, hmm
-            // Let's find the original index from the file name.
-            // This is complex. Let's just decrypt based on its position in the *original* allQuestions array.
-            // We need a stable ID. Let's use `question_id`.
-            
+        // This check is now redundant if forceDecrypt is always true on load, but good for safety.
+        if (module === 'msra' && !q.decrypted) {
             // Re-finding the *original* 0-based index to get the key
-            // This is only needed if `loadAllQuestions` didn't forceDecrypt
             const originalIndex = config.allQuestions.findIndex(origQ => origQ.question_id === q.question_id);
             
             if (originalIndex !== -1) {
                  q.question = this.decryptText(q.question, originalIndex);
                  q.questions = q.questions.map(qs => this.decryptText(qs, originalIndex));
-                 q.decrypted = true; // Mark as decrypted
             }
         }
+        q.decrypted = true; // Mark as processed
         
         const questionText = q.question.replace(/<br \/>/g, '<br>').replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">').replace(/<\/q>/g, '</blockquote>');
 
