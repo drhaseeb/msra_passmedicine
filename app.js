@@ -399,7 +399,7 @@ const app = {
         // Check if already loaded
         if (config.allQuestions.length === config.totalQuestions) {
             console.log(`[${module}] Questions already in memory.`);
-            return;
+            return Promise.resolve();
         }
 
         console.log(`[${module}] Loading all questions from scratch...`);
