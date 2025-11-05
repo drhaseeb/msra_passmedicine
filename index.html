@@ -401,7 +401,7 @@
                          </div>
                     </div>
                 </div>
-                <div class.="question-content">
+                <div class="question-content">
                     <div id="pd-question-area" class="container-fluid">
                         <h2 class="text-secondary">Select a batch, then a question to begin.</h2>
                     </div>
@@ -455,7 +455,7 @@
                     <h5 class="modal-title text-light" id="textbookModalTitle">Loading...</h5>
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class...="modal-body textbook-content-inner" id="textbookModalBody">
+                <div class="modal-body textbook-content-inner" id="textbookModalBody">
                     ...
                 </div>
                 <div class="modal-footer">
@@ -846,7 +846,7 @@
                     <div class="question-explanation">
                         <h4 class="text-light">${isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>Correct' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>Incorrect'}</h4>
                         <hr class="my-3 border-secondary">
-                        <div class_ ="fs-5">${q.question_notes}</div>
+                        <div class="fs-5">${q.question_notes}</div>
                         ${noteLinkHtml}
                     </div>
                 `;
@@ -881,6 +881,8 @@
                             config.noteIdMap[noteId] = filename;
                             
                             // Re-wire the link for our app
+                            // The path in the pre-built HTML is relative to itself, e.g. "scraped_content/file.html"
+                            // We need to make it relative to index.html, e.g. "msra/scraped_content/file.html"
                             const correctPath = `${config.textbookPath}${filename}`;
                             link.setAttribute('href', '#');
                             link.setAttribute('data-path', correctPath);
