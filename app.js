@@ -6,11 +6,11 @@ const app = {
     
     // --- MODULE CONFIG ---
     msra: {
-        allQuestions: [], // Will be populated with 3207 questions
+        allQuestions: [], // Will be populated
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {}, // { "1_B_2093": "correct", ... }
-        totalQuestions: 2960, // <-- FIX: Changed from 3207
+        totalQuestions: 2960, // <-- FIX: Corrected total
         batchSize: 10,
         questionsPath: 'msra/questions/',
         textbookIndexPath: 'msra/textbook.html',
@@ -34,7 +34,7 @@ const app = {
         }
     },
     pd: {
-        allQuestions: [], // Will be populated with 302 questions
+        allQuestions: [], // Will be populated
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {},
@@ -288,7 +288,7 @@ const app = {
         
         document.getElementById(`${module}-progress-bar-correct`).style.width = `${correctPercent}%`;
         document.getElementById(`${module}-progress-bar-incorrect`).style.width = `${incorrectPercent}%`;
-        document.getElementById(`${module}-progress-text-correct`).innerHTML = `<i class="bi bi-check-circle-fill text-success"></i> ${correct} Correct`;
+        document.getElementById(`${module}-progress-text-correct`).innerHTML = `<i class="bi bi-check-circle-fill text-success me-2"></i> ${correct} Correct`;
         document.getElementById(`${module}-progress-text-incorrect`).innerHTML = `<i class="bi bi-x-circle-fill text-danger"></i> ${incorrect} Incorrect`;
         document.getElementById(`${module}-progress-text-remaining`).innerHTML = `<i class="bi bi-circle"></i> ${totalRemaining} Remaining`;
     },
@@ -302,7 +302,7 @@ const app = {
         this.loadingModal.show();
         
         // 1. Load all questions (if not already loaded)
-        await this.loadAllQuestions(module, true); // true = force decrypt if needed
+        await this.loadAllQuestions(module); // No longer needs forceDecrypt
         
         // 2. Get filters
         const categoryId = document.getElementById(`${module}-category-select`).value;
@@ -393,7 +393,7 @@ const app = {
         this.renderQuizQuestion(module, newIndex);
     },
 
-    async loadAllQuestions(module, forceDecrypt = false) {
+    async loadAllQuestions(module, forceDecrypt = false) { // forceDecrypt is no longer used but kept for compatibility
         const config = this[module];
         
         // Check if already loaded
@@ -418,18 +418,10 @@ const app = {
                         if (!res.ok) throw new Error(`Failed to load ${path}`);
                         return res.json();
                     })
-                    // Decrypt each question *as it arrives*
+                    // REMOVED: Decryption logic was here.
+                    // Now we just return the batch directly.
                     .then(batchData => {
-                        return batchData.map((q, index) => {
-                            const questionIndex = start + index;
-                            // Only decrypt if needed (e.g., first load) and if it's the MSRA module
-                            if (module === 'msra' && forceDecrypt && typeof q.question === 'string') {
-                                q.question = this.decryptText(q.question, questionIndex);
-                                q.questions = q.questions.map(qs => this.decryptText(qs, questionIndex));
-                            }
-                            q.decrypted = true; // Mark as processed
-                            return q;
-                        });
+                        return batchData;
                     })
             );
         }
@@ -437,7 +429,7 @@ const app = {
         try {
             const allBatches = await Promise.all(fetchPromises);
             config.allQuestions = allBatches.flat();
-            console.log(`[${module}] Successfully loaded and decrypted all ${config.allQuestions.length} questions.`);
+            console.log(`[${module}] Successfully loaded all ${config.allQuestions.length} questions.`);
         } catch (err) {
             console.error(`[${module}] Failed to load all questions:`, err);
             if(this.loadingModal) this.loadingModal.hide();
@@ -463,18 +455,8 @@ const app = {
             activeLink.scrollIntoView({ block: 'nearest' });
         }
 
-        // --- Decrypt on the fly if not already decrypted ---
-        // This check is now redundant if forceDecrypt is always true on load, but good for safety.
-        if (module === 'msra' && !q.decrypted) {
-            // Re-finding the *original* 0-based index to get the key
-            const originalIndex = config.allQuestions.findIndex(origQ => origQ.question_id === q.question_id);
-            
-            if (originalIndex !== -1) {
-                 q.question = this.decryptText(q.question, originalIndex);
-                 q.questions = q.questions.map(qs => this.decryptText(qs, originalIndex));
-            }
-        }
-        q.decrypted = true; // Mark as processed
+        // --- REMOVED DECRYPTION BLOCK ---
+        // The questions are now expected to be plaintext in the JSON
         
         const questionText = q.question.replace(/<br \/>/g, '<br>').replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">').replace(/<\/q>/g, '</blockquote>');
 
@@ -679,29 +661,9 @@ const app = {
         }
     },
 
-    // --- DECRYPTION ---
-    getDecryptionShift(key) {
-        const shiftCalc = (key * key + key * key * key + key + 15) % 26;
-        return 26 - shiftCalc;
-    },
-
-    decryptText(text, key) {
-        if (!text || typeof text !== 'string') return text;
-        const shift = this.getDecryptionShift(key);
-        let decryptedText = "";
-        for (let i = 0; i < text.length; i++) {
-            const char = text[i];
-            const charCode = text.charCodeAt(i);
-            if (65 <= charCode && charCode <= 90) { // Uppercase
-                decryptedText += String.fromCharCode((charCode - 65 + shift) % 26 + 65);
-            } else if (97 <= charCode && charCode <= 122) { // Lowercase
-                decryptedText += String.fromCharCode((charCode - 97 + shift) % 26 + 97);
-            } else {
-                decryptedText += char;
-            }
-        }
-        return decryptedText;
-    },
+    // --- REMOVED DECRYPTION FUNCTIONS ---
+    // getDecryptionShift(key) {}
+    // decryptText(text, key) {}
 
     // --- TEXTBOOK LOGIC ---
     async loadTextbookIndex(module) {
