@@ -294,78 +294,87 @@ const app = {
     },
 
     async startQuiz(module) {
-        const config = this[module];
-        
-        // Show loading modal
-        document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
-        document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
-        this.loadingModal.show();
+        const config = this[module];
+        const loadingModalEl = document.getElementById('loadingModal');
+        
+        // 1. Define the main quiz logic as a function to be called *after* the modal is shown
+        const loadAndRenderQuiz = async () => {
+            // 1. Load all questions (if not already loaded)
+            await this.loadAllQuestions(module); 
+            
+            // 2. Get filters
+            const categoryId = document.getElementById(`${module}-category-select`).value;
+            const includeAnswered = document.getElementById(`${module}-include-answered`).checked;
 
-        await new Promise(resolve => setTimeout(resolve, 0));
-        
-        // 1. Load all questions (if not already loaded)
-        await this.loadAllQuestions(module); // No longer needs forceDecrypt
-        
-        // 2. Get filters
-        const categoryId = document.getElementById(`${module}-category-select`).value;
-        const includeAnswered = document.getElementById(`${module}-include-answered`).checked;
+            // 3. Filter questions
+            let quizSet = config.allQuestions;
+            
+            if (categoryId !== 'all') {
+                quizSet = quizSet.filter(q => String(q.category) === categoryId);
+            }
+            
+            if (!includeAnswered) {
+                quizSet = quizSet.filter(q => !config.progress.hasOwnProperty(q.question_id));
+            }
 
-        // 3. Filter questions
-        let quizSet = config.allQuestions;
-        
-        if (categoryId !== 'all') {
-            quizSet = quizSet.filter(q => String(q.category) === categoryId);
-        }
-        
-        if (!includeAnswered) {
-            quizSet = quizSet.filter(q => !config.progress.hasOwnProperty(q.question_id));
-        }
+            if (quizSet.length === 0) {
+                this.loadingModal.hide(); // Just hide the modal directly
+                alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
+                return; // Stop execution
+            }
 
-        if (quizSet.length === 0) {
-            this.loadingModal.hide();
-            alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
-            return;
-        }
+            // 4. Setup quiz state
+            config.currentQuizSet = quizSet;
+            config.currentQuestionIndex = 0;
 
-        // 4. Setup quiz state
-        config.currentQuizSet = quizSet;
-        config.currentQuestionIndex = 0;
+            // 5. Build question list sidebar (Using the optimized string-join method)
+            const listEl = document.getElementById('quiz-question-list');
+            const questionLinks = []; 
+            quizSet.forEach((q, index) => {
+                const status = config.progress[q.question_id];
+                let icon = '<i class="bi bi-circle me-2"></i>';
+                if (status === 'correct') {
+                    icon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
+                } else if (status === 'incorrect') {
+                    icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
+                }
+                
+                questionLinks.push(`
+                    <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="fw-bold">${icon} Question ${index + 1}</span>
+                            <small class="text-secondary">${q.question_id}</small>
+                        </div>
+    .               </a>
+                `);
+read       });
+            listEl.innerHTML = questionLinks.join(''); // Single DOM update
 
-        // 5. Build question list sidebar
-        const listEl = document.getElementById('quiz-question-list');
-        listEl.innerHTML = '';
-        quizSet.forEach((q, index) => {
-            const el = document.createElement('a');
-            el.href = '#';
-            el.className = 'list-group-item list-group-item-action question-link';
-            el.dataset.module = module;
-            el.dataset.index = index;
-            
-            const status = config.progress[q.question_id];
-            let icon = '<i class="bi bi-circle me-2"></i>';
-            if (status === 'correct') {
-                icon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
-            } else if (status === 'incorrect') {
-                icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
-            }
-            
-            el.innerHTML = `
-                <div class="d-flex justify-content-between align-items-center">
-                    <span class="fw-bold">${icon} Question ${index + 1}</span>
-                    <small class="text-secondary">${q.question_id}</small>
-                </div>
-            `;
-            listEl.appendChild(el);
-        });
+            // 6. Show quiz view, hide setup view
+            document.getElementById('quiz-setup-view').style.display = 'none';
+            document.getElementById('quiz-viewer').style.display = 'flex';
+            
+            // 7. Add a ONE-TIME listener to render the question *after* the modal is hidden
+            loadingModalEl.addEventListener('hidden.bs.modal', () => {
+                this.renderQuizQuestion(module, 0);
+            }, { once: true });
 
-        // 6. Show quiz view, hide setup view
-        document.getElementById('quiz-setup-view').style.display = 'none';
-        document.getElementById('quiz-viewer').style.display = 'flex';
-        this.loadingModal.hide();
-        
-        // 7. Render first question
-        this.renderQuizQuestion(module, 0);
-    },
+            // 8. Now, trigger the hide animation
+            this.loadingModal.hide();
+        };
+
+        // --- This is now the main body of startQuiz ---
+s      
+        // A. Setup modal text
+        document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
+        document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
+        
+        // B. Add the ONE-TIME listener to run our logic *after* the "show" animation finishes
+        loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
+
+  D     // C. Show the modal (this triggers the chain)
+        this.loadingModal.show();
+    },
 
     finishQuiz() {
         // Show setup view, hide quiz view
