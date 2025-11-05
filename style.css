@@ -222,6 +222,22 @@ body {
     padding: 0.25rem 0.5rem;
 }
 
+/* Quiz UI Additions */
+.quiz-start-card, .progress-card {
+    min-height: 400px;
+}
+.progress-by-category .list-group-item {
+    padding-left: 0;
+    padding-right: 0;
+}
+.progress-by-category .progress {
+    height: 8px;
+    background-color: #333;
+}
+.progress-by-category .progress-bar {
+    background-color: #7c3aed;
+}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
     width: 10px;
