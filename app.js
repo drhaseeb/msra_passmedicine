@@ -345,9 +345,9 @@ const app = {
                             <span class="fw-bold">${icon} Question ${index + 1}</span>
                             <small class="text-secondary">${q.question_id}</small>
                         </div>
-    .               </a>
+                    </a>
                 `);
-read       });
+           });
             listEl.innerHTML = questionLinks.join(''); // Single DOM update
 
             // 6. Show quiz view, hide setup view
@@ -364,7 +364,7 @@ read       });
         };
 
         // --- This is now the main body of startQuiz ---
-s      
+      
         // A. Setup modal text
         document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
         document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
@@ -372,7 +372,7 @@ s      
         // B. Add the ONE-TIME listener to run our logic *after* the "show" animation finishes
         loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
 
-  D     // C. Show the modal (this triggers the chain)
+        // C. Show the modal (this triggers the chain)
         this.loadingModal.show();
     },
 
