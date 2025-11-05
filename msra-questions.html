@@ -44,31 +44,88 @@
 
     <!-- Main Content Area -->
     <main>
-        <!-- MSRA Question Viewer -->
-        <div class="question-viewer-layout">
-            <div class="question-sidebar">
-                <div class="p-3 border-bottom border-secondary">
-                    <h5 class="text-light">MSRA Question Bank (3207)</h5>
-                </div>
-                <div class="batch-list-container">
-                    <div class="list-group list-group-flush" id="msra-batch-list">
-                        <!-- JS will populate this -->
+        <!-- This container holds BOTH the setup and the quiz view -->
+        <div class="container-fluid p-0">
+
+            <!-- 1. Quiz Setup View (Visible by default) -->
+            <div id="quiz-setup-view" class="container p-4 p-md-5">
+                <div class="row g-4">
+                    <!-- Start New Quiz Card -->
+                    <div class="col-lg-7">
+                        <div class="card quiz-start-card p-4">
+                            <h2 class="h3 text-light mb-4">Start New Quiz</h2>
+                            <div class="mb-3">
+                                <label for="msra-category-select" class="form-label">Select Category</label>
+                                <select class="form-select form-select-lg" id="msra-category-select">
+                                    <option value="all">All Categories (3207 questions)</option>
+                                    <!-- JS will populate this -->
+                                </select>
+                            </div>
+                            <div class="form-check form-switch mb-3 fs-5">
+                                <input class="form-check-input" type="checkbox" role="switch" id="msra-include-answered" checked>
+                                <label class="form-check-label" for="msra-include-answered">Include already answered questions</label>
+                            </div>
+                            <button class="btn btn-primary btn-lg" id="start-quiz-btn" data-module="msra">
+                                <i class="bi bi-play-circle-fill me-2"></i>
+                                <span>Start Quiz</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Progress Card -->
+                    <div class="col-lg-5">
+                        <div class="card progress-card p-4">
+                            <h2 class="h3 text-light mb-4">Your Progress</h2>
+                            <h6 class="text-secondary text-uppercase">Overall</h6>
+                            <div class="progress mb-3" style="height: 20px;">
+                                <div class="progress-bar bg-success" role="progressbar" id="msra-progress-bar-correct" style="width: 0%"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" id="msra-progress-bar-incorrect" style="width: 0%"></div>
+                            </div>
+                            <div class="d-flex justify-content-between text-secondary mb-4">
+                                <span id="msra-progress-text-correct"><i class="bi bi-check-circle-fill text-success"></i> 0 Correct</span>
+                                <span id="msra-progress-text-incorrect"><i class="bi bi-x-circle-fill text-danger"></i> 0 Incorrect</span>
+                                <span id="msra-progress-text-remaining"><i class="bi bi-circle"></i> 3207 Remaining</span>
+                            </div>
+
+                            <h6 class="text-secondary text-uppercase">By Category</h6>
+                            <div class="progress-by-category overflow-auto pe-2" style="max-height: 250px;">
+                                <ul class="list-group list-group-flush" id="msra-category-progress">
+                                    <!-- JS will populate this -->
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="p-3 border-top border-secondary">
-                    <h6 class="text-light">Questions in Batch</h6>
+            </div>
+
+            <!-- 2. Quiz Viewer (Hidden by default) -->
+            <div id="quiz-viewer" class="question-viewer-layout" style="display: none;">
+                <div class="question-sidebar">
+                    <div class="p-3 border-bottom border-secondary d-flex justify-content-between align-items-center">
+                        <h5 class="text-light mb-0" id="quiz-title">Quiz</h5>
+                        <button class="btn btn-sm btn-outline-secondary" id="quiz-finish-btn">
+                            <i class="bi bi-stop-circle me-1"></i>Finish
+                        </button>
+                    </div>
+                    <div class="question-list-container">
+                         <div class="list-group list-group-flush" id="quiz-question-list">
+                            <!-- JS will populate this -->
+                         </div>
+                    </div>
                 </div>
-                <div class="question-list-container">
-                        <div class="list-group list-group-flush" id="msra-question-list">
-                        <!-- JS will populate this -->
-                        </div>
+                <div class="question-content">
+                    <div id="quiz-question-area" class="container-fluid">
+                        <!-- JS will render questions here -->
+                    </div>
+                    <!-- Quiz Navigation -->
+                    <div class="p-3 border-top border-secondary d-flex justify-content-between">
+                        <button class="btn btn-outline-secondary btn-lg" id="quiz-prev-btn"><i class="bi bi-arrow-left me-2"></i>Previous</button>
+                        <div class="fs-5 text-secondary" id="quiz-nav-text">Question 1 / 10</div>
+                        <button class="btn btn-primary btn-lg" id="quiz-next-btn">Next<i class="bi bi-arrow-right ms-2"></i></button>
+                    </div>
                 </div>
             </div>
-            <div class="question-content">
-                <div id="msra-question-area" class="container-fluid">
-                    <h2 class="text-secondary">Select a batch, then a question to begin.</h2>
-                </div>
-            </div>
+            
         </div>
     </main>
 
@@ -85,6 +142,21 @@
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Modal -->
+    <div class="modal fade" id="loadingModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body p-4 text-center">
+                    <div class="spinner-border text-primary mb-3" style="width: 3rem; height: 3rem;" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <h4 class="text-light mb-1" id="loading-modal-title">Loading Quiz...</h4>
+                    <p class="text-secondary" id="loading-modal-text">Fetching and decrypting all questions. This may take a moment...</p>
                 </div>
             </div>
         </div>
