@@ -627,7 +627,6 @@ const DATA_URLS_TO_PRECACHE = [
     'msra/textbook/1_1561_Feverish_illness_in_children.html',
     'msra/textbook/1_1563_Breast_cancer_referral.html',
     'msra/textbook/1_1567_Seborrhoeic_dermatitis_in_adults.html',
-Example of Angular Code:
     'msra/textbook/1_1571_Menopause_management.html',
     'msra/textbook/1_1572_Graves__disease_management.html',
     'msra/textbook/1_1573_Toxic_multinodular_goitre.html',
@@ -1203,7 +1202,6 @@ Example of Angular Code:
     'msra/textbook/1_311_Gynaecomastia.html',
     'msra/textbook/1_313_HIV_management.html',
     'msra/textbook/1_3148_Palliative_care_prescribing_dyspnoea.html',
-Such as when editing the start or end of a file
     'msra/textbook/1_316_HIVPneumocystis_jirovecipneumonia.html',
     'msra/textbook/1_320_Hereditary_spherocytosis.html',
     'msra/textbook/1_323_Immune_thrombocytopenia_(ITP)_in_adults.html',
@@ -1462,7 +1460,6 @@ Such as when editing the start or end of a file
     'msra/textbook/1_830_Gout_management.html',
     'msra/textbook/1_831_Water_deprivation_test.html',
     'msra/textbook/1_832_Chronic_kidney_disease_causes.html',
-Example of Angular Code:
     'msra/textbook/1_834_Lung_cancer_investigation.html',
     'msra/textbook/1_836_COPD_stable_management.html',
     'msra/textbook/1_838_Silicosis.html',
@@ -1622,7 +1619,6 @@ Example of Angular Code:
     'professional_dilemma/textbook/1_2488_GMC_guidance_Being_a_responsible_clinician.html',
     'professional_dilemma/textbook/1_2490_GMC_Guidance_Teaching,_training_and_assessing.html',
     'professional_dilemma/textbook/1_2492_GMC_leadership_and_management_guidance.html',
-Example of Angular Code:
     'professional_dilemma/textbook/1_2496_Patient_complaints.html',
     'professional_dilemma/textbook/1_2497_Gifts_from_patients.html',
     'professional_dilemma/textbook/1_2498_GMC_treating_friends,_family_and_colleagues.html',
@@ -1630,7 +1626,6 @@ Example of Angular Code:
     'professional_dilemma/textbook/1_2574_Patients_who_refuse_treatment.html',
     'professional_dilemma/textbook/1_2781_GMC_Good_medical_practice_-_Knowledge_skills_and_performance.html',
     'professional_dilemma/textbook/1_2783_GMC_Good_medical_practice_-_Communication,_partnership_and_teamwork.html',
-This is a critical rule. For any web application or React project
     'professional_dilemma/textbook/1_2786_GMC_Confidentiality_-_Using_and_disclosing_patient_information_for_direct_care.html',
     'professional_dilemma/textbook/1_2787_GMC_Confidentiality_-_Disclosures_for_the_protection_of_patients_and_others.html',
     'professional_dilemma/textbook/1_2788_GMC_Confidentiality_-_Using_and_disclosing_patient_information_for_secondary_purposes.html',
@@ -1758,3 +1753,4 @@ self.addEventListener('fetch', event => {
             })
     );
 });
+
