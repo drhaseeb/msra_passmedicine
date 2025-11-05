@@ -351,8 +351,8 @@ const app = {
         };
 
         // Setup modal text
-        document.getElementById('loading-modal-title')?.textContent = 'Loading Quiz...';
-        document.getElementById('loading-modal-text')?.textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
+        document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
+        document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
 
         // Add one-time listener for modal shown
         if(loadingModalEl) {
