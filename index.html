@@ -18,6 +18,8 @@
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#121212">
+    <!-- Fallback icons for Apple devices -->
+    <link rel="apple-touch-icon" href="https://placehold.co/192x192/7c3aed/ffffff?text=PM&font=inter">
 
     <style>
         /* Use Inter font */
@@ -399,7 +401,7 @@
                          </div>
                     </div>
                 </div>
-                <div class="question-content">
+                <div class.="question-content">
                     <div id="pd-question-area" class="container-fluid">
                         <h2 class="text-secondary">Select a batch, then a question to begin.</h2>
                     </div>
@@ -453,7 +455,7 @@
                     <h5 class="modal-title text-light" id="textbookModalTitle">Loading...</h5>
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body textbook-content-inner" id="textbookModalBody">
+                <div class...="modal-body textbook-content-inner" id="textbookModalBody">
                     ...
                 </div>
                 <div class="modal-footer">
@@ -476,6 +478,7 @@
                 currentBatchData: [],
                 totalQuestions: 3207,
                 batchSize: 10,
+                // These paths are relative to index.html
                 questionsPath: 'msra/questions/',
                 textbookIndexPath: 'msra/textbook.html',
                 textbookPath: 'msra/textbook/',
@@ -486,6 +489,7 @@
                 currentBatchData: [],
                 totalQuestions: 302,
                 batchSize: 10,
+                // These paths are relative to index.html
                 questionsPath: 'professional_dilemma/questions/',
                 textbookIndexPath: 'professional_dilemma/textbook.html',
                 textbookPath: 'professional_dilemma/textbook/',
@@ -581,7 +585,7 @@
                     if(textbookLink) {
                         e.preventDefault();
                         const module = textbookLink.closest('.textbook-sidebar').id.startsWith('msra') ? 'msra' : 'pd';
-                        this.handleTextbookNav(e, module);
+                        this.handleTextbookNav(textbookLink, module);
                     }
                 });
 
@@ -603,10 +607,12 @@
                 // Show target page
                 const targetView = document.getElementById(`view-${viewId}`);
                 if (targetView) {
+                    // Full-screen views
                     if(viewId.includes('questions') || viewId.includes('textbook')) {
-                        targetView.style.display = 'block'; // These views have their own layout
+                        targetView.style.display = 'block'; 
                     } else {
-                        targetView.style.display = 'block'; // Standard container views
+                         // Container views
+                        targetView.style.display = 'block';
                     }
                 } else {
                     document.getElementById('view-home').style.display = 'block';
@@ -614,10 +620,11 @@
                 
                 this.currentView = viewId;
                 
-                // Update active nav links
+                // Update active nav links in main navbar
                 document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
                     link.classList.remove('active', 'fw-bold');
-                    if (viewId.startsWith(link.dataset.navTarget)) {
+                    const linkTarget = link.dataset.navTarget.replace('-home', '');
+                    if (viewId.startsWith(linkTarget)) {
                         link.classList.add('active', 'fw-bold');
                     }
                 });
@@ -652,6 +659,7 @@
                 for (let i = 0; i < batchCount; i++) {
                     const start = i * config.batchSize;
                     const end = Math.min(start + config.batchSize - 1, config.totalQuestions - 1);
+                    // Use the 0-indexed file names from your scripts
                     const batchFile = `questions_${start}_to_${end}.json`;
                     
                     const el = document.createElement('a');
@@ -659,6 +667,7 @@
                     el.className = 'list-group-item list-group-item-action batch-link';
                     el.dataset.module = module;
                     el.dataset.batchFile = batchFile;
+                    // Display as 1-indexed for humans
                     el.textContent = `Questions ${start + 1} - ${end + 1}`;
                     listEl.appendChild(el);
                 }
@@ -672,9 +681,10 @@
                 areaEl.innerHTML = '<h2 class="text-secondary">Select a question to begin.</h2>';
 
                 try {
+                    // Use the relative path from your directory structure
                     const path = `${config.questionsPath}${batchFile}`;
                     const response = await fetch(path);
-                    if (!response.ok) throw new Error(`File not found: ${path}`);
+                    if (!response.ok) throw new Error(`File not found: ${path}. Make sure it's in the right folder.`);
                     
                     const data = await response.json();
                     config.currentBatchData = data;
@@ -697,7 +707,7 @@
                     
                 } catch (err) {
                     console.error('Error loading question batch:', err);
-                    listEl.innerHTML = `<p class="text-danger p-3">Error loading batch. Check files and paths.</p>`;
+                    listEl.innerHTML = `<p class="text-danger p-3"><b>Error:</b> ${err.message}</p>`;
                 }
             },
             
@@ -710,6 +720,9 @@
                 const areaEl = document.getElementById(`${module}-question-area`);
                 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
                 let optionsHtml = '';
+
+                // Sanitize question text
+                const questionText = q.question.replace(/<br \/>/g, '<br>').replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">').replace(/<\/q>/g, '</blockquote>');
 
                 switch(q.question_type) {
                     case "0": // SBA
@@ -733,16 +746,18 @@
                         
                     case "3": // Select 3 (or 2, like 5)
                     case "5":
-                        optionsHtml = q.options.slice(1).map((opt, i) => {
+                        optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
                             if (!opt) return '';
                             return `<div class="question-option" data-letter="${alphabet[i]}">${alphabet[i]}. ${opt}</div>`;
                         }).join('');
                         break;
+                    default:
+                        optionsHtml = `<p class="text-danger">Error: Unknown question type "${q.question_type}"</p>`;
                 }
 
                 areaEl.innerHTML = `
                     <div data-module="${module}" data-q-type="${q.question_type}">
-                        <h4 class="text-light mb-4">${q.question.replace(/<br \/>/g, '<br>')}</h4>
+                        <h4 class="text-light mb-4">${questionText}</h4>
                         <div class="options-container mb-4">${optionsHtml}</div>
                         <button class="btn btn-primary btn-lg submit-answer-btn" data-module="${module}">Submit Answer</button>
                         <div class="explanation-container mt-4"></div>
@@ -766,7 +781,6 @@
                     const answerIndex = selected ? selected.dataset.index : null;
                     isCorrect = (answerIndex == q.correct_answer);
                     
-                    // Show correct/incorrect
                     qContainer.querySelectorAll('.question-option').forEach(opt => {
                         opt.setAttribute('data-disabled', 'true');
                         if (opt.dataset.index == q.correct_answer) {
@@ -779,12 +793,9 @@
                 } else if (qType === '2') { // Ranking
                     const inputs = qContainer.querySelectorAll('.rank-input');
                     let answerString = "";
-                    inputs.forEach(input => {
-                        answerString += input.value.trim().toUpperCase();
-                    });
+                    inputs.forEach(input => { answerString += input.value.trim().toUpperCase(); });
                     isCorrect = (answerString === q.correct_answer);
 
-                    // Show correct/incorrect
                     inputs.forEach(input => {
                         input.disabled = true;
                         const correctRank = q.correct_answer.indexOf(input.dataset.letter) + 1;
@@ -792,7 +803,6 @@
                             input.classList.add('is-valid');
                         } else {
                             input.classList.add('is-invalid');
-                            // Add a little hint
                             const hint = document.createElement('small');
                             hint.className = 'text-success ms-2';
                             hint.textContent = `(Correct: ${correctRank})`;
@@ -806,7 +816,6 @@
                     let correctAnswer = q.correct_answer.split('').sort().join('');
                     isCorrect = (answerString === correctAnswer);
                     
-                    // Show correct/incorrect
                     const correctLetters = q.correct_answer.split('');
                     qContainer.querySelectorAll('.question-option').forEach(opt => {
                         opt.setAttribute('data-disabled', 'true');
@@ -818,10 +827,7 @@
                     });
                 }
                 
-                // Hide submit button
                 qContainer.querySelector('.submit-answer-btn').style.display = 'none';
-                
-                // Show explanation
                 this.showExplanation(q, isCorrect, module);
             },
             
@@ -830,7 +836,7 @@
                 if (!container) return;
                 
                 let noteLinkHtml = '';
-                if (q.notes_id_link && q.notes_id_link !== "0") {
+                if (q.notes_id_link && q.notes_id_link !== "0" && q.notes_id_link !== "1_1827") { // 1_1827 seems to be a placeholder
                     noteLinkHtml = `<button class="btn btn-outline-info mt-3 question-note-link" data-module="${module}" data-note-id="${q.notes_id_link}">
                         <i class="bi bi-book-half me-2"></i>View Linked Textbook Note
                     </button>`;
@@ -840,7 +846,7 @@
                     <div class="question-explanation">
                         <h4 class="text-light">${isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>Correct' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>Incorrect'}</h4>
                         <hr class="my-3 border-secondary">
-                        <p class="fs-5">${q.question_notes}</p>
+                        <div class_ ="fs-5">${q.question_notes}</div>
                         ${noteLinkHtml}
                     </div>
                 `;
@@ -849,14 +855,14 @@
             // --- TEXTBOOK LOGIC ---
             async loadTextbookIndex(module) {
                 const config = this[module];
+                const navEl = document.getElementById(`${module}-textbook-nav`);
                 try {
                     const response = await fetch(config.textbookIndexPath);
                     if (!response.ok) throw new Error(`File not found: ${config.textbookIndexPath}`);
                     
                     const html = await response.text();
-                    config.textbookIndexContent = html;
                     
-                    // Now, parse it to build the noteIdMap
+                    // Parse the HTML to fix paths and build the noteIdMap
                     const parser = new DOMParser();
                     const doc = parser.parseFromString(html, 'text/html');
                     const links = doc.querySelectorAll('a');
@@ -865,36 +871,51 @@
                         const href = link.getAttribute('href');
                         if (!href) return;
                         
-                        // Extract filename: "scraped_content/1_1890_ACE_inhibitors.html" -> "1_1890_ACE_inhibitors.html"
-                        // Or from PD: "/content/drive.../1_958_Post-exposure_prophylaxis.html" -> "1_958_Post-exposure_prophylaxis.html"
+                        // Extract filename: "scraped_content/1_1890_...html" -> "1_1890_...html"
                         const filename = href.split('/').pop();
                         
-                        // Extract noteId: "1_1890_ACE_inhibitors.html" -> "1_1890"
+                        // Extract noteId: "1_1890_...html" -> "1_1890"
                         const match = filename.match(/^([0-9]+_[0-9]+)_/);
                         if (match) {
                             const noteId = match[1];
                             config.noteIdMap[noteId] = filename;
+                            
+                            // Re-wire the link for our app
+                            const correctPath = `${config.textbookPath}${filename}`;
+                            link.setAttribute('href', '#');
+                            link.setAttribute('data-path', correctPath);
+                            link.removeAttribute('target'); // Remove target="_blank"
+                        } else {
+                            // This might be an internal anchor link
+                            link.setAttribute('data-path', '');
                         }
                     });
-                    console.log(`[${module}] Note ID Map created with ${Object.keys(config.noteIdMap).length} entries.`);
+                    
+                    // Get the modified HTML to inject
+                    config.textbookIndexContent = doc.body.innerHTML;
+                    if (navEl.childElementCount <= 1) { // Only inject if not already there
+                         navEl.innerHTML = config.textbookIndexContent;
+                    }
+                    
+                    console.log(`[${module}] Textbook index loaded and Note ID Map created.`);
                     
                 } catch(err) {
                     console.error(`Error loading textbook index for ${module}:`, err);
-                    const navEl = document.getElementById(`${module}-textbook-nav`);
                     if (navEl) navEl.innerHTML = `<p class="text-danger">Error: Could not load ${config.textbookIndexPath}.</p>`;
                 }
             },
             
-            handleTextbookNav(e, module) {
-                const link = e.target.closest('a');
-                if (!link) return;
-                
-                const href = link.getAttribute('href');
-                const filename = href.split('/').pop(); // "1_1890_ACE_inhibitors.html"
-                
-                if (filename) {
-                    const path = `${this[module].textbookPath}${filename}`;
+            handleTextbookNav(link, module) {
+                const path = link.dataset.path;
+                if (path) {
                     this.fetchAndRenderNote(path, `#${module}-textbook-area`);
+                } else if (link.getAttribute('href').startsWith('#')) {
+                    // Handle internal anchor links
+                    const targetId = link.getAttribute('href').substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
                 }
             },
             
@@ -927,7 +948,6 @@
                     let content = await response.text();
                     
                     // The note files are JSON wrapped in `[]`
-                    // We must parse this
                     try {
                         const data = JSON.parse(content);
                         if (Array.isArray(data) && data.length > 0) {
@@ -948,7 +968,7 @@
                         }
                     } catch (jsonError) {
                         console.warn(`Could not parse JSON from ${path}, treating as plain HTML. Error: ${jsonError}`);
-                        // It's not JSON, so just treat it as raw HTML (failsafe)
+                        // Failsafe: if it's not JSON, just render the raw HTML
                         if (noteId) {
                              document.getElementById('textbookModalTitle').textContent = path.split('/').pop();
                         }
