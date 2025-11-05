@@ -300,6 +300,8 @@ const app = {
         document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
         document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
         this.loadingModal.show();
+
+        await new Promise(resolve => setTimeout(resolve, 0));
         
         // 1. Load all questions (if not already loaded)
         await this.loadAllQuestions(module); // No longer needs forceDecrypt
