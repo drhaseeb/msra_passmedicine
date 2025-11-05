@@ -143,7 +143,7 @@ const app = {
                 if (qType === '0') { // SBA
                     optionSelect.parentElement.querySelectorAll('.question-option').forEach(opt => opt.classList.remove('selected'));
                     optionSelect.classList.add('selected');
-              . } else if (qType === '3' || qType === '5') { // "Choose 3" or "Choose 2"
+                } else if (qType === '3' || qType === '5') { // "Choose 3" or "Choose 2"
                     optionSelect.classList.toggle('selected');
                 }
             }
