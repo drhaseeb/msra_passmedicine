@@ -293,8 +293,8 @@ const app = {
         const loadAndRenderQuiz = async () => {
             await this.loadAllQuestions(module);
 
-            const categoryId = document.getElementById(`${module}-category-select`)?.value || 'all';
-            const includeAnswered = document.getElementById(`${module}-include-answered`)?.checked ?? true;
+            const categoryId = document.getElementById(`${module}-category-select`).value || 'all';
+            const includeAnswered = document.getElementById(`${module}-include-answered`).checked ?? true;
 
             let quizSet = config.allQuestions;
             if (categoryId !== 'all') {
@@ -516,7 +516,7 @@ const app = {
     },
 
     checkAnswer(module) {
-        const qContainer = document.getElementById('quiz-question-area')?.firstElementChild;
+        const qContainer = document.getElementById('quiz-question-area').firstElementChild;
         if (!qContainer) return;
 
         const qType = qContainer.dataset.qType;
@@ -597,7 +597,7 @@ const app = {
     },
 
     restoreAnswerState(q, module) {
-        const qContainer = document.getElementById('quiz-question-area')?.firstElementChild;
+        const qContainer = document.getElementById('quiz-question-area').firstElementChild;
         if (!qContainer) return;
 
         const qType = String(q.question_type);
@@ -752,8 +752,8 @@ const app = {
                     this.fetchAndRenderNote(newPath, '#textbookModalBody', noteId);
                     if(this.textbookModal) this.textbookModal.show();
                 } else {
-                    document.getElementById('textbookModalTitle')?.textContent = "Error";
-                    document.getElementById('textbookModalBody')?.innerHTML = `<p class="text-danger">Could not find note with ID: ${noteId}.</p>`;
+                    document.getElementById('textbookModalTitle').textContent = "Error";
+                    document.getElementById('textbookModalBody').innerHTML = `<p class="text-danger">Could not find note with ID: ${noteId}.</p>`;
                     if(this.textbookModal) this.textbookModal.show();
                 }
             });
@@ -765,7 +765,7 @@ const app = {
         if (!targetEl) return;
 
         targetEl.innerHTML = `<h2 class="text-secondary">Loading note...</h2>`;
-        if (noteId) document.getElementById('textbookModalTitle')?.textContent = `Loading...`;
+        if (noteId) document.getElementById('textbookModalTitle').textContent = `Loading...`;
 
         try {
             const response = await fetch(path);
@@ -788,14 +788,14 @@ const app = {
                         ${note.media || '<p class="text-secondary">No media available.</p>'}
                     `;
                     if (noteId) {
-                        document.getElementById('textbookModalTitle')?.textContent = note.title;
+                        document.getElementById('textbookModalTitle').textContent = note.title;
                     }
                 }
             } catch (jsonError) {
                 // If JSON fails, treat as plain HTML
                 console.warn(`Could not parse JSON from ${path}, treating as plain HTML.`);
                 if (noteId) {
-                    document.getElementById('textbookModalTitle')?.textContent = path.split('/').pop().replace(/_/g, ' ').replace('.html', '');
+                    document.getElementById('textbookModalTitle').textContent = path.split('/').pop().replace(/_/g, ' ').replace('.html', '');
                 }
             }
 
@@ -803,7 +803,7 @@ const app = {
         } catch (err) {
             console.error('Error fetching note:', err);
             targetEl.innerHTML = `<h2 class="text-danger">Error: Could not load note from ${path}</h2>`;
-            if (noteId) document.getElementById('textbookModalTitle')?.textContent = "Error";
+            if (noteId) document.getElementById('textbookModalTitle').textContent = "Error";
         }
     }
 };
