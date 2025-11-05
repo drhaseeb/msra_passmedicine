@@ -10,14 +10,13 @@ const app = {
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {}, // { "1_B_2093": "correct", ... }
-        totalQuestions: 2960, // <-- FIX: Corrected total
+        totalQuestions: 2960,
         batchSize: 10,
         questionsPath: 'msra/questions/',
         textbookIndexPath: 'msra/textbook.html',
         textbookPath: 'msra/textbook/',
         textbookIndexContent: null,
         noteIdMap: {}, // To map '1_137' -> '1_137_Meningitis_CSF_analysis.html'
-        // From textbook.html
         categories: {
             "1": "Cardiovascular",
             "2": "Dermatology / ENT / Eyes",
@@ -34,7 +33,7 @@ const app = {
         }
     },
     pd: {
-        allQuestions: [], // Will be populated
+        allQuestions: [],
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {},
@@ -44,18 +43,15 @@ const app = {
         textbookIndexPath: 'professional_dilemma/textbook.html',
         textbookPath: 'professional_dilemma/textbook/',
         textbookIndexContent: null,
-        noteIdMap: {}, // To map '1_958' -> '1_958_Post-exposure_prophylaxis.html'
+        noteIdMap: {},
         categories: {
-             // From pd question JSON
             "1": "Professional Dilemmas"
         }
     },
-    
+
     // --- INITIALIZATION ---
     init() {
-        // This function runs on every page load
-        
-        // 1. Initialize modals (only if they exist on the page)
+        // Initialize modals
         const modalEl = document.getElementById('textbookModal');
         if (modalEl) {
             this.textbookModal = new bootstrap.Modal(modalEl);
@@ -65,16 +61,16 @@ const app = {
             this.loadingModal = new bootstrap.Modal(loadingModalEl);
         }
 
-        // 2. Register PWA service worker
+        // Register PWA service worker
         this.registerPWA();
-        
-        // 3. Setup all global click listeners
+
+        // Setup global click listeners
         this.initPageListeners();
-        
-        // 4. Run logic specific to the current page
+
+        // Run page-specific logic
         this.initPageLogic();
-        
-        // 5. Highlight the active link in the main navbar
+
+        // Highlight active link in navbar
         this.updateActiveNavLink();
     },
 
@@ -94,8 +90,7 @@ const app = {
 
     initPageListeners() {
         document.body.addEventListener('click', (e) => {
-            
-            // --- Quiz Page Listeners ---
+            // Quiz Page Listeners
             const startQuizBtn = e.target.closest('#start-quiz-btn');
             if (startQuizBtn) {
                 e.preventDefault();
@@ -128,23 +123,23 @@ const app = {
                 const module = quizQuestionLink.dataset.module;
                 this.renderQuizQuestion(module, index);
             }
-            
-            // --- Shared Listeners ---
 
-            // Answer Submission
+            // Shared Listeners
             const submitBtn = e.target.closest('.submit-answer-btn');
             if (submitBtn) {
                 e.preventDefault();
                 const module = submitBtn.dataset.module;
                 this.checkAnswer(module);
             }
-            
-            // SBA/Multi-choice Option selection
+
             const optionSelect = e.target.closest('.question-option');
             if (optionSelect && !optionSelect.hasAttribute('data-disabled')) {
-                const module = optionSelect.closest('[data-module]').dataset.module;
-                const qType = optionSelect.closest('[data-q-type]').dataset.qType;
-                
+                const modEl = optionSelect.closest('[data-module]');
+                const qtEl = optionSelect.closest('[data-q-type]');
+                if (!modEl || !qtEl) return; // safety
+                const module = modEl.dataset.module;
+                const qType = qtEl.dataset.qType;
+
                 if (qType === '0') { // SBA
                     optionSelect.parentElement.querySelectorAll('.question-option').forEach(opt => opt.classList.remove('selected'));
                     optionSelect.classList.add('selected');
@@ -152,7 +147,7 @@ const app = {
                     optionSelect.classList.toggle('selected');
                 }
             }
-            
+
             // Textbook link from question
             const noteLink = e.target.closest('.question-note-link');
             if (noteLink) {
@@ -161,10 +156,10 @@ const app = {
                 const noteId = noteLink.dataset.noteId;
                 this.showTextbookNote(module, noteId);
             }
-            
+
             // Textbook sidebar navigation
             const textbookLink = e.target.closest('.textbook-sidebar a');
-            if(textbookLink) {
+            if (textbookLink) {
                 e.preventDefault();
                 const module = textbookLink.closest('.textbook-sidebar').id.startsWith('msra') ? 'msra' : 'pd';
                 this.handleTextbookNav(textbookLink, module);
@@ -174,7 +169,6 @@ const app = {
 
     initPageLogic() {
         const pageId = document.body.id;
-
         if (pageId === 'page-msra-questions') {
             this.initQuizPage('msra');
         } else if (pageId === 'page-pd-questions') {
@@ -184,13 +178,13 @@ const app = {
         } else if (pageId === 'page-pd-textbook') {
             this.loadTextbookIndex('pd');
         }
-        // No logic needed for home, msra-home, or pd-home
+        // No logic needed for home pages
     },
 
     updateActiveNavLink() {
         const pageId = document.body.id;
         document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
-            const linkId = link.dataset.navId; // e.g., "msra" or "pd"
+            const linkId = link.dataset.navId;
             if (pageId.includes(linkId)) {
                 link.classList.add('active', 'fw-bold');
             }
@@ -202,47 +196,39 @@ const app = {
     initQuizPage(module) {
         const config = this[module];
         const catSelect = document.getElementById(`${module}-category-select`);
-        const catProgressList = document.getElementById(`${module}-category-progress`);
-        
-        // 1. Load progress from localStorage
+
+        // Load progress from localStorage
         config.progress = this.loadProgress(module);
 
-        // 2. Populate category dropdown
-        if (catSelect.options.length <= 1) { // Only populate if empty
+        // Populate category dropdown
+        if (catSelect && catSelect.options.length <= 1) {
             for (const [id, name] of Object.entries(config.categories)) {
                 const option = new Option(name, id);
                 catSelect.add(option);
             }
         }
-
-        // 3. Update all progress stats
         this.updateProgressUI(module);
-
-        // 4. Pre-load textbook index for modal
-        this.loadTextbookIndex(module);
+        this.loadTextbookIndex(module); // Pre-load textbook index
     },
 
     updateProgressUI(module) {
         const config = this[module];
         const progress = config.progress;
-        
-        let correct = 0;
-        let incorrect = 0;
-        const categoryCounts = {}; // { "1": { correct: 0, incorrect: 0, total: 0 }, ... }
-        
+        let correct = 0, incorrect = 0;
+        const categoryCounts = {};
+
         // Initialize category counts
         for (const catId in config.categories) {
             categoryCounts[catId] = { correct: 0, incorrect: 0, total: 0 };
         }
-        
+
         // Tally progress
         Object.values(progress).forEach(status => {
             if (status === 'correct') correct++;
             if (status === 'incorrect') incorrect++;
         });
 
-        // We need all questions to tally category totals
-        // This is a bit slow on first load, but fine on subsequent loads
+        // Need questions loaded to tally per-category stats
         this.loadAllQuestions(module, false).then(() => {
             config.allQuestions.forEach(q => {
                 const catId = String(q.category);
@@ -253,17 +239,17 @@ const app = {
                     if (status === 'incorrect') categoryCounts[catId].incorrect++;
                 }
             });
-            
+
             // Render category progress
             const catProgressList = document.getElementById(`${module}-category-progress`);
             if (catProgressList) {
                 catProgressList.innerHTML = '';
                 for (const [id, data] of Object.entries(categoryCounts)) {
-                    if (data.total === 0) continue; // Skip empty categories
+                    if (data.total === 0) continue;
                     const name = config.categories[id];
                     const answered = data.correct + data.incorrect;
                     const progressPercent = data.total > 0 ? (answered / data.total) * 100 : 0;
-                    
+
                     const li = document.createElement('li');
                     li.className = 'list-group-item';
                     li.innerHTML = `
@@ -280,112 +266,114 @@ const app = {
             }
         });
 
-        // Update overall progress
-        const totalAnswered = correct + incorrect;
-        const totalRemaining = config.totalQuestions - totalAnswered;
+        // Update overall progress (with null checks)
         const correctPercent = (correct / config.totalQuestions) * 100;
         const incorrectPercent = (incorrect / config.totalQuestions) * 100;
-        
-        document.getElementById(`${module}-progress-bar-correct`).style.width = `${correctPercent}%`;
-        document.getElementById(`${module}-progress-bar-incorrect`).style.width = `${incorrectPercent}%`;
-        document.getElementById(`${module}-progress-text-correct`).innerHTML = `<i class="bi bi-check-circle-fill text-success me-2"></i> ${correct} Correct`;
-        document.getElementById(`${module}-progress-text-incorrect`).innerHTML = `<i class="bi bi-x-circle-fill text-danger"></i> ${incorrect} Incorrect`;
-        document.getElementById(`${module}-progress-text-remaining`).innerHTML = `<i class="bi bi-circle"></i> ${totalRemaining} Remaining`;
+        const totalAnswered = correct + incorrect;
+        const totalRemaining = config.totalQuestions - totalAnswered;
+
+        const barCorrect = document.getElementById(`${module}-progress-bar-correct`);
+        const barIncorrect = document.getElementById(`${module}-progress-bar-incorrect`);
+        if (barCorrect) barCorrect.style.width = `${correctPercent}%`;
+        if (barIncorrect) barIncorrect.style.width = `${incorrectPercent}%`;
+
+        const txtCorrect = document.getElementById(`${module}-progress-text-correct`);
+        const txtIncorrect = document.getElementById(`${module}-progress-text-incorrect`);
+        const txtRemaining = document.getElementById(`${module}-progress-text-remaining`);
+        if (txtCorrect) txtCorrect.innerHTML = `<i class="bi bi-check-circle-fill text-success me-2"></i> ${correct} Correct`;
+        if (txtIncorrect) txtIncorrect.innerHTML = `<i class="bi bi-x-circle-fill text-danger"></i> ${incorrect} Incorrect`;
+        if (txtRemaining) txtRemaining.innerHTML = `<i class="bi bi-circle"></i> ${totalRemaining} Remaining`;
     },
 
     async startQuiz(module) {
-        const config = this[module];
-        const loadingModalEl = document.getElementById('loadingModal');
-        
-        // 1. Define the main quiz logic as a function to be called *after* the modal is shown
-        const loadAndRenderQuiz = async () => {
-            // 1. Load all questions (if not already loaded)
-            await this.loadAllQuestions(module); 
-            
-            // 2. Get filters
-            const categoryId = document.getElementById(`${module}-category-select`).value;
-            const includeAnswered = document.getElementById(`${module}-include-answered`).checked;
+        const config = this[module];
+        const loadingModalEl = document.getElementById('loadingModal');
 
-            // 3. Filter questions
-            let quizSet = config.allQuestions;
-            
-            if (categoryId !== 'all') {
-                quizSet = quizSet.filter(q => String(q.category) === categoryId);
-            }
-            
-            if (!includeAnswered) {
-                quizSet = quizSet.filter(q => !config.progress.hasOwnProperty(q.question_id));
-            }
+        // Main quiz logic
+        const loadAndRenderQuiz = async () => {
+            await this.loadAllQuestions(module);
 
-            if (quizSet.length === 0) {
-                this.loadingModal.hide(); // Just hide the modal directly
-                alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
-                return; // Stop execution
-            }
+            const categoryId = document.getElementById(`${module}-category-select`)?.value || 'all';
+            const includeAnswered = document.getElementById(`${module}-include-answered`)?.checked ?? true;
 
-            // 4. Setup quiz state
-            config.currentQuizSet = quizSet;
-            config.currentQuestionIndex = 0;
+            let quizSet = config.allQuestions;
+            if (categoryId !== 'all') {
+                quizSet = quizSet.filter(q => String(q.category) === categoryId);
+            }
+            if (!includeAnswered) {
+                quizSet = quizSet.filter(q => !config.progress.hasOwnProperty(q.question_id));
+            }
 
-            // 5. Build question list sidebar (Using the optimized string-join method)
-            const listEl = document.getElementById('quiz-question-list');
-            const questionLinks = []; 
-            quizSet.forEach((q, index) => {
-                const status = config.progress[q.question_id];
-                let icon = '<i class="bi bi-circle me-2"></i>';
-                if (status === 'correct') {
-                    icon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
-                } else if (status === 'incorrect') {
-                    icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
-                }
-                
-                questionLinks.push(`
-                    <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
-                        <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold">${icon} Question ${index + 1}</span>
-                            <small class="text-secondary">${q.question_id}</small>
-                        </div>
-                    </a>
-                `);
-           });
-            listEl.innerHTML = questionLinks.join(''); // Single DOM update
+            if (quizSet.length === 0) {
+                if(this.loadingModal) this.loadingModal.hide();
+                alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
+                return;
+            }
 
-            // 6. Show quiz view, hide setup view
-            document.getElementById('quiz-setup-view').style.display = 'none';
-            document.getElementById('quiz-viewer').style.display = 'flex';
-            
-            // 7. Add a ONE-TIME listener to render the question *after* the modal is hidden
-            loadingModalEl.addEventListener('hidden.bs.modal', () => {
-                this.renderQuizQuestion(module, 0);
-            }, { once: true });
+            config.currentQuizSet = quizSet;
+            config.currentQuestionIndex = 0;
 
-            // 8. Now, trigger the hide animation
-            this.loadingModal.hide();
-        };
+            const listEl = document.getElementById('quiz-question-list');
+            const questionLinks = [];
+            quizSet.forEach((q, index) => {
+                const status = config.progress[q.question_id];
+                let icon = '<i class="bi bi-circle me-2"></i>';
+                if (status === 'correct') {
+                    icon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
+                } else if (status === 'incorrect') {
+                    icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
+                }
+                questionLinks.push(`
+                    <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="fw-bold">${icon} Question ${index + 1}</span>
+                            <small class="text-secondary">${q.question_id}</small>
+                        </div>
+                    </a>
+                `);
+            });
+            if (listEl) listEl.innerHTML = questionLinks.join('');
 
-        // --- This is now the main body of startQuiz ---
-      
-        // A. Setup modal text
-        document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
-        document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
-        
-        // B. Add the ONE-TIME listener to run our logic *after* the "show" animation finishes
-        loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
+            // Show quiz view, hide setup view
+            const setupViewEl = document.getElementById('quiz-setup-view');
+            const quizViewerEl = document.getElementById('quiz-viewer');
+            if(setupViewEl) setupViewEl.style.display = 'none';
+            if(quizViewerEl) quizViewerEl.style.display = 'flex';
 
-        // C. Show the modal (this triggers the chain)
-        this.loadingModal.show();
-    },
+            // Add one-time listener to render first question after modal hidden
+            if(loadingModalEl) {
+                loadingModalEl.addEventListener('hidden.bs.modal', () => {
+                    this.renderQuizQuestion(module, 0);
+                }, { once: true });
+            }
+
+            // Hide loading modal at the end
+            if(this.loadingModal) this.loadingModal.hide();
+        };
+
+        // Setup modal text
+        document.getElementById('loading-modal-title')?.textContent = 'Loading Quiz...';
+        document.getElementById('loading-modal-text')?.textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
+
+        // Add one-time listener for modal shown
+        if(loadingModalEl) {
+            loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
+            this.loadingModal.show();
+        }
+    },
 
     finishQuiz() {
         // Show setup view, hide quiz view
-        document.getElementById('quiz-setup-view').style.display = 'block';
-        document.getElementById('quiz-viewer').style.display = 'none';
+        const setupViewEl = document.getElementById('quiz-setup-view');
+        const quizViewerEl = document.getElementById('quiz-viewer');
+        if(setupViewEl) setupViewEl.style.display = 'block';
+        if(quizViewerEl) quizViewerEl.style.display = 'none';
 
-        // Update progress on the main page
+        // Update progress
         const module = document.body.id.includes('msra') ? 'msra' : 'pd';
         this.updateProgressUI(module);
     },
-    
+
     navigateQuiz(direction) {
         const module = document.body.id.includes('msra') ? 'msra' : 'pd';
         const config = this[module];
@@ -397,18 +385,17 @@ const app = {
             newIndex--;
         }
 
-        // Clamp index to bounds
         if (newIndex < 0) newIndex = 0;
         if (newIndex >= config.currentQuizSet.length) newIndex = config.currentQuizSet.length - 1;
 
         this.renderQuizQuestion(module, newIndex);
     },
 
-    async loadAllQuestions(module, forceDecrypt = false) { // forceDecrypt is no longer used but kept for compatibility
+    async loadAllQuestions(module, forceDecrypt = false) {
         const config = this[module];
-        
-        // Check if already loaded
-        if (config.allQuestions.length === config.totalQuestions) {
+
+        // Already loaded?
+        if (Array.isArray(config.allQuestions) && config.allQuestions.length === config.totalQuestions) {
             console.log(`[${module}] Questions already in memory.`);
             return Promise.resolve();
         }
@@ -422,18 +409,14 @@ const app = {
             const end = Math.min(start + config.batchSize - 1, config.totalQuestions - 1);
             const batchFile = `questions_${start}_to_${end}.json`;
             const path = `${config.questionsPath}${batchFile}`;
-            
+
             fetchPromises.push(
                 fetch(path)
                     .then(res => {
                         if (!res.ok) throw new Error(`Failed to load ${path}`);
                         return res.json();
                     })
-                    // REMOVED: Decryption logic was here.
-                    // Now we just return the batch directly.
-                    .then(batchData => {
-                        return batchData;
-                    })
+                    .then(batchData => Array.isArray(batchData) ? batchData : [])
             );
         }
 
@@ -447,35 +430,38 @@ const app = {
             alert(`Error loading all question files. Please check your local files and refresh. ${err.message}`);
         }
     },
-    
+
     renderQuizQuestion(module, index) {
         const config = this[module];
         config.currentQuestionIndex = index;
         const q = config.currentQuizSet[index];
         const areaEl = document.getElementById(`quiz-question-area`);
         const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        
+        if (!q || !areaEl) return;
+
         // Update question list active state
         document.querySelectorAll('#quiz-question-list .question-link').forEach((link, i) => {
             link.classList.toggle('active', i === index);
         });
-        
+
         // Scroll active link into view
         const activeLink = document.querySelector('#quiz-question-list .question-link.active');
-        if (activeLink) {
-            activeLink.scrollIntoView({ block: 'nearest' });
-        }
+        if (activeLink) activeLink.scrollIntoView({ block: 'nearest' });
 
-        // --- REMOVED DECRYPTION BLOCK ---
-        // The questions are now expected to be plaintext in the JSON
-        
-        const questionText = q.question.replace(/<br \/>/g, '<br>').replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">').replace(/<\/q>/g, '</blockquote>');
+        // Repaired truncated questionText logic
+        let questionText = q.question || '';
+        questionText = questionText
+            .replace(/<br \/>/g, '<br>')
+            .replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">')
+            .replace(/<\/q>/g, '</blockquote>');
 
         let optionsHtml = '';
         const qType = String(q.question_type);
 
+        // Clarify option slicing logic: skip index 0 if it's a dummy value, else use all
+        // If q.options[0] is never used, keep slicing, else use all
         switch(qType) {
-            case "0": // SBA
+            case "0": // SBA (Single Best Answer)
                 optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
                     if (!opt) return '';
                     return `<div class="question-option" data-index="${i + 1}">${opt}</div>`;
@@ -483,17 +469,17 @@ const app = {
                 break;
             case "2": // Ranking
                 optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
-                        if (!opt) return '';
-                        return `
+                    if (!opt) return '';
+                    return `
                         <div class="d-flex align-items-center mb-2">
                             <input type="text" class="form-control rank-input" data-letter="${alphabet[i]}" maxlength="1">
                             <label>${alphabet[i]}. ${opt}</label>
                         </div>
-                        `;
+                    `;
                 }).join('');
                 break;
-            case "3": // Select 3
-            case "5": // Select 2
+            case "3":
+            case "5": // Select Multiple
                 optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
                     if (!opt) return '';
                     return `<div class="question-option" data-letter="${alphabet[i]}">${alphabet[i]}. ${opt}</div>`;
@@ -502,10 +488,10 @@ const app = {
             default:
                 optionsHtml = `<p class="text-danger">Error: Unknown question type "${q.question_type}"</p>`;
         }
-        
+
         // Check progress
         const status = config.progress[q.question_id];
-        
+
         areaEl.innerHTML = `
             <div data-module="${module}" data-q-type="${q.question_type}">
                 <h4 class="text-light mb-4">${questionText}</h4>
@@ -514,7 +500,7 @@ const app = {
                 <div class="explanation-container mt-4"></div>
             </div>
         `;
-        
+
         // If already answered, show explanation
         if (status) {
             this.restoreAnswerState(q, module);
@@ -522,32 +508,35 @@ const app = {
         }
 
         // Update nav
-        document.getElementById('quiz-nav-text').textContent = `Question ${index + 1} / ${config.currentQuizSet.length}`;
-        document.getElementById('quiz-prev-btn').disabled = (index === 0);
-        document.getElementById('quiz-next-btn').disabled = (index === config.currentQuizSet.length - 1);
+        const quizNavText = document.getElementById('quiz-nav-text');
+        if (quizNavText) quizNavText.textContent = `Question ${index + 1} / ${config.currentQuizSet.length}`;
+        const quizPrevBtn = document.getElementById('quiz-prev-btn');
+        const quizNextBtn = document.getElementById('quiz-next-btn');
+        if (quizPrevBtn) quizPrevBtn.disabled = (index === 0);
+        if (quizNextBtn) quizNextBtn.disabled = (index === config.currentQuizSet.length - 1);
     },
-    
+
     checkAnswer(module) {
-        const qContainer = document.getElementById('quiz-question-area').firstElementChild;
+        const qContainer = document.getElementById('quiz-question-area')?.firstElementChild;
         if (!qContainer) return;
-        
+
         const qType = qContainer.dataset.qType;
         const config = this[module];
         const q = config.currentQuizSet[config.currentQuestionIndex];
-        
+
         let isCorrect = false;
-        
+
         if (qType === '0') { // SBA
             const selected = qContainer.querySelector('.question-option.selected');
             const answerIndex = selected ? selected.dataset.index : null;
             isCorrect = (answerIndex == q.correct_answer);
-            
+
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
                 if (opt.dataset.index == q.correct_answer) opt.classList.add('correct');
                 else if (opt.classList.contains('selected')) opt.classList.add('incorrect');
             });
-            
+
         } else if (qType === '2') { // Ranking
             const inputs = qContainer.querySelectorAll('.rank-input');
             let answerString = "";
@@ -557,8 +546,10 @@ const app = {
             inputs.forEach(input => {
                 input.disabled = true;
                 const correctRank = q.correct_answer.indexOf(input.dataset.letter) + 1;
-                if (input.value == correctRank) input.classList.add('is-valid');
-                else {
+                // Show correct answer position for each letter
+                if (input.value.trim().toUpperCase() === String(correctRank)) {
+                    input.classList.add('is-valid');
+                } else {
                     input.classList.add('is-invalid');
                     const hint = document.createElement('small');
                     hint.className = 'text-success ms-2';
@@ -566,13 +557,13 @@ const app = {
                     input.parentElement.appendChild(hint);
                 }
             });
-            
-        } else if (qType === '3' || qType === '5') { // Select multiple
+
+        } else if (qType === '3' || qType === '5') { // Select Multiple
             const selected = qContainer.querySelectorAll('.question-option.selected');
             let answerString = Array.from(selected).map(opt => opt.dataset.letter).sort().join('');
             let correctAnswer = q.correct_answer.split('').sort().join('');
             isCorrect = (answerString === correctAnswer);
-            
+
             const correctLetters = q.correct_answer.split('');
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
@@ -580,11 +571,11 @@ const app = {
                 else if (opt.classList.contains('selected')) opt.classList.add('incorrect');
             });
         }
-        
+
         qContainer.querySelector('.submit-answer-btn').style.display = 'none';
         this.showExplanation(q, isCorrect, module);
         this.saveProgress(module, q.question_id, isCorrect);
-        
+
         // Update sidebar icon
         const link = document.querySelector(`#quiz-question-list .question-link[data-index="${config.currentQuestionIndex}"]`);
         if (link) {
@@ -594,12 +585,10 @@ const app = {
     },
 
     restoreAnswerState(q, module) {
-        // This function is for when a question is loaded that is *already* answered
-        const qContainer = document.getElementById('quiz-question-area').firstElementChild;
+        const qContainer = document.getElementById('quiz-question-area')?.firstElementChild;
         if (!qContainer) return;
 
         const qType = String(q.question_type);
-        const status = this[module].progress[q.question_id];
 
         if (qType === '0') { // SBA
             qContainer.querySelectorAll('.question-option').forEach(opt => {
@@ -607,17 +596,15 @@ const app = {
                 if (opt.dataset.index == q.correct_answer) {
                     opt.classList.add('correct');
                 }
-                // We don't know what they *selected*, only if they were wrong.
-                // We'll just highlight the correct answer.
             });
         } else if (qType === '2') { // Ranking
-             qContainer.querySelectorAll('.rank-input').forEach(input => {
+            qContainer.querySelectorAll('.rank-input').forEach(input => {
                 input.disabled = true;
                 const correctRank = q.correct_answer.indexOf(input.dataset.letter) + 1;
-                input.value = correctRank; // Just show the correct answer
+                input.value = correctRank;
                 input.classList.add('is-valid');
-             });
-        } else if (qType === '3' || qType === '5') { // Select multiple
+            });
+        } else if (qType === '3' || qType === '5') { // Select Multiple
             const correctLetters = q.correct_answer.split('');
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
@@ -627,18 +614,18 @@ const app = {
             });
         }
     },
-    
+
     showExplanation(q, isCorrect, module) {
         const container = document.querySelector(`#quiz-question-area .explanation-container`);
         if (!container) return;
-        
+
         let noteLinkHtml = '';
         if (q.notes_id_link && q.notes_id_link !== "0" && q.notes_id_link !== "1_1827") {
             noteLinkHtml = `<button class="btn btn-outline-info mt-3 question-note-link" data-module="${module}" data-note-id="${q.notes_id_link}">
                 <i class="bi bi-book-half me-2"></i>View Linked Textbook Note
             </button>`;
         }
-        
+
         container.innerHTML = `
             <div class="question-explanation">
                 <h4 class="text-light">${isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>Correct' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>Incorrect'}</h4>
@@ -653,12 +640,13 @@ const app = {
         const config = this[module];
         const status = isCorrect ? 'correct' : 'incorrect';
         config.progress[questionId] = status;
-        
+
         try {
             const key = `passMedProgress_${module}`;
             localStorage.setItem(key, JSON.stringify(config.progress));
         } catch (e) {
             console.error("Failed to save progress to localStorage:", e);
+            alert("Unable to save progress. Storage error.");
         }
     },
 
@@ -668,19 +656,16 @@ const app = {
             return JSON.parse(localStorage.getItem(key) || '{}');
         } catch (e) {
             console.error("Failed to load progress from localStorage:", e);
+            alert("Unable to load progress. Storage error.");
             return {};
         }
     },
-
-    // --- REMOVED DECRYPTION FUNCTIONS ---
-    // getDecryptionShift(key) {}
-    // decryptText(text, key) {}
 
     // --- TEXTBOOK LOGIC ---
     async loadTextbookIndex(module) {
         const config = this[module];
         const navEl = document.getElementById(`${module}-textbook-nav`);
-        
+
         if (config.textbookIndexContent && navEl) {
             navEl.innerHTML = config.textbookIndexContent;
             return;
@@ -689,20 +674,20 @@ const app = {
         try {
             const response = await fetch(config.textbookIndexPath);
             if (!response.ok) throw new Error(`File not found: ${config.textbookIndexPath}`);
-            
+
             const html = await response.text();
-            
+
             const parser = new DOMParser();
             const doc = parser.parseFromString(html, 'text/html');
             const links = doc.querySelectorAll('a');
-            
+
             links.forEach(link => {
                 const href = link.getAttribute('href');
                 if (!href) return;
-                
+
                 const filename = href.split('/').pop();
                 const match = filename.match(/^([0-9]+_[0-9]+)_/);
-                
+
                 if (match) {
                     const noteId = match[1];
                     config.noteIdMap[noteId] = filename;
@@ -714,20 +699,17 @@ const app = {
                     link.setAttribute('data-path', '');
                 }
             });
-            
+
             config.textbookIndexContent = doc.body.innerHTML;
-            if (navEl) {
-                navEl.innerHTML = config.textbookIndexContent;
-            }
-            
+            if (navEl) navEl.innerHTML = config.textbookIndexContent;
+
             console.log(`[${module}] Textbook index loaded and Note ID Map created.`);
-            
         } catch(err) {
             console.error(`Error loading textbook index for ${module}:`, err);
             if (navEl) navEl.innerHTML = `<p class="text-danger">Error: Could not load ${config.textbookIndexPath}.</p>`;
         }
     },
-    
+
     handleTextbookNav(link, module) {
         const path = link.dataset.path;
         if (path) {
@@ -740,15 +722,15 @@ const app = {
             }
         }
     },
-    
+
     showTextbookNote(module, noteId) {
         const config = this[module];
         const filename = config.noteIdMap[noteId];
-        
+
         if (filename) {
             const path = `${config.textbookPath}${filename}`;
             this.fetchAndRenderNote(path, '#textbookModalBody', noteId);
-            this.textbookModal.show();
+            if(this.textbookModal) this.textbookModal.show();
         } else {
             console.warn(`Could not find noteId ${noteId} in ${module} map. Trying to load index...`);
             this.loadTextbookIndex(module).then(() => {
@@ -756,29 +738,29 @@ const app = {
                 if (newFilename) {
                     const newPath = `${config.textbookPath}${newFilename}`;
                     this.fetchAndRenderNote(newPath, '#textbookModalBody', noteId);
-                    this.textbookModal.show();
+                    if(this.textbookModal) this.textbookModal.show();
                 } else {
-                    document.getElementById('textbookModalTitle').textContent = "Error";
-                    document.getElementById('textbookModalBody').innerHTML = `<p class="text-danger">Could not find note with ID: ${noteId}.</p>`;
-                    this.textbookModal.show();
+                    document.getElementById('textbookModalTitle')?.textContent = "Error";
+                    document.getElementById('textbookModalBody')?.innerHTML = `<p class="text-danger">Could not find note with ID: ${noteId}.</p>`;
+                    if(this.textbookModal) this.textbookModal.show();
                 }
             });
         }
     },
-    
+
     async fetchAndRenderNote(path, targetSelector, noteId) {
         const targetEl = document.querySelector(targetSelector);
         if (!targetEl) return;
-        
+
         targetEl.innerHTML = `<h2 class="text-secondary">Loading note...</h2>`;
-        if (noteId) document.getElementById('textbookModalTitle').textContent = `Loading...`;
-        
+        if (noteId) document.getElementById('textbookModalTitle')?.textContent = `Loading...`;
+
         try {
             const response = await fetch(path);
             if (!response.ok) throw new Error(`File not found: ${path}`);
-            
+
             let content = await response.text();
-            
+
             try {
                 const data = JSON.parse(content);
                 if (Array.isArray(data) && data.length > 0) {
@@ -792,24 +774,22 @@ const app = {
                         <h4 class="text-light mt-4">Media</h4>
                         ${note.media || '<p class="text-secondary">No media available.</p>'}
                     `;
-                    
                     if (noteId) {
-                        document.getElementById('textbookModalTitle').textContent = note.title;
+                        document.getElementById('textbookModalTitle')?.textContent = note.title;
                     }
                 }
             } catch (jsonError) {
                 console.warn(`Could not parse JSON from ${path}, treating as plain HTML.`);
                 if (noteId) {
-                        document.getElementById('textbookModalTitle').textContent = path.split('/').pop().replace(/_/g, ' ').replace('.html', '');
+                    document.getElementById('textbookModalTitle')?.textContent = path.split('/').pop().replace(/_/g, ' ').replace('.html', '');
                 }
             }
-            
+
             targetEl.innerHTML = content;
-            
         } catch (err) {
             console.error('Error fetching note:', err);
             targetEl.innerHTML = `<h2 class="text-danger">Error: Could not load note from ${path}</h2>`;
-            if (noteId) document.getElementById('textbookModalTitle').textContent = "Error";
+            if (noteId) document.getElementById('textbookModalTitle')?.textContent = "Error";
         }
     }
 };
