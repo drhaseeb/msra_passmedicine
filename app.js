@@ -143,7 +143,7 @@ const app = {
                 if (qType === '0') { // SBA
                     optionSelect.parentElement.querySelectorAll('.question-option').forEach(opt => opt.classList.remove('selected'));
                     optionSelect.classList.add('selected');
-                } else if (qType === '3' || qType === '5') { // "Choose 3" or "Choose 2"
+              . } else if (qType === '3' || qType === '5') { // "Choose 3" or "Choose 2"
                     optionSelect.classList.toggle('selected');
                 }
             }
@@ -258,7 +258,7 @@ const app = {
                             <span class="text-secondary">${answered} / ${data.total}</span>
                         </div>
                         <div class="progress">
-              _             <div class="progress-bar" role="progressbar" style="width: ${progressPercent}%" aria-valuenow="${progressPercent}" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" style="width: ${progressPercent}%" aria-valuenow="${progressPercent}" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     `;
                     catProgressList.appendChild(li);
@@ -293,12 +293,7 @@ const app = {
         const loadAndRenderQuiz = async () => {
             await this.loadAllQuestions(module);
 
-            // --- THIS IS THE FIX ---
-            // You cannot assign a default value with '...?.value = 'all''
-            // You must use the || operator to provide a default.
             const categoryId = document.getElementById(`${module}-category-select`)?.value || 'all';
-            // --- END OF FIX ---
-
             const includeAnswered = document.getElementById(`${module}-include-answered`)?.checked ?? true;
 
             let quizSet = config.allQuestions;
@@ -330,13 +325,13 @@ const app = {
                 }
                 questionLinks.push(`
                     <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
-s                     <div class="d-flex align-items-start">
+                        <div class="d-flex align-items-start">
                             <span class="fw-bold">${icon} Question ${index + 1}</span>
                         </div>
                     </a>
-                `);
+          _       `);
             });
-            if (listEl) listEl.innerHTML = questionLinks.join('');
+      _     if (listEl) listEl.innerHTML = questionLinks.join('');
 
             // Show quiz view, hide setup view
             const setupViewEl = document.getElementById('quiz-setup-view');
@@ -352,7 +347,7 @@ s                     <div class="d-flex align-items-start">
             }
 
             // Hide loading modal at the end
-s           if(this.loadingModal) this.loadingModal.hide();
+            if(this.loadingModal) this.loadingModal.hide();
         };
 
         // Setup modal text
@@ -417,7 +412,7 @@ s           if(this.loadingModal) this.loadingModal.hide();
             fetchPromises.push(
                 fetch(path)
                     .then(res => {
-s                     if (!res.ok) throw new Error(`Failed to load ${path}`);
+                        if (!res.ok) throw new Error(`Failed to load ${path}`);
                         return res.json();
                     })
                     .then(batchData => Array.isArray(batchData) ? batchData : [])
@@ -462,7 +457,7 @@ s                     if (!res.ok) throw new Error(`Failed to load ${p
         let optionsHtml = '';
         const qType = String(q.question_type);
 
-s       // Clarify option slicing logic: skip index 0 if it's a dummy value, else use all
+        // Clarify option slicing logic: skip index 0 if it's a dummy value, else use all
         // If q.options[0] is never used, keep slicing, else use all
         switch(qType) {
             case "0": // SBA (Single Best Answer)
@@ -477,7 +472,7 @@ s       // Clarify option slicing logic: skip index 0 if it's a dummy value, 
                     return `
                         <div class="d-flex align-items-center mb-2">
                             <input type="text" class="form-control rank-input" data-letter="${alphabet[i]}" maxlength="1">
-                            <label>${alphabet[i]}. ${opt}</label>
+A                         <label>${alphabet[i]}. ${opt}</label>
                         </div>
                     `;
                 }).join('');
@@ -491,7 +486,7 @@ s       // Clarify option slicing logic: skip index 0 if it's a dummy value, 
                 break;
             default:
                 optionsHtml = `<p class="text-danger">Error: Unknown question type "${q.question_type}"</p>`;
-Read       }
+        }
 
         // Check progress
         const status = config.progress[q.question_id];
@@ -502,7 +497,7 @@ Read       }
                 <div class="options-container mb-4">${optionsHtml}</div>
                 <button class="btn btn-primary btn-lg submit-answer-btn" data-module="${module}" style="${status ? 'display: none;' : 'display: block;'}">Submit Answer</button>
                 <div class="explanation-container mt-4"></div>
-            </div>
+  S       </div>
         `;
 
         // If already answered, show explanation
@@ -543,7 +538,7 @@ Read       }
 
         } else if (qType === '2') { // Ranking
             const inputs = qContainer.querySelectorAll('.rank-input');
-  A         let answerString = "";
+            let answerString = "";
             inputs.forEach(input => { answerString += input.value.trim().toUpperCase(); });
             isCorrect = (answerString === q.correct_answer);
 
@@ -552,20 +547,20 @@ Read       }
                 const correctRank = q.correct_answer.indexOf(input.dataset.letter) + 1;
                 // Show correct answer position for each letter
                 if (input.value.trim().toUpperCase() === String(correctRank)) {
-s                   input.classList.add('is-valid');
+                    input.classList.add('is-valid');
                 } else {
                     input.classList.add('is-invalid');
                     const hint = document.createElement('small');
                     hint.className = 'text-success ms-2';
                     hint.textContent = `(Correct: ${correctRank})`;
                     input.parentElement.appendChild(hint);
-          _     }
+                }
             });
 
         } else if (qType === '3' || qType === '5') { // Select Multiple
             const selected = qContainer.querySelectorAll('.question-option.selected');
             let answerString = Array.from(selected).map(opt => opt.dataset.letter).sort().join('');
-s           let correctAnswer = q.correct_answer.split('').sort().join('');
+            let correctAnswer = q.correct_answer.split('').sort().join('');
             isCorrect = (answerString === correctAnswer);
 
             const correctLetters = q.correct_answer.split('');
@@ -577,14 +572,14 @@ s           let correctAnswer = q.correct_answer.split('').sort().join('');
         }
 
         qContainer.querySelector('.submit-answer-btn').style.display = 'none';
-        this.showExplanation(q, isCorrect, module);
+s       this.showExplanation(q, isCorrect, module);
         this.saveProgress(module, q.question_id, isCorrect);
 
         // Update sidebar icon
         const link = document.querySelector(`#quiz-question-list .question-link[data-index="${config.currentQuestionIndex}"]`);
         if (link) {
             const icon = isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
-source           link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\/i>/, icon);
+            link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\/i>/, icon);
         }
     },
 
@@ -598,7 +593,7 @@ source           link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
                 if (opt.dataset.index == q.correct_answer) {
-section                   opt.classList.add('correct');
+                    opt.classList.add('correct');
                 }
             });
         } else if (qType === '2') { // Ranking
@@ -611,7 +606,7 @@ section                   opt.classList.add('correct');
         } else if (qType === '3' || qType === '5') { // Select Multiple
             const correctLetters = q.correct_answer.split('');
             qContainer.querySelectorAll('.question-option').forEach(opt => {
-                opt.setAttribute('data-disabled', 'true');
+  m             opt.setAttribute('data-disabled', 'true');
                 if (correctLetters.includes(opt.dataset.letter)) {
                     opt.classList.add('correct');
                 }
@@ -620,7 +615,7 @@ section                   opt.classList.add('correct');
     },
 
     showExplanation(q, isCorrect, module) {
-        const container = document.querySelector(`#quiz-question-area .explanation-container`);
+s       const container = document.querySelector(`#quiz-question-area .explanation-container`);
         if (!container) return;
 
         let noteLinkHtml = '';
@@ -631,11 +626,11 @@ section                   opt.classList.add('correct');
         }
 
         container.innerHTML = `
-      s       <div class="question-explanation">
+            <div class="question-explanation">
                 <h4 class="text-light">${isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>Correct' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>Incorrect'}</h4>
                 <hr class="my-3 border-secondary">
                 <div class="fs-5">${q.question_notes}</div>
-s               ${noteLinkHtml}
+                ${noteLinkHtml}
             </div>
         `;
     },
@@ -647,7 +642,7 @@ s               ${noteLinkHtml}
 
         try {
             const key = `passMedProgress_${module}`;
-source           localStorage.setItem(key, JSON.stringify(config.progress));
+            localStorage.setItem(key, JSON.stringify(config.progress));
         } catch (e) {
             console.error("Failed to save progress to localStorage:", e);
             alert("Unable to save progress. Storage error.");
@@ -657,16 +652,16 @@ source           localStorage.setItem(key, JSON.stringify(config.progress))
     loadProgress(module) {
         try {
             const key = `passMedProgress_${module}`;
-open           return JSON.parse(localStorage.getItem(key) || '{}');
+            return JSON.parse(localStorage.getItem(key) || '{}');
         } catch (e) {
             console.error("Failed to load progress from localStorage:", e);
             alert("Unable to load progress. Storage error.");
             return {};
         }
-    },
+  _ },
 
     // --- TEXTBOOK LOGIC ---
-    async loadTextbookIndex(module) {
+s   async loadTextbookIndex(module) {
         const config = this[module];
         const navEl = document.getElementById(`${module}-textbook-nav`);
 
@@ -677,7 +672,7 @@ open           return JSON.parse(localStorage.getItem(key) || '{}');
 
         try {
             const response = await fetch(config.textbookIndexPath);
-transparency           if (!response.ok) throw new Error(`File not found: ${config.textbookIndexPath}`);
+            if (!response.ok) throw new Error(`File not found: ${config.textbookIndexPath}`);
 
             const html = await response.text();
 
@@ -692,23 +687,23 @@ transparency           if (!response.ok) throw new Error(`File not found: $
                 const filename = href.split('/').pop();
                 const match = filename.match(/^([0-9]+_[0-9]+)_/);
 
-section               if (match) {
+                if (match) {
                     const noteId = match[1];
                     config.noteIdMap[noteId] = filename;
                     const correctPath = `${config.textbookPath}${filename}`;
-s                   link.setAttribute('href', '#');
+Read                 link.setAttribute('href', '#');
                     link.setAttribute('data-path', correctPath);
                     link.removeAttribute('target');
-          _     } else {
+                } else {
                     link.setAttribute('data-path', '');
-                }
+m               }
             });
 
             config.textbookIndexContent = doc.body.innerHTML;
             if (navEl) navEl.innerHTML = config.textbookIndexContent;
 
             console.log(`[${module}] Textbook index loaded and Note ID Map created.`);
-    source } catch(err) {
+        } catch(err) {
             console.error(`Error loading textbook index for ${module}:`, err);
             if (navEl) navEl.innerHTML = `<p class="text-danger">Error: Could not load ${config.textbookIndexPath}.</p>`;
         }
@@ -718,12 +713,12 @@ s                   link.setAttribute('href', '#');
         const path = link.dataset.path;
         if (path) {
             this.fetchAndRenderNote(path, `#${module}-textbook-area`);
-open       } else if (link.getAttribute('href').startsWith('#')) {
+        } else if (link.getAttribute('href').startsWith('#')) {
             const targetId = link.getAttribute('href').substring(1);
             const targetElement = document.getElementById(targetId);
             if (targetElement) {
                 targetElement.scrollIntoView({ behavior: 'smooth' });
-s           }
+We         }
         }
     },
 
@@ -735,16 +730,16 @@ s           }
             const path = `${config.textbookPath}${filename}`;
             this.fetchAndRenderNote(path, '#textbookModalBody', noteId);
             if(this.textbookModal) this.textbookModal.show();
-  D } else {
+  s } else {
             console.warn(`Could not find noteId ${noteId} in ${module} map. Trying to load index...`);
             this.loadTextbookIndex(module).then(() => {
                 const newFilename = config.noteIdMap[noteId];
                 if (newFilename) {
                     const newPath = `${config.textbookPath}${newFilename}`;
-DEI                   this.fetchAndRenderNote(newPath, '#textbookModalBody', noteId);
+A                   this.fetchAndRenderNote(newPath, '#textbookModalBody', noteId);
                     if(this.textbookModal) this.textbookModal.show();
                 } else {
-            D       document.getElementById('textbookModalTitle')?.textContent = "Error";
+                    document.getElementById('textbookModalTitle')?.textContent = "Error";
                     document.getElementById('textbookModalBody')?.innerHTML = `<p class="text-danger">Could not find note with ID: ${noteId}.</p>`;
                     if(this.textbookModal) this.textbookModal.show();
                 }
@@ -752,8 +747,8 @@ DEI                   this.fetchAndRenderNote(newPath, '#textbookModalB
         }
     },
 
-  s async fetchAndRenderNote(path, targetSelector, noteId) {
-s       const targetEl = document.querySelector(targetSelector);
+    async fetchAndRenderNote(path, targetSelector, noteId) {
+        const targetEl = document.querySelector(targetSelector);
         if (!targetEl) return;
 
         targetEl.innerHTML = `<h2 class="text-secondary">Loading note...</h2>`;
@@ -761,39 +756,39 @@ s       const targetEl = document.querySelector(targetSelector);
 
         try {
             const response = await fetch(path);
-            if (!response.ok) throw new Error(`File not found: ${path}`);
+section           if (!response.ok) throw new Error(`File not found: ${path}`);
 
             let content = await response.text();
 
             try {
                 const data = JSON.parse(content);
                 if (Array.isArray(data) && data.length > 0) {
-                    const note = data[0];
+        _           const note = data[0];
                     content = `
                         <h1 class="text-light mb-4">${note.title}</h1>
-Read                       ${note.body}
+                        ${note.body}
                         <hr class="my-4 border-secondary">
                         <h4 class="text-light">Links</h4>
                         ${note.links || '<p class="text-secondary">No links available.</p>'}
-A                       <h4 class="text-light mt-4">Media</h4>
+s                       <h4 class="text-light mt-4">Media</h4>
                         ${note.media || '<p class="text-secondary">No media available.</p>'}
-          _           `;
+C                     `;
                     if (noteId) {
-D                       document.getElementById('textbookModalTitle')?.textContent = note.title;
+                        document.getElementById('textbookModalTitle')?.textContent = note.title;
                     }
                 }
             } catch (jsonError) {
-s               console.warn(`Could not parse JSON from ${path}, treating as plain HTML.`);
+                console.warn(`Could not parse JSON from ${path}, treating as plain HTML.`);
                 if (noteId) {
                     document.getElementById('textbookModalTitle')?.textContent = path.split('/').pop().replace(/_/g, ' ').replace('.html', '');
-                }
+This             }
             }
 
             targetEl.innerHTML = content;
         } catch (err) {
             console.error('Error fetching note:', err);
-            targetEl.innerHTML = `<h2 class="text-danger">Error: Could not load note from ${path}</h2>`;
-ci         if (noteId) document.getElementById('textbookModalTitle')?.textContent = "Error";
+      _     targetEl.innerHTML = `<h2 class="text-danger">Error: Could not load note from ${path}</h2>`;
+            if (noteId) document.getElementById('textbookModalTitle')?.textContent = "Error";
         }
     }
 };
