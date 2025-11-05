@@ -1,0 +1,915 @@
+[
+    {
+        "question_id": "1_B_1820",
+        "new_question_id": "10904",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "6683",
+        "notes_id_link": "1_915",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Add bisoprolol",
+            "Add indapamide",
+            "Add doxazosin",
+            "Add spironolactone",
+            "Add an angiotensin II receptor blocker",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old woman with a 30 year history of type 2 diabetes mellitus comes for review. She was diagnosed with chronic kidney disease (secondary to diabetes) 8 years ago and has seen declining renal function since. Her current medication includes ramipril 10mg od, amlodipine 10mg od, simvastatin 40mg on and Novomix 30 insulin bd.<br /><br />Her most recent renal function tests show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/l</td></tr><tr><td>K<sup>+</sup></td><td>5.3 mmol/l</td></tr><tr><td>Urea</td><td>10.2 mmol/l</td></tr><tr><td>Creatinine</td><td>123 \u00b5mol/l</td></tr><tr><td>eGFR</td><td>40 ml/min/1.73m\u00b2</td></tr></tbody></table></div><br />Blood pressure in clinic is 156/88 mmHg and this is confirmed on a second reading. What should be done regarding her blood pressure medication?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Tight blood pressure remains a key management aim in patients with diabetic nephropathy. ACE inhibitors are clearly the most evidence based management in this arena but her blood pressure is persistently high. If we look at the NICE guidelines the next step would be the addition of a thiazide based diuretic (e.g. indapamide) and there is no reason not to follow these recommendations in this situation.<br /><br />Spironolactone and angiotensin II receptor blockers may risk precipitating hyperkalaemia.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old woman with a 30 year history of type 2 diabetes mellitus comes for review. She was diagnosed with chronic kidney disease (secondary to diabetes) 8 years ago and has seen declining renal function since. Her current medication includes ramipril 10mg od, amlodipine 10mg od, simvastatin 40mg on and Novomix 30 insulin bd.<br /><br />Her most recent renal function tests show the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/l</td></tr><tr><td>K<sup>+</sup></td><td>5.3 mmol/l</td></tr><tr><td>Urea</td><td>10.2 mmol/l</td></tr><tr><td>Creatinine</td><td>123 \u00b5mol/l</td></tr><tr><td>eGFR</td><td>40 ml/min/1.73m\u00b2</td></tr></tbody></table></div><br />Blood pressure in clinic is 156/88 mmHg and this is confirmed on a second reading. What should be done regarding her blood pressure medication?",
+        "correct_answer": "2",
+        "question_notes": "Tight blood pressure remains a key management aim in patients with diabetic nephropathy. ACE inhibitors are clearly the most evidence based management in this arena but her blood pressure is persistently high. If we look at the NICE guidelines the next step would be the addition of a thiazide based diuretic (e.g. indapamide) and there is no reason not to follow these recommendations in this situation.<br /><br />Spironolactone and angiotensin II receptor blockers may risk precipitating hyperkalaemia.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hypertension: management",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. Some of the key changes include:<br /><ul><li>lowering the threshold for treating stage 1 hypertension in patients < 80 years from 20% to 10%</li><li>angiotensin receptor blockers can be used instead of ACE-inhibitors where indicated</li><li>if a patient is already taking an ACE-inhibitor or angiotensin receptor blocker, then a calcium channel blocker OR a thiazide-like diuretic can be used. Previously only a calcium channel blocker was recommended</li></ul><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocates.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6674\">140/90 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span></td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= <span class=\"concept\" data-cid=\"6676\">160/100 mmHg</span> and subsequent ABPM daytime average or HBPM average BP >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span></td></tr><tr><td><b>Severe hypertension</b></td><td><span class=\"concept\" data-cid=\"6673\">Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</span></td></tr></tbody></table></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><h5 class='notes-heading'>Managing hypertension</h5><br />Lifestyle advice should not be forgotten and is frequently tested in exams:<br /><ul><li><span class=\"concept\" data-cid=\"10294\">a low salt diet is recommended, aiming for less than 6g/day</span>, ideally 3g/day. The average adult in the UK consumes around 8-12g/day of salt. A recent BMJ paper* showed that lowering salt intake can have a significant effect on blood pressure. For example, reducing salt intake by 6g/day can lower systolic blood pressure by 10mmHg</li><li>caffeine intake should be reduced</li><li>the other general bits of advice remain: stop smoking, drink less alcohol, eat a balanced diet rich in fruit and vegetables, exercise more, lose weight</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6675\">135/85 mmHg</span> (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= <span class=\"concept\" data-cid=\"6677\">150/95 mmHg</span> (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br />For patients < 40 years consider specialist referral to exclude secondary causes.<br /><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div><br /><br />Step 1 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6670\">patients < 55-years-old</span> or a background of <span class=\"concept\" data-cid=\"9851\">type 2 diabetes mellitus</span>: <b>A</b>CE inhibitor or a <b>A</b>ngiotensin receptor blocker (<b>A</b>CE-i or <b>A</b>RB): <b>(A)</b><ul><li><span class=\"concept\" data-cid=\"922\">angiotensin receptor blockers should be used where ACE inhibitors are not tolerated (e.g. due to a cough)</span></li></ul></li><li><span class=\"concept\" data-cid=\"6671\">patients >= 55-years-old</span> or of <span class=\"concept\" data-cid=\"6672\">black African or African-Caribbean origin</span>: <b>C</b>alcium channel blocker <b>(C)</b><ul><li><span class=\"concept\" data-cid=\"916\">ACE inhibitors have reduced efficacy in patients of black African or African-Caribbean origin are therefore not used first-line</span></li></ul></li></ul><br />Step 2 treatment<br /><ul><li><span class=\"concept\" data-cid=\"6682\">if already taking an <b>A</b>CE-i or <b>A</b>RB add a <b>C</b>alcium channel blocker or a thiazide-like <b>D</b>iuretic</span></li><li><span class=\"concept\" data-cid=\"9850\">if already taking a <b>C</b>alcium channel blocker add an <b>A</b>CE-i or <b>A</b>RB or a thiazide-like <b>D</b>iuretic</span><ul><li><span class=\"concept\" data-cid=\"1386\">for patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor</span></li></ul></li><li><b>(A + C) or (A + D)</b> or <b>(C + A) or (C + D)</b> </li></ul><br />Step 3 treatment<br /><ul><li>add a third drug to make, i.e.:<ul><li><span class=\"concept\" data-cid=\"6683\">if already taking an <b>(A + C)</b> then add a <b>D</b></span></li><li><span class=\"concept\" data-cid=\"9849\">if already <b>(A + D)</b> then add a <b>C</b></span></li></ul></li><li><b>(A + C + D)</b> </li></ul><br />Step 4 treatment<br /><ul><li>NICE define step 4 as resistant hypertension and suggest either adding a 4<sup>th</sup> drug (as below) or seeking specialist advice</li><li>first, check for:<ul><li>confirm elevated clinic BP with ABPM or HBPM</li><li>assess for postural hypotension.</li><li>discuss adherence</li></ul></li><li><span class=\"concept\" data-cid=\"6684\">if potassium < 4.5 mmol/l add low-dose spironolactone</span></li><li><span class=\"concept\" data-cid=\"6685\">if potassium > 4.5 mmol/l add an alpha- or beta-blocker</span></li></ul><br />Patients who fail to respond to step 4 measures should be referred to a specialist. NICE recommend:<br /><div class='bs-callout bs-callout-default'><i><i><br />If blood pressure remains uncontrolled with the optimal or maximum tolerated doses of four drugs, seek expert advice if it has not yet been obtained. <br /></i></i></div><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd974.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Blood pressure targets</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th></th><th><b>Clinic BP</b></th><th><b>ABPM / HBPM</b></th></tr></thead><tbody><tr><td><b>Age < 80 years</b></td><td><span class=\"concept\" data-cid=\"6678\">140/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6680\">135/85 mmHg</span></td></tr><tr><td><b>Age > 80 years</b></td><td><span class=\"concept\" data-cid=\"6679\">150/90 mmHg</span></td><td><span class=\"concept\" data-cid=\"6681\">145/85 mmHg</span></td></tr></tbody></table></div>",
+        "notes_hash": "95248e6fb11c2374837320c9bd891a27",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "5941",
+        "up_votes": "32",
+        "down_votes": "31",
+        "column_array": [
+            0,
+            "754",
+            "3406",
+            "1020",
+            "454",
+            "307",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_978\" data-linkid=\"978\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_978\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">134</span><button type=\"button\" style=\"\" id=\"link_dislike_978\" data-linkid=\"978\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_978\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">121</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"14\" data-downvotes=\"8\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2429\" data-mediaid=\"2429\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2429\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_2429\" data-mediaid=\"2429\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2429\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr></table>",
+        "comment_count": 12,
+        "concepts_for_notes": {
+            "922": {
+                "concept_text": "Angiotensin-receptor blockers should be used where ACE inhibitors are not tolerated",
+                "concept_percentile": "32"
+            },
+            "1386": {
+                "concept_text": "For patients of black African or African-Caribbean origin taking a calcium channel blocker for hypertension, if they require a second agent consider an angiotensin receptor blocker in preference to an ACE inhibitor",
+                "concept_percentile": "73"
+            },
+            "6670": {
+                "concept_text": "Newly diagnosed patient with hypertension (< 55 years) - add an ACE inhibitor or an angiotensin receptor blocker",
+                "concept_percentile": "43"
+            },
+            "6671": {
+                "concept_text": "Newly diagnosed patient with hypertension (> 55 years) - add a calcium channel blocker",
+                "concept_percentile": "21"
+            },
+            "6672": {
+                "concept_text": "Newly diagnosed patient of black African or African-Caribbean origin with hypertension - add a calcium channel blocker",
+                "concept_percentile": "37"
+            },
+            "6673": {
+                "concept_text": "Criteria for considering immediate treatment based on a clinic reading - 180/120 mmHg",
+                "concept_percentile": "16"
+            },
+            "6674": {
+                "concept_text": "Definition of stage 1 hypertension (Clinic reading) - 140/90 mmHg",
+                "concept_percentile": "46"
+            },
+            "6675": {
+                "concept_text": "Definition of stage 1 hypertension (ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "19"
+            },
+            "6676": {
+                "concept_text": "Definition of stage 2 hypertension (Clinic reading) - 160/100 mmHg",
+                "concept_percentile": "34"
+            },
+            "6677": {
+                "concept_text": "Definition of stage 2 hypertension (ABPM/HBPM) - 150/95 mmHg",
+                "concept_percentile": "21"
+            },
+            "6678": {
+                "concept_text": "Blood pressure target (< 80 years, clinic reading) - 140/90 mmHg",
+                "concept_percentile": "26"
+            },
+            "6679": {
+                "concept_text": "Blood pressure target (> 80 years, clinic reading) - 150/90 mmHg",
+                "concept_percentile": "24"
+            },
+            "6680": {
+                "concept_text": "Blood pressure target (< 80 years, ABPM/HBPM) - 135/85 mmHg",
+                "concept_percentile": "23"
+            },
+            "6681": {
+                "concept_text": "Blood pressure target (> 80 years, ABPM/HBPM) - 145/85 mmHg",
+                "concept_percentile": "26"
+            },
+            "6682": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor - add a calcium channel blocker or a thiazide-like diuretic",
+                "concept_percentile": "47"
+            },
+            "6683": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a calcium channel blocker - add a thiazide-like diuretic",
+                "concept_percentile": "52"
+            },
+            "6684": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a thiazide diuretic. K+ < 4.5mmol/l - add spironolactone",
+                "concept_percentile": "56"
+            },
+            "6685": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor, calcium channel blocker and a standard-dose thiazide diuretic. K+ > 4.5mmol/l - add an alpha- or beta-blocker",
+                "concept_percentile": "60"
+            },
+            "9849": {
+                "concept_text": "Poorly controlled hypertension, already taking an ACE inhibitor and a thiazide diuretic - add a calcium channel blocker",
+                "concept_percentile": "24"
+            },
+            "9850": {
+                "concept_text": "Poorly controlled hypertension, already taking a calcium channel blocker - add an ACE inhibitor or an angiotensin receptor blocker or a thiazide-like diuretic",
+                "concept_percentile": "46"
+            },
+            "9851": {
+                "concept_text": "Newly diagnosed patient with hypertension who has a background of type 2 diabetes mellitus - add an ACE inhibitor or an angiotensin receptor blocker regardless of age",
+                "concept_percentile": "72"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5478_B_10",
+        "new_question_id": "16659",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4545",
+        "notes_id_link": "1_2472",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Keratic precipitates",
+            "Foreign body on the inferior part of cornea",
+            "Foreign body on the medial part of cornea",
+            "A large abrasion with central corneal uptake of fluorescein",
+            "Punctate fluorescein staining of cornea",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "An elderly patient with Bell's palsy was seen in the emergency department. He complained of sore and gritty right eye. Despite the occasional blurring of vision, his visual acuity was not affected. It was noted that he was unable to close the right eye. He was not compliant to taping his right eyelid at night before sleep and infrequently used the lubricating ointment provided by the GP a week ago. The ophthalmologist performed a slit lamp examination which revealed normal appearing cornea and anterior chamber. The examination was then continued with the addition of fluorescein dye on the eye.<br /><br />What would the doctor expect to find during this examination?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Dry eye syndrome is a common complication of Bell's palsy. In Bell's palsy, there is an impaired action of blinking or closing the eye. Without these functions, it is impossible to keep the cornea moist which subsequently leads to dry eyes. The first three options are incorrect as both keratic precipitates and foreign body can be visualised without fluorescein dye. Furthermore, keratic precipitates are found in anterior uveitis and is not the condition described in the question above. Corneal abrasion will present with decreased visual acuity which is not the case in this scenario.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "An elderly patient with Bell's palsy was seen in the emergency department. He complained of sore and gritty right eye. Despite the occasional blurring of vision, his visual acuity was not affected. It was noted that he was unable to close the right eye. He was not compliant to taping his right eyelid at night before sleep and infrequently used the lubricating ointment provided by the GP a week ago. The ophthalmologist performed a slit lamp examination which revealed normal appearing cornea and anterior chamber. The examination was then continued with the addition of fluorescein dye on the eye.<br /><br />What would the doctor expect to find during this examination?",
+        "correct_answer": "5",
+        "question_notes": "Dry eye syndrome is a common complication of Bell's palsy. In Bell's palsy, there is an impaired action of blinking or closing the eye. Without these functions, it is impossible to keep the cornea moist which subsequently leads to dry eyes. The first three options are incorrect as both keratic precipitates and foreign body can be visualised without fluorescein dye. Furthermore, keratic precipitates are found in anterior uveitis and is not the condition described in the question above. Corneal abrasion will present with decreased visual acuity which is not the case in this scenario.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Dry eyes",
+        "body": "People with dry eye syndrome typically present with feelings of dryness, grittiness, or soreness in both eyes, which worsen through the day, and watering of the eyes, particularly when exposed to wind. Symptoms that are worse on wakening, eyelids sticking together on waking, and redness of the eyelids suggest dry eye syndrome caused by Meibomian gland dysfunction. <br /><br />There may be no abnormalities on examination. Less commonly people present with a complication of dry eye syndrome, for example, conjunctivitis or ulceration of the cornea, suggested by severe pain, photophobia, marked redness, and loss of visual acuity.<br /><br />Eyelid hygiene is the most appropriate management step here. Eyelid hygiene helps to control blepharitis. Most people with dry eye syndrome have blepharitis. ",
+        "notes_hash": "aa05b3727b493235c92c3ab2e7a071fb",
+        "knowledge_graph_node_id_link": 10281,
+        "concept": "Punctate fluorescein staining of the cornea is common in patients with dry eyes",
+        "concept_percentile": "62",
+        "concept_colour": "rgb(193,255,0)",
+        "number_attempts": "4237",
+        "up_votes": "51",
+        "down_votes": "98",
+        "column_array": [
+            0,
+            "860",
+            "103",
+            "82",
+            "1669",
+            "1523",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1333",
+        "new_question_id": "59377",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "3690",
+        "notes_id_link": "1_1445",
+        "theme": "Treatment of capillary haemangioma obstructing visual field",
+        "instruction": "",
+        "options": [
+            "",
+            "Intralesional corticosteroid injection",
+            "Laser therapy",
+            "Oral prednisolone",
+            "Oral propranolol",
+            "Surgical excision",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 3-month-old girl is brought to the paediatric clinic by her parents. They are concerned about a rapidly growing red lesion on her face that was not present at birth. On examination, there is a raised, erythematous, multilobed lesion on her right cheek, measuring 3 cm in diameter. The lesion is partially obstructing her right visual field. The child is otherwise well with normal development.<br /><br />What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Oral propranolol</b> is the first-line treatment for capillary haemangiomas (strawberry naevi) requiring intervention. This child presents with a typical capillary haemangioma that was not present at birth but developed rapidly in the first few months of life, which is the classic presentation. The lesion is partially obstructing the visual field, which is a clear indication for treatment to prevent amblyopia or other visual development issues. Propranolol has been shown to be highly effective in inducing regression of these lesions, with a rapid response often seen within days of starting treatment. The mechanism is thought to involve vasoconstriction, decreased expression of vascular endothelial growth factor (VEGF) and basic fibroblast growth factor (bFGF), and induction of apoptosis in capillary endothelial cells. Propranolol has largely replaced corticosteroids as the treatment of choice due to its superior efficacy and better side effect profile.<br /><br /><b>Intralesional corticosteroid injection</b> was previously used for smaller, localised haemangiomas but has been largely superseded by propranolol. This treatment can be painful, may require general anaesthesia in infants, and carries risks including skin atrophy, hypopigmentation, and rarely, central retinal artery occlusion when used near the eye. For a lesion of this size affecting the visual field, intralesional steroids would not be the most appropriate first-line treatment.<br /><br /><b>Laser therapy</b>, particularly pulsed dye laser, can be effective for superficial components of capillary haemangiomas but is generally not effective as a primary treatment for thicker lesions like the one described. It is more commonly used for residual telangiectasias after regression or for thin superficial lesions. For a rapidly growing haemangioma affecting the visual field, laser therapy alone would be insufficient.<br /><br /><b>Oral prednisolone</b> was previously the standard treatment for problematic haemangiomas before the discovery of propranolol's effectiveness. While systemic corticosteroids can be effective, they have significant side effects including growth retardation, hypertension, immunosuppression, and cushingoid features. Given the availability of propranolol, which has a better safety profile and efficacy, oral prednisolone is now considered a second-line treatment.<br /><br /><b>Surgical excision</b> is rarely indicated as primary treatment for capillary haemangiomas in infants, particularly for facial lesions where scarring is a concern. Surgery may be considered for residual lesions after medical treatment or regression, or in specific situations where other treatments have failed. For a 3-month-old with a typical haemangioma, surgery would carry unnecessary risks and potential cosmetic complications.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 3-month-old girl is brought to the paediatric clinic by her parents. They are concerned about a rapidly growing red lesion on her face that was not present at birth. On examination, there is a raised, erythematous, multilobed lesion on her right cheek, measuring 3 cm in diameter. The lesion is partially obstructing her right visual field. The child is otherwise well with normal development.<br /><br />What is the most appropriate first-line treatment?",
+        "correct_answer": "4",
+        "question_notes": "<b>Oral propranolol</b> is the first-line treatment for capillary haemangiomas (strawberry naevi) requiring intervention. This child presents with a typical capillary haemangioma that was not present at birth but developed rapidly in the first few months of life, which is the classic presentation. The lesion is partially obstructing the visual field, which is a clear indication for treatment to prevent amblyopia or other visual development issues. Propranolol has been shown to be highly effective in inducing regression of these lesions, with a rapid response often seen within days of starting treatment. The mechanism is thought to involve vasoconstriction, decreased expression of vascular endothelial growth factor (VEGF) and basic fibroblast growth factor (bFGF), and induction of apoptosis in capillary endothelial cells. Propranolol has largely replaced corticosteroids as the treatment of choice due to its superior efficacy and better side effect profile.<br /><br /><b>Intralesional corticosteroid injection</b> was previously used for smaller, localised haemangiomas but has been largely superseded by propranolol. This treatment can be painful, may require general anaesthesia in infants, and carries risks including skin atrophy, hypopigmentation, and rarely, central retinal artery occlusion when used near the eye. For a lesion of this size affecting the visual field, intralesional steroids would not be the most appropriate first-line treatment.<br /><br /><b>Laser therapy</b>, particularly pulsed dye laser, can be effective for superficial components of capillary haemangiomas but is generally not effective as a primary treatment for thicker lesions like the one described. It is more commonly used for residual telangiectasias after regression or for thin superficial lesions. For a rapidly growing haemangioma affecting the visual field, laser therapy alone would be insufficient.<br /><br /><b>Oral prednisolone</b> was previously the standard treatment for problematic haemangiomas before the discovery of propranolol's effectiveness. While systemic corticosteroids can be effective, they have significant side effects including growth retardation, hypertension, immunosuppression, and cushingoid features. Given the availability of propranolol, which has a better safety profile and efficacy, oral prednisolone is now considered a second-line treatment.<br /><br /><b>Surgical excision</b> is rarely indicated as primary treatment for capillary haemangiomas in infants, particularly for facial lesions where scarring is a concern. Surgery may be considered for residual lesions after medical treatment or regression, or in specific situations where other treatments have failed. For a 3-month-old with a typical haemangioma, surgery would carry unnecessary risks and potential cosmetic complications.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Strawberry naevus",
+        "body": "Strawberry naevi (capillary haemangioma) are usually not present at birth but may develop rapidly in the first month of life. They appear as erythematous, raised and multilobed tumours.<br /><br />Typically they increase in size until around 6-9 months before regressing over the next few years (around 95% resolve before 10 years of age).<br /><br />Common sites include the face, scalp and back. Rarely they may be present in the upper respiratory tract leading to potential airway obstruction<br /><br />Capillary haemangiomas are present in around 10% of white infants. Female infants, premature infants and those of mothers who have undergone chorionic villous sampling are more likely to be affected<br /><br />Potential complications<br /><ul><li>mechanical e.g. Obstructing visual fields or airway</li><li>bleeding</li><li>ulceration</li><li>thrombocytopaenia</li></ul><br />If treatment is required (e.g. Visual field obstruction) then propranolol is increasingly replacing systemic steroids as the treatment of choice. Topical beta-blockers such as timolol are also sometimes used.<br /><br />Cavernous haemangioma is a deep capillary haemangioma",
+        "notes_hash": "84c6f31d7f7e176f64b7e73f21d97340",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Propranolol is the treatment of choice in capillary haemangiomas requiring intervention",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "4516",
+        "up_votes": "2",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "840",
+            "570",
+            "165",
+            "1383",
+            "1558",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_318\" data-linkid=\"318\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_318\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_318\" data-linkid=\"318\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_318\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis\">Infantile haemangioma</a></td></tr></table><br><br><table style='width:100%'><tr><td>NHS</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_317\" data-linkid=\"317\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_317\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_317\" data-linkid=\"317\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_317\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nhs.uk/Conditions/Birthmarks/Pages/Introduction.aspx\">Birthmarks</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1426",
+        "new_question_id": "59604",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "261",
+        "notes_id_link": "1_1303",
+        "theme": "Antibiotic choice for suspected meningitis in a 6-week-old infant",
+        "instruction": "",
+        "options": [
+            "",
+            "IV cefotaxime",
+            "IV ceftriaxone",
+            "IV amoxicillin and cefotaxime",
+            "IV benzylpenicillin and gentamicin",
+            "IV vancomycin and ceftriaxone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-week-old boy is brought to the Emergency Department with a 12-hour history of fever, poor feeding, and irritability. On examination, he is lethargic with a temperature of 38.9\u00b0C, heart rate of 170 bpm, and a bulging fontanelle. Blood cultures are taken, and a lumbar puncture is deferred due to clinical signs.<br /><br />What is the most appropriate initial antibiotic regimen?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>IV amoxicillin and cefotaxime</b> is the correct initial antibiotic regimen for this 6-week-old infant with suspected meningitis. In infants under 3 months of age, Listeria monocytogenes is a significant pathogen to consider alongside the more common causes of bacterial meningitis such as Group B Streptococcus, Escherichia coli, and Streptococcus pneumoniae. Cephalosporins like cefotaxime do not provide adequate coverage against Listeria, necessitating the addition of amoxicillin or ampicillin. The UK NICE guidelines specifically recommend this combination for empirical treatment of suspected meningitis in children younger than 3 months. The clinical presentation with fever, irritability, lethargy, and a bulging fontanelle is highly suggestive of meningitis, and the bulging fontanelle is a contraindication to immediate lumbar puncture due to concerns about raised intracranial pressure.<br /><br /><b>IV cefotaxime</b> alone would be inadequate for this infant as it does not cover Listeria monocytogenes. While cefotaxime provides excellent coverage for many common pathogens causing meningitis, including Group B Streptococcus and gram-negative organisms, the omission of amoxicillin would leave the infant vulnerable to Listeria infection, which carries significant mortality if not treated appropriately.<br /><br /><b>IV ceftriaxone</b> alone is similarly inadequate for the same reason as cefotaxime - it lacks coverage against Listeria. Additionally, ceftriaxone should be used with caution in infants under 3 months due to the theoretical risk of displacing bilirubin from albumin binding sites, potentially increasing the risk of kernicterus, particularly in jaundiced or premature infants.<br /><br /><b>IV benzylpenicillin and gentamicin</b> is a combination that would provide some coverage against Listeria (via benzylpenicillin) but would not provide optimal coverage against gram-negative organisms that commonly cause meningitis in this age group. This combination is more commonly used for neonatal sepsis rather than meningitis, where CNS penetration is crucial.<br /><br /><b>IV vancomycin and ceftriaxone</b> is a regimen typically reserved for children older than 3 months when there is concern for resistant Streptococcus pneumoniae. This combination does not provide coverage against Listeria and, as mentioned previously, ceftriaxone should be used cautiously in young infants. Furthermore, vancomycin has poor CNS penetration unless the meninges are significantly inflamed.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-week-old boy is brought to the Emergency Department with a 12-hour history of fever, poor feeding, and irritability. On examination, he is lethargic with a temperature of 38.9\u00b0C, heart rate of 170 bpm, and a bulging fontanelle. Blood cultures are taken, and a lumbar puncture is deferred due to clinical signs.<br /><br />What is the most appropriate initial antibiotic regimen?",
+        "correct_answer": "3",
+        "question_notes": "<b>IV amoxicillin and cefotaxime</b> is the correct initial antibiotic regimen for this 6-week-old infant with suspected meningitis. In infants under 3 months of age, Listeria monocytogenes is a significant pathogen to consider alongside the more common causes of bacterial meningitis such as Group B Streptococcus, Escherichia coli, and Streptococcus pneumoniae. Cephalosporins like cefotaxime do not provide adequate coverage against Listeria, necessitating the addition of amoxicillin or ampicillin. The UK NICE guidelines specifically recommend this combination for empirical treatment of suspected meningitis in children younger than 3 months. The clinical presentation with fever, irritability, lethargy, and a bulging fontanelle is highly suggestive of meningitis, and the bulging fontanelle is a contraindication to immediate lumbar puncture due to concerns about raised intracranial pressure.<br /><br /><b>IV cefotaxime</b> alone would be inadequate for this infant as it does not cover Listeria monocytogenes. While cefotaxime provides excellent coverage for many common pathogens causing meningitis, including Group B Streptococcus and gram-negative organisms, the omission of amoxicillin would leave the infant vulnerable to Listeria infection, which carries significant mortality if not treated appropriately.<br /><br /><b>IV ceftriaxone</b> alone is similarly inadequate for the same reason as cefotaxime - it lacks coverage against Listeria. Additionally, ceftriaxone should be used with caution in infants under 3 months due to the theoretical risk of displacing bilirubin from albumin binding sites, potentially increasing the risk of kernicterus, particularly in jaundiced or premature infants.<br /><br /><b>IV benzylpenicillin and gentamicin</b> is a combination that would provide some coverage against Listeria (via benzylpenicillin) but would not provide optimal coverage against gram-negative organisms that commonly cause meningitis in this age group. This combination is more commonly used for neonatal sepsis rather than meningitis, where CNS penetration is crucial.<br /><br /><b>IV vancomycin and ceftriaxone</b> is a regimen typically reserved for children older than 3 months when there is concern for resistant Streptococcus pneumoniae. This combination does not provide coverage against Listeria and, as mentioned previously, ceftriaxone should be used cautiously in young infants. Furthermore, vancomycin has poor CNS penetration unless the meninges are significantly inflamed.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Meningitis in children: investigation and management",
+        "body": "<b>Investigations</b><br /><br />Contraindication to lumbar puncture (any signs of raised ICP)<br /><ul><li>focal neurological signs</li><li>papilloedema</li><li>significant bulging of the fontanelle</li><li>disseminated intravascular coagulation</li><li>signs of cerebral herniation</li></ul><br />For patients with meningococcal septicaemia a <span class=\"concept\" data-cid=\"2509\">lumbar puncture is contraindicated</span> - blood cultures and PCR for meningococcus should be obtained.<br /><br /><h5 class='notes-heading'>Management</h5><br />1. Antibiotics<br /><ul><li><span class=\"concept\" data-cid=\"261\">< 3 months: IV amoxicillin (or ampicillin) + IV cefotaxime</span></li><li><span class=\"concept\" data-cid=\"11209\">> 3 months: IV cefotaxime (or ceftriaxone)</span></li></ul><br />2. <span class=\"concept\" data-cid=\"3942\">Steroids</span><br /><ul><li><span class=\"concept\" data-cid=\"10402\">NICE advise against giving corticosteroids in children younger than 3 months </span></li><li>dexamethsone should be considered if the lumbar puncture reveals any of the following:<ul><li>frankly purulent CSF</li><li>CSF white blood cell count greater than 1000/microlitre</li><li>raised CSF white blood cell count with protein concentration greater than 1 g/litre</li><li>bacteria on Gram stain</li></ul></li></ul><br />3. Fluids<br /><ul><li>treat any shock, e.g. with colloid</li></ul><br />4. Cerebral monitoring<br /><ul><li>mechanical ventilation if respiratory impairment</li></ul><br />5. Public health notification and antibiotic prophylaxis of contacts<br /><ul><li>ciprofloxacin is now preferred over rifampicin</li></ul>",
+        "notes_hash": "63be237fc570d6092f0df580385acc01",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Meningitis in children < 3 months: give IV amoxicillin in addition to cefotaxime to cover for Listeria",
+        "concept_percentile": "94",
+        "concept_colour": "rgb(30,255,0)",
+        "number_attempts": "4648",
+        "up_votes": "2",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "508",
+            "1119",
+            "2313",
+            "552",
+            "156",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_14\" data-linkid=\"14\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_14\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_14\" data-linkid=\"14\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_14\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG102/chapter/1-Guidance\">2010 Management of bacterial meningitis and meningococcal septicaemia in children and young people younger than 16 years</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gIHUJs2eTHA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\">Meningitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_759\" data-mediaid=\"759\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_759\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_759\" data-mediaid=\"759\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_759\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xQC6L8M6XfU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\">(Bacterial) Meningitis Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_760\" data-mediaid=\"760\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_760\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_760\" data-mediaid=\"760\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_760\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "261": {
+                "concept_text": "Meningitis in children < 3 months: give IV amoxicillin in addition to cefotaxime to cover for Listeria",
+                "concept_percentile": "94"
+            },
+            "3942": {
+                "concept_text": "Consider adding steroids in the management of children > 3 months with meningitis",
+                "concept_percentile": "100"
+            },
+            "11209": {
+                "concept_text": "Initial empirical therapy for meningitis if > 3 months of age: IV 3rd generation cephalosporin",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "27478_B_21",
+        "new_question_id": "44154",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "4563",
+        "notes_id_link": "1_2552",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ankle joint exploration",
+            "CT scan",
+            "MRI scan",
+            "Ultrasound scan",
+            "X-ray ankle",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You see a patient in the emergency department who training for a marathon and today, on a long run he heard a pop and fell to the ground with pain in his lower calf. He was unable to weight bear afterwards and needed help to get to the hospital. <br /><br />You examine him and find he has no bony tenderness but feel he needs some more tests.<br /><br />Which initial imaging modality would you request?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b> Ultrasound scan </b> is correct, the initial imaging modality of choice for Achilles tendon rupture.<br /><br /><b> Ankle joint exploration </b> is incorrect, this is not an initial imaging choice, this surgical procedure would be used for debridement or removal of foreign bodies.<br /><br /><b> CT scan </b> is incorrect, this would not be used first line to check for suspected Achilles tendon rupture or to look for soft tissue issues.<br /><br /><b> MRI scan </b> is incorrect, although this would be a useful imaging modality to look for soft tissue injury, it would not be the first line in Achilles tendon rupture. It is useful in post-operative follow-up after surgical repair.<br /><br /><b> X-ray ankle</b> is incorrect, this is not a useful imaging modality for soft tissue injury. If there was a question of bony injury this would be useful.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You see a patient in the emergency department who training for a marathon and today, on a long run he heard a pop and fell to the ground with pain in his lower calf. He was unable to weight bear afterwards and needed help to get to the hospital. <br /><br />You examine him and find he has no bony tenderness but feel he needs some more tests.<br /><br />Which initial imaging modality would you request?",
+        "correct_answer": "4",
+        "question_notes": "<b> Ultrasound scan </b> is correct, the initial imaging modality of choice for Achilles tendon rupture.<br /><br /><b> Ankle joint exploration </b> is incorrect, this is not an initial imaging choice, this surgical procedure would be used for debridement or removal of foreign bodies.<br /><br /><b> CT scan </b> is incorrect, this would not be used first line to check for suspected Achilles tendon rupture or to look for soft tissue issues.<br /><br /><b> MRI scan </b> is incorrect, although this would be a useful imaging modality to look for soft tissue injury, it would not be the first line in Achilles tendon rupture. It is useful in post-operative follow-up after surgical repair.<br /><br /><b> X-ray ankle</b> is incorrect, this is not a useful imaging modality for soft tissue injury. If there was a question of bony injury this would be useful.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Achilles tendon disorders",
+        "body": "Achilles tendon disorders are the most common cause of posterior heel pain. Possible presentations include tendinopathy (tendinitis), partial tear and complete rupture of the Achilles tendon. <br /><br />Risk factors<br /><ul><li>quinolone use (e.g. <span class=\"concept\" data-cid=\"1823\">ciprofloxacin</span>) is associated with tendon disorders</li><li>hypercholesterolaemia (predisposes to tendon xanthomata)</li></ul><br /><br /><h5 class='notes-heading'>Achilles tendinopathy (tendinitis)</h5><br />Features<br /><ul><li>gradual onset of posterior heel pain that is worse following activity</li><li>morning pain and stiffness are common</li></ul><br />The management is typically <span class=\"concept\" data-cid=\"2985\">supportive</span><br /><ul><li>simple analgesia</li><li>reduction in precipitating activities</li><li><span class=\"concept\" data-cid=\"989\">calf muscle eccentric exercises</span>: this may be self-directed or under the guidance of physiotherapy</li></ul><br /><br /><h5 class='notes-heading'>Achilles tendon rupture</h5><br />Achilles tendon rupture should be suspected if the person describes the following whilst playing a sport or running; an audible 'pop' in the ankle, sudden onset significant pain in the calf or ankle or the inability to walk or continue the sport. <br /><br />An examination should be conducted using <span class=\"concept\" data-cid=\"10762\">Simmond's triad</span>, to help exclude Achilles tendon rupture. This can be performed by asking the patient to lie prone with their feet over the edge of the bed. The examiner should look for an abnormal angle of declination; Achilles tendon rupture may lead to greater dorsiflexion of the injured foot compared to the uninjured limb. They should also feel for a gap in the tendon and gently squeeze the calf muscles  if there is an acute rupture of the Achilles tendon the injured foot will stay in the neutral position when the calf is squeezed.<br /><br /><span class=\"concept\" data-cid=\"4563\">Ultrasound</span> is the initial imaging modality of choice for suspected Achilles tendon rupture<br /><br />An acute referral should be made to an orthopaedic specialist following a suspected rupture.",
+        "notes_hash": "aa8c8114a155cb7f7f62324db69e14f6",
+        "knowledge_graph_node_id_link": 1351,
+        "concept": "Ultrasound is the initial imaging modality of choice for suspected Achilles tendon rupture",
+        "concept_percentile": "85",
+        "concept_colour": "rgb(76,255,0)",
+        "number_attempts": "4492",
+        "up_votes": "7",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "28",
+            "69",
+            "809",
+            "3157",
+            "429",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qgw0OArNkF0\" data-description=\"Achilles Tendonitis and Tendon Rupture - Overview\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1488\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/qgw0OArNkF0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qgw0OArNkF0\" data-description=\"Achilles Tendonitis and Tendon Rupture - Overview\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1488\">Achilles Tendonitis and Tendon Rupture - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2622\" data-mediaid=\"2622\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2622\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2622\" data-mediaid=\"2622\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2622\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8PvgvUV8N8U\" data-description=\"Simmonds' Triad of tests for a suspected Achilles tendon rupture\" data-upvotes=\"19\" data-downvotes=\"4\" data-media=\"645\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8PvgvUV8N8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8PvgvUV8N8U\" data-description=\"Simmonds' Triad of tests for a suspected Achilles tendon rupture\" data-upvotes=\"19\" data-downvotes=\"4\" data-media=\"645\">Simmonds' Triad of tests for a suspected Achilles tendon rupture</a></td></tr><tr><td><span ><small>Stanmore Foot and Ankle Centre - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1110\" data-mediaid=\"1110\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1110\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"media_dislike_1110\" data-mediaid=\"1110\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1110\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x1-LN1RYV94\" data-description=\"Understanding Achilles Tendinopathy (Achilles Tendinitis)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"1302\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/x1-LN1RYV94/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/x1-LN1RYV94\" data-description=\"Understanding Achilles Tendinopathy (Achilles Tendinitis)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"1302\">Understanding Achilles Tendinopathy (Achilles Tendinitis)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2302\" data-mediaid=\"2302\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2302\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2302\" data-mediaid=\"2302\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2302\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M6EKuuZ7C2E\" data-description=\"Eccentric calf muscle exercises for Achilles tendinopathy\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"393\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/M6EKuuZ7C2E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M6EKuuZ7C2E\" data-description=\"Eccentric calf muscle exercises for Achilles tendinopathy\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"393\">Eccentric calf muscle exercises for Achilles tendinopathy</a></td></tr><tr><td><span ><small>Journal of Foot and Ankle Research - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_675\" data-mediaid=\"675\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_675\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_675\" data-mediaid=\"675\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_675\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "1823": {
+                "concept_text": "Ciprofloxacin is the likely causative medication with new onset achilles tendon disorders; tendinitis and tendon rupture is a key side effect of which to be aware",
+                "concept_percentile": "42"
+            },
+            "2985": {
+                "concept_text": "Achilles tendonitis management: rest, NSAIDs, and physio if symptoms persist beyond 7 days ",
+                "concept_percentile": "96"
+            },
+            "4563": {
+                "concept_text": "Ultrasound is the initial imaging modality of choice for suspected Achilles tendon rupture",
+                "concept_percentile": "85"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_850",
+        "new_question_id": "41828",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "11897",
+        "notes_id_link": "1_871",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amitriptyline",
+            "Oxygen therapy",
+            "Propranolol",
+            "Sumatriptan",
+            "Verapamil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man visits his GP with a 1-week history of intermittent headaches. He describes sudden bursts of intense pain around the left side of his head and face, particularly his left eye that lasts for 15-20 minutes at a time. Following each episode, his eye is red and watering. There have been approximately 6 attacks in the past week. <br /><br />He drinks 10-12 units of alcohol per week and smokes 5-10 cigarettes a day. There is no other past medical history of note and he has no allergies.<br /><br />Given the likely diagnosis, what is the most appropriate long-term prevention of further headaches?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Verapamil</b> is correct. This patient has a presentation in keeping with a cluster headache given the intermittent 'clusters' of intense headaches that consist of unilateral head and facial (particularly eye) pain associated with eye redness and lacrimation. Men are more commonly affected and triggers can include smoking and alcohol. Oxygen therapy can be used in the treatment of acute attacks. However, verapamil is indicated in the prophylaxis of further episodes.<br /><br /><b>Amitriptyline</b> is incorrect. This is used in the prophylaxis of migraines. Migraines can present similarly to this patient with a unilateral headache. However, they tend to last for longer and can be associated with different symptoms including nausea, photophobia and phonophobia.<br /><br /><b>Oxygen therapy</b> is incorrect. This is used in the management of an acute cluster headache. However, the question is asking for the most appropriate long-term prevention for which verapamil is the correct answer.<br /><br /><b>Propranolol</b> is incorrect. This is used in the prophylaxis of migraines and plays no role in the prevention of cluster headaches.<br /><br /><b>Sumatriptan</b> is incorrect. This is used in the acute management of migraines but plays no role in the management of cluster headaches and would, therefore, be inappropriate.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man visits his GP with a 1-week history of intermittent headaches. He describes sudden bursts of intense pain around the left side of his head and face, particularly his left eye that lasts for 15-20 minutes at a time. Following each episode, his eye is red and watering. There have been approximately 6 attacks in the past week. <br /><br />He drinks 10-12 units of alcohol per week and smokes 5-10 cigarettes a day. There is no other past medical history of note and he has no allergies.<br /><br />Given the likely diagnosis, what is the most appropriate long-term prevention of further headaches?",
+        "correct_answer": "5",
+        "question_notes": "<b>Verapamil</b> is correct. This patient has a presentation in keeping with a cluster headache given the intermittent 'clusters' of intense headaches that consist of unilateral head and facial (particularly eye) pain associated with eye redness and lacrimation. Men are more commonly affected and triggers can include smoking and alcohol. Oxygen therapy can be used in the treatment of acute attacks. However, verapamil is indicated in the prophylaxis of further episodes.<br /><br /><b>Amitriptyline</b> is incorrect. This is used in the prophylaxis of migraines. Migraines can present similarly to this patient with a unilateral headache. However, they tend to last for longer and can be associated with different symptoms including nausea, photophobia and phonophobia.<br /><br /><b>Oxygen therapy</b> is incorrect. This is used in the management of an acute cluster headache. However, the question is asking for the most appropriate long-term prevention for which verapamil is the correct answer.<br /><br /><b>Propranolol</b> is incorrect. This is used in the prophylaxis of migraines and plays no role in the prevention of cluster headaches.<br /><br /><b>Sumatriptan</b> is incorrect. This is used in the acute management of migraines but plays no role in the management of cluster headaches and would, therefore, be inappropriate.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Cluster headache",
+        "body": "Cluster headaches are known to be one of the most painful conditions that patients can have the misfortune to suffer. The name relates to the pattern of the headaches - they typically occur in clusters lasting several weeks, with the clusters themselves typically once a year.<br /><br />Cluster headaches are more common in men (3:1) and smokers. <span class=\"concept\" data-cid=\"1138\">Alcohol may trigger an attack</span> and there also appears to be a relation to nocturnal sleep.<br /><br /><span class=\"concept\" data-cid=\"905\">Features</span><br />   -<span class=\"concept\" data-cid=\"11897\">intense sharp, stabbing pain around one eye</span><br /><ul><li>pain typical occurs once or twice a day, <span class=\"concept\" data-cid=\"10567\">each episode lasting 15 mins - 2 hours</span></li><li> the patient is <span class=\"concept\" data-cid=\"11897\">restless</span> and agitated during an attack due to the severity</li></ul></li><li>clusters <span class=\"concept\" data-cid=\"10568\">typically last 4-12 weeks</span></li><li>accompanied by redness, <span class=\"concept\" data-cid=\"11897\">lacrimation</span>, lid swelling</li><li>nasal stuffiness</li><li>miosis and ptosis in a minority</li></ul><br />Investigations<br /><ul><li>most patients will have neuroimaging - underlying brain lesions are sometimes found even if the clinical symptoms are typical for cluster headache</li><li>MRI with gadolinium contrast is the investigation of choice</li></ul><br />Management<br /><ul><li>NICE recommend seeking specialist advice from a neurologist if a patient develops cluster headaches</li><li><span class=\"concept\" data-cid=\"904\">acute<ul><li>100% oxygen (80% response rate within 15 minutes)</li><li>subcutaneous triptan  (75% response rate within 15 minutes)</span></li></ul></li><li>prophylaxis<ul><li><span class=\"concept\" data-cid=\"2772\">verapamil is the drug of choice</span></li><li>there is also some evidence to support a tapering dose of prednisolone</li></ul></li></ul><br />Some neurologists use the term trigeminal autonomic cephalgia to group a number of conditions including cluster headache, paroxysmal hemicrania and short-lived unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT). It is recommended such patients are referred for specialist assessment as specific treatment may be required, for example it is known paroxysmal hemicrania responds very well to indomethacin",
+        "notes_hash": "5795cb248fc430ff2599d54fdfc9f499",
+        "knowledge_graph_node_id_link": 1018,
+        "concept": "Episodic, intense, unilateral eye pain, lacrimation, restless &rarr; ?cluster headache",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "5609",
+        "up_votes": "24",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "280",
+            "380",
+            "956",
+            "394",
+            "3599",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_443\" data-linkid=\"443\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_443\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_443\" data-linkid=\"443\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_443\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG150/chapter/Recommendations\">2012 Headache guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PrbIkzAX5xc\" data-description=\"Cluster headaches\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"1177\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/PrbIkzAX5xc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/PrbIkzAX5xc\" data-description=\"Cluster headaches\" data-upvotes=\"16\" data-downvotes=\"1\" data-media=\"1177\">Cluster headaches</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2031\" data-mediaid=\"2031\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2031\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_2031\" data-mediaid=\"2031\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2031\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HusczG_wh8I\" data-description=\"Cluster headache\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1410\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/HusczG_wh8I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/HusczG_wh8I\" data-description=\"Cluster headache\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1410\">Cluster headache</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2477\" data-mediaid=\"2477\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2477\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2477\" data-mediaid=\"2477\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2477\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zaG82Z7lCOE\" data-description=\"Cluster Headaches - symptoms, pathophysiology, treatment\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1340\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/zaG82Z7lCOE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/zaG82Z7lCOE\" data-description=\"Cluster Headaches - symptoms, pathophysiology, treatment\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1340\">Cluster Headaches - symptoms, pathophysiology, treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2361\" data-mediaid=\"2361\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2361\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2361\" data-mediaid=\"2361\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2361\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "1138": {
+                "concept_text": "Alcohol is a common trigger for cluster headaches",
+                "concept_percentile": "72"
+            },
+            "2772": {
+                "concept_text": "Verapamil is used for long-term prophylaxis of cluster headaches",
+                "concept_percentile": "90"
+            },
+            "10567": {
+                "concept_text": "A cluster headache can last between 15 minutes to 2 hours",
+                "concept_percentile": "95"
+            },
+            "10568": {
+                "concept_text": "'Clusters' of cluster headaches typically last from 4 to 12 weeks",
+                "concept_percentile": "94"
+            },
+            "11897": {
+                "concept_text": "Episodic, intense, unilateral eye pain, lacrimation, restless --> ?cluster headache",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4990_B_9",
+        "new_question_id": "15032",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3510",
+        "notes_id_link": "1_1289",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Maternal trauma and young maternal age",
+            "Maternal trauma, multiparity and increased maternal age",
+            "Maternal trauma, nulliparity and increased maternal age",
+            "Nulliparity and young maternal age",
+            "Multiparity and increased maternal age",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old, 12 week pregnant, female presents to the emergency department with abdominal pain. The pain has been constant for the past 2 hours but she has had no vaginal bleeding. <br /><br />What are the factors associated with an increased risk of placental abruption?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "All 3 of these factors are associated with an increased risk of placental abruption. <br /><br />In addition, proteinuric hypertension is a risk factor; this is another term for pre-eclampsia, which is defined as the presence of protein in the urine, along with hypertension.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old, 12 week pregnant, female presents to the emergency department with abdominal pain. The pain has been constant for the past 2 hours but she has had no vaginal bleeding. <br /><br />What are the factors associated with an increased risk of placental abruption?",
+        "correct_answer": "2",
+        "question_notes": "All 3 of these factors are associated with an increased risk of placental abruption. <br /><br />In addition, proteinuric hypertension is a risk factor; this is another term for pre-eclampsia, which is defined as the presence of protein in the urine, along with hypertension.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Placental abruption",
+        "body": "Placental abruption describes separation of a normally sited placenta from the uterine wall, resulting in maternal haemorrhage into the intervening space<br /><br />Epidemiology<br /><ul><li>occurs in approximately 1/200 pregnancies</li></ul><br />Cause - not known but associated factors:<br /><ul><li>proteinuric hypertension</li><li><span class=\"concept\" data-cid=\"4231\">cocaine use</span></li><li>multiparity</li><li>maternal trauma</li><li>increasing maternal age</li></ul><br /><span class=\"concept\" data-cid=\"3063\">Clinical features</span><br /><ul><li>shock out of keeping with visible loss</li><li>pain constant</li><li>tender, tense uterus</li><li>normal lie and presentation</li><li>fetal heart: absent/distressed</li><li>coagulation problems</li><li>beware pre-eclampsia, DIC, anuria</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990b.png\" data-fancybox=\"gallery\" data-caption=\"Diagram showing placenta abruption\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990.png\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "8e04e1b5480ef357de2d81a8df871be5",
+        "knowledge_graph_node_id_link": 1167,
+        "concept": "Increased risk of placental abruption is associated with increasing maternal age, multiparity and maternal trauma",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5172",
+        "up_votes": "15",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "136",
+            "3216",
+            "1382",
+            "129",
+            "309",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"20\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vHjQMa02PUM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"20\">Placental abruption - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_42\" data-mediaid=\"42\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_42\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_42\" data-mediaid=\"42\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_42\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1913",
+        "new_question_id": "60783",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "305",
+        "notes_id_link": "1_1465",
+        "theme": "Cervical screening interval for a 34-year-old woman",
+        "instruction": "",
+        "options": [
+            "",
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years",
+            "10 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old woman attends her GP practice for an unrelated matter. She mentions she had a routine cervical screen last year and the result was HPV negative. She is unsure of the current screening interval and asks for advice. She has no gynaecological symptoms.<br /><br />What is the recommended screening interval for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>5 years</b> is the correct answer. The NHS Cervical Screening Programme in the UK has transitioned to a primary high-risk human papillomavirus (hrHPV) testing model. Due to the high sensitivity and negative predictive value of hrHPV testing, the screening interval has been safely extended. For all women aged 25 to 64 with a negative hrHPV result, the routine screening interval is now 5 years. This patient is 34 and had a negative HPV test, so she falls into this routine recall category. The change from the previous 3-yearly interval for women under 50 reflects the increased confidence that a negative HPV test confers a very low risk of developing significant cervical abnormalities within the subsequent 5 years.<br /><br /><b>1 year</b> is incorrect. An annual screening interval is recommended for certain high-risk groups, but not for the routine population. For example, women living with HIV are advised to have annual cervical cytology due to an increased risk of persistent HPV infection and subsequent cervical intraepithelial neoplasia (CIN). Annual follow-up may also be indicated after treatment for high-grade CIN. This patient has no risk factors mentioned in the scenario that would necessitate annual screening.<br /><br /><b>2 years</b> is incorrect. This is not, and has not been, a standard interval for routine cervical screening in the UK. While follow-up protocols for specific low-grade abnormalities or inadequate samples can vary, 2 years is not a routine recall period for a negative screen. It is important to be familiar with the specific intervals of the national screening programme to provide accurate patient advice.<br /><br /><b>3 years</b> is incorrect. This was the previous standard screening interval for women aged 25 to 49 in the UK before the full implementation of primary HPV testing. This is a common point of confusion for both patients and healthcare professionals during the transition period. The superior performance of HPV testing has allowed for the interval to be extended, and it is crucial for clinicians to be aware of this updated guidance to avoid giving outdated advice and causing unnecessary patient anxiety or resource utilisation.<br /><br /><b>10 years</b> is incorrect. A 10-year screening interval is not part of the UK cervical screening programme for women aged 25-64. While some other countries' guidelines or research might discuss longer intervals in very low-risk individuals after multiple consecutive negative tests, it is not the current standard of care in the UK. Providing this advice would be incorrect and potentially unsafe according to national guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old woman attends her GP practice for an unrelated matter. She mentions she had a routine cervical screen last year and the result was HPV negative. She is unsure of the current screening interval and asks for advice. She has no gynaecological symptoms.<br /><br />What is the recommended screening interval for this patient?",
+        "correct_answer": "4",
+        "question_notes": "<b>5 years</b> is the correct answer. The NHS Cervical Screening Programme in the UK has transitioned to a primary high-risk human papillomavirus (hrHPV) testing model. Due to the high sensitivity and negative predictive value of hrHPV testing, the screening interval has been safely extended. For all women aged 25 to 64 with a negative hrHPV result, the routine screening interval is now 5 years. This patient is 34 and had a negative HPV test, so she falls into this routine recall category. The change from the previous 3-yearly interval for women under 50 reflects the increased confidence that a negative HPV test confers a very low risk of developing significant cervical abnormalities within the subsequent 5 years.<br /><br /><b>1 year</b> is incorrect. An annual screening interval is recommended for certain high-risk groups, but not for the routine population. For example, women living with HIV are advised to have annual cervical cytology due to an increased risk of persistent HPV infection and subsequent cervical intraepithelial neoplasia (CIN). Annual follow-up may also be indicated after treatment for high-grade CIN. This patient has no risk factors mentioned in the scenario that would necessitate annual screening.<br /><br /><b>2 years</b> is incorrect. This is not, and has not been, a standard interval for routine cervical screening in the UK. While follow-up protocols for specific low-grade abnormalities or inadequate samples can vary, 2 years is not a routine recall period for a negative screen. It is important to be familiar with the specific intervals of the national screening programme to provide accurate patient advice.<br /><br /><b>3 years</b> is incorrect. This was the previous standard screening interval for women aged 25 to 49 in the UK before the full implementation of primary HPV testing. This is a common point of confusion for both patients and healthcare professionals during the transition period. The superior performance of HPV testing has allowed for the interval to be extended, and it is crucial for clinicians to be aware of this updated guidance to avoid giving outdated advice and causing unnecessary patient anxiety or resource utilisation.<br /><br /><b>10 years</b> is incorrect. A 10-year screening interval is not part of the UK cervical screening programme for women aged 25-64. While some other countries' guidelines or research might discuss longer intervals in very low-risk individuals after multiple consecutive negative tests, it is not the current standard of care in the UK. Providing this advice would be incorrect and potentially unsafe according to national guidelines.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Cervical cancer screening",
+        "body": "The UK has a well-established cervical cancer screening program which is estimated to prevent 1,000-4,000 deaths per year. <span class=\"concept\" data-cid=\"9755\">The main aim of cervical screening is to detect pre-malignant changes rather than to detect cancer</span>. It should be noted that <span class=\"concept\" data-cid=\"306\">cervical adenocarcinomas, which account for around 15% of cases, are frequently undetected by screening</span><br /><br />The programme has undergone a significant evolution in recent years. For many years the smears were examined for signs of dyskaryosis which may indicate cervical intraepithelial neoplasia -  management was based solely on the degree of dyskaryosis. The introduction of HPV testing allowed patients with mild dyskaryosis to be further risk-stratified, i.e. as HPV is such a strong risk factor patients who were HPV negative could be treated as having normal results.<br /><br />The NHS has now moved to an <b>HPV first system</b>, i.e. a sample is tested for high-risk strains of human papillomavirus (hrHPV) first and cytological examination is only performed if this is positive.<br /><br /><h5 class='notes-heading'>Who is screened and how often?</h5><br />A smear test is offered to all women between the ages of 25-64 years<br /><ul><li><span class=\"concept\" data-cid=\"305\">25-64 years: 5-yearly screening</span><ul><li>the guidelines changed in July 2025, previously younger women were offered screening every 3 years but the success of HPV testing has extended this period</li></ul></li><li><span class=\"concept\" data-cid=\"9752\">cervical screening cannot be offered to women over 64 (unlike breast screening, where patients can self-refer once past screening age)</span></li></ul> <br />Special situations<br /><ul><li>cervical screening in <span class=\"concept\" data-cid=\"7878\">pregnancy is usually delayed until 3 months post-partum</span> unless missed screening or previous abnormal smears.</li><li><span class=\"concept\" data-cid=\"9756\">women who have never been sexually active have a very low risk of developing cervical cancer therefore they may wish to opt out of screening</span></li><li>HIV-positive women:<ul><li>women living with HIV are at increased risk of persistent HPV infection and cervical intraepithelial neoplasia. Therefore, cervical screening guidelines differ from the general population</li><li><span class=\"concept\" data-cid=\"12394\">annual cervical cytology</span> is recommended for all women with HIV, starting at the time of diagnosis, regardless of age</li><li>colposcopy is indicated if any abnormal cytology is found</li></ul></li></ul><br />It is said that the best time to take a cervical smear is around mid-cycle. Whilst there is limited evidence to support this it is still the current advice given out by the NHS.",
+        "notes_hash": "a5ff0ef12dd12b3cdae294776697ffa9",
+        "knowledge_graph_node_id_link": 11292,
+        "concept": "Cervical cancer screening: 5-yearly for women aged 25-64 years",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "2335",
+        "up_votes": "7",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "60",
+            "65",
+            "1243",
+            "960",
+            "7",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NHS</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_793\" data-linkid=\"793\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_793\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_793\" data-linkid=\"793\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_793\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/guidance/cervical-screening-programme-overview\">NHS Cervical Screening Programme</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/5EIqLqpjWiQ\" data-description=\"How to take a smear\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"165\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/5EIqLqpjWiQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/5EIqLqpjWiQ\" data-description=\"How to take a smear\" data-upvotes=\"8\" data-downvotes=\"1\" data-media=\"165\">How to take a smear</a></td></tr><tr><td><span ><small>Geeky medics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_284\" data-mediaid=\"284\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_284\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_284\" data-mediaid=\"284\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_284\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NgO9kdWeg1k\" data-description=\"Cervical cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"945\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/NgO9kdWeg1k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/NgO9kdWeg1k\" data-description=\"Cervical cancer\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"945\">Cervical cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1639\" data-mediaid=\"1639\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1639\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1639\" data-mediaid=\"1639\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1639\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "305": {
+                "concept_text": "Cervical cancer screening: 5-yearly for women aged 25-64 years",
+                "concept_percentile": "51"
+            },
+            "12394": {
+                "concept_text": "Women who are HIV positive should be offered annual cervical cancer screening",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1566_B_2089",
+        "new_question_id": "4140",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1698",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Her age (31 years old)",
+            "1 previous successful pregnancy",
+            "Body mass index of 29kg/m^2",
+            "History of smoking",
+            "Pre-existing renal disease",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 31-year-old female presents to the antenatal clinic for a booking appointment. Which of the following should be identified as a risk factor for pre-eclampsia?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The following are risk factors that should be determined:<br /><br /><ul><li>Aged 40 years or older</li><li>Nulliparity</li><li>Pregnancy interval of more than 10 years</li><li>Family history of pre-eclampsia</li><li>Previous history of pre-eclampsia</li><li>Body mass index of 30kg/m^2 or above</li><li>Pre-existing vascular disease such as hypertension</li><li>Pre-existing renal disease</li><li>Multiple pregnancy</li></ul><br />Source: NICE (https:www.nice.org.uk/guidance/CG62/chapter/1-Guidance#screening-for-fetal-anomalies).",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 31-year-old female presents to the antenatal clinic for a booking appointment. Which of the following should be identified as a risk factor for pre-eclampsia?",
+        "correct_answer": "5",
+        "question_notes": "The following are risk factors that should be determined:<br /><br /><ul><li>Aged 40 years or older</li><li>Nulliparity</li><li>Pregnancy interval of more than 10 years</li><li>Family history of pre-eclampsia</li><li>Previous history of pre-eclampsia</li><li>Body mass index of 30kg/m^2 or above</li><li>Pre-existing vascular disease such as hypertension</li><li>Pre-existing renal disease</li><li>Multiple pregnancy</li></ul><br />Source: NICE (https:www.nice.org.uk/guidance/CG62/chapter/1-Guidance#screening-for-fetal-anomalies).",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Pre-eclampsia",
+        "body": "Pre-eclampsia describes the emergence of high blood pressure during pregnancy that may be a precursor to a woman developing eclampsia and other complications. It is classically a triad of 3 things:<br /><ul><li>new-onset hypertension</li><li>proteinuria</li><li>oedema</li></ul><br /><h5 class='notes-heading'>Definition</h5><br />The current formal definition is as follows<br /><ul><li>new-onset blood pressure <span class=\"concept\" data-cid=\"11315\">\u2265 140/90 mmHg after 20 weeks of pregnancy, AND 1</span> or more of the following:<ul><li>proteinuria </li><li>other organ involvement (see list below for examples): e.g. renal insufficiency (creatinine \u2265 90 umol/L), liver, neurological, haematological, uteroplacental dysfunction</li></ul></li></ul><br /><h5 class='notes-heading'>Features</h5><br />Potential consequences of pre-eclampsia<br /><ul><li>eclampsia<ul><li>other neurological complications include altered mental status, blindness, stroke, clonus, severe headaches or persistent visual scotomata</li></ul></li><li>fetal complications<ul><li>intrauterine growth retardation</li><li>prematurity</li></ul></li><li>liver involvement (elevated transaminases)</li><li>haemorrhage: placental abruption, intra-abdominal, intra-cerebral</li><li>cardiac failure</li></ul><br />Features of severe pre-eclampsia<br /><ul><li>hypertension: typically > 160/110 mmHg and proteinuria as above</li><li>proteinuria: dipstick ++/+++ </li><li>headache</li><li>visual disturbance</li><li>papilloedema</li><li>RUQ/epigastric pain</li><li>hyperreflexia</li><li>platelet count < 100 * 10<sup>6</sup>/l, abnormal liver enzymes or HELLP syndrome</li></ul><br /><h5 class='notes-heading'>Prevention</h5><br />NICE divide risk factors into high and moderate risk:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>High risk factors</th><th>Moderate risk factors</th></tr></thead><tbody><tr><td><ul><li>hypertensive disease in a previous pregnancy</li><li>chronic kidney disease</li><li>autoimmune disease, such as systemic lupus erythematosus or antiphospholipid syndrome</li><li>type 1 or type 2 diabetes</li><li>chronic hypertension</li></ul></td><td><ul><li>first pregnancy</li><li>age 40 years or older</li><li>pregnancy interval of more than 10 years</li><li>body mass index (BMI) of 35 kg/m\u00b2 or more at first visit</li><li>family history of pre-eclampsia</li><li>multiple pregnancy</td></tr></tbody></table></div></li></ul><br />Reducing the risk of hypertensive disorders in pregnancy<br /><ul><li>women with the following should take <span class=\"concept\" data-cid=\"1636\">aspirin 75-150mg daily from 12 weeks gestation until the birth</span><ul><li>\u2265 1 high risk factors</li><li>\u2265 2 moderate factors</li></ul></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Initial assessment<br /><ul><li>NICE recommend <span class=\"concept\" data-cid=\"11316\">arranging emergency secondary care assessment</span> for any woman in whom pre-eclampsia is suspected</li><li>women with blood pressure \u2265 <span class=\"concept\" data-cid=\"11317\">160/110 mmHg are likely to be admitted and observed</span></li></ul><br />Further management<br /><ul><li><span class=\"concept\" data-cid=\"408\">oral labetalol</span> is now first-line following the 2010 NICE guidelines. <span class=\"concept\" data-cid=\"1935\">Nifedipine (e.g. if asthmatic)</span> and hydralazine may also be used</li><li>delivery of the baby is the most important and definitive management step. The timing depends on the individual clinical scenario</li></ul>",
+        "notes_hash": "a9369d9021d9e9e938ea628ed6ecd914",
+        "knowledge_graph_node_id_link": 1432,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4752",
+        "up_votes": "11",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "168",
+            "29",
+            "382",
+            "1870",
+            "2303",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_696\" data-linkid=\"696\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_696\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_696\" data-linkid=\"696\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_696\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng133/chapter/Recommendations\">2019 Hypertension in pregnancy: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"354\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yta5RRJ-Mg8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"354\">Pre Eclampsia - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_599\" data-mediaid=\"599\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_599\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_599\" data-mediaid=\"599\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_599\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"216\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"216\">Preeclampsia &amp; eclampsia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_356\" data-mediaid=\"356\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_356\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_356\" data-mediaid=\"356\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_356\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "1636": {
+                "concept_text": "A woman at moderate or high risk of pre-eclampsia should take aspirin 75-150mg daily from 12 weeks gestation until the birth",
+                "concept_percentile": "96"
+            },
+            "1935": {
+                "concept_text": "Nifedipine is the first line anti-hypertensive for pre-eclampsia in women with severe asthma",
+                "concept_percentile": "90"
+            },
+            "11317": {
+                "concept_text": "Pregnant women with blood pressure \u2265 160/110 mmHg are likely to be admitted and observed ",
+                "concept_percentile": "99"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1056",
+        "new_question_id": "1825",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1226",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Being 25-years-old",
+            "History of arm cutting",
+            "Being married",
+            "Female sex",
+            "Having a busy job",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A patient with a history of depression presents for review. Which one of the following suggests an increased risk of suicide?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Whilst arm cutting may sometimes be characterised as attention-seeking or 'releasing the pain' studies show that any history of deliberate self harm significantly increases the risk of suicide. Employment is a protective factor",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A patient with a history of depression presents for review. Which one of the following suggests an increased risk of suicide?",
+        "correct_answer": "2",
+        "question_notes": "Whilst arm cutting may sometimes be characterised as attention-seeking or 'releasing the pain' studies show that any history of deliberate self harm significantly increases the risk of suicide. Employment is a protective factor",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Suicide: risk factors",
+        "body": "The risk stratification of psychiatric patients into 'high', 'medium' or 'low risk' is common in clinical practice. Questions based on a patient's suicide risk are therefore often seen. However, it should be noted that there is a paucity of evidence addressing the positive predictive value of individual risk factors. An interesting review in the BMJ (BMJ 2017;359:j4627) concluded that 'there is no evidence that these assessments can usefully guide decision making' and noted that 50% of suicides occur in patients deemed 'low risk'.<br /><br />Whilst the evidence base is relatively weak, there are a number of factors shown to be associated with an increased risk of suicide<br /><ul><li><span class=\"concept\" data-cid=\"5737\">male sex</span> (hazard ratio (HR) approximately 2.0)</li><li><span class=\"concept\" data-cid=\"4620\">history of deliberate self-harm</span> (HR 1.7)</li><li>alcohol or drug misuse (HR 1.6)</li><li>history of mental illness<ul><li>depression</li><li>schizophrenia: <span class=\"concept\" data-cid=\"10026\">NICE estimates that 10% of people with schizophrenia will complete suicide</span></li></ul></li><li>history of chronic disease</li><li>advancing age</li><li><span class=\"concept\" data-cid=\"11861\">unemployment</span> or social isolation/living alone</li><li>being unmarried, divorced or widowed</li></ul><br />If a patient has actually attempted suicide, there are a number of factors associated with an increased risk of completed suicide at a future date:<br /><ul><li>efforts to avoid discovery</li><li><span class=\"concept\" data-cid=\"12481\">planning</span></li><li>leaving a written note</li><li>final acts such as sorting out finances</li><li>violent method</li></ul><br /><br /><br /><h5 class='notes-heading'>Protective factors</h5><br />There are, of course, <span class=\"concept\" data-cid=\"10027\">factors which reduce the risk of a patient committing suicide</span>. These include<br /><ul><li>family support</li><li>having children at home</li><li>religious belief</li></ul>",
+        "notes_hash": "a82356a2ef80326853c78f7d7776c95d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6162",
+        "up_votes": "24",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "718",
+            "5144",
+            "25",
+            "183",
+            "92",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "10026": {
+                "concept_text": "NICE estimates that 10% of people with schizophrenia will complete suicide",
+                "concept_percentile": "81"
+            },
+            "10027": {
+                "concept_text": "Protective factors against completed suicide include social support, religious beliefs, having children at home and regretting an attempt",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

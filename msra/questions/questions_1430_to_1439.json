@@ -1,0 +1,822 @@
+[
+    {
+        "question_id": "10134_B_16",
+        "new_question_id": "20770",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "4508",
+        "notes_id_link": "1_1229",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Metoclopramide 30mg s/c + morphine 50mg s/c",
+            "Metoclopramide 30mg s/c + morphine 100mg s/c",
+            "Metoclopramide 30mg s/c + morphine 80mg s/c",
+            "Metoclopramide 30mg s/c + oxycodone 100mg s/c",
+            "Metoclopramide 30mg s/c + oxycodone 50mg s/c",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are asked to review an 85-year-old man who was admitted 5 days ago with community acquired pneumonia. He has a past medical history of type 2 diabetes mellitus, angina, chronic obstructive pulmonary disease (COPD) and spinal stenosis.<br /><br />Unfortunately, despite optimal ward-based treatment including IV co-amoxiclav, the patient has continued to deteriorate. He current scores 11 on the Glasgow coma scale. His pupils are 3mm bilaterally and reactive to light. He has been unable to take his morning medications which include morphine sulphate modified release (Zomorph) 30mg twice daily, oramorph 10mg as required, and metoclopramide 10mg three times a day. In the past 24 hours, he has used 4 doses of PRN oramorph.<br /><br />He is reviewed on the consultant ward round and the decision is made that he should be for end of life care. He is currently comfortable, with no evidence of hallucinations, pruritis or myoclonus. The nurse asks you to convert his medications to a syringe driver. <br /><br />What will you prescribe?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking you to convert oral morphine to subcutaneous morphine for use in a syringe driver - also known as a continuous subcutaneous infusion (CSCI). <br /><br />The first step to calculate doses for use in a CSCI is to calculate the total 24-hour usage of the drug. We are told this patient is taking both zomorph (modified release morphine), and oramorph (immediate release) - we need to include both of these medications in our calculation.<br /><br />The patient is taking 30mg zomorph twice daily = 60mg/24 hours.<br />He has also taken 4 doses of 10mg oramorph = 40mg/24 hours.<br /><br />This gives us a total of 60mg + 40mg = 100mg/24 hours of oral morphine. In order to convert this to subcutaneous morphine, we must divide by two. Therefore the amount of morphine needed in the CSCI is 100mg/2 = 50mg/24 hours. <br /><br />The patient is comfortable, with no evidence of opioid toxicity, and so there is no indication to change to oxycodone at the moment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are asked to review an 85-year-old man who was admitted 5 days ago with community acquired pneumonia. He has a past medical history of type 2 diabetes mellitus, angina, chronic obstructive pulmonary disease (COPD) and spinal stenosis.<br /><br />Unfortunately, despite optimal ward-based treatment including IV co-amoxiclav, the patient has continued to deteriorate. He current scores 11 on the Glasgow coma scale. His pupils are 3mm bilaterally and reactive to light. He has been unable to take his morning medications which include morphine sulphate modified release (Zomorph) 30mg twice daily, oramorph 10mg as required, and metoclopramide 10mg three times a day. In the past 24 hours, he has used 4 doses of PRN oramorph.<br /><br />He is reviewed on the consultant ward round and the decision is made that he should be for end of life care. He is currently comfortable, with no evidence of hallucinations, pruritis or myoclonus. The nurse asks you to convert his medications to a syringe driver. <br /><br />What will you prescribe?",
+        "correct_answer": "1",
+        "question_notes": "This question is asking you to convert oral morphine to subcutaneous morphine for use in a syringe driver - also known as a continuous subcutaneous infusion (CSCI). <br /><br />The first step to calculate doses for use in a CSCI is to calculate the total 24-hour usage of the drug. We are told this patient is taking both zomorph (modified release morphine), and oramorph (immediate release) - we need to include both of these medications in our calculation.<br /><br />The patient is taking 30mg zomorph twice daily = 60mg/24 hours.<br />He has also taken 4 doses of 10mg oramorph = 40mg/24 hours.<br /><br />This gives us a total of 60mg + 40mg = 100mg/24 hours of oral morphine. In order to convert this to subcutaneous morphine, we must divide by two. Therefore the amount of morphine needed in the CSCI is 100mg/2 = 50mg/24 hours. <br /><br />The patient is comfortable, with no evidence of opioid toxicity, and so there is no indication to change to oxycodone at the moment.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Palliative care prescribing: pain",
+        "body": "<h5 class='notes-heading'>NICE guidelines</h5><br />In 2012 NICE published guidelines on the use of opioids in palliative care. Selected points are listed below. Please see the link for more details.<br /><br />Starting treatment<br /><ul><li>when starting treatment, offer patients with advanced and progressive disease regular oral modified-release (MR) or oral immediate-release morphine (depending on patient preference), with oral immediate-release morphine for breakthrough pain</li><li>if no comorbidities use 20-30mg of MR a day with 5mg morphine for breakthrough pain. For example, 15mg modified-release morphine tablets twice a day with 5mg of oral morphine solution as required</li><li>oral modified-release morphine should be used in preference to transdermal patches</li><li>laxatives should be prescribed for all patients initiating strong opioids</li><li>patients should be advised that nausea is often transient. If it persists then an antiemetic should be offered</li><li>drowsiness is usually transient - if it does not settle then adjustment of the dose should be considered</li></ul><br /><h5 class='notes-heading'>SIGN guidelines</h5><br />SIGN issued guidance on the control of pain in adults with cancer in 2008. Selected points<br /><ul><li>the breakthrough dose of morphine is <span class=\"concept\" data-cid=\"232\">one-sixth</span> the daily dose of morphine</li><li>all patients who receive opioids should be prescribed a laxative</li><li>opioids should be used with caution in patients with chronic kidney disease<ul><li><span class=\"concept\" data-cid=\"1456\">oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment</span> </li><li>if renal impairment is more severe, alfentanil, <span class=\"concept\" data-cid=\"10059\">buprenorphine and fentanyl</span> are preferred</li></ul></li><li><span class=\"concept\" data-cid=\"233\">metastatic bone pain</span> may respond to strong opioids, bisphosphonates or radiotherapy. The assertion that NSAIDs are particularly effective for metastatic bone pain is not supported by studies. Strong opioids have the lowest number needed to treat for relieving the pain and can provide quick relief, in contrast to radiotherapy and bisphosphonates*. All patients, however, should be considered for referral to a clinical oncologist for consideration of further treatments such as radiotherapy</li></ul><br /><h5 class='notes-heading'>Other points</h5><br />When increasing the dose of opioids the next dose should be increased by <span class=\"concept\" data-cid=\"236\">30-50%</span>.<br /><br />In addition to strong opioids, bisphosphonates and radiotherapy, <span class=\"concept\" data-cid=\"4579\">denosumab</span> may be used to treat metastatic bone pain.<br /><br /><h5 class='notes-heading'>Opioid side-effects</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Usually transient</b></th><th><b>Usually persistent</b></th></tr></thead><tbody><tr><td>Nausea<br /><span class=\"concept\" data-cid=\"9215\">Drowsiness</span></td><td><span class=\"concept\" data-cid=\"9212\">Constipation</span></td></tr></tbody></table></div><br /><h5 class='notes-heading'>Conversion between opioids</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral codeine</td><td>Oral morphine</td><td><span class=\"concept\" data-cid=\"235\">Divide by 10</span></td></tr><tr><td>Oral tramadol</td><td>Oral morphine</td><td><span class=\"concept\" data-cid=\"234\">Divide by 10</span>**</td></tr></tbody></table></div><br />Oxycodone generally causes less sedation, vomiting and pruritis than morphine but more constipation.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral morphine</td><td>Oral oxycodone</td><td>Divide by 1.5-2***</td></tr></tbody></table></div><br />The current BNF gives the following conversion factors for transdermal perparations<br /><ul><li>a transdermal fentanyl 12 microgram patch equates to approximately 30 mg oral morphine daily</li><li>a transdermal buprenorphine 10 microgram patch equates to approximately 24 mg oral morphine daily.</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid4\" ><thead><tr><th><b>From</b></th><th><b>To</b></th><th><b>Conversion factor</b></th></tr></thead><tbody><tr><td>Oral morphine</td><td>Subcutaneous morphine</td><td><span class=\"concept\" data-cid=\"4508\">Divide by 2</span></td></tr><tr><td>Oral morphine</td><td>Subcutaneous diamorphine</td><td>Divide by 3</td></tr><tr><td>Oral oxycodone</td><td>Subcutaneous diamorphine</td><td>Divide by 1.5</td></tr></tbody></table></div><br />*BMJ 2015;350:h315 Cancer induced bone pain<br /><br />**this has previously been stated as 5 but the current version of the BNF states a conversion of 10<br /><br />***historically a conversion factor of 2 has been used (i.e. oral oxycodone is twice as strong as oral morphine). The current BNF however uses a conversion rate of 1.5",
+        "notes_hash": "8e823079a3d7f96115e5674c9f9f3306",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Divide by two for oral to subcutaneous morphine conversion ",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "5874",
+        "up_votes": "50",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "4108",
+            "849",
+            "490",
+            "117",
+            "310",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_627\" data-linkid=\"627\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_627\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">40</span><button type=\"button\" style=\"\" id=\"link_dislike_627\" data-linkid=\"627\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_627\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">30</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/guidance/prescribing-in-palliative-care.html\">Prescribing opioids in palliative care</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_678\" data-linkid=\"678\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_678\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">39</span><button type=\"button\" style=\"\" id=\"link_dislike_678\" data-linkid=\"678\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_678\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg140/chapter/1-recommendations\">2012 Opioids in palliative care guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH5UxisYm9I\" data-description=\"Understanding The Causes of Pain and Pain Management\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1327\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/MH5UxisYm9I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH5UxisYm9I\" data-description=\"Understanding The Causes of Pain and Pain Management\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1327\">Understanding The Causes of Pain and Pain Management</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2346\" data-mediaid=\"2346\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2346\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2346\" data-mediaid=\"2346\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2346\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "232": {
+                "concept_text": "Breakthrough dose = 1/6th of daily morphine dose",
+                "concept_percentile": "39"
+            },
+            "233": {
+                "concept_text": "Metastatic bone pain may respond to analgesia, bisphosphonates or radiotherapy",
+                "concept_percentile": "60"
+            },
+            "1456": {
+                "concept_text": "Oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment",
+                "concept_percentile": "70"
+            },
+            "4508": {
+                "concept_text": "Divide by two for oral to subcutaneous morphine conversion ",
+                "concept_percentile": "64"
+            },
+            "9212": {
+                "concept_text": "Opioids may cause constipation",
+                "concept_percentile": "9"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_912",
+        "new_question_id": "2597",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11579",
+        "notes_id_link": "1_1400",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Trial of oral desmopressin",
+            "Enuresis alarm",
+            "Discourage fluids at night",
+            "Trial of intranasal desmopressin",
+            "Reassurance and advice on fluid intake, diet and toileting behaviour",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "The mother of a 4-year-old boy comes to surgery as she is concerned he is still wetting the bed at night. This is in contrast to his older brother who was dry at night by the age of 3 years. She is wondering if there is any treatment you can offer. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Reassurance and advice on fluid intake, diet and toileting behaviour</b>. Nocturnal enuresis, or bedwetting, is common in children and can continue up to the age of 5 years. The UK National Institute for Health and Care Excellence (NICE) guidelines recommend initially reassuring parents that this is a normal part of development and offering advice on lifestyle modifications. This includes maintaining a good fluid intake during the day, avoiding caffeine-containing drinks, ensuring a balanced diet with enough fibre to avoid constipation (which can exacerbate enuresis), encouraging regular daytime toilet use and establishing a routine for emptying the bladder before bedtime.<br /><br /><b>Trial of oral desmopressin</b> is incorrect because desmopressin should not be used as first-line treatment for nocturnal enuresis according to NICE guidelines. It may be considered if initial strategies are not successful and if the child is over 7 years old.<br /><br /><b>Enuresis alarm</b> is also incorrect as an initial management option. Enuresis alarms can be effective but are generally recommended as second-line treatment if lifestyle modifications have not been successful after several months.<br /><br /><b>Discourage fluids at night</b> could potentially exacerbate enuresis rather than improve it. While excessive drinking close to bedtime should be avoided, it's important that children stay well-hydrated throughout the day.<br /><br />Finally, <b>Trial of intranasal desmopressin</b> is incorrect because intranasal formulations of desmopressin are no longer recommended due to an increased risk of hyponatraemia compared with oral formulations. Again, any form of desmopressin would typically only be considered as a second-line treatment following unsuccessful behavioural strategies.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "The mother of a 4-year-old boy comes to surgery as she is concerned he is still wetting the bed at night. This is in contrast to his older brother who was dry at night by the age of 3 years. She is wondering if there is any treatment you can offer. What is the most appropriate management?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Reassurance and advice on fluid intake, diet and toileting behaviour</b>. Nocturnal enuresis, or bedwetting, is common in children and can continue up to the age of 5 years. The UK National Institute for Health and Care Excellence (NICE) guidelines recommend initially reassuring parents that this is a normal part of development and offering advice on lifestyle modifications. This includes maintaining a good fluid intake during the day, avoiding caffeine-containing drinks, ensuring a balanced diet with enough fibre to avoid constipation (which can exacerbate enuresis), encouraging regular daytime toilet use and establishing a routine for emptying the bladder before bedtime.<br /><br /><b>Trial of oral desmopressin</b> is incorrect because desmopressin should not be used as first-line treatment for nocturnal enuresis according to NICE guidelines. It may be considered if initial strategies are not successful and if the child is over 7 years old.<br /><br /><b>Enuresis alarm</b> is also incorrect as an initial management option. Enuresis alarms can be effective but are generally recommended as second-line treatment if lifestyle modifications have not been successful after several months.<br /><br /><b>Discourage fluids at night</b> could potentially exacerbate enuresis rather than improve it. While excessive drinking close to bedtime should be avoided, it's important that children stay well-hydrated throughout the day.<br /><br />Finally, <b>Trial of intranasal desmopressin</b> is incorrect because intranasal formulations of desmopressin are no longer recommended due to an increased risk of hyponatraemia compared with oral formulations. Again, any form of desmopressin would typically only be considered as a second-line treatment following unsuccessful behavioural strategies.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Nocturnal enuresis",
+        "body": "The majority of children achieve day and night time continence by 3 or 4 years of age. Enuresis may be defined as the 'involuntary discharge of urine by day or night or both, in a child aged <span class=\"concept\" data-cid=\"11579\">5 years</span> or older, in the absence of congenital or acquired defects of the nervous system or urinary tract'<br /><br />Nocturnal enuresis can be defined as either primary (the child has never achieved continence) or secondary (the child has been dry for at least 6 months before)<br /><br />Management<br /><ul><li>look for possible underlying causes/triggers<ul><li>constipation</li><li>diabetes mellitus</li><li>UTI if recent onset</li></ul></li><li>general advice<ul><li>fluid intake</li><li>toileting patterns: encourage to empty bladder regularly during the day and before sleep</li><li>lifting and waking</li></ul></li><li>reward systems (e.g. Star charts)<ul><li>NICE recommend these 'should be given for agreed behaviour rather than dry nights' e.g. Using the toilet to pass urine before sleep</li></ul></li><li><span class=\"concept\" data-cid=\"11578\">enuresis alarm</span><ul><li>generally first-line for children</li><li>have sensor pads that sense wetness</li><li>high success rate</li></ul></li><li>desmopressin <ul><li>particularly if <span class=\"concept\" data-cid=\"4447\">short-term control</span> is needed (e.g. for sleepovers) or an enuresis alarm has been ineffective/is not acceptable to the family</li></ul></li></ul>",
+        "notes_hash": "8b795d97457822e32bf06a688625ac11",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Children under the age of 5 years who have nocturnal enuresis can be managed with reassurance and advice",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "4891",
+        "up_votes": "16",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "16",
+            "821",
+            "74",
+            "13",
+            "3967",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_709\" data-linkid=\"709\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_709\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_709\" data-linkid=\"709\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_709\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg111/chapter/1-guidance\">2010 Nocturnal enuresis guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "11578": {
+                "concept_text": "An enuresis alarm is generally used first-line for nocturnal enuresis if general advice has not helped",
+                "concept_percentile": "62"
+            },
+            "11579": {
+                "concept_text": "Children under the age of 5 years who have nocturnal enuresis can be managed with reassurance and advice",
+                "concept_percentile": "61"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "27849_B_86",
+        "new_question_id": "45500",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "2661",
+        "notes_id_link": "1_779",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diabetes insipidus",
+            "Haemochromatosis",
+            "High serum magnesium",
+            "High serum phosphate",
+            "Hypoparathyroidism",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 47-year-old woman is seen in the emergency department with a 2-day history of an atraumatic painful right knee. On examination, the right knee is swollen and warm to the touch, with a reduced range of motion. Joint fluid microscopy shows the presence of positively birefringent rhomboid-shaped crystals.<br /><br />What is a risk factor associated with the condition being described?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The condition being described is pseudogout. It is a crystal arthropathy whereby the deposition of calcium pyrophosphate crystals causes joint pain and erythema. Calcium pyrophosphate precipitates are seen as positively birefringent rhomboid-shaped crystals under microscopy, as in this scenario.<br /><br />Risk factors for pseudogout include increasing age, <b>haemochromatosis</b>, Wilson's disease and acromegaly.<br /><br /><b>Hypoparathyroidism</b> is incorrect - hyperparathyroidism and the resulting hypercalcaemia predispose patients to calcium pyrophosphate crystal formation (and hence pseudogout).<br /><br />Low, rather than high, <b>serum magnesium and phosphate levels</b> are associated with pseudogout, so these are incorrect answers.<br /><br /><b>Diabetes insipidus</b> is not associated with pseudogout, but pituitary disorders such as acromegaly do have an association.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 47-year-old woman is seen in the emergency department with a 2-day history of an atraumatic painful right knee. On examination, the right knee is swollen and warm to the touch, with a reduced range of motion. Joint fluid microscopy shows the presence of positively birefringent rhomboid-shaped crystals.<br /><br />What is a risk factor associated with the condition being described?",
+        "correct_answer": "2",
+        "question_notes": "The condition being described is pseudogout. It is a crystal arthropathy whereby the deposition of calcium pyrophosphate crystals causes joint pain and erythema. Calcium pyrophosphate precipitates are seen as positively birefringent rhomboid-shaped crystals under microscopy, as in this scenario.<br /><br />Risk factors for pseudogout include increasing age, <b>haemochromatosis</b>, Wilson's disease and acromegaly.<br /><br /><b>Hypoparathyroidism</b> is incorrect - hyperparathyroidism and the resulting hypercalcaemia predispose patients to calcium pyrophosphate crystal formation (and hence pseudogout).<br /><br />Low, rather than high, <b>serum magnesium and phosphate levels</b> are associated with pseudogout, so these are incorrect answers.<br /><br /><b>Diabetes insipidus</b> is not associated with pseudogout, but pituitary disorders such as acromegaly do have an association.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Pseudogout",
+        "body": "Pseudogout is a form of microcrystal synovitis caused by the <span class=\"concept\" data-cid=\"9405\">deposition of calcium pyrophosphate dihydrate crystals in the synovium</span>. For this reason, it is now more correctly termed acute calcium pyrophosphate crystal deposition disease.<br /><br />Pseudogout is strongly associated with increasing age. Patients who develop pseudogout at a younger age (e.g. < 60 years) usually have some underlying risk factor, such as:<br /><ul><li><span class=\"concept\" data-cid=\"2661\">haemochromatosis</span></li><li><span class=\"concept\" data-cid=\"9406\">hyperparathyroidism</span></li><li>low magnesium, low phosphate</li><li> <span class=\"concept\" data-cid=\"2514\">acromegaly</span>, Wilson's disease</li></ul><br />Features<br /><ul><li>knee, wrist and shoulders most commonly affected</li><li>joint aspiration: <span class=\"concept\" data-cid=\"859\">weakly-positively birefringent rhomboid-shaped crystals</span></li><li>x-ray: <span class=\"concept\" data-cid=\"2769\">chondrocalcinosis</span><ul><li>in the knee this can be seen as linear calcifications of the meniscus and articular cartilage</li></ul></li></ul><br />Management<br /><ul><li>aspiration of joint fluid, to exclude septic arthritis</li><li>NSAIDs or intra-articular, intra-muscular or oral steroids as for gout</li></ul>",
+        "notes_hash": "a4e3c3fa44b4e798b9c33c024a822ca6",
+        "knowledge_graph_node_id_link": 10973,
+        "concept": "Haemochromatosis is a risk factor for pseudogout <br />",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "4679",
+        "up_votes": "4",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "318",
+            "2004",
+            "107",
+            "1673",
+            "577",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/u2yAEdkTKNU\" data-description=\"Understanding Pseudogout\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1685\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/u2yAEdkTKNU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/u2yAEdkTKNU\" data-description=\"Understanding Pseudogout\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1685\">Understanding Pseudogout</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2857\" data-mediaid=\"2857\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2857\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2857\" data-mediaid=\"2857\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2857\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "859": {
+                "concept_text": "Pseudogout - weakly positively birefringent rhomboid-shaped crystals",
+                "concept_percentile": "40"
+            },
+            "2661": {
+                "concept_text": "Haemochromatosis is a risk factor for pseudogout \r\n",
+                "concept_percentile": "80"
+            },
+            "2769": {
+                "concept_text": "Chondrocalcinosis helps to distinguish pseudogout from gout",
+                "concept_percentile": "58"
+            },
+            "9405": {
+                "concept_text": "Pseudogout - deposition of calcium pyrophosphate dihydrate crystals",
+                "concept_percentile": "39"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_798",
+        "new_question_id": "58562",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "566",
+        "notes_id_link": "1_2279",
+        "theme": "Investigation for superficial thrombophlebitis of long saphenous vein",
+        "instruction": "",
+        "options": [
+            "",
+            "D-dimer blood test",
+            "Duplex ultrasound scan of both legs",
+            "Blood cultures",
+            "CT pulmonary angiogram",
+            "Thrombophilia screen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 53-year-old woman presents to her GP with a 3-day history of pain and redness along the medial aspect of her left thigh. She has no fever, shortness of breath or calf swelling. She takes the combined oral contraceptive pill and has a BMI of 32 kg/m\u00b2. On examination, she is apyrexial with normal vital signs. There is a tender, firm, erythematous cord-like structure palpable along the medial thigh, extending approximately 7cm in length and ending about 10cm below the groin crease. The calf is non-tender with no swelling.<br /><br />What is the most appropriate next investigation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Duplex ultrasound scan of both legs</b> is the correct management for this patient who has clinical features consistent with superficial thrombophlebitis of the long saphenous vein. According to SIGN guidelines, patients with clinical signs of superficial thrombophlebitis affecting the proximal long saphenous vein should have an ultrasound scan to exclude concurrent deep vein thrombosis (DVT). This is because approximately 20% of patients with superficial thrombophlebitis will have an underlying DVT at presentation. The patient's presentation with a tender, firm, erythematous cord-like structure along the medial thigh is classic for superficial thrombophlebitis. The length of affected vein (7cm) is significant, as inflammation extending over 5cm is associated with a higher risk of concurrent or subsequent DVT. Additionally, her risk factors for thrombosis include obesity and combined oral contraceptive use. Ultrasound will confirm the diagnosis of superficial thrombophlebitis and, crucially, rule out extension into the deep venous system, which would require different management.<br /><br /><b>D-dimer blood test</b> is not the appropriate first-line investigation in this scenario. While D-dimer testing can be useful in ruling out DVT in low-probability patients, this patient has clear clinical signs of superficial thrombophlebitis, which warrants direct imaging. D-dimer levels would likely be elevated due to the thrombophlebitis itself, regardless of whether there is concurrent DVT, making the test less useful for clinical decision-making in this context. Additionally, a negative D-dimer would not obviate the need for ultrasound imaging given the high clinical suspicion for superficial thrombophlebitis.<br /><br /><b>Blood cultures</b> would be appropriate if there were signs of septic thrombophlebitis or systemic infection. However, this patient is apyrexial with normal vital signs and no systemic symptoms, making infectious complications unlikely. Superficial thrombophlebitis is typically a non-infectious inflammatory condition associated with thrombosis, and blood cultures would not contribute to diagnosis or management in this case.<br /><br /><b>CT pulmonary angiogram</b> is used to diagnose pulmonary embolism (PE). While patients with superficial thrombophlebitis have a slightly increased risk of PE, this patient has no symptoms suggestive of PE such as shortness of breath, chest pain, or haemoptysis. Without clinical features of PE, a CTPA is not indicated as the initial investigation. The priority is to assess for concurrent DVT with ultrasound.<br /><br /><b>Thrombophilia screen</b> is not indicated as an initial investigation for a first presentation of superficial thrombophlebitis. Thrombophilia testing may be considered in selected patients with recurrent or unusual thrombotic events, particularly at a young age or with a strong family history. This patient has identifiable risk factors (obesity, combined oral contraceptive pill) that adequately explain her thrombotic tendency, and management decisions would not be altered by thrombophilia results at this stage.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 53-year-old woman presents to her GP with a 3-day history of pain and redness along the medial aspect of her left thigh. She has no fever, shortness of breath or calf swelling. She takes the combined oral contraceptive pill and has a BMI of 32 kg/m\u00b2. On examination, she is apyrexial with normal vital signs. There is a tender, firm, erythematous cord-like structure palpable along the medial thigh, extending approximately 7cm in length and ending about 10cm below the groin crease. The calf is non-tender with no swelling.<br /><br />What is the most appropriate next investigation?",
+        "correct_answer": "2",
+        "question_notes": "<b>Duplex ultrasound scan of both legs</b> is the correct management for this patient who has clinical features consistent with superficial thrombophlebitis of the long saphenous vein. According to SIGN guidelines, patients with clinical signs of superficial thrombophlebitis affecting the proximal long saphenous vein should have an ultrasound scan to exclude concurrent deep vein thrombosis (DVT). This is because approximately 20% of patients with superficial thrombophlebitis will have an underlying DVT at presentation. The patient's presentation with a tender, firm, erythematous cord-like structure along the medial thigh is classic for superficial thrombophlebitis. The length of affected vein (7cm) is significant, as inflammation extending over 5cm is associated with a higher risk of concurrent or subsequent DVT. Additionally, her risk factors for thrombosis include obesity and combined oral contraceptive use. Ultrasound will confirm the diagnosis of superficial thrombophlebitis and, crucially, rule out extension into the deep venous system, which would require different management.<br /><br /><b>D-dimer blood test</b> is not the appropriate first-line investigation in this scenario. While D-dimer testing can be useful in ruling out DVT in low-probability patients, this patient has clear clinical signs of superficial thrombophlebitis, which warrants direct imaging. D-dimer levels would likely be elevated due to the thrombophlebitis itself, regardless of whether there is concurrent DVT, making the test less useful for clinical decision-making in this context. Additionally, a negative D-dimer would not obviate the need for ultrasound imaging given the high clinical suspicion for superficial thrombophlebitis.<br /><br /><b>Blood cultures</b> would be appropriate if there were signs of septic thrombophlebitis or systemic infection. However, this patient is apyrexial with normal vital signs and no systemic symptoms, making infectious complications unlikely. Superficial thrombophlebitis is typically a non-infectious inflammatory condition associated with thrombosis, and blood cultures would not contribute to diagnosis or management in this case.<br /><br /><b>CT pulmonary angiogram</b> is used to diagnose pulmonary embolism (PE). While patients with superficial thrombophlebitis have a slightly increased risk of PE, this patient has no symptoms suggestive of PE such as shortness of breath, chest pain, or haemoptysis. Without clinical features of PE, a CTPA is not indicated as the initial investigation. The priority is to assess for concurrent DVT with ultrasound.<br /><br /><b>Thrombophilia screen</b> is not indicated as an initial investigation for a first presentation of superficial thrombophlebitis. Thrombophilia testing may be considered in selected patients with recurrent or unusual thrombotic events, particularly at a young age or with a strong family history. This patient has identifiable risk factors (obesity, combined oral contraceptive pill) that adequately explain her thrombotic tendency, and management decisions would not be altered by thrombophilia results at this stage.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Superficial thrombophlebitis",
+        "body": "Superficial thrombophlebitis, as the name suggests describes the inflammation associated with thrombosis of one of the superficial veins, usually the long saphenous vein of the leg. This process is usually non-infective in nature but secondary bacterial infection may rarely occur resulting in septic thrombophlebitis. <br /><br />Around 20% with superficial thrombophlebitis will have an underlying deep vein thrombosis (DVT) at presentation and 3-4% of patients will progress to a DVT if untreated. The risk of DVT is partly linked to the length of vein affected - an inflammed vein > 5 cm is more likely to have an associated DVT.<br /><br /><h5 class='notes-heading'>Management</h5><br />There are currently a variety of treatment approaches to superficial thrombophlebitis. Traditionally NSAIDs have been used, with topical NSAIDs for limited and mild disease and oral NSAIDs for more severe disease.<br /><br />Topical heparinoids have also be used in the management of superficial thrombophlebitis.<br /><br />A Cochrane review however found topical NSAIDs and heparinoids have no significant benefit in terms of reducing extension or progression to DVT. Oral NSAIDs were however shown to reduce the risk of extension by 67%.<br /><br /><span class=\"concept\" data-cid=\"11212\">Compression stockings</span> are also used. Remember that the ankle-brachial pressure index (ABPI) should be measured before prescribing compression stockings, particularly if using class 2 or above stockings. <br /><br />One of the major changes to the management of superficial thrombophlebitis is the increased use of low-molecular weight heparin. This has been shown to reduce extension and transformation to DVT. SIGN produced guidelines in 2010:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br />Patients with clinical signs of superficial thrombophlebitis affecting the proximal long saphenous vein should have an <span class=\"concept\" data-cid=\"566\">ultrasound scan to exclude concurrent DVT</span>.<br /><ul><li>Patients with superficial thrombophlebitis should have anti-embolism stockings and can be considered for treatment with prophylactic doses of LMWH for up to 30 days or fondaparinux for 45 days.</li><li>If LMWH is contraindicated, 8-12 days of oral NSAIDS should be offered.</li></ul><br />Patients with superficial thrombophlebitis at, or extending towards, the sapheno-femoral junction can be considered for therapeutic anticoagulation for 6-12 weeks.<br /></i></i></div><br />This may be a significant departure from our current practice - the majority of patients with superficial thrombophlebitis (i.e. those affecting the long saphenous vein) should be referred for an ultrasound scan.",
+        "notes_hash": "15d1de3fa9d6d171b34c6242de292fe0",
+        "knowledge_graph_node_id_link": 11073,
+        "concept": "Patients with long saphenous vein superficial thrombophlebitis should have an ultrasound scan to exclude an underlying DVT",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "5746",
+        "up_votes": "3",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "1231",
+            "4030",
+            "102",
+            "152",
+            "230",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Thrombophlebitis.webm\" data-description=\"Thrombophlebitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"351\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/e/e2/Thrombophlebitis.webm\" data-description=\"Thrombophlebitis\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"351\">Thrombophlebitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_593\" data-mediaid=\"593\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_593\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_593\" data-mediaid=\"593\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_593\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "566": {
+                "concept_text": "Patients with long saphenous vein superficial thrombophlebitis should have an ultrasound scan to exclude an underlying DVT",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1088_B_2934",
+        "new_question_id": "11372",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "9_192",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Medial meniscus tear",
+            "Lateral meniscus tear",
+            "Anterior cruciate ligament (ACL) tear",
+            "Posterior cruciate ligament (PCL) tear",
+            "Medial collateral ligament (MCL) tear",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 22-year-old male presents to the emergency room with pain in the left knee following a twisting injury during a rugby match. He states that it has gradually swollen over the past 24 hours, and he is unable to fully extend it. On examination you note tenderness over the medial joint line, a joint effusion, and the joint is held in a flexed position.  There is no laxity on valgus stress test.  <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "Gradual swelling of the knee is suggestive of effusion which often occurs due to meniscal injury.  Tenderness over the medial joint line suggests a medial meniscus tear.<br /><br />An ACL or PCL tear would more commonly present with rapid joint swelling due to bleeding within the joint capsule (haemarthrosis).<br /><br />Isolated MCL injuries rarely cause a large effusion.  In addition, the lack of laxity on the valgus stress test makes an MCL injury less likely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 22-year-old male presents to the emergency room with pain in the left knee following a twisting injury during a rugby match. He states that it has gradually swollen over the past 24 hours, and he is unable to fully extend it. On examination you note tenderness over the medial joint line, a joint effusion, and the joint is held in a flexed position.  There is no laxity on valgus stress test.  <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "Gradual swelling of the knee is suggestive of effusion which often occurs due to meniscal injury.  Tenderness over the medial joint line suggests a medial meniscus tear.<br /><br />An ACL or PCL tear would more commonly present with rapid joint swelling due to bleeding within the joint capsule (haemarthrosis).<br /><br />Isolated MCL injuries rarely cause a large effusion.  In addition, the lack of laxity on the valgus stress test makes an MCL injury less likely.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Knee injury",
+        "body": "<h5 class='notes-heading'>Types of injury</h5><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td><b>Ruptured anterior cruciate ligament</b></td><td><ul><li>Sport injury</li><li>Mechanism: high twisting force applied to a bent knee</li><li>Typically presents with: loud crack, pain and RAPID joint swelling (haemoarthrosis)</li><li>Poor healing</li><li>Management: intense physiotherapy or surgery</td></tr><tr><td></li></ul><b>Ruptured posterior cruciate ligament</b></td><td><ul><li>Mechanism: hyperextension injuries</li><li>Tibia lies back on the femur</li><li>Paradoxical anterior draw test</td></tr><tr><td></li></ul><b>Rupture of medial collateral ligament</b></td><td><ul><li>Mechanism: leg forced into valgus via force outside the leg</li><li>Knee unstable when put into valgus position</td></tr><tr><td></li></ul><b>Menisceal tear</b></td><td><ul><li>Rotational sporting injuries</li><li>Delayed knee swelling</li><li>Joint locking (Patient may develop skills to 'unlock' the knee</li><li>Recurrent episodes of pain and effusions are common, often following minor trauma</td></tr><tr><td></li></ul><b>Chondromalacia patellae</b></td><td><ul><li>Teenage girls, following an injury to knee e.g. Dislocation patella</li><li>Typical history of pain on going downstairs or at rest</li><li>Tenderness, quadriceps wasting</td></tr><tr><td></li></ul><b>Dislocation of the patella</b></td><td><ul><li>Most commonly occurs as a traumatic primary event, either through direct trauma or through severe contraction of quadriceps with knee stretched in valgus and external rotation</li><li>Genu valgum, tibial torsion and high riding patella are risk factors</li><li>Skyline x-ray views of patella are required, although displaced patella may be clinically obvious</li><li>An osteochondral fracture is present in 5%</li><li>The condition has a 20% recurrence rate</td></tr><tr><td></li></ul><b>Fractured patella</b></td><td><ul><li>2 types: </li></ul>i. Direct blow to patella causing undisplaced fragments <br />ii. Avulsion fracture</td></tr><tr><td><b>Tibial plateau fracture</b></td><td><ul><li>Occur in the elderly (or following significant trauma in young)</li><li>Mechanism: knee forced into valgus or varus, but the knee fractures before the ligaments rupture</li><li>Varus injury affects medial plateau and if valgus injury, lateral plateau depressed fracture occurs</li><li>Classified using the Schatzker system (see below)</td></tr></tbody></table></div></li></ul><br /><h5 class='notes-heading'>Schatzker Classification system for tibial plateau fractures</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Type</b></th><th><b>Anatomical description</b></th><th><b>Features</b></th></tr></thead><tbody><tr><td>1</td><td>Vertical split of lateral condyle</td><td>Fracture through dense bone, usually in the young. It may be virtually undisplaced, or the condylar fragment may be pushed inferiorly and tilted</td></tr><tr><td>2</td><td>Vertical split of the lateral condyle combined with an adjacent load bearing part of the condyle</td><td>The wedge fragment (which may be of variable size), is displaced laterally; the joint is widened. Untreated, a valgus deformity may develop</td></tr><tr><td>3</td><td>Depression of the articular surface with intact condylar rim</td><td>The split does not extend to the edge of the plateau. Depressed fragments may be firmly embedded in subchondral bone, the joint is stable</td></tr><tr><td>4</td><td>Fragment of the medial tibial condyle</td><td>Two injuries are seen in this category; (1) a depressed fracture of osteoporotic bone in the elderly. (2) a high energy fracture resulting in a condylar split that runs from the intercondylar eminence to the medial cortex. Associated ligamentous injury may be severe</td></tr><tr><td>5</td><td>Fracture of both condyles</td><td>Both condyles fractured but the column of the metaphysis remains in continuity with the tibial shaft</td></tr><tr><td>6</td><td>Combined condylar and subcondylar fractures</td><td>High energy fracture with marked comminution</td></tr></tbody></table></div>",
+        "notes_hash": "3b4a39478c4150a9f741a75859401337",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5128",
+        "up_votes": "27",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "3107",
+            "182",
+            "955",
+            "127",
+            "757",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wDIGll5wzZs\" data-description=\"Posterior Drawer Test\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"495\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wDIGll5wzZs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wDIGll5wzZs\" data-description=\"Posterior Drawer Test\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"495\">Posterior Drawer Test</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_862\" data-mediaid=\"862\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_862\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_862\" data-mediaid=\"862\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_862\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JFkbKNNa7xQ\" data-description=\"Lachman Test\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"493\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/JFkbKNNa7xQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/JFkbKNNa7xQ\" data-description=\"Lachman Test\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"493\">Lachman Test</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_860\" data-mediaid=\"860\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_860\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_860\" data-mediaid=\"860\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_860\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lwDFPAyGGgI\" data-description=\"McMurray Test\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"496\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/lwDFPAyGGgI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/lwDFPAyGGgI\" data-description=\"McMurray Test\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"496\">McMurray Test</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_863\" data-mediaid=\"863\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_863\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_863\" data-mediaid=\"863\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_863\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wlLfNls75RY\" data-description=\"Knee Examination\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"135\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wlLfNls75RY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wlLfNls75RY\" data-description=\"Knee Examination\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"135\">Knee Examination</a></td></tr><tr><td><span ><small>Oxford Medical Education - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_237\" data-mediaid=\"237\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_237\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_237\" data-mediaid=\"237\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_237\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IdnBKv38EEQ\" data-description=\"Anterior Drawer Test\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"494\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/IdnBKv38EEQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/IdnBKv38EEQ\" data-description=\"Anterior Drawer Test\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"494\">Anterior Drawer Test</a></td></tr><tr><td><span ><small>Physiotutors - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_861\" data-mediaid=\"861\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_861\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_861\" data-mediaid=\"861\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_861\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9833",
+        "new_question_id": "11574",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "9_617",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Extra dural haemorrhage",
+            "Sub dural haemorrhage",
+            "Sub arachnoid haemorrhage",
+            "Intraventricular haemorrhage",
+            "Arteriovenous malformation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A male infant is born prematurely at 34 weeks gestation by emergency cesarean section. He initially appears to be stable. However, over the ensuing 24 hours he develops worsening neurological function. Which of the following processes is most likely to have occurred?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Intraventricular haemorrhage</b>. Intraventricular haemorrhage (IVH) is the most likely cause of worsening neurological function in a premature infant born at 34 weeks gestation. IVH occurs when there is bleeding into the ventricular system of the brain, which is more common in premature infants due to the fragility of their blood vessels. The immature germinal matrix in preterm infants has an increased risk of rupture and bleeding, leading to IVH. This can result in various neurological complications such as hydrocephalus, cerebral palsy, and developmental delays.<br /><br />The first incorrect option is <b>Extra dural haemorrhage</b>. Extradural haemorrhage, also known as epidural haemorrhage, refers to bleeding between the dura mater and skull. This type of bleeding typically results from a traumatic injury or skull fracture and would not be expected in a newborn without any history of trauma.<br /><br />The second incorrect option is <b>Sub dural haemorrhage</b>. Subdural haemorrhage involves bleeding between the dura mater and arachnoid mater layers of the meninges. While subdural haematoma can occur in neonates due to birth trauma or hypoxic-ischemic events, it is less likely than IVH in this scenario given that the infant initially appeared stable.<br /><br />The third incorrect option is <b>Sub arachnoid haemorrhage</b>. Subarachnoid haemorrhage refers to bleeding into the subarachnoid space surrounding the brain. This condition usually results from aneurysm rupture or head injury and would be unlikely in a newborn without any history of trauma or predisposing factors.<br /><br />Finally, the last incorrect option is <b>Arteriovenous malformation</b>. Arteriovenous malformations (AVMs) are abnormal connections between arteries and veins, typically congenital in nature. While AVMs can cause neurological symptoms due to haemorrhage or mass effect, they would be an uncommon cause of neurological decline in a premature infant without any other signs or symptoms suggestive of an AVM.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A male infant is born prematurely at 34 weeks gestation by emergency cesarean section. He initially appears to be stable. However, over the ensuing 24 hours he develops worsening neurological function. Which of the following processes is most likely to have occurred?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Intraventricular haemorrhage</b>. Intraventricular haemorrhage (IVH) is the most likely cause of worsening neurological function in a premature infant born at 34 weeks gestation. IVH occurs when there is bleeding into the ventricular system of the brain, which is more common in premature infants due to the fragility of their blood vessels. The immature germinal matrix in preterm infants has an increased risk of rupture and bleeding, leading to IVH. This can result in various neurological complications such as hydrocephalus, cerebral palsy, and developmental delays.<br /><br />The first incorrect option is <b>Extra dural haemorrhage</b>. Extradural haemorrhage, also known as epidural haemorrhage, refers to bleeding between the dura mater and skull. This type of bleeding typically results from a traumatic injury or skull fracture and would not be expected in a newborn without any history of trauma.<br /><br />The second incorrect option is <b>Sub dural haemorrhage</b>. Subdural haemorrhage involves bleeding between the dura mater and arachnoid mater layers of the meninges. While subdural haematoma can occur in neonates due to birth trauma or hypoxic-ischemic events, it is less likely than IVH in this scenario given that the infant initially appeared stable.<br /><br />The third incorrect option is <b>Sub arachnoid haemorrhage</b>. Subarachnoid haemorrhage refers to bleeding into the subarachnoid space surrounding the brain. This condition usually results from aneurysm rupture or head injury and would be unlikely in a newborn without any history of trauma or predisposing factors.<br /><br />Finally, the last incorrect option is <b>Arteriovenous malformation</b>. Arteriovenous malformations (AVMs) are abnormal connections between arteries and veins, typically congenital in nature. While AVMs can cause neurological symptoms due to haemorrhage or mass effect, they would be an uncommon cause of neurological decline in a premature infant without any other signs or symptoms suggestive of an AVM.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Intraventricular haemorrhage",
+        "body": "Intraventricular haemorrhage is a haemorrhage that occurs into the ventricular system of the brain. It is relatively rare in adult surgical practice and when it does occur, it is typically associated with severe head injuries. In premature neonates it may occur spontaneously. The blood may clot and occlude CSF flow, hydrocephalus may result. <br /><br />In neonatal practice the vast majority of IVH occur in the first 72 hours after birth, the aetiology is not well understood and it is suggested to occur as a result of birth trauma combined with cellular hypoxia, together the with the delicate neonatal CNS. <br /><br /><h5 class='notes-heading'>Treatment</h5><br />Is largely supportive, therapies such as intraventricular thrombolysis and prophylactic CSF drainage have been trialled and not demonstrated to show benefit. Hydrocephalus and rising ICP is an indication for shunting.",
+        "notes_hash": "11b4491f4528ccdfb899208dbb2bd69e",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5303",
+        "up_votes": "7",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "694",
+            "1039",
+            "262",
+            "2570",
+            "738",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1084",
+        "new_question_id": "3962",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "3305",
+        "notes_id_link": "1_1683",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Arrange a CT head to exclude an organic cause",
+            "Cognitive behavioural therapy or eye movement desensitisation and reprocessing therapy",
+            "Cognitive behavioural therapy or graded exposure therapy",
+            "Cognitive behavioural therapy or psychodynamic therapy",
+            "Watchful waiting",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old fireman presents following a recent traumatic incident where a child died in a house fire. He describes recurrent nightmares and flashbacks which have been present for the past 3 months. A diagnosis of post-traumatic stress disorder is suspected. What is the most appropriate first-line treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The most appropriate first-line treatment for this patient with suspected post-traumatic stress disorder (PTSD) is <b>cognitive behavioural therapy or eye movement desensitisation and reprocessing therapy</b>. According to the UK guidelines, both cognitive behavioural therapy (CBT) and eye movement desensitisation and reprocessing (EMDR) are recommended as first-line treatments for PTSD. These therapies have been shown to be effective in reducing symptoms of PTSD, such as intrusive thoughts, flashbacks, and nightmares.<br /><br />Arranging a <b>CT head to exclude an organic cause</b> would not be the most appropriate first step in this case. While it is important to consider potential organic causes for psychiatric symptoms, the patient's history of a recent traumatic event with subsequent nightmares and flashbacks strongly suggests PTSD. A CT scan may be considered if there were other concerning neurological signs or symptoms, but it is not indicated solely based on this presentation.<br /><br /><b>Cognitive behavioural therapy or graded exposure therapy</b> is another option; however, graded exposure therapy has not been shown to be as effective as EMDR in treating PTSD. Graded exposure can be beneficial for anxiety disorders like phobias but may not address the specific symptoms of PTSD effectively.<br /><br />Similarly, <b>cognitive behavioural therapy or psychodynamic therapy</b> is not the best choice because psychodynamic therapy has limited evidence supporting its effectiveness in treating PTSD. Psychodynamic approaches focus on uncovering unconscious conflicts and past experiences that contribute to current difficulties but may not specifically target trauma-related symptoms like CBT or EMDR do.<br /><br />Lastly, <b>watchful waiting</b> would not be appropriate given that the patient has been experiencing symptoms for 3 months. Watchful waiting might be considered if the patient had only recently experienced the traumatic event and was showing mild symptoms. However, given the duration and severity of his symptoms, active intervention with evidence-based treatments like CBT or EMDR is warranted.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old fireman presents following a recent traumatic incident where a child died in a house fire. He describes recurrent nightmares and flashbacks which have been present for the past 3 months. A diagnosis of post-traumatic stress disorder is suspected. What is the most appropriate first-line treatment?",
+        "correct_answer": "2",
+        "question_notes": "The most appropriate first-line treatment for this patient with suspected post-traumatic stress disorder (PTSD) is <b>cognitive behavioural therapy or eye movement desensitisation and reprocessing therapy</b>. According to the UK guidelines, both cognitive behavioural therapy (CBT) and eye movement desensitisation and reprocessing (EMDR) are recommended as first-line treatments for PTSD. These therapies have been shown to be effective in reducing symptoms of PTSD, such as intrusive thoughts, flashbacks, and nightmares.<br /><br />Arranging a <b>CT head to exclude an organic cause</b> would not be the most appropriate first step in this case. While it is important to consider potential organic causes for psychiatric symptoms, the patient's history of a recent traumatic event with subsequent nightmares and flashbacks strongly suggests PTSD. A CT scan may be considered if there were other concerning neurological signs or symptoms, but it is not indicated solely based on this presentation.<br /><br /><b>Cognitive behavioural therapy or graded exposure therapy</b> is another option; however, graded exposure therapy has not been shown to be as effective as EMDR in treating PTSD. Graded exposure can be beneficial for anxiety disorders like phobias but may not address the specific symptoms of PTSD effectively.<br /><br />Similarly, <b>cognitive behavioural therapy or psychodynamic therapy</b> is not the best choice because psychodynamic therapy has limited evidence supporting its effectiveness in treating PTSD. Psychodynamic approaches focus on uncovering unconscious conflicts and past experiences that contribute to current difficulties but may not specifically target trauma-related symptoms like CBT or EMDR do.<br /><br />Lastly, <b>watchful waiting</b> would not be appropriate given that the patient has been experiencing symptoms for 3 months. Watchful waiting might be considered if the patient had only recently experienced the traumatic event and was showing mild symptoms. However, given the duration and severity of his symptoms, active intervention with evidence-based treatments like CBT or EMDR is warranted.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Post-traumatic stress disorder",
+        "body": "Post-traumatic stress disorder (PTSD) can develop in people of any age following a traumatic event, for example, a major disaster or childhood sexual abuse. It encompasses what became known as 'shell shock' following the first world war. One of the DSM-IV diagnostic criteria is that symptoms have been present for more than <span class=\"concept\" data-cid=\"8329\">one month</span>.<br /><br /><span class=\"concept\" data-cid=\"9919\">Features</span><br /><ul><li>re-experiencing: <span class=\"concept\" data-cid=\"6394\">flashbacks</span>, nightmares, repetitive and distressing intrusive images </li><li>avoidance: avoiding people, situations or circumstances resembling or associated with the event</li><li>hyperarousal: hypervigilance for threat, exaggerated startle response, sleep problems, irritability and difficulty concentrating</li><li>emotional numbing - lack of ability to experience feelings, feeling detached</li></ul>from other people<br /><ul><li>depression</li><li>drug or alcohol misuse</li><li>anger</li><li>unexplained physical symptoms</li></ul><br />Management<br /><ul><li>following a traumatic event single-session interventions (often referred to as debriefing) are not recommended</li><li><span class=\"concept\" data-cid=\"2389\">watchful waiting</span> may be used for mild symptoms lasting less than 4 weeks</li><li>military personnel have access to treatment provided by the armed forces</li><li><span class=\"concept\" data-cid=\"3305\">trauma-focused cognitive behavioural therapy</span> (CBT) or eye movement desensitisation and reprocessing (EMDR) therapy may be used in more severe cases</li><li><span class=\"concept\" data-cid=\"3753\">drug treatments</span> for PTSD should not be used as a routine first-line treatment for adults. If drug treatment is used then <span class=\"concept\" data-cid=\"4140\">venlafaxine or a selective serotonin reuptake inhibitor (SSRI)</span>, such as sertraline should be tried. In severe cases, NICE recommends that risperidone may be used</li></ul>",
+        "notes_hash": "49aff489c5e34720ab598997d5cd2944",
+        "knowledge_graph_node_id_link": 11263,
+        "concept": "PTSD management - trauma-focused cognitive behavioural therapy or EMDR",
+        "concept_percentile": "37",
+        "concept_colour": "rgb(255,188,0)",
+        "number_attempts": "5733",
+        "up_votes": "12",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "38",
+            "4512",
+            "552",
+            "448",
+            "183",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_914\" data-linkid=\"914\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_914\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_914\" data-linkid=\"914\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_914\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng116/chapter/Recommendations\">2018 PTSD guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hzSx4rMyVjI\" data-description=\"Post-traumatic Stress Disorder (PTSD)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"324\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hzSx4rMyVjI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hzSx4rMyVjI\" data-description=\"Post-traumatic Stress Disorder (PTSD)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"324\">Post-traumatic Stress Disorder (PTSD)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_550\" data-mediaid=\"550\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_550\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_550\" data-mediaid=\"550\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_550\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yKQTB3CG-yI\" data-description=\"Post-traumatic stress disorder\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1365\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yKQTB3CG-yI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yKQTB3CG-yI\" data-description=\"Post-traumatic stress disorder\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1365\">Post-traumatic stress disorder</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2397\" data-mediaid=\"2397\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2397\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2397\" data-mediaid=\"2397\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2397\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3305": {
+                "concept_text": "PTSD management - trauma-focused cognitive behavioural therapy or EMDR",
+                "concept_percentile": "37"
+            },
+            "4140": {
+                "concept_text": "If CBT or EMDR therapy are ineffective in PTSD, the first line drug treatments are venlafaxine or a SSRI",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1233",
+        "new_question_id": "2621",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1405",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Take missed pill as soon as possible and advise condom use until pill taking re-established for 48 hours",
+            "Take missed pill as soon as possible and omit pill break at end of pack",
+            "Perform a pregnancy test",
+            "Take missed pill as soon as possible and no further action needed",
+            "Emergency contraception should be offered",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 33-year-old female presents to her GP as she missed her Noriday pill (progestogen only) this morning and is unsure what to do. She normally takes the pill at around 0900 and it is now 1230. What advice should be given?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Take missed pill as soon as possible and advise condom use until pill taking re-established for 48 hours</b>. The Noriday pill, a progestogen-only pill (POP), has a narrow window of approximately 3 hours in which it can be taken late. If more than 3 hours have passed, the woman should take the missed pill as soon as possible and continue to take any further pills as normal. However, she should also use additional contraception, such as condoms, for the next 2 days (48 hours) because the efficacy of the POP may have been compromised.<br /><br />The option <b>Take missed pill as soon as possible and omit pill break at end of pack</b> is incorrect because there is no 'pill break' or '7-day free interval' with POPs like there is with combined oral contraceptives. Progestogen-only pills are taken continuously without a break.<br /><br /><b>Perform a pregnancy test</b> is not necessary at this stage. This advice would be relevant if two or more pills were missed consecutively and unprotected intercourse occurred during that time period, or if there was another reason to suspect pregnancy such as missing a period.<br /><br />The option <b>Take missed pill as soon as possible and no further action needed</b> is incorrect because although it's important to take the missed pill ASAP, additional contraceptive protection is recommended when the progestogen-only pill has been taken more than 3 hours late.<br /><br />Finally, offering <b>Emergency contraception should be offered</b> would only be appropriate if unprotected sexual intercourse had occurred after missing the pill and before normal pill-taking had been re-established for at least 48 hours. In this scenario, emergency contraception could provide additional protection against potential ovulation that might have occurred due to missing the Noriday dose.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 33-year-old female presents to her GP as she missed her Noriday pill (progestogen only) this morning and is unsure what to do. She normally takes the pill at around 0900 and it is now 1230. What advice should be given?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Take missed pill as soon as possible and advise condom use until pill taking re-established for 48 hours</b>. The Noriday pill, a progestogen-only pill (POP), has a narrow window of approximately 3 hours in which it can be taken late. If more than 3 hours have passed, the woman should take the missed pill as soon as possible and continue to take any further pills as normal. However, she should also use additional contraception, such as condoms, for the next 2 days (48 hours) because the efficacy of the POP may have been compromised.<br /><br />The option <b>Take missed pill as soon as possible and omit pill break at end of pack</b> is incorrect because there is no 'pill break' or '7-day free interval' with POPs like there is with combined oral contraceptives. Progestogen-only pills are taken continuously without a break.<br /><br /><b>Perform a pregnancy test</b> is not necessary at this stage. This advice would be relevant if two or more pills were missed consecutively and unprotected intercourse occurred during that time period, or if there was another reason to suspect pregnancy such as missing a period.<br /><br />The option <b>Take missed pill as soon as possible and no further action needed</b> is incorrect because although it's important to take the missed pill ASAP, additional contraceptive protection is recommended when the progestogen-only pill has been taken more than 3 hours late.<br /><br />Finally, offering <b>Emergency contraception should be offered</b> would only be appropriate if unprotected sexual intercourse had occurred after missing the pill and before normal pill-taking had been re-established for at least 48 hours. In this scenario, emergency contraception could provide additional protection against potential ovulation that might have occurred due to missing the Noriday dose.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Progestogen only pill: missed pill",
+        "body": "The missed pill rules for the progestogen only pill (POP) are simpler than those used for the combined oral contraceptive pill, but it is important not to confuse the two.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>'Traditional' POPs (Micronor, Noriday, Nogeston, Femulen)</b></th><th><b>Cerazette (desogestrel)</b></th></tr></thead><tbody><tr><td>If less than 3 hours late <br /><ul><li>no action required, continue as normal</li></ul><br />If more than 3 hours late (i.e. more than 27 hours since the last pill was taken)<br /><ul><li>action needed - see below</li></ul></td><td>If less than 12 hours late <br /><ul><li>no action required, continue as normal</li></ul><br />If more than 12 hours late (i.e. more than 36 hours since the last pill was taken)<br /><ul><li>action needed - see below</td></tr></tbody></table></div></li></ul><br />Action required, if needed:<br /><ul><li>take the missed pill as soon as possible. If more than one pill has been missed just take one pill. Take the next pill at the usual time, which may mean taking two pills in one day</li><li>continue with rest of pack</li><li>extra precautions (e.g. condoms) should be used until pill taking has been re-established for 48 hours</li></ul>",
+        "notes_hash": "a6a2874aa0dcb8bba5b1041ccc288ebd",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5641",
+        "up_votes": "37",
+        "down_votes": "68",
+        "column_array": [
+            0,
+            "2455",
+            "105",
+            "13",
+            "3012",
+            "56",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_113\" data-linkid=\"113\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_113\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_113\" data-linkid=\"113\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_113\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/cec-ceu-guidance-pop-mar-2015/\">2015 POP guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_4063",
+        "new_question_id": "11702",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2155",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Right 6th nerve palsy",
+            "Right 4th nerve palsy",
+            "Right 3rd nerve palsy",
+            "Left 6th nerve palsy",
+            "Left 3rd nerve palsy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are examining a patient who complains of double vision. Whilst looking forward the patient's left eye turns towards the nose. On looking to the patient's right there is no obvious squint. However, on looking to the left the patient is unable to abduct the left eye and double vision worsens. What is the most likely underlying problem?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>Left 6th nerve palsy</b>. The patient's symptoms of an inability to abduct the left eye and worsening double vision when looking to the left are consistent with a left 6th nerve palsy. The sixth cranial nerve, also known as the abducens nerve, innervates the lateral rectus muscle, which is responsible for abduction of the eye. When this nerve is affected, it results in medial deviation of the eye (esotropia) at rest and difficulty or inability to abduct the affected eye.<br /><br />Now let's discuss why the other options are incorrect:<br /><br /><b>Right 6th nerve palsy</b>: A right 6th nerve palsy would cause difficulty in abducting the right eye and medial deviation of that eye at rest. However, this does not match the patient's presentation where they have a problem with their left eye turning towards the nose.<br /><br /><b>Right 4th nerve palsy</b>: A fourth cranial nerve (trochlear) palsy would affect the superior oblique muscle, leading to problems with downward gaze and torsional diplopia. This does not correspond with the patient's reported symptoms of an inability to abduct their left eye.<br /><br /><b>Right 3rd nerve palsy</b>: A third cranial nerve (oculomotor) palsy would result in ptosis (drooping of the upper eyelid), mydriasis (dilated pupil), and multiple extraocular muscle weaknesses on the affected side. In this case, it would affect the right eye, not correlating with our patient's presentation involving their left eye.<br /><br /><b>Left 3rd nerve palsy</b>: Similar to a right 3rd nerve palsy, a left oculomotor nerve lesion would lead to ptosis, mydriasis, and extraocular muscle weaknesses on the left side. However, the patient's primary complaint is an inability to abduct their left eye, which is not consistent with a 3rd nerve palsy as this primarily affects adduction, elevation and depression of the eye.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are examining a patient who complains of double vision. Whilst looking forward the patient's left eye turns towards the nose. On looking to the patient's right there is no obvious squint. However, on looking to the left the patient is unable to abduct the left eye and double vision worsens. What is the most likely underlying problem?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is <b>Left 6th nerve palsy</b>. The patient's symptoms of an inability to abduct the left eye and worsening double vision when looking to the left are consistent with a left 6th nerve palsy. The sixth cranial nerve, also known as the abducens nerve, innervates the lateral rectus muscle, which is responsible for abduction of the eye. When this nerve is affected, it results in medial deviation of the eye (esotropia) at rest and difficulty or inability to abduct the affected eye.<br /><br />Now let's discuss why the other options are incorrect:<br /><br /><b>Right 6th nerve palsy</b>: A right 6th nerve palsy would cause difficulty in abducting the right eye and medial deviation of that eye at rest. However, this does not match the patient's presentation where they have a problem with their left eye turning towards the nose.<br /><br /><b>Right 4th nerve palsy</b>: A fourth cranial nerve (trochlear) palsy would affect the superior oblique muscle, leading to problems with downward gaze and torsional diplopia. This does not correspond with the patient's reported symptoms of an inability to abduct their left eye.<br /><br /><b>Right 3rd nerve palsy</b>: A third cranial nerve (oculomotor) palsy would result in ptosis (drooping of the upper eyelid), mydriasis (dilated pupil), and multiple extraocular muscle weaknesses on the affected side. In this case, it would affect the right eye, not correlating with our patient's presentation involving their left eye.<br /><br /><b>Left 3rd nerve palsy</b>: Similar to a right 3rd nerve palsy, a left oculomotor nerve lesion would lead to ptosis, mydriasis, and extraocular muscle weaknesses on the left side. However, the patient's primary complaint is an inability to abduct their left eye, which is not consistent with a 3rd nerve palsy as this primarily affects adduction, elevation and depression of the eye.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Cranial nerves",
+        "body": "The table below lists the major characteristics of the 12 cranial nerves:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Nerve</b></th><th><b>Functions</b></th><th><b>Clinical</b></th><th><b>Pathway/foramen</b></th></tr></thead><tbody><tr><td>I (Olfactory)</td><td>Smell</td><td></td><td>Cribriform plate</td></tr><tr><td>II (Optic)</td><td>Sight</td><td></td><td>Optic canal</td></tr><tr><td>III (Oculomotor)</td><td>Eye movement (MR, IO, SR, IR)<br />Pupil constriction<br />Accomodation<br />Eyelid opening</td><td>Palsy results in<br /><ul><li>ptosis</li><li>'down and out' eye</li><li>dilated, fixed pupil</td><td>Superior orbital fissure (SOF)</td></tr><tr><td></li></ul>IV (Trochlear)</td><td>Eye movement (SO)</td><td>Palsy results in defective downward gaze &rarr; vertical diplopia</td><td>SOF</td></tr><tr><td>V (Trigeminal)</td><td>Facial sensation<br />Mastication</td><td>Lesions may cause:<br /><ul><li>trigeminal neuralgia</li><li>loss of corneal reflex (afferent)</li><li>loss of facial sensation</li><li>paralysis of mastication muscles</li><li>deviation of jaw to weak side</td><td>V<sub>1</sub>: SOF,  </li></ul>V<sub>2</sub>: Foramen rotundum, <br />V<sub>3</sub>: Foramen ovale</td></tr><tr><td>VI (Abducens)</td><td>Eye movement (LR)</td><td>Palsy results in defective abduction &rarr; horizontal diplopia</td><td>SOF</td></tr><tr><td>VII (Facial)</td><td>Facial movement<br />Taste (anterior 2/3rds of tongue)<br />Lacrimation<br />Salivation</td><td>Lesions may result in:<br /><ul><li>flaccid paralysis of upper + lower face</li><li>loss of corneal reflex (efferent)</li><li>loss of taste</li><li>hyperacusis</td><td>Internal auditory meatus</td></tr><tr><td></li></ul>VIII (Vestibulocochlear)</td><td>Hearing, balance</td><td>Hearing loss<br />Vertigo, nystagmus<br />Acoustic neuromas are Schwann cell tumours of the cochlear nerve</td><td>Internal auditory meatus</td></tr><tr><td>IX (Glossopharyngeal)</td><td>Taste (posterior 1/3rd of tongue)<br />Salivation<br />Swallowing <br />Mediates input from carotid body & sinus</td><td>Lesions may result in;<br /><ul><li>hypersensitive carotid sinus reflex</li><li>loss of gag reflex (afferent)</td><td>Jugular foramen</td></tr><tr><td></li></ul>X (Vagus)</td><td>Phonation<br />Swallowing<br />Innervates viscera</td><td>Lesions may result in;<br /><ul><li>uvula deviates away from site of lesion</li><li>loss of gag reflex (efferent)</td><td>Jugular foramen</td></tr><tr><td></li></ul>XI (Accessory)</td><td>Head and shoulder movement</td><td>Lesions may result in;<br /><ul><li>weakness turning head to contralateral side</td><td>Jugular foramen</td></tr><tr><td></li></ul>XII (Hypoglossal)</td><td>Tongue movement</td><td>Tongue deviates towards side of lesion</td><td>Hypoglossal canal</td></tr></tbody></table></div><br />Some cranial nerves are motor, some sensory and some are both. The most useful mnemonic is given below.<br /><br /><div class='alert alert-warning'>CN I ----------------------------------------------------------------------&rarr;XII<br /><br /><b>S</b>ome <b>S</b>ay <b>M</b>arry <b>M</b>oney <b>B</b>ut <b>M</b>y <b>B</b>rother <b>S</b>ays <b>B</b>ig <b>B</b>rains <b>M</b>atter <b>M</b>ost<br /><br /><b>S</b> = Sensory, <b>M</b> = Motor, <b>B</b> = Both<br /></div><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb018b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb018.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='https://en.wikipedia.org/wiki/Main_Page'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb018b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>View from the inferior surface of the brain showing the emergence of the cranial nerves<br /></div><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb019b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb019.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>Image sourced from </span><a href='https://en.wikipedia.org/wiki/Main_Page'  target='_blank' style = 'font-size:11px; color:LightGray;' >Wikipedia</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/swb019b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the nuclei of the cranial nerves in the brainstem<br /></div><br /><br /><h5 class='notes-heading'>Cranial nerve reflexes</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th><b>Reflex</b></th><th><b>Afferent limb</b></th><th><b>Efferent limb</b></th></tr></thead><tbody><tr><td>Corneal</td><td>Ophthalmic nerve (V<sub>1</sub>)</td><td>Facial nerve (VII)</td></tr><tr><td>Jaw jerk</td><td>Mandibular nerve (V<sub>3</sub>)</td><td>Mandibular nerve (V<sub>3</sub>)</td></tr><tr><td>Gag</td><td>Glossopharyngeal nerve (IX)</td><td>Vagal nerve (X)</td></tr><tr><td>Carotid sinus</td><td>Glossopharyngeal nerve (IX)</td><td>Vagal nerve (X)</td></tr><tr><td>Pupillary light</td><td>Optic nerve (II)</td><td>Oculomotor nerve (III)</td></tr><tr><td>Lacrimation</td><td>Ophthalmic nerve (V<sub>1</sub>)</td><td>Facial nerve (VII)</td></tr></tbody></table></div>",
+        "notes_hash": "d9943d3af49e44def8021b1bb2b22074",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6149",
+        "up_votes": "32",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "677",
+            "302",
+            "365",
+            "4273",
+            "532",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Pl2ozPSWfHs\" data-description=\"Sixth Cranial Nerve Palsy\" data-upvotes=\"16\" data-downvotes=\"0\" data-media=\"225\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Pl2ozPSWfHs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Pl2ozPSWfHs\" data-description=\"Sixth Cranial Nerve Palsy\" data-upvotes=\"16\" data-downvotes=\"0\" data-media=\"225\">Sixth Cranial Nerve Palsy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_371\" data-mediaid=\"371\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_371\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_371\" data-mediaid=\"371\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_371\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AEL0xeJ_NSw\" data-description=\"Third Cranial Nerve Palsy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"222\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/AEL0xeJ_NSw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AEL0xeJ_NSw\" data-description=\"Third Cranial Nerve Palsy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"222\">Third Cranial Nerve Palsy</a></td></tr><tr><td><span ><small>U-M Kellogg Eye Center - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_370\" data-mediaid=\"370\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_370\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_370\" data-mediaid=\"370\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_370\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OZvIk76cSAI\" data-description=\"2-Minute Neuroscience: Vestibulocochlear Nerve (Cranial Nerve VIII)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"950\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OZvIk76cSAI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OZvIk76cSAI\" data-description=\"2-Minute Neuroscience: Vestibulocochlear Nerve (Cranial Nerve VIII)\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"950\">2-Minute Neuroscience: Vestibulocochlear Nerve (Cranial Nerve VIII)</a></td></tr><tr><td><span ><small>Neuroscientifically Challenged - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1646\" data-mediaid=\"1646\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1646\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1646\" data-mediaid=\"1646\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1646\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wkzyVO4-gmE\" data-description=\"2-Minute Neuroscience: Abducens Nerve (Cranial Nerve VI)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"948\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wkzyVO4-gmE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wkzyVO4-gmE\" data-description=\"2-Minute Neuroscience: Abducens Nerve (Cranial Nerve VI)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"948\">2-Minute Neuroscience: Abducens Nerve (Cranial Nerve VI)</a></td></tr><tr><td><span ><small>Neuroscientifically Challenged - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1644\" data-mediaid=\"1644\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1644\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1644\" data-mediaid=\"1644\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1644\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kmx8ZYqhGIo\" data-description=\"2-Minute Neuroscience: Glossopharyngeal Nerve (Cranial Nerve IX)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"947\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Kmx8ZYqhGIo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Kmx8ZYqhGIo\" data-description=\"2-Minute Neuroscience: Glossopharyngeal Nerve (Cranial Nerve IX)\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"947\">2-Minute Neuroscience: Glossopharyngeal Nerve (Cranial Nerve IX)</a></td></tr><tr><td><span ><small>Neuroscientifically Challenged - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1643\" data-mediaid=\"1643\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1643\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1643\" data-mediaid=\"1643\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1643\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hDbWV0EZCAU\" data-description=\"Cranial Nerves Anatomy\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"281\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hDbWV0EZCAU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hDbWV0EZCAU\" data-description=\"Cranial Nerves Anatomy\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"281\">Cranial Nerves Anatomy</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_482\" data-mediaid=\"482\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_482\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_482\" data-mediaid=\"482\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_482\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/i8OHZ8t6vg0\" data-description=\"Cranial nerve anatomy\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"105\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/i8OHZ8t6vg0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/i8OHZ8t6vg0\" data-description=\"Cranial nerve anatomy\" data-upvotes=\"3\" data-downvotes=\"2\" data-media=\"105\">Cranial nerve anatomy</a></td></tr><tr><td><span ><small>e-channel - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_184\" data-mediaid=\"184\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_184\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_184\" data-mediaid=\"184\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_184\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AMAR-hv7knI\" data-description=\"The Facial Nerve (CNVII): Animated Review\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"466\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/AMAR-hv7knI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AMAR-hv7knI\" data-description=\"The Facial Nerve (CNVII): Animated Review\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"466\">The Facial Nerve (CNVII): Animated Review</a></td></tr><tr><td><span ><small>FSUMedMedia - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_817\" data-mediaid=\"817\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_817\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_817\" data-mediaid=\"817\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_817\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_575",
+        "new_question_id": "1286",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "177",
+        "notes_id_link": "1_1110",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Depomederone",
+            "Hydroxychloroquine",
+            "Methotrexate",
+            "Ciclosporin",
+            "Celecoxib",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old woman with a long history of rheumatoid arthritis is reviewed in clinic complaining of shortness of breath. Oxygen saturations are 92% on room air with spirometry showing a restrictive pattern associated with a reduced transfer factor. Which one of the following drugs is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Methotrexate</b>, which is a disease-modifying antirheumatic drug (DMARD) commonly used in rheumatoid arthritis. Methotrexate can cause pneumonitis, an interstitial lung disease characterised by inflammation and fibrosis of the lung parenchyma. This presents with dyspnoea, reduced oxygen saturations, and restrictive pattern on spirometry with reduced transfer factor (DLCO). The condition occurs in approximately 0.3-8% of patients taking methotrexate and can develop at any time during treatment. Recognition and discontinuation of methotrexate is essential in managing this potentially serious adverse effect.<br /><br /><b>Depomederone</b> (depot methylprednisolone) is a long-acting corticosteroid. While it can have numerous side effects, it does not typically cause interstitial lung disease or a restrictive pattern on spirometry. In fact, it is often used therapeutically in inflammatory lung conditions.<br /><br /><b>Hydroxychloroquine</b> is another DMARD used in rheumatoid arthritis. While it can cause serious adverse effects, particularly retinopathy, it rarely causes significant pulmonary toxicity. It is not associated with the development of interstitial lung disease or restrictive lung patterns.<br /><br /><b>Ciclosporin</b> is an immunosuppressant that can cause various side effects, including nephrotoxicity and hypertension. While it can cause respiratory symptoms, particularly in the context of infection due to immunosuppression, it does not typically cause direct pulmonary toxicity leading to a restrictive pattern.<br /><br /><b>Celecoxib</b> is a selective COX-2 inhibitor used for pain management in rheumatoid arthritis. While it can cause bronchospasm in susceptible individuals, particularly those with aspirin-sensitive asthma, it does not cause interstitial lung disease or a restrictive pattern on spirometry.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old woman with a long history of rheumatoid arthritis is reviewed in clinic complaining of shortness of breath. Oxygen saturations are 92% on room air with spirometry showing a restrictive pattern associated with a reduced transfer factor. Which one of the following drugs is most likely to be responsible?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Methotrexate</b>, which is a disease-modifying antirheumatic drug (DMARD) commonly used in rheumatoid arthritis. Methotrexate can cause pneumonitis, an interstitial lung disease characterised by inflammation and fibrosis of the lung parenchyma. This presents with dyspnoea, reduced oxygen saturations, and restrictive pattern on spirometry with reduced transfer factor (DLCO). The condition occurs in approximately 0.3-8% of patients taking methotrexate and can develop at any time during treatment. Recognition and discontinuation of methotrexate is essential in managing this potentially serious adverse effect.<br /><br /><b>Depomederone</b> (depot methylprednisolone) is a long-acting corticosteroid. While it can have numerous side effects, it does not typically cause interstitial lung disease or a restrictive pattern on spirometry. In fact, it is often used therapeutically in inflammatory lung conditions.<br /><br /><b>Hydroxychloroquine</b> is another DMARD used in rheumatoid arthritis. While it can cause serious adverse effects, particularly retinopathy, it rarely causes significant pulmonary toxicity. It is not associated with the development of interstitial lung disease or restrictive lung patterns.<br /><br /><b>Ciclosporin</b> is an immunosuppressant that can cause various side effects, including nephrotoxicity and hypertension. While it can cause respiratory symptoms, particularly in the context of infection due to immunosuppression, it does not typically cause direct pulmonary toxicity leading to a restrictive pattern.<br /><br /><b>Celecoxib</b> is a selective COX-2 inhibitor used for pain management in rheumatoid arthritis. While it can cause bronchospasm in susceptible individuals, particularly those with aspirin-sensitive asthma, it does not cause interstitial lung disease or a restrictive pattern on spirometry.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Drugs causing lung fibrosis",
+        "body": "Causes<br /><ul><li>amiodarone</li><li>cytotoxic agents: busulphan, <span class=\"concept\" data-cid=\"3425\">bleomycin</span></li><li>anti-rheumatoid drugs: <span class=\"concept\" data-cid=\"177\">methotrexate</span>, <span class=\"concept\" data-cid=\"10386\">sulfasalazine</span></li><li><span class=\"concept\" data-cid=\"1340\">nitrofurantoin</span></li><li><span class=\"concept\" data-cid=\"5553\">ergot-derived dopamine receptor agonists (bromocriptine, cabergoline, pergolide)</span></li></ul>",
+        "notes_hash": "b1f148ba5c6a31a8c5383764e6a81ceb",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Methotrexate may cause lung fibrosis",
+        "concept_percentile": "75",
+        "concept_colour": "rgb(127,255,0)",
+        "number_attempts": "4289",
+        "up_votes": "24",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "32",
+            "350",
+            "3545",
+            "252",
+            "110",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "177": {
+                "concept_text": "Methotrexate may cause lung fibrosis",
+                "concept_percentile": "75"
+            },
+            "10386": {
+                "concept_text": "Sulfasalazine can cause lung fibrosis",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

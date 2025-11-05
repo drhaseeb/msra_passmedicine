@@ -1,0 +1,838 @@
+[
+    {
+        "question_id": "5650_B_246",
+        "new_question_id": "29547",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "11382",
+        "notes_id_link": "1_2276",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acute Kidney Injury stage 1",
+            "Acute Kidney Injury stage 2",
+            "Acute Kidney Injury stage 3",
+            "Acute Kidney Injury stage 4",
+            "Acute Kidney Injury stage 5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old male presents to an urgent care centre concerned that he is urinating less frequently. He reports urinating once in the past 10 hours and feels like he can't urinate now (despite wanting to). He has a past medical history of diabetes mellitus which is managed with metformin and chronic back pain which is managed with ibuprofen with PPI cover. He has no known allergies. Bloods are taken which show:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>4.8 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>22 mmol/L</td><td>(22 - 29)</td></tr><tr><td>Urea</td><td>7.1 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>200 \u00b5mol/L</td><td>(55 - 120)</td></tr></tbody></table></div><br />His records show his creatinine was 119 \u00b5mol/L. The general practitioner refers the patient to the emergency department for further investigation.<br /><br />Out of the options listed, which is the correct classification?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has a reduced urine output and a rise in his serum creatinine by ~1.7x which are in keeping with a classification of <b>AKI Stage 1</b>. He has risk factors of age, diabetes mellitus diagnosis, and his use of NSAIDs for his back pain. It is important to note that an AKI is a classification, not a diagnosis. <br /><br />The subsequent levels of AKI (stages 2 and 3) are outlined below and are progressively worsening renal function. They can be caused by similar risk factors (as outlined above in the vignette). <br /><br />Stage 2 AKI is an increase in serum creatinine to 2-2.9 from baseline or reduction in urine output for 12 hours or more (< 0.5 ml/kg/hr). This vignette shows a renal function that is less dramatic than this, and as such, this is incorrect. <br /><br />Stage 3 AKI is an increase in serum creatinine to 3x or higher from baseline or reduction in urine output for 24 hours or more (< 0.3 ml/kg/hr). As aforementioned, the vignette shows a renal function that is less affected than this, and as such, this is incorrect. <br /><br />There is no <b>AKI stage 4</b> so this is an incorrect answer. If the patient had a 'Chronic Kidney Disease' stage 4, he would have an eGFR of 15-29 ml/min/1.73m\u00b2.<br /><br />There is no <b>AKI stage 5</b> so this is an incorrect answer. If the patient had a 'Chronic Kidney Disease' stage 5, he would have end-stage renal disease and an eGFR <15 ml/min/1.73m\u00b2 (or be receiving renal replacement therapy).<br /><br />While there are only 3 stages of AKI, chronic kidney disease is classified from stages 1-5.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old male presents to an urgent care centre concerned that he is urinating less frequently. He reports urinating once in the past 10 hours and feels like he can't urinate now (despite wanting to). He has a past medical history of diabetes mellitus which is managed with metformin and chronic back pain which is managed with ibuprofen with PPI cover. He has no known allergies. Bloods are taken which show:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup></td><td>139 mmol/L</td><td>(135 - 145)</td></tr><tr><td>K<sup>+</sup></td><td>4.8 mmol/L</td><td>(3.5 - 5.0)</td></tr><tr><td>Bicarbonate</td><td>22 mmol/L</td><td>(22 - 29)</td></tr><tr><td>Urea</td><td>7.1 mmol/L</td><td>(2.0 - 7.0)</td></tr><tr><td>Creatinine</td><td>200 \u00b5mol/L</td><td>(55 - 120)</td></tr></tbody></table></div><br />His records show his creatinine was 119 \u00b5mol/L. The general practitioner refers the patient to the emergency department for further investigation.<br /><br />Out of the options listed, which is the correct classification?",
+        "correct_answer": "1",
+        "question_notes": "This patient has a reduced urine output and a rise in his serum creatinine by ~1.7x which are in keeping with a classification of <b>AKI Stage 1</b>. He has risk factors of age, diabetes mellitus diagnosis, and his use of NSAIDs for his back pain. It is important to note that an AKI is a classification, not a diagnosis. <br /><br />The subsequent levels of AKI (stages 2 and 3) are outlined below and are progressively worsening renal function. They can be caused by similar risk factors (as outlined above in the vignette). <br /><br />Stage 2 AKI is an increase in serum creatinine to 2-2.9 from baseline or reduction in urine output for 12 hours or more (< 0.5 ml/kg/hr). This vignette shows a renal function that is less dramatic than this, and as such, this is incorrect. <br /><br />Stage 3 AKI is an increase in serum creatinine to 3x or higher from baseline or reduction in urine output for 24 hours or more (< 0.3 ml/kg/hr). As aforementioned, the vignette shows a renal function that is less affected than this, and as such, this is incorrect. <br /><br />There is no <b>AKI stage 4</b> so this is an incorrect answer. If the patient had a 'Chronic Kidney Disease' stage 4, he would have an eGFR of 15-29 ml/min/1.73m\u00b2.<br /><br />There is no <b>AKI stage 5</b> so this is an incorrect answer. If the patient had a 'Chronic Kidney Disease' stage 5, he would have end-stage renal disease and an eGFR <15 ml/min/1.73m\u00b2 (or be receiving renal replacement therapy).<br /><br />While there are only 3 stages of AKI, chronic kidney disease is classified from stages 1-5.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Acute kidney injury: NICE guidelines and staging",
+        "body": "This guideline discuss what increases the risk of AKI:<br /><ul><li>Emergency surgery, ie, risk of sepsis or hypovolaemia</li><li>Intraperitoneal surgery</li><li>CKD, ie if eGFR < 60</li><li>Diabetes</li><li>Heart failure</li><li>Age >65 years</li><li>Liver disease</li><li>Use of nephrotoxic drugs<ul><li>NSAIDs</li><li>aminoglycosides</li><li><span class=\"concept\" data-cid=\"1313\">ACE inhibitors</span>/angiotensin II receptor antagonists</li><li>diuretics</li></ul></li></ul><br /><h5 class='notes-heading'>Diagnostic criteria</h5><br />It also defines the <span class=\"concept\" data-cid=\"2567\">criteria for diagnosing AKI</span><br /><ul><li>Rise in creatinine of 26\u00b5mol/L or more in 48 hours OR</li><li>>= 50% rise in creatinine over 7 days OR</li><li>Fall in urine output to <span class=\"concept\" data-cid=\"12051\">< 0.5ml/kg/hour</span> for more than 6 hours in adults (8 hours in children) OR</li><li> >= 25% fall in eGFR in children / young adults in 7 days.</li></ul><br /><h5 class='notes-heading'>Staging criteria</h5><br />The Kidney Disease: Improving Global Outcomes (KDIGO) criteria are widely used to stage the AKI:<br /><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td><b><span class=\"concept\" data-cid=\"11382\">Stage 1</span></b></td><td>Increase in creatinine to <b>1.5-1.9</b> times baseline, or<br />Increase in creatinine by \u226526.5 \u00b5mol/L, or<br />Reduction in urine output to <b><0.5</b> mL/kg/hour for <b>\u2265 6 hours</b></td></tr><tr><td><b><span class=\"concept\" data-cid=\"11383\">Stage 2</span></b></td><td>Increase in creatinine to <b>2.0 to 2.9</b> times baseline, or <br />Reduction in urine output to <b><0.5</b> mL/kg/hour for <b>\u226512 hours</b></td></tr><tr><td><b><span class=\"concept\" data-cid=\"11384\">Stage 3</span></b></td><td>Increase in creatinine to <b>\u2265 3.0</b> times baseline, or <br />Increase in creatinine to \u2265353.6 \u00b5mol/L or <br />Reduction in urine output to <b><0.3</b> mL/kg/hour for <b>\u226524 hours</b>, or <br />The initiation of kidney replacement therapy, or, <br />In patients <18 years, decrease in eGFR to <35 mL/min/1.73 m2</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Referral criteria</h5><br />Refer to a nephrologist if any of the following apply:<br /><ul><li>Renal tranplant</li><li>ITU patient with unknown cause of AKI</li><li>Vasculitis/ glomerulonephritis/ tubulointerstitial nephritis/ myeloma</li><li>AKI with no known cause</li><li>Inadequate response to treatment </li><li>Complications of AKI</li><li>Stage 3 AKI (see guideline for details)</li><li>CKD stage 4 or 5</li><li>Qualify for renal replacement  hyperkalaemia / metabolic acidosis/ complications of uraemia/ fluid overload (pulmonary oedema)</li></ul>",
+        "notes_hash": "a520e098bb876c3221a96649f181f470",
+        "knowledge_graph_node_id_link": 10779,
+        "concept": "KDIGO AKI stage 1<br /><ul><li>\u2191 creatinine 1.5-1.9 times, or</li><li>\u2193 urine output <0.5 mL/kg/hr for \u2265 6 hours</li></ul>",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "5383",
+        "up_votes": "43",
+        "down_votes": "39",
+        "column_array": [
+            0,
+            "2745",
+            "1727",
+            "765",
+            "114",
+            "32",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Think Kidneys </td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1152\" data-linkid=\"1152\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1152\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1152\" data-linkid=\"1152\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1152\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.thinkkidneys.nhs.uk/aki/resources/junior-doctors/\">Resources for doctors</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_472\" data-linkid=\"472\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_472\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_472\" data-linkid=\"472\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_472\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng148/chapter/Recommendations\">2019 Acute kidney injury: prevention, detection and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH1DCCqLGps\" data-description=\"Acute kidney injury\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1146\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/MH1DCCqLGps/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH1DCCqLGps\" data-description=\"Acute kidney injury\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1146\">Acute kidney injury</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1984\" data-mediaid=\"1984\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1984\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1984\" data-mediaid=\"1984\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1984\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/as40yVd6Z8U\" data-description=\"Understanding Acute Kidney Injury (AKI Made Easy)\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1362\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/as40yVd6Z8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/as40yVd6Z8U\" data-description=\"Understanding Acute Kidney Injury (AKI Made Easy)\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1362\">Understanding Acute Kidney Injury (AKI Made Easy)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2393\" data-mediaid=\"2393\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2393\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2393\" data-mediaid=\"2393\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2393\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2567": {
+                "concept_text": "NICE recognise any of the following criteria to diagnose AKI in adults:\n   - \u2191 creatinine > 26\u00b5mol/L in 48 hours\n   - \u2191 creatinine > 50% in 7 days \n   - \u2193 urine output < 0.5ml/kg/hr for more than 6 hours",
+                "concept_percentile": "73"
+            },
+            "11382": {
+                "concept_text": "KDIGO AKI stage 1\n   - \u2191 creatinine 1.5-1.9 times, or\n   - \u2193 urine output <0.5 mL/kg/hr for \u2265 6 hours",
+                "concept_percentile": "70"
+            },
+            "12051": {
+                "concept_text": "If a patient has a urine output of < 0.5ml/kg/hr postoperatively the first step is to consider a fluid challenge, if there are no contraindications or signs of haemorrhage etc",
+                "concept_percentile": "88"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2118",
+        "new_question_id": "61199",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "5165",
+        "notes_id_link": "1_1353",
+        "theme": "Breastfed infant with bleeding and bruising after home birth",
+        "instruction": "",
+        "options": [
+            "",
+            "Haemorrhagic disease of the newborn",
+            "Cow's milk protein allergy",
+            "Intussusception",
+            "Haemophilia A",
+            "Meckel's diverticulum",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-week-old exclusively breastfed infant presents with fresh rectal bleeding and bruising on the thighs. The baby was born at home with no complications. Examination reveals an alert infant with normal observations. There are no signs of trauma or non-accidental injury.<br /><br />Select the single most likely diagnosis from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Haemorrhagic disease of the newborn</b> is the correct answer. This infant presents with the classic features of vitamin K deficiency bleeding (VKDB), previously known as haemorrhagic disease of the newborn. The combination of rectal bleeding and bruising in an exclusively breastfed 6-week-old infant who was born at home is highly suggestive. Home births may be associated with missed vitamin K prophylaxis, either because it was declined or not offered. Breast milk contains very low levels of vitamin K compared to formula milk, placing exclusively breastfed infants at particular risk. This presentation at 6 weeks represents late VKDB (occurring between 2-12 weeks of age), which typically presents with bleeding from various sites including gastrointestinal tract, skin, and potentially intracranial haemorrhage. The condition results from inadequate vitamin K-dependent clotting factor synthesis (factors II, VII, IX, and X). All newborns in the UK should be offered vitamin K prophylaxis, either as a single intramuscular dose or multiple oral doses if breastfeeding continues.<br /><br /><b>Cow's milk protein allergy</b> is incorrect. Whilst this can cause rectal bleeding in infants, it typically presents with other features such as vomiting, diarrhoea, eczema, or failure to thrive. The bleeding is usually due to allergic colitis causing blood-streaked stools rather than frank rectal bleeding. Importantly, it would not explain the bruising on the thighs. This infant is exclusively breastfed, though maternal dairy consumption can occasionally trigger symptoms in sensitised infants.<br /><br /><b>Intussusception</b> is incorrect. This typically presents in infants aged 6-18 months with colicky abdominal pain, vomiting, and the classic 'redcurrant jelly' stools. The infant would usually appear unwell and distressed during episodes of pain, drawing their knees up. At 6 weeks of age, intussusception is extremely rare. Additionally, intussusception would not explain the bruising, and the infant in this scenario appears alert and well between episodes, which is inconsistent with this diagnosis.<br /><br /><b>Haemophilia A</b> is incorrect. Whilst this X-linked recessive condition causes a bleeding tendency due to factor VIII deficiency, it would be unusual to present with spontaneous bruising and rectal bleeding at this age without a clear precipitant such as trauma or circumcision. Haemophilia typically presents with bleeding into joints and muscles rather than gastrointestinal bleeding. The timing and presentation are much more consistent with acquired vitamin K deficiency rather than an inherited coagulopathy.<br /><br /><b>Meckel's diverticulum</b> is incorrect. This congenital abnormality can cause painless rectal bleeding due to ectopic gastric mucosa causing ulceration. However, it typically presents later in childhood (usually after 2 years of age) and would not explain the bruising. The bleeding from Meckel's diverticulum is usually more significant and can cause anaemia. The combination of bleeding and bruising in this exclusively breastfed infant with potential missed vitamin K prophylaxis makes VKDB far more likely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-week-old exclusively breastfed infant presents with fresh rectal bleeding and bruising on the thighs. The baby was born at home with no complications. Examination reveals an alert infant with normal observations. There are no signs of trauma or non-accidental injury.<br /><br />Select the single most likely diagnosis from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Haemorrhagic disease of the newborn</b> is the correct answer. This infant presents with the classic features of vitamin K deficiency bleeding (VKDB), previously known as haemorrhagic disease of the newborn. The combination of rectal bleeding and bruising in an exclusively breastfed 6-week-old infant who was born at home is highly suggestive. Home births may be associated with missed vitamin K prophylaxis, either because it was declined or not offered. Breast milk contains very low levels of vitamin K compared to formula milk, placing exclusively breastfed infants at particular risk. This presentation at 6 weeks represents late VKDB (occurring between 2-12 weeks of age), which typically presents with bleeding from various sites including gastrointestinal tract, skin, and potentially intracranial haemorrhage. The condition results from inadequate vitamin K-dependent clotting factor synthesis (factors II, VII, IX, and X). All newborns in the UK should be offered vitamin K prophylaxis, either as a single intramuscular dose or multiple oral doses if breastfeeding continues.<br /><br /><b>Cow's milk protein allergy</b> is incorrect. Whilst this can cause rectal bleeding in infants, it typically presents with other features such as vomiting, diarrhoea, eczema, or failure to thrive. The bleeding is usually due to allergic colitis causing blood-streaked stools rather than frank rectal bleeding. Importantly, it would not explain the bruising on the thighs. This infant is exclusively breastfed, though maternal dairy consumption can occasionally trigger symptoms in sensitised infants.<br /><br /><b>Intussusception</b> is incorrect. This typically presents in infants aged 6-18 months with colicky abdominal pain, vomiting, and the classic 'redcurrant jelly' stools. The infant would usually appear unwell and distressed during episodes of pain, drawing their knees up. At 6 weeks of age, intussusception is extremely rare. Additionally, intussusception would not explain the bruising, and the infant in this scenario appears alert and well between episodes, which is inconsistent with this diagnosis.<br /><br /><b>Haemophilia A</b> is incorrect. Whilst this X-linked recessive condition causes a bleeding tendency due to factor VIII deficiency, it would be unusual to present with spontaneous bruising and rectal bleeding at this age without a clear precipitant such as trauma or circumcision. Haemophilia typically presents with bleeding into joints and muscles rather than gastrointestinal bleeding. The timing and presentation are much more consistent with acquired vitamin K deficiency rather than an inherited coagulopathy.<br /><br /><b>Meckel's diverticulum</b> is incorrect. This congenital abnormality can cause painless rectal bleeding due to ectopic gastric mucosa causing ulceration. However, it typically presents later in childhood (usually after 2 years of age) and would not explain the bruising. The bleeding from Meckel's diverticulum is usually more significant and can cause anaemia. The combination of bleeding and bruising in this exclusively breastfed infant with potential missed vitamin K prophylaxis makes VKDB far more likely.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Haemorrhagic disease of the newborn",
+        "body": "Newborn babies are relatively deficient in vitamin K. This may result in impaired production of clotting factors which in turn can lead to haemorrhagic disease of the newborn (HDN). Bleeding may range from minor bruising to intracranial haemorrhages<br /><br />Breast-fed babies are particularly at risk as breast milk is a poor source of vitamin K. Maternal use of antiepileptics also increases the risk<br /><br />Because of this, all newborns in the UK are offered vitamin K, either intramuscularly or orally",
+        "notes_hash": "994d2b68bedcfcb6b2e703690ec3ca7d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Breastfed babies are at risk of vitamin K deficiency",
+        "concept_percentile": "74",
+        "concept_colour": "rgb(132,255,0)",
+        "number_attempts": "68",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "37",
+            "0",
+            "3",
+            "11",
+            "17",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_640",
+        "new_question_id": "29155",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "2370",
+        "notes_id_link": "1_2670",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Carpal tunnel syndrome",
+            "Cubital tunnel syndrome",
+            "De Quervain's tenosynovitis",
+            "Medial epicondylitis",
+            "Radial tunnel syndrome",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old woman presents with progressive tingling and numbness of the 4th and 5th fingers of her right hand. Initially, this was intermittent but recently has become constant. She notices that the symptoms are worse when leaning on her right elbow. She recalls hitting her elbow against a door some time ago.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is cubital tunnel syndrome. The ulnar nerve runs through the cubital tunnel and compression of this will lead to the symptoms described - tingling and numbness of the 4th and 5th fingers. Management is often conservative but surgery may be required.<br /><br />Carpal tunnel syndrome is due to compression of the median nerve at the wrist, where it runs through the carpal tunnel. This would present with generalised pain and tingling of the hand and wrist, not specifically the 4th and 5th fingers.<br /><br />De Quervain's tenosynovitis would present differently, with pain on movement of the thumb/wrist. The radial styloid may be hardened and thickened.<br /><br />Medial epicondylitis, or golfer's elbow, would present with pain along the medial elbow, close to the cubital tunnel - but localised to the area as it is a tendinopathy, and not compression of the nerve. <br /><br />Radial tunnel syndrome, as the name suggests, is due to compression of the radial nerve and may lead to tingling/numbness/pain along the back of the hand and forearm.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old woman presents with progressive tingling and numbness of the 4th and 5th fingers of her right hand. Initially, this was intermittent but recently has become constant. She notices that the symptoms are worse when leaning on her right elbow. She recalls hitting her elbow against a door some time ago.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is cubital tunnel syndrome. The ulnar nerve runs through the cubital tunnel and compression of this will lead to the symptoms described - tingling and numbness of the 4th and 5th fingers. Management is often conservative but surgery may be required.<br /><br />Carpal tunnel syndrome is due to compression of the median nerve at the wrist, where it runs through the carpal tunnel. This would present with generalised pain and tingling of the hand and wrist, not specifically the 4th and 5th fingers.<br /><br />De Quervain's tenosynovitis would present differently, with pain on movement of the thumb/wrist. The radial styloid may be hardened and thickened.<br /><br />Medial epicondylitis, or golfer's elbow, would present with pain along the medial elbow, close to the cubital tunnel - but localised to the area as it is a tendinopathy, and not compression of the nerve. <br /><br />Radial tunnel syndrome, as the name suggests, is due to compression of the radial nerve and may lead to tingling/numbness/pain along the back of the hand and forearm.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Cubital tunnel syndrome",
+        "body": "Cubital tunnel syndrome occurs due to compression of the ulnar nerve as it passes through the cubital tunnel. <br /><br />Clincial features<br /><ul><li><span class=\"concept\" data-cid=\"2370\">Tingling and numbness of the 4th and 5th finger</span> which starts off intermittent and then becomes constant. </li><li>Over time patients may also develop weakness and muscle wasting</li><li>Pain worse on leaning on the affected elbow </li><li>Often a history of osteoarthritis or prior trauma to the area.</li></ul><br />Investigations<br /><ul><li>the diagnosis is usually clinical</li><li>however, in selected cases nerve conduction studies may be used</li></ul><br />Management <br /><ul><li>Avoid aggravating activity</li><li>Physiotherapy</li><li>Steroid injections</li><li>Surgery in resistant cases</li></ul>",
+        "notes_hash": "ace9496ad19dcf895e2eb8dfba959fa1",
+        "knowledge_graph_node_id_link": 1238,
+        "concept": "Cubital tunnel syndrome is caused by compression of the ulnar nerve and can present with tingling/numbness of the 4th and 5th finger",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "5718",
+        "up_votes": "37",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "210",
+            "4052",
+            "212",
+            "936",
+            "308",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eq8QcFeO558\" data-description=\"Cubital tunnel syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"762\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eq8QcFeO558/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eq8QcFeO558\" data-description=\"Cubital tunnel syndrome\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"762\">Cubital tunnel syndrome</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1332\" data-mediaid=\"1332\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1332\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1332\" data-mediaid=\"1332\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1332\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "2370": {
+                "concept_text": "Cubital tunnel syndrome is caused by compression of the ulnar nerve and can present with tingling/numbness of the 4th and 5th finger",
+                "concept_percentile": "52"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1112",
+        "new_question_id": "2928",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1472",
+        "theme": "Diagnosis of curd-like white vaginal discharge with dyspareunia",
+        "instruction": "",
+        "options": [
+            "",
+            "<i>Candida</i>",
+            "Bacterial vaginosis",
+            "<i>Trichomonas vaginalis</i>",
+            "Physiological discharge",
+            "Chlamydial cervicitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 36-year-old female presents as she has noticed a curd-like white vaginal discharge. This is associated with pain during sex. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b><i>Candida</i></b> is the most likely diagnosis in this case. The patient presents with a curd-like white vaginal discharge, which is the classic description of candidal discharge, often referred to as 'cottage cheese-like' in appearance. Additionally, she reports pain during intercourse (dyspareunia), which is consistent with the vulvovaginal inflammation caused by candidal infection. Candidiasis is a common fungal infection caused by Candida albicans in approximately 90% of cases, with other species accounting for the remainder. Risk factors include recent antibiotic use, diabetes, immunosuppression, and pregnancy. The diagnosis is typically made clinically based on the characteristic discharge and symptoms, though microscopy and culture can confirm the diagnosis. Treatment involves topical or oral antifungal medications such as clotrimazole or fluconazole.<br /><br /><b>Bacterial vaginosis (BV)</b> is an incorrect diagnosis for this patient. While BV is a common cause of vaginal discharge, it typically presents with a thin, homogeneous, white or grey discharge that has a characteristic 'fishy' odour, particularly noticeable after sexual intercourse. The discharge in BV is not curd-like or cottage cheese-like as described in this case. Additionally, BV is not typically associated with pain during intercourse, as it does not cause significant inflammation of the vaginal tissues. BV results from an overgrowth of anaerobic bacteria and a reduction in the normal lactobacilli population in the vagina, leading to an increase in vaginal pH above 4.5.<br /><br /><b><i>Trichomonas vaginalis</i></b> is an incorrect diagnosis for this scenario. Trichomoniasis is a sexually transmitted infection caused by the protozoan parasite Trichomonas vaginalis. The discharge associated with trichomoniasis is typically yellow-green, frothy, and malodorous, not white and curd-like as described in this case. While trichomoniasis can cause dyspareunia due to inflammation, the character of the discharge is inconsistent with the patient's presentation. On examination, patients with trichomoniasis may have a 'strawberry cervix' due to punctate haemorrhages, and there may be significant vulvovaginal inflammation.<br /><br /><b>Physiological discharge</b> is an incorrect diagnosis for this patient. While all women have some degree of physiological vaginal discharge that varies throughout the menstrual cycle, physiological discharge is typically clear to white, non-offensive, and does not cause symptoms such as pain during intercourse. The curd-like appearance described in this case is not consistent with normal physiological discharge. Physiological discharge is primarily composed of cervical and vaginal secretions, exfoliated epithelial cells, and normal vaginal flora. It typically increases around ovulation and may change in consistency but should not cause discomfort or irritation.<br /><br /><b>Chlamydial cervicitis</b> is an incorrect diagnosis for this patient. Chlamydia trachomatis infection primarily affects the cervix in women and can cause a mucopurulent cervical discharge. However, this discharge is typically yellow or cloudy rather than white and curd-like. While chlamydial infection can cause dyspareunia, the character of the discharge in this case is much more consistent with candidiasis. Additionally, chlamydial infections are often asymptomatic in women, with up to 70% of infected individuals showing no symptoms. When symptoms do occur, they may include post-coital bleeding, intermenstrual bleeding, or lower abdominal pain, none of which are mentioned in this case.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 36-year-old female presents as she has noticed a curd-like white vaginal discharge. This is associated with pain during sex. What is the most likely diagnosis?",
+        "correct_answer": "1",
+        "question_notes": "<b><i>Candida</i></b> is the most likely diagnosis in this case. The patient presents with a curd-like white vaginal discharge, which is the classic description of candidal discharge, often referred to as 'cottage cheese-like' in appearance. Additionally, she reports pain during intercourse (dyspareunia), which is consistent with the vulvovaginal inflammation caused by candidal infection. Candidiasis is a common fungal infection caused by Candida albicans in approximately 90% of cases, with other species accounting for the remainder. Risk factors include recent antibiotic use, diabetes, immunosuppression, and pregnancy. The diagnosis is typically made clinically based on the characteristic discharge and symptoms, though microscopy and culture can confirm the diagnosis. Treatment involves topical or oral antifungal medications such as clotrimazole or fluconazole.<br /><br /><b>Bacterial vaginosis (BV)</b> is an incorrect diagnosis for this patient. While BV is a common cause of vaginal discharge, it typically presents with a thin, homogeneous, white or grey discharge that has a characteristic 'fishy' odour, particularly noticeable after sexual intercourse. The discharge in BV is not curd-like or cottage cheese-like as described in this case. Additionally, BV is not typically associated with pain during intercourse, as it does not cause significant inflammation of the vaginal tissues. BV results from an overgrowth of anaerobic bacteria and a reduction in the normal lactobacilli population in the vagina, leading to an increase in vaginal pH above 4.5.<br /><br /><b><i>Trichomonas vaginalis</i></b> is an incorrect diagnosis for this scenario. Trichomoniasis is a sexually transmitted infection caused by the protozoan parasite Trichomonas vaginalis. The discharge associated with trichomoniasis is typically yellow-green, frothy, and malodorous, not white and curd-like as described in this case. While trichomoniasis can cause dyspareunia due to inflammation, the character of the discharge is inconsistent with the patient's presentation. On examination, patients with trichomoniasis may have a 'strawberry cervix' due to punctate haemorrhages, and there may be significant vulvovaginal inflammation.<br /><br /><b>Physiological discharge</b> is an incorrect diagnosis for this patient. While all women have some degree of physiological vaginal discharge that varies throughout the menstrual cycle, physiological discharge is typically clear to white, non-offensive, and does not cause symptoms such as pain during intercourse. The curd-like appearance described in this case is not consistent with normal physiological discharge. Physiological discharge is primarily composed of cervical and vaginal secretions, exfoliated epithelial cells, and normal vaginal flora. It typically increases around ovulation and may change in consistency but should not cause discomfort or irritation.<br /><br /><b>Chlamydial cervicitis</b> is an incorrect diagnosis for this patient. Chlamydia trachomatis infection primarily affects the cervix in women and can cause a mucopurulent cervical discharge. However, this discharge is typically yellow or cloudy rather than white and curd-like. While chlamydial infection can cause dyspareunia, the character of the discharge in this case is much more consistent with candidiasis. Additionally, chlamydial infections are often asymptomatic in women, with up to 70% of infected individuals showing no symptoms. When symptoms do occur, they may include post-coital bleeding, intermenstrual bleeding, or lower abdominal pain, none of which are mentioned in this case.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Vaginal discharge",
+        "body": "Vaginal discharge is a common presenting symptom and is not always pathological<br /><br />Common causes<br /><ul><li>physiological</li><li><i>Candida</i></li><li><i>Trichomonas vaginalis</i></li><li>bacterial vaginosis</li></ul><br />Less common causes<br /><ul><li><i>Gonorrhoea</i></li><li><i>Chlamydia</i> can cause a vaginal discharge although this is rarely the presenting symptoms</li><li>ectropion</li><li>foreign body</li><li>cervical cancer</li></ul><br />Key features of the common causes are listed below<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Condition</b></th><th><b>Key features</b></th></tr></thead><tbody><tr><td><i>Candida</i></td><td>'Cottage cheese' discharge<br />Vulvitis<br />Itch</td></tr><tr><td><i>Trichomonas vaginalis</i></td><td>Offensive, yellow/green, frothy discharge<br />Vulvovaginitis<br />Strawberry cervix</td></tr><tr><td>Bacterial vaginosis</td><td>Offensive, thin, white/grey, 'fishy' discharge</td></tr></tbody></table></div>",
+        "notes_hash": "5355c12518a8f1c6c14df153e5cae5c5",
+        "knowledge_graph_node_id_link": 10070,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "2969",
+        "up_votes": "4",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "2363",
+            "197",
+            "197",
+            "20",
+            "192",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1988",
+        "new_question_id": "2451",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1363",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ectopic pregnancy",
+            "Urinary tract infection",
+            "Side-effects of IUD",
+            "Miscarriage",
+            "Appendicitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You review a 28-year-old woman who has presented with lower abdominal pain and vaginal bleeding. Two weeks ago she had a intrauterine device (IUD) fitted as emergency contraception after presenting 6 days post unprotected intercourse. The pain is describe as being like severe dysmenorrhoea and is worse in the right iliac fossa. Her bleeding has been continuous for the past 6 days. Her normal menstrual cycle is 28 days long with 4 days of bleeding. She is eating and drinking normally.<br /><br />On examination temperature is 36.5\u00baC, blood pressure 104/68mmHg. She has mild tenderness in the right iliac fossa with no guarding.<br /><br />Urine dip: NAD<br />Urine hCG: Negative<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Intrauterine devices (IUD) commonly make periods heavier and more painful. This is the most likely explanation for this lady's symptoms.<br /><br />Ectopic pregnancy and miscarriage are very unlikely given the negative pregnancy test. <br /><br />Urinary tract infection is again unlikely given the normal urine dip.<br /><br />Whilst appendicitis should always be considered it would not explain the vaginal bleeding. The normal appetite, apyrexia and modest examination findings are also not in keeping.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You review a 28-year-old woman who has presented with lower abdominal pain and vaginal bleeding. Two weeks ago she had a intrauterine device (IUD) fitted as emergency contraception after presenting 6 days post unprotected intercourse. The pain is describe as being like severe dysmenorrhoea and is worse in the right iliac fossa. Her bleeding has been continuous for the past 6 days. Her normal menstrual cycle is 28 days long with 4 days of bleeding. She is eating and drinking normally.<br /><br />On examination temperature is 36.5\u00baC, blood pressure 104/68mmHg. She has mild tenderness in the right iliac fossa with no guarding.<br /><br />Urine dip: NAD<br />Urine hCG: Negative<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Intrauterine devices (IUD) commonly make periods heavier and more painful. This is the most likely explanation for this lady's symptoms.<br /><br />Ectopic pregnancy and miscarriage are very unlikely given the negative pregnancy test. <br /><br />Urinary tract infection is again unlikely given the normal urine dip.<br /><br />Whilst appendicitis should always be considered it would not explain the vaginal bleeding. The normal appetite, apyrexia and modest examination findings are also not in keeping.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Intrauterine contraceptive devices",
+        "body": "Intrauterine contraceptive devices comprise both conventional copper intrauterine devices (IUDs) and levonorgestrel-releasing intrauterine systems (IUS, Mirena). The IUS is also used in the management of menorrhagia<br /><br />Effectiveness<br /><ul><li>both the IUD and IUS are more than 99% effective</li></ul><br />Mode of action<br /><ul><li>IUD: primary mode of action is prevention of fertilisation by causing decreased sperm motility and survival (possibly an effect of copper ions)</li><li>IUS: levonorgestrel prevents endometrial proliferation and causes cervical mucous thickening</li></ul><br />Counselling<br /><ul><li>IUD<ul><li>can be relied upon <span class=\"concept\" data-cid=\"271\">immediately</span> following insertion</li><li>the majority of IUDs with copper on the stem only are effective for <span class=\"concept\" data-cid=\"10994\">5 years</span>, whereas some of the IUDs that have copper on the stem and the arms of the T may be effective for up to <span class=\"concept\" data-cid=\"10994\">10 years</span></li></ul></li><li>IUS <ul><li>can be relied upon after <span class=\"concept\" data-cid=\"271\">7 days</span></li><li>the most common IUS (i.e. Mirena - levonorgestrel 20 mcg/24 hrs) is effective for <span class=\"concept\" data-cid=\"10993\">8 years</span>, but if used in <span class=\"concept\" data-cid=\"12311\">women \u226545 years it is effective until 55 years</span></li><li>if used as endometrial protection for women taking oestrogen-only hormone replacement therapy they are only licensed for <span class=\"concept\" data-cid=\"10995\">5 years</span> </li></ul></li></ul><br />Potential problems<br /><ul><li>IUDs make periods heavier, longer and more painful</li><li>the IUS is associated with initial frequent uterine bleeding and spotting. Later women typically have intermittent light menses with less dysmenorrhoea and some women become amenorrhoeic</li><li>uterine perforation: up to <span class=\"concept\" data-cid=\"4292\">2 per 1000 insertions</span> and higher in breastfeeding women</li><li><span class=\"concept\" data-cid=\"272\">the proportion of pregnancies that are ectopic is increased but the absolute number of ectopic pregnancies is reduced, compared to a woman not using contraception</span></li><li>infection: there is a small increased risk of pelvic inflammatory disease in the first 20 days after insertion but after this period the risk returns to that of a standard population</li><li>expulsion: risk is around <span class=\"concept\" data-cid=\"4293\">1 in 20</span>, and is most likely to occur in the first 3 months</li></ul><br /><h5 class='notes-heading'>New IUS systems</h5><br />The Jaydess= IUS is licensed for <span class=\"concept\" data-cid=\"9009\">3 years</span>. It has a <span class=\"concept\" data-cid=\"9010\">smaller frame</span>, narrower inserter tube and <span class=\"concept\" data-cid=\"9011\">less levonorgestrel</span> (LNG) than the Mirena coil (13.5 mg compared to 52 mg). This results in <span class=\"concept\" data-cid=\"9012\">lower serum levels</span> of LNG.<br /><br />The Kyleena IUS has 19.5mg LNG and is also <span class=\"concept\" data-cid=\"9016\">smaller</span> than the Mirena but is licensed for <span class=\"concept\" data-cid=\"9013\">5 years</span>. It also results in <span class=\"concept\" data-cid=\"9014\">lower serum levels of LNG</span>. The <span class=\"concept\" data-cid=\"9015\">rate of amenorrhoea</span> is less with Kyleena compared to Mirena.",
+        "notes_hash": "786c839d51e708aa51fe095901d43aef",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4472",
+        "up_votes": "41",
+        "down_votes": "82",
+        "column_array": [
+            0,
+            "1039",
+            "47",
+            "2839",
+            "377",
+            "170",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_274\" data-linkid=\"274\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_274\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_274\" data-linkid=\"274\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_274\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">19</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/ceuguidanceintrauterinecontraception/\">2015 Intrauterine contraception guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 15,
+        "concepts_for_notes": {
+            "271": {
+                "concept_text": "Contraceptives - time until effective (if not first day period):\r\n   - instant: IUD\r\n   - 2 days: POP\r\n   - 7 days: COC, injection, implant, IUS",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_933",
+        "new_question_id": "11087",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_956",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Recurrent urinary tract infections",
+            "Abdominal mass",
+            "Fever",
+            "Loin pain",
+            "Haematuria",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "What is the most common presenting feature of Wilms tumour?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>abdominal mass</b>. Wilms tumour, also known as nephroblastoma, is the most common paediatric renal malignancy. The most common presenting feature is an asymptomatic abdominal mass which is often discovered incidentally by a parent or caregiver while bathing or dressing the child. It typically presents as a smooth, firm and non-tender mass.<br /><br />The option of <b>recurrent urinary tract infections</b> is incorrect. Although urinary tract infections can occur in patients with Wilms tumour due to ureteral obstruction by the tumour, it's not a common presenting feature. Recurrent urinary tract infections are more commonly associated with anatomical abnormalities of the urinary tract or vesicoureteral reflux.<br /><br /><b>Fever</b> is another incorrect option. Fever can be present in cases of Wilms tumour but it's usually secondary to necrosis or infection within the tumour rather than a primary symptom. It's also worth noting that fever without other symptoms is more likely to be caused by an infectious process rather than a neoplastic one.<br /><br />Similarly, <b>loin pain</b> isn't a typical presenting feature of Wilms tumour. Pain may occur if there's rapid growth leading to stretching of the renal capsule or if there's haemorrhage into the tumour but this isn't common at presentation.<br /><br />Finally, <b>haematuria</b>, although possible in cases of Wilms tumour, isn't a frequent symptom either. Haematuria occurs when there's invasion of the renal vessels by the tumour but this tends not to happen until later stages of disease progression. Therefore, while haematuria might be seen in some cases, it's less likely to be the initial presenting feature when compared with an abdominal mass.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "What is the most common presenting feature of Wilms tumour?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>abdominal mass</b>. Wilms tumour, also known as nephroblastoma, is the most common paediatric renal malignancy. The most common presenting feature is an asymptomatic abdominal mass which is often discovered incidentally by a parent or caregiver while bathing or dressing the child. It typically presents as a smooth, firm and non-tender mass.<br /><br />The option of <b>recurrent urinary tract infections</b> is incorrect. Although urinary tract infections can occur in patients with Wilms tumour due to ureteral obstruction by the tumour, it's not a common presenting feature. Recurrent urinary tract infections are more commonly associated with anatomical abnormalities of the urinary tract or vesicoureteral reflux.<br /><br /><b>Fever</b> is another incorrect option. Fever can be present in cases of Wilms tumour but it's usually secondary to necrosis or infection within the tumour rather than a primary symptom. It's also worth noting that fever without other symptoms is more likely to be caused by an infectious process rather than a neoplastic one.<br /><br />Similarly, <b>loin pain</b> isn't a typical presenting feature of Wilms tumour. Pain may occur if there's rapid growth leading to stretching of the renal capsule or if there's haemorrhage into the tumour but this isn't common at presentation.<br /><br />Finally, <b>haematuria</b>, although possible in cases of Wilms tumour, isn't a frequent symptom either. Haematuria occurs when there's invasion of the renal vessels by the tumour but this tends not to happen until later stages of disease progression. Therefore, while haematuria might be seen in some cases, it's less likely to be the initial presenting feature when compared with an abdominal mass.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Wilms' tumour",
+        "body": "Wilms' nephroblastoma is one of the most common childhood malignancies. It typically presents in children under 5 years of age, with a median age of 3 years old.<br /><br />Associations<br /><ul><li>Beckwith-Wiedemann syndrome</li><li>as part of WAGR syndrome with Aniridia, Genitourinary malformations, mental Retardation</li><li>hemihypertrophy</li><li>around one-third of cases are associated with a loss-of-function mutation in the WT1 gene on chromosome 11</li></ul><br />Features<br /><ul><li>abdominal mass (most common presenting feature)</li><li>painless haematuria</li><li>flank pain</li><li>other features: anorexia, fever</li><li>unilateral in 95% of cases</li><li>metastases are found in 20% of patients (most commonly lung)</li></ul><br />Referral<br /><ul><li>children with an unexplained enlarged abdominal mass in children - possible Wilm's tumour - arrange <span class=\"concept\" data-cid=\"2124\">paediatric review with 48 hours</span></li></ul><br />Management<br /><ul><li>nephrectomy</li><li>chemotherapy</li><li>radiotherapy if advanced disease</li><li>prognosis: good, 80% cure rate</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb076b.jpg'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb076.jpg'/></a></td></tr><tr><td valign='top' align='left'><span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from PathoPic</span></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/usb076b.jpg'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Histological features include epithelial tubules, areas of necrosis, immature glomerular structures, stroma with spindle cells and small cell blastomatous tissues resembling the metanephric blastema</div>",
+        "notes_hash": "7e7eb864282adb8caf62bb5e2b788c83",
+        "knowledge_graph_node_id_link": 1455,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4185",
+        "up_votes": "39",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "285",
+            "2764",
+            "57",
+            "309",
+            "770",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ycz3PuUm3rw\" data-description=\"WAGR syndrome\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"954\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Ycz3PuUm3rw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Ycz3PuUm3rw\" data-description=\"WAGR syndrome\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"954\">WAGR syndrome</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1653\" data-mediaid=\"1653\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1653\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1653\" data-mediaid=\"1653\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1653\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/8/89/Wilms_tumor.webm\" data-description=\"Wilms' tumor (nephroblastoma)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"211\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/8/89/Wilms_tumor.webm\" data-description=\"Wilms' tumor (nephroblastoma)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"211\">Wilms' tumor (nephroblastoma)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1772\" data-mediaid=\"1772\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1772\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1772\" data-mediaid=\"1772\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1772\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/ad/WAGR_syndrome.webm\" data-description=\"WAGR syndrome\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"263\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/ad/WAGR_syndrome.webm\" data-description=\"WAGR syndrome\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"263\">WAGR syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1771\" data-mediaid=\"1771\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1771\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1771\" data-mediaid=\"1771\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1771\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_67",
+        "new_question_id": "2826",
+        "question_type": "1",
+        "category": "7",
+        "concept_id_link": "6647",
+        "notes_id_link": "1_1451",
+        "theme": "Childhood syndromes",
+        "instruction": "For each patient below choose from the list above the single most likely diagnosis from the list above. Each option may be chosen more than once or not at all",
+        "options": [
+            "",
+            "Edward's syndrome",
+            "Fragile X",
+            "Noonan syndrome",
+            "Patau syndrome",
+            "Pierre-Robin syndrome",
+            "Prader-Willi syndrome",
+            "Turner's syndrome",
+            "William's syndrome",
+            "",
+            ""
+        ],
+        "num_of_options": 8,
+        "questions": [
+            "A boy is noted to have a webbed neck and pectus excavatum",
+            "Ly tyqlye td qzfyo ez slgp dxlww pjpd lyo azwjolnejwj",
+            "L 7-jplc-zwo mzj htes wplcytyr otqqtnfwetpd lyo xlncznpaslwj"
+        ],
+        "answers": [
+            "3",
+            "4",
+            "2"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A boy is noted to have a webbed neck and pectus excavatum",
+        "correct_answer": "3",
+        "question_notes": "",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Childhood syndromes",
+        "body": "Below is a list of common features of selected childhood syndromes<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Syndrome</b></th><th><b>Key features</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"6648\">Patau syndrome</span> (trisomy 13)<br /></td><td><span class=\"concept\" data-cid=\"6656\">Microcephalic, small eyes</span><br /><span class=\"concept\" data-cid=\"6657\">Cleft lip/palate</span><br /><span class=\"concept\" data-cid=\"6658\">Polydactyly</span><br />Scalp lesions</td></tr><tr><td><span class=\"concept\" data-cid=\"6645\">Edward's syndrome</span>  (trisomy 18)<br /></td><td><span class=\"concept\" data-cid=\"6652\">Micrognathia</span><br /><span class=\"concept\" data-cid=\"6653\">Low-set ears</span><br /><span class=\"concept\" data-cid=\"6659\">Rocker bottom feet</span><br /><span class=\"concept\" data-cid=\"6655\">Overlapping of fingers</span></td></tr><tr><td><span class=\"concept\" data-cid=\"6646\">Fragile X</span><br /></td><td><span class=\"concept\" data-cid=\"4820\">Learning difficulties</span><br />Macrocephaly<br />Long face<br />Large ears<br />Macro-orchidism</td></tr><tr><td><span class=\"concept\" data-cid=\"6647\">Noonan syndrome</span><br /></td><td>Webbed neck<br />Pectus excavatum<br />Short stature<br />Pulmonary stenosis</td></tr><tr><td><span class=\"concept\" data-cid=\"6649\">Pierre-Robin syndrome</span>*<br /></td><td>Micrognathia<br />Posterior displacement of the tongue (may result in upper airway obstruction)<br />Cleft palate</td></tr><tr><td><span class=\"concept\" data-cid=\"6650\">Prader-Willi syndrome</span><br /></td><td>Hypotonia<br />Hypogonadism<br />Obesity</td></tr><tr><td><span class=\"concept\" data-cid=\"6651\">William's syndrome</span><br /></td><td>Short stature<br />Learning difficulties<br />Friendly, extrovert personality<br />Transient neonatal hypercalcaemia<br />Supravalvular aortic stenosis</td></tr><tr><td>Cri du chat syndrome (chromosome 5p deletion syndrome)</td><td>Characteristic cry (hence the name) due to larynx and neurological problems<br />Feeding difficulties and poor weight gain<br />Learning difficulties<br />Microcephaly and micrognathism<br />Hypertelorism</td></tr></tbody></table></div><br />*this condition has many similarities with Treacher-Collins syndrome. One of the key differences is that Treacher-Collins syndrome is autosomal dominant so there is usually a family history of similar problems",
+        "notes_hash": "5cb4eb9a463dbeeb2b9816d5c70881b8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A young boy is noted to have a webbed neck, pulmonary stenosis, ptosis and short stature. The karyotype is normal - Noonan syndrome",
+        "concept_percentile": "30",
+        "concept_colour": "rgb(255,153,0)",
+        "number_attempts": "4531",
+        "up_votes": "34",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "2588",
+            "2646",
+            "2744",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/QBussteAbA0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\">Trisomy (21, 18, and 13) & Nondisjunction Genetics</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2749\" data-mediaid=\"2749\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2749\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2749\" data-mediaid=\"2749\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2749\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EKtO9DlEgjA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\">Down syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2750\" data-mediaid=\"2750\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2750\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2750\" data-mediaid=\"2750\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2750\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TJoXpMEhbj4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\">Patau syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1403\" data-mediaid=\"1403\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1403\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1403\" data-mediaid=\"1403\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1403\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/SivY6f0wVi4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\">Cri du chat syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1373\" data-mediaid=\"1373\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1373\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1373\" data-mediaid=\"1373\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1373\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EFP671hzciI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\">Edward's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1664\" data-mediaid=\"1664\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1664\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_1664\" data-mediaid=\"1664\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1664\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "6645": {
+                "concept_text": "A baby is born with micrognathia, low-set ears, rocker bottom feet and overlapping of fingers - Edward's syndrome",
+                "concept_percentile": "31"
+            },
+            "6646": {
+                "concept_text": "A young boy is noted to have learning difficulties, macrocephaly, large ears and macro-orchidism - fragile X",
+                "concept_percentile": "26"
+            },
+            "6647": {
+                "concept_text": "A young boy is noted to have a webbed neck, pulmonary stenosis, ptosis and short stature. The karyotype is normal - Noonan syndrome",
+                "concept_percentile": "30"
+            },
+            "6648": {
+                "concept_text": "A baby is born with microcephaly, small eyes, low-set ears, cleft lip and polydactyly - Patau syndrome",
+                "concept_percentile": "23"
+            },
+            "6649": {
+                "concept_text": "A baby is noted to have micrognathia and a cleft palate. He is placed prone due to upper airway obstruction. There is no family history of similar problems - Pierre-Robin syndrome",
+                "concept_percentile": "5"
+            },
+            "6650": {
+                "concept_text": "A boy is noted to have reduced tone, hypogonadism and obesity - Prader-Willi syndrome",
+                "concept_percentile": "19"
+            },
+            "6651": {
+                "concept_text": "A boy with learning difficulties is noted to be extremely friendly and extroverted. He has short for his age and has supravalvular aortic stenosis - William's syndrome",
+                "concept_percentile": "14"
+            },
+            "6652": {
+                "concept_text": "Edward's syndrome (trisomy 18) - micrognathia",
+                "concept_percentile": "6"
+            },
+            "6653": {
+                "concept_text": "Edward's syndrome (trisomy 18) - low-set ears",
+                "concept_percentile": "14"
+            },
+            "6655": {
+                "concept_text": "Edward's syndrome (trisomy 18) - overlapping of fingers",
+                "concept_percentile": "10"
+            },
+            "6656": {
+                "concept_text": "Patau syndrome (trisomy 13) - microcephalic, small eyes",
+                "concept_percentile": "8"
+            },
+            "6658": {
+                "concept_text": "Patau syndrome (trisomy 13) - polydactyly",
+                "concept_percentile": "12"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2113",
+        "new_question_id": "7105",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "582",
+        "notes_id_link": "1_2383",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cervical ectropion",
+            "Cervical cancer",
+            "Cervical polyps",
+            "Vaginal trauma",
+            "Cervicitis secondary to <i>Chlamydia</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A woman presents to her GP complaining of bleeding after sexual intercourse. What is the most common identifiable cause of postcoital bleeding?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Cervical ectropion</b>. Cervical ectropion, also known as cervical erosion, is the most common identifiable cause of postcoital bleeding. It involves the eversion of the endocervical columnar epithelium onto the ectocervix, which can lead to an increased susceptibility to trauma and hence bleeding after intercourse. This condition is particularly common in women of reproductive age and those taking oral contraceptives.<br /><br /><b>Cervical cancer</b> is a less common cause of postcoital bleeding but it's important to consider due to its serious implications. However, other symptoms such as irregular menstrual cycles, pelvic pain or unexplained weight loss often accompany this diagnosis. Therefore, while it must be ruled out in any woman presenting with postcoital bleeding, it's not the most common cause.<br /><br />Similarly, <b>cervical polyps</b> can cause postcoital bleeding but they are not as common as cervical ectropion. These benign growths on the cervix can become irritated and bleed following intercourse. However, they often present asymptomatically and are usually discovered during routine gynaecological examinations.<br /><br /><b>Vaginal trauma</b> could potentially cause bleeding after sexual activity if there was significant force involved or if there were pre-existing lesions in the vagina that were disturbed. However, this would typically be associated with pain and discomfort during intercourse rather than isolated bleeding afterwards.<br /><br />Finally, <b>cervicitis secondary to <i>Chlamydia</i></b> infection could indeed result in postcoital bleeding due to inflammation of the cervix. Nevertheless, other symptoms such as abnormal vaginal discharge or lower abdominal pain would usually be present too. Additionally, sexually transmitted infections including Chlamydia are more likely to cause intermenstrual rather than postcoital bleeding.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A woman presents to her GP complaining of bleeding after sexual intercourse. What is the most common identifiable cause of postcoital bleeding?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Cervical ectropion</b>. Cervical ectropion, also known as cervical erosion, is the most common identifiable cause of postcoital bleeding. It involves the eversion of the endocervical columnar epithelium onto the ectocervix, which can lead to an increased susceptibility to trauma and hence bleeding after intercourse. This condition is particularly common in women of reproductive age and those taking oral contraceptives.<br /><br /><b>Cervical cancer</b> is a less common cause of postcoital bleeding but it's important to consider due to its serious implications. However, other symptoms such as irregular menstrual cycles, pelvic pain or unexplained weight loss often accompany this diagnosis. Therefore, while it must be ruled out in any woman presenting with postcoital bleeding, it's not the most common cause.<br /><br />Similarly, <b>cervical polyps</b> can cause postcoital bleeding but they are not as common as cervical ectropion. These benign growths on the cervix can become irritated and bleed following intercourse. However, they often present asymptomatically and are usually discovered during routine gynaecological examinations.<br /><br /><b>Vaginal trauma</b> could potentially cause bleeding after sexual activity if there was significant force involved or if there were pre-existing lesions in the vagina that were disturbed. However, this would typically be associated with pain and discomfort during intercourse rather than isolated bleeding afterwards.<br /><br />Finally, <b>cervicitis secondary to <i>Chlamydia</i></b> infection could indeed result in postcoital bleeding due to inflammation of the cervix. Nevertheless, other symptoms such as abnormal vaginal discharge or lower abdominal pain would usually be present too. Additionally, sexually transmitted infections including Chlamydia are more likely to cause intermenstrual rather than postcoital bleeding.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Postcoital bleeding",
+        "body": "Postcoital bleeding describes vaginal bleeding after sexual intercourse.<br /><br />Causes<br /><ul><li>no identifiable pathology is found in around 50% of cases</li><li>cervical ectropion is the most common identifiable causes, causing around 33% of cases. This is more common in women on the combined oral contraceptive pill</li><li>cervicitis e.g. secondary to <i>Chlamydia</i></li><li>cervical cancer</li><li>polyps</li><li>trauma</li></ul>",
+        "notes_hash": "57d11b1de46a1da85935252d99513fe1",
+        "knowledge_graph_node_id_link": 10069,
+        "concept": "Cervical ectropion is the most common identifiable cause of postcoital bleeding",
+        "concept_percentile": "80",
+        "concept_colour": "rgb(101,255,0)",
+        "number_attempts": "6015",
+        "up_votes": "28",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "4435",
+            "280",
+            "386",
+            "624",
+            "290",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1592",
+        "new_question_id": "10207",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "856",
+        "notes_id_link": "1_776",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Schober's test assesses reduced chest expansion",
+            "HLA-B27 is positive in 50% of patients",
+            "Achilles tendonitis is a recognised association",
+            "It is equally common in men and women",
+            "The typical age of presentation is between 40-50 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following statements regarding ankylosing spondylitis is correct?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Achilles tendonitis is a recognised association</b>. Ankylosing spondylitis (AS) is a chronic, inflammatory arthritis and autoimmune disease that primarily affects the axial skeleton. It can lead to various extra-articular manifestations, one of which includes Achilles tendonitis. This occurs due to enthesitis, inflammation of the areas where tendons or ligaments insert into the bone, which is a characteristic feature of AS.<br /><br /><b>Schober's test assesses reduced chest expansion</b> is incorrect. Schober's test is used in the assessment of lumbar spine mobility and not chest expansion. In AS, chest expansion may be reduced due to costovertebral joint involvement leading to the fusion of the ribs with the vertebrae; however, this is assessed by measuring the circumference of the chest at full inspiration and expiration.<br /><br />The statement <b>HLA-B27 is positive in 50% of patients</b> is also incorrect. Although HLA-B27 antigen has been associated with AS, it's positivity rate in patients with AS is much higher than 50%. According to UK guidelines and research studies, about 90-95% of patients with ankylosing spondylitis are HLA-B27 positive.<br /><br /><b>It is equally common in men and women</b>, this statement isn't accurate either. Ankylosing spondylitis shows a male predominance. It's approximately two to three times more common in men than women.<br /><br />Lastly, <b>The typical age of presentation is between 40-50 years</b> isn't true as well. The typical age of onset for ankylosing spondylitis tends to be much younger than this range suggests. Most commonly, individuals present in late adolescence or early adulthood (ages 20-30). The onset after age 40 years old would be considered atypical for ankylosing spondylitis.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following statements regarding ankylosing spondylitis is correct?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>Achilles tendonitis is a recognised association</b>. Ankylosing spondylitis (AS) is a chronic, inflammatory arthritis and autoimmune disease that primarily affects the axial skeleton. It can lead to various extra-articular manifestations, one of which includes Achilles tendonitis. This occurs due to enthesitis, inflammation of the areas where tendons or ligaments insert into the bone, which is a characteristic feature of AS.<br /><br /><b>Schober's test assesses reduced chest expansion</b> is incorrect. Schober's test is used in the assessment of lumbar spine mobility and not chest expansion. In AS, chest expansion may be reduced due to costovertebral joint involvement leading to the fusion of the ribs with the vertebrae; however, this is assessed by measuring the circumference of the chest at full inspiration and expiration.<br /><br />The statement <b>HLA-B27 is positive in 50% of patients</b> is also incorrect. Although HLA-B27 antigen has been associated with AS, it's positivity rate in patients with AS is much higher than 50%. According to UK guidelines and research studies, about 90-95% of patients with ankylosing spondylitis are HLA-B27 positive.<br /><br /><b>It is equally common in men and women</b>, this statement isn't accurate either. Ankylosing spondylitis shows a male predominance. It's approximately two to three times more common in men than women.<br /><br />Lastly, <b>The typical age of presentation is between 40-50 years</b> isn't true as well. The typical age of onset for ankylosing spondylitis tends to be much younger than this range suggests. Most commonly, individuals present in late adolescence or early adulthood (ages 20-30). The onset after age 40 years old would be considered atypical for ankylosing spondylitis.<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Ankylosing spondylitis: features",
+        "body": "Ankylosing spondylitis is a HLA-B27 associated spondyloarthropathy. It typically presents in males (sex ratio 3:1) aged 20-30 years old.<br /><br /><span class=\"concept\" data-cid=\"11268\">Features</span><br /><ul><li>typically a young man who presents with lower back pain and stiffness of insidious onset</li><li>stiffness is usually worse in the morning and <span class=\"concept\" data-cid=\"11796\">improves with exercise</span></li><li>the patient may experience pain at night which improves on getting up</li></ul><br /><span class=\"concept\" data-cid=\"11269\">Clinical examination</span><br /><ul><li>reduced lateral flexion</li><li>reduced forward flexion - Schober's test - a line is drawn 10 cm above and 5 cm below the back dimples (dimples of Venus). The distance between the two lines should increase by more than 5 cm when the patient bends as far forward as possible</li><li>reduced chest expansion</li></ul><br />Other features - <span class=\"concept\" data-cid=\"856\">the 'A's</span> <br /><ul><li>Apical fibrosis</li><li><span class=\"concept\" data-cid=\"2662\">Anterior uveitis</span></li><li>Aortic regurgitation</li><li>Achilles tendonitis</li><li>AV node block</li><li>Amyloidosis</li><li>and cauda equina syndrome</li><li>peripheral arthritis (25%, more common if female)</li></ul>",
+        "notes_hash": "ce36d675bfefc6f3fcfb2270b58f581e",
+        "knowledge_graph_node_id_link": 1061,
+        "concept": "Ankylosing spondylitis features - the 'A's <br /><ul><li>Apical fibrosis</li><li>Anterior uveitis</li><li>Aortic regurgitation</li><li>Achilles tendonitis</li><li>AV node block</li><li>Amyloidosis</li></ul>",
+        "concept_percentile": "56",
+        "concept_colour": "rgb(224,255,0)",
+        "number_attempts": "5028",
+        "up_votes": "34",
+        "down_votes": "35",
+        "column_array": [
+            0,
+            "387",
+            "1360",
+            "2846",
+            "147",
+            "288",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1574\" data-linkid=\"1574\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1574\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_1574\" data-linkid=\"1574\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1574\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng65/chapter/Recommendations\">2017 Spondyloarthritis in over 16s: diagnosis and management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Arthritis Reasearch Council</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_405\" data-linkid=\"405\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_405\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_405\" data-linkid=\"405\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_405\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\">Ankylosing Spondylitis Patient Info</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XJZUUgrpFoo\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1276\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XJZUUgrpFoo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XJZUUgrpFoo\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1276\">Ankylosing spondylitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2255\" data-mediaid=\"2255\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2255\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2255\" data-mediaid=\"2255\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2255\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/a23A3nAaO0E\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"877\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/a23A3nAaO0E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/a23A3nAaO0E\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"877\">Ankylosing spondylitis</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1536\" data-mediaid=\"1536\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1536\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_1536\" data-mediaid=\"1536\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1536\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WVGrOgOn3v0\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1423\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/WVGrOgOn3v0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/WVGrOgOn3v0\" data-description=\"Ankylosing spondylitis\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"1423\">Ankylosing spondylitis</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2501\" data-mediaid=\"2501\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2501\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2501\" data-mediaid=\"2501\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2501\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "856": {
+                "concept_text": "Ankylosing spondylitis features - the 'A's \r\n   - Apical fibrosis\r\n   - Anterior uveitis\r\n   - Aortic regurgitation\r\n   - Achilles tendonitis\r\n   - AV node block\r\n   - Amyloidosis",
+                "concept_percentile": "56"
+            },
+            "11269": {
+                "concept_text": "Clinical findings in anylosing spondylitis include reduced chest expansion, reduced lateral flexion and reduced forward flexion (Schober's test)",
+                "concept_percentile": "74"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8587_B_25",
+        "new_question_id": "20425",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "2650",
+        "notes_id_link": "1_1865",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Reduces potassium",
+            "No change",
+            "Lowers potassium and sodium",
+            "Lowers potassium and raises sodium",
+            "Lowers potassium, sodium and calcium",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old lady is found in cardiac arrest with the following blood result:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Sodium</td><td>130mmol/l</td><td>(135-145)</td></tr><tr><td>Potassium</td><td>7.3mmol/l</td><td>(3.5-5.0)</td></tr><tr><td>Urea</td><td>9.1mmol/l</td><td>(2.5-7.0)</td></tr><tr><td>Creatinine</td><td>167mmol/l</td><td>(60-110)</td></tr></tbody></table></div><br />She is initially given IV calcium gluconate.<br /><br />What does this medication do to the electrolyte levels?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Initially the calcium gluconate is given to stabilise the membrane so the level of potassium doesn't increase.<br /><br />It is the combination of insulin and dextrose or the use of nebulised salbutamol that causes the removal of potassium from the extracellular space to the intracellular space.<br /><br />Potassium is then excreted from the body via calcium resonium.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old lady is found in cardiac arrest with the following blood result:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Sodium</td><td>130mmol/l</td><td>(135-145)</td></tr><tr><td>Potassium</td><td>7.3mmol/l</td><td>(3.5-5.0)</td></tr><tr><td>Urea</td><td>9.1mmol/l</td><td>(2.5-7.0)</td></tr><tr><td>Creatinine</td><td>167mmol/l</td><td>(60-110)</td></tr></tbody></table></div><br />She is initially given IV calcium gluconate.<br /><br />What does this medication do to the electrolyte levels?",
+        "correct_answer": "2",
+        "question_notes": "Initially the calcium gluconate is given to stabilise the membrane so the level of potassium doesn't increase.<br /><br />It is the combination of insulin and dextrose or the use of nebulised salbutamol that causes the removal of potassium from the extracellular space to the intracellular space.<br /><br />Potassium is then excreted from the body via calcium resonium.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hyperkalaemia: management",
+        "body": "Untreated hyperkalaemia may cause life-threatening arrhythmias. Precipitating factors should be addressed (e.g. acute kidney injury) and aggravating drugs stopped (e.g. ACE inhibitors). Management may be categorised by the aims of treatment<br /><br /><h5 class='notes-heading'>Staging</h5><br />The European Resuscitation Council classifies hyperkalaemia as:<br /><ul><li>mild: 5.5 - 5.9 mmol/L</li><li>moderate:  6.0 - 6.4 mmol/L </li><li>severe: <span class=\"concept\" data-cid=\"11386\">\u2265 6.5 mmol/L</span></li></ul><br />Remember that the presence of <span class=\"concept\" data-cid=\"11385\">ECG</span> changes is important in determining the management - it should be done in all patients with new hyperkalaemia. The following changes are associated with hyperkalaemia:<br /><ul><li>peaked or 'tall-tented' T waves (occurs first)</li><li>loss of P waves</li><li>broad QRS complexes</li><li>sinusoidal wave pattern</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg080c.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing severe hyperkalaemia: QRS widening and peaked T waves\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg080.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management</h5><br /><h6 class='notes-subheading'>Principles of treatment modalities</h6><br /><span class=\"concept\" data-cid=\"2650\">Stabilisation of the cardiac membrane</span><br /><ul><li>IV calcium gluconate<ul><li><span class=\"concept\" data-cid=\"3364\"> does NOT lower serum potassium levels</span></li></ul></li></ul><br /><span class=\"concept\" data-cid=\"8765\">Short-term shift in potassium from extracellular (ECF) to intracellular fluid (ICF) <br />compartment</span><br /><ul><li>combined insulin/dextrose infusion</li><li>nebulised salbutamol</li></ul><br /><span class=\"concept\" data-cid=\"11233\">Removal of potassium from the body</span><br /><ul><li>calcium resonium (orally or enema)<ul><li><span class=\"concept\" data-cid=\"3363\">enemas are more effective than oral as potassium is secreted by the rectum</span></li></ul></li><li>loop diuretics</li><li>dialysis<ul><li><span class=\"concept\" data-cid=\"2671\">haemofiltration/haemodialysis should be considered for patients with AKI with persistent hyperkalaemia</span></li></ul></li></ul><br />Newer agents<br /><ul><li><span class=\"concept\" data-cid=\"12553\">sodium zirconium cyclosilicate</span><ul><li>non-absorbed inorganic cation exchanger that selectively traps potassium ions in exchange for sodium and hydrogen in the gastrointestinal tract</li><li>acts mainly in the distal small intestine and colon, where potassium concentration is highest</li><li>unlike older resins (e.g. sodium polystyrene sulfonate/Resonium), it has better selectivity, faster onset, and improved tolerability</li></ul></li></ul><br /><h6 class='notes-subheading'>Outline of practical treatment</h6><br />All patients with <span class=\"concept\" data-cid=\"11387\">severe hyperkalaemia (\u2265 6.5 mmol/L) or with ECG changes should have emergency treatment</span><br /><ul><li><b>IV calcium gluconate</b>: to stabilise the myocardium</li><li><b>insulin/dextrose infusion</b>: short-term shift in potassium from ECF to ICF</li><li>other treatments such as nebulised salbutamol may be given to temporarily lower the serum potassium</li></ul><br />Further management<br /><ul><li>stop exacerbating drugs e.g. ACE inhibitors</li><li>treat any underlying cause</li><li>lower total body potassium<ul><li>calcium resonium</li><li>loop diuretics</li><li>dialysis</li></ul></li></ul>",
+        "notes_hash": "afb7ec77ad7183dce39cdae0fa31fac7",
+        "knowledge_graph_node_id_link": 10293,
+        "concept": "Hyperkalaemia + ECG changes: IV calcium gluconate is given first for stabilisation of the cardiac membrane",
+        "concept_percentile": "68",
+        "concept_colour": "rgb(163,255,0)",
+        "number_attempts": "5843",
+        "up_votes": "48",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "1058",
+            "4281",
+            "92",
+            "353",
+            "59",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>UK Renal Association </td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1182\" data-linkid=\"1182\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1182\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_1182\" data-linkid=\"1182\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1182\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://ukkidney.org/sites/renal.org/files/RENAL%20ASSOCIATION%20HYPERKALAEMIA%20GUIDELINE%20-%20JULY%202022%20V2_0.pdf\">Hyperkalemia: management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1181\" data-linkid=\"1181\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1181\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1181\" data-linkid=\"1181\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1181\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/hyperkalaemia-in-adults\">Management of hyperkalaemia</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"19\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Hyperkalemia.webm\" data-description=\"Hyperkalemia\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"19\">Hyperkalemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_41\" data-mediaid=\"41\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_41\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_41\" data-mediaid=\"41\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_41\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1499\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/wrij_7e5OrQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/wrij_7e5OrQ\" data-description=\"Understanding Hyperkalaemia (High Potassium)\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1499\">Understanding Hyperkalaemia (High Potassium)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2641\" data-mediaid=\"2641\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2641\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2641\" data-mediaid=\"2641\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2641\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "2650": {
+                "concept_text": "Hyperkalaemia + ECG changes: IV calcium gluconate is given first for stabilisation of the cardiac membrane",
+                "concept_percentile": "68"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

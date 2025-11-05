@@ -1,0 +1,961 @@
+[
+    {
+        "question_id": "16255_B_12",
+        "new_question_id": "27402",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "9761",
+        "notes_id_link": "1_836",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ciprofloxacin",
+            "Amoxicillin",
+            "Erythromycin",
+            "Azithromycin",
+            "Doxycycline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "One of your patients is a 74-year-old male, with a history of chronic obstructive pulmonary disease (COPD). In the past year, he has had six exacerbations, two of which required hospital admissions. <br /><br />His GP believes he could benefit from prophylactic antibiotics to reduce the frequency of COPD exacerbations.<br /><br />What is the most likely antibiotic to be prescribed in this scenario?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "NICE guidelines suggest a prescription of 250mg azithromycin three times per week if: <br /><ul><li>The patient no longer smokes.</li><li>Has optimised non-pharmacological management & inhaled therapies.</li><li>Referred to pulmonary rehab (if appropriate).</li><li>4 acute exacerbations in the last year (producing sputum), requiring hospital admission at least once.</li></ul><br />Erythromycin is the incorrect answer as the NICE guidelines specifically mention azithromycin for prophylaxis. <br /><br />Amoxicillin and doxycycline are commonly used in acute infective exacerbations alongside steroids, not for prophylaxis. <br /><br />Ciprofloxacin may be used third-line to treat COPD exacerbations. It is commonly prescribed for respiratory infections in patients who are allergic to penicillin.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "One of your patients is a 74-year-old male, with a history of chronic obstructive pulmonary disease (COPD). In the past year, he has had six exacerbations, two of which required hospital admissions. <br /><br />His GP believes he could benefit from prophylactic antibiotics to reduce the frequency of COPD exacerbations.<br /><br />What is the most likely antibiotic to be prescribed in this scenario?",
+        "correct_answer": "4",
+        "question_notes": "NICE guidelines suggest a prescription of 250mg azithromycin three times per week if: <br /><ul><li>The patient no longer smokes.</li><li>Has optimised non-pharmacological management & inhaled therapies.</li><li>Referred to pulmonary rehab (if appropriate).</li><li>4 acute exacerbations in the last year (producing sputum), requiring hospital admission at least once.</li></ul><br />Erythromycin is the incorrect answer as the NICE guidelines specifically mention azithromycin for prophylaxis. <br /><br />Amoxicillin and doxycycline are commonly used in acute infective exacerbations alongside steroids, not for prophylaxis. <br /><br />Ciprofloxacin may be used third-line to treat COPD exacerbations. It is commonly prescribed for respiratory infections in patients who are allergic to penicillin.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "COPD: stable management",
+        "body": "NICE updated its guidelines on the management of chronic obstructive pulmonary disease (COPD) in 2018.<br /><br />General management<br /><ul><li><span class=\"concept\" data-cid=\"4006\">>smoking cessation</span> advice: including offering nicotine replacement therapy, varenicline or bupropion</li><li>annual influenza vaccination</li><li>one-off pneumococcal vaccination</li><li><span class=\"concept\" data-cid=\"3990\">pulmonary rehabilitation</span> to all people who view themselves as functionally disabled by COPD (usually Medical Research Council [MRC] grade 3 and above)</li></ul><br />Bronchodilator therapy<br /><ul><li><span class=\"concept\" data-cid=\"1499\">a short-acting beta2-agonist (SABA) or short-acting muscarinic antagonist (SAMA) is first-line treatment</span></li><li>for patients who remain breathless or have exacerbations despite using short-acting bronchodilators the next step is determined by whether the patient has <i>'asthmatic features/features suggesting steroid responsiveness'</i></li></ul><br />There are a <span class=\"concept\" data-cid=\"9525\">number of criteria NICE suggest to determine whether a patient has asthmatic/steroid responsive features:</span><br /><ul><li>any previous, secure diagnosis of asthma or of atopy</li><li>a higher blood eosinophil count - note that NICE recommend a full blood count for all patients as part of the work-up</li><li>substantial variation in FEV1 over time (at least 400 ml)</li><li>substantial diurnal variation in peak expiratory flow (at least 20%)</li></ul><br />Interestingly NICE do not recommend formal reversibility testing as one of the criteria. In the guidelines they state that <i>'routine spirometric reversibility testing is not necessary as part of the diagnostic process or to plan initial therapy with bronchodilators or corticosteroids. It may be unhelpful or misleading...'</i>. They then go on to discuss why they have reached this conclusion. Please see the guidelines for more details.<br /><br />No asthmatic features/features suggesting steroid responsiveness<br /><ul><li><span class=\"concept\" data-cid=\"889\">add a long-acting beta2-agonist (LABA) + long-acting muscarinic antagonist (LAMA)</span><ul><li><span class=\"concept\" data-cid=\"7723\">if already taking a SAMA, discontinue and switch to a SABA</span></li></ul></li></ul><br />Asthmatic features/features suggesting steroid responsiveness<br /><ul><li><span class=\"concept\" data-cid=\"890\">LABA + inhaled corticosteroid (ICS)</span></li><li>if patients remain breathless or have exacerbations offer <span class=\"concept\" data-cid=\"7505\">triple therapy i.e. LAMA + LABA + ICS</span><ul><li><span class=\"concept\" data-cid=\"7723\">if already taking a SAMA, discontinue and switch to a SABA</span></li></ul></li><li>NICE recommend the use of combined inhalers where possible</li><li>NICE specifically mention the <span class=\"concept\" data-cid=\"12493\">risk of pneumonia</span> in patients with COPD using inhaled corticosteroids</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd542b.png\" data-fancybox=\"gallery\" data-caption=\"NICE 2018 COPD guidelines - simplified flowchart\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd542.png\" alt=\"\" /></a></div></div></div><br />Oral theophylline<br /><ul><li>NICE only recommends theophylline after trials of short and long-acting bronchodilators or to people who cannot used inhaled therapy</li><li>the dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed</li></ul><br />Oral prophylactic antibiotic therapy<br /><ul><li><span class=\"concept\" data-cid=\"9761\">azithromycin prophylaxis is recommended in select patients</span></li><li>patients <span class=\"concept\" data-cid=\"10638\">should not smoke</span>, have optimised standard treatments and continue to have exacerbations</li><li>other prerequisites include a CT thorax (to exclude bronchiectasis) and sputum culture (to exclude atypical infections and tuberculosis)</li><li>LFTs and an <span class=\"concept\" data-cid=\"9526\">ECG to exclude QT prolongation should also be done as azithromycin can prolong the QT interval</span></li></ul><br /><span class=\"concept\" data-cid=\"12253\">Standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics</span> to keep at home if:  <a href='https://www.nice.org.uk/guidance/ng115/chapter/Recommendations#managing-stable-copd:~:text=Offer%20people%20a%20short%20course%20of%20oral%20corticosteroids%20and%20a%20short%20course%20of%20oral%20antibiotics%20to%20keep%20at%20home%20as%20part%20of%20their%20exacerbation%20action%20plan%20if%3A' title='NICE - 2018 COPD guidelines' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>have had an exacerbation within the last year</li><li>understand how to take the medication, and are aware of associated risks and benefits</li><li>know to when to seek help and when to ask for replacements once medication has been used</li></ul><br />Mucolytics<br /><ul><li>should be 'considered' in patients with a chronic productive cough and continued if symptoms improve</li></ul><br /><span class=\"concept\" data-cid=\"12077\">Phosphodiesterase-4 (PDE-4) inhibitors</span>  <a href='https://www.nice.org.uk/guidance/ta461/chapter/1-Recommendations#:~:text=1-,Recommendations,-1.1' title='NICE - Roflumilast NICE recommendations' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a> <br /><ul><li>oral PDE-4 inhibitors such as roflumilast reduce the risk of COPD exacerbations in patients with severe COPD and a history of frequent COPD exacerbations</li><li>NICE recommend if:<ul><li>the disease is severe, defined as a forced expiratory volume in 1 second (FEV1) after a bronchodilator of less than 50% of predicted normal, and</li><li>the person has had 2 or more exacerbations in the previous 12 months despite triple inhaled therapy with a long-acting muscarinic antagonist, a long-acting beta-2 agonist and an inhaled corticosteroid</li></ul></li></ul><br />Cor pulmonale<br /><ul><li>features include peripheral oedema, raised jugular venous pressure, systolic parasternal heave, loud P2</li><li>use a loop diuretic for oedema, consider long-term oxygen therapy</li><li>ACE-inhibitors, calcium channel blockers and alpha blockers are not recommended by NICE</li></ul><br />Factors which may improve survival in patients with stable COPD<br /><ul><li>smoking cessation - the single most important intervention in patients who are still smoking </li><li>long term oxygen therapy in patients who fit criteria </li><li>lung volume reduction surgery in selected patients</li></ul>",
+        "notes_hash": "1b3e15be8109654eb018de2330833108",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Azithromycin prophylaxis is recommended in COPD patients who meet certain criteria and who continue to have exacerbations",
+        "concept_percentile": "87",
+        "concept_colour": "rgb(66,255,0)",
+        "number_attempts": "6549",
+        "up_votes": "22",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "170",
+            "637",
+            "229",
+            "4547",
+            "966",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Global Initiative for Chronic Obstructive Lung Disease</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_40\" data-linkid=\"40\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_40\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_40\" data-linkid=\"40\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_40\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">39</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://goldcopd.org/\">GOLD criteria 2017</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1362\" data-linkid=\"1362\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1362\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_1362\" data-linkid=\"1362\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1362\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">21</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations\">Roflumilast NICE recommendations</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1202\" data-linkid=\"1202\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1202\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">35</span><button type=\"button\" style=\"\" id=\"link_dislike_1202\" data-linkid=\"1202\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1202\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">33</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng115/chapter/Recommendations\">2018 COPD guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1429\" data-linkid=\"1429\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1429\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">50</span><button type=\"button\" style=\"\" id=\"link_dislike_1429\" data-linkid=\"1429\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1429\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741\">2018 COPD management diagram</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f3/Chronic_bronchitis.webm\" data-description=\"Chronic bronchitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"984\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/f/f3/Chronic_bronchitis.webm\" data-description=\"Chronic bronchitis\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"984\">Chronic bronchitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1710\" data-mediaid=\"1710\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1710\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1710\" data-mediaid=\"1710\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1710\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GGkajjvMEAQ\" data-description=\"Cor pulmonale\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1291\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GGkajjvMEAQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GGkajjvMEAQ\" data-description=\"Cor pulmonale\" data-upvotes=\"8\" data-downvotes=\"3\" data-media=\"1291\">Cor pulmonale</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2286\" data-mediaid=\"2286\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2286\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_2286\" data-mediaid=\"2286\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2286\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UQGRcg35Dmk\" data-description=\"Cor pulmonale\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"897\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/UQGRcg35Dmk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/UQGRcg35Dmk\" data-description=\"Cor pulmonale\" data-upvotes=\"7\" data-downvotes=\"3\" data-media=\"897\">Cor pulmonale</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1562\" data-mediaid=\"1562\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1562\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1562\" data-mediaid=\"1562\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1562\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XBg6hxGgyS4\" data-description=\"Understanding COPD\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1468\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XBg6hxGgyS4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XBg6hxGgyS4\" data-description=\"Understanding COPD\" data-upvotes=\"2\" data-downvotes=\"4\" data-media=\"1468\">Understanding COPD</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2588\" data-mediaid=\"2588\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2588\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2588\" data-mediaid=\"2588\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2588\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "889": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and <b>no</b> asthma/steroid responsive features --> add a LABA + LAMA",
+                "concept_percentile": "70"
+            },
+            "890": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and <b>asthma/steroid responsive features</b> --> add a LABA + ICS",
+                "concept_percentile": "50"
+            },
+            "1499": {
+                "concept_text": "A SABA or SAMA is the first-line pharmacological treatment of COPD",
+                "concept_percentile": "94"
+            },
+            "7505": {
+                "concept_text": "COPD - still breathless despite using SABA/SAMA and a LABA + ICS --> add a LAMA",
+                "concept_percentile": "60"
+            },
+            "9525": {
+                "concept_text": "Asthmatic features/features suggesting steroid responsiveness in COPD: \r\n   - previous diagnosis of asthma or atopy\r\n   - a higher blood eosinophil count\r\n   - substantial variation in FEV1 over time (at least 400 ml)\r\n   - substantial diurnal variation in peak expiratory flow (at least 20%)",
+                "concept_percentile": "79"
+            },
+            "9761": {
+                "concept_text": "Azithromycin prophylaxis is recommended in COPD patients who meet certain criteria and who continue to have exacerbations",
+                "concept_percentile": "87"
+            },
+            "12253": {
+                "concept_text": "COPD standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics to keep at home",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "887_B_1964",
+        "new_question_id": "6208",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2014",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pertussis and pneumococcus",
+            "Influenza and rubella",
+            "Influenza and pneumococcus",
+            "Influenza and pertussis",
+            "Pertussis and rubella",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old woman who is 10 weeks pregnant comes to see you for her booking appointment. She has heard there are some vaccinations offered in pregnancy and wants more information. <br /><br />Which of the following combinations of vaccinations are routinely offered to pregnant women in the UK?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This is a question about routine immunisations in pregnant women in the UK<br /><br />The correct answer is influenza and pertussis.<br /><br />The influenza vaccine is offered to all pregnant women who are pregnant during the flu season, regardless of trimester.<br /><br />The pertussis (whooping cough) vaccine has been offered to all pregnant women since October 2012. It is ideally given at 28-32 weeks but can be given up to 38 weeks and is repeated in every pregnancy. There is no individual pertussis vaccine therefore it is given in a vaccine alongside polio, diphtheria and tetanus. It was introduced due to an increasing incidence of whooping cough in babies less than 2 months old who were too young to have their pertussis vaccination.<br /><br />There is no routine vaccination programme for rubella in pregnancy in the UK, however there is an antenatal screening programme in order to test for rubella immunity. If women are found to be not immune, they cannot have the vaccination during pregnancy as it is a live vaccination.<br /><br />There is no routine vaccination programme for pneumococcus in pregnancy in the UK.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old woman who is 10 weeks pregnant comes to see you for her booking appointment. She has heard there are some vaccinations offered in pregnancy and wants more information. <br /><br />Which of the following combinations of vaccinations are routinely offered to pregnant women in the UK?",
+        "correct_answer": "4",
+        "question_notes": "This is a question about routine immunisations in pregnant women in the UK<br /><br />The correct answer is influenza and pertussis.<br /><br />The influenza vaccine is offered to all pregnant women who are pregnant during the flu season, regardless of trimester.<br /><br />The pertussis (whooping cough) vaccine has been offered to all pregnant women since October 2012. It is ideally given at 28-32 weeks but can be given up to 38 weeks and is repeated in every pregnancy. There is no individual pertussis vaccine therefore it is given in a vaccine alongside polio, diphtheria and tetanus. It was introduced due to an increasing incidence of whooping cough in babies less than 2 months old who were too young to have their pertussis vaccination.<br /><br />There is no routine vaccination programme for rubella in pregnancy in the UK, however there is an antenatal screening programme in order to test for rubella immunity. If women are found to be not immune, they cannot have the vaccination during pregnancy as it is a live vaccination.<br /><br />There is no routine vaccination programme for pneumococcus in pregnancy in the UK.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Vaccinations in special groups",
+        "body": "The table below summarises the current Green Book advice regarding the influenza and pneumococcal vaccine.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Influenza vaccination</b></th><th><b>Pneumococcal vaccination</b></th></tr></thead><tbody><tr><td>The Department of Health recommends annual influenza vaccination for people older than 65 years and those with:<br /><ul><li>chronic respiratory disease (including asthmatics who use inhaled steroids)</li><li>chronic heart disease (<span class=\"concept\" data-cid=\"8882\">heart failure</span>, ischaemic heart disease, including hypertension if associated with cardiac complications)</li><li>chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation)</li><li>chronic liver disease: cirrhosis, biliary atresia, chronic hepatitis</li><li><span class=\"concept\" data-cid=\"3182\">chronic neurological disease</span>: (e.g. Stroke/TIAs)</li><li>diabetes mellitus (including diet controlled)</li><li>immunosuppression due to disease or treatment (e.g. HIV)</li><li>asplenia or splenic dysfunction</li><li>pregnant women</li></ul><br />Other at risk individuals include:<br /><ul><li>health and social care staff directly involved in patient care (e.g. NHS staff)</li><li>those living in long-stay residential care homes</li><li>carers of the elderly or disabled person whose welfare may be at risk if the carer becomes ill (at the GP's discretion)</td><td></li></ul>The pneumococcal polysaccharide vaccine is offered to all adults over the age of 65 years and those with:<br /><ul><li>asplenia or splenic dysfunction</li><li>chronic respiratory disease: COPD, bronchiectasis, cystic fibrosis, interstitial lung disease. Asthma is only included if 'it requires the use of oral steroids at a dose sufficient to act as a significant immunosuppressant'</li><li>chronic heart disease: ischaemic heart disease if requiring medication or follow-up, <span class=\"concept\" data-cid=\"8882\">heart failure</span>, congenital heart disease. Controlled hypertension is not an indication for vaccination</li><li>chronic kidney disease (at stages 4 and 5, nephrotic syndrome, kidney transplantation)</li><li>chronic liver disease: including cirrhosis and <span class=\"concept\" data-cid=\"3183\">chronic hepatitis</span></li><li>diabetes mellitus if requiring medication</li><li>immunosuppression (either due to disease or treatment). This includes patients with any stage of HIV infection</li><li>cochlear implants</li><li>patients with cerebrospinal fluid leaks</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "0385e9c02d2651baeeba6d37be6e5198",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6193",
+        "up_votes": "10",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "629",
+            "670",
+            "1595",
+            "2455",
+            "843",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Green book</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_667\" data-linkid=\"667\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_667\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_667\" data-linkid=\"667\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_667\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://immunisation.dh.gov.uk/green-book-chapters/chapter-25/\">Pneumococcal</a></td></tr></table><br><br><table style='width:100%'><tr><td>Green book</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_668\" data-linkid=\"668\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_668\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_668\" data-linkid=\"668\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_668\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://immunisation.dh.gov.uk/green-book-chapters/chapter-19/\">Influenza</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "3183": {
+                "concept_text": "The pneumococcal vaccine should be offered to patients with chronic hepatitis",
+                "concept_percentile": "65"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_117",
+        "new_question_id": "1814",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "12031",
+        "notes_id_link": "1_1222",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Topical metronidazole",
+            "Oral isotretinoin",
+            "Oral doxycycline + topical ivermectin",
+            "Oral hydroxychloroquine",
+            "Oral prednisolone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old man is referred by his GP to the dermatology outpatient department due to a facial rash which has persisted for the past 12 months. On examination there is a symmetrical rash consisting of extensive pustules and papules which affects his nose, cheeks and forehead. What is the most appropriate treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>oral doxycycline + topical ivermectin</b>. This patient's presentation is consistent with rosacea, specifically papulopustular (type 2) rosacea. According to NICE guidelines, the first-line treatment for moderate to severe papulopustular rosacea is oral tetracyclines (such as doxycycline) combined with topical therapy. Ivermectin 1% cream has shown superior efficacy compared to other topical agents and is now recommended as a first-line topical treatment. This combination therapy addresses both the inflammatory and antimicrobial aspects of the condition.<br /><br /><b>Topical metronidazole</b> alone would be insufficient for moderate to severe rosacea. While it is an appropriate topical agent for mild cases, this patient's extensive involvement would require systemic therapy. Metronidazole gel is more suitable as monotherapy for mild cases or as an adjunct to oral therapy.<br /><br /><b>Oral isotretinoin</b> is reserved for severe cases of rosacea that have failed to respond to conventional therapy with oral antibiotics and topical treatments. It would be inappropriate as a first-line treatment due to its significant side effect profile and the need for careful monitoring.<br /><br /><b>Oral hydroxychloroquine</b> is not indicated for rosacea. It is primarily used in autoimmune conditions such as systemic lupus erythematosus and rheumatoid arthritis. There is no evidence base for its use in rosacea, and it would not address the underlying pathophysiology of the condition.<br /><br /><b>Oral prednisolone</b> would be an inappropriate choice as systemic corticosteroids can actually worsen rosacea and lead to a steroid-induced rosacea-like condition. Corticosteroids can cause rebound flares and potentially aggravate the underlying condition. They should be avoided in rosacea unless there are specific indications such as severe inflammatory episodes requiring short-term use.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old man is referred by his GP to the dermatology outpatient department due to a facial rash which has persisted for the past 12 months. On examination there is a symmetrical rash consisting of extensive pustules and papules which affects his nose, cheeks and forehead. What is the most appropriate treatment?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer is <b>oral doxycycline + topical ivermectin</b>. This patient's presentation is consistent with rosacea, specifically papulopustular (type 2) rosacea. According to NICE guidelines, the first-line treatment for moderate to severe papulopustular rosacea is oral tetracyclines (such as doxycycline) combined with topical therapy. Ivermectin 1% cream has shown superior efficacy compared to other topical agents and is now recommended as a first-line topical treatment. This combination therapy addresses both the inflammatory and antimicrobial aspects of the condition.<br /><br /><b>Topical metronidazole</b> alone would be insufficient for moderate to severe rosacea. While it is an appropriate topical agent for mild cases, this patient's extensive involvement would require systemic therapy. Metronidazole gel is more suitable as monotherapy for mild cases or as an adjunct to oral therapy.<br /><br /><b>Oral isotretinoin</b> is reserved for severe cases of rosacea that have failed to respond to conventional therapy with oral antibiotics and topical treatments. It would be inappropriate as a first-line treatment due to its significant side effect profile and the need for careful monitoring.<br /><br /><b>Oral hydroxychloroquine</b> is not indicated for rosacea. It is primarily used in autoimmune conditions such as systemic lupus erythematosus and rheumatoid arthritis. There is no evidence base for its use in rosacea, and it would not address the underlying pathophysiology of the condition.<br /><br /><b>Oral prednisolone</b> would be an inappropriate choice as systemic corticosteroids can actually worsen rosacea and lead to a steroid-induced rosacea-like condition. Corticosteroids can cause rebound flares and potentially aggravate the underlying condition. They should be avoided in rosacea unless there are specific indications such as severe inflammatory episodes requiring short-term use.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Rosacea",
+        "body": "Rosacea (sometimes referred to as acne rosacea) is a chronic skin disease of unknown aetiology.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"9910\">typically affects nose, cheeks and forehead</span></li><li><span class=\"concept\" data-cid=\"9910\">flushing is often first symptom</span></li><li><span class=\"concept\" data-cid=\"9910\">telangiectasia are common</span></li><li>later develops into <span class=\"concept\" data-cid=\"9910\">persistent erythema with papules and pustules</span></li><li>rhinophyma</li><li>ocular involvement: blepharitis</li><li><span class=\"concept\" data-cid=\"2383\">sunlight may exacerbate symptoms</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea - showing papules, pustules and erythema. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd936.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd033.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034b.jpg\" data-fancybox=\"gallery\" data-caption=\"Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd034.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rhinophyma - a late complication of severe rosacea. Image used on license from DermNet NZ\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd012.jpg\" alt=\"\" /></a></div></div><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990b.jpg\" data-fancybox=\"gallery\" data-caption=\"Rosacea over the cheeks and nose\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd990.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li>simple measures<ul><li>recommend daily application of a high-factor sunscreen</li><li>camouflage creams may help conceal redness</li></ul></li><li>predominant erythema/flushing #link20 <ul><li><span class=\"concept\" data-cid=\"10242\">topical brimonidine gel may be considered for patients with predominant flushing but limited telangiectasia</span> </li><li>brimonidine is a topical alpha-adrenergic agonist</li><li>this can be used on an 'as required basis' to temporarily reduce redness</li><li>it typically reduces redness within 30 minutes, reaching peak action at 3-6 hours, after which the redness returns to the baseline</li></ul></li><li>mild-to-moderate papules and/or pustules #link21<ul><li><span class=\"concept\" data-cid=\"12030\">topical ivermectin</span> is first-line </li><li>alternatives include: topical metronidazole or topical azelaic acid</li></ul></li><li>moderate-to-severe papules and/or pustules #link23 <ul><li><span class=\"concept\" data-cid=\"12031\">combination of topical ivermectin +  oral doxycycline</span> </li></ul></li></ul><br />Referral should be considered if #link22 <br /><ul><li>symptoms have not improved with optimal management in primary care<ul><li><span class=\"concept\" data-cid=\"1544\">laser therapy may be appropriate for patients with prominent telangiectasia</span></li></ul></li><li><span class=\"concept\" data-cid=\"10245\">patients with a rhinophyma </span></li></ul>",
+        "notes_hash": "c59cd8382a80c7800d340932344907c0",
+        "knowledge_graph_node_id_link": 1500,
+        "concept": "Rosacea: a combination of topical ivermectin +  oral doxycycline is first-line for patients with severe papules and/or pustules",
+        "concept_percentile": "90",
+        "concept_colour": "rgb(50,255,0)",
+        "number_attempts": "5625",
+        "up_votes": "32",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "651",
+            "667",
+            "3974",
+            "111",
+            "222",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_956\" data-linkid=\"956\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_956\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_956\" data-linkid=\"956\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_956\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">24</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/rosacea-and-acne.html\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1294\" data-linkid=\"1294\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1294\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1294\" data-linkid=\"1294\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1294\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">18</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rhinophyma/\">Rhinophyma</a></td></tr></table><br><br><table style='width:100%'><tr><td>Dermnet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_528\" data-linkid=\"528\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_528\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_528\" data-linkid=\"528\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_528\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/rosacea/\">Acne rosacea</a></td></tr></table><br><br><table style='width:100%'><tr><td>Primary Care Dermatology Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1560\" data-linkid=\"1560\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1560\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">31</span><button type=\"button\" style=\"\" id=\"link_dislike_1560\" data-linkid=\"1560\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1560\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.pcds.org.uk/clinical-guidance/rosacea\">Rosacea review</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "9910": {
+                "concept_text": "Rosacea features:\n   - nose, cheeks and forehead\n   - flushing, erythema, telangiectasia --> papules and pustules",
+                "concept_percentile": "45"
+            },
+            "12030": {
+                "concept_text": "Rosacea: topical ivermectin is first-line for patients mild papules and/or pustules",
+                "concept_percentile": "91"
+            },
+            "12031": {
+                "concept_text": "Rosacea: a combination of topical ivermectin +  oral doxycycline is first-line for patients with severe papules and/or pustules",
+                "concept_percentile": "90"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_440",
+        "new_question_id": "8434",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "0",
+        "notes_id_link": "1_416",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Worsening of depressive symptoms",
+            "Increased risk of severe skin reactions",
+            "Increased risk of serotonin syndrome",
+            "Increased risk of venous thromboembolism",
+            "Reduced effectiveness of combined oral contraceptive pill",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old female with a history of depression is reviewed. She is currently taking St John's Wort which she bought from the local health food shop and a combined oral contraceptive pill. What is the most likely effect of taking both medications concurrently?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>reduced effectiveness of combined oral contraceptive pill</b>. St John's Wort is an herbal remedy often used to treat mild to moderate depression. It is known to interact with various medications, including the combined oral contraceptive pill (COCP). The interaction between St John's Wort and COCP occurs due to the induction of hepatic enzymes like cytochrome P450, which can increase the metabolism and clearance of ethinylestradiol and progestogens found in COCPs. This leads to reduced blood levels of these hormones, ultimately decreasing the effectiveness of the contraceptive pill and increasing the risk of unintended pregnancy.<br /><br /><b>Worsening of depressive symptoms</b> is not a likely effect when taking both medications concurrently. In fact, St John's Wort may help improve depressive symptoms for some individuals. However, it should be noted that if a patient has severe depression or does not respond well to St John's Wort, they may require a different antidepressant medication.<br /><br /><b>Increased risk of severe skin reactions</b> is also not a likely effect when taking both medications concurrently. While some medications are associated with an increased risk of skin reactions (e.g., Stevens-Johnson syndrome), neither St John's Wort nor COCPs are commonly linked with this adverse event.<br /><br />The combination does not lead to an <b>increased risk of serotonin syndrome</b>. Serotonin syndrome is typically caused by the use of multiple serotonergic drugs together or an overdose of one such drug. While St John's Wort has serotonergic properties, COCPs do not affect serotonin levels directly; thus, their concurrent use would not increase the risk for serotonin syndrome.<br /><br />Lastly, there is no evidence that using St John's Wort alongside COCPs increases the <b>risk of venous thromboembolism (VTE)</b>. VTE risk can be elevated by certain factors, such as obesity, smoking, and immobility. While COCPs are known to slightly increase the risk of VTE on their own, St John's Wort has not been shown to have any significant effect on VTE risk when used concurrently with COCPs.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old female with a history of depression is reviewed. She is currently taking St John's Wort which she bought from the local health food shop and a combined oral contraceptive pill. What is the most likely effect of taking both medications concurrently?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>reduced effectiveness of combined oral contraceptive pill</b>. St John's Wort is an herbal remedy often used to treat mild to moderate depression. It is known to interact with various medications, including the combined oral contraceptive pill (COCP). The interaction between St John's Wort and COCP occurs due to the induction of hepatic enzymes like cytochrome P450, which can increase the metabolism and clearance of ethinylestradiol and progestogens found in COCPs. This leads to reduced blood levels of these hormones, ultimately decreasing the effectiveness of the contraceptive pill and increasing the risk of unintended pregnancy.<br /><br /><b>Worsening of depressive symptoms</b> is not a likely effect when taking both medications concurrently. In fact, St John's Wort may help improve depressive symptoms for some individuals. However, it should be noted that if a patient has severe depression or does not respond well to St John's Wort, they may require a different antidepressant medication.<br /><br /><b>Increased risk of severe skin reactions</b> is also not a likely effect when taking both medications concurrently. While some medications are associated with an increased risk of skin reactions (e.g., Stevens-Johnson syndrome), neither St John's Wort nor COCPs are commonly linked with this adverse event.<br /><br />The combination does not lead to an <b>increased risk of serotonin syndrome</b>. Serotonin syndrome is typically caused by the use of multiple serotonergic drugs together or an overdose of one such drug. While St John's Wort has serotonergic properties, COCPs do not affect serotonin levels directly; thus, their concurrent use would not increase the risk for serotonin syndrome.<br /><br />Lastly, there is no evidence that using St John's Wort alongside COCPs increases the <b>risk of venous thromboembolism (VTE)</b>. VTE risk can be elevated by certain factors, such as obesity, smoking, and immobility. While COCPs are known to slightly increase the risk of VTE on their own, St John's Wort has not been shown to have any significant effect on VTE risk when used concurrently with COCPs.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "St John's Wort",
+        "body": "Overview<br /><ul><li>shown to be as effective as tricyclic antidepressants in the treatment of mild-moderate depression</li><li>mechanism: thought to be similar to SSRIs (although noradrenaline uptake inhibition has also been demonstrated)</li><li>NICE advise 'may be of benefit in mild or moderate depression, but its use should not be prescribed or advised because of uncertainty about appropriate doses, variation in the nature of preparations, and potential serious interactions with other drugs'</li></ul><br /><br />Adverse effects <br /><ul><li>profile in trials similar to placebo</li><li>can cause serotonin syndrome</li><li><span class=\"concept\" data-cid=\"9505\">inducer of P450 system</span>, therefore decreased levels of drugs such as warfarin, ciclosporin. The effectiveness of the combined oral contraceptive pill may also be reduced</li></ul>",
+        "notes_hash": "f9d95643630b762eacb1c8cd32d9eb3a",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4900",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "67",
+            "20",
+            "372",
+            "426",
+            "4015",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_872\" data-linkid=\"872\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_872\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_872\" data-linkid=\"872\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_872\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg90/chapter/1-guidance\">2009 Depression guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4564_B_59",
+        "new_question_id": "15552",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "3884",
+        "notes_id_link": "1_1890",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Stop ramipril immediately",
+            "Half ramipril dose and check urea and electrolytes in 2 weeks",
+            "Continue current dose of ramipril - no further monitoring needed",
+            "Half ramipril dose no further monitoring needed",
+            "Continue current dose of ramipril and check urea and electrolytes at 3 months",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old male patient comes to discuss his blood test results with you. He started on ramipril 6 weeks ago and blood pressure has been well controlled. His baseline creatinine was 90 \u00b5mol/L. His most recent creatinine level has come back at 114 \u00b5mol/L and he was worried about the effect this may be having on his kidneys.<br /><br />What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is to continue current dose of ramipril and recheck urea and electrolytes at 3 months as per the normal monitoring schedule. An increase in serum creatinine up to 30% from baseline is acceptable and this patient has experienced an increase of less than 30%.<br /><br />Due to the risk of hyperkalaemia and raised creatinine, urea and electrolytes should be checked at baseline, 2 weeks after starting treatment and 2 weeks after each dose change. Once a maintenance dose has been established urea and electrolytes should be checked at 1, 3 and 6 months.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old male patient comes to discuss his blood test results with you. He started on ramipril 6 weeks ago and blood pressure has been well controlled. His baseline creatinine was 90 \u00b5mol/L. His most recent creatinine level has come back at 114 \u00b5mol/L and he was worried about the effect this may be having on his kidneys.<br /><br />What is the most appropriate management?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is to continue current dose of ramipril and recheck urea and electrolytes at 3 months as per the normal monitoring schedule. An increase in serum creatinine up to 30% from baseline is acceptable and this patient has experienced an increase of less than 30%.<br /><br />Due to the risk of hyperkalaemia and raised creatinine, urea and electrolytes should be checked at baseline, 2 weeks after starting treatment and 2 weeks after each dose change. Once a maintenance dose has been established urea and electrolytes should be checked at 1, 3 and 6 months.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "ACE inhibitors",
+        "body": "Angiotensin-converting enzyme (ACE) inhibitors are now the established first-line treatment in younger patients with hypertension and are also extensively used to treat heart failure. They are known to be less effective in treating hypertensive Afro-Caribbean patients. ACE inhibitors are also used to treat diabetic nephropathy and have a role in the secondary prevention of ischaemic heart disease.<br /><br />Mechanism of action:<br /><ul><li>inhibits the conversion angiotensin I to angiotensin II<ul><li>&rarr; decrease in angiotensin II levels &rarr; to vasodilation and reduced blood pressure</li><li>&rarr; decrease in angiotensin II levels &rarr; reduced stimulation for aldosterone release &rarr; decrease in sodium and water retention by the kidneys</li></ul></li><li>renoprotective mechanism<ul><li>angiotensin II constricts the efferent glomerular arterioles </li><li>ACE inhibitors therefore lead to <span class=\"concept\" data-cid=\"12098\">dilation of the efferent arterioles</span> &rarr; reduced glomerular capillary pressure &rarr; decreased mechanical stress on the delicate filtration barriers of the glomeruli</li><li>this is particularly important in diabetic nephropathy</li></ul></li><li><span class=\"concept\" data-cid=\"5284\">ACE inhibitors are activated by phase 1 metabolism in the liver </span></li></ul><br />Side-effects:<br /><ul><li>cough<ul><li>occurs in around 15% of patients and may occur up to a year after starting treatment</li><li>thought to be due to <span class=\"concept\" data-cid=\"2034\">increased bradykinin levels</span></li></ul></li><li><span class=\"concept\" data-cid=\"2270\">angioedema</span>: may occur up to a year after starting treatment</li><li><span class=\"concept\" data-cid=\"5266\">hyperkalaemia</span></li><li>first-dose hypotension: more common in patients taking diuretics</li></ul><br />Cautions and contraindications<br /><ul><li><span class=\"concept\" data-cid=\"3346\">pregnancy</span> and breastfeeding - avoid</li><li><span class=\"concept\" data-cid=\"10496\">renovascular disease</span> - may result in renal impairment</li><li><span class=\"concept\" data-cid=\"3361\">aortic stenosis</span> - may result in hypotension</li><li>hereditary of idiopathic angioedema</li><li><span class=\"concept\" data-cid=\"10244\">specialist advice should be sought before starting ACE inhibitors in patients with a potassium >= 5.0 mmol/L</span></li></ul><br />Interactions<br /><ul><li>patients receiving high-dose diuretic therapy (more than 80 mg of furosemide a day)<ul><li>significantly increases the risk of hypotension</li></ul></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"3883\">urea and electrolytes should be checked before treatment is initiated and after increasing the dose</span><ul><li>a rise in the creatinine and potassium may be expected after starting ACE inhibitors</li><li><span class=\"concept\" data-cid=\"3884\">acceptable changes are an increase in serum creatinine, up to 30% from baseline</span> and an increase in potassium up to 5.5 mmol/l.</li><li>significant renal impairment may occur in patients who have undiagnosed <span class=\"concept\" data-cid=\"10906\">bilateral renal artery stenosis</span></li></ul></li></ul><br />Examples of common ACE inhibitors<br /><ul><li>ramipril</li><li>enalapril</li><li>lisinopril</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div>",
+        "notes_hash": "b9bc8382b304704c258a375c1f412b6c",
+        "knowledge_graph_node_id_link": 10620,
+        "concept": "An increase in serum creatinine up to 30% from baseline is acceptable when initiating ACE inhibitor treatment",
+        "concept_percentile": "83",
+        "concept_colour": "rgb(86,255,0)",
+        "number_attempts": "5515",
+        "up_votes": "47",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "637",
+            "630",
+            "899",
+            "6",
+            "3343",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_471\" data-linkid=\"471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">63</span><button type=\"button\" style=\"\" id=\"link_dislike_471\" data-linkid=\"471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">41</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg182/chapter/1-recommendations\">2014 Chronic kidney disease guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1747\" data-linkid=\"1747\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1747\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">62</span><button type=\"button\" style=\"\" id=\"link_dislike_1747\" data-linkid=\"1747\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1747\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug-class/angiotensin-converting-enzyme-inhibitors.html\">ACE inhibitors</a></td></tr></table>",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2270": {
+                "concept_text": "Drug-induced angioedema without urticaria is most frequently associated with angiotensin converting enzyme inhibitors or, less frequently, angiotensin II receptor blockers",
+                "concept_percentile": "91"
+            },
+            "3883": {
+                "concept_text": "Urea and electrolytes should be checked at baseline, within two weeks of initiation and after any change of dose. They should be rechecked at 1, 3, and 6 months after establishing maintenance dose",
+                "concept_percentile": "37"
+            },
+            "3884": {
+                "concept_text": "An increase in serum creatinine up to 30% from baseline is acceptable when initiating ACE inhibitor treatment",
+                "concept_percentile": "83"
+            },
+            "5266": {
+                "concept_text": "ACE inhibitor causes hyperkalaemia ",
+                "concept_percentile": "57"
+            },
+            "10496": {
+                "concept_text": "ACE inhibitors - contraindicated in patients with renovascular disease",
+                "concept_percentile": "77"
+            },
+            "10906": {
+                "concept_text": "After starting an ACE inhibitor, significant renal impairment may occur if the patient has undiagnosed bilateral renal artery stenosis",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_582",
+        "new_question_id": "3798",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_165",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Clopidogrel",
+            "Atorvastatin",
+            "Carbamazepine",
+            "Atenolol",
+            "Phenytoin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old man with a history of epilepsy and ischaemic heart disease is seen in clinic with a 3 month history of lethargy. Blood tests are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Hb</td><td>9.6 g/dl</td></tr><tr><td>MCV</td><td>123 fl</td></tr><tr><td>Plt</td><td>164 * 10<sup>9</sup>/l</td></tr><tr><td>WCC</td><td>4.6 *10<sup>9</sup>/l</td></tr></tbody></table></div><br />Which one of his medications is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Phenytoin</b>. Phenytoin, an antiepileptic drug, is known to cause megaloblastic anaemia, which is characterised by a high mean corpuscular volume (MCV) and a low haemoglobin (Hb) level. This patient's blood results show an MCV of 123 fl (normal range: 80-100 fl) and a Hb level of 9.6 g/dl (normal range for men: 13.5 to 17.5 g/dl), both of which are consistent with megaloblastic anaemia.<br /><br />Now let's examine the incorrect options:<br /><br /><b>Clopidogrel</b> is an antiplatelet medication used in the management of ischaemic heart disease to reduce the risk of thrombotic events. While it can cause bleeding due to its antiplatelet effect, it does not typically cause anaemia or alter the MCV.<br /><br /><b>Atorvastatin</b>, a statin used for managing hypercholesterolemia and reducing cardiovascular risk, can lead to muscle-related side effects but it does not have any significant impact on red blood cell indices.<br /><br /><b>Carbamazepine</b>, another antiepileptic drug, can cause aplastic anaemia or agranulocytosis in rare cases, but these conditions would typically present with pancytopenia (low counts of all three types of blood cells: red cells, white cells and platelets), which this patient does not have.<br /><br />Lastly, <b>Atenolol</b>, a beta blocker used in managing hypertension and angina, has no known haematological side effects.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old man with a history of epilepsy and ischaemic heart disease is seen in clinic with a 3 month history of lethargy. Blood tests are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Hb</td><td>9.6 g/dl</td></tr><tr><td>MCV</td><td>123 fl</td></tr><tr><td>Plt</td><td>164 * 10<sup>9</sup>/l</td></tr><tr><td>WCC</td><td>4.6 *10<sup>9</sup>/l</td></tr></tbody></table></div><br />Which one of his medications is most likely to be responsible?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Phenytoin</b>. Phenytoin, an antiepileptic drug, is known to cause megaloblastic anaemia, which is characterised by a high mean corpuscular volume (MCV) and a low haemoglobin (Hb) level. This patient's blood results show an MCV of 123 fl (normal range: 80-100 fl) and a Hb level of 9.6 g/dl (normal range for men: 13.5 to 17.5 g/dl), both of which are consistent with megaloblastic anaemia.<br /><br />Now let's examine the incorrect options:<br /><br /><b>Clopidogrel</b> is an antiplatelet medication used in the management of ischaemic heart disease to reduce the risk of thrombotic events. While it can cause bleeding due to its antiplatelet effect, it does not typically cause anaemia or alter the MCV.<br /><br /><b>Atorvastatin</b>, a statin used for managing hypercholesterolemia and reducing cardiovascular risk, can lead to muscle-related side effects but it does not have any significant impact on red blood cell indices.<br /><br /><b>Carbamazepine</b>, another antiepileptic drug, can cause aplastic anaemia or agranulocytosis in rare cases, but these conditions would typically present with pancytopenia (low counts of all three types of blood cells: red cells, white cells and platelets), which this patient does not have.<br /><br />Lastly, <b>Atenolol</b>, a beta blocker used in managing hypertension and angina, has no known haematological side effects.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Phenytoin",
+        "body": "Phenytoin is used in the management of seizures.<br /><br />Mechanism of action<br /><ul><li><span class=\"concept\" data-cid=\"6341\">binds to sodium channels increasing their refractory period</span></li></ul><br /><h5 class='notes-heading'>Adverse effects</h5><br />Phenytoin is associated with a large number of adverse effects. These may be divided into acute, chronic, idiosyncratic and teratogenic. <span class=\"concept\" data-cid=\"5034\">Phenytoin is also an inducer of the P450 system</span>.<br /><br />Acute<br /><ul><li>initially: <span class=\"concept\" data-cid=\"6326\">dizziness</span>, <span class=\"concept\" data-cid=\"6327\">diplopia</span>, <span class=\"concept\" data-cid=\"6328\">nystagmus</span>, <span class=\"concept\" data-cid=\"6329\">slurred speech</span>, <span class=\"concept\" data-cid=\"6330\">ataxia</span></li><li>later: <span class=\"concept\" data-cid=\"6342\">confusion</span>, seizures</li></ul><br />Chronic<br /><ul><li>common: <span class=\"concept\" data-cid=\"6331\">gingival hyperplasia</span> (secondary to increased expression of platelet derived growth factor, PDGF), <span class=\"concept\" data-cid=\"6332\">hirsutism</span>, <span class=\"concept\" data-cid=\"6333\">coarsening of facial features</span>, drowsiness</li><li><span class=\"concept\" data-cid=\"6334\">megaloblastic anaemia</span> (secondary to altered folate metabolism)</li><li><span class=\"concept\" data-cid=\"6335\">peripheral neuropathy</span></li><li>enhanced vitamin D metabolism causing <span class=\"concept\" data-cid=\"6336\">osteomalacia</span></li><li><span class=\"concept\" data-cid=\"3671\">lymphadenopathy</span></li><li><span class=\"concept\" data-cid=\"6344\">dyskinesia</span></li></ul><br />Idiosyncratic<br /><ul><li><span class=\"concept\" data-cid=\"6337\">fever</span></li><li>rashes, including severe reactions such as <span class=\"concept\" data-cid=\"6338\">toxic epidermal necrolysis</span></li><li><span class=\"concept\" data-cid=\"6339\">hepatitis</span></li><li>Dupuytren's contracture*</li><li><span class=\"concept\" data-cid=\"6340\">aplastic anaemia</span></li><li>drug-induced lupus</li></ul><br />Teratogenic<br /><ul><li>associated with <span class=\"concept\" data-cid=\"6340\">cleft palate and congenital heart disease</span></li></ul><br /><h5 class='notes-heading'>Monitoring</h5><br />Phenytoin levels do not need to be monitored routinely but <b>trough levels, immediately before dose</b> should be checked if:<br /><ul><li>adjustment of phenytoin dose</li><li>suspected toxicity</li><li>detection of non-adherence to the prescribed medication</li></ul><br />*although not listed in the BNF",
+        "notes_hash": "5c23af28c1ae457428c3c546c410a6cd",
+        "knowledge_graph_node_id_link": 10647,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5558",
+        "up_votes": "36",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "204",
+            "109",
+            "1985",
+            "48",
+            "3212",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_391\" data-linkid=\"391\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_391\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_391\" data-linkid=\"391\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_391\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug/phenytoin.html\">Phenytoin</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "5034": {
+                "concept_text": "Phenytoin is a P450 enzyme inducer",
+                "concept_percentile": "16"
+            },
+            "6326": {
+                "concept_text": "Phenytoin may cause dizziness",
+                "concept_percentile": "1"
+            },
+            "6327": {
+                "concept_text": "Phenytoin may cause diplopia",
+                "concept_percentile": "2"
+            },
+            "6328": {
+                "concept_text": "Phenytoin may cause nystagmus",
+                "concept_percentile": "2"
+            },
+            "6329": {
+                "concept_text": "Phenytoin may cause slurred speech",
+                "concept_percentile": "4"
+            },
+            "6330": {
+                "concept_text": "Phenytoin may cause ataxia",
+                "concept_percentile": "1"
+            },
+            "6331": {
+                "concept_text": "Phenytoin may cause gingival hyperplasia",
+                "concept_percentile": "12"
+            },
+            "6332": {
+                "concept_text": "Phenytoin may cause hirsutism",
+                "concept_percentile": "7"
+            },
+            "6333": {
+                "concept_text": "Phenytoin may cause coarsening of facial features",
+                "concept_percentile": "2"
+            },
+            "6334": {
+                "concept_text": "Phenytoin may cause megaloblastic anaemia",
+                "concept_percentile": "12"
+            },
+            "6335": {
+                "concept_text": "Phenytoin may cause peripheral neuropathy",
+                "concept_percentile": "20"
+            },
+            "6336": {
+                "concept_text": "Phenytoin may cause osteomalacia",
+                "concept_percentile": "3"
+            },
+            "6337": {
+                "concept_text": "Phenytoin may cause fever",
+                "concept_percentile": "1"
+            },
+            "6338": {
+                "concept_text": "Phenytoin may cause toxic epidermal necrolysis",
+                "concept_percentile": "8"
+            },
+            "6339": {
+                "concept_text": "Phenytoin may cause hepatotoxicity",
+                "concept_percentile": "15"
+            },
+            "6340": {
+                "concept_text": "Phenytoin may cause myelosuppression/agranulocytosis",
+                "concept_percentile": "12"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "6542_B_102",
+        "new_question_id": "26134",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "626",
+        "notes_id_link": "1_309",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Low FSH/LH, low testosterone",
+            "Low FSH/LH, raised testosterone",
+            "Raised FSH/LH, low testosterone",
+            "Raised FSH/LH, raised testosterone",
+            "Raised LH, low FSH, low testosterone",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 16-year-old boy is seen in the endocrine clinic as he is yet to start puberty. In view of a  absent sense of smell since birth, a diagnosis of Kallman's syndrome is suspected. <br /><br />What would you expect to see on the patient's blood results?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Low FSH/LH and low testosterone is correct. In normal physiology, the hypothalamus produces GnRH, GnRH then stimulates LH and FSH production from the anterior pituitary, and FSH/LH go on to stimulate testosterone from the testes. Kallman's syndrome is caused by a failure of the embryonic development of olfactory nerve fibres, which in turn prevents the normal embryonic migration of nerves that produce gonadotrophin releasing hormone (GnRH) from the olfactory region to the hypothalamus. Accordingly, the absence of GnRH producing cells in Kallman's syndrome means there is no downstream stimulation of LH/FSH production and therefore no stimulation of testosterone production. Further, failure of olfactory nerve development causes a reduced or absent sense of smell, which is characteristic for Kallman's syndrome. <br /><br />Low FSH/LH, raised testosterone is incorrect. FSH/LH stimulate testosterone production from the gonads, hence one would expect low testosterone with low FSH/LH in normal physiology. <br /><br />Raised LH, low FSH, low testosterone is incorrect. The absence of GnRH in Kallman's syndrome would cause a low LH, as explained above. <br /><br />Raised FSH/LH, low testosterone is incorrect. The absence of GnRH in Kallman's syndrome would lead to a low FSH/LH. <br /><br />Raised FSH/LH, raised testosterone is incorrect. Without GnRH production, FSH/LH and therefore testosterone, would be low.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 16-year-old boy is seen in the endocrine clinic as he is yet to start puberty. In view of a  absent sense of smell since birth, a diagnosis of Kallman's syndrome is suspected. <br /><br />What would you expect to see on the patient's blood results?",
+        "correct_answer": "1",
+        "question_notes": "Low FSH/LH and low testosterone is correct. In normal physiology, the hypothalamus produces GnRH, GnRH then stimulates LH and FSH production from the anterior pituitary, and FSH/LH go on to stimulate testosterone from the testes. Kallman's syndrome is caused by a failure of the embryonic development of olfactory nerve fibres, which in turn prevents the normal embryonic migration of nerves that produce gonadotrophin releasing hormone (GnRH) from the olfactory region to the hypothalamus. Accordingly, the absence of GnRH producing cells in Kallman's syndrome means there is no downstream stimulation of LH/FSH production and therefore no stimulation of testosterone production. Further, failure of olfactory nerve development causes a reduced or absent sense of smell, which is characteristic for Kallman's syndrome. <br /><br />Low FSH/LH, raised testosterone is incorrect. FSH/LH stimulate testosterone production from the gonads, hence one would expect low testosterone with low FSH/LH in normal physiology. <br /><br />Raised LH, low FSH, low testosterone is incorrect. The absence of GnRH in Kallman's syndrome would cause a low LH, as explained above. <br /><br />Raised FSH/LH, low testosterone is incorrect. The absence of GnRH in Kallman's syndrome would lead to a low FSH/LH. <br /><br />Raised FSH/LH, raised testosterone is incorrect. Without GnRH production, FSH/LH and therefore testosterone, would be low.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Kallmann's syndrome",
+        "body": "Kallmann's syndrome is a recognised cause of delayed puberty secondary to hypogonadotropic hypogonadism. It is usually inherited as an X-linked recessive trait. Kallmann's syndrome is thought to be caused by <span class=\"concept\" data-cid=\"10397\">failure of GnRH-secreting neurons to migrate to the hypothalamus</span>.<br /><br />The clue given in many questions is lack of smell (anosmia) in a boy with delayed puberty.<br /><br />Features<br /><ul><li>'delayed puberty'</li><li>hypogonadism, cryptorchidism</li><li><span class=\"concept\" data-cid=\"1738\">anosmia</span></li><li>sex hormone levels are low</li><li><span class=\"concept\" data-cid=\"626\">LH, FSH levels are inappropriately low/normal</span></li><li>patients are typically of normal or above-average height</li></ul><br />Cleft lip/palate and visual/hearing defects are also seen in some patients<br /><br />Management<br /><ul><li>testosterone supplementation</li><li>gonadotrophin supplementation may result in sperm production if fertility is desired later in life</li></ul>",
+        "notes_hash": "8914d129bd735ec519856356c861df87",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Kallman's syndrome - LH & FSH low-normal and testosterone is low",
+        "concept_percentile": "55",
+        "concept_colour": "rgb(229,255,0)",
+        "number_attempts": "6658",
+        "up_votes": "23",
+        "down_votes": "5",
+        "column_array": [
+            0,
+            "3475",
+            "362",
+            "2445",
+            "105",
+            "271",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OU6kUc253B8\" data-description=\"Kallman's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"429\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/OU6kUc253B8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/OU6kUc253B8\" data-description=\"Kallman's syndrome\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"429\">Kallman's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_743\" data-mediaid=\"743\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_743\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_743\" data-mediaid=\"743\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_743\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C6EsDLvIr1M\" data-description=\"Kallmann Syndrome mnemonic\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"685\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/C6EsDLvIr1M/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C6EsDLvIr1M\" data-description=\"Kallmann Syndrome mnemonic\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"685\">Kallmann Syndrome mnemonic</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1181\" data-mediaid=\"1181\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1181\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1181\" data-mediaid=\"1181\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1181\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "626": {
+                "concept_text": "Kallman's syndrome - LH & FSH low-normal and testosterone is low",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2083",
+        "new_question_id": "3266",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1549",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Tranexamic acid or NSAID",
+            "Norethisterone",
+            "Intrauterine device",
+            "Fibrinogen",
+            "Endometrial ablation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 32-year-old woman with heavy menstrual bleeding has been offered an intrauterine system. She declines because she has previously found that hormonal therapies adversely affect her mood. What is the next best treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Tranexamic acid or NSAID</b>. According to NICE guidelines for heavy menstrual bleeding, after discussing the benefits of levonorgestrel-releasing intrauterine systems (LNG-IUS), if this is unsuitable or declined, tranexamic acid or NSAIDs should be offered as the first-line pharmaceutical treatment. These medications are effective, non-hormonal options that can reduce menstrual blood loss by up to 50%. Tranexamic acid works by inhibiting fibrinolysis, whilst NSAIDs reduce prostaglandin synthesis and subsequent blood loss.<br /><br /><b>Norethisterone</b> is incorrect as this is a hormonal therapy. Since the patient has specifically declined hormonal treatment due to mood effects, this would not be an appropriate choice. Additionally, oral progestogens are less effective than tranexamic acid or NSAIDs for managing heavy menstrual bleeding.<br /><br /><b>Intrauterine device</b> (copper) is incorrect as this would likely worsen the patient's heavy menstrual bleeding. Copper IUDs are known to increase menstrual blood loss and are therefore contraindicated in women with menorrhagia.<br /><br /><b>Fibrinogen</b> is incorrect as this is not a treatment for heavy menstrual bleeding. Fibrinogen replacement would only be indicated in cases of severe bleeding with documented hypofibrinogenaemia, such as in disseminated intravascular coagulation or severe trauma.<br /><br /><b>Endometrial ablation</b> is incorrect at this stage. While it can be very effective for heavy menstrual bleeding, it is considered a second-line treatment after medical management has failed. It is also a permanent solution that affects fertility, and less invasive options should be tried first in accordance with NICE guidelines.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 32-year-old woman with heavy menstrual bleeding has been offered an intrauterine system. She declines because she has previously found that hormonal therapies adversely affect her mood. What is the next best treatment?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Tranexamic acid or NSAID</b>. According to NICE guidelines for heavy menstrual bleeding, after discussing the benefits of levonorgestrel-releasing intrauterine systems (LNG-IUS), if this is unsuitable or declined, tranexamic acid or NSAIDs should be offered as the first-line pharmaceutical treatment. These medications are effective, non-hormonal options that can reduce menstrual blood loss by up to 50%. Tranexamic acid works by inhibiting fibrinolysis, whilst NSAIDs reduce prostaglandin synthesis and subsequent blood loss.<br /><br /><b>Norethisterone</b> is incorrect as this is a hormonal therapy. Since the patient has specifically declined hormonal treatment due to mood effects, this would not be an appropriate choice. Additionally, oral progestogens are less effective than tranexamic acid or NSAIDs for managing heavy menstrual bleeding.<br /><br /><b>Intrauterine device</b> (copper) is incorrect as this would likely worsen the patient's heavy menstrual bleeding. Copper IUDs are known to increase menstrual blood loss and are therefore contraindicated in women with menorrhagia.<br /><br /><b>Fibrinogen</b> is incorrect as this is not a treatment for heavy menstrual bleeding. Fibrinogen replacement would only be indicated in cases of severe bleeding with documented hypofibrinogenaemia, such as in disseminated intravascular coagulation or severe trauma.<br /><br /><b>Endometrial ablation</b> is incorrect at this stage. While it can be very effective for heavy menstrual bleeding, it is considered a second-line treatment after medical management has failed. It is also a permanent solution that affects fertility, and less invasive options should be tried first in accordance with NICE guidelines.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Heavy menstrual bleeding: management",
+        "body": "Heavy menstrual bleeding (also known as menorrhagia) was previously defined as total blood loss > 80 ml per menses, but it is obviously difficult to quantify. The management has therefore shifted towards what the woman considers to be excessive. Prior to the 1990's many women underwent a hysterectomy to treat heavy periods but since that time the approach has altered radically. The management of menorrhagia now depends on whether a woman needs contraception. <br /><br />Investigations<br /><ul><li>a <span class=\"concept\" data-cid=\"2566\">full blood count</span> should be performed in all women</li><li>NICE recommend arranging a routine transvaginal <span class=\"concept\" data-cid=\"338\">ultrasound scan</span> if symptoms (for example, intermenstrual or postcoital bleeding, pelvic pain and/or pressure symptoms) suggest a structural or histological abnormality. Other indications include abnormal pelvic exam findings.</li></ul><br />Does not require contraception<br /><ul><li>either <span class=\"concept\" data-cid=\"8413\">mefenamic acid</span> 500 mg tds (particularly if there is dysmenorrhoea as well) or <span class=\"concept\" data-cid=\"2488\">tranexamic acid</span> 1 g tds. Both are started on the first day of the period</li><li>if no improvement then try other drug whilst awaiting referral</li></ul><br />Requires contraception, options include<br /><ul><li><span class=\"concept\" data-cid=\"339\">intrauterine system (Mirena) should be considered first-line</span></li><li><span class=\"concept\" data-cid=\"8412\">combined oral contraceptive pill</span></li><li>long-acting progestogens</li></ul><br /><span class=\"concept\" data-cid=\"8414\">Norethisterone</span> 5 mg tds can be used as a short-term option to rapidly stop heavy menstrual bleeding.<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd914b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd914.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd914b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flowchart showing the management of menorrhagia</div>",
+        "notes_hash": "657ee3527260049d31942e4650aa190a",
+        "knowledge_graph_node_id_link": 10067,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5447",
+        "up_votes": "27",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "4140",
+            "272",
+            "728",
+            "30",
+            "277",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_574\" data-linkid=\"574\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_574\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_574\" data-linkid=\"574\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_574\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng88/chapter/Recommendations\">2018 Heavy menstrual bleeding guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "339": {
+                "concept_text": "Menorrhagia - intrauterine system (Mirena) is first-line",
+                "concept_percentile": "88"
+            },
+            "2488": {
+                "concept_text": "Tranexamic acid is the first-line non-hormonal treatment for menorrhagia",
+                "concept_percentile": "59"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_66",
+        "new_question_id": "2827",
+        "question_type": "1",
+        "category": "7",
+        "concept_id_link": "6649",
+        "notes_id_link": "1_1451",
+        "theme": "Childhood syndromes",
+        "instruction": "For each patient below choose from the list above the single most likely diagnosis from the list above. Each option may be chosen more than once or not at all",
+        "options": [
+            "",
+            "Edward's syndrome",
+            "Fragile X",
+            "Noonan syndrome",
+            "Patau syndrome",
+            "Pierre-Robin syndrome",
+            "Prader-Willi syndrome",
+            "Turner's syndrome",
+            "William's syndrome",
+            "",
+            ""
+        ],
+        "num_of_options": 8,
+        "questions": [
+            "A 2-week-old infant with a small chin, posterior displacement of the tongue and cleft palate",
+            "Npkmvqvgqpgvm vjmodx nozijndn dn ajpiy di v 3-tzvm-jgy wjt rdoc gzvmidib ydaadxpgodzn",
+            "V 9-rzzf-jgy dn ijozy oj cvqz v nhvgg xcdi viy mjxfzm-wjoojh azzo"
+        ],
+        "answers": [
+            "5",
+            "8",
+            "1"
+        ],
+        "notes": [
+            "",
+            "",
+            "Rocker-bottom feet may also be seen in Patau syndrome but when seen in combination with micrognathia Edward's syndrome is the most likely diagnosis."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 2-week-old infant with a small chin, posterior displacement of the tongue and cleft palate",
+        "correct_answer": "5",
+        "question_notes": "",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Childhood syndromes",
+        "body": "Below is a list of common features of selected childhood syndromes<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Syndrome</b></th><th><b>Key features</b></th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"6648\">Patau syndrome</span> (trisomy 13)<br /></td><td><span class=\"concept\" data-cid=\"6656\">Microcephalic, small eyes</span><br /><span class=\"concept\" data-cid=\"6657\">Cleft lip/palate</span><br /><span class=\"concept\" data-cid=\"6658\">Polydactyly</span><br />Scalp lesions</td></tr><tr><td><span class=\"concept\" data-cid=\"6645\">Edward's syndrome</span>  (trisomy 18)<br /></td><td><span class=\"concept\" data-cid=\"6652\">Micrognathia</span><br /><span class=\"concept\" data-cid=\"6653\">Low-set ears</span><br /><span class=\"concept\" data-cid=\"6659\">Rocker bottom feet</span><br /><span class=\"concept\" data-cid=\"6655\">Overlapping of fingers</span></td></tr><tr><td><span class=\"concept\" data-cid=\"6646\">Fragile X</span><br /></td><td><span class=\"concept\" data-cid=\"4820\">Learning difficulties</span><br />Macrocephaly<br />Long face<br />Large ears<br />Macro-orchidism</td></tr><tr><td><span class=\"concept\" data-cid=\"6647\">Noonan syndrome</span><br /></td><td>Webbed neck<br />Pectus excavatum<br />Short stature<br />Pulmonary stenosis</td></tr><tr><td><span class=\"concept\" data-cid=\"6649\">Pierre-Robin syndrome</span>*<br /></td><td>Micrognathia<br />Posterior displacement of the tongue (may result in upper airway obstruction)<br />Cleft palate</td></tr><tr><td><span class=\"concept\" data-cid=\"6650\">Prader-Willi syndrome</span><br /></td><td>Hypotonia<br />Hypogonadism<br />Obesity</td></tr><tr><td><span class=\"concept\" data-cid=\"6651\">William's syndrome</span><br /></td><td>Short stature<br />Learning difficulties<br />Friendly, extrovert personality<br />Transient neonatal hypercalcaemia<br />Supravalvular aortic stenosis</td></tr><tr><td>Cri du chat syndrome (chromosome 5p deletion syndrome)</td><td>Characteristic cry (hence the name) due to larynx and neurological problems<br />Feeding difficulties and poor weight gain<br />Learning difficulties<br />Microcephaly and micrognathism<br />Hypertelorism</td></tr></tbody></table></div><br />*this condition has many similarities with Treacher-Collins syndrome. One of the key differences is that Treacher-Collins syndrome is autosomal dominant so there is usually a family history of similar problems",
+        "notes_hash": "5cb4eb9a463dbeeb2b9816d5c70881b8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "A baby is noted to have micrognathia and a cleft palate. He is placed prone due to upper airway obstruction. There is no family history of similar problems - Pierre-Robin syndrome",
+        "concept_percentile": "5",
+        "concept_colour": "rgb(255,25,0)",
+        "number_attempts": "5097",
+        "up_votes": "31",
+        "down_votes": "49",
+        "column_array": [
+            0,
+            "2187",
+            "2185",
+            "3679",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/QBussteAbA0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QBussteAbA0\" data-description=\"Trisomy (21, 18, and 13) & Nondisjunction Genetics\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"1580\">Trisomy (21, 18, and 13) & Nondisjunction Genetics</a></td></tr><tr><td><span ><small>Dirty Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2749\" data-mediaid=\"2749\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2749\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2749\" data-mediaid=\"2749\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2749\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EKtO9DlEgjA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EKtO9DlEgjA\" data-description=\"Down syndrome\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"293\">Down syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2750\" data-mediaid=\"2750\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2750\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2750\" data-mediaid=\"2750\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2750\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TJoXpMEhbj4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJoXpMEhbj4\" data-description=\"Patau syndrome\" data-upvotes=\"9\" data-downvotes=\"1\" data-media=\"809\">Patau syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1403\" data-mediaid=\"1403\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1403\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1403\" data-mediaid=\"1403\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1403\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/SivY6f0wVi4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/SivY6f0wVi4\" data-description=\"Cri du chat syndrome\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"791\">Cri du chat syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1373\" data-mediaid=\"1373\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1373\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_1373\" data-mediaid=\"1373\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1373\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EFP671hzciI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EFP671hzciI\" data-description=\"Edward's syndrome\" data-upvotes=\"8\" data-downvotes=\"2\" data-media=\"963\">Edward's syndrome</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1664\" data-mediaid=\"1664\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1664\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"media_dislike_1664\" data-mediaid=\"1664\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1664\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "6645": {
+                "concept_text": "A baby is born with micrognathia, low-set ears, rocker bottom feet and overlapping of fingers - Edward's syndrome",
+                "concept_percentile": "31"
+            },
+            "6646": {
+                "concept_text": "A young boy is noted to have learning difficulties, macrocephaly, large ears and macro-orchidism - fragile X",
+                "concept_percentile": "26"
+            },
+            "6647": {
+                "concept_text": "A young boy is noted to have a webbed neck, pulmonary stenosis, ptosis and short stature. The karyotype is normal - Noonan syndrome",
+                "concept_percentile": "30"
+            },
+            "6648": {
+                "concept_text": "A baby is born with microcephaly, small eyes, low-set ears, cleft lip and polydactyly - Patau syndrome",
+                "concept_percentile": "23"
+            },
+            "6649": {
+                "concept_text": "A baby is noted to have micrognathia and a cleft palate. He is placed prone due to upper airway obstruction. There is no family history of similar problems - Pierre-Robin syndrome",
+                "concept_percentile": "5"
+            },
+            "6650": {
+                "concept_text": "A boy is noted to have reduced tone, hypogonadism and obesity - Prader-Willi syndrome",
+                "concept_percentile": "19"
+            },
+            "6651": {
+                "concept_text": "A boy with learning difficulties is noted to be extremely friendly and extroverted. He has short for his age and has supravalvular aortic stenosis - William's syndrome",
+                "concept_percentile": "14"
+            },
+            "6652": {
+                "concept_text": "Edward's syndrome (trisomy 18) - micrognathia",
+                "concept_percentile": "6"
+            },
+            "6653": {
+                "concept_text": "Edward's syndrome (trisomy 18) - low-set ears",
+                "concept_percentile": "14"
+            },
+            "6655": {
+                "concept_text": "Edward's syndrome (trisomy 18) - overlapping of fingers",
+                "concept_percentile": "10"
+            },
+            "6656": {
+                "concept_text": "Patau syndrome (trisomy 13) - microcephalic, small eyes",
+                "concept_percentile": "8"
+            },
+            "6658": {
+                "concept_text": "Patau syndrome (trisomy 13) - polydactyly",
+                "concept_percentile": "12"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2282",
+        "new_question_id": "61410",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "1995",
+        "notes_id_link": "1_1450",
+        "theme": "Six-week-old formula-fed infant with vomiting, loose stools, and facial erythema",
+        "instruction": "",
+        "options": [
+            "",
+            "Cow's milk protein allergy",
+            "Gastro-oesophageal reflux disease",
+            "Infantile colic",
+            "Lactose intolerance",
+            "Viral gastroenteritis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-week-old formula-fed infant presents with frequent vomiting after feeds, loose stools, and patches of erythema on the cheeks. The parents report the infant is often irritable and difficult to settle. Examination reveals an alert baby with mild excoriation on the face. Weight gain has been adequate.<br /><br />Select the single most likely diagnosis from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Cow's milk protein allergy</b> is the correct answer. This 6-week-old formula-fed infant presents with a classic constellation of features consistent with CMPA, which typically presents in the first 3 months of life in formula-fed babies. The combination of gastrointestinal symptoms (vomiting and loose stools), skin manifestations (erythematous patches and excoriation suggestive of atopic eczema), and behavioural symptoms (irritability) is highly characteristic of this condition. CMPA can present with either IgE-mediated (immediate) or non-IgE-mediated (delayed) reactions, and this presentation suggests a delayed reaction pattern. The adequate weight gain does not exclude the diagnosis, as many infants with mild-moderate CMPA continue to grow appropriately. Management would involve switching to an extensively hydrolysed formula as first-line treatment, with referral to paediatrics reserved for severe symptoms such as failure to thrive. The diagnosis is often clinical, supported by improvement following cow's milk protein elimination.<br /><br /><b>Gastro-oesophageal reflux disease</b> would explain the vomiting but would not account for the loose stools, skin changes, or significant irritability beyond feeding times. GORD is common in infants but typically presents with posseting or vomiting alone, without the systemic features seen here. The presence of diarrhoea and eczematous skin changes makes this diagnosis less likely as the primary pathology.<br /><br /><b>Infantile colic</b> is characterised by episodes of inconsolable crying, typically in the evening, in an otherwise healthy infant. While this baby is irritable, the presence of vomiting, loose stools, and skin changes suggests an underlying organic cause rather than functional colic. Colic would not explain the gastrointestinal or dermatological features present in this case.<br /><br /><b>Lactose intolerance</b> is rare in infancy, as primary lactase deficiency typically presents later in childhood or adulthood. Secondary lactose intolerance can occur following gastroenteritis but would not explain the skin manifestations or the chronic nature of symptoms from 6 weeks of age. The combination of features makes CMPA more likely than lactose intolerance in this age group.<br /><br /><b>Viral gastroenteritis</b> would typically present more acutely with a shorter history and would be expected to resolve within days. The chronic nature of symptoms from early infancy, combined with skin manifestations and persistent irritability, makes an infectious cause unlikely. Additionally, viral gastroenteritis would not explain the eczematous skin changes observed on examination.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-week-old formula-fed infant presents with frequent vomiting after feeds, loose stools, and patches of erythema on the cheeks. The parents report the infant is often irritable and difficult to settle. Examination reveals an alert baby with mild excoriation on the face. Weight gain has been adequate.<br /><br />Select the single most likely diagnosis from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Cow's milk protein allergy</b> is the correct answer. This 6-week-old formula-fed infant presents with a classic constellation of features consistent with CMPA, which typically presents in the first 3 months of life in formula-fed babies. The combination of gastrointestinal symptoms (vomiting and loose stools), skin manifestations (erythematous patches and excoriation suggestive of atopic eczema), and behavioural symptoms (irritability) is highly characteristic of this condition. CMPA can present with either IgE-mediated (immediate) or non-IgE-mediated (delayed) reactions, and this presentation suggests a delayed reaction pattern. The adequate weight gain does not exclude the diagnosis, as many infants with mild-moderate CMPA continue to grow appropriately. Management would involve switching to an extensively hydrolysed formula as first-line treatment, with referral to paediatrics reserved for severe symptoms such as failure to thrive. The diagnosis is often clinical, supported by improvement following cow's milk protein elimination.<br /><br /><b>Gastro-oesophageal reflux disease</b> would explain the vomiting but would not account for the loose stools, skin changes, or significant irritability beyond feeding times. GORD is common in infants but typically presents with posseting or vomiting alone, without the systemic features seen here. The presence of diarrhoea and eczematous skin changes makes this diagnosis less likely as the primary pathology.<br /><br /><b>Infantile colic</b> is characterised by episodes of inconsolable crying, typically in the evening, in an otherwise healthy infant. While this baby is irritable, the presence of vomiting, loose stools, and skin changes suggests an underlying organic cause rather than functional colic. Colic would not explain the gastrointestinal or dermatological features present in this case.<br /><br /><b>Lactose intolerance</b> is rare in infancy, as primary lactase deficiency typically presents later in childhood or adulthood. Secondary lactose intolerance can occur following gastroenteritis but would not explain the skin manifestations or the chronic nature of symptoms from 6 weeks of age. The combination of features makes CMPA more likely than lactose intolerance in this age group.<br /><br /><b>Viral gastroenteritis</b> would typically present more acutely with a shorter history and would be expected to resolve within days. The chronic nature of symptoms from early infancy, combined with skin manifestations and persistent irritability, makes an infectious cause unlikely. Additionally, viral gastroenteritis would not explain the eczematous skin changes observed on examination.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Cow's milk protein intolerance/allergy",
+        "body": "Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all children and typically <span class=\"concept\" data-cid=\"1995\">presents in the first 3 months of life in formula-fed infants</span>, although rarely it is seen in <span class=\"concept\" data-cid=\"1997\">exclusively breastfed infants</span>. <br /><br />Both immediate (IgE mediated) and delayed (non-IgE mediated) reactions are seen. The term CMPA is usually used for immediate reactions and CMPI for mild-moderate delayed reactions.<br /><br />Features<br /><ul><li>regurgitation and vomiting</li><li>diarrhoea</li><li>urticaria, atopic eczema</li><li>'colic' symptoms: irritability, crying</li><li>wheeze, chronic cough</li><li>rarely angioedema and anaphylaxis may occur</li></ul><br />Diagnosis is often clinical (e.g. improvement with cow's milk protein elimination). Investigations include:<br /><ul><li>skin prick/patch testing</li><li>total IgE and specific IgE (RAST) for cow's milk protein</li></ul><br /><h5 class='notes-heading'>Management</h5><br />If the <span class=\"concept\" data-cid=\"1996\">symptoms are severe (e.g. failure to thrive) refer to a paediatrician</span>.<br /><br />Management if formula-fed<br /><ul><li><span class=\"concept\" data-cid=\"11483\">extensive hydrolysed formula</span> (eHF) milk is the first-line replacement formula for infants with mild-moderate symptoms</li><li><span class=\"concept\" data-cid=\"11484\">amino acid-based formula</span> (AAF) in infants with severe CMPA or if no response to eHF</li><li><span class=\"concept\" data-cid=\"1999\">around 10% of infants are also intolerant to soya milk</span></li></ul><br />Management if breastfed<br /><ul><li>continue breastfeeding</li><li>eliminate cow's milk protein from maternal diet. <span class=\"concept\" data-cid=\"9562\">Consider prescribing calcium supplements</span> for breastfeeding mothers whose babies have, or are suspected to have, CMPI, to prevent deficiency whilst they exclude dairy from their diet </li><li>use eHF milk when breastfeeding stops, until 12 months of age and at least for 6 months</li></ul><br /><h5 class='notes-heading'>Prognosis</h5><br />CMPI usually resolves in most children<br /><ul><li>in children with IgE mediated intolerance around 55% will be milk tolerant by the age of 5 years</li><li><span class=\"concept\" data-cid=\"1998\">in children with non-IgE mediated intolerance most children will be milk tolerant by the age of 3 years</span></li><li>a challenge is often performed in the hospital setting as anaphylaxis can occur.</li></ul>",
+        "notes_hash": "7c6321794c862ff5912a3b14b581afa5",
+        "knowledge_graph_node_id_link": 1233,
+        "concept": "Cows milk protein allergy typically presents in the first 3 months of life in formula-fed infants",
+        "concept_percentile": "21",
+        "concept_colour": "rgb(255,107,0)",
+        "number_attempts": "919",
+        "up_votes": "2",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "770",
+            "43",
+            "31",
+            "69",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NHS Choices</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_425\" data-linkid=\"425\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_425\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_425\" data-linkid=\"425\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_425\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.nhs.uk/conditions/pregnancy-and-baby/pages/types-of-infant-formula.aspx#close\">Types of infant formula</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "1995": {
+                "concept_text": "Cows milk protein allergy typically presents in the first 3 months of life in formula-fed infants",
+                "concept_percentile": "21"
+            },
+            "11483": {
+                "concept_text": "If a formula-fed baby is suspected of having mild-moderate cow's milk protein intolerance then a extensive hydrolysed formula should be tried",
+                "concept_percentile": "55"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

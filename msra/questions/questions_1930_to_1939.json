@@ -1,0 +1,864 @@
+[
+    {
+        "question_id": "1_B_1620",
+        "new_question_id": "2547",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2935",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "2-4 l/min via nasal cannulae",
+            "No oxygen therapy",
+            "15 l/min via reservoir mask",
+            "28% via Venturi mask",
+            "35% via Venturi mask",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 50-year-old man is admitted to Resus with a suspected anterior myocardial infarction. An ECG on arrival confirms the diagnosis and thrombolysis is prepared. The patient is stable and his pain is well controlled with intravenous morphine. Clinical examination shows a blood pressure of 140/84 mmHg, pulse 90 bpm and oxygen saturations on room air of 97%. What is the most appropriate management with regards to oxygen therapy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>No oxygen therapy</b>. According to UK guidelines, oxygen should only be administered to patients with suspected acute myocardial infarction if they are hypoxaemic (SpO2 <94%). In this case, the patient has oxygen saturations of 97% on room air, which is within the normal range. Unnecessary oxygen administration in normoxaemic patients with acute myocardial infarction may be harmful as it can increase coronary vascular resistance and reduce coronary blood flow.<br /><br /><b>2-4 l/min via nasal cannulae</b> would be inappropriate as the patient is not hypoxaemic. While this is a low flow rate, providing supplemental oxygen when not indicated could potentially be detrimental to the patient's condition.<br /><br /><b>15 l/min via reservoir mask</b> would be particularly inappropriate as this delivers a very high concentration of oxygen (approximately 85-90%). High-flow oxygen should be reserved for critically ill patients with severe hypoxaemia. In this normoxaemic patient, such high concentrations of oxygen could be harmful.<br /><br /><b>28% via Venturi mask</b> is not indicated as the patient has normal oxygen saturations. While this delivers a precise concentration of oxygen, there is no clinical indication for its use in this scenario.<br /><br /><b>35% via Venturi mask</b> would also be inappropriate for the same reasons as the 28% Venturi mask. The patient has adequate oxygenation on room air, and providing supplemental oxygen via any device or concentration is not indicated.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 50-year-old man is admitted to Resus with a suspected anterior myocardial infarction. An ECG on arrival confirms the diagnosis and thrombolysis is prepared. The patient is stable and his pain is well controlled with intravenous morphine. Clinical examination shows a blood pressure of 140/84 mmHg, pulse 90 bpm and oxygen saturations on room air of 97%. What is the most appropriate management with regards to oxygen therapy?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>No oxygen therapy</b>. According to UK guidelines, oxygen should only be administered to patients with suspected acute myocardial infarction if they are hypoxaemic (SpO2 <94%). In this case, the patient has oxygen saturations of 97% on room air, which is within the normal range. Unnecessary oxygen administration in normoxaemic patients with acute myocardial infarction may be harmful as it can increase coronary vascular resistance and reduce coronary blood flow.<br /><br /><b>2-4 l/min via nasal cannulae</b> would be inappropriate as the patient is not hypoxaemic. While this is a low flow rate, providing supplemental oxygen when not indicated could potentially be detrimental to the patient's condition.<br /><br /><b>15 l/min via reservoir mask</b> would be particularly inappropriate as this delivers a very high concentration of oxygen (approximately 85-90%). High-flow oxygen should be reserved for critically ill patients with severe hypoxaemia. In this normoxaemic patient, such high concentrations of oxygen could be harmful.<br /><br /><b>28% via Venturi mask</b> is not indicated as the patient has normal oxygen saturations. While this delivers a precise concentration of oxygen, there is no clinical indication for its use in this scenario.<br /><br /><b>35% via Venturi mask</b> would also be inappropriate for the same reasons as the 28% Venturi mask. The patient has adequate oxygenation on room air, and providing supplemental oxygen via any device or concentration is not indicated.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Acute coronary syndrome: initial management",
+        "body": "Acute coronary syndrome (ACS) is a very common and important presentation in medicine. The management of ACS has evolved over recent years, with the development of new drugs and procedures such as percutaneous coronary intervention (PCI).<br /><br />Emergency departments often have their own protocols based on local factors such as the availability of PCI and hospital drug formularies. The following is based on the 2020 update to the NICE ACS guidelines.<br /><br />Acute coronary syndrome can be classified as follows:<br /><ul><li>ST-elevation myocardial infarction (STEMI): ST-segment elevation + elevated biomarkers of myocardial damage</li><li>non ST-elevation myocardial infarction (NSTEMI): ECG changes but no ST-segment elevation + elevated biomarkers of myocardial damage</li><li>unstable angina</li></ul><br />The management of ACS depends on the particular subtype. NICE management guidance groups the patients into two groups:<br /><ul><li>1. STEMI</li><li>2. NSTEM/unstable angina</li></ul><br /><h5 class='notes-heading'>Common management of all patients with ACS</h5><br />Initial drug therapy<br /><ul><li><span class=\"concept\" data-cid=\"11121\">aspirin 300mg</span></li><li><span class=\"concept\" data-cid=\"11122\">oxygen should only be given if the patient has oxygen saturations < 94%</span> in keeping with British Thoracic Society oxygen therapy guidelines</li><li><span class=\"concept\" data-cid=\"11123\">morphine should only be given for patients with severe pain</span><ul><li>previously IV morphine was given routinely</li><li>evidence, however, suggests that this may be associated with adverse outcomes </li></ul></li><li>nitrates<ul><li>can be given either sublingually or intravenously</li><li>useful if the patient has ongoing chest pain or hypertension</li><li><span class=\"concept\" data-cid=\"11124\">should be used in caution if patient hypotensive</span></li></ul></li></ul><br />The next step in managing a patient with suspected ACS is to determine whether they meet the ECG criteria for STEMI. It is, of course, important to recognise that these criteria should be interpreted in the context of the clinical history.<br /><br /><span class=\"concept\" data-cid=\"11116\">STEMI criteria</span><br /><ul><li>clinical symptoms consistent with ACS (generally of \u2265 20 minutes duration) with persistent (> 20 minutes) ECG features in \u2265 2 contiguous leads of:<ul><li>2.5 mm (i.e \u2265 2.5 small squares) ST elevation in leads V2-3 in men under 40 years, or \u2265 2.0 mm (i.e \u2265 2 small squares) ST elevation in leads V2-3 in men over 40 years</li><li>1.5 mm ST elevation in V2-3 in women</li><li>1 mm ST elevation in other leads</li><li>new LBBB (LBBB should be considered new unless there is evidence otherwise)</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg072b.png\" data-fancybox=\"gallery\" data-caption=\"ECG shows in STEMI, ST elevation in V1-5. Deep QS waves in V2-V4, and small Q waves in V5 and V6. Angiogram showed LAD occlusion \u00a9 Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg072.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg073b.png\" data-fancybox=\"gallery\" data-caption=\"ECG showing a STEMI secondary to LAD occlusion \u00a9 Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg073.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg112b.png\" data-fancybox=\"gallery\" data-caption=\"This ECG shows sinus rhythm with marked ST elevation in V1\u2013V2 and reciprocal ST depression in the lateral leads (I, aVL, V5\u2013V6), consistent with an anterior STEMI pattern known as \u201cprecordial swirl.\u201d There is also subtle ST elevation in lead III and aVF, which may reflect a wraparound LAD supplying part of the inferior wall. Despite the inferior changes, the overall pattern strongly suggests acute proximal LAD occlusion rather than RCA involvement. This is a cardiology emergency requiring urgent activation of the primary PCI pathway. \u00a9 Image used on license from Dr Smith, University of Minnesota\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg112.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management of STEMI</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd563b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd563.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd563b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the simplified management of STEMI according to NICE guidelines. A number of assumptions (listed at the bottom) are made.</div><br />Once a STEMI has been confirmed the first step is to immediately assess eligibility for coronary reperfusion therapy. There are two types of coronary reperfusion therapy:<br /><ul><li>percutaneous coronary intervention<ul><li>should be offered if the <span class=\"concept\" data-cid=\"11690\">presentation is within 12 hours of the onset of symptoms</span> AND <span class=\"concept\" data-cid=\"11117\">PCI can be delivered within 120 minutes of the time when fibrinolysis could have been given</span> (i.e. consider fibrinolysis if there is a significant delay in being able to provide PCI)</li><li>if patients present after 12 hours and still have evidence of ongoing ischaemia then PCI should still be considered</li><li><span class=\"concept\" data-cid=\"11119\">drug-eluting stents</span> are now used. Previously 'bare-metal' stents were sometimes used but have higher rates of restenosis</li><li><span class=\"concept\" data-cid=\"11118\">radial access is preferred to femoral access</span></li></ul></li><li>fibrinolysis<ul><li><span class=\"concept\" data-cid=\"11120\">should be offered within 12 hours of the onset of symptoms if primary PCI cannot be delivered within 120 minutes</span> of the time when fibrinolysis could have been given</li><li>a practical example may be a patient who presents with a STEMI to a small district general hospital (DGH) that does not have facilities for PCI. If they cannot be transferred to a larger hospital for PCI within 120 minutes then fibrinolysis should be given. If the patient's ECG taken 90 minutes after fibrinolysis failed to show resolution of the ST elevation then they would then require transfer for PCI</li></ul></li></ul><br />If patients are eligible this should be offered as soon as possible.<br /><br /><h6 class='notes-subheading'>Percutaneous coronary intervention for patients with STEMI</h6><br /><span class=\"concept\" data-cid=\"11125\">Further antiplatelet prior to PCI</span><br /><ul><li>this is termed 'dual antiplatelet therapy', i.e. aspirin + another drug</li><li>if the patient is not taking an oral anticoagulant: prasugrel</li><li>if taking an oral anticoagulant: clopidogrel</li></ul><br />Drug therapy during PCI<br /><ul><li>patients undergoing PCI with radial access:<ul><li><span class=\"concept\" data-cid=\"11126\">unfractionated heparin with bailout glycoprotein IIb/IIIa inhibitor (GPI)</span> - this is the action of using a GPI during the procedure when it was not intended from the outset, e.g. because of worsening or persistent thrombus</li></ul></li><li>patients undergoing PCI with femoral access:<ul><li>bivalirudin with bailout GPI</li></ul></li></ul><br />Other procedures during PCI<br /><ul><li>thrombus aspiration, but not mechanical thrombus extraction, should be considered</li><li>complete revascularisation should be considered for patients with multivessel coronary artery disease without cardiogenic shock</li></ul><br /><br /><h6 class='notes-subheading'>Fibrinolysis for patients with STEMI</h6><br />Fibrinolysis used to be the only form of coronary reperfusion therapy available. However, it is used much less commonly now given the widespread availability of PCI.<br /><br />The contraindications to fibrinolysis and other factors are described in other notes.<br /><br /><span class=\"concept\" data-cid=\"11127\">Patients undergoing fibrinolysis should also be given an antithrombin drug.</span><br /><br />An ECG should be repeated after <span class=\"concept\" data-cid=\"11249\">60-90 minutes</span> to see if the ECG changes have resolved. If patients have <span class=\"concept\" data-cid=\"11128\">persistent myocardial ischaemia following fibrinolysis then PCI should be considered</span>.<br /><br /><br /><h5 class='notes-heading'>Management of NSTEMI/unstable angina</h5><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd564b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd564.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd564b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Diagram showing the simplified management of NSTEMI/unstable angina according to NICE guidelines. A number of assumptions (listed at the bottom) are made.</div><br />The management of NSTEMI/unstable angina is complicated and depends on individual patient factors and a <span class=\"concept\" data-cid=\"11130\">risk assessment</span>. The summary below provides an overview but the full NICE guidelines should be reviewed for further details.<br /><br />Further drug therapy<br /><ul><li>antithrombin treatment<ul><li><span class=\"concept\" data-cid=\"11129\">fondaparinux</span> should be offered to patients who are not at a high risk of bleeding and who are not having angiography immediately</li><li>if immediate angiography is planned or a patients creatinine is > 265 \u00b5mol/L then unfractionated heparin should be given</li></ul></li></ul><br /><h6 class='notes-subheading'>Risk assessment</h6><br />The Global Registry of Acute Coronary Events (GRACE) is the most widely used tool for risk assessment. It can be calculated using online tools and takes into account the following factors:<br /><ul><li>age</li><li>heart rate, blood pressure</li><li>cardiac (Killip class) and renal function (serum creatinine)</li><li>cardiac arrest on presentation</li><li>ECG findings</li><li>troponin levels</li></ul><br />This results in the patient being risk stratified as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Predicted 6-month mortality</th><th>Risk of future adverse cardiovascular events</th></tr></thead><tbody><tr><td>1.5% or below</td><td>Lowest</td></tr><tr><td>> 1.5% to 3.0%</td><td>Low</td></tr><tr><td>> 3.0% to 6.0%</td><td>Intermediate</td></tr><tr><td>> 6.0% to 9.0%</td><td>High</td></tr><tr><td>over 9.0%</td><td>Highest</td></tr></tbody></table></div><br />Based on this <span class=\"concept\" data-cid=\"11130\">risk assessment key decisions are made</span> regarding whether a patient has coronary angiography (with follow-on PCI if necessary) or has conservative management. The detailed pros/cons of this decision are covered in other notes.<br /><br />Which patients with NSTEMI/unstable angina should have coronary angiography (with follow-on PCI if necessary)?<br /><ul><li><span class=\"concept\" data-cid=\"11131\">immediate: patient who are clinically unstable (e.g. hypotensive)</span></li><li><span class=\"concept\" data-cid=\"11132\">within 72 hours: patients with a GRACE score > 3%</span> i.e. those at intermediate, high or highest risk</li><li>coronary angiography should also be considered for patients if ischaemia is subsequently experienced after admission</li></ul><br /><h6 class='notes-subheading'>Percutaneous coronary intervention for patients with NSTEMI/unstable angina</h6><br /><span class=\"concept\" data-cid=\"11134\">Further drug therapy</span><br /><ul><li>unfractionated heparin should be given regardless of whether the patient has had fondaparinux or not</li><li>further antiplatelet ('dual antiplatelet therapy', i.e. aspirin + another drug) prior to PCI<ul><li>if the patient is not taking an oral anticoagulant: prasugrel or ticagrelor</li><li>if taking an oral anticoagulant: clopidogrel</li></ul></li></ul><br /><h6 class='notes-subheading'>Conservative management for patients with NSTEMI/unstable angina</h6><br /><span class=\"concept\" data-cid=\"11133\">Further drug therapy</span><br /><ul><li>further antiplatelet ('dual antiplatelet therapy', i.e. aspirin + another drug)<ul><li>if the patient is not at a high risk of bleeding: ticagrelor</li><li>if the patient is at a high risk of bleeding:  clopidogrel</li></ul></li></ul>",
+        "notes_hash": "ea9781f6c3c89db8ba42d84c6765140e",
+        "knowledge_graph_node_id_link": 1025,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7265",
+        "up_votes": "17",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "245",
+            "6562",
+            "418",
+            "26",
+            "14",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2001\" data-linkid=\"2001\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2001\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">32</span><button type=\"button\" style=\"\" id=\"link_dislike_2001\" data-linkid=\"2001\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2001\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">32</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/assets/sign148.pdf\">2016 Acute coronary syndrome guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2000\" data-linkid=\"2000\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2000\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">65</span><button type=\"button\" style=\"\" id=\"link_dislike_2000\" data-linkid=\"2000\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2000\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">34</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng185\">2020 Acute coronary syndromes guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TBG9Jw3yd9I\" data-description=\"Acute Coronary Syndrome DETAILED Overview (MI, STEMI, NSTEMI)\" data-upvotes=\"16\" data-downvotes=\"3\" data-media=\"418\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TBG9Jw3yd9I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TBG9Jw3yd9I\" data-description=\"Acute Coronary Syndrome DETAILED Overview (MI, STEMI, NSTEMI)\" data-upvotes=\"16\" data-downvotes=\"3\" data-media=\"418\">Acute Coronary Syndrome DETAILED Overview (MI, STEMI, NSTEMI)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2033\" data-mediaid=\"2033\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2033\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"media_dislike_2033\" data-mediaid=\"2033\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2033\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"9\" data-downvotes=\"4\" data-media=\"729\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eZBtQ0rDnG4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"9\" data-downvotes=\"4\" data-media=\"729\">Antiplatelets and anticoagulants made easy</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2034\" data-mediaid=\"2034\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2034\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_2034\" data-mediaid=\"2034\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2034\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "11117": {
+                "concept_text": "STEMI management: PCI if presents within 12 hours of onset AND PCI can be delivered within 120 minutes of the time when fibrinolysis could have been given",
+                "concept_percentile": "47"
+            },
+            "11120": {
+                "concept_text": "STEMI management: fibrinolysis should be offered within 12 hours of onset of symptoms if primary PCI cannot be delivered within 120 minutes",
+                "concept_percentile": "92"
+            },
+            "11121": {
+                "concept_text": "All patients with suspect ACS should be given aspirin 300mg, but further drug management depends on the type of ACS, proposed intervention etc",
+                "concept_percentile": "47"
+            },
+            "11122": {
+                "concept_text": "ACS management: oxygen should only be given if the patient has oxygen saturations < 94%",
+                "concept_percentile": "49"
+            },
+            "11125": {
+                "concept_text": "STEMI management: if patient is having PCI then prasugrel is given in addition to aspirin. If patient is on an anticoagulant then clopidogrel used instead",
+                "concept_percentile": "21"
+            },
+            "11126": {
+                "concept_text": "STEMI management: for patients undergoing PCI, following dual antiplatelet therapy, patients are also given unfractionated heparin with bailout glycoprotein IIb/IIIa inhibitor (GPI) if radial access used",
+                "concept_percentile": "13"
+            },
+            "11127": {
+                "concept_text": "Patients undergoing fibrinolysis for a STEMI should also be given an antithrombin drug",
+                "concept_percentile": "53"
+            },
+            "11129": {
+                "concept_text": "NSTEMI management: fondaparinux should be given in addition to aspirin to all patients unless high bleeding risk",
+                "concept_percentile": "38"
+            },
+            "11130": {
+                "concept_text": "NSTEMI management is determined by a risk assessment score such as GRACE",
+                "concept_percentile": "43"
+            },
+            "11132": {
+                "concept_text": "NSTEMI management: patients with a GRACE score > 3% should have coronary angiography within 72 hours of admission",
+                "concept_percentile": "37"
+            },
+            "11133": {
+                "concept_text": "NSTEMI (managed conservatively) antiplatelet choice\n   - aspirin, plus either:\n   - ticagrelor, if not high bleeding risk\n   - clopidogrel, if high bleeding risk",
+                "concept_percentile": "80"
+            },
+            "11134": {
+                "concept_text": "NSTEMI (managed with PCI) antiplatelet choice:\n   - if the patient is not taking an oral anticoagulant: prasugrel or ticagrelor\n   - if taking an oral anticoagulant: clopidogrel",
+                "concept_percentile": "24"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "15890_B_90",
+        "new_question_id": "29017",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "202",
+        "notes_id_link": "1_1184",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "1 month",
+            "2 years",
+            "3 months",
+            "6 months",
+            "12 months",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old female university student presents to the first seizure clinic after her flatmate became worried she had a fit first thing in the morning after a night out. <br /><br />This seizure is the first she has had in her entire life. She does not drink or take recreational drugs but did feel sleep-deprived and dizzy prior to the seizure. The flatmate shows a video that reveals the seizure appearing to be tonic-clonic in nature, involving arms and legs, no incontinence, no tongue-biting and no post-ictal drowsiness. <br /><br />Blood tests, lumbar puncture, CT head, MRI brain and electroencephalogram (EEG) are all unremarkable.<br /><br />How long should this patient be advised they cannot drive for?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "6 months is the correct option. The above seizure at this stage is most likely a result of vasovagal syncope due to exhaustion and sleep deprivation. Vasovagal syncope can result in collapse and subsequent jerking movements of the limbs, with a lack of epileptic seizure-associated symptoms such as incontinence, tongue-biting or post-ictal confusion. If the brain imaging and EEG are normal after a first seizure the patient must be informed that they cannot drive for 6 months after the date of the seizure.<br /><br />1 month is incorrect as it is not a length of period for a driving ban for any seizures. <br /><br />3 months is incorrect as it is not a length of period for a driving ban for any seizures.<br /><br /> 12 months is an incorrect option in this case. 12 months driving ban applies to individuals who have had an epilepsy diagnosis or due to an abnormality in imaging or EEG. Epileptics who have had no seizures whilst awake for 12 months can return to driving if the Driving and Vehicle Licensing Agency (DVLA) are satisfied with the absence of seizures.<br /><br />2 years is incorrect in this case as this option is too long for this type of seizure described.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old female university student presents to the first seizure clinic after her flatmate became worried she had a fit first thing in the morning after a night out. <br /><br />This seizure is the first she has had in her entire life. She does not drink or take recreational drugs but did feel sleep-deprived and dizzy prior to the seizure. The flatmate shows a video that reveals the seizure appearing to be tonic-clonic in nature, involving arms and legs, no incontinence, no tongue-biting and no post-ictal drowsiness. <br /><br />Blood tests, lumbar puncture, CT head, MRI brain and electroencephalogram (EEG) are all unremarkable.<br /><br />How long should this patient be advised they cannot drive for?",
+        "correct_answer": "4",
+        "question_notes": "6 months is the correct option. The above seizure at this stage is most likely a result of vasovagal syncope due to exhaustion and sleep deprivation. Vasovagal syncope can result in collapse and subsequent jerking movements of the limbs, with a lack of epileptic seizure-associated symptoms such as incontinence, tongue-biting or post-ictal confusion. If the brain imaging and EEG are normal after a first seizure the patient must be informed that they cannot drive for 6 months after the date of the seizure.<br /><br />1 month is incorrect as it is not a length of period for a driving ban for any seizures. <br /><br />3 months is incorrect as it is not a length of period for a driving ban for any seizures.<br /><br /> 12 months is an incorrect option in this case. 12 months driving ban applies to individuals who have had an epilepsy diagnosis or due to an abnormality in imaging or EEG. Epileptics who have had no seizures whilst awake for 12 months can return to driving if the Driving and Vehicle Licensing Agency (DVLA) are satisfied with the absence of seizures.<br /><br />2 years is incorrect in this case as this option is too long for this type of seizure described.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "DVLA: neurological disorders",
+        "body": "The guidelines below relate to car/motorcycle use unless specifically stated. For obvious reasons, the rules relating to drivers of heavy goods vehicles tend to be much stricter<br /><br />Epilepsy/seizures - all patient must not drive and must inform the DVLA<br /><ul><li>first unprovoked/isolated seizure: <span class=\"concept\" data-cid=\"202\">6 months</span> off if there are no relevant structural abnormalities on brain imaging and no definite epileptiform activity on EEG. If these conditions are not met then this is increased to 12 months</li><li>for patients with established epilepsy or those with multiple unprovoked seizures: <ul><li>may qualify for a driving licence if they have been free from any seizure for <span class=\"concept\" data-cid=\"10622\">12 months</span></li><li>if there have been no seizures for 5 years (with medication if necessary) a 'til 70 licence is usually restored</li></ul></li><li>withdrawawl of epilepsy medication: should not drive whilst anti-epilepsy medication is being withdrawn and for 6 months after the last dose</li></ul><br />Syncope<br /><ul><li>simple faint: <span class=\"concept\" data-cid=\"206\">no restriction</span></li><li>single episode, explained and treated: 4 weeks off</li><li>single episode, unexplained: 6 months off</li><li>two or more episodes: 12 months off</li></ul><br />Other conditions<br /><ul><li>stroke or TIA: <span class=\"concept\" data-cid=\"207\">1 month</span> off driving, may not need to inform DVLA if no residual neurological deficit</li><li>multiple TIAs over short period of times: <span class=\"concept\" data-cid=\"205\">3 months</span> off driving and inform DVLA</li><li>craniotomy e.g. For meningioma: 1 year off driving*</li><li>pituitary tumour: craniotomy: 6 months; trans-sphenoidal surgery 'can drive when there is no debarring residual impairment likely to affect safe driving'</li><li>narcolepsy/cataplexy: cease driving on diagnosis, can restart once 'satisfactory control of symptoms'</li><li>chronic neurological disorders e.g. multiple sclerosis, motor neuron disease: DVLA should be informed, complete PK1 form (application for driving licence holders state of health)</li></ul><br /><br />*if the tumour is a benign meningioma and there is no seizure history, licence can be reconsidered 6 months after surgery if remains seizure free",
+        "notes_hash": "89524e3bb23d1d5e0ac0fb2c0b0717d3",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Patients cannot drive for 6 months following a first unprovoked or isolated seizure if brain imaging and EEG normal",
+        "concept_percentile": "97",
+        "concept_colour": "rgb(15,255,0)",
+        "number_attempts": "5124",
+        "up_votes": "35",
+        "down_votes": "20",
+        "column_array": [
+            0,
+            "791",
+            "102",
+            "475",
+            "2563",
+            "1193",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DVLA</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1108\" data-linkid=\"1108\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1108\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">37</span><button type=\"button\" style=\"\" id=\"link_dislike_1108\" data-linkid=\"1108\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1108\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">68</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals\">Fitness to drive guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "202": {
+                "concept_text": "Patients cannot drive for 6 months following a first unprovoked or isolated seizure if brain imaging and EEG normal",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_160",
+        "new_question_id": "7644",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "0",
+        "notes_id_link": "1_277",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Aural fullness",
+            "Symptoms triggered by sudden change in head position",
+            "Sensorineural hearing loss",
+            "Tinnitus",
+            "Nystagmus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is least recognised in patients with Meniere's disease",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Symptoms triggered by sudden change in head position</b>. Meniere's disease, a disorder of the inner ear, commonly results in symptoms such as vertigo, tinnitus, aural fullness and sensorineural hearing loss. However, symptoms being triggered by sudden changes in head position is not a typical feature of Meniere's disease but rather suggestive of benign paroxysmal positional vertigo (BPPV). BPPV is characterised by brief episodes of mild to intense dizziness associated with specific changes in the position of the head.<br /><br />Discussing each incorrect answer:<br /><br /><b>Aural fullness</b> is indeed recognised in patients with Meniere's disease. This symptom refers to a sense of pressure or fullness in the ears which can be quite uncomfortable for patients. It is thought to be due to an increase in endolymphatic fluid within the labyrinthine compartments of the inner ear.<br /><br /><b>Sensorineural hearing loss</b> is another recognised symptom of Meniere's disease. This type of hearing loss occurs due to damage to the hair cells in the cochlea or along the auditory pathway from the cochlea to the brain. In Meniere's disease, sensorineural hearing loss typically starts at low frequencies and progressively involves higher frequencies.<br /><br /><b>Tinnitus</b>, or ringing in the ears, is also a common symptom experienced by patients with Meniere's disease. The exact cause remains unclear but it may be related to alterations in blood flow or nerve signals within the inner ear.<br /><br />Lastly, <b>Nystagmus</b>, which refers to involuntary eye movements often seen during acute attacks of vertigo, can also occur in patients suffering from Meniere's disease. While nystagmus isn't necessarily present all the time in these patients, it can certainly manifest during periods where other symptoms such as vertigo are exacerbated.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is least recognised in patients with Meniere's disease",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Symptoms triggered by sudden change in head position</b>. Meniere's disease, a disorder of the inner ear, commonly results in symptoms such as vertigo, tinnitus, aural fullness and sensorineural hearing loss. However, symptoms being triggered by sudden changes in head position is not a typical feature of Meniere's disease but rather suggestive of benign paroxysmal positional vertigo (BPPV). BPPV is characterised by brief episodes of mild to intense dizziness associated with specific changes in the position of the head.<br /><br />Discussing each incorrect answer:<br /><br /><b>Aural fullness</b> is indeed recognised in patients with Meniere's disease. This symptom refers to a sense of pressure or fullness in the ears which can be quite uncomfortable for patients. It is thought to be due to an increase in endolymphatic fluid within the labyrinthine compartments of the inner ear.<br /><br /><b>Sensorineural hearing loss</b> is another recognised symptom of Meniere's disease. This type of hearing loss occurs due to damage to the hair cells in the cochlea or along the auditory pathway from the cochlea to the brain. In Meniere's disease, sensorineural hearing loss typically starts at low frequencies and progressively involves higher frequencies.<br /><br /><b>Tinnitus</b>, or ringing in the ears, is also a common symptom experienced by patients with Meniere's disease. The exact cause remains unclear but it may be related to alterations in blood flow or nerve signals within the inner ear.<br /><br />Lastly, <b>Nystagmus</b>, which refers to involuntary eye movements often seen during acute attacks of vertigo, can also occur in patients suffering from Meniere's disease. While nystagmus isn't necessarily present all the time in these patients, it can certainly manifest during periods where other symptoms such as vertigo are exacerbated.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Meniere's disease",
+        "body": "Meniere's disease is a disorder of the inner ear of unknown cause. It is characterised by excessive pressure and progressive dilation of the endolymphatic system. It is more common in middle-aged adults but may be seen at any age. Meniere's disease has a similar prevalence in both men and women.<br /><br />Features<br /><ul><li><span class=\"concept\" data-cid=\"1658\">recurrent episodes of vertigo, tinnitus and hearing loss</span> (sensorineural). Vertigo is usually the prominent symptom</li><li>a sensation of aural fullness or pressure is now recognised as being common</li><li>other features include nystagmus and a positive Romberg test</li><li>episodes last minutes to hours</li><li>typically symptoms are unilateral but bilateral symptoms may develop after a number of years</li></ul><br />Natural history<br /><ul><li>symptoms resolve in the majority of patients after 5-10 years</li><li>the majority of patients will be left with a degree of hearing loss</li><li>psychological distress is common</li></ul><br />Management<br /><ul><li>ENT assessment is required to confirm the diagnosis</li><li>patients should inform the DVLA. The current advice is to cease driving until satisfactory control of symptoms is achieved</li><li>acute attacks: buccal or intramuscular prochlorperazine. Admission is sometimes required</li><li>prevention: betahistine and vestibular rehabilitation exercises may be of benefit</li></ul>",
+        "notes_hash": "0ad9ab0cd78bb488332e203a4b9481a4",
+        "knowledge_graph_node_id_link": 1057,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6445",
+        "up_votes": "25",
+        "down_votes": "38",
+        "column_array": [
+            0,
+            "240",
+            "4641",
+            "254",
+            "77",
+            "1233",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4YVfa1JFhu0\" data-description=\"Understanding M\u00c3\u00a9ni\u00c3\u00a8re\u00e2\u20ac\u2122s Disease\" data-upvotes=\"15\" data-downvotes=\"2\" data-media=\"1430\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4YVfa1JFhu0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4YVfa1JFhu0\" data-description=\"Understanding M\u00c3\u00a9ni\u00c3\u00a8re\u00e2\u20ac\u2122s Disease\" data-upvotes=\"15\" data-downvotes=\"2\" data-media=\"1430\">Understanding M\u00c3\u00a9ni\u00c3\u00a8re\u00e2\u20ac\u2122s Disease</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2525\" data-mediaid=\"2525\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2525\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_2525\" data-mediaid=\"2525\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2525\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_929",
+        "new_question_id": "41499",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11510",
+        "notes_id_link": "1_2626",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Juvenile idiopathic arthritis",
+            "Legg-Calve-Perthe's disease",
+            "Septic arthritis",
+            "Slipped upper femoral epiphysis",
+            "Transient synovitis",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 12-year-old boy is seen in the paediatric clinic with his mother. She tells you that her son has been limping over the last week with complaints of pain in his left hip and groin. There is no history of trauma to note. His past medical history includes eczema and he completed a course of antibiotics for tonsillitis 3 weeks ago.<br /><br />On examination, there is palpable tenderness in the left groin, hip and knee. There is a loss of internal rotation of left hip flexion due to extreme pain. He is in the 95th percentile of weight for his age.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Slipped upper femoral epiphysis (SUFE)</b> is correct. This is a rare hip condition seen in children (10-15 years), particularly obese boys. The condition causes displacement of the femoral head epiphysis posteroinferiorly causing hip, groin, and medial thigh +/- knee pain. Loss of internal rotation of the leg whilst in flexion may also be seen.<br /><br /><b>Juvenile idiopathic arthritis</b> (JIA) is incorrect. JIA is characterised by joint inflammation persisting for at least six weeks in children under the age of 16 years. All other causes of joint inflammation must be excluded to make the diagnosis. The relatively short history of hip pain in this patient's presentation, combined with being overweight is more indicative of SUFE.<br /><br /><b>Legg-Calve-Perthe's disease</b> is incorrect. This is characterised by necrosis of the femoral head that is most often seen in young boys aged between 4-8 years. Symptoms include a painless limp and a restricted range of movement. The presence of painful hip movements in an overweight 12-year-old makes SUFE more likely.<br /><br /><b>Septic arthritis</b> is incorrect. This is always an important differential diagnosis to consider. However, septic arthritis would be much more likely if the patient presented with a fever in association with symptoms of systemic upset.<br /><br /><b>Transient synovitis</b> is incorrect. This is a self-limiting condition secondary to inflammation of the synovium, commonly due to a recent viral illness. Transient synovitis is most common between 3-8 years of age and symptoms include groin or hip pain with a limp and refusal to weight bear. Although there is a history of a previous infection, the timeframe since the infection and the age of the patient makes transient synovitis unlikely.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 12-year-old boy is seen in the paediatric clinic with his mother. She tells you that her son has been limping over the last week with complaints of pain in his left hip and groin. There is no history of trauma to note. His past medical history includes eczema and he completed a course of antibiotics for tonsillitis 3 weeks ago.<br /><br />On examination, there is palpable tenderness in the left groin, hip and knee. There is a loss of internal rotation of left hip flexion due to extreme pain. He is in the 95th percentile of weight for his age.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "<b>Slipped upper femoral epiphysis (SUFE)</b> is correct. This is a rare hip condition seen in children (10-15 years), particularly obese boys. The condition causes displacement of the femoral head epiphysis posteroinferiorly causing hip, groin, and medial thigh +/- knee pain. Loss of internal rotation of the leg whilst in flexion may also be seen.<br /><br /><b>Juvenile idiopathic arthritis</b> (JIA) is incorrect. JIA is characterised by joint inflammation persisting for at least six weeks in children under the age of 16 years. All other causes of joint inflammation must be excluded to make the diagnosis. The relatively short history of hip pain in this patient's presentation, combined with being overweight is more indicative of SUFE.<br /><br /><b>Legg-Calve-Perthe's disease</b> is incorrect. This is characterised by necrosis of the femoral head that is most often seen in young boys aged between 4-8 years. Symptoms include a painless limp and a restricted range of movement. The presence of painful hip movements in an overweight 12-year-old makes SUFE more likely.<br /><br /><b>Septic arthritis</b> is incorrect. This is always an important differential diagnosis to consider. However, septic arthritis would be much more likely if the patient presented with a fever in association with symptoms of systemic upset.<br /><br /><b>Transient synovitis</b> is incorrect. This is a self-limiting condition secondary to inflammation of the synovium, commonly due to a recent viral illness. Transient synovitis is most common between 3-8 years of age and symptoms include groin or hip pain with a limp and refusal to weight bear. Although there is a history of a previous infection, the timeframe since the infection and the age of the patient makes transient synovitis unlikely.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Slipped capital femoral epiphysis",
+        "body": "Slipped capital femoral epiphysis is rare hip condition seen in children, classically seen in obese boys. It is also is known as slipped upper femoral epiphysis.<br /><br />Basics<br /><ul><li>typically age group is 10-15 years </li><li>More common in <span class=\"concept\" data-cid=\"2819\">obese</span> children and boys</li><li>Displacement of the femoral head epiphysis postero-inferiorly </li><li>May present acutely following trauma or more commonly with chronic, persistent symptoms </li></ul><br /><span class=\"concept\" data-cid=\"11510\">Features</span><br /><ul><li>hip, groin, medial thigh or <span class=\"concept\" data-cid=\"8748\">knee</span> pain</li><li><span class=\"concept\" data-cid=\"10293\">loss of internal rotation of the leg in flexion</span></li><li>bilateral slip in 20% of cases</li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"3396\">AP and lateral (typically frog-leg)</span> views are diagnostic</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb977b.jpg\" data-fancybox=\"gallery\" data-caption=\"X-ray of a 12-year-old girl who developed sudden pain in her right hip. There is a widening of the physis of the right proximal femur. e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb977.jpg\" alt=\"\" /></a></div></div></div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"2281\">internal fixation</span>: typically a single cannulated screw placed in the centre of the epiphysis</li></ul><br />Complications<br /><ul><li>osteoarthritis</li><li>avascular necrosis of the femoral head</li><li>chondrolysis</li><li>leg length discrepancy</li></ul>",
+        "notes_hash": "a555c6c1f11c60c5ff49cb88591ccf61",
+        "knowledge_graph_node_id_link": 1101,
+        "concept": "Obese boy with groin/thigh/knee pain &rarr; ?slipped capital femoral epiphysis",
+        "concept_percentile": "51",
+        "concept_colour": "rgb(249,255,0)",
+        "number_attempts": "5018",
+        "up_votes": "22",
+        "down_votes": "57",
+        "column_array": [
+            0,
+            "256",
+            "331",
+            "224",
+            "2758",
+            "1449",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Radiopaedia</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1561\" data-linkid=\"1561\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1561\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_1561\" data-linkid=\"1561\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1561\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://radiopaedia.org/articles/slipped-upper-femoral-epiphysis?lang=gb\">Slipped upper femoral epiphysis</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1420\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uKmFTtCPdKM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1420\">Paediatric Limp: Differential Frameworks</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2495\" data-mediaid=\"2495\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2495\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_2495\" data-mediaid=\"2495\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2495\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l0zT2-wDiIQ\" data-description=\"Slipped capital femoral epiphysis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1079\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/l0zT2-wDiIQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l0zT2-wDiIQ\" data-description=\"Slipped capital femoral epiphysis\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1079\">Slipped capital femoral epiphysis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1875\" data-mediaid=\"1875\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1875\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1875\" data-mediaid=\"1875\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1875\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "11510": {
+                "concept_text": "Obese boy with groin/thigh/knee pain --> ?slipped capital femoral epiphysis",
+                "concept_percentile": "51"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "343_B_10",
+        "new_question_id": "5447",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1495",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Send the patient to the Emergency Department as it is a safe place",
+            "Speak to the CRISIS team",
+            "Speaks to the Child and Adolescent Mental Health (CAMH) Team",
+            "Try and speak to the patient's partner to encourage reconciliation.",
+            "Ask the patient to come back and see you the next day.",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are seeing a 46-year-old man during a GP placement who has a history of depression. He recently separated from his partner and on questioning admits plans to take an overdose. He has never done this previously, and says that he doesn't want to because of the hurt it would cause his mother, but that he cannot see any other option. He has the tablets at home that he plans to take. He denies alcohol or drug abuse. In this situation you should:",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "This question tests your ability to assess and manage a patient who is suicidal. This gentleman has multiple risk factors: His gender, past history of depression, recently separated and with a stated future intent. <br /><br />In this situation you need to act appropriately. The best team to assess and manage this cases are the CRISIS team, who will be able to assess and manage this patient as a matter of urgency. <br /><br />With regards to the other options: <br /><ul><li>A transfer to the Emergency Department would simply delay the referral to the crisis team, and is not the best option. </li><li>CAMH are the child and adolescent mental health team and would not be appropriate in this setting. </li><li>It would not be your professional remit to instigate relationship counselling. </li><li>The patient has too many risk factors to allow for discharge without psychiatric assessment.</li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are seeing a 46-year-old man during a GP placement who has a history of depression. He recently separated from his partner and on questioning admits plans to take an overdose. He has never done this previously, and says that he doesn't want to because of the hurt it would cause his mother, but that he cannot see any other option. He has the tablets at home that he plans to take. He denies alcohol or drug abuse. In this situation you should:",
+        "correct_answer": "2",
+        "question_notes": "This question tests your ability to assess and manage a patient who is suicidal. This gentleman has multiple risk factors: His gender, past history of depression, recently separated and with a stated future intent. <br /><br />In this situation you need to act appropriately. The best team to assess and manage this cases are the CRISIS team, who will be able to assess and manage this patient as a matter of urgency. <br /><br />With regards to the other options: <br /><ul><li>A transfer to the Emergency Department would simply delay the referral to the crisis team, and is not the best option. </li><li>CAMH are the child and adolescent mental health team and would not be appropriate in this setting. </li><li>It would not be your professional remit to instigate relationship counselling. </li><li>The patient has too many risk factors to allow for discharge without psychiatric assessment.</li></ul>",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Depression: NICE guidelines on management",
+        "body": "NICE updated its depression guidelines in 2022. It now favours a simple classification of depression severity<br /><ul><li>'less severe' depression: encompasses what was previously termed subthreshold and mild depression<ul><li>a PHQ-9 score of < 16</li></ul></li><li>'more severe' depression: encompasses what was previously termed moderate and severe depression<ul><li>a PHQ-9 score of  \u2265 16</li></ul></li></ul><br />The NICE guidelines are long and contain many important principles about dealing with patients who have depression. The following is a very brief section highlighting key points.<br /><br /><h5 class='notes-heading'>Management of less severe depression</h5><br />NICE lists a large number of interventions that may be used first-line. It encourages us to discuss treatment options with patients to reach a shared decision. They recommend considering <i>'the least intrusive and least resource intensive treatment first'</i>. It also recommends not routinely offering <i>'<span class=\"concept\" data-cid=\"11932\">antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference</span>'.</i><br /><br />Treatment options, listed in order of preference by NICE<br /><ul><li><span class=\"concept\" data-cid=\"11931\">guided self-help</span></li><li>group cognitive behavioural therapy (CBT)</li><li>group behavioural activation (BA)</li><li>individual CBT</li><li>individual BA</li><li>group exercise</li><li>group mindfulness and meditation</li><li>interpersonal psychotherapy (IPT)</li><li><span class=\"concept\" data-cid=\"10936\">selective serotonin reuptake inhibitors (SSRIs)</span></li><li>counselling</li><li>short-term psychodynamic psychotherapy (STPP)</li></ul><br /><h5 class='notes-heading'>Management of more severe depression</h5><br />Again, NICE recommend a shared decision should be made. <br /><br />Treatment options, listed in order of preference by NICE<br /><ul><li><span class=\"concept\" data-cid=\"11930\">a combination of individual cognitive behavioural therapy (CBT) and an antidepressant</span></li><li>individual CBT</li><li>individual behavioural activation (BA)</li><li>antidepressant medication<ul><li>selective serotonin reuptake inhibitor (SSRI), or</li><li>serotonin-norepinephrine reuptake inhibitor (SNRI), or</li><li>another antidepressant if indicated based on previous clinical and treatment history</li></ul></li><li>individual problem-solving</li><li>counselling</li><li>short-term psychodynamic psychotherapy (STPP)</li><li>interpersonal psychotherapy (IPT)</li><li>guided self-help</li><li>group exercise</li></ul>",
+        "notes_hash": "32771c15b63d54530d9703ebd106ccff",
+        "knowledge_graph_node_id_link": 1186,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7060",
+        "up_votes": "28",
+        "down_votes": "29",
+        "column_array": [
+            0,
+            "1163",
+            "5712",
+            "113",
+            "15",
+            "57",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_802\" data-linkid=\"802\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_802\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_802\" data-linkid=\"802\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_802\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng222/chapter/Recommendations\">2022 Depression in adults: treatment and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tJQRsIbD110\" data-description=\"Depression Explained (Major Depressive Disorder)\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1374\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/tJQRsIbD110/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/tJQRsIbD110\" data-description=\"Depression Explained (Major Depressive Disorder)\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1374\">Depression Explained (Major Depressive Disorder)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2418\" data-mediaid=\"2418\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2418\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2418\" data-mediaid=\"2418\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2418\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "10936": {
+                "concept_text": "SSRIs are the first-line antidepressant for 'less severe' depression",
+                "concept_percentile": "48"
+            },
+            "11932": {
+                "concept_text": "Antidepressant medication should not routinely be offered as first-line treatment for less severe depression, unless that is the person's preference",
+                "concept_percentile": "85"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4680_B_128",
+        "new_question_id": "17530",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "5165",
+        "notes_id_link": "1_1353",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Exclusive breastfeeding",
+            "Female baby",
+            "Being 2 weeks old",
+            "Vaginal delivery",
+            "First child",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A mother brings in her 2-week-old baby girl to the GP surgery as she's noticed that the baby bruises very easily. This is her first child, who was born in Ukraine following an uncomplicated pregnancy by natural vaginal delivery. Exclusive breastfeeding was commenced immediately following delivery and the baby has been feeding well otherwise and gaining weight steadily. You order the following blood test.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>International normalised ratio (INR)</td><td>4</td></tr></tbody></table></div><br />Which of the following may have contributed to the baby's symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This baby is likely to have idiopathic vitamin K deficiency. Breastfeeding is the only risk factor as the breast milk is deficient in vitamin K. This baby was born in Ukraine hence may not have had the vitamin K injection following birth.<br /><br />Female gender is not a risk factor for vitamin K deficiency.<br /><br />Being 2 weeks old is not a risk factor for vitamin K deficiency.<br /><br />Vaginal delivery and being the first child do not increase the risk of the vitamin K deficiency.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A mother brings in her 2-week-old baby girl to the GP surgery as she's noticed that the baby bruises very easily. This is her first child, who was born in Ukraine following an uncomplicated pregnancy by natural vaginal delivery. Exclusive breastfeeding was commenced immediately following delivery and the baby has been feeding well otherwise and gaining weight steadily. You order the following blood test.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>International normalised ratio (INR)</td><td>4</td></tr></tbody></table></div><br />Which of the following may have contributed to the baby's symptoms?",
+        "correct_answer": "1",
+        "question_notes": "This baby is likely to have idiopathic vitamin K deficiency. Breastfeeding is the only risk factor as the breast milk is deficient in vitamin K. This baby was born in Ukraine hence may not have had the vitamin K injection following birth.<br /><br />Female gender is not a risk factor for vitamin K deficiency.<br /><br />Being 2 weeks old is not a risk factor for vitamin K deficiency.<br /><br />Vaginal delivery and being the first child do not increase the risk of the vitamin K deficiency.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Haemorrhagic disease of the newborn",
+        "body": "Newborn babies are relatively deficient in vitamin K. This may result in impaired production of clotting factors which in turn can lead to haemorrhagic disease of the newborn (HDN). Bleeding may range from minor bruising to intracranial haemorrhages<br /><br />Breast-fed babies are particularly at risk as breast milk is a poor source of vitamin K. Maternal use of antiepileptics also increases the risk<br /><br />Because of this, all newborns in the UK are offered vitamin K, either intramuscularly or orally",
+        "notes_hash": "994d2b68bedcfcb6b2e703690ec3ca7d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Breastfed babies are at risk of vitamin K deficiency",
+        "concept_percentile": "74",
+        "concept_colour": "rgb(132,255,0)",
+        "number_attempts": "6255",
+        "up_votes": "54",
+        "down_votes": "119",
+        "column_array": [
+            0,
+            "2844",
+            "714",
+            "1714",
+            "337",
+            "646",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9334",
+        "new_question_id": "19256",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "9201",
+        "notes_id_link": "1_590",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pulmonary embolism",
+            "Ventricular tachycardia",
+            "Cardiac tamponade",
+            "Myocardial infarction",
+            "Pacemaker lead disruption",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old man is admitted following a road traffic accident to the emergency department. He is complaining of dyspnoea and some chest discomfort. On examination his pulse is 120/min and blood pressure is 106/70 mmHg. An ECG is taken:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066c.png'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><br />What is the most likely cause of his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This ECG shows electrical alternans, which is considered pathognomic for cardiac tamponade. It is also sometimes seen in very large pericardial effusions. Note the alternation of QRS complex amplitude between beats.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old man is admitted following a road traffic accident to the emergency department. He is complaining of dyspnoea and some chest discomfort. On examination his pulse is 120/min and blood pressure is 106/70 mmHg. An ECG is taken:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066.png'/></a></td></tr><tr><td valign='top' align='left'> <span style = 'font-size:11px; color:LightGray;'>&copy; Image used on license from </span><a href='http://hqmeded-ecg.blogspot.com/'  target='_blank' style = 'font-size:11px; color:LightGray;' >Dr Smith, University of Minnesota</a></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a><a  border='0' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066c.png'  \n\t\ttarget='_blank' ><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass2.png'/></a></td></tr></table></CENTER><br />What is the most likely cause of his symptoms?",
+        "correct_answer": "3",
+        "question_notes": "This ECG shows electrical alternans, which is considered pathognomic for cardiac tamponade. It is also sometimes seen in very large pericardial effusions. Note the alternation of QRS complex amplitude between beats.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Cardiac tamponade",
+        "body": "Cardiac tamponade is characterized by the accumulation of pericardial fluid under pressure. <br /><br />Classical features - <span class=\"concept\" data-cid=\"1280\">Beck's triad</span>:<br /><ul><li>hypotension</li><li>raised JVP</li><li>muffled heart sounds</li></ul><br />Other features:<br /><ul><li>dyspnoea</li><li>tachycardia</li><li>an absent Y descent on the JVP - this is due to the limited right ventricular filling</li><li><span class=\"concept\" data-cid=\"4028\">pulsus paradoxus</span> - an abnormally large drop in BP during inspiration</li><li>Kussmaul's sign - much debate about this</li><li>ECG: <span class=\"concept\" data-cid=\"9201\">electrical alternans</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg120b.png\" data-fancybox=\"gallery\" data-caption=\"This ECG shows sinus tachycardia with electrical alternans, where the QRS complex amplitude varies from beat to beat. This pattern is highly suggestive of a large pericardial effusion with tamponade physiology, where the heart swings within the fluid-filled pericardial sac.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg120.png\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066b.png\" data-fancybox=\"gallery\" data-caption=\"An ECG demonstrating electrical alternans. Note the alternation of QRS complex amplitude between beats.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ecg066.png\" alt=\"\" /></a></div></div></div><br />The key differences between constrictive pericarditis and cardiac tamponade are summarised in the table below:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>Cardiac tamponade</b></th><th><b>Constrictive pericarditis</b></th></tr></thead><tbody><tr><td><b>JVP</b></td><td>Absent Y descent</td><td>X + Y present</td></tr><tr><td><b>Pulsus paradoxus</b></td><td>Present</td><td>Absent</td></tr><tr><td><b>Kussmaul's sign</b></td><td>Rare</td><td>Present</td></tr><tr><td><b>Characteristic features</b></td><td></td><td>Pericardial calcification on CXR</td></tr></tbody></table></div><br /><div class='alert alert-warning'>A commonly used mnemonic to remember the absent Y descent in cardiac tamponade is TAMponade = TAMpaX<br /></div><br />Management<br /><ul><li><span class=\"concept\" data-cid=\"1444\">urgent pericardiocentesis</span></li></ul>",
+        "notes_hash": "7a168231928b155b7fd1733cfd6c0f82",
+        "knowledge_graph_node_id_link": 10809,
+        "concept": "Electrical alternans is suggestive of cardiac tamponade",
+        "concept_percentile": "74",
+        "concept_colour": "rgb(132,255,0)",
+        "number_attempts": "5443",
+        "up_votes": "68",
+        "down_votes": "32",
+        "column_array": [
+            0,
+            "577",
+            "1506",
+            "2920",
+            "226",
+            "213",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Life in the Fast Lane</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1556\" data-linkid=\"1556\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1556\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">27</span><button type=\"button\" style=\"\" id=\"link_dislike_1556\" data-linkid=\"1556\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1556\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://litfl.com/ecg-findings-in-massive-pericardial-effusion/\">ECG Findings in Massive Pericardial Effusion</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9FgpLaCi_KE\" data-description=\"Cardiac tamponade\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1248\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9FgpLaCi_KE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9FgpLaCi_KE\" data-description=\"Cardiac tamponade\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1248\">Cardiac tamponade</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2202\" data-mediaid=\"2202\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2202\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2202\" data-mediaid=\"2202\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2202\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RsPS9JB6frM\" data-description=\"Cardiac tamponade\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"455\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/RsPS9JB6frM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/RsPS9JB6frM\" data-description=\"Cardiac tamponade\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"455\">Cardiac tamponade</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_790\" data-mediaid=\"790\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_790\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_790\" data-mediaid=\"790\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_790\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jQxX4ONGi58\" data-description=\"Echocardiogram of a Patient With Cardiac Tamponade\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"962\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jQxX4ONGi58/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jQxX4ONGi58\" data-description=\"Echocardiogram of a Patient With Cardiac Tamponade\" data-upvotes=\"11\" data-downvotes=\"2\" data-media=\"962\">Echocardiogram of a Patient With Cardiac Tamponade</a></td></tr><tr><td><span ><small>JAMA - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1663\" data-mediaid=\"1663\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1663\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_1663\" data-mediaid=\"1663\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1663\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "1280": {
+                "concept_text": "Beck's triad of falling BP, rising JVP and muffled heart sound is characteristic of cardiac tamponade \r\n",
+                "concept_percentile": "76"
+            },
+            "1444": {
+                "concept_text": "Cardiac tamponade is a life-threatening medical emergency that requires immediate treatment with pericardiocentesis\r\n",
+                "concept_percentile": "62"
+            },
+            "9201": {
+                "concept_text": "Electrical alternans is suggestive of cardiac tamponade",
+                "concept_percentile": "74"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2633_B_86",
+        "new_question_id": "14854",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2278",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Heparin - Vitamin K",
+            "Apixaban - Vitamin K",
+            "Warfarin - Idarucizumab",
+            "Dabigatran - Idarucizumab",
+            "Rivaroxaban - Idarucizumab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are in A&E reviewing a 66-year-old man who has presented with a fractured femur. He is on anticoagulation for atrial fibrillation and you are asked to reverse the anticoagulation so he is suitable for theatre. Which of the following anticoagulant - reversal agent pairs are correct?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The antidote for warfarin is vitamin K. <br /><br />The antidote for dabigatran is idarucizumab. <br /><br />The antidote for heparin is protamine sulfate.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are in A&E reviewing a 66-year-old man who has presented with a fractured femur. He is on anticoagulation for atrial fibrillation and you are asked to reverse the anticoagulation so he is suitable for theatre. Which of the following anticoagulant - reversal agent pairs are correct?",
+        "correct_answer": "4",
+        "question_notes": "The antidote for warfarin is vitamin K. <br /><br />The antidote for dabigatran is idarucizumab. <br /><br />The antidote for heparin is protamine sulfate.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Direct oral anticoagulants",
+        "body": "Direct oral anticoagulants (DOACs) are currently used for the following indications:<br /><ul><li>prevention of stroke in non-valvular AF. NICE stipulate that certain other risk factors should be present. These are complicated and differ between the DOACs but generally require one of the following to be present:<ul><li>prior stroke or transient ischaemic attack</li><li>age 75 years or older</li><li>hypertension</li><li>diabetes mellitus</li><li>heart failure</li></ul></li><li>prevention of VTE following hip/knee surgery</li><li>treatment of DVT and PE</li></ul><br />The table below summaries some of the differences between the DOACs:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th>Dabigatran</th><th>Rivaroxaban</th><th>Apixaban</th><th>Edoxaban</th></tr></thead><tbody><tr><td><b>Mechanism of action</b></td><td><span class=\"concept\" data-cid=\"2625\">Direct thrombin inhibitor</span></td><td><span class=\"concept\" data-cid=\"2624\">Direct factor Xa inhibitor</span></td><td><span class=\"concept\" data-cid=\"2623\">Direct factor Xa inhibitor</span></td><td>Direct factor Xa inhibitor</td></tr><tr><td><b>Excretion</b></td><td>Majority renal</td><td>Majority liver</td><td><span class=\"concept\" data-cid=\"4832\">Majority faecal</span></td><td>Majority faecal</td></tr><tr><td><b>Reversal</b></td><td><span class=\"concept\" data-cid=\"5275\">Idarucizumab</span></td><td><span class=\"concept\" data-cid=\"11094\">Andexanet alfa*</span></td><td><span class=\"concept\" data-cid=\"11094\">Andexanet alfa*</span></td><td>No authorised reversal agent, although andexanet alfa has been studied</td></tr></tbody></table></div><br />*Andexanet alfa is a recombinant form of human factor Xa protein",
+        "notes_hash": "20e149aa49c0b66620edd2bd8bbc1d65",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5418",
+        "up_votes": "59",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "478",
+            "179",
+            "83",
+            "3560",
+            "1118",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_452\" data-linkid=\"452\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_452\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_452\" data-linkid=\"452\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_452\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/TA249/chapter/1-Guidance\">2012 Dabigatran etexilate for the prevention of stroke and systemic embolism in atrial fibrillation</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"729\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eZBtQ0rDnG4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"729\">Antiplatelets and anticoagulants made easy</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1271\" data-mediaid=\"1271\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1271\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1271\" data-mediaid=\"1271\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1271\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"164\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ys8fMaqfq4Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"164\">Haemostasis 3 - Anticoagulants & Thrombolytics</a></td></tr><tr><td><span ><small>Handwritten Tutorials - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_281\" data-mediaid=\"281\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_281\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_281\" data-mediaid=\"281\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_281\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "5275": {
+                "concept_text": "Idarucizumab is a reversal agent for dabigatran ",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2122",
+        "new_question_id": "61203",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "1440",
+        "notes_id_link": "1_211",
+        "theme": "Third nerve palsy with signs of raised ICP",
+        "instruction": "",
+        "options": [
+            "",
+            "Cavernous sinus thrombosis",
+            "Diabetic mononeuropathy",
+            "Midbrain infarction",
+            "Posterior communicating artery aneurysm",
+            "Uncal herniation",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old man is brought to the Emergency Department with acute confusion. For several weeks, he has had worsening headaches, particularly on waking. On examination, his right pupil is fixed and dilated. The right eye is deviated inferiorly and laterally.<br /><br />Select the single most likely diagnosis from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Uncal herniation</b> is the most likely diagnosis. The clinical picture is highly suggestive of a process causing significantly raised intracranial pressure (ICP). The history of several weeks of worsening headache, particularly on waking, is a classic feature of raised ICP, likely secondary to an underlying space-occupying lesion (e.g., tumour, abscess, or chronic subdural haematoma). The acute deterioration with confusion, coupled with the signs of an ipsilateral third nerve palsy (oculomotor nerve), points towards transtentorial (uncal) herniation. As the ICP rises, the uncus (the innermost part of the temporal lobe) is forced through the tentorial notch, compressing adjacent structures. The third cranial nerve is particularly vulnerable as it passes through this space. Compression of the nerve affects the outer parasympathetic fibres first, leading to a fixed, dilated pupil. Further compression affects the motor fibres, causing ptosis and the characteristic 'down and out' deviation of the eye due to the unopposed action of the superior oblique (CN IV) and lateral rectus (CN VI) muscles. This is a life-threatening neurological emergency requiring immediate investigation and intervention.<br /><br /><b>Cavernous sinus thrombosis</b> is a less likely diagnosis. While it can cause a third nerve palsy, it typically presents with a constellation of other signs due to the involvement of multiple structures within the sinus. This includes palsies of cranial nerves IV, VI, and the V1/V2 branches of V. Clinically, this would manifest with ophthalmoplegia, facial sensory loss, and prominent signs of orbital venous congestion such as proptosis, periorbital oedema, and chemosis. The patient's presentation is isolated to a third nerve palsy with signs of raised ICP, making this diagnosis less probable.<br /><br /><b>Diabetic mononeuropathy</b> is a common cause of a third nerve palsy but is inconsistent with this presentation. This condition is caused by microvascular ischaemia to the vasa nervorum supplying the nerve. This ischaemia preferentially affects the central fibres of the nerve, which control the extraocular muscles, while sparing the peripherally located parasympathetic fibres that control the pupil. Therefore, a diabetic third nerve palsy is classically 'pupil-sparing'. The presence of a fixed, dilated pupil in this patient is a red flag sign that strongly argues against a microvascular cause and points towards a compressive lesion.<br /><br /><b>Midbrain infarction</b>, specifically Weber's syndrome, involves an infarct in the territory of the posterior cerebral artery that supplies the cerebral peduncle of the midbrain. This results in an ipsilateral third nerve palsy (as the nerve fascicles are damaged) and a contralateral hemiplegia (due to damage to the adjacent corticospinal tract). The scenario does not describe any contralateral motor deficit, and the subacute history of worsening headaches is more suggestive of a progressive mass lesion than an acute vascular event.<br /><br /><b>Posterior communicating artery aneurysm</b> is an important differential for a pupil-involving third nerve palsy. An expanding aneurysm can compress the third nerve, causing pain and neurological signs similar to those described. However, the onset is typically more acute and painful. While it can cause a headache, the prolonged history of headaches that are worse on waking is much more characteristic of generalised raised ICP from a space-occupying lesion leading to herniation, rather than direct compression from an aneurysm.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old man is brought to the Emergency Department with acute confusion. For several weeks, he has had worsening headaches, particularly on waking. On examination, his right pupil is fixed and dilated. The right eye is deviated inferiorly and laterally.<br /><br />Select the single most likely diagnosis from the options below.",
+        "correct_answer": "5",
+        "question_notes": "<b>Uncal herniation</b> is the most likely diagnosis. The clinical picture is highly suggestive of a process causing significantly raised intracranial pressure (ICP). The history of several weeks of worsening headache, particularly on waking, is a classic feature of raised ICP, likely secondary to an underlying space-occupying lesion (e.g., tumour, abscess, or chronic subdural haematoma). The acute deterioration with confusion, coupled with the signs of an ipsilateral third nerve palsy (oculomotor nerve), points towards transtentorial (uncal) herniation. As the ICP rises, the uncus (the innermost part of the temporal lobe) is forced through the tentorial notch, compressing adjacent structures. The third cranial nerve is particularly vulnerable as it passes through this space. Compression of the nerve affects the outer parasympathetic fibres first, leading to a fixed, dilated pupil. Further compression affects the motor fibres, causing ptosis and the characteristic 'down and out' deviation of the eye due to the unopposed action of the superior oblique (CN IV) and lateral rectus (CN VI) muscles. This is a life-threatening neurological emergency requiring immediate investigation and intervention.<br /><br /><b>Cavernous sinus thrombosis</b> is a less likely diagnosis. While it can cause a third nerve palsy, it typically presents with a constellation of other signs due to the involvement of multiple structures within the sinus. This includes palsies of cranial nerves IV, VI, and the V1/V2 branches of V. Clinically, this would manifest with ophthalmoplegia, facial sensory loss, and prominent signs of orbital venous congestion such as proptosis, periorbital oedema, and chemosis. The patient's presentation is isolated to a third nerve palsy with signs of raised ICP, making this diagnosis less probable.<br /><br /><b>Diabetic mononeuropathy</b> is a common cause of a third nerve palsy but is inconsistent with this presentation. This condition is caused by microvascular ischaemia to the vasa nervorum supplying the nerve. This ischaemia preferentially affects the central fibres of the nerve, which control the extraocular muscles, while sparing the peripherally located parasympathetic fibres that control the pupil. Therefore, a diabetic third nerve palsy is classically 'pupil-sparing'. The presence of a fixed, dilated pupil in this patient is a red flag sign that strongly argues against a microvascular cause and points towards a compressive lesion.<br /><br /><b>Midbrain infarction</b>, specifically Weber's syndrome, involves an infarct in the territory of the posterior cerebral artery that supplies the cerebral peduncle of the midbrain. This results in an ipsilateral third nerve palsy (as the nerve fascicles are damaged) and a contralateral hemiplegia (due to damage to the adjacent corticospinal tract). The scenario does not describe any contralateral motor deficit, and the subacute history of worsening headaches is more suggestive of a progressive mass lesion than an acute vascular event.<br /><br /><b>Posterior communicating artery aneurysm</b> is an important differential for a pupil-involving third nerve palsy. An expanding aneurysm can compress the third nerve, causing pain and neurological signs similar to those described. However, the onset is typically more acute and painful. While it can cause a headache, the prolonged history of headaches that are worse on waking is much more characteristic of generalised raised ICP from a space-occupying lesion leading to herniation, rather than direct compression from an aneurysm.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Third nerve palsy",
+        "body": "Features<br /><ul><li><span class=\"concept\" data-cid=\"6009\">eye is deviated 'down and out'</span></li><li>ptosis</li><li>pupil may be dilated (sometimes called a <span class=\"concept\" data-cid=\"1622\">'surgical' third nerve palsy</span>)</li></ul><br />Causes<br /><ul><li>diabetes mellitus</li><li>vasculitis e.g. temporal arteritis, SLE</li><li><span class=\"concept\" data-cid=\"1440\">false localizing sign* due to uncal herniation through tentorium if raised ICP</span></li><li><span class=\"concept\" data-cid=\"10206\">posterior communicating artery aneurysm</span><ul><li>pupil dilated</li><li>often associated <span class=\"concept\" data-cid=\"518\">pain</span></li></ul></li><li>cavernous sinus thrombosis</li><li>Weber's syndrome: ipsilateral third nerve palsy with contralateral hemiplegia -caused by midbrain strokes</li><li>other possible causes: amyloid, multiple sclerosis</li></ul><br />*this term is usually associated with sixth nerve palsies but it may be used for a variety of neurological presentations",
+        "notes_hash": "89e0dc775db2ca1e75d5165ac1a74d05",
+        "knowledge_graph_node_id_link": 1289,
+        "concept": "Raised ICP can cause a third nerve palsy due to herniation",
+        "concept_percentile": "82",
+        "concept_colour": "rgb(91,255,0)",
+        "number_attempts": "59",
+        "up_votes": "1",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "16",
+            "0",
+            "5",
+            "18",
+            "20",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AEL0xeJ_NSw\" data-description=\"Third Cranial Nerve Palsy\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"222\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/AEL0xeJ_NSw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/AEL0xeJ_NSw\" data-description=\"Third Cranial Nerve Palsy\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"222\">Third Cranial Nerve Palsy</a></td></tr><tr><td><span ><small>U-M Kellogg Eye Center - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_366\" data-mediaid=\"366\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_366\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_366\" data-mediaid=\"366\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_366\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fMAIYqPNiYY\" data-description=\"3rd nerve palsy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"348\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fMAIYqPNiYY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fMAIYqPNiYY\" data-description=\"3rd nerve palsy\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"348\">3rd nerve palsy</a></td></tr><tr><td><span ><small>Individual - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_590\" data-mediaid=\"590\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_590\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_590\" data-mediaid=\"590\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_590\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FKrCh6BnTR4\" data-description=\"Cranial nerve palsies\" data-upvotes=\"45\" data-downvotes=\"2\" data-media=\"802\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FKrCh6BnTR4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FKrCh6BnTR4\" data-description=\"Cranial nerve palsies\" data-upvotes=\"45\" data-downvotes=\"2\" data-media=\"802\">Cranial nerve palsies</a></td></tr><tr><td><span ><small>Tim Root - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1396\" data-mediaid=\"1396\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1396\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">45</span><button type=\"button\" style=\"\" id=\"media_dislike_1396\" data-mediaid=\"1396\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1396\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "1440": {
+                "concept_text": "Raised ICP can cause a third nerve palsy due to herniation",
+                "concept_percentile": "82"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "13847_B_56",
+        "new_question_id": "41083",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "820",
+        "notes_id_link": "1_685",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Alanine transaminase (ALT)",
+            "Alkaline phosphatase (ALP)",
+            "Cytochrome P450 (CYP450)",
+            "Dihydropyrimidine dehydrogenase (DPD)",
+            "Thiopurine S-methyltransferase (TPMT)",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old man has a surgical resection of the terminal ileum for stricturing Crohn's disease. <br /><br />His gastroenterologist opts to initiate azathioprine to maintain remission following surgery.<br /><br />What enzyme level is most important to test before starting this treatment?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>TPMT</b> is the correct response. The enzyme TPMT is the rate-limiting step in the conversion of azathioprine into its inactive metabolites. Therefore, patients with low or absent levels of TPMT are at high risk of adverse side effects, including bone marrow suppression. For this reason, measurement of TPMT levels is recommended before the initiation of azathioprine. <br /><br /><b>ALT</b> and <b>ALP</b> are incorrect. Although the BNF advises caution in initiating azathioprine in patients with severe hepatic impairment, the measurement of TPMT levels before initiating treatment is specifically recommended in the BNF, which is not the case for liver enzymes. <br /><br /><b>Cytochrome P450</b> is incorrect. Cytochrome P450 levels are not known to affect the metabolism of azathioprine, and in any case its level is not routinely measured in clinical practice. <br /><br /><b>Dihydropyrimidine dehydrogenase (DPD)</b> is incorrect. This is measured before treatment with the chemotherapy agents 5FU, capecitabine and tegafur.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old man has a surgical resection of the terminal ileum for stricturing Crohn's disease. <br /><br />His gastroenterologist opts to initiate azathioprine to maintain remission following surgery.<br /><br />What enzyme level is most important to test before starting this treatment?",
+        "correct_answer": "5",
+        "question_notes": "<b>TPMT</b> is the correct response. The enzyme TPMT is the rate-limiting step in the conversion of azathioprine into its inactive metabolites. Therefore, patients with low or absent levels of TPMT are at high risk of adverse side effects, including bone marrow suppression. For this reason, measurement of TPMT levels is recommended before the initiation of azathioprine. <br /><br /><b>ALT</b> and <b>ALP</b> are incorrect. Although the BNF advises caution in initiating azathioprine in patients with severe hepatic impairment, the measurement of TPMT levels before initiating treatment is specifically recommended in the BNF, which is not the case for liver enzymes. <br /><br /><b>Cytochrome P450</b> is incorrect. Cytochrome P450 levels are not known to affect the metabolism of azathioprine, and in any case its level is not routinely measured in clinical practice. <br /><br /><b>Dihydropyrimidine dehydrogenase (DPD)</b> is incorrect. This is measured before treatment with the chemotherapy agents 5FU, capecitabine and tegafur.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Azathioprine",
+        "body": "Azathioprine is <span class=\"concept\" data-cid=\"7992\">metabolised to the active compound mercaptopurine, a purine analogue that inhibits purine synthesis</span>. A <span class=\"concept\" data-cid=\"820\">thiopurine methyltransferase (TPMT)</span> test may be needed to look for individuals prone to azathioprine toxicity.<br /><br />Adverse effects include<br /><ul><li><span class=\"concept\" data-cid=\"7991\">bone marrow depression</span><ul><li>consider a full blood count if infection/bleeding occurs</li></ul></li><li>nausea/vomiting</li><li><span class=\"concept\" data-cid=\"2628\">pancreatitis</span></li><li><span class=\"concept\" data-cid=\"2152\">increased risk of non-melanoma skin cancer</span></li></ul><br />A significant interaction may occur with <span class=\"concept\" data-cid=\"2766\">allopurinol</span> and hence lower doses of azathioprine should be used.<br /><br /><span class=\"concept\" data-cid=\"10600\">Azathioprine is generally considered safe to use in pregnancy</span>.<br /><ul><li>data show no increased risk of congenital malformations at standard doses.</li><li>it is considered safer than many alternatives (e.g. mycophenolate, methotrexate, cyclophosphamide - all contraindicated in pregnancy).</li><li>uncontrolled SLE in pregnancy is a greater risk to both mother and foetus than azathioprine therapy.</li></ul>",
+        "notes_hash": "21c358e3d367b67fecaf9546a19efd4b",
+        "knowledge_graph_node_id_link": 10782,
+        "concept": "Azathioprine - check thiopurine methyltransferase deficiency (TPMT) before treatment",
+        "concept_percentile": "39",
+        "concept_colour": "rgb(255,198,0)",
+        "number_attempts": "4740",
+        "up_votes": "20",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "581",
+            "222",
+            "395",
+            "126",
+            "3416",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FAqnKWA1qu4\" data-description=\"Azathioprine - Pharmacology, mechanism of action, side effects\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1165\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FAqnKWA1qu4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FAqnKWA1qu4\" data-description=\"Azathioprine - Pharmacology, mechanism of action, side effects\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"1165\">Azathioprine - Pharmacology, mechanism of action, side effects</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2017\" data-mediaid=\"2017\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2017\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2017\" data-mediaid=\"2017\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2017\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "820": {
+                "concept_text": "Azathioprine - check thiopurine methyltransferase deficiency (TPMT) before treatment",
+                "concept_percentile": "39"
+            },
+            "2628": {
+                "concept_text": "Pancreatitis is an adverse effect of azathioprine",
+                "concept_percentile": "13"
+            },
+            "7991": {
+                "concept_text": "Azathioprine may cause myelosuppression - consider a full blood count if infection/bleeding occurs",
+                "concept_percentile": "30"
+            },
+            "7992": {
+                "concept_text": "Azathioprine is metabolised to the active compound mercaptopurine, a purine analogue that inhibits purine synthesis",
+                "concept_percentile": "4"
+            },
+            "10600": {
+                "concept_text": "Azathioprine is safe to use in pregnancy ",
+                "concept_percentile": "96"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

@@ -1,0 +1,904 @@
+[
+    {
+        "question_id": "4564_B_33",
+        "new_question_id": "14682",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "3289",
+        "notes_id_link": "1_1244",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Multiple pregnancy",
+            "Breastfeeding",
+            "Early menarche",
+            "Premature menopause",
+            "Lack of oral contraceptive use",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 44-year-old lady is considering starting hormone replacement therapy but is worried about the risk of breast cancer. <br /><br />She started menarche when she was 10 and went into premature menopause at 42. She has 3 children all of whom were breastfed. She has never been on the oral contraceptive pill.<br /><br />Other than hormone replacement therapy which of the following is most associated with an increased risk of breast cancer?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer here is early menarche which is a risk factor for breast cancer along with late menopause, combined oral contraceptive use and hormone replacement therapy. <br /><br />Multiple pregnancy and breastfeeding are protective and reduce the risk of breast cancer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 44-year-old lady is considering starting hormone replacement therapy but is worried about the risk of breast cancer. <br /><br />She started menarche when she was 10 and went into premature menopause at 42. She has 3 children all of whom were breastfed. She has never been on the oral contraceptive pill.<br /><br />Other than hormone replacement therapy which of the following is most associated with an increased risk of breast cancer?",
+        "correct_answer": "3",
+        "question_notes": "The correct answer here is early menarche which is a risk factor for breast cancer along with late menopause, combined oral contraceptive use and hormone replacement therapy. <br /><br />Multiple pregnancy and breastfeeding are protective and reduce the risk of breast cancer.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Breast cancer: risk factors",
+        "body": "Predisposing factors<br /><ul><li><span class=\"concept\" data-cid=\"6863\">BRCA1</span>, <span class=\"concept\" data-cid=\"6864\">BRCA2</span> genes - 40% lifetime risk of breast/ovarian cancer</li><li>1st degree relative premenopausal relative with breast cancer (e.g. mother)</li><li><span class=\"concept\" data-cid=\"6865\">nulliparity</span>, 1st pregnancy > 30 yrs (twice risk of women having 1st child < 25 yrs)</li><li><span class=\"concept\" data-cid=\"6866\">early menarche</span>, <span class=\"concept\" data-cid=\"6867\">late menopause</span></li><li><span class=\"concept\" data-cid=\"6871\">combined hormone replacement therapy</span> (relative risk increase * 1.023/year of use), <span class=\"concept\" data-cid=\"6868\">combined oral contraceptive use</span></li><li>past breast cancer</li><li>not breastfeeding</li><li>ionising radiation</li><li><span class=\"concept\" data-cid=\"6870\">p53 gene mutations</span></li><li><span class=\"concept\" data-cid=\"6869\">obesity</span></li><li>previous surgery for benign disease (?more follow-up, scar hides lump)</li></ul>",
+        "notes_hash": "a1cc4e4359202bdd8e9a5e5f2b085c79",
+        "knowledge_graph_node_id_link": 1030,
+        "concept": "HRT, early menarche, late menopause and COCP all increase the risk of breast cancer whereas multiple pregnancy and breastfeeding reduce the risk",
+        "concept_percentile": "93",
+        "concept_colour": "rgb(35,255,0)",
+        "number_attempts": "5187",
+        "up_votes": "29",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "173",
+            "39",
+            "3944",
+            "856",
+            "175",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jPtCkcILCGU\" data-description=\"Breast cancer\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"701\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jPtCkcILCGU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jPtCkcILCGU\" data-description=\"Breast cancer\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"701\">Breast cancer</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1227\" data-mediaid=\"1227\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1227\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1227\" data-mediaid=\"1227\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1227\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "6863": {
+                "concept_text": "Breast cancer - risk factors include: mutations of the BRCA1 gene",
+                "concept_percentile": "23"
+            },
+            "6864": {
+                "concept_text": "Breast cancer - risk factors include: mutations of the BRCA2 gene",
+                "concept_percentile": "12"
+            },
+            "6865": {
+                "concept_text": "Breast cancer - risk factors include: nulliparity",
+                "concept_percentile": "39"
+            },
+            "6866": {
+                "concept_text": "Breast cancer - risk factors include: early menarche",
+                "concept_percentile": "38"
+            },
+            "6867": {
+                "concept_text": "Breast cancer - risk factors include: late menopause",
+                "concept_percentile": "45"
+            },
+            "6868": {
+                "concept_text": "Breast cancer - risk factors include: combined oral contraceptive pill use",
+                "concept_percentile": "16"
+            },
+            "6869": {
+                "concept_text": "Breast cancer - risk factors include: obesity",
+                "concept_percentile": "24"
+            },
+            "6870": {
+                "concept_text": "Breast cancer - risk factors include: p53 gene mutations",
+                "concept_percentile": "16"
+            },
+            "6871": {
+                "concept_text": "Breast cancer - risk factors include: hormone replacement therapy (combined oestrogen + progesterone)",
+                "concept_percentile": "52"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "462_B_12",
+        "new_question_id": "5318",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "0",
+        "notes_id_link": "1_183",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "pH 7.32, pCO2 7.3kPa, pO2 12.1kPa, HCO3- 24mmol/L",
+            "pH 7.52, pCO2 2.0kPa, pO2 11.8kPa, HCO3- 24mmol/L",
+            "pH 7.05, pCO2 2.1kPa, pO2 12.0kPa, HCO3- 8.00mmol/L. Calculated anion gap is 14mmol/L.",
+            "pH 7.12, pCO2 3.1kPa, pO2 11.8kPa, HCO3- 6.2mmol/L. Calculated anion gap is 26mmol/L.",
+            "pH 7.48 pCO2 6.1kPa, pO2 11.7kPa, HCO3- 32mmol/L",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old woman is admitted to the Emergency department with sepsis and is also found to have an acute kidney injury. Which of the following would be the most likely finding on her arterial blood gas?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Patients who have sepsis often have a raised serum lactate due to the hypoperfusion of their peripheries. This gives them a metabolic acidosis with a raised anion gap. <br /><br />In patients with a metabolic acidosis, it can be helpful to calculate the anion gap in order to identify the cause of the metabolic acidosis. This is calculated as the difference between plasma cations (Na+ and K+) and anions (Cl- and HCO3-). The normal range is 10-18mmol/L. <br /><br />If the anion gap is raised, this suggests that there is increased production, or reduced excretion, of fixed/ organic acids e.g.<br /><ul><li>Lactic acid (sepsis, tissue ischaemia)</li><li>Urate (renal failure)</li><li>Ketones (diabetic ketoacidosis)</li><li>Drugs/ toxins (salicylates, methanol, ethylene glycol)</li></ul><br />If there is a metabolic acidosis with a normal anion gap, then this is either due to loss of bicarbonate, or accumulation of H+ ions. Causes include:<br /><ul><li>Renal tubular acidosis</li><li>Diarrhoea</li><li>Addison's disease</li><li>Pancreatic fistula </li></ul>",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old woman is admitted to the Emergency department with sepsis and is also found to have an acute kidney injury. Which of the following would be the most likely finding on her arterial blood gas?",
+        "correct_answer": "4",
+        "question_notes": "Patients who have sepsis often have a raised serum lactate due to the hypoperfusion of their peripheries. This gives them a metabolic acidosis with a raised anion gap. <br /><br />In patients with a metabolic acidosis, it can be helpful to calculate the anion gap in order to identify the cause of the metabolic acidosis. This is calculated as the difference between plasma cations (Na+ and K+) and anions (Cl- and HCO3-). The normal range is 10-18mmol/L. <br /><br />If the anion gap is raised, this suggests that there is increased production, or reduced excretion, of fixed/ organic acids e.g.<br /><ul><li>Lactic acid (sepsis, tissue ischaemia)</li><li>Urate (renal failure)</li><li>Ketones (diabetic ketoacidosis)</li><li>Drugs/ toxins (salicylates, methanol, ethylene glycol)</li></ul><br />If there is a metabolic acidosis with a normal anion gap, then this is either due to loss of bicarbonate, or accumulation of H+ ions. Causes include:<br /><ul><li>Renal tubular acidosis</li><li>Diarrhoea</li><li>Addison's disease</li><li>Pancreatic fistula </li></ul>",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Metabolic acidosis",
+        "body": "Metabolic acidosis is commonly classified according to the anion gap. This can be calculated by: (Na<sup>+</sup> + K<sup>+</sup>) - (Cl<sup>-</sup> + HCO<sup>-</sup><sub>3</sub>). If a question supplies the chloride level then this is often a clue that the anion gap should be calculated. The normal range = 10-18 mmol/L<br /><br />Normal anion gap ( = hyperchloraemic metabolic acidosis)<br /><ul><li>gastrointestinal bicarbonate loss: <ul><li><span class=\"concept\" data-cid=\"7206\">prolonged diarrhoea</span>: may also result in <span class=\"concept\" data-cid=\"11781\">hypokalaemia</span></li><li><span class=\"concept\" data-cid=\"7207\">ureterosigmoidostomy</span></li><li><span class=\"concept\" data-cid=\"7208\">fistula</span></li></ul></li><li><span class=\"concept\" data-cid=\"458\">renal tubular acidosis</span></li><li>drugs: e.g. <span class=\"concept\" data-cid=\"7209\">acetazolamide</span></li><li><span class=\"concept\" data-cid=\"7210\">ammonium chloride injection</span></li><li><span class=\"concept\" data-cid=\"3493\">Addison's disease</span></li></ul><br />Raised anion gap<br /><ul><li>lactate: <ul><li><span class=\"concept\" data-cid=\"7211\">shock</span></li><li><span class=\"concept\" data-cid=\"9308\">sepsis</span></li><li><span class=\"concept\" data-cid=\"7212\">hypoxia</span></li></ul></li><li>ketones:<ul><li><span class=\"concept\" data-cid=\"7213\">diabetic ketoacidosis</span></li><li><span class=\"concept\" data-cid=\"7216\">alcohol</span></li></ul></li><li>urate: <span class=\"concept\" data-cid=\"7214\">renal failure</span></li><li>acid poisoning: <span class=\"concept\" data-cid=\"7215\">salicylates</span>, methanol</li></ul><br />Metabolic acidosis secondary to high lactate levels may be subdivided into two types:<br /><ul><li>lactic acidosis type A: sepsis, shock, hypoxia, burns</li><li>lactic acidosis type B: metformin</li></ul>",
+        "notes_hash": "e6a08865c985aead75b94670536cbb61",
+        "knowledge_graph_node_id_link": 10508,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5428",
+        "up_votes": "14",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "451",
+            "99",
+            "1072",
+            "3643",
+            "163",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0gbjvsxuT8o\" data-description=\"ABG Interpretation Made Easy\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1229\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0gbjvsxuT8o/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0gbjvsxuT8o\" data-description=\"ABG Interpretation Made Easy\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1229\">ABG Interpretation Made Easy</a></td></tr><tr><td><span ><small>Respiratory Therapy Zone - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2159\" data-mediaid=\"2159\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2159\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2159\" data-mediaid=\"2159\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2159\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sQnEFVNrY74\" data-description=\"Anion Gap EXPLAINED\" data-upvotes=\"26\" data-downvotes=\"2\" data-media=\"674\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/sQnEFVNrY74/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/sQnEFVNrY74\" data-description=\"Anion Gap EXPLAINED\" data-upvotes=\"26\" data-downvotes=\"2\" data-media=\"674\">Anion Gap EXPLAINED</a></td></tr><tr><td><span ><small>HippocraTV - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1279\" data-mediaid=\"1279\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1279\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">26</span><button type=\"button\" style=\"\" id=\"media_dislike_1279\" data-mediaid=\"1279\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1279\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/stgY1QgpGxU\" data-description=\"Acid-base disturbances\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1266\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/stgY1QgpGxU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/stgY1QgpGxU\" data-description=\"Acid-base disturbances\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1266\">Acid-base disturbances</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2237\" data-mediaid=\"2237\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2237\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2237\" data-mediaid=\"2237\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2237\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0Er2a9-OxGc\" data-description=\"Metabolic acidosis\" data-upvotes=\"0\" data-downvotes=\"2\" data-media=\"1313\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0Er2a9-OxGc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0Er2a9-OxGc\" data-description=\"Metabolic acidosis\" data-upvotes=\"0\" data-downvotes=\"2\" data-media=\"1313\">Metabolic acidosis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2321\" data-mediaid=\"2321\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2321\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2321\" data-mediaid=\"2321\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2321\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3493": {
+                "concept_text": "Addison's disease causes a metabolic acidosis with a normal anion gap ",
+                "concept_percentile": "57"
+            },
+            "7206": {
+                "concept_text": "Diarrhoea - normal anion gap metabolic acidosis",
+                "concept_percentile": "97"
+            },
+            "9308": {
+                "concept_text": "Sepsis can cause a profound lactic acidosis",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1088_B_2942",
+        "new_question_id": "5761",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1919",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Congenital subglottic stenosis",
+            "Laryngomalacia",
+            "Congenital vocal cord paralysis",
+            "Croup",
+            "Adenotonsillar hypertrophy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 2-month-old baby presents with gradually worsening noisy breathing which is especially noticeable when she feeds. She is on a lower centile for weight gain and has poor milk intake. <br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Laryngomalacia is the most common cause of stridor in infants. It occurs due to a floppy epiglottis which folds into the airway on inspiration. This is normally a self-limiting condition, but if the stridor becomes severe with signs of respiratory distress, or if there is failure to thrive (due to poor feeding), then surgery is recommended to improve the airway.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 2-month-old baby presents with gradually worsening noisy breathing which is especially noticeable when she feeds. She is on a lower centile for weight gain and has poor milk intake. <br /><br />What is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Laryngomalacia is the most common cause of stridor in infants. It occurs due to a floppy epiglottis which folds into the airway on inspiration. This is normally a self-limiting condition, but if the stridor becomes severe with signs of respiratory distress, or if there is failure to thrive (due to poor feeding), then surgery is recommended to improve the airway.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Stridor in children",
+        "body": "Causes of stridor in children include:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Cause</th><th>Notes</th></tr></thead><tbody><tr><td><b>Croup</b></td><td>Croup is a form of upper respiratory tract infection seen in infants and toddlers. It is characterised by stridor which is caused by a combination of laryngeal oedema and secretions. Parainfluenza viruses account for the majority of cases.<br /><br />Epidemiology<br /><ul><li>peak incidence at 6 months - 3 years</li><li>more common in autumn</li></ul><br />Features<br /><ul><li>stridor</li><li>barking cough (worse at night)</li><li>fever</li><li>coryzal symptoms</td></tr><tr><td></li></ul><b>Acute epiglottitis </b></td><td>Acute epiglottitis is rare but serious infection caused by <i>Haemophilus influenzae</i> type B. Prompt recognition and treatment is essential as airway obstruction may develop. Epiglottitis generally occurs in children between the ages of 2 and 6 years. The incidence of epiglottitis has decreased since the introduction of the Hib vaccine<br /><br />Features<br /><ul><li>rapid onset</li><li>unwell, toxic child</li><li>stridor</li><li>drooling of saliva</td></tr><tr><td></li></ul><b>Inhaled foreign body</b></td><td>Symptoms depend on the site of impaction<br /><br />Features are of sudden onset<br /><ul><li>coughing</li><li>choking</li><li>vomiting</li><li>stridor</td></tr><tr><td></li></ul><b>Laryngomalacia</b></td><td>Congenital abnormality of the larynx. <br /><br />Infants typical present at 4 weeks of age with:<br /><ul><li>stridor</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "10f48df1b6e5808d9afbfaee491a4ee8",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5414",
+        "up_votes": "23",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "915",
+            "3710",
+            "43",
+            "199",
+            "547",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EAWjRXNBudY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAWjRXNBudY\" data-description=\"Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"838\">Stridor in children (causes, inspiratory and expiratory stridor, pathophysiology)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1470\" data-mediaid=\"1470\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1470\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1470\" data-mediaid=\"1470\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1470\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XTyNhbJAkwQ\" data-description=\"Laryngomalacia - audio\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"170\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/XTyNhbJAkwQ/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/XTyNhbJAkwQ\" data-description=\"Laryngomalacia - audio\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"170\">Laryngomalacia - audio</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_297\" data-mediaid=\"297\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_297\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_297\" data-mediaid=\"297\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_297\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"171\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gYhGIFQcCnU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gYhGIFQcCnU\" data-description=\"Stridor - audio\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"171\">Stridor - audio</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_298\" data-mediaid=\"298\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_298\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_298\" data-mediaid=\"298\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_298\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4eOKqQvvU94\" data-description=\"Laryngomalacia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"289\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4eOKqQvvU94/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4eOKqQvvU94\" data-description=\"Laryngomalacia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"289\">Laryngomalacia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_491\" data-mediaid=\"491\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_491\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_491\" data-mediaid=\"491\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_491\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2022",
+        "new_question_id": "6318",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2065",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Multivitamin tablet",
+            "Folic acid 400mcg for first 12 weeks<br />",
+            "Folic acid 400mcg for first 12 weeks and vitamin D 10mcg throughout pregnancy",
+            "Folic acid 400mcg throughout pregnancy",
+            "Folic acid 5mg for first 12 weeks",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28 year old lady with no underlying co-morbidities presents as she has found she is pregnant with her first child.  She is buying expensive branded pregnancy vitamins from the chemist and asks if they are really necessary.  What daily supplements does the NHS currently advise all women take during pregnancy (in the absence of additional risk factors)?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Women are advised to take folic acid 400mcg when trying to conceive through to 12 weeks gestation to reduce the incidence of neural tube defects.  A higher dose of 5mg is indicated if there are additional risk factors eg. diabetes or personal or family history of neural tube defects.  A daily supplement of vitamin D 10mcg is also advised throughout pregnancy for bone health, and should be continued for the duration of breastfeeding.  If a woman chooses to take a multivitamin in pregnancy, she should be advised to ensure it does not contain vitamin A (retinol) as it is teratogenic in high doses.<br /><br />Source: NHS Choices <br />http://www.nhs.uk/conditions/pregnancy-and-baby/pages/vitamins-minerals-supplements-pregnant.aspx#close<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28 year old lady with no underlying co-morbidities presents as she has found she is pregnant with her first child.  She is buying expensive branded pregnancy vitamins from the chemist and asks if they are really necessary.  What daily supplements does the NHS currently advise all women take during pregnancy (in the absence of additional risk factors)?",
+        "correct_answer": "3",
+        "question_notes": "Women are advised to take folic acid 400mcg when trying to conceive through to 12 weeks gestation to reduce the incidence of neural tube defects.  A higher dose of 5mg is indicated if there are additional risk factors eg. diabetes or personal or family history of neural tube defects.  A daily supplement of vitamin D 10mcg is also advised throughout pregnancy for bone health, and should be continued for the duration of breastfeeding.  If a woman chooses to take a multivitamin in pregnancy, she should be advised to ensure it does not contain vitamin A (retinol) as it is teratogenic in high doses.<br /><br />Source: NHS Choices <br />http://www.nhs.uk/conditions/pregnancy-and-baby/pages/vitamins-minerals-supplements-pregnant.aspx#close<br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Folic acid",
+        "body": "Folic acid is converted to tetrahydrofolate (THF). Green, leafy vegetables are a good source of folic acid.<br /><br />Functions<br /><ul><li> THF plays a key role in the transfer of 1-carbon units (e.g. methyl, methylene, and formyl groups) to the essential substrates involved in the synthesis of DNA & RNA</li></ul><br />Causes of folic acid deficiency:<br /><ul><li><span class=\"concept\" data-cid=\"2857\">phenytoin</span></li><li>methotrexate</li><li>pregnancy</li><li>alcohol excess</li></ul><br />Consequences of folic acid deficiency:<br /><ul><li>macrocytic, megaloblastic anaemia</li><li>neural tube defects</li></ul><br />Prevention of neural tube defects (NTD) during pregnancy:<br /><ul><li>all women should take 400mcg of folic acid until the 12th week of pregnancy</li><li>women at higher risk of conceiving a child with a NTD should take 5mg of folic acid from <span class=\"concept\" data-cid=\"7260\">before conception</span> until the 12th week of pregnancy</li><li>women are considered higher risk if any of the following apply:<ul><li>either partner has a NTD, they have had a previous pregnancy affected by a NTD, or they have a family history of a NTD</li><li>the woman is taking <span class=\"concept\" data-cid=\"3060\">antiepileptic drugs</span> or has coeliac disease, <span class=\"concept\" data-cid=\"3062\">diabetes</span>, or thalassaemia trait.</li><li>the woman is <span class=\"concept\" data-cid=\"3057\">obese</span> (defined as a body mass index [BMI] of <span class=\"concept\" data-cid=\"3574\">30 kg/m<sup>2</sup></span> or more).</li></ul></li></ul>",
+        "notes_hash": "3e6e11b91120c29ee9c88052b484912a",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4787",
+        "up_votes": "41",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "21",
+            "1205",
+            "3070",
+            "274",
+            "217",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ADKz3pdf_5Q\" data-description=\"Folate deficiency\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"902\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ADKz3pdf_5Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ADKz3pdf_5Q\" data-description=\"Folate deficiency\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"902\">Folate deficiency</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1567\" data-mediaid=\"1567\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1567\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1567\" data-mediaid=\"1567\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1567\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C-JF6-_uc0g\" data-description=\"Megaloblastic Anemia - Folic Acid Deficiency\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"539\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/C-JF6-_uc0g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/C-JF6-_uc0g\" data-description=\"Megaloblastic Anemia - Folic Acid Deficiency\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"539\">Megaloblastic Anemia - Folic Acid Deficiency</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_922\" data-mediaid=\"922\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_922\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_922\" data-mediaid=\"922\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_922\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "2857": {
+                "concept_text": "Phenytoin is a cause of folic acid deficiency",
+                "concept_percentile": "42"
+            },
+            "3057": {
+                "concept_text": "Women with BMI of 30 kg/m2 or more are considered at high risk of conceiving a child with neural tube defects",
+                "concept_percentile": "81"
+            },
+            "3060": {
+                "concept_text": "Women on antiepileptics, who try to conceive, should receive folic acid 5mg instead of 400mcg OD",
+                "concept_percentile": "41"
+            },
+            "3062": {
+                "concept_text": "Women with diabetes are considered at high risk of conceiving a child with neural tube defects",
+                "concept_percentile": "83"
+            },
+            "3574": {
+                "concept_text": "Pregnant obese women (BMI >30 kg/m2), should be given high dose 5mg folic acid ",
+                "concept_percentile": "74"
+            },
+            "7260": {
+                "concept_text": "In women at risk of neural tube defects, folic acid should be started before conception",
+                "concept_percentile": "75"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "19151_B_15",
+        "new_question_id": "32198",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "11209",
+        "notes_id_link": "1_1303",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "IV ceftriaxone",
+            "IV cefuroxime",
+            "IV cefotaxime + amoxicillin",
+            "IV co-amoxiclav",
+            "IV piperacillin with tazobactam",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 4-month-old baby is brought to the emergency department by her mother. On arrival, the baby is febrile, lethargic, and has reduced muscle tone. A non-blanching rash is noted over the left leg of the child.<br /><br />What is the most appropriate treatment option?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This is an unwell child and needs to be treated with high suspicion of meningitis. NICE recommends initial empirical therapy for meningitis in > 3 months of age as IV 3rd generation cephalosporins such as ceftriaxone.<br /><br />IV cefuroxime is a 2nd generation cephalosporin and not recommended for the treatment of meningitis as initial empirical therapy.<br /><br />IV cefotaxime + amoxicillin is recommended for the treatment of babies at risk of jaundice. Ceftriaxone can not be used if there is a risk of post-natal jaundice. Amoxicillin adds cover for listeria which is required <3 months of age. As the child is 4 months old this is not required.<br /><br />IV co-amoxiclav and piperacillin do not offer appropriate cover for meningitis as they do not cover central nervous system infections.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 4-month-old baby is brought to the emergency department by her mother. On arrival, the baby is febrile, lethargic, and has reduced muscle tone. A non-blanching rash is noted over the left leg of the child.<br /><br />What is the most appropriate treatment option?",
+        "correct_answer": "1",
+        "question_notes": "This is an unwell child and needs to be treated with high suspicion of meningitis. NICE recommends initial empirical therapy for meningitis in > 3 months of age as IV 3rd generation cephalosporins such as ceftriaxone.<br /><br />IV cefuroxime is a 2nd generation cephalosporin and not recommended for the treatment of meningitis as initial empirical therapy.<br /><br />IV cefotaxime + amoxicillin is recommended for the treatment of babies at risk of jaundice. Ceftriaxone can not be used if there is a risk of post-natal jaundice. Amoxicillin adds cover for listeria which is required <3 months of age. As the child is 4 months old this is not required.<br /><br />IV co-amoxiclav and piperacillin do not offer appropriate cover for meningitis as they do not cover central nervous system infections.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Meningitis in children: investigation and management",
+        "body": "<b>Investigations</b><br /><br />Contraindication to lumbar puncture (any signs of raised ICP)<br /><ul><li>focal neurological signs</li><li>papilloedema</li><li>significant bulging of the fontanelle</li><li>disseminated intravascular coagulation</li><li>signs of cerebral herniation</li></ul><br />For patients with meningococcal septicaemia a <span class=\"concept\" data-cid=\"2509\">lumbar puncture is contraindicated</span> - blood cultures and PCR for meningococcus should be obtained.<br /><br /><h5 class='notes-heading'>Management</h5><br />1. Antibiotics<br /><ul><li><span class=\"concept\" data-cid=\"261\">< 3 months: IV amoxicillin (or ampicillin) + IV cefotaxime</span></li><li><span class=\"concept\" data-cid=\"11209\">> 3 months: IV cefotaxime (or ceftriaxone)</span></li></ul><br />2. <span class=\"concept\" data-cid=\"3942\">Steroids</span><br /><ul><li><span class=\"concept\" data-cid=\"10402\">NICE advise against giving corticosteroids in children younger than 3 months </span></li><li>dexamethsone should be considered if the lumbar puncture reveals any of the following:<ul><li>frankly purulent CSF</li><li>CSF white blood cell count greater than 1000/microlitre</li><li>raised CSF white blood cell count with protein concentration greater than 1 g/litre</li><li>bacteria on Gram stain</li></ul></li></ul><br />3. Fluids<br /><ul><li>treat any shock, e.g. with colloid</li></ul><br />4. Cerebral monitoring<br /><ul><li>mechanical ventilation if respiratory impairment</li></ul><br />5. Public health notification and antibiotic prophylaxis of contacts<br /><ul><li>ciprofloxacin is now preferred over rifampicin</li></ul>",
+        "notes_hash": "63be237fc570d6092f0df580385acc01",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Initial empirical therapy for meningitis if > 3 months of age: IV 3rd generation cephalosporin",
+        "concept_percentile": "81",
+        "concept_colour": "rgb(96,255,0)",
+        "number_attempts": "5482",
+        "up_votes": "58",
+        "down_votes": "61",
+        "column_array": [
+            0,
+            "2349",
+            "482",
+            "2339",
+            "139",
+            "173",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_14\" data-linkid=\"14\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_14\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_14\" data-linkid=\"14\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_14\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG102/chapter/1-Guidance\">2010 Management of bacterial meningitis and meningococcal septicaemia in children and young people younger than 16 years</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gIHUJs2eTHA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\">Meningitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_759\" data-mediaid=\"759\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_759\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_759\" data-mediaid=\"759\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_759\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xQC6L8M6XfU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\">(Bacterial) Meningitis Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_760\" data-mediaid=\"760\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_760\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_760\" data-mediaid=\"760\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_760\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "261": {
+                "concept_text": "Meningitis in children < 3 months: give IV amoxicillin in addition to cefotaxime to cover for Listeria",
+                "concept_percentile": "94"
+            },
+            "3942": {
+                "concept_text": "Consider adding steroids in the management of children > 3 months with meningitis",
+                "concept_percentile": "100"
+            },
+            "11209": {
+                "concept_text": "Initial empirical therapy for meningitis if > 3 months of age: IV 3rd generation cephalosporin",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4285_B_6",
+        "new_question_id": "15799",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4071",
+        "notes_id_link": "1_993",
+        "theme": "Ankylosing spondylitis patient with painful red eye and hypopyon",
+        "instruction": "",
+        "options": [
+            "",
+            "Anterior uveitis",
+            "Scleritis",
+            "Episcleritis",
+            "Posterior uveitis",
+            "Corneal ulcer",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 44-year-old male patient attended the emergency department with an acute onset of redness in his left eye with pain and photophobia. On examination, his left pupil looked irregular in size and there was also hypopyon in the anterior chamber. He is known to have a condition characterised by back pain and stiffness. <br /><br />Which ONE of the following is the most likely diagnosis of his eye problem?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Anterior uveitis</b> is the archetypal ocular manifestation of HLA-B27\u2013associated spondyloarthropathies such as ankylosing spondylitis, which is strongly suggested by the history of chronic back pain and stiffness in this patient. Clinically it presents with an acutely painful, photophobic red eye, ciliary flush and, importantly, an irregular or constricted pupil caused by posterior synechiae. The accumulation of inflammatory cells and fibrin may settle inferiorly to create a visible hypopyon. These classical findings, together with the systemic association, make anterior uveitis the best single diagnosis here. Early recognition is essential because prompt steroid drops and cycloplegics limit permanent visual loss.  <br /><br /><b>Corneal ulcer</b> (microbial keratitis) is a tempting choice because it can also cause severe pain, photophobia and, occasionally, a hypopyon if inflammation spills into the anterior chamber. However, the hallmark is a focal corneal epithelial defect with an underlying stromal infiltrate that is visible with fluorescein or slit-lamp examination; the iris and pupil usually remain round and reactive. Corneal ulcers are typically related to contact-lens wear, trauma or surface disease rather than HLA-B27 conditions, so the global pattern here is less convincing for this option.  <br /><br /><b>Scleritis</b> causes a violaceous, deep ocular redness with intense boring pain often radiating to the face and jaw. The pupil remains normal in shape and size, and intra-ocular cells or hypopyon are not characteristic. Systemically, scleritis is more commonly linked to rheumatoid arthritis and granulomatosis with polyangiitis than to ankylosing spondylitis, making it a less likely explanation in this case.  <br /><br /><b>Episcleritis</b> produces a localised or sectoral redness and mild irritation rather than the marked photophobia and pain described. The condition is usually self-limiting, the anterior chamber is quiet, and the pupil is unaffected. Hypopyon is not a feature, so this choice does not fit the clinical picture.  <br /><br /><b>Posterior uveitis</b> involves inflammation of the choroid and retina. Symptoms are dominated by floaters and painless visual loss rather than external redness or photophobia. Anterior chamber signs such as a hypopyon or irregular pupil are absent, meaning the examination findings in the vignette would not be expected, and therefore posterior uveitis is implausible here.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 44-year-old male patient attended the emergency department with an acute onset of redness in his left eye with pain and photophobia. On examination, his left pupil looked irregular in size and there was also hypopyon in the anterior chamber. He is known to have a condition characterised by back pain and stiffness. <br /><br />Which ONE of the following is the most likely diagnosis of his eye problem?",
+        "correct_answer": "1",
+        "question_notes": "<b>Anterior uveitis</b> is the archetypal ocular manifestation of HLA-B27\u2013associated spondyloarthropathies such as ankylosing spondylitis, which is strongly suggested by the history of chronic back pain and stiffness in this patient. Clinically it presents with an acutely painful, photophobic red eye, ciliary flush and, importantly, an irregular or constricted pupil caused by posterior synechiae. The accumulation of inflammatory cells and fibrin may settle inferiorly to create a visible hypopyon. These classical findings, together with the systemic association, make anterior uveitis the best single diagnosis here. Early recognition is essential because prompt steroid drops and cycloplegics limit permanent visual loss.  <br /><br /><b>Corneal ulcer</b> (microbial keratitis) is a tempting choice because it can also cause severe pain, photophobia and, occasionally, a hypopyon if inflammation spills into the anterior chamber. However, the hallmark is a focal corneal epithelial defect with an underlying stromal infiltrate that is visible with fluorescein or slit-lamp examination; the iris and pupil usually remain round and reactive. Corneal ulcers are typically related to contact-lens wear, trauma or surface disease rather than HLA-B27 conditions, so the global pattern here is less convincing for this option.  <br /><br /><b>Scleritis</b> causes a violaceous, deep ocular redness with intense boring pain often radiating to the face and jaw. The pupil remains normal in shape and size, and intra-ocular cells or hypopyon are not characteristic. Systemically, scleritis is more commonly linked to rheumatoid arthritis and granulomatosis with polyangiitis than to ankylosing spondylitis, making it a less likely explanation in this case.  <br /><br /><b>Episcleritis</b> produces a localised or sectoral redness and mild irritation rather than the marked photophobia and pain described. The condition is usually self-limiting, the anterior chamber is quiet, and the pupil is unaffected. Hypopyon is not a feature, so this choice does not fit the clinical picture.  <br /><br /><b>Posterior uveitis</b> involves inflammation of the choroid and retina. Symptoms are dominated by floaters and painless visual loss rather than external redness or photophobia. Anterior chamber signs such as a hypopyon or irregular pupil are absent, meaning the examination findings in the vignette would not be expected, and therefore posterior uveitis is implausible here.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Anterior uveitis",
+        "body": "Anterior uveitis is one of the important differentials of a red eye. It is also referred to as iritis. Anterior uveitis describes inflammation of the anterior portion of the uvea - <span class=\"concept\" data-cid=\"9550\">iris and ciliary body</span>. It is associated with <span class=\"concept\" data-cid=\"4071\">HLA-B27</span> and may be seen in association with other HLA-B27 linked conditions (see below).<br /><br /><span class=\"concept\" data-cid=\"3293\">Features</span><br /><ul><li>acute onset</li><li>ocular discomfort & pain (may increase with use)</li><li>pupil may be small +/- irregular due to sphincter muscle contraction</li><li>photophobia (often intense)</li><li>blurred vision</li><li><span class=\"concept\" data-cid=\"3944\">red eye</span></li><li>lacrimation</li><li>ciliary flush: a ring of red spreading outwards</li><li>hypopyon; describes pus and inflammatory cells in the anterior chamber, often resulting in a visible fluid level</li><li>visual acuity initially normal &rarr; impaired</li></ul><br />Associated conditions<br /><ul><li><span class=\"concept\" data-cid=\"4360\">ankylosing spondylitis</span></li><li><span class=\"concept\" data-cid=\"4072\">reactive arthritis</span></li><li>ulcerative colitis, Crohn's disease</li><li>Behcet's disease</li><li><span class=\"concept\" data-cid=\"4539\">sarcoidosis</span>: bilateral disease may be seen</li></ul><br /><span class=\"concept\" data-cid=\"9593\">Management</span><br /><ul><li><span class=\"concept\" data-cid=\"4825\">urgent review by ophthalmology</span></li><li>cycloplegics (dilates the pupil which helps to relieve pain and photophobia) e.g. Atropine, cyclopentolate</li><li>steroid eye drops</li></ul>",
+        "notes_hash": "98f8d6a7e92be8476af2f3991d58ac59",
+        "knowledge_graph_node_id_link": 1131,
+        "concept": "Anterior uveitis is commonly seen in conditions of HLA-B27",
+        "concept_percentile": "40",
+        "concept_colour": "rgb(255,204,0)",
+        "number_attempts": "4928",
+        "up_votes": "10",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "4549",
+            "204",
+            "103",
+            "42",
+            "30",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "3293": {
+                "concept_text": "Anterior uveitis presents with acutely painful red eye, photophobia, small pupil, reduced visual acuity. It is often associated with pus in the anterior chamber (a hypopyon)",
+                "concept_percentile": "70"
+            },
+            "3944": {
+                "concept_text": "Anterior uveitis is an important differential of a red eye",
+                "concept_percentile": "48"
+            },
+            "4071": {
+                "concept_text": "Anterior uveitis is commonly seen in conditions of HLA-B27",
+                "concept_percentile": "40"
+            },
+            "4072": {
+                "concept_text": "In reactive arthritis, you should suspect anterior uveitis besides conjunctivitis",
+                "concept_percentile": "78"
+            },
+            "4360": {
+                "concept_text": "Anterior uveitis is associated with ankylosing spondylitis",
+                "concept_percentile": "63"
+            },
+            "4539": {
+                "concept_text": "Bilateral anterior uveitis in young adults could be an early manifestation of sarcoidosis",
+                "concept_percentile": "84"
+            },
+            "4825": {
+                "concept_text": "The most appropriate treatment of a patient with signs and symptoms consistent with anterior uveitis is urgent, same day referral for assessment by an opthalmologist",
+                "concept_percentile": "99"
+            },
+            "9593": {
+                "concept_text": "Anterior uveitis is most likely to be treated with a steroid + cycloplegic (mydriatic) drops",
+                "concept_percentile": "97"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4572_B_233",
+        "new_question_id": "15435",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "3786",
+        "notes_id_link": "1_235",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Insert a long term chest drain",
+            "Lung volume reduction surgery",
+            "Lung volume expansion surgery",
+            "Pneumonectomy",
+            "Tracheotomy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man with end-stage emphysema due to alpha-1 antitrypsin deficiency is reviewed by the respiratory team. He is currently breathless walking 100m and struggles with many of his activities of daily living. Which of the following treatments may be used as a treatment in this case?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This question is asking about the late stage treatment of alpha 1-antitrypsin deficiency. For respiratory management, it is similar to that of late stage chronic obstructive pulmonary disease (COPD). Therefore of the above options, lung volume reduction surgery is the correct answer.<br /><br />Lung volume reduction surgery removes the worst affected part of the lungs in order to improve airflow and alveolar gas exchange in the remaining portion of the lung.<br /><br />Inserting a chest drain or tracheostomy will not aid his symptoms, neither will a pneumonectomy.<br /><br />Lung volume expansion surgery is not a real thing.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man with end-stage emphysema due to alpha-1 antitrypsin deficiency is reviewed by the respiratory team. He is currently breathless walking 100m and struggles with many of his activities of daily living. Which of the following treatments may be used as a treatment in this case?",
+        "correct_answer": "2",
+        "question_notes": "This question is asking about the late stage treatment of alpha 1-antitrypsin deficiency. For respiratory management, it is similar to that of late stage chronic obstructive pulmonary disease (COPD). Therefore of the above options, lung volume reduction surgery is the correct answer.<br /><br />Lung volume reduction surgery removes the worst affected part of the lungs in order to improve airflow and alveolar gas exchange in the remaining portion of the lung.<br /><br />Inserting a chest drain or tracheostomy will not aid his symptoms, neither will a pneumonectomy.<br /><br />Lung volume expansion surgery is not a real thing.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Alpha-1 antitrypsin deficiency",
+        "body": "Alpha-1 antitrypsin (A1AT) deficiency is a common inherited condition caused by a lack of a protease inhibitor (Pi) normally produced by the liver. The role of A1AT is to protect cells from enzymes such as <span class=\"concept\" data-cid=\"10147\">neutrophil elastase</span>. It classically causes emphysema (i.e. chronic obstructive pulmonary disease) in patients who are <span class=\"concept\" data-cid=\"1259\">young</span> and <span class=\"concept\" data-cid=\"3223\">non-smokers</span>.<br /><br />Genetics<br /><ul><li>located on chromosome 14</li><li>inherited in an <span class=\"concept\" data-cid=\"581\">autosomal recessive / co-dominant fashion</span>*</li><li>alleles classified by their electrophoretic mobility - M for normal, S for slow, and Z for very slow</li><li>normal: PiMM </li><li><span class=\"concept\" data-cid=\"11494\">heterozygous: PiMZ</span><ul><li>evidence base is conflicting re: risk of emphsema </li><li>however, if non-smoker low risk of developing emphsema but may pass on A1AT gene to children</li></ul></li><li>homozygous PiSS: 50% normal A1AT levels</li><li>homozygous PiZZ: 10% normal A1AT levels</li></ul><br /><span class=\"concept\" data-cid=\"12082\">Features</span><br /><ul><li>patients who manifest disease usually have PiZZ genotype</li><li>lungs: panacinar emphysema, most marked in <span class=\"concept\" data-cid=\"1412\">lower lobes</span></li><li>liver: cirrhosis and <span class=\"concept\" data-cid=\"3278\">hepatocellular carcinoma</span> in adults, cholestasis in children</li></ul><br />Investigations<br /><ul><li>A1AT concentrations</li><li>spirometry: <span class=\"concept\" data-cid=\"4530\">obstructive picture</span></li></ul><br />Management<br /><ul><li>no smoking</li><li>supportive: bronchodilators, physiotherapy</li><li>intravenous alpha1-antitrypsin protein concentrates</li><li>surgery: <span class=\"concept\" data-cid=\"3786\">lung volume reduction surgery</span>, lung transplantation</li></ul><br />*trusted sources are split on which is a more accurate description",
+        "notes_hash": "3fbdffaa060c39d72cb357f95bd65672",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Lung volume reduction surgery can be used in the treatment of alpha-1 antitrypsin deficiency",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "5929",
+        "up_votes": "32",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "379",
+            "3603",
+            "1035",
+            "822",
+            "90",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pXR0RpMMrfk\" data-description=\"Alpha-1 antitrypsin deficiency\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"300\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/pXR0RpMMrfk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/pXR0RpMMrfk\" data-description=\"Alpha-1 antitrypsin deficiency\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"300\">Alpha-1 antitrypsin deficiency</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_507\" data-mediaid=\"507\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_507\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_507\" data-mediaid=\"507\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_507\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/27/Emphysema.webm\" data-description=\"Emphysema (chronic obstructive pulmonary disease) - centriacinar, panacinar, paraseptal\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"445\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/2/27/Emphysema.webm\" data-description=\"Emphysema (chronic obstructive pulmonary disease) - centriacinar, panacinar, paraseptal\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"445\">Emphysema (chronic obstructive pulmonary disease) - centriacinar, panacinar, paraseptal</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_776\" data-mediaid=\"776\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_776\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_776\" data-mediaid=\"776\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_776\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hrpNb3e869k\" data-description=\"Alpha-1 antitrypsin deficiency\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1537\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/hrpNb3e869k/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/hrpNb3e869k\" data-description=\"Alpha-1 antitrypsin deficiency\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1537\">Alpha-1 antitrypsin deficiency</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2686\" data-mediaid=\"2686\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2686\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2686\" data-mediaid=\"2686\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2686\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "3786": {
+                "concept_text": "Lung volume reduction surgery can be used in the treatment of alpha-1 antitrypsin deficiency",
+                "concept_percentile": "50"
+            },
+            "4530": {
+                "concept_text": "Alpha-1 antitrypsin deficiency shows an obstructive picture on spirometry ",
+                "concept_percentile": "85"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_105",
+        "new_question_id": "3356",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "8942",
+        "notes_id_link": "1_1567",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Alopecia and otitis externa",
+            "Blepharitis and otitis externa",
+            "Photosensitivity and alopecia",
+            "Photosensitivity and blepharitis",
+            "Blepharitis and alopecia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old man who is HIV positive is noted to have developed seborrhoeic dermatitis. Which of the following two complications are most associated with this condition?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Alopecia is not commonly seen in seborrhoeic dermatitis, but may develop if a severe secondary infection develops",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old man who is HIV positive is noted to have developed seborrhoeic dermatitis. Which of the following two complications are most associated with this condition?",
+        "correct_answer": "2",
+        "question_notes": "Alopecia is not commonly seen in seborrhoeic dermatitis, but may develop if a severe secondary infection develops",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Seborrhoeic dermatitis in adults",
+        "body": "Seborrhoeic dermatitis in adults is a chronic dermatitis thought to be caused by an inflammatory reaction related to a proliferation of a normal skin inhabitant, a fungus called <span class=\"concept\" data-cid=\"8945\"><i>Malassezia furfur</i></span> (formerly known as <i>Pityrosporum ovale</i>). It is common, affecting around 2% of the general population.<br /><br />Features<br /><ul><li>eczematous lesions on the sebum-rich areas: <span class=\"concept\" data-cid=\"8750\">scalp (may cause dandruff), periorbital, auricular and nasolabial folds</span></li><li><span class=\"concept\" data-cid=\"8942\">otitis externa and blepharitis</span> may develop</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd074b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd074.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd075b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd075.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd076b.jpg\" data-fancybox=\"gallery\" data-caption=\"Seborrhoeic dermatitis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd076.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd994b.jpg\" data-fancybox=\"gallery\" data-caption=\"Acute form of seborrheic dermatitis on the scalp.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd994.jpg\" alt=\"\" /></a></div></div></div><br />Associated conditions include<br /><ul><li><span class=\"concept\" data-cid=\"8943\">HIV</span></li><li><span class=\"concept\" data-cid=\"8944\">Parkinson's disease</span></li></ul><br />Scalp disease management<br /><ul><li>the first-line treatment is ketoconazole 2% shampoo </li><li>over the counter preparations containing zinc pyrithione ('Head & Shoulders') and tar ('Neutrogena T/Gel') may be used if ketoconazole is not appropriate or acceptable to the person</li><li>selenium sulphide and topical corticosteroid may also be useful</li></ul><br />Face and body management<br /><ul><li>topical antifungals: e.g. <span class=\"concept\" data-cid=\"340\">ketoconazole</span></li><li>topical steroids: best used for short periods</li><li>difficult to treat - recurrences are common</li></ul>",
+        "notes_hash": "c4cf2d766b7793cd0180f1d30161a99d",
+        "knowledge_graph_node_id_link": 11048,
+        "concept": "Otitis externa and blepharitis are common complications of seborrhoeic dermatitis",
+        "concept_percentile": "44",
+        "concept_colour": "rgb(255,224,0)",
+        "number_attempts": "4859",
+        "up_votes": "43",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "380",
+            "2677",
+            "487",
+            "332",
+            "983",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_962\" data-linkid=\"962\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_962\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_962\" data-linkid=\"962\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_962\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/seborrhoeic-dermatitis/\">Overview and pictures of seborrhoeic dermatitis</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "340": {
+                "concept_text": "Seborrhoeic dermatitis - first-line treatment is topical ketoconazole",
+                "concept_percentile": "41"
+            },
+            "8750": {
+                "concept_text": "An itchy rash affecting the face and scalp distribution is commonly caused by seborrhoeic dermatitis",
+                "concept_percentile": "90"
+            },
+            "8942": {
+                "concept_text": "Otitis externa and blepharitis are common complications of seborrhoeic dermatitis",
+                "concept_percentile": "44"
+            },
+            "8944": {
+                "concept_text": "Parkinson's disease is associated with seborrhoeic dermatitis",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4693_B_5",
+        "new_question_id": "16036",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "4250",
+        "notes_id_link": "1_1555",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Discharge with advice only",
+            "Discharge with delayed prescription for antibiotics",
+            "Admit for observation",
+            "Immediate ENT evaluation",
+            "Discharge with oral antibiotics",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old male smoker attends the emergency department with a one day history of sore throat. He feels generally unwell and also complains of a hoarse voice. He has no cough. He has been unable to swallow for the last 3 hours and is spitting out saliva. On examination he has a temperature of 38\u00baC. He has trismus. On examination of his oropharynx there is no obvious abnormality and his tonsils are normal. He has bilateral cervical lymphadenopathy<br /><br />What is the most appropriate management plan for this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The key to this patient, with an apparently normal oropharynx, lies with his severe symptoms (trismus, loss of voice, unable to swallow) which hint at a deeper airway infection. He should not be discharged without ENT evaluation and flexible nasendoscopy to assess for supraglottitis; a potentially life-threatening condition.<br /><br />If supraglottitis is diagnosed, treatment consists of IV antibiotics, IV dexamethasone and adrenaline nebulisers. Patients should be in an airway monitored bed (ENT ward) or ITU if required.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old male smoker attends the emergency department with a one day history of sore throat. He feels generally unwell and also complains of a hoarse voice. He has no cough. He has been unable to swallow for the last 3 hours and is spitting out saliva. On examination he has a temperature of 38\u00baC. He has trismus. On examination of his oropharynx there is no obvious abnormality and his tonsils are normal. He has bilateral cervical lymphadenopathy<br /><br />What is the most appropriate management plan for this patient?",
+        "correct_answer": "4",
+        "question_notes": "The key to this patient, with an apparently normal oropharynx, lies with his severe symptoms (trismus, loss of voice, unable to swallow) which hint at a deeper airway infection. He should not be discharged without ENT evaluation and flexible nasendoscopy to assess for supraglottitis; a potentially life-threatening condition.<br /><br />If supraglottitis is diagnosed, treatment consists of IV antibiotics, IV dexamethasone and adrenaline nebulisers. Patients should be in an airway monitored bed (ENT ward) or ITU if required.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Sore throat",
+        "body": "Sore throat encompasses pharyngitis, tonsillitis, and laryngitis.<br /><br />The diagnosis is clinical: throat swabs and rapid antigen tests should not be carried out routinely in patients with a sore throat<br /><br />Management<br /><ul><li>paracetamol or ibuprofen for pain relief</li><li>antibiotics are not routinely indicated</li><li>there is some evidence that a single dose of oral corticosteroid may reduce the severity and duration of pain, although this has not yet been incorporated into UK guidelines</li></ul><br />NICE indications for antibiotics<br /><ul><li>features of marked systemic upset secondary to the acute sore throat</li><li>unilateral peritonsillitis</li><li>a history of rheumatic fever</li><li>an increased risk from acute infection (such as a child with diabetes mellitus or immunodeficiency)</li><li>patients with acute sore throat/acute pharyngitis/acute tonsillitis when 3 or more Centor criteria are present</li></ul><br /><h5 class='notes-heading'>Scoring systems</h5><br />The <b>Centor criteria</b> are: score 1 point for each (maximum score of 4)<br /><ul><li>presence of tonsillar exudate</li><li>tender anterior cervical lymphadenopathy or lymphadenitis</li><li>history of fever</li><li>absence of cough</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Centor score</th><th>Likelihood of isolating <i>Streptococci</i></th></tr></thead><tbody><tr><td>0 or 1 or 2</td><td>3 to 17%</td></tr><tr><td>3 or 4</td><td>32 to 56%</td></tr></tbody></table></div><br />The <b>FeverPAIN criteria</b> are: score 1 point for each (maximum score of 5)<br /><ul><li>Fever over 38\u00b0C. </li><li>Purulence (pharyngeal/tonsillar exudate).</li><li>Attend rapidly (3 days or less)</li><li>Severely Inflamed tonsils</li><li>No cough or coryza</li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>FeverPAIN score</th><th>Likelihood of isolating <i>Streptococci</i></th></tr></thead><tbody><tr><td>0 or 1</td><td>13 to 18%</td></tr><tr><td>2 or 3</td><td>34% to 40%</td></tr><tr><td>4 or 5</td><td>62% to 65%</td></tr></tbody></table></div><br />If antibiotics are indicated then either <span class=\"concept\" data-cid=\"1851\">phenoxymethylpenicillin</span> or <span class=\"concept\" data-cid=\"5457\">clarithromycin</span> (if the patient is penicillin-allergic) should be given.",
+        "notes_hash": "33522c10773c8a41fe0b08f66d02ce0f",
+        "knowledge_graph_node_id_link": 10075,
+        "concept": "Acute sore throat with no obvious oropharyngeal signs, associated with symptoms such as inability to swallow, sepsis, or trismus warrants urgent ENT evaluation to look for a deeper airway infection (e.g. supraglottitis)",
+        "concept_percentile": "75",
+        "concept_colour": "rgb(127,255,0)",
+        "number_attempts": "5293",
+        "up_votes": "45",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "86",
+            "86",
+            "367",
+            "4419",
+            "335",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9jpMQQn3R9o\" data-description=\"Understanding Tonsillitis\" data-upvotes=\"15\" data-downvotes=\"2\" data-media=\"1303\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/9jpMQQn3R9o/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/9jpMQQn3R9o\" data-description=\"Understanding Tonsillitis\" data-upvotes=\"15\" data-downvotes=\"2\" data-media=\"1303\">Understanding Tonsillitis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2306\" data-mediaid=\"2306\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2306\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_2306\" data-mediaid=\"2306\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2306\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "1851": {
+                "concept_text": "Phenoxymethylpenicillin is the first line antibiotic for tonsillitis",
+                "concept_percentile": "60"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "506_B_143",
+        "new_question_id": "4264",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1713",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Blood pressure of 140/90 mmHg",
+            "Previous pregnancy required forceps delivery",
+            "New onset vaginal bleed while in labour",
+            "Temperature of 37.5\u00baC",
+            "Mother is anxious about delivery",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are the obstetrics FY2 doctor checking through the list of patients currently on the labour ward. Which one of the following findings in one of the patients would prompt you to start continuous CTG tracing while in labour?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "As per NICE guidelines; the following would warrant continuous CTG monitoring if any of the following are present or arise during labour; <br /><ul><li> suspected chorioamnionitis or sepsis, or a temperature of 38\u00b0C or above</li><li>severe hypertension 160/110 mmHg or above </li><li>oxytocin use</li><li>the presence of significant meconium </li><li>fresh vaginal bleeding that develops in labour - this was a new point added to the guidelines in 2014 </li></ul><br />Fresh vaginal bleeds developing in labour could be a sign of placental rupture (the most common cause of antepartum haemorrhage) or placental praevia (second most common cause of antepartum haemorrhage) and therefore monitoring of the baby is required.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are the obstetrics FY2 doctor checking through the list of patients currently on the labour ward. Which one of the following findings in one of the patients would prompt you to start continuous CTG tracing while in labour?",
+        "correct_answer": "3",
+        "question_notes": "As per NICE guidelines; the following would warrant continuous CTG monitoring if any of the following are present or arise during labour; <br /><ul><li> suspected chorioamnionitis or sepsis, or a temperature of 38\u00b0C or above</li><li>severe hypertension 160/110 mmHg or above </li><li>oxytocin use</li><li>the presence of significant meconium </li><li>fresh vaginal bleeding that develops in labour - this was a new point added to the guidelines in 2014 </li></ul><br />Fresh vaginal bleeds developing in labour could be a sign of placental rupture (the most common cause of antepartum haemorrhage) or placental praevia (second most common cause of antepartum haemorrhage) and therefore monitoring of the baby is required.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Cardiotocography",
+        "body": "Cardiotocography (CTG) records pressure changes in the uterus using internal or external pressure transducers<br /><br />The normal fetal heart rate varies between 100-160 / min<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Feature</b></th><th><b>Description</b></th><th><b>Causes</b></th></tr></thead><tbody><tr><td>Baseline bradycardia</td><td>Heart rate < 100 /min</td><td>Increased fetal vagal tone, maternal beta-blocker use</td></tr><tr><td>Baseline tachycardia</td><td>Heart rate > 160 /min</td><td>Maternal pyrexia, chorioamnionitis, hypoxia, prematurity</td></tr><tr><td>Loss of baseline variability</td><td>< 5 beats / min</td><td>Prematurity, hypoxia</td></tr><tr><td>Early deceleration</td><td>Deceleration of the heart rate which commences with the onset of a contraction and returns to normal on completion of the contraction</td><td>Usually an innocuous feature and indicates head compression</td></tr><tr><td>Late deceleration</td><td>Deceleration of the heart rate which lags the onset of a contraction and does not returns to normal until after 30 seconds following the end of the contraction</td><td>Indicates fetal distress e.g. asphyxia or placental insufficiency</td></tr><tr><td>Variable decelerations</td><td>Independent of contractions</td><td>May indicate cord compression</td></tr></tbody></table></div>",
+        "notes_hash": "9598f06edf875e44bf6f5fdbfd1fc7b3",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5225",
+        "up_votes": "25",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "723",
+            "198",
+            "3878",
+            "387",
+            "39",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_150\" data-linkid=\"150\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_150\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_150\" data-linkid=\"150\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_150\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg190/resources/interpretation-of-cardiotocograph-traces-table-248732173\">Interpretation of cardiotocograph traces</a></td></tr></table><br><br><table style='width:100%'><tr><td>Perinatology.com</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1159\" data-linkid=\"1159\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1159\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1159\" data-linkid=\"1159\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1159\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://perinatology.com/Fetal%20Monitoring/Intrapartum%20Monitoring.htm\">CTG interpretation</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_377\" data-linkid=\"377\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_377\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"link_dislike_377\" data-linkid=\"377\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_377\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg190/chapter/1-Recommendations\">2014 Intrapartum care for healthy women and babies</a></td></tr></table><br><br><table style='width:100%'><tr><td>Geeky medics</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1166\" data-linkid=\"1166\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1166\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_1166\" data-linkid=\"1166\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1166\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://geekymedics.com/how-to-read-a-ctg/\">How to read a CTG</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    }
+]

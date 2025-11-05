@@ -1,0 +1,800 @@
+[
+    {
+        "question_id": "1_B_1962",
+        "new_question_id": "6364",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2088",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Ciprofloxacin",
+            "Metronidazole",
+            "Penicillin",
+            "Amoxicillin with clavulanic acid",
+            "Doxycycline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old female is on a course of oral antibiotics for mild diverticulitis. She attends a birthday party and soon afterwards complains of flushing, headache, vomiting and palpitations. Her heart rate is 115 beats/min.<br /><br />She denies any significant past medical history and no history of allergies to any food or medication. She denies recreational drug use but admits having had 1 glass of wine at the party.<br /><br />Which of the following antibiotics is she likely on?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The combination of metronidazole and ethanol can cause a disulfiram-like reaction. Clinical features of this include head and neck flushing, nausea and vomiting, sweatiness, headache and palpitations. <br /><br />Cefoperazone, a cephalosporin, is also associated with a disulfiram-like reaction to alcohol.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old female is on a course of oral antibiotics for mild diverticulitis. She attends a birthday party and soon afterwards complains of flushing, headache, vomiting and palpitations. Her heart rate is 115 beats/min.<br /><br />She denies any significant past medical history and no history of allergies to any food or medication. She denies recreational drug use but admits having had 1 glass of wine at the party.<br /><br />Which of the following antibiotics is she likely on?",
+        "correct_answer": "2",
+        "question_notes": "The combination of metronidazole and ethanol can cause a disulfiram-like reaction. Clinical features of this include head and neck flushing, nausea and vomiting, sweatiness, headache and palpitations. <br /><br />Cefoperazone, a cephalosporin, is also associated with a disulfiram-like reaction to alcohol.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Metronidazole",
+        "body": "Metronidazole is a type of antibiotic that works by forming reactive cytotoxic metabolites inside the bacteria.<br /><br />Adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"7893\">disulfiram-like reaction with alcohol</span></li><li><span class=\"concept\" data-cid=\"11778\">increases the anticoagulant effect of warfarin</span></li></ul>",
+        "notes_hash": "ee80404333bb7ffb96694da7d1a671d0",
+        "knowledge_graph_node_id_link": 10837,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5392",
+        "up_votes": "67",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "475",
+            "4265",
+            "73",
+            "333",
+            "246",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "7893": {
+                "concept_text": "A disulfiram-like reaction can occur if metronidazole and alcohol are taken together",
+                "concept_percentile": "54"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "24141_B_14",
+        "new_question_id": "40118",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "5275",
+        "notes_id_link": "1_2278",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Fresh frozen plasma",
+            "Idarucizumab",
+            "Protamine",
+            "Prothrombin complex",
+            "Vitamin K",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man presents to the emergency department with haematemesis. After checking his record, you find out that this man is on dabigatran which was commenced after being diagnosed with pulmonary embolism.<br /><br />As he is having a life-threatening bleed, the dabigatran effect needs to be reversed.<br /><br />What agent is used to reverse the effect of this anticoagulant?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This man presents with upper gastrointestinal bleeding while on dabigatran. The use of <b>Idarucizumab</b> which is a monoclonal antibody fragment is indicated to reverse the effect.<br /><br /><b>Fresh frozen plasma</b> is sometimes used to reverse the effect of warfarin in patients with bleeding and high INR when prothrombin complex is unavailable and is not used as a reversal agent for direct oral anticoagulants (DOAC) such as dabigatran.<br /><br /><b>Protamine</b> is used to reverse the heparin effect in those on heparin who are bleeding or need an urgent operation, however, it is ineffective in reversing DOAC effect.<br /><br /><b>Prothrombin complex</b> which is a concentrate of the four vitamin K dependents factors is used to treat warfarin over coagulation in patients presenting with major bleed.<br /><br /><b>Vitamin K</b> is also used for the reversal of warfarin (a vitamin K antagonist) in those on warfarin and has high INR. It would not be helpful in this scenario as it is not effective in reversing DOAC effect.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man presents to the emergency department with haematemesis. After checking his record, you find out that this man is on dabigatran which was commenced after being diagnosed with pulmonary embolism.<br /><br />As he is having a life-threatening bleed, the dabigatran effect needs to be reversed.<br /><br />What agent is used to reverse the effect of this anticoagulant?",
+        "correct_answer": "2",
+        "question_notes": "This man presents with upper gastrointestinal bleeding while on dabigatran. The use of <b>Idarucizumab</b> which is a monoclonal antibody fragment is indicated to reverse the effect.<br /><br /><b>Fresh frozen plasma</b> is sometimes used to reverse the effect of warfarin in patients with bleeding and high INR when prothrombin complex is unavailable and is not used as a reversal agent for direct oral anticoagulants (DOAC) such as dabigatran.<br /><br /><b>Protamine</b> is used to reverse the heparin effect in those on heparin who are bleeding or need an urgent operation, however, it is ineffective in reversing DOAC effect.<br /><br /><b>Prothrombin complex</b> which is a concentrate of the four vitamin K dependents factors is used to treat warfarin over coagulation in patients presenting with major bleed.<br /><br /><b>Vitamin K</b> is also used for the reversal of warfarin (a vitamin K antagonist) in those on warfarin and has high INR. It would not be helpful in this scenario as it is not effective in reversing DOAC effect.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Direct oral anticoagulants",
+        "body": "Direct oral anticoagulants (DOACs) are currently used for the following indications:<br /><ul><li>prevention of stroke in non-valvular AF. NICE stipulate that certain other risk factors should be present. These are complicated and differ between the DOACs but generally require one of the following to be present:<ul><li>prior stroke or transient ischaemic attack</li><li>age 75 years or older</li><li>hypertension</li><li>diabetes mellitus</li><li>heart failure</li></ul></li><li>prevention of VTE following hip/knee surgery</li><li>treatment of DVT and PE</li></ul><br />The table below summaries some of the differences between the DOACs:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th>Dabigatran</th><th>Rivaroxaban</th><th>Apixaban</th><th>Edoxaban</th></tr></thead><tbody><tr><td><b>Mechanism of action</b></td><td><span class=\"concept\" data-cid=\"2625\">Direct thrombin inhibitor</span></td><td><span class=\"concept\" data-cid=\"2624\">Direct factor Xa inhibitor</span></td><td><span class=\"concept\" data-cid=\"2623\">Direct factor Xa inhibitor</span></td><td>Direct factor Xa inhibitor</td></tr><tr><td><b>Excretion</b></td><td>Majority renal</td><td>Majority liver</td><td><span class=\"concept\" data-cid=\"4832\">Majority faecal</span></td><td>Majority faecal</td></tr><tr><td><b>Reversal</b></td><td><span class=\"concept\" data-cid=\"5275\">Idarucizumab</span></td><td><span class=\"concept\" data-cid=\"11094\">Andexanet alfa*</span></td><td><span class=\"concept\" data-cid=\"11094\">Andexanet alfa*</span></td><td>No authorised reversal agent, although andexanet alfa has been studied</td></tr></tbody></table></div><br />*Andexanet alfa is a recombinant form of human factor Xa protein",
+        "notes_hash": "20e149aa49c0b66620edd2bd8bbc1d65",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Idarucizumab is a reversal agent for dabigatran ",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "6680",
+        "up_votes": "17",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "289",
+            "4518",
+            "580",
+            "930",
+            "363",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_452\" data-linkid=\"452\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_452\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"link_dislike_452\" data-linkid=\"452\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_452\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/TA249/chapter/1-Guidance\">2012 Dabigatran etexilate for the prevention of stroke and systemic embolism in atrial fibrillation</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"729\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/eZBtQ0rDnG4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/eZBtQ0rDnG4\" data-description=\"Antiplatelets and anticoagulants made easy\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"729\">Antiplatelets and anticoagulants made easy</a></td></tr><tr><td><span ><small>Speed Pharmacology - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1271\" data-mediaid=\"1271\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1271\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1271\" data-mediaid=\"1271\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1271\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"164\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ys8fMaqfq4Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ys8fMaqfq4Q\" data-description=\"Haemostasis 3 - Anticoagulants & Thrombolytics\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"164\">Haemostasis 3 - Anticoagulants & Thrombolytics</a></td></tr><tr><td><span ><small>Handwritten Tutorials - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_281\" data-mediaid=\"281\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_281\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_281\" data-mediaid=\"281\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_281\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "5275": {
+                "concept_text": "Idarucizumab is a reversal agent for dabigatran ",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2261",
+        "new_question_id": "1960",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1241",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Mirena (levonorgestrel releasing) Intrauterine System",
+            "Copper Intrauterine Device",
+            "Depo-Provera (injectable progestogen)",
+            "Progesterone only pill",
+            "Implantable progestogen",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old female is diagnosed with breast cancer. Prior to her diagnosis, she was taking the combined pill as contraception. Prior to starting chemotherapy, she opts for a different method of contraception. What is the most appropriate option?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The answer here is the copper intrauterine device. According to the Faculty of Reproductive and Sexual health guidelines, breast cancer is a contraindication to all hormonal forms of contraception, rated as a Category 4- an unacceptable health risk to the patient.  ",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old female is diagnosed with breast cancer. Prior to her diagnosis, she was taking the combined pill as contraception. Prior to starting chemotherapy, she opts for a different method of contraception. What is the most appropriate option?",
+        "correct_answer": "2",
+        "question_notes": "The answer here is the copper intrauterine device. According to the Faculty of Reproductive and Sexual health guidelines, breast cancer is a contraindication to all hormonal forms of contraception, rated as a Category 4- an unacceptable health risk to the patient.  ",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Combined oral contraceptive pill: contraindications",
+        "body": "The decision of whether to start a women on the combined oral contraceptive pill is now guided by the UK Medical Eligibility Criteria (UKMEC). This scale categorises the potential cautions and contraindications according to a four point scale, as detailed below:<br /><ul><li>UKMEC 1: a condition for which there is no restriction for the use of the contraceptive method</li><li>UKMEC 2: advantages generally outweigh the disadvantages</li><li>UKMEC 3: disadvantages generally outweigh the advantages</li><li>UKMEC 4: represents an unacceptable health risk</li></ul><br />Examples of UKMEC 3 conditions include<br /><ul><li><span class=\"concept\" data-cid=\"7378\">more than 35 years old and smoking less than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"7379\">BMI > 35 kg/m^2</span>*</li><li><span class=\"concept\" data-cid=\"7380\">family history of thromboembolic disease in first degree relatives < 45 years</span></li><li><span class=\"concept\" data-cid=\"7381\">controlled hypertension</span></li><li><span class=\"concept\" data-cid=\"3569\">immobility e.g. wheel chair use</span></li><li><span class=\"concept\" data-cid=\"7410\">carrier of known gene mutations associated with breast cancer  (e.g. BRCA1/BRCA2)</span></li><li><span class=\"concept\" data-cid=\"10004\">current gallbladder disease</span></li></ul><br />Examples of UKMEC 4 conditions include <br /><ul><li><span class=\"concept\" data-cid=\"7384\">more than 35 years old and smoking more than 15 cigarettes/day</span></li><li><span class=\"concept\" data-cid=\"4289\">migraine with aura</span></li><li><span class=\"concept\" data-cid=\"7386\">history of thromboembolic disease or thrombogenic mutation</span></li><li><span class=\"concept\" data-cid=\"7387\">history of stroke or ischaemic heart disease</span></li><li><span class=\"concept\" data-cid=\"1103\">breast feeding < 6 weeks post-partum</span></li><li><span class=\"concept\" data-cid=\"7389\">uncontrolled hypertension</span></li><li><span class=\"concept\" data-cid=\"7390\">current breast cancer</span></li><li><span class=\"concept\" data-cid=\"7391\">major surgery with prolonged immobilisation</span></li><li><span class=\"concept\" data-cid=\"11564\">positive antiphospholipid antibodies (e.g. in SLE)</span></li></ul><br />Diabetes mellitus diagnosed > 20 years ago is classified as UKMEC 3 or 4 depending on severity<br /><br />Changes in 2016<br /><ul><li><span class=\"concept\" data-cid=\"7383\">breast feeding 6 weeks - 6 months postpartum</span> was changed from UKMEC 3 &rarr; 2</li></ul>",
+        "notes_hash": "15c7e7457c88565620bc37b5c51d9ac3",
+        "knowledge_graph_node_id_link": 10894,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6127",
+        "up_votes": "96",
+        "down_votes": "9",
+        "column_array": [
+            0,
+            "829",
+            "4671",
+            "97",
+            "434",
+            "96",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_305\" data-linkid=\"305\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_305\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">27</span><button type=\"button\" style=\"\" id=\"link_dislike_305\" data-linkid=\"305\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_305\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-ukmec-summary-september-2019.pdf\">UK Medical Eligibility Criteria for Contraceptive Use</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "3569": {
+                "concept_text": "Wheelchair users should not be prescribed the COCP as first-line contraceptive, as they are 'UKMEC 3'- risks outweigh benefits",
+                "concept_percentile": "68"
+            },
+            "11564": {
+                "concept_text": "Positive antiphospholipid antibodies (e.g. in SLE) is UKMEC 4 for the COCP",
+                "concept_percentile": "94"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_671",
+        "new_question_id": "40730",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "10843",
+        "notes_id_link": "1_1250",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Endometriosis",
+            "Multiparity",
+            "Previous pre-eclampsia",
+            "Twin pregnancy",
+            "Type 2 diabetes mellitus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 38-year-old woman presents to the emergency department with a sudden onset of right iliac fossa pain. She describes the pain as sharp in nature that radiates to her right shoulder. Her medical history includes endometriosis and type 2 diabetes mellitus and she smokes 10 cigarettes/day. Her last menstrual period was 40 days ago and she is worried that she might be pregnant. She has a 3-year-old son and reports that her pregnancy with him was complicated by pre-eclampsia. <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Leucocytes</td><td>negative</td></tr><tr><td>Nitrites</td><td>negative</td></tr><tr><td>\u03b2-HCG</td><td>positive</td></tr></tbody></table></div><br />What aspect of the patient's history is a risk factor for her current presentation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Endometriosis</b> is correct. This patient has a likely diagnosis of an ectopic pregnancy given the history of sudden onset iliac fossa pain on the background of a positive pregnancy test. Of the options listed, endometriosis is a risk factor for having an ectopic pregnancy. Other risk factors include previous ectopic pregnancy, damage to the fallopian tubes and IVF.<br /><br /><b>Multiparity, previous pre-eclampsia, twin pregnancy</b> and <b>type 2 diabetes mellitus</b> are not risk factors for an ectopic pregnancy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 38-year-old woman presents to the emergency department with a sudden onset of right iliac fossa pain. She describes the pain as sharp in nature that radiates to her right shoulder. Her medical history includes endometriosis and type 2 diabetes mellitus and she smokes 10 cigarettes/day. Her last menstrual period was 40 days ago and she is worried that she might be pregnant. She has a 3-year-old son and reports that her pregnancy with him was complicated by pre-eclampsia. <br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Leucocytes</td><td>negative</td></tr><tr><td>Nitrites</td><td>negative</td></tr><tr><td>\u03b2-HCG</td><td>positive</td></tr></tbody></table></div><br />What aspect of the patient's history is a risk factor for her current presentation?",
+        "correct_answer": "1",
+        "question_notes": "<b>Endometriosis</b> is correct. This patient has a likely diagnosis of an ectopic pregnancy given the history of sudden onset iliac fossa pain on the background of a positive pregnancy test. Of the options listed, endometriosis is a risk factor for having an ectopic pregnancy. Other risk factors include previous ectopic pregnancy, damage to the fallopian tubes and IVF.<br /><br /><b>Multiparity, previous pre-eclampsia, twin pregnancy</b> and <b>type 2 diabetes mellitus</b> are not risk factors for an ectopic pregnancy.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Ectopic pregnancy: epidemiology and risk factors",
+        "body": "Implantation of a fertilized ovum outside the uterus results in an ectopic pregnancy<br /><br />Epidemiology<br /><ul><li>incidence = c. 0.5% of all pregnancies</li></ul><br />Risk factors (anything slowing the ovum's passage to the uterus)<br /><ul><li>damage to tubes (<span class=\"concept\" data-cid=\"5222\">pelvic inflammatory disease</span>, surgery)</li><li>previous ectopic</li><li><span class=\"concept\" data-cid=\"10843\">endometriosis</span></li><li>IUCD</li><li>progesterone only pill</li><li>IVF (3% of pregnancies are ectopic)</li></ul>",
+        "notes_hash": "59742ca881332034ab56686af87ddd9b",
+        "knowledge_graph_node_id_link": 1038,
+        "concept": "Endometriosis is a risk factor for ectopic pregnancy ",
+        "concept_percentile": "86",
+        "concept_colour": "rgb(71,255,0)",
+        "number_attempts": "4883",
+        "up_votes": "29",
+        "down_votes": "12",
+        "column_array": [
+            0,
+            "3586",
+            "208",
+            "690",
+            "146",
+            "253",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1685\" data-linkid=\"1685\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1685\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_1685\" data-linkid=\"1685\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1685\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng126/chapter/Recommendations\">2023 Ectopic pregnancy and miscarriage: diagnosis and initial management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aMrRR3Igslk\" data-description=\"Ectopic pregnancy\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"595\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/aMrRR3Igslk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/aMrRR3Igslk\" data-description=\"Ectopic pregnancy\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"595\">Ectopic pregnancy</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1008\" data-mediaid=\"1008\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1008\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1008\" data-mediaid=\"1008\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1008\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "10843": {
+                "concept_text": "Endometriosis is a risk factor for ectopic pregnancy ",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_144",
+        "new_question_id": "7031",
+        "question_type": "1",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2347",
+        "theme": "Abdominal pain in pregnancy",
+        "instruction": "For each of the following scenarios please select the most likely diagnosis:",
+        "options": [
+            "",
+            "Ectopic pregnancy",
+            "Uterine rupture",
+            "Miscarriage",
+            "Placental abruption",
+            "Placental praevia",
+            "Pre-eclampsia/HELLP syndrome",
+            "Appendicitis",
+            "Ovarian torsion",
+            "Urinary tract infection",
+            "Pre-term labour"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A woman who is 8 weeks pregnant presents with abdominal pain and vaginal bleeding. On examination she is tender in the right iliac fossa and suprapubic region. Speculum examination shows an open cervical os. Ultrasound confirms an intrauterine pregnancy.",
+            "Z vnlzm vgn hr 33 vddjr oqdfmzms oqdrdmsr vhsg uzfhmzk akddchmf, vghbg rgd cdrbqhadr zr adhmf khjd z odqhnc. Rgd zkrn gzr bnmrszms, knvdq zacnlhmzk ozhm. Nm zrrdrrldms gdq aknnc oqdrrtqd hr 90/60 llGf zmc otkrd hr 110/lhm",
+            "Z vnlzm vgn hr 22 vddjr oqdfmzms oqdrdmsr vhsg zacnlhmzk ozhm nm sgd qhfgs rhcd ne gdq zacnldm. Nm dwzlhmzshnm rgd gzr zacnlhmzk sdmcdqmdrr nm sgd qhfgs rhcd zmc tqhmd chorshbj hr mnqlzk. Vghsd aknnc bdkkr zqd qzhrdc zs 18.5 * 10<rto>9</rto>/k"
+        ],
+        "answers": [
+            "3",
+            "4",
+            "7"
+        ],
+        "notes": [
+            "This lady is likely to be having an inevitable miscarriage.<br /><br />Appendicitis would not explain the vaginal bleeding.",
+            "Placental praevia would not usually present with abdominal pain.",
+            "Ovarian torsion should be considered but would not normally be associated with such a leucocytosis.<br /><br />Another differential diagnosis to consider is acute cholecystitis."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A woman who is 8 weeks pregnant presents with abdominal pain and vaginal bleeding. On examination she is tender in the right iliac fossa and suprapubic region. Speculum examination shows an open cervical os. Ultrasound confirms an intrauterine pregnancy.",
+        "correct_answer": "3",
+        "question_notes": "This lady is likely to be having an inevitable miscarriage.<br /><br />Appendicitis would not explain the vaginal bleeding.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Abdominal pain in pregnancy",
+        "body": "Abdominal pain in pregnancy may be divided into causes which occur early, late or at any point.<br /><br /><h5 class='notes-heading'>Early pregnancy</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Cause</th><th>Notes</th></tr></thead><tbody><tr><td>Ectopic pregnancy</td><td>This is the single most important cause of abdominal pain to exclude in early pregnancy<br /><br />0.5% of all pregnancies are ectopic<br /><br />Risk factors (anything slowing the ovum's passage to the uterus)<br /><ul><li>damage to tubes (salpingitis, surgery)</li><li>previous ectopic</li><li>IVF (3% of pregnancies are ectopic)</li></ul><br />A typical history is a female with a history of 6-8 weeks amenorrhoea who presents with lower abdominal pain and later develops vaginal bleeding<br /><ul><li>lower abdominal pain: typically the first symptom. Pain is usually constant and may be unilateral. Due to tubal spasm</li><li>vaginal bleeding: usually less than a normal period, may be dark brown in colour</li><li>history of recent amenorrhoea: typically 6-8 weeks from start of last period; if longer (e.g. 10 wks) this suggest another causes e.g. inevitable abortion</li><li>peritoneal bleeding can cause shoulder tip pain and pain on defecation / urination</li></ul>&nbsp;</td></tr><tr><td>Miscarriage</td><td>Threatened miscarriage<br /><ul><li>painless vaginal bleeding occurring before 24 weeks, but typically occurs at 6 - 9 weeks</li><li>cervical os is closed</li><li>complicates up to 25% of all pregnancies</li></ul><br />Missed (delayed) miscarriage<br /><ul><li>a gestational sac which contains a dead fetus before 20 weeks without the symptoms of expulsion</li><li>mother may have light vaginal bleeding / discharge and the symptoms of pregnancy which disappear</li><li>when the gestational sac is > 25 mm and no embryonic/fetal part can be seen it is sometimes described as a 'blighted ovum' or 'anembryonic pregnancy'</li></ul><br />Inevitable miscarriage<br /><ul><li>cervical os is open</li><li>heavy bleeding with clots and pain</li></ul><br />Incomplete miscarriage<br /><ul><li>not all products of conception have been expelled</td></tr></tbody></table></div></li></ul><br /><h5 class='notes-heading'>Late pregnancy</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid2\" ><thead><tr><th>Cause</th><th>Notes</th></tr></thead><tbody><tr><td>Labour</td><td>Regular tightening of the abdomen which may be painful in the later stages</td></tr><tr><td>Placental abruption</td><td>Placental abruption describes separation of a normally sited placenta from the uterine wall, resulting in maternal haemorrhage into the intervening space<br /><br />Occurs in approximately 1/200 pregnancies<br /><br />Clinical features<br /><ul><li>shock out of keeping with visible loss</li><li>pain constant</li><li>tender, tense uterus</li><li>normal lie and presentation</li><li>fetal heart: absent/distressed</li><li>coagulation problems</li><li>beware pre-eclampsia, DIC, anuria</td></tr><tr><td></li></ul>Symphysis pubis dysfunction</td><td>Ligament laxity increases in response to hormonal changes of pregnancy<br />Pain over the pubic symphysis with radiation to the groins and the medial aspects of the thighs. A waddling gait may be seen</td></tr><tr><td>Pre-eclampsia/HELLP syndrome</td><td>Associated with hypertension, proteinuria. Patients with HELLP also have haemolysis, elevated liver enzymes and a low platelet count.<br /><br />The pain is typically epigastric or in the RUQ</td></tr><tr><td>Uterine rupture</td><td>Ruptures usually occur during labour but occur in third trimester<br />Risk factors: previous caesarean section<br />Presents with maternal shock, abdominal pain and vaginal bleeding to varying degree</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Any point in pregnancy</h5><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid3\" ><thead><tr><th>Cause</th><th>Notes</th></tr></thead><tbody><tr><td>Appendicitis</td><td>Occurs in 1:1,000-2:1,000 pregnancies, making it the most common non-obstetric surgical emergency<br />Higher morbidity and mortality in pregnancy<br />Location of pain changes depending on gestation, moving up from the RLQ in the first trimester to the umbilicus in the second and the RUQ in the third</td></tr><tr><td>Urinary tract infection (UTI)</td><td>1 in 25 women develop in UTI in pregnancy<br />Associated with an increased risk of pre-term delivery and IUGR</td></tr></tbody></table></div>",
+        "notes_hash": "f7e02a0dabc171b837b48b5115f1bbde",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4687",
+        "up_votes": "37",
+        "down_votes": "22",
+        "column_array": [
+            0,
+            "4189",
+            "3790",
+            "3777",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"20\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/vHjQMa02PUM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/vHjQMa02PUM\" data-description=\"Placental abruption - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"2\" data-downvotes=\"2\" data-media=\"20\">Placental abruption - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_518\" data-mediaid=\"518\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_518\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_518\" data-mediaid=\"518\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_518\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_9509",
+        "new_question_id": "1046",
+        "question_type": "1",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1032",
+        "theme": "Adverse effects of drugs used in rheumatoid arthritis drugs",
+        "instruction": "For each one of the following side effects please select the drug that is most characteristically associated with it . Each options may be used once, more than once or not at all.",
+        "options": [
+            "",
+            "Naproxen",
+            "Etanercept",
+            "Sulfasalazine",
+            "Rituximab",
+            "Methotrexate",
+            "Infliximab",
+            "Adalimumab",
+            "Abatacept",
+            "Penicillamine",
+            "Ciclosporin"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "Exacerbation of myasthenia gravis",
+            "Bronchospasm in an asthmatic",
+            "Proteinuria"
+        ],
+        "answers": [
+            "9",
+            "1",
+            "9"
+        ],
+        "notes": [
+            "",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Exacerbation of myasthenia gravis",
+        "correct_answer": "9",
+        "question_notes": "",
+        "answer_order": "9",
+        "answer": "9",
+        "title": "Rheumatoid arthritis: drug side-effects",
+        "body": "The table below lists some of the characteristic (if not common) side-effects of drugs used to treat rheumatoid arthritis:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Drug</b></th><th><b>Side-effects</b></th></tr></thead><tbody><tr><td>Methotrexate</td><td>Myelosuppression<br />Liver cirrhosis<br />Pneumonitis</td></tr><tr><td>Sulfasalazine</td><td>Rashes<br />Oligospermia<br />Heinz body anaemia<br />Interstitial lung disease</td></tr><tr><td>Leflunomide</td><td>Liver impairment<br />Interstitial lung disease<br />Hypertension</td></tr><tr><td>Hydroxychloroquine</td><td>Retinopathy <br />Corneal deposits</td></tr><tr><td>Prednisolone</td><td>Cushingoid features<br />Osteoporosis<br />Impaired glucose tolerance<br />Hypertension<br />Cataracts</td></tr><tr><td>Gold</td><td>Proteinuria</td></tr><tr><td>Penicillamine</td><td>Proteinuria<br />Exacerbation of myasthenia gravis</td></tr><tr><td>Etanercept</td><td>Demyelination<br />Reactivation of tuberculosis</td></tr><tr><td>Infliximab</td><td>Reactivation of tuberculosis</td></tr><tr><td>Adalimumab</td><td>Reactivation of tuberculosis</td></tr><tr><td>Rituximab</td><td>Infusion reactions are common</td></tr><tr><td>NSAIDs (e.g. naproxen, ibuprofen)</td><td>Bronchospasm in asthmatics<br />Dyspepsia/peptic ulceration</td></tr></tbody></table></div>",
+        "notes_hash": "62f2f14d095ac15b5910d7251a00168b",
+        "knowledge_graph_node_id_link": 1093,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4949",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "1293",
+            "3683",
+            "1641",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/rhwe0fb2Um4\" data-description=\"Rheumatoid arthritis\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"456\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/rhwe0fb2Um4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/rhwe0fb2Um4\" data-description=\"Rheumatoid arthritis\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"456\">Rheumatoid arthritis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_794\" data-mediaid=\"794\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_794\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_794\" data-mediaid=\"794\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_794\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2002",
+        "new_question_id": "60984",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "547",
+        "notes_id_link": "1_2249",
+        "theme": "Next step in management of elevated clinic blood pressure",
+        "instruction": "",
+        "options": [
+            "",
+            "Arrange ambulatory blood pressure monitoring",
+            "Arrange home blood pressure monitoring",
+            "Commence amlodipine",
+            "Repeat clinic blood pressure in 1 month",
+            "Arrange blood tests and ECG",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 52-year-old man attends his GP surgery for a routine health check. He has no significant past medical history and takes no regular medications. He is asymptomatic. On examination, his blood pressure is 148/94 mmHg in the right arm and 146/92 mmHg in the left arm. A repeat measurement 5 minutes later shows 146/92 mmHg in the right arm. His BMI is 28 kg/m\u00b2 and cardiovascular examination is otherwise unremarkable.<br /><br />What is the most appropriate next step in management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Arrange ambulatory blood pressure monitoring</b> is the correct answer. This patient has had two clinic blood pressure readings \u2265140/90 mmHg, which meets the threshold for offering either ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) according to NICE guidelines. ABPM is the gold standard and should be offered first-line to confirm the diagnosis of hypertension. This approach helps identify white coat hypertension and provides a more accurate assessment of cardiovascular risk than clinic readings alone. ABPM involves at least two measurements per hour during waking hours, with at least 14 measurements averaged. The diagnosis of stage 1 hypertension would be confirmed if the daytime average is \u2265135/85 mmHg. This patient is asymptomatic with no features of accelerated hypertension or end-organ damage, so immediate investigation or treatment is not required. The systematic approach of confirming elevated clinic readings with ABPM prevents overdiagnosis and unnecessary treatment whilst identifying those who genuinely require intervention.<br /><br /><b>Arrange home blood pressure monitoring</b> would be an acceptable alternative if ABPM is not tolerated or declined by the patient, but NICE recommends offering ABPM first. HBPM involves twice-daily measurements for at least 4 days (ideally 7 days), with two consecutive readings at least 1 minute apart, discarding first-day measurements. Whilst HBPM is a valid diagnostic tool, it should be considered second-line to ABPM in this scenario where there are no contraindications or patient preferences stated.<br /><br /><b>Commence amlodipine</b> would be premature at this stage. The diagnosis of hypertension has not yet been confirmed with out-of-clinic measurements. Starting antihypertensive treatment based solely on clinic readings risks treating white coat hypertension unnecessarily. Even if hypertension is confirmed as stage 1, this patient would only require treatment if he has target organ damage, established cardiovascular disease, renal disease, diabetes, or a 10-year cardiovascular risk \u226510%. These factors have not yet been assessed.<br /><br /><b>Repeat clinic blood pressure in 1 month</b> does not follow current NICE guidance. Once clinic blood pressure is \u2265140/90 mmHg on two occasions during the same consultation, the next step is to arrange ABPM or HBPM rather than simply repeating clinic measurements. Delaying diagnosis by repeating clinic readings in a month would not add useful information and could delay necessary treatment if hypertension is confirmed and treatment criteria are met.<br /><br /><b>Arrange blood tests and ECG</b> would be appropriate after confirming the diagnosis of hypertension with ABPM or HBPM, but not at this stage. These investigations assess for target organ damage and cardiovascular risk factors, which inform treatment decisions once hypertension is confirmed. However, the immediate priority is to confirm whether hypertension is present using out-of-clinic measurements. If the blood pressure were \u2265180/120 mmHg, urgent investigations would be indicated, but this patient's readings do not meet that threshold.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 52-year-old man attends his GP surgery for a routine health check. He has no significant past medical history and takes no regular medications. He is asymptomatic. On examination, his blood pressure is 148/94 mmHg in the right arm and 146/92 mmHg in the left arm. A repeat measurement 5 minutes later shows 146/92 mmHg in the right arm. His BMI is 28 kg/m\u00b2 and cardiovascular examination is otherwise unremarkable.<br /><br />What is the most appropriate next step in management?",
+        "correct_answer": "1",
+        "question_notes": "<b>Arrange ambulatory blood pressure monitoring</b> is the correct answer. This patient has had two clinic blood pressure readings \u2265140/90 mmHg, which meets the threshold for offering either ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) according to NICE guidelines. ABPM is the gold standard and should be offered first-line to confirm the diagnosis of hypertension. This approach helps identify white coat hypertension and provides a more accurate assessment of cardiovascular risk than clinic readings alone. ABPM involves at least two measurements per hour during waking hours, with at least 14 measurements averaged. The diagnosis of stage 1 hypertension would be confirmed if the daytime average is \u2265135/85 mmHg. This patient is asymptomatic with no features of accelerated hypertension or end-organ damage, so immediate investigation or treatment is not required. The systematic approach of confirming elevated clinic readings with ABPM prevents overdiagnosis and unnecessary treatment whilst identifying those who genuinely require intervention.<br /><br /><b>Arrange home blood pressure monitoring</b> would be an acceptable alternative if ABPM is not tolerated or declined by the patient, but NICE recommends offering ABPM first. HBPM involves twice-daily measurements for at least 4 days (ideally 7 days), with two consecutive readings at least 1 minute apart, discarding first-day measurements. Whilst HBPM is a valid diagnostic tool, it should be considered second-line to ABPM in this scenario where there are no contraindications or patient preferences stated.<br /><br /><b>Commence amlodipine</b> would be premature at this stage. The diagnosis of hypertension has not yet been confirmed with out-of-clinic measurements. Starting antihypertensive treatment based solely on clinic readings risks treating white coat hypertension unnecessarily. Even if hypertension is confirmed as stage 1, this patient would only require treatment if he has target organ damage, established cardiovascular disease, renal disease, diabetes, or a 10-year cardiovascular risk \u226510%. These factors have not yet been assessed.<br /><br /><b>Repeat clinic blood pressure in 1 month</b> does not follow current NICE guidance. Once clinic blood pressure is \u2265140/90 mmHg on two occasions during the same consultation, the next step is to arrange ABPM or HBPM rather than simply repeating clinic measurements. Delaying diagnosis by repeating clinic readings in a month would not add useful information and could delay necessary treatment if hypertension is confirmed and treatment criteria are met.<br /><br /><b>Arrange blood tests and ECG</b> would be appropriate after confirming the diagnosis of hypertension with ABPM or HBPM, but not at this stage. These investigations assess for target organ damage and cardiovascular risk factors, which inform treatment decisions once hypertension is confirmed. However, the immediate priority is to confirm whether hypertension is present using out-of-clinic measurements. If the blood pressure were \u2265180/120 mmHg, urgent investigations would be indicated, but this patient's readings do not meet that threshold.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Hypertension: diagnosis",
+        "body": "NICE published updated guidelines for the management of hypertension in 2019. This builds on the significant guidelines released in 2011 that recommended:<br /><ul><li>classifying hypertension into stages</li><li>recommending the use of <span class=\"concept\" data-cid=\"547\">ambulatory blood pressure monitoring (ABPM)</span> and home blood pressure monitoring (HBPM)</li></ul><br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd927b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing simplified schematic for diagnosis hypertension following NICE guidelines</div><br /><br /><h5 class='notes-heading'>Why were these guidelines needed?</h5><br />It has long been recognised by doctors that there is a subgroup of patients whose blood pressure climbs 20 mmHg whenever they enter a clinical setting, so called 'white coat hypertension'. If we just rely on clinic readings then such patients may be diagnosed as having hypertension when, the vast majority of the time, their blood pressure is normal.<br /><br />This has led to the use of both ambulatory blood pressure monitoring (ABPM) and home blood pressure monitoring (HBPM) to confirm the diagnosis of hypertension. These techniques allow a more accurate assessment of a patients' overall blood pressure. Not only does this help prevent overdiagnosis of hypertension - ABPM has been shown to be a more accurate predictor of cardiovascular events than clinic readings.<br /><br /><h5 class='notes-heading'>Blood pressure classification</h5><br />This becomes relevant later in some of the management decisions that NICE advocate.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Criteria</b></th></tr></thead><tbody><tr><td><b>Stage 1 hypertension</b></td><td>Clinic BP >= 140/90 mmHg and subsequent ABPM daytime average or HBPM average BP >= 135/85 mmHg</td></tr><tr><td><b>Stage 2 hypertension</b></td><td>Clinic BP >= 160/100 mmHg and subsequent ABPM daytime average or HBPM average BP >= 150/95 mmHg</td></tr><tr><td><b>Severe hypertension</b></td><td>Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Diagnosing hypertension</h5><br />Firstly, NICE recommend measuring blood pressure in both arms when considering a diagnosis of hypertension. <br /><br />If the difference in readings between arms is more than 20 mmHg then the measurements should be repeated. If the difference remains > 20 mmHg then subsequent blood pressures should be recorded from the arm with the higher reading.<br /><br />It should of course be remember that there are pathological causes of unequal blood pressure readings from the arms, such as supravalvular aortic stenosis. It is therefore prudent to listen to the heart sounds if a difference exists and further investigation if a very large difference is noted.<br /><br />NICE also recommend taking a second reading during the consultation, if the first reading is > 140/90 mmHg. The lower reading of the two should determine further management.<br /><br />NICE suggest offering ABPM or HBPM to any patient with a blood pressure >= 140/90 mmHg.<br /><br />If the blood pressure is >= 180/120 mmHg:<br /><ul><li>admit for specialist assessment if:<ul><li><span class=\"concept\" data-cid=\"10965\">signs of retinal haemorrhage or papilloedema (accelerated hypertension)</span> or</li><li>life-threatening symptoms such as <span class=\"concept\" data-cid=\"10966\">new-onset confusion, chest pain, signs of heart failure, or acute kidney injury</span></li></ul></li><li>NICE also recommend referral if a phaeochromocytoma is suspected (labile or postural hypotension, headache, palpitations, pallor and diaphoresis)</li><li>if none of the above then arrange <span class=\"concept\" data-cid=\"10967\">urgent investigations for end-organ damage</span> (e.g. bloods, urine ACR, ECG)<ul><li>if target organ damage is identified, consider starting antihypertensive drug treatment immediately, without waiting for the results of ABPM or HBPM.</li><li>if no target organ damage is identified, repeat clinic blood pressure measurement within 7 days</li></ul></li></ul><br />Ambulatory blood pressure monitoring (ABPM)<br /><ul><li>at least 2 measurements per hour during the person's usual waking hours (for example, between 08:00 and 22:00)</li><li>use the average value of at least 14 measurements</li></ul><br />If ABPM is not tolerated or declined HBPM should be offered.<br /><br />Home blood pressure monitoring (HBPM)<br /><ul><li>for each BP recording, two consecutive measurements need to be taken, at least 1 minute apart and with the person seated</li><li>BP should be recorded twice daily, ideally in the morning and evening</li><li>BP should be recorded for at least 4 days, ideally for 7 days</li><li>discard the measurements taken on the first day and use the average value of all the remaining measurements</li></ul><br /><h5 class='notes-heading'>Interpreting the results</h5><br />ABPM/HBPM >= 135/85 mmHg (i.e. stage 1 hypertension)<br /><ul><li>treat if < 80 years of age AND any of the following apply; target organ damage, established cardiovascular disease, renal disease, diabetes or a 10-year cardiovascular risk equivalent to 10% or greater</li><li>in 2019, NICE made a further recommendation, suggesting that we should <i>'consider antihypertensive drug treatment in addition to lifestyle advice for adults aged under 60 with stage 1 hypertension and an estimated 10-year risk below 10%. '</i>. This seems to be due to evidence that QRISK may underestimate the lifetime probability of developing cardiovascular disease</li></ul><br />ABPM/HBPM >= 150/95 mmHg (i.e. stage 2 hypertension)<br /><ul><li>offer drug treatment regardless of age</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973b.png\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd973.png\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "b7f51cadf8ff573507b203e5771b73e7",
+        "knowledge_graph_node_id_link": 10012,
+        "concept": "Hypertension - NICE now recommend ambulatory blood pressure monitoring to aid diagnosis",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "1698",
+        "up_votes": "1",
+        "down_votes": "4",
+        "column_array": [
+            0,
+            "1180",
+            "406",
+            "64",
+            "18",
+            "30",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_460\" data-linkid=\"460\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_460\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_460\" data-linkid=\"460\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_460\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">29</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng136/chapter/Recommendations\">2019 Hypertension guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"1380\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/LnGB7U1xIuw/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/LnGB7U1xIuw\" data-description=\"Hypertension Explained\" data-upvotes=\"3\" data-downvotes=\"4\" data-media=\"1380\">Hypertension Explained</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2430\" data-mediaid=\"2430\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2430\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2430\" data-mediaid=\"2430\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2430\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "547": {
+                "concept_text": "Hypertension - NICE now recommend ambulatory blood pressure monitoring to aid diagnosis",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2088",
+        "new_question_id": "61174",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "276",
+        "notes_id_link": "1_1381",
+        "theme": "Management of unilateral undescended testicle in a newborn.",
+        "instruction": "",
+        "options": [
+            "",
+            "Refer to paediatric urology now",
+            "Review in the community at 3 months of age",
+            "Arrange an urgent paediatric review within 24 hours",
+            "Arrange an ultrasound scan of the scrotum",
+            "Reassure and discharge from follow-up",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A term male infant is noted to have an absent right testicle on the newborn examination. The left testicle is palpable in the scrotum. The infant is otherwise well with no other abnormalities detected.<br /><br />Select the single most appropriate management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Review in the community at 3 months of age</b> is the correct management. Undescended testis (cryptorchidism) is a common finding, affecting around 2-3% of term male infants. Many of these testes will descend spontaneously into the scrotum during the first three months of life. Therefore, the standard UK practice for a unilateral undescended testis in an otherwise healthy term infant is a 'watchful waiting' approach. The parents should be advised that a further examination is required at 3 months of age, typically by the GP. If the testis has not descended by this point, a non-urgent referral to a paediatric urologist or surgeon is indicated. The goal is for surgical correction (orchidopexy) to be performed before the child is 18 months old, ideally around their first birthday, to optimise fertility and reduce the long-term risk of testicular malignancy.<br /><br /><b>Refer to paediatric urology now</b> is incorrect. Immediate referral is not necessary as a significant proportion of undescended testes will descend spontaneously within the first three months. Referring all newborns with this finding would lead to unnecessary specialist appointments and parental anxiety. The referral pathway is initiated only after the 3-month review confirms the testis remains undescended.<br /><br /><b>Arrange an urgent paediatric review within 24 hours</b> is incorrect. This urgent review is mandated for infants with bilateral impalpable testes. The concern in bilateral cases is the possibility of an underlying disorder of sexual development (DSD), such as congenital adrenal hyperplasia (CAH), which can present as a salt-wasting crisis and is a neonatal emergency. As this infant has one palpable testis and is otherwise well, an urgent review is not required.<br /><br /><b>Arrange an ultrasound scan of the scrotum</b> is not the most appropriate next step. While imaging may seem logical, ultrasound has poor sensitivity and specificity for locating an impalpable testis, particularly if it is intra-abdominal or atrophic. The decision for further investigation, which may include laparoscopy rather than imaging, is made by the specialist team after referral. The initial diagnosis and management in primary care are based on clinical examination alone.<br /><br /><b>Reassure and discharge from follow-up</b> is inappropriate and potentially harmful. While many testes do descend spontaneously, a significant number do not. Failing to arrange follow-up for a persistent undescended testis leaves the child at increased risk of long-term complications, including subfertility, testicular torsion, and a 2-8 fold increased relative risk of testicular cancer in later life. A clear safety-netting and follow-up plan is essential.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A term male infant is noted to have an absent right testicle on the newborn examination. The left testicle is palpable in the scrotum. The infant is otherwise well with no other abnormalities detected.<br /><br />Select the single most appropriate management from the options below.",
+        "correct_answer": "2",
+        "question_notes": "<b>Review in the community at 3 months of age</b> is the correct management. Undescended testis (cryptorchidism) is a common finding, affecting around 2-3% of term male infants. Many of these testes will descend spontaneously into the scrotum during the first three months of life. Therefore, the standard UK practice for a unilateral undescended testis in an otherwise healthy term infant is a 'watchful waiting' approach. The parents should be advised that a further examination is required at 3 months of age, typically by the GP. If the testis has not descended by this point, a non-urgent referral to a paediatric urologist or surgeon is indicated. The goal is for surgical correction (orchidopexy) to be performed before the child is 18 months old, ideally around their first birthday, to optimise fertility and reduce the long-term risk of testicular malignancy.<br /><br /><b>Refer to paediatric urology now</b> is incorrect. Immediate referral is not necessary as a significant proportion of undescended testes will descend spontaneously within the first three months. Referring all newborns with this finding would lead to unnecessary specialist appointments and parental anxiety. The referral pathway is initiated only after the 3-month review confirms the testis remains undescended.<br /><br /><b>Arrange an urgent paediatric review within 24 hours</b> is incorrect. This urgent review is mandated for infants with bilateral impalpable testes. The concern in bilateral cases is the possibility of an underlying disorder of sexual development (DSD), such as congenital adrenal hyperplasia (CAH), which can present as a salt-wasting crisis and is a neonatal emergency. As this infant has one palpable testis and is otherwise well, an urgent review is not required.<br /><br /><b>Arrange an ultrasound scan of the scrotum</b> is not the most appropriate next step. While imaging may seem logical, ultrasound has poor sensitivity and specificity for locating an impalpable testis, particularly if it is intra-abdominal or atrophic. The decision for further investigation, which may include laparoscopy rather than imaging, is made by the specialist team after referral. The initial diagnosis and management in primary care are based on clinical examination alone.<br /><br /><b>Reassure and discharge from follow-up</b> is inappropriate and potentially harmful. While many testes do descend spontaneously, a significant number do not. Failing to arrange follow-up for a persistent undescended testis leaves the child at increased risk of long-term complications, including subfertility, testicular torsion, and a 2-8 fold increased relative risk of testicular cancer in later life. A clear safety-netting and follow-up plan is essential.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Undescended testis",
+        "body": "Undescended testis occurs in around <span class=\"concept\" data-cid=\"275\">2-3% of term male infants</span>, but is much more common if the baby is preterm. Around 25% of cases are bilateral.<br /><br /><span class=\"concept\" data-cid=\"3686\">Complications of undescended testis</span><br /><ul><li>infertility</li><li>torsion</li><li>testicular cancer</li><li>psychological</li></ul><br />Management<br /><ul><li>Unilateral undescended testis<ul><li><span class=\"concept\" data-cid=\"276\">referral should be considered from around 3 months of age</span>, with the baby ideally seeing a urological surgeon before 6 months of age</li><li>orchidopexy: Surgical practices vary although the majority of procedures are performed at around 1 year of age</li></ul></li><li><span class=\"concept\" data-cid=\"10427\">Bilateral undescended testes</span><ul><li>Should be reviewed by a senior paediatrician within 24hours as the child may need urgent endocrine or genetic investigation</li></ul></li></ul>",
+        "notes_hash": "602dab57174483803f1a6374eee29f19",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Unilateral undescended testicle - review at 3 months - if persistent refer",
+        "concept_percentile": "99",
+        "concept_colour": "rgb(5,255,0)",
+        "number_attempts": "55",
+        "up_votes": "0",
+        "down_votes": "0",
+        "column_array": [
+            0,
+            "8",
+            "35",
+            "8",
+            "2",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Publich Health England</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1666\" data-linkid=\"1666\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1666\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"link_dislike_1666\" data-linkid=\"1666\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1666\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook\">2019 Newborn and infant physical examination (NIPE) screening programme handbook</a></td></tr></table>",
+        "media": "",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "276": {
+                "concept_text": "Unilateral undescended testicle - review at 3 months - if persistent refer",
+                "concept_percentile": "99"
+            },
+            "3686": {
+                "concept_text": "Undescended testicles are associated with an increased risk of infertility, torsion and testicular cancer",
+                "concept_percentile": "95"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16335_B_111",
+        "new_question_id": "25929",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "390",
+        "notes_id_link": "1_1686",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Increases pancreatic insulin secretion",
+            "Increases peripheral insulin sensitivity",
+            "Reduces hepatic gluconeogenesis",
+            "Reduces the peripheral breakdown of incretins",
+            "Reduces the release of glucagon",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old woman has uncontrolled diabetes despite lifestyle changes and treatment with metformin. Her body mass index is 32 kg/m<sup>2</sup>. Her GP commences treatment with sitagliptin.<br /><br />What is the main mechanism of action of this drug?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is that sitagliptin reduces the peripheral break down of incretins. Sitagliptin is one of the Gliptins (DPP-4 inhibitors) which reduce the peripheral breakdown of incretins such as GLP-1.<br /><br />Metformin increases peripheral insulin sensitivity and reduces hepatic gluconeogenesis.<br /><br />Sulfonylureas augment pancreatic insulin secretion. Increased insulin secretion can lead to hypoglycaemia.<br /><br />GLP mimetics, e.g. exenatide, augment pancreatic insulin secretion, suppress glucagon release, slow gastric emptying and promote satiety.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old woman has uncontrolled diabetes despite lifestyle changes and treatment with metformin. Her body mass index is 32 kg/m<sup>2</sup>. Her GP commences treatment with sitagliptin.<br /><br />What is the main mechanism of action of this drug?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is that sitagliptin reduces the peripheral break down of incretins. Sitagliptin is one of the Gliptins (DPP-4 inhibitors) which reduce the peripheral breakdown of incretins such as GLP-1.<br /><br />Metformin increases peripheral insulin sensitivity and reduces hepatic gluconeogenesis.<br /><br />Sulfonylureas augment pancreatic insulin secretion. Increased insulin secretion can lead to hypoglycaemia.<br /><br />GLP mimetics, e.g. exenatide, augment pancreatic insulin secretion, suppress glucagon release, slow gastric emptying and promote satiety.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Diabetes mellitus: GLP-1 drugs",
+        "body": "A number of drugs to treat diabetes mellitus have become available in recent years. Much research has focused around the role of glucagon-like peptide-1 (GLP-1), a hormone released by the small intestine in response to an oral glucose load<br /><br />Whilst it is well known that insulin resistance and insufficient B-cell compensation occur other effects are also seen in type 2 diabetes mellitus (T2DM). In normal physiology an oral glucose load results in a greater release of insulin than if the same load is given intravenously - this known as the incretin effect. This effect is largely mediated by GLP-1 and is known to be decreased in T2DM.<br /><br />Increasing GLP-1 levels, either by the administration of an analogue (glucagon-like peptide-1, GLP-1 mimetics, e.g. exenatide) or inhibiting its breakdown (dipeptidyl peptidase-4 ,DPP-4 inhibitors - the gliptins), is therefore the target of two recent classes of drug.<br /><br /><br /><h5 class='notes-heading'>Glucagon-like peptide-1 (GLP-1) mimetics (e.g. exenatide)</h5><br />Exenatide is an example of a <span class=\"concept\" data-cid=\"389\">glucagon-like peptide-1 (GLP-1) mimetic</span>. These drugs increase insulin secretion and inhibit glucagon secretion. One of the major advances of GLP-1 mimetics is that they typically result in weight loss, in contrast to many medications such as insulin, sulfonylureas and thiazolidinediones. They are sometimes <span class=\"concept\" data-cid=\"9345\">used in combination with insulin in T2DM to minimise weight gain</span>.<br /><br />Exenatide must be given by subcutaneous injection within 60 minutes before the morning and evening meals. It should not be given after a meal.<br /><br />Liraglutide is the other GLP-1 mimetic currently available. One the main advantages of liraglutide over exenatide is that it only needs to be given once a day.<br /><br />Both exenatide and liraglutide may be combined with metformin and a sulfonylurea. Standard release exenatide is also licensed to be used with basal insulin alone or with metformin. Please see the BNF for a more complete list of licensed indications.<br /><br />NICE state the following:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br />Consider adding exenatide to metformin and a sulfonylurea if:<br /><ul><li>BMI >= 35 kg/m\u00b2 in people of European descent and there are problems associated with high weight, or</li><li>BMI < 35 kg/m\u00b2 and insulin is unacceptable because of occupational implications or weight loss would benefit other comorbidities.</li></ul></i></i></div><br />NICE like patients to have achieved a > 11 mmol/mol (1%) reduction in HbA1c and 3% weight loss after 6 months to justify the ongoing prescription of GLP-1 mimetics.<br /><br />The major adverse effect of GLP-1 mimetics is <span class=\"concept\" data-cid=\"388\">nausea and vomiting</span>. The Medicines and Healthcare products Regulatory Agency has issued specific warnings on the use of exenatide, reporting that is has been linked to <span class=\"concept\" data-cid=\"9346\">severe pancreatitis</span> in some patients.<br /><br /><br /><h5 class='notes-heading'>Dipeptidyl peptidase-4 (DPP-4) inhibitors (e.g. Vildagliptin, sitagliptin)</h5><br />Key points<br /><ul><li>dipeptidyl peptidase-4, DPP-4 inhibitors <span class=\"concept\" data-cid=\"11012\">increase levels of incretins (GLP-1 and GIP)</span> by <span class=\"concept\" data-cid=\"390\">decreasing their peripheral breakdown</span></li><li>oral preparation</li><li>trials to date show that the drugs are relatively well tolerated with no increased incidence of hypoglycaemia</li><li><span class=\"concept\" data-cid=\"3352\">do not cause weight gain</span></li></ul><br />NICE guidelines on DPP-4 inhibitors<br /><ul><li>NICE suggest that a DPP-4 inhibitor might be preferable to a thiazolidinedione if further weight gain would cause significant problems, a thiazolidinedione is contraindicated or the person has had a poor response to a thiazolidinedione</li></ul>",
+        "notes_hash": "9675e795156932892b9b7522e1193b09",
+        "knowledge_graph_node_id_link": 10924,
+        "concept": "Gliptins (DPP-4 inhibitors) reduce the peripheral breakdown of incretins such as GLP-1",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "8513",
+        "up_votes": "38",
+        "down_votes": "23",
+        "column_array": [
+            0,
+            "1859",
+            "2010",
+            "1163",
+            "3069",
+            "412",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_829\" data-linkid=\"829\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_829\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">21</span><button type=\"button\" style=\"\" id=\"link_dislike_829\" data-linkid=\"829\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_829\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng28/chapter/Recommendations\">2022 Type 2 diabetes guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"694\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/4Y7wdX7iEAY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/4Y7wdX7iEAY\" data-description=\"Type 2 diabetes agents and their mechanism of action\" data-upvotes=\"14\" data-downvotes=\"0\" data-media=\"694\">Type 2 diabetes agents and their mechanism of action</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1199\" data-mediaid=\"1199\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1199\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"media_dislike_1199\" data-mediaid=\"1199\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1199\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FePjKBoFICA\" data-description=\"How does sitagliptin work? DPP-4 inhibitors and GLP-1 mimetics\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"759\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/FePjKBoFICA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/FePjKBoFICA\" data-description=\"How does sitagliptin work? DPP-4 inhibitors and GLP-1 mimetics\" data-upvotes=\"10\" data-downvotes=\"0\" data-media=\"759\">How does sitagliptin work? DPP-4 inhibitors and GLP-1 mimetics</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1326\" data-mediaid=\"1326\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1326\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_1326\" data-mediaid=\"1326\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1326\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"693\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/APHeDOkJKQ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/APHeDOkJKQ0\" data-description=\" Pharmacology of drugs used to treat type 2 diabetes\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"693\"> Pharmacology of drugs used to treat type 2 diabetes</a></td></tr><tr><td><span ><small>Brandl's Basics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1198\" data-mediaid=\"1198\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1198\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1198\" data-mediaid=\"1198\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1198\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e7tBKFH341s\" data-description=\"Glucagon-like Peptide (GLP-1) and the treatment of diabetes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"688\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/e7tBKFH341s/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e7tBKFH341s\" data-description=\"Glucagon-like Peptide (GLP-1) and the treatment of diabetes\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"688\">Glucagon-like Peptide (GLP-1) and the treatment of diabetes</a></td></tr><tr><td><span ><small>Medicosis Perfectionalis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1185\" data-mediaid=\"1185\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1185\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_1185\" data-mediaid=\"1185\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1185\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "390": {
+                "concept_text": "Gliptins (DPP-4 inhibitors) reduce the peripheral breakdown of incretins such as GLP-1",
+                "concept_percentile": "66"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1836",
+        "new_question_id": "985",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1012",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Avoid flying for 12 months",
+            "Avoid contact sports for 12 months",
+            "Stop smoking",
+            "Arrange a course of respiratory physiotherapy",
+            "Seek prompt medical advice for potential respiratory infections",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old man is admitted with sudden onset dyspnoea and pleuritic chest pain. He is a smoker but has no history of respiratory disease. He considers himself healthy and regularly plays rugby. On admission he has a chest x-ray that shows a pneumothorax with a 3cm rim of air. Aspiration is successful and he is discharged. A follow-up chest x-ray two weeks later shows a complete resolution. What is the single most important piece of advice to reduce his risk of further pneumothoraces?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "All patients should be advised to avoid smoking to reduce the risk of further episodes - the lifetime risk of developing a pneumothorax in healthy smoking men is around 10% compared with around 0.1% in non-smoking men.<br /><br />With respect to 'Fitness to fly' rules the CAA suggest patients may travel 2 weeks after successful drainage if there is no residual air. The British Thoracic Society used to recommend not travelling by air for a period of 6 weeks but this has now been changed to 1 week post check x-ray<br /><br /><br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old man is admitted with sudden onset dyspnoea and pleuritic chest pain. He is a smoker but has no history of respiratory disease. He considers himself healthy and regularly plays rugby. On admission he has a chest x-ray that shows a pneumothorax with a 3cm rim of air. Aspiration is successful and he is discharged. A follow-up chest x-ray two weeks later shows a complete resolution. What is the single most important piece of advice to reduce his risk of further pneumothoraces?",
+        "correct_answer": "3",
+        "question_notes": "All patients should be advised to avoid smoking to reduce the risk of further episodes - the lifetime risk of developing a pneumothorax in healthy smoking men is around 10% compared with around 0.1% in non-smoking men.<br /><br />With respect to 'Fitness to fly' rules the CAA suggest patients may travel 2 weeks after successful drainage if there is no residual air. The British Thoracic Society used to recommend not travelling by air for a period of 6 weeks but this has now been changed to 1 week post check x-ray<br /><br /><br />",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Pneumothorax: management",
+        "body": "The British Thoracic Society (BTS) published updated guidelines for the management of spontaneous pneumothorax in 2023.<br /><br />The updated guidelines put less emphasis on the size of the pneumothorax and more emphasis on whether the patient is symptomatic and the presence of high-risk characteristics.<br /><br /><h5 class='notes-heading'>Decision algorithm</h5><br />The first step is assessing whether the patient is symptomatic<br /><ul><li>the BTS define minimal symptoms as '<i>no significant pain or breathlessness and no physiological compromise</i>'</li><li><span class=\"concept\" data-cid=\"12150\">no or minimal symptoms &rarr; conservative care, regardless of pneumothorax size</span></li><li>symptomatic &rarr; assess for high-risk characteristics</li></ul><br />If a pneumothorax is symptomatic, the next step is assessment for high-risk characteristics<br /><ul><li><span class=\"concept\" data-cid=\"12151\">high-risk characteristics</span> are defined as follows:<ul><li>haemodynamic compromise (suggesting a tension pneumothorax)</li><li>significant hypoxia</li><li>bilateral pneumothorax</li><li>underlying lung disease</li><li>\u2265 50 years of age with significant smoking history</li><li>haemothorax</li></ul></li><li>if no high-risk characteristics are present, and it is safe to intervene, then there is a <span class=\"concept\" data-cid=\"12152\">choice of intervention</span>:<ul><li>conservative care</li><li>ambulatory device</li><li>needle aspiration</li></ul></li><li><span class=\"concept\" data-cid=\"12153\">if high-risk characteristics are present, and it is safe to intervene &rarr;  chest drain</span></li></ul><br />How is <span class=\"concept\" data-cid=\"12157\">safety or intervention</span> determined?<br /><ul><li>before a needle aspiration/chest drain insertion, the safety of intervention should be assessed</li><li>this depends on the clinical context, but is usually:<ul><li>2cm laterally or apically on chest x-ray, or </li><li>any size on CT scan which can be safely accessed with radiological support</li></ul></li></ul><br /><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd978b.png\" data-fancybox=\"gallery\" data-caption=\"BTS algorithm on the management of spontaneous pneumothorax\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd978.png\" alt=\"\" /></a></div></div></div><br /><h5 class='notes-heading'>Management options</h5><br />Conservative care<br /><ul><li><span class=\"concept\" data-cid=\"12155\"> patients with a primary spontaneous pneumothorax that is managed conservatively should be reviewed every 2-4 days as an outpatient</span> </li><li><span class=\"concept\" data-cid=\"12156\">patients with a secondary spontaneous pneumothorax that is managed conservatively should be monitored as an inpatient</span> </li><li>if stable, follow-up in the outpatients department in 2-4 weeks</li></ul><br />Ambulatory care<br /><ul><li>an example of an ambulatory device is the Rocket\u00b5 Pleural Vent\u201e</li><li>it includes an 8FG catheter mounted on an 18G needle and a pigtail catheter to minimize the risk of occlusion</li><li>ambulatory devices typically have a one-way valve and vent to prevent air and fluid return to the pleural space while allowing for controlled escape of air and drainage of fluid</li><li>many devices also have an indication diaphragm that signals when the catheter tip enters the pleural space and continues to fluctuate with respiration, aiding in the assessment of pneumothorax resolution</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd977b.jpg\" data-fancybox=\"gallery\" data-caption=\"Example of an ambulatory care device to manage pneumothorax\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd977.jpg\" alt=\"\" /></a></div></div></div><br />Needle aspiration<br /><ul><li><span class=\"concept\" data-cid=\"12154\">a chest drain should be inserted if needle aspiration of a pneumothorax is unsuccessful </span> </li><li>if resolved, discharge and follow-up in the outpatients department in 2-4 weeks</li></ul><br />Chest drain insertion<br /><ul><li>daily review as an inpatient</li><li>remove drain when resolved</li><li>discharge and follow-up in the outpatients department in 2-4 weeks</li></ul><br /><h5 class='notes-heading'>Persistentent / recurrent pneumothorax</h5><br />If a patient has a persistent air leak or insufficient lung reexpansion despite chest drain insertion, or the patient has recurrent pneumothoraces, then <span class=\"concept\" data-cid=\"11998\">video-assisted thoracoscopic surgery (VATS)</span> should be considered to allow for mechanical/chemical pleurodesis +/- bullectomy.<br /><br /><h5 class='notes-heading'>Discharge advice</h5><br />Smoking<br /><ul><li>patients should be advised to avoid smoking to reduce the risk of further episodes - the lifetime risk of developing a pneumothorax in healthy smoking men is around 10% compared with around 0.1% in non-smoking men</li></ul><br />Fitness to fly<br /><ul><li>absolute contraindication, the CAA suggest patients may travel 2 weeks after successful drainage if there is no residual air. The British Thoracic Society used to recommend not travelling by air for a period of 6 weeks but this has now been changed to <span class=\"concept\" data-cid=\"4637\">1 week post check x-ray</span></li></ul><br /><span class=\"concept\" data-cid=\"4636\">Scuba diving</span><br /><ul><li>the BTS guidelines state: <i>'Diving should be permanently avoided unless the patient has undergone bilateral surgical pleurectomy and has normal lung function and chest CT scan postoperatively.'</i></li></ul><br /><h5 class='notes-heading'>Image gallery</h5><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb954b.jpg\" data-fancybox=\"gallery\" data-caption=\"Right-sided pneumothorax. Note how the lung markers do not extend all the way to the periphery, with a pleural line seen.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb954.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb955b.jpg\" data-fancybox=\"gallery\" data-caption=\"Right-sided pneumothorax. Lung markings not present in the periphery. There is no mediastinal shift in this film.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb955.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "5a6afbcdc75df90ffe4eb41af053054b",
+        "knowledge_graph_node_id_link": 1026,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6196",
+        "up_votes": "48",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "826",
+            "746",
+            "4413",
+            "143",
+            "68",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1056\" data-linkid=\"1056\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1056\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_1056\" data-linkid=\"1056\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1056\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">33</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/quality-improvement/guidelines/pleural-disease/\">2023 Pleural disease guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/j_UGBS-Kp2I\" data-description=\"Needle Aspiration of Pneumothorax\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"195\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/j_UGBS-Kp2I/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/j_UGBS-Kp2I\" data-description=\"Needle Aspiration of Pneumothorax\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"195\">Needle Aspiration of Pneumothorax</a></td></tr><tr><td><span ><small>NEJM - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_324\" data-mediaid=\"324\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_324\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_324\" data-mediaid=\"324\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_324\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J1n2mJ00xKs\" data-description=\"How to identify pneumothorax on a chest X-ray\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"959\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/J1n2mJ00xKs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/J1n2mJ00xKs\" data-description=\"How to identify pneumothorax on a chest X-ray\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"959\">How to identify pneumothorax on a chest X-ray</a></td></tr><tr><td><span ><small>Medmastery - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1659\" data-mediaid=\"1659\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1659\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1659\" data-mediaid=\"1659\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1659\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M4D0I45_mQ0\" data-description=\"Pneumothorax\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"1161\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/M4D0I45_mQ0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M4D0I45_mQ0\" data-description=\"Pneumothorax\" data-upvotes=\"9\" data-downvotes=\"2\" data-media=\"1161\">Pneumothorax</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2012\" data-mediaid=\"2012\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2012\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"media_dislike_2012\" data-mediaid=\"2012\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2012\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bt0axpDlTd8\" data-description=\"Pneumothorax\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1272\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Bt0axpDlTd8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bt0axpDlTd8\" data-description=\"Pneumothorax\" data-upvotes=\"4\" data-downvotes=\"2\" data-media=\"1272\">Pneumothorax</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2250\" data-mediaid=\"2250\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2250\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2250\" data-mediaid=\"2250\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2250\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4636": {
+                "concept_text": "Pneumothorax -> life long ban on deep sea diving",
+                "concept_percentile": "53"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

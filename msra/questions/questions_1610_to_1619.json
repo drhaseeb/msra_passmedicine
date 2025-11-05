@@ -1,0 +1,907 @@
+[
+    {
+        "question_id": "17652_B_215",
+        "new_question_id": "30190",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "8061",
+        "notes_id_link": "1_2137",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Normal serum phosphate, normal ALP and normal PTH",
+            "\u2191 serum phosphate, normal ALP and \u2193 PTH",
+            "\u2191 serum phosphate, \u2191 ALP and \u2191 PTH",
+            "\u2193 serum phosphate, normal ALP and normal PTH",
+            "\u2193 serum phosphate, \u2191 ALP and \u2191 PTH",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 65-year-old man is found to have hypocalcaemia. The finding was incidental on some routine blood tests taken for monitoring of his chronic kidney disease. He has a past medical history significant for polycystic kidney disease, and the calcium result is expected to be a complication of this.<br /><br />What would you expect to see on his other lab values?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Hypocalcaemia is a relatively common complication of chronic kidney disease. It is caused by the kidneys being unable to activate vitamin D and excrete phosphate, meaning calcium is 'used up' in calcium phosphate. This low level of calcium causes secondary hyperparathyroidism, where there is an increase in parathyroid hormone (PTH) in order to try and raise calcium levels. It does this by stimulating osteoclast activity to release more calcium, and this activity causes a rise in ALP found in bone. Therefore, the overall blood results expected are raised phosphate (due to an inability to excrete it), raised PTH (due to a reaction to hypocalcaemia) and raised ALP (due to the action of PTH).<br /><br />Normal serum phosphate, normal ALP and normal PTH are found in osteoporosis or osteopetrosis and may be associated with normal or decreased calcium. But in this case, we already know that the patient has hypocalcemia and chronic kidney disease, making us suspect that he might have other abnormal results. <br /><br />\u2191 serum phosphate, normal ALP and \u2193 PTH are found in hypoparathyroidism. PTH normally inhibits the resorption of phosphate in the kidneys, and so lowered PTH causes a rise in serum phosphate. This would not fit with chronic kidney disease, and is, therefore, an incorrect answer. <br /><br />\u2193 serum phosphate, normal ALP and normal PTH would suggest an isolated phosphate deficiency. However, this does not fit with the clinical picture of hypocalcaemia or chronic kidney disease, and is, therefore, an incorrect answer. <br /><br />\u2193 serum phosphate, \u2191 ALP and \u2191 PTH with low calcium is found in osteomalacia, which is the result of low serum vitamin D. Vitamin D is essential for the absorption of both calcium and phosphate, and therefore a lack of this will cause low serum concentrations. The low calcium level causes increased PTH activity causing bone resorption to try and compensate. ALP is increased due to this increase in bone resorption. However, a result of chronic kidney disease is more likely here and therefore this is an incorrect answer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 65-year-old man is found to have hypocalcaemia. The finding was incidental on some routine blood tests taken for monitoring of his chronic kidney disease. He has a past medical history significant for polycystic kidney disease, and the calcium result is expected to be a complication of this.<br /><br />What would you expect to see on his other lab values?",
+        "correct_answer": "3",
+        "question_notes": "Hypocalcaemia is a relatively common complication of chronic kidney disease. It is caused by the kidneys being unable to activate vitamin D and excrete phosphate, meaning calcium is 'used up' in calcium phosphate. This low level of calcium causes secondary hyperparathyroidism, where there is an increase in parathyroid hormone (PTH) in order to try and raise calcium levels. It does this by stimulating osteoclast activity to release more calcium, and this activity causes a rise in ALP found in bone. Therefore, the overall blood results expected are raised phosphate (due to an inability to excrete it), raised PTH (due to a reaction to hypocalcaemia) and raised ALP (due to the action of PTH).<br /><br />Normal serum phosphate, normal ALP and normal PTH are found in osteoporosis or osteopetrosis and may be associated with normal or decreased calcium. But in this case, we already know that the patient has hypocalcemia and chronic kidney disease, making us suspect that he might have other abnormal results. <br /><br />\u2191 serum phosphate, normal ALP and \u2193 PTH are found in hypoparathyroidism. PTH normally inhibits the resorption of phosphate in the kidneys, and so lowered PTH causes a rise in serum phosphate. This would not fit with chronic kidney disease, and is, therefore, an incorrect answer. <br /><br />\u2193 serum phosphate, normal ALP and normal PTH would suggest an isolated phosphate deficiency. However, this does not fit with the clinical picture of hypocalcaemia or chronic kidney disease, and is, therefore, an incorrect answer. <br /><br />\u2193 serum phosphate, \u2191 ALP and \u2191 PTH with low calcium is found in osteomalacia, which is the result of low serum vitamin D. Vitamin D is essential for the absorption of both calcium and phosphate, and therefore a lack of this will cause low serum concentrations. The low calcium level causes increased PTH activity causing bone resorption to try and compensate. ALP is increased due to this increase in bone resorption. However, a result of chronic kidney disease is more likely here and therefore this is an incorrect answer.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Bone disorders: lab values",
+        "body": "<div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Disorder</b></th><th><b>Calcium</b></th><th><b>Phosphate</b></th><th><b>ALP</b></th><th><b>PTH</b></th></tr></thead><tbody><tr><td><b><span class=\"concept\" data-cid=\"8057\">Osteoporosis</span></b></td><td>Normal</td><td>Normal</td><td>Normal</td><td>Normal</td></tr><tr><td><b><span class=\"concept\" data-cid=\"8062\">Osteomalacia</span></b></td><td>Decreased</td><td>Decreased</td><td>Increased</td><td>Increased</td></tr><tr><td><b><span class=\"concept\" data-cid=\"8060\">Primary hyperparathyroidism</span></b> (&rarr; osteitis fibrosa cystica)</td><td>Increased</td><td>Decreased</td><td>Increased</td><td>Increased</td></tr><tr><td><b><span class=\"concept\" data-cid=\"8061\">Chronic kidney disease</span></b> (&rarr; secondary hyperparathyroidism)</td><td>Decreased</td><td>Increased</td><td>Increased</td><td>Increased</td></tr><tr><td><b><span class=\"concept\" data-cid=\"8059\">Paget's disease</span></b></td><td>Normal</td><td>Normal</td><td>Increased</td><td>Normal</td></tr><tr><td><b><span class=\"concept\" data-cid=\"8058\">Osteopetrosis</span></b></td><td>Normal</td><td>Normal</td><td>Normal</td><td>Normal</td></tr></tbody></table></div>",
+        "notes_hash": "65e3869b81b751968069f7cc00363658",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Low serum calcium, raised serum phosphate, raised ALP and raised PTH - chronic kidney disease leading to secondary hyperparathyroidism",
+        "concept_percentile": "72",
+        "concept_colour": "rgb(142,255,0)",
+        "number_attempts": "5247",
+        "up_votes": "81",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "359",
+            "722",
+            "2253",
+            "533",
+            "1380",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "8057": {
+                "concept_text": "Normal serum calcium, normal serum phosphate, normal ALP and normal PTH - osteoporosis",
+                "concept_percentile": "32"
+            },
+            "8058": {
+                "concept_text": "Normal serum calcium, normal serum phosphate, normal ALP and normal PTH - osteopetrosis",
+                "concept_percentile": "27"
+            },
+            "8059": {
+                "concept_text": "Normal serum calcium, normal serum phosphate, raised ALP and normal PTH - Paget's disease",
+                "concept_percentile": "30"
+            },
+            "8060": {
+                "concept_text": "Raised serum calcium, low serum phosphate, raised ALP and raised PTH - primary hyperparathyroidism",
+                "concept_percentile": "44"
+            },
+            "8061": {
+                "concept_text": "Low serum calcium, raised serum phosphate, raised ALP and raised PTH - chronic kidney disease leading to secondary hyperparathyroidism",
+                "concept_percentile": "72"
+            },
+            "8062": {
+                "concept_text": "Low serum calcium, low serum phosphate, raised ALP and raised PTH - osteomalacia",
+                "concept_percentile": "71"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1817_B_15",
+        "new_question_id": "14122",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "2850",
+        "notes_id_link": "1_2581",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diazepam",
+            "Haloperidol",
+            "Promethazine",
+            "Lorazepam",
+            "Clozapine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a GPST on a psychiatry placement. A 73-year-old patient is brought in by the police on a Section 136. He is confused and is aggressive towards staff, lashing out towards the nursing team. You feel that his behaviour is worsening and he has refused all oral medication offered to him. You have never met the patient and his medical history is unknown. He has refused to have an ECG taken. Of the following, which is the most suitable drug to administer in order to rapidly tranquilise this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "NICE recommend either intramuscular (IM) lorazepam or IM haloperidol + IM promethazine for rapid tranquilisation of patients with acutely disturbed behaviour. In patients who are antipsychotic na\u00c3\u00afve, and especially in those whose cardiac status is unknown they recommend lorazepam. Clozapine is not routinely used in rapid tranquilisation in normal settings. Diazepam has a longer onset of action than lorazepam and therefore the latter is preferred.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a GPST on a psychiatry placement. A 73-year-old patient is brought in by the police on a Section 136. He is confused and is aggressive towards staff, lashing out towards the nursing team. You feel that his behaviour is worsening and he has refused all oral medication offered to him. You have never met the patient and his medical history is unknown. He has refused to have an ECG taken. Of the following, which is the most suitable drug to administer in order to rapidly tranquilise this patient?",
+        "correct_answer": "4",
+        "question_notes": "NICE recommend either intramuscular (IM) lorazepam or IM haloperidol + IM promethazine for rapid tranquilisation of patients with acutely disturbed behaviour. In patients who are antipsychotic na\u00c3\u00afve, and especially in those whose cardiac status is unknown they recommend lorazepam. Clozapine is not routinely used in rapid tranquilisation in normal settings. Diazepam has a longer onset of action than lorazepam and therefore the latter is preferred.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Psychosis",
+        "body": "Psychosis is a term used to describe a person experiencing things differently from those around them. <br /><br />Psychotic features include:<br /><ul><li>hallucinations (e.g. auditory)</li><li>delusions</li><li>thought disorganisation<ul><li>alogia: little information conveyed by speech</li><li>tangentiality: answers diverge from topic</li><li>clanging</li><li><span class=\"concept\" data-cid=\"1908\">word salad</span>: linking real words incoherently &rarr; nonsensical content</li></ul></li></ul><br />Associated features:<br /><ul><li>agitation/aggression</li><li>neurocognitive impairment (e.g. in memory, attention or executive function)</li><li>depression</li><li>thoughts of self-harm</li></ul><br />Psychotic symptoms may occur in a number of conditions:<br /><ul><li>schizophrenia: the most common psychotic disorder</li><li>depression (psychotic depression, a subtype more common in elderly patients)</li><li>bipolar disorder</li><li>puerperal psychosis</li><li><span class=\"concept\" data-cid=\"6401\">brief psychotic disorder</span>: where symptoms last less than a month</li><li>neurological conditions e.g. Parkinson's disease, Huntington's disease</li><li>prescribed drugs e.g. <span class=\"concept\" data-cid=\"4232\">corticosteroids</span></li><li>certain illicit drugs e.g. cannabis, phencyclidine</li></ul><br />The peak age of first-episode psychosis is around 15-30 years.",
+        "notes_hash": "0d48321e1357d8708f81790afdb3e26d",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Oral lorazepam is most often used first line for rapid tranquillization in acutely disturbed behaviour",
+        "concept_percentile": "65",
+        "concept_colour": "rgb(178,255,0)",
+        "number_attempts": "4522",
+        "up_votes": "40",
+        "down_votes": "61",
+        "column_array": [
+            0,
+            "543",
+            "1090",
+            "98",
+            "2771",
+            "20",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 9,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5650_B_323",
+        "new_question_id": "32349",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "11425",
+        "notes_id_link": "1_1463",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Acne",
+            "Headaches",
+            "Irregular vaginal bleeding",
+            "Mood changes",
+            "Weight gain",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 23-year-old woman attends the genito-urinary medicine clinic asking to start contraception. Her only past medical history is <i>Chlamydia</i> 4 years ago which was treated and she had a confirmatory negative test after treatment. She is requesting the 'mini pill' however she is anxious about the side effects as her friend told her that she developed acne after starting this medication - due to this, she has relied on condoms until now. <br /><br />What is the most common side effect reported by patients who start this medication?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The 'mini pill' or progesterone-only pill is most commonly associated with irregular vaginal bleeding. She should also be counselled about the need to take the pill at the same time every day without a pill-free break. <br /><br />While the progesterone-only pill can increase sebum production, causing oily skin, this is not the most common adverse effect reported by patients. The most common complaint of increased sebum production is usually from patients with a history of acne vulgaris who take the progesterone-only pill - as this patient has no history of acne, this is not as likely as irregular vaginal bleeding. Of note, the combined oral contraceptive pill (COCP) is commonly used as part of the management of acne vulgaris and hirsutism in polycystic ovarian syndrome. <br /><br />Headaches may occur during the first few months of using hormonal contraception, however, this is not the most common side effect and usually resolves after a few months. As the most common time to experience headache with hormonal contraception is during the 'pill-free interval', it is less likely to occur with the POP. Of note, the patient in the vignette reports to have no past medical history - if she had reported migraine with aura, she should be counselled of the risks associated with the COCP and migraine with aura and advised that the POP is likely to be a safer alternative. <br /><br />Mood changes have been extensively studied with birth control, however, there are no definite outcomes of recent studies. A Danish study showed POP uses were more likely to be diagnosed than those not taking the POP, however, a Swedish study showed there was no statistical significance (1, 2). As there is no definite study confirming that this occurs, and from epidemiological data gathered by NICE - it is not the correct answer. <br /><br />Weight gain is not typically associated with the POP. The only birth control which has been shown to cause weight gain (in some women) is the depo-Provera injection. Studies finding fat mass gain in depo-Provera users differed from the potential side effect of the COCP with fluid retention.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 23-year-old woman attends the genito-urinary medicine clinic asking to start contraception. Her only past medical history is <i>Chlamydia</i> 4 years ago which was treated and she had a confirmatory negative test after treatment. She is requesting the 'mini pill' however she is anxious about the side effects as her friend told her that she developed acne after starting this medication - due to this, she has relied on condoms until now. <br /><br />What is the most common side effect reported by patients who start this medication?",
+        "correct_answer": "3",
+        "question_notes": "The 'mini pill' or progesterone-only pill is most commonly associated with irregular vaginal bleeding. She should also be counselled about the need to take the pill at the same time every day without a pill-free break. <br /><br />While the progesterone-only pill can increase sebum production, causing oily skin, this is not the most common adverse effect reported by patients. The most common complaint of increased sebum production is usually from patients with a history of acne vulgaris who take the progesterone-only pill - as this patient has no history of acne, this is not as likely as irregular vaginal bleeding. Of note, the combined oral contraceptive pill (COCP) is commonly used as part of the management of acne vulgaris and hirsutism in polycystic ovarian syndrome. <br /><br />Headaches may occur during the first few months of using hormonal contraception, however, this is not the most common side effect and usually resolves after a few months. As the most common time to experience headache with hormonal contraception is during the 'pill-free interval', it is less likely to occur with the POP. Of note, the patient in the vignette reports to have no past medical history - if she had reported migraine with aura, she should be counselled of the risks associated with the COCP and migraine with aura and advised that the POP is likely to be a safer alternative. <br /><br />Mood changes have been extensively studied with birth control, however, there are no definite outcomes of recent studies. A Danish study showed POP uses were more likely to be diagnosed than those not taking the POP, however, a Swedish study showed there was no statistical significance (1, 2). As there is no definite study confirming that this occurs, and from epidemiological data gathered by NICE - it is not the correct answer. <br /><br />Weight gain is not typically associated with the POP. The only birth control which has been shown to cause weight gain (in some women) is the depo-Provera injection. Studies finding fat mass gain in depo-Provera users differed from the potential side effect of the COCP with fluid retention.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Progestogen only pill: counselling",
+        "body": "Women who are considering taking the progestogen-only pill (POP) should be counselled in a number of areas:<br /><br />Potential adverse effects<br /><ul><li><span class=\"concept\" data-cid=\"11425\">irregular vaginal bleeding is the most common problem</span></li></ul><br />Starting the POP<br /><ul><li>if commenced up to and including day 5 of the cycle it provides immediate protection, otherwise additional contraceptive methods (e.g. condoms) should be used for the first <span class=\"concept\" data-cid=\"1300\">2 days</span></li><li>if switching from a combined oral contraceptive (COC) gives immediate protection if continued directly from the end of a pill packet (i.e. Day 21)</li></ul><br />Taking the POP<br /><ul><li>should be taken at the same time every day, without a pill-free break (unlike the COC)</li></ul><br />Missed pills<br /><ul><li>if < 3 hours* late: continue as normal</li><li>if > 3 hours*: take the missed pill as soon as possible, continue with the rest of the pack, extra precautions (e.g. condoms) should be used until pill taking has been re-established for 48 hours</li></ul><br />Other potential problems<br /><ul><li>diarrhoea and vomiting: continue taking POP but assume pills have been missed - see above</li><li><span class=\"concept\" data-cid=\"303\">antibiotics: have no effect on the POP</span>**</li><li>liver enzyme inducers may reduce the effectiveness</li></ul><br />Other information<br /><ul><li>discussion on STIs</li></ul><br />*for Cerazette (desogestrel) a 12 hour period is allowed<br /><br />**unless the antibiotic alters the P450 enzyme system, for example, rifampicin",
+        "notes_hash": "35abf2da48d662cd60c4815d8b6a7074",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Progestogen-only pill: irregular vaginal bleeding is the most common adverse effect",
+        "concept_percentile": "58",
+        "concept_colour": "rgb(214,255,0)",
+        "number_attempts": "6361",
+        "up_votes": "11",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "154",
+            "558",
+            "4558",
+            "349",
+            "742",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_133\" data-linkid=\"133\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_133\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_133\" data-linkid=\"133\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_133\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/cec-ceu-guidance-pop-mar-2015/\">2015 POP guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "303": {
+                "concept_text": "Progestogen only pill + antibiotics - no need for extra precautions",
+                "concept_percentile": "84"
+            },
+            "11425": {
+                "concept_text": "Progestogen-only pill: irregular vaginal bleeding is the most common adverse effect",
+                "concept_percentile": "58"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8731_B_104",
+        "new_question_id": "24687",
+        "question_type": "0",
+        "category": "2",
+        "concept_id_link": "10258",
+        "notes_id_link": "1_1658",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Keratoderma blennorhagicum",
+            "Palmoplantar pustulosis",
+            "Pompholyx eczema",
+            "Scabies",
+            "Tinea manuum",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old woman presents with a recurrent, intensely itchy rash on the palms of her hands.<br /><br />She reports that they tend to occur every summer. She has tried over-the-counter emollients and antihistamines, but there has been only marginal improvement.<br /><br />She is otherwise well with no other medical conditions. She does not smoke.<br /><br />On examination, there are bilateral vesicles on the palms and the sides of the fingers. The palms look dry with areas of skin peeling. The rest of her body is spared.<br /><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Pompholyx eczema (also known as dyshidrotic eczema) is a type of vesicular hand dermatitis. It is more common in young adult females and is commonly related to sweating, with flares during hot weather and humid conditions. It manifests as recurrent crops of vesicles and/or blisters on the palms which can cause intense itching and burning. The vesicular stage is usually followed by a dry, desquamating phase in which the skin can peel, crack or crust.<br /><br />Treatment usually involves liberal use of emollients, avoidance of irritants and potent or very potent topical corticosteroids.<br /><br />Keratoderma blennorhagicum presents as vesico-pustular waxy yellow-brown lesions on the palms and soles. It is associated with reactive arthritis.<br /><br />Palmoplantar pustulosis is a chronic condition associated with fluid-filled blisters on the palms and sole of the feet. Distinguishing this from pompholyx eczema clinically can be difficult. However, about 25% of patients with palmoplantar pustulosis have psoriasis on other body parts, and there is a very strong association with smoking. The correlation with high temperatures and humidity is also not as strong compared with pompholyx eczema.<br /><br />Scabies - caused by infestation by the parasite <i>Sarcoptes scabiei</i> - manifests as intense itching of the hands and web spaces but is not usually a recurring condition. Clinical features include linear burrows and erythematous papules, rather than vesicles.<br /><br />Tinea manuum describes a dermatophyte infection of one or both hands. It usually appears as a slowly extending area of dry, peeling and scaly erythematous skin and typically only affects one hand. It is more common in those who do manual work who sweat profusely in their hands.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old woman presents with a recurrent, intensely itchy rash on the palms of her hands.<br /><br />She reports that they tend to occur every summer. She has tried over-the-counter emollients and antihistamines, but there has been only marginal improvement.<br /><br />She is otherwise well with no other medical conditions. She does not smoke.<br /><br />On examination, there are bilateral vesicles on the palms and the sides of the fingers. The palms look dry with areas of skin peeling. The rest of her body is spared.<br /><br />What is the most likely diagnosis?",
+        "correct_answer": "3",
+        "question_notes": "Pompholyx eczema (also known as dyshidrotic eczema) is a type of vesicular hand dermatitis. It is more common in young adult females and is commonly related to sweating, with flares during hot weather and humid conditions. It manifests as recurrent crops of vesicles and/or blisters on the palms which can cause intense itching and burning. The vesicular stage is usually followed by a dry, desquamating phase in which the skin can peel, crack or crust.<br /><br />Treatment usually involves liberal use of emollients, avoidance of irritants and potent or very potent topical corticosteroids.<br /><br />Keratoderma blennorhagicum presents as vesico-pustular waxy yellow-brown lesions on the palms and soles. It is associated with reactive arthritis.<br /><br />Palmoplantar pustulosis is a chronic condition associated with fluid-filled blisters on the palms and sole of the feet. Distinguishing this from pompholyx eczema clinically can be difficult. However, about 25% of patients with palmoplantar pustulosis have psoriasis on other body parts, and there is a very strong association with smoking. The correlation with high temperatures and humidity is also not as strong compared with pompholyx eczema.<br /><br />Scabies - caused by infestation by the parasite <i>Sarcoptes scabiei</i> - manifests as intense itching of the hands and web spaces but is not usually a recurring condition. Clinical features include linear burrows and erythematous papules, rather than vesicles.<br /><br />Tinea manuum describes a dermatophyte infection of one or both hands. It usually appears as a slowly extending area of dry, peeling and scaly erythematous skin and typically only affects one hand. It is more common in those who do manual work who sweat profusely in their hands.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Pompholyx",
+        "body": "Pompholyx is a type of eczema which affects both the hands (cheiropompholyx) and the feet (pedopompholyx). It is also known as dyshidrotic eczema.<br /><br />Pompholyx eczema may be precipitated by <span class=\"concept\" data-cid=\"10258\">humidity (e.g. sweating) and high temperatures</span>.<br /><br />Features<br /><ul><li>small blisters on the <span class=\"concept\" data-cid=\"10255\">palms and soles</span></li><li><span class=\"concept\" data-cid=\"10255\">pruritic</span><ul><li>often intensely itchy</li><li>sometimes burning sensation</li></ul></li><li>once blisters burst skin may become dry and crack</li></ul><br />Management<br /><ul><li>cool compresses</li><li>emollients</li><li>topical steroids</li></ul>",
+        "notes_hash": "654a43d0f1518c37c07a14ffe69638e2",
+        "knowledge_graph_node_id_link": 1472,
+        "concept": "Pompholyx eczema may be precipitated by humidity (e.g. sweating) and high temperatures",
+        "concept_percentile": "53",
+        "concept_colour": "rgb(239,255,0)",
+        "number_attempts": "6059",
+        "up_votes": "30",
+        "down_votes": "37",
+        "column_array": [
+            0,
+            "520",
+            "1199",
+            "3677",
+            "399",
+            "264",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Dermnet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_867\" data-linkid=\"867\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_867\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">26</span><button type=\"button\" style=\"\" id=\"link_dislike_867\" data-linkid=\"867\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_867\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://dermnetnz.org/dermatitis/pompholyx.html\">Photos of pompholyx</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "10258": {
+                "concept_text": "Pompholyx eczema may be precipitated by humidity (e.g. sweating) and high temperatures",
+                "concept_percentile": "53"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1744",
+        "new_question_id": "7876",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_313",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Wait until the CD4 count is below 200 * 10<sup>6</sup>/l",
+            "Wait until the CD4 count is above 350 * 10<sup>6</sup>/l",
+            "Wait until the CD4 count is below 250 * 10<sup>6</sup>/l",
+            "Start antiretroviral therapy now",
+            "Wait until the CD4 count is below 300 * 10<sup>6</sup>/l",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 33-year-old woman who was diagnosed as having HIV-1 two years ago is reviewed in clinic. She is fit and well currently and has no symptoms of note. The only medication she takes is the occasional paracetamol for tension headaches. Her latest blood tests are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>CD4</td><td>325 * 10<sup>6</sup>/l</td></tr></tbody></table></div><br />What is the most appropriate action with regard with to anti-retroviral therapy?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is to <b>start antiretroviral therapy now</b>. According to the current UK guidelines, antiretroviral therapy (ART) should be initiated in all individuals with HIV-1 infection, regardless of CD4 count. This approach is known as 'treat-all' or 'test and treat', and it has been shown to reduce morbidity, mortality, and HIV transmission rates. The initiation of ART in this patient would help to suppress her viral load, preserve her immune function, and prevent the development of opportunistic infections.<br /><br />The option <b>wait until the CD4 count is below 200 * 10<sup>6</sup>/l</b> is incorrect because waiting for such a low CD4 count before starting ART increases the risk of opportunistic infections and other complications associated with advanced immunosuppression. Furthermore, it contradicts current guidelines recommending ART initiation regardless of CD4 count.<br /><br />The option <b>wait until the CD4 count is above 350 * 10<sup>6</sup>/l</b> is also incorrect. Waiting for a higher CD4 count before initiating ART does not provide any additional benefits compared to starting treatment immediately. In fact, delaying treatment may lead to disease progression and increased risk of transmission.<br /><br />Similarly, the options <b>wait until the CD4 count is below 250 * 10<sup>6</sup>/l</b> and <b>wait until the CD4 count is below 300 * 10<sup>6</sup>/l</b> are both incorrect as well. These thresholds were used in previous guidelines but have since been updated due to evidence supporting earlier initiation of ART. As mentioned earlier, current UK guidelines recommend initiating ART regardless of CD4 count in order to achieve better clinical outcomes and reduce transmission rates.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 33-year-old woman who was diagnosed as having HIV-1 two years ago is reviewed in clinic. She is fit and well currently and has no symptoms of note. The only medication she takes is the occasional paracetamol for tension headaches. Her latest blood tests are as follows:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>CD4</td><td>325 * 10<sup>6</sup>/l</td></tr></tbody></table></div><br />What is the most appropriate action with regard with to anti-retroviral therapy?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer is to <b>start antiretroviral therapy now</b>. According to the current UK guidelines, antiretroviral therapy (ART) should be initiated in all individuals with HIV-1 infection, regardless of CD4 count. This approach is known as 'treat-all' or 'test and treat', and it has been shown to reduce morbidity, mortality, and HIV transmission rates. The initiation of ART in this patient would help to suppress her viral load, preserve her immune function, and prevent the development of opportunistic infections.<br /><br />The option <b>wait until the CD4 count is below 200 * 10<sup>6</sup>/l</b> is incorrect because waiting for such a low CD4 count before starting ART increases the risk of opportunistic infections and other complications associated with advanced immunosuppression. Furthermore, it contradicts current guidelines recommending ART initiation regardless of CD4 count.<br /><br />The option <b>wait until the CD4 count is above 350 * 10<sup>6</sup>/l</b> is also incorrect. Waiting for a higher CD4 count before initiating ART does not provide any additional benefits compared to starting treatment immediately. In fact, delaying treatment may lead to disease progression and increased risk of transmission.<br /><br />Similarly, the options <b>wait until the CD4 count is below 250 * 10<sup>6</sup>/l</b> and <b>wait until the CD4 count is below 300 * 10<sup>6</sup>/l</b> are both incorrect as well. These thresholds were used in previous guidelines but have since been updated due to evidence supporting earlier initiation of ART. As mentioned earlier, current UK guidelines recommend initiating ART regardless of CD4 count in order to achieve better clinical outcomes and reduce transmission rates.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "HIV: management",
+        "body": "Antiretroviral therapy (ART) involves a combination of at least three drugs, typically two nucleoside reverse transcriptase inhibitors (NRTI) and either a  protease inhibitor (PI) or a non-nucleoside reverse transcriptase inhibitor (NNRTI). This combination both decreases viral replication but also reduces the risk of viral resistance emerging<br /><br />Following the 2015 BHIVA guidelines it is now recommended that patients <span class=\"concept\" data-cid=\"10923\">start ART as soon as they have been diagnosed with HIV</span>, rather than waiting until a particular CD4 count, as was previously advocated.<br /><br />Entry inhibitors <br /><ul><li>maraviroc (binds to CCR5, preventing an interaction with gp41), enfuvirtide (binds to gp41, also known as a 'fusion inhibitor')</li><li>prevent HIV-1 from entering and infecting immune cells</li></ul><br />Nucleoside analogue reverse transcriptase inhibitors (NRTI)<br /><ul><li>examples: zidovudine (AZT), abacavir, emtricitabine, didanosine, lamivudine, stavudine, zalcitabine, tenofovir</li><li>general NRTI side-effects: peripheral neuropathy</li><li>tenofovir: used in BHIVAs two recommended regime NRTI. Adverse effects include renal impairment and ostesoporosis</li><li>zidovudine: anaemia, myopathy, black nails</li><li>didanosine: pancreatitis</li></ul><br />Non-nucleoside reverse transcriptase inhibitors (NNRTI)<br /><ul><li>examples: nevirapine, efavirenz</li><li>side-effects: P450 enzyme interaction (nevirapine induces), rashes</li></ul><br />Protease inhibitors (PI)<br /><ul><li>examples: indinavir, nelfinavir, ritonavir, saquinavir</li><li>side-effects: diabetes, hyperlipidaemia, buffalo hump, central obesity, P450 enzyme inhibition</li><li>indinavir: renal stones, asymptomatic hyperbilirubinaemia</li><li><span class=\"concept\" data-cid=\"6101\">ritonavir: a potent inhibitor of the P450 system</span></li></ul><br />Integrase inhibitors<br /><ul><li>block the action of integrase, a <span class=\"concept\" data-cid=\"11013\">viral enzyme that inserts the viral genome into the DNA of the host cell</span></li><li>examples:  raltegravir, elvitegravir, dolutegravir</li></ul>",
+        "notes_hash": "dff690e0aa3d5c43c08a431086d3d7f8",
+        "knowledge_graph_node_id_link": 1139,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4554",
+        "up_votes": "24",
+        "down_votes": "27",
+        "column_array": [
+            0,
+            "411",
+            "77",
+            "148",
+            "3836",
+            "82",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BHIVA</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_378\" data-linkid=\"378\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_378\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_378\" data-linkid=\"378\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_378\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bhiva.org/file/RVYKzFwyxpgiI/treatment-guidelines-2016-interim-update.pdf\">2016 HIV-1 infection guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td> University of Liverpool</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1371\" data-linkid=\"1371\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1371\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_1371\" data-linkid=\"1371\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1371\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.hiv-druginteractions.org/checker\">HIV Drug Interactions Checker</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GR9d9wrOl5E\" data-description=\"Treating HIV: Antiretroviral drugs\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"546\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/GR9d9wrOl5E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/GR9d9wrOl5E\" data-description=\"Treating HIV: Antiretroviral drugs\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"546\">Treating HIV: Antiretroviral drugs</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_936\" data-mediaid=\"936\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_936\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_936\" data-mediaid=\"936\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_936\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VQLRbChcd3c\" data-description=\"Antiretroviral drugs\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"438\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/VQLRbChcd3c/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/VQLRbChcd3c\" data-description=\"Antiretroviral drugs\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"438\">Antiretroviral drugs</a></td></tr><tr><td><span ><small>Medinaz - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_766\" data-mediaid=\"766\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_766\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_766\" data-mediaid=\"766\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_766\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M_w4Rx2rs74\" data-description=\"HIV antiretroviral drugs (classes, mechanism of action and side effects)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1339\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/M_w4Rx2rs74/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/M_w4Rx2rs74\" data-description=\"HIV antiretroviral drugs (classes, mechanism of action and side effects)\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"1339\">HIV antiretroviral drugs (classes, mechanism of action and side effects)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2360\" data-mediaid=\"2360\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2360\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_2360\" data-mediaid=\"2360\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2360\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 8,
+        "concepts_for_notes": {
+            "6101": {
+                "concept_text": "Ritonavir is a P450 enzyme inhibitor",
+                "concept_percentile": "5"
+            },
+            "10923": {
+                "concept_text": "Antiretroviral therapy should generally be started as soon as HIV is diagnosed",
+                "concept_percentile": "88"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_869",
+        "new_question_id": "2717",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1422",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Quiet breath sounds on auscultation",
+            "SpO2 of 94%",
+            "Heart rate of 120 bpm",
+            "Respiratory rate of 30 / minute",
+            "Peak flow 40% of predicted",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 9-year-old boy is brought to surgery as his asthma has been getting worse over the past 2 days. His mother is concerned that his breathing is getting worse and not responding to inhaled salbutamol as normal. Which one of the following is consistent with a life-threatening asthma attack?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Quiet breath sounds on auscultation</b>. In life-threatening asthma, quiet or silent chest on auscultation is a particularly concerning sign as it indicates severe bronchospasm with minimal air movement. This occurs because the airways are so constricted that there is insufficient air flow to generate the typical wheeze heard in less severe asthma. This is one of the key signs that clinicians must recognise as indicating imminent respiratory failure requiring immediate intensive intervention.<br /><br /><b>SpO2 of 94%</b> is not indicative of life-threatening asthma. While any hypoxaemia is concerning in asthma, oxygen saturations would typically be much lower (less than 92%) in a life-threatening attack. A saturation of 94% suggests moderate rather than severe disease.<br /><br /><b>Heart rate of 120 bpm</b> represents only a moderate tachycardia in a 9-year-old child. In life-threatening asthma, the heart rate would typically be significantly higher, often greater than 140 beats per minute, as the child becomes increasingly distressed and requires increased cardiac output to maintain oxygen delivery.<br /><br /><b>Respiratory rate of 30 per minute</b> is elevated but not to the degree expected in life-threatening asthma. In severe attacks, the respiratory rate would typically be much higher, often greater than 40 breaths per minute in a child of this age, reflecting increased work of breathing and respiratory distress.<br /><br /><b>Peak flow 40% of predicted</b>, while indicating significant airway obstruction, is not necessarily indicative of life-threatening asthma. In life-threatening attacks, the peak flow would typically be less than 33% of predicted, or the child may be unable to perform the measurement at all due to severe respiratory distress. Additionally, in life-threatening asthma, there may be a poor response to bronchodilators with minimal improvement in peak flow readings.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 9-year-old boy is brought to surgery as his asthma has been getting worse over the past 2 days. His mother is concerned that his breathing is getting worse and not responding to inhaled salbutamol as normal. Which one of the following is consistent with a life-threatening asthma attack?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Quiet breath sounds on auscultation</b>. In life-threatening asthma, quiet or silent chest on auscultation is a particularly concerning sign as it indicates severe bronchospasm with minimal air movement. This occurs because the airways are so constricted that there is insufficient air flow to generate the typical wheeze heard in less severe asthma. This is one of the key signs that clinicians must recognise as indicating imminent respiratory failure requiring immediate intensive intervention.<br /><br /><b>SpO2 of 94%</b> is not indicative of life-threatening asthma. While any hypoxaemia is concerning in asthma, oxygen saturations would typically be much lower (less than 92%) in a life-threatening attack. A saturation of 94% suggests moderate rather than severe disease.<br /><br /><b>Heart rate of 120 bpm</b> represents only a moderate tachycardia in a 9-year-old child. In life-threatening asthma, the heart rate would typically be significantly higher, often greater than 140 beats per minute, as the child becomes increasingly distressed and requires increased cardiac output to maintain oxygen delivery.<br /><br /><b>Respiratory rate of 30 per minute</b> is elevated but not to the degree expected in life-threatening asthma. In severe attacks, the respiratory rate would typically be much higher, often greater than 40 breaths per minute in a child of this age, reflecting increased work of breathing and respiratory distress.<br /><br /><b>Peak flow 40% of predicted</b>, while indicating significant airway obstruction, is not necessarily indicative of life-threatening asthma. In life-threatening attacks, the peak flow would typically be less than 33% of predicted, or the child may be unable to perform the measurement at all due to severe respiratory distress. Additionally, in life-threatening asthma, there may be a poor response to bronchodilators with minimal improvement in peak flow readings.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Asthma in children: assessment of acute attacks",
+        "body": "The 2016 BTS/SIGN guidelines suggest the following criteria are used to assess the severity of asthma in chidlren:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Severe attack</b></th><th><b>Life-threatening attack</b></th></tr></thead><tbody><tr><td>SpO2 < 92% (unlike in adults, SpO2 < 92% may be consistent with a 'severe' attack in children)<br /><br />PEF 33-50% best or predicted<br /><br />Too breathless to talk or feed<br /><br />Heart rate<br /><ul><li>>125 (>5 years)</li><li>>140 (1-5 years)</li></ul><br />Respiratory rate <br /><ul><li>>30 breaths/min (>5 years)</li><li>>40 (1-5 years)</li></ul><br />Use of accessory neck muscles <br /></td><td><span class=\"concept\" data-cid=\"4132\">SpO2 <92%</span><br /><br />PEF <33% best or predicted<br /><br /><span class=\"concept\" data-cid=\"3948\">Silent chest</span><br /><br />Poor respiratory effort<br /><br />Agitation<br /><br />Altered consciousness<br /><br />Cyanosis</td></tr></tbody></table></div>",
+        "notes_hash": "e0b1973c2a60b069074472d44f179bd4",
+        "knowledge_graph_node_id_link": 10949,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5189",
+        "up_votes": "30",
+        "down_votes": "50",
+        "column_array": [
+            0,
+            "4325",
+            "41",
+            "106",
+            "250",
+            "467",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_97\" data-linkid=\"97\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_97\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_97\" data-linkid=\"97\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_97\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">15</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/\">2019 Asthma guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "27487_B_31",
+        "new_question_id": "44176",
+        "question_type": "0",
+        "category": "10",
+        "concept_id_link": "12051",
+        "notes_id_link": "1_2276",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Administer 500 ml 0.9% sodium chloride over 15 minutes",
+            "Give IV furosemide",
+            "Remove and replace her urinary catheter using appropriate aseptic technique",
+            "Request a nephrology review for advice on initial management",
+            "Transfuse 1 unit of cross-matched packed red cells",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 70-year-old woman develops confusion and drowsiness on the orthopaedic ward 24 hours after undergoing a left-sided hemiarthroplasty. On examination, the surgical wound site looks clean with no evidence of haematoma. There is no peripheral or sacral oedema, her chest is clear and she has a soft, non-tender abdomen with a non-distended bladder. <br /><br />Her temperature is 37.1\u00baC, heart rate 80 /min, respiratory rate 20/min, BP 115/85 mmHg, and oxygen saturations 97% breathing air. Her urine output has been 0.3 ml/kg/hr over the last 8 hours.<br /><br />What is the most appropriate initial management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Administering 500 ml 0.9% sodium chloride over 15 minutes</b> is the correct answer. A urine output <0.5 ml/kg/hr for more than 6 hours meets the criteria for <b>stage 1 acute kidney injury (AKI)</b>. The most important initial management is therefore restoring renal perfusion. In the absence of contraindications such as fluid overload or signs of haemorrhage, a 500 ml bolus of Hartmann's solution or 0.9% sodium chloride with regular monitoring is an appropriate initial step in management. If clinical suspicion is high, further blood-work including blood cultures and IV antibiotics might be indicated too as part of the sepsis pathway.<br /><br /><b>Giving 40 mg IV furosemide</b> is incorrect. The use of loop diuretics to artificially boost urine output is an inappropriate way to treat reduced urine output and fails to address the underlying cause. Furosemide would worsen pre-existing hypovolaemia and further compromise renal perfusion.<br /><br /><b>Removing and replacing her urinary catheter</b> is incorrect. Even using appropriate aseptic technique, changing a catheter unnecessarily introduces infection risk in an already vulnerable hospital patient. With a non-distended bladder and no mentioned signs of symptomatic urinary tract infection or catheter blockage such as blood, debris or foul-smelling cloudy urine in the catheter bag, we can assume that there is no indication to remove the catheter at this point.<br /><br /><b>Requesting a nephrology review for advice on initial management</b> is incorrect. An uncomplicated stage 1 AKI can be managed without specialist nephrology input. Referrals of this nature are generally reserved for AKI patients with serious pre-existing renal comorbidities or with complicated presentations that are refractory to initial fluid management.<br /><br /><b>Transfusing 1 unit of cross-matched packed red cells</b> is incorrect. There is no indication for a blood transfusion at this stage. Recent blood results including a full blood count and a coagulation screen are not yet available, but there are no clinical signs of haemorrhage or haemodynamic instability that would warrant an urgent transfusion at present.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 70-year-old woman develops confusion and drowsiness on the orthopaedic ward 24 hours after undergoing a left-sided hemiarthroplasty. On examination, the surgical wound site looks clean with no evidence of haematoma. There is no peripheral or sacral oedema, her chest is clear and she has a soft, non-tender abdomen with a non-distended bladder. <br /><br />Her temperature is 37.1\u00baC, heart rate 80 /min, respiratory rate 20/min, BP 115/85 mmHg, and oxygen saturations 97% breathing air. Her urine output has been 0.3 ml/kg/hr over the last 8 hours.<br /><br />What is the most appropriate initial management?",
+        "correct_answer": "1",
+        "question_notes": "<b>Administering 500 ml 0.9% sodium chloride over 15 minutes</b> is the correct answer. A urine output <0.5 ml/kg/hr for more than 6 hours meets the criteria for <b>stage 1 acute kidney injury (AKI)</b>. The most important initial management is therefore restoring renal perfusion. In the absence of contraindications such as fluid overload or signs of haemorrhage, a 500 ml bolus of Hartmann's solution or 0.9% sodium chloride with regular monitoring is an appropriate initial step in management. If clinical suspicion is high, further blood-work including blood cultures and IV antibiotics might be indicated too as part of the sepsis pathway.<br /><br /><b>Giving 40 mg IV furosemide</b> is incorrect. The use of loop diuretics to artificially boost urine output is an inappropriate way to treat reduced urine output and fails to address the underlying cause. Furosemide would worsen pre-existing hypovolaemia and further compromise renal perfusion.<br /><br /><b>Removing and replacing her urinary catheter</b> is incorrect. Even using appropriate aseptic technique, changing a catheter unnecessarily introduces infection risk in an already vulnerable hospital patient. With a non-distended bladder and no mentioned signs of symptomatic urinary tract infection or catheter blockage such as blood, debris or foul-smelling cloudy urine in the catheter bag, we can assume that there is no indication to remove the catheter at this point.<br /><br /><b>Requesting a nephrology review for advice on initial management</b> is incorrect. An uncomplicated stage 1 AKI can be managed without specialist nephrology input. Referrals of this nature are generally reserved for AKI patients with serious pre-existing renal comorbidities or with complicated presentations that are refractory to initial fluid management.<br /><br /><b>Transfusing 1 unit of cross-matched packed red cells</b> is incorrect. There is no indication for a blood transfusion at this stage. Recent blood results including a full blood count and a coagulation screen are not yet available, but there are no clinical signs of haemorrhage or haemodynamic instability that would warrant an urgent transfusion at present.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Acute kidney injury: NICE guidelines and staging",
+        "body": "This guideline discuss what increases the risk of AKI:<br /><ul><li>Emergency surgery, ie, risk of sepsis or hypovolaemia</li><li>Intraperitoneal surgery</li><li>CKD, ie if eGFR < 60</li><li>Diabetes</li><li>Heart failure</li><li>Age >65 years</li><li>Liver disease</li><li>Use of nephrotoxic drugs<ul><li>NSAIDs</li><li>aminoglycosides</li><li><span class=\"concept\" data-cid=\"1313\">ACE inhibitors</span>/angiotensin II receptor antagonists</li><li>diuretics</li></ul></li></ul><br /><h5 class='notes-heading'>Diagnostic criteria</h5><br />It also defines the <span class=\"concept\" data-cid=\"2567\">criteria for diagnosing AKI</span><br /><ul><li>Rise in creatinine of 26\u00b5mol/L or more in 48 hours OR</li><li>>= 50% rise in creatinine over 7 days OR</li><li>Fall in urine output to <span class=\"concept\" data-cid=\"12051\">< 0.5ml/kg/hour</span> for more than 6 hours in adults (8 hours in children) OR</li><li> >= 25% fall in eGFR in children / young adults in 7 days.</li></ul><br /><h5 class='notes-heading'>Staging criteria</h5><br />The Kidney Disease: Improving Global Outcomes (KDIGO) criteria are widely used to stage the AKI:<br /><br /><div class=\"table-responsive\"><table class = \"table table-bordered\"  ><tbody><tr><td><b><span class=\"concept\" data-cid=\"11382\">Stage 1</span></b></td><td>Increase in creatinine to <b>1.5-1.9</b> times baseline, or<br />Increase in creatinine by \u226526.5 \u00b5mol/L, or<br />Reduction in urine output to <b><0.5</b> mL/kg/hour for <b>\u2265 6 hours</b></td></tr><tr><td><b><span class=\"concept\" data-cid=\"11383\">Stage 2</span></b></td><td>Increase in creatinine to <b>2.0 to 2.9</b> times baseline, or <br />Reduction in urine output to <b><0.5</b> mL/kg/hour for <b>\u226512 hours</b></td></tr><tr><td><b><span class=\"concept\" data-cid=\"11384\">Stage 3</span></b></td><td>Increase in creatinine to <b>\u2265 3.0</b> times baseline, or <br />Increase in creatinine to \u2265353.6 \u00b5mol/L or <br />Reduction in urine output to <b><0.3</b> mL/kg/hour for <b>\u226524 hours</b>, or <br />The initiation of kidney replacement therapy, or, <br />In patients <18 years, decrease in eGFR to <35 mL/min/1.73 m2</td></tr></tbody></table></div><br /><h5 class='notes-heading'>Referral criteria</h5><br />Refer to a nephrologist if any of the following apply:<br /><ul><li>Renal tranplant</li><li>ITU patient with unknown cause of AKI</li><li>Vasculitis/ glomerulonephritis/ tubulointerstitial nephritis/ myeloma</li><li>AKI with no known cause</li><li>Inadequate response to treatment </li><li>Complications of AKI</li><li>Stage 3 AKI (see guideline for details)</li><li>CKD stage 4 or 5</li><li>Qualify for renal replacement  hyperkalaemia / metabolic acidosis/ complications of uraemia/ fluid overload (pulmonary oedema)</li></ul>",
+        "notes_hash": "a520e098bb876c3221a96649f181f470",
+        "knowledge_graph_node_id_link": 10779,
+        "concept": "If a patient has a urine output of < 0.5ml/kg/hr postoperatively the first step is to consider a fluid challenge, if there are no contraindications or signs of haemorrhage etc",
+        "concept_percentile": "88",
+        "concept_colour": "rgb(61,255,0)",
+        "number_attempts": "7363",
+        "up_votes": "28",
+        "down_votes": "33",
+        "column_array": [
+            0,
+            "5333",
+            "104",
+            "1419",
+            "469",
+            "38",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Think Kidneys </td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1152\" data-linkid=\"1152\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1152\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1152\" data-linkid=\"1152\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1152\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.thinkkidneys.nhs.uk/aki/resources/junior-doctors/\">Resources for doctors</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_472\" data-linkid=\"472\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_472\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_472\" data-linkid=\"472\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_472\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng148/chapter/Recommendations\">2019 Acute kidney injury: prevention, detection and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH1DCCqLGps\" data-description=\"Acute kidney injury\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1146\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/MH1DCCqLGps/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/MH1DCCqLGps\" data-description=\"Acute kidney injury\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1146\">Acute kidney injury</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1984\" data-mediaid=\"1984\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1984\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1984\" data-mediaid=\"1984\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1984\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/as40yVd6Z8U\" data-description=\"Understanding Acute Kidney Injury (AKI Made Easy)\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1362\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/as40yVd6Z8U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/as40yVd6Z8U\" data-description=\"Understanding Acute Kidney Injury (AKI Made Easy)\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"1362\">Understanding Acute Kidney Injury (AKI Made Easy)</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2393\" data-mediaid=\"2393\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2393\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2393\" data-mediaid=\"2393\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2393\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "2567": {
+                "concept_text": "NICE recognise any of the following criteria to diagnose AKI in adults:\n   - \u2191 creatinine > 26\u00b5mol/L in 48 hours\n   - \u2191 creatinine > 50% in 7 days \n   - \u2193 urine output < 0.5ml/kg/hr for more than 6 hours",
+                "concept_percentile": "73"
+            },
+            "11382": {
+                "concept_text": "KDIGO AKI stage 1\n   - \u2191 creatinine 1.5-1.9 times, or\n   - \u2193 urine output <0.5 mL/kg/hr for \u2265 6 hours",
+                "concept_percentile": "70"
+            },
+            "12051": {
+                "concept_text": "If a patient has a urine output of < 0.5ml/kg/hr postoperatively the first step is to consider a fluid challenge, if there are no contraindications or signs of haemorrhage etc",
+                "concept_percentile": "88"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_540",
+        "new_question_id": "8040",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_335",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Lymphogranuloma venereum",
+            "Herpes simplex virus type 2",
+            "<i>Mycoplasma genitalium</i>",
+            "<i>Treponema pertenue</i>",
+            "<i>Treponema pallidum</i>",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old man presents with a widespread maculopapular rash and mouth ulcers. Two months ago he reports developing a painless penile ulcer. Which one of the following organisms is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b><i>Treponema pallidum</i></b>. This organism causes syphilis, a sexually transmitted infection that often presents in stages. The first stage typically involves a painless genital ulcer (chancre), as reported by the patient two months ago. The second stage, which can occur weeks to months after the initial infection, is characterised by a widespread maculopapular rash and mucosal lesions such as mouth ulcers. This matches the current presentation of our patient.<br /><br /><b>Lymphogranuloma venereum</b> is an incorrect option. Caused by certain strains of <i>Chlamydia trachomatis</i>, it usually presents with painful genital ulcers and swollen inguinal lymph nodes, known as buboes. These are not features reported by this patient.<br /><br /><b>Herpes simplex virus type 2</b> is also incorrect. While it can cause painful penile ulcers, it does not typically lead to a widespread rash or mouth ulcers. Furthermore, herpes lesions are recurrent and usually present as grouped vesicles on an erythematous base rather than a single painless ulcer.<br /><br />The third incorrect option is <b><i>Mycoplasma genitalium</i></b>. This bacterium can cause non-gonococcal urethritis in men, presenting with dysuria and urethral discharge but not with penile ulcers or a maculopapular rash.<br /><br />Lastly, <b><i>Treponema pertenue</i></b> is also an incorrect choice. It causes yaws, a tropical infection that primarily affects skin and bones. Although it may cause skin lesions and oral ulcers like syphilis, yaws does not involve genital ulceration and its distribution pattern differs from syphilis; furthermore, yaws is rare outside specific endemic areas in Africa, Southeast Asia and Latin America.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old man presents with a widespread maculopapular rash and mouth ulcers. Two months ago he reports developing a painless penile ulcer. Which one of the following organisms is most likely to be responsible?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b><i>Treponema pallidum</i></b>. This organism causes syphilis, a sexually transmitted infection that often presents in stages. The first stage typically involves a painless genital ulcer (chancre), as reported by the patient two months ago. The second stage, which can occur weeks to months after the initial infection, is characterised by a widespread maculopapular rash and mucosal lesions such as mouth ulcers. This matches the current presentation of our patient.<br /><br /><b>Lymphogranuloma venereum</b> is an incorrect option. Caused by certain strains of <i>Chlamydia trachomatis</i>, it usually presents with painful genital ulcers and swollen inguinal lymph nodes, known as buboes. These are not features reported by this patient.<br /><br /><b>Herpes simplex virus type 2</b> is also incorrect. While it can cause painful penile ulcers, it does not typically lead to a widespread rash or mouth ulcers. Furthermore, herpes lesions are recurrent and usually present as grouped vesicles on an erythematous base rather than a single painless ulcer.<br /><br />The third incorrect option is <b><i>Mycoplasma genitalium</i></b>. This bacterium can cause non-gonococcal urethritis in men, presenting with dysuria and urethral discharge but not with penile ulcers or a maculopapular rash.<br /><br />Lastly, <b><i>Treponema pertenue</i></b> is also an incorrect choice. It causes yaws, a tropical infection that primarily affects skin and bones. Although it may cause skin lesions and oral ulcers like syphilis, yaws does not involve genital ulceration and its distribution pattern differs from syphilis; furthermore, yaws is rare outside specific endemic areas in Africa, Southeast Asia and Latin America.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Syphilis",
+        "body": "Syphilis is a sexually transmitted infection caused by the spirochaete <i>Treponema pallidum</i>. Infection is characterised by primary, secondary and tertiary stages. The incubation period is between 9-90 days<br /><br />Primary features<br /><ul><li><span class=\"concept\" data-cid=\"2489\">chancre</span> - <span class=\"concept\" data-cid=\"6363\">painless ulcer</span> at the site of sexual contact</li><li>local non-tender lymphadenopathy</li><li>often not seen in women (the lesion may be on the cervix)</li></ul><br />Secondary features - occurs 6-10 weeks after primary infection<br /><ul><li><span class=\"concept\" data-cid=\"2490\">systemic symptoms: fevers, lymphadenopathy</span></li><li><span class=\"concept\" data-cid=\"6364\">rash on trunk, palms and soles</span></li><li><span class=\"concept\" data-cid=\"6366\">buccal 'snail track' ulcers</span> (30%)</li><li><span class=\"concept\" data-cid=\"2492\">condylomata lata</span> <span class=\"concept\" data-cid=\"6365\">(painless, warty lesions on the genitalia )</span></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd118b.jpg\" data-fancybox=\"gallery\" data-caption=\"Classical palm lesions of secondary syphilis</div>\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd118.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd119b.jpg\" data-fancybox=\"gallery\" data-caption=\"More generalised rash of secondary syphilis\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd119.jpg\" alt=\"\" /></a></div></div></div><br />Tertiary features<br /><ul><li><span class=\"concept\" data-cid=\"2491\">gummas</span> (<span class=\"concept\" data-cid=\"6367\">granulomatous lesions of the skin and bones</span>)</li><li><span class=\"concept\" data-cid=\"7533\">ascending aortic aneurysms</span></li><li>general paralysis of the insane</li><li><span class=\"concept\" data-cid=\"6368\">tabes dorsalis</span></li><li><span class=\"concept\" data-cid=\"6369\">Argyll-Robertson pupil</span></li></ul><br />Features of congenital syphilis<br /><ul><li><span class=\"concept\" data-cid=\"6004\">blunted upper incisor teeth (Hutchinson's teeth)</span>, <span class=\"concept\" data-cid=\"6372\">'mulberry' molars</span></li><li>rhagades (<span class=\"concept\" data-cid=\"6371\">linear scars at the angle of the mouth</span>)</li><li>keratitis</li><li>saber shins</li><li><span class=\"concept\" data-cid=\"6370\">saddle nose</span></li><li>deafness</li></ul>",
+        "notes_hash": "cff0048f5a0007b312b41c1fb4d9d80d",
+        "knowledge_graph_node_id_link": 1137,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5153",
+        "up_votes": "17",
+        "down_votes": "14",
+        "column_array": [
+            0,
+            "456",
+            "691",
+            "73",
+            "29",
+            "3904",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermIS.net</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1060\" data-linkid=\"1060\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1060\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1060\" data-linkid=\"1060\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1060\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermis.net/dermisroot/en/15094/image.htm\">Picture of condylomata lata</a></td></tr></table><br><br><table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_101\" data-linkid=\"101\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_101\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_101\" data-linkid=\"101\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_101\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.dermnetnz.org/topics/syphilis/\">Syphilis images</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l9o6icvgr1s\" data-description=\"Syphilis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"504\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/l9o6icvgr1s/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/l9o6icvgr1s\" data-description=\"Syphilis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"504\">Syphilis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_879\" data-mediaid=\"879\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_879\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_879\" data-mediaid=\"879\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_879\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2489": {
+                "concept_text": "Chancres are associated with primary syphilis",
+                "concept_percentile": "14"
+            },
+            "2491": {
+                "concept_text": "Gumma are associated with tertiary syphilis",
+                "concept_percentile": "9"
+            },
+            "2492": {
+                "concept_text": "Condylomata lata are associated with secondary syphilis",
+                "concept_percentile": "4"
+            },
+            "6004": {
+                "concept_text": "Hutchinson's teeth is a feature of congenital syphilis",
+                "concept_percentile": "1"
+            },
+            "6363": {
+                "concept_text": "Primary syphilis is associated with <b>painless</b> ulceration",
+                "concept_percentile": "45"
+            },
+            "6364": {
+                "concept_text": "Rash on palms and soles - secondary syphilis",
+                "concept_percentile": "7"
+            },
+            "6365": {
+                "concept_text": "Painless, warty lesions on the genitalia - secondary syphilis",
+                "concept_percentile": "10"
+            },
+            "6366": {
+                "concept_text": "Buccal ulceration - secondary syphilis",
+                "concept_percentile": "8"
+            },
+            "6367": {
+                "concept_text": "Granulomatous lesions of the skin and bones - tertiary syphilis",
+                "concept_percentile": "15"
+            },
+            "6368": {
+                "concept_text": "Tabes dorsalis - tertiary syphilis",
+                "concept_percentile": "5"
+            },
+            "6369": {
+                "concept_text": "Argyll-Robertson pupil - tertiary syphilis",
+                "concept_percentile": "17"
+            },
+            "6370": {
+                "concept_text": "Saddle nose - congenital syphilis",
+                "concept_percentile": "17"
+            },
+            "6371": {
+                "concept_text": "Linear scars at the angle of the mouth - congenital syphilis",
+                "concept_percentile": "7"
+            },
+            "6372": {
+                "concept_text": "Mulberry molars - congenital syphilis",
+                "concept_percentile": "2"
+            },
+            "7533": {
+                "concept_text": "Ascending aortic aneurysm - tertiary syphilis",
+                "concept_percentile": "22"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2150",
+        "new_question_id": "2839",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1456",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Advise parents to tape a coin over the area",
+            "Refer for surgery",
+            "Refer for ultrasound",
+            "Watch and wait",
+            "Arrange emergency admission",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You see a 6 week-old baby boy for his routine baby check and note a small, soft, umbilical hernia on examination.  What should you do?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Small umbilical hernias are common in babies and tend to resolve by 12 months of age.  Parents should be reassured no treatment is usually required but to be aware of the signs of obstruction or strangulation such as vomiting, pain and being unable to push the hernia in - this is rare in infants.  Advise the parents to present the child at around 2 years of age if the hernia is still present to arrange referral to a surgeon.  Attempts to treat the hernia by strapping or taping things over the area are not helpful and can irritate the skin.<br /><br />Source: NHS Choices <br />http://www.nhs.uk/conditions/Umbilicalhernia/Pages/Whatisitpage.aspx<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You see a 6 week-old baby boy for his routine baby check and note a small, soft, umbilical hernia on examination.  What should you do?",
+        "correct_answer": "4",
+        "question_notes": "Small umbilical hernias are common in babies and tend to resolve by 12 months of age.  Parents should be reassured no treatment is usually required but to be aware of the signs of obstruction or strangulation such as vomiting, pain and being unable to push the hernia in - this is rare in infants.  Advise the parents to present the child at around 2 years of age if the hernia is still present to arrange referral to a surgeon.  Attempts to treat the hernia by strapping or taping things over the area are not helpful and can irritate the skin.<br /><br />Source: NHS Choices <br />http://www.nhs.uk/conditions/Umbilicalhernia/Pages/Whatisitpage.aspx<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Umbilical hernia in children",
+        "body": "Umbilical hernia are relatively common in children and may be found during the newborn exam. Usually no treatment is required as they typically resolve by 3 years of age<br /><br />Associations<br /><ul><li>Afro-Caribbean infants</li><li>Down's syndrome</li><li>mucopolysaccharide storage diseases</li></ul>",
+        "notes_hash": "841b3ea5d9c93325b5ca648d49920c66",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4964",
+        "up_votes": "18",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "71",
+            "337",
+            "228",
+            "4234",
+            "94",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_198",
+        "new_question_id": "9794",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "809",
+        "notes_id_link": "1_670",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Metformin",
+            "Isosorbide mononitrate",
+            "Gliclazide",
+            "Atorvastatin",
+            "Clopidogrel",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old man with a history of type 2 diabetes mellitus and ischaemic heart disease presents to his GP with erectile dysfunction. Which one of the following medications would contraindicate the prescription of sildenafil?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Patients taking nitrates cannot take sildenafil concurrently as this may potentiate the vasodilating effects of such drugs",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old man with a history of type 2 diabetes mellitus and ischaemic heart disease presents to his GP with erectile dysfunction. Which one of the following medications would contraindicate the prescription of sildenafil?",
+        "correct_answer": "2",
+        "question_notes": "Patients taking nitrates cannot take sildenafil concurrently as this may potentiate the vasodilating effects of such drugs",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Phosphodiesterase type V inhibitors",
+        "body": "Phosphodiesterase type V (PDE5) inhibitors are used in the treatment of erectile dysfunction. They are also used in the management of pulmonary hypertension. PDE5 inhibitors cause vasodilation through an <span class=\"concept\" data-cid=\"2138\">increase in cGMP</span> leading to smooth muscle relaxation in blood vessels supplying the corpus cavernosum.<br /><br />Examples<br /><ul><li>sildenafil (Viagra)<ul><li>this was the first <span class=\"concept\" data-cid=\"7197\">phosphodiesterase type V inhibitor</span></li><li>short-acting - usually taken 1 hour before sexual activity</li></ul></li><li>tadalafil (Cialis)<ul><li>longer acting than sildenafil, may be taken on a regular basis (e.g. once daily)</li></ul></li><li>vardenafil (Levitra)</li></ul><br />Contraindications<br /><ul><li><span class=\"concept\" data-cid=\"809\">patients taking nitrates and related drugs such as nicorandil</span></li><li>hypotension</li><li>recent <span class=\"concept\" data-cid=\"2856\">stroke</span> or <span class=\"concept\" data-cid=\"2453\">myocardial infarction</span> (NICE recommend waiting 6 months)</li></ul><br />Side-effects<br /><ul><li>visual disturbances<ul><li><span class=\"concept\" data-cid=\"810\">blue discolouration</span></li><li><span class=\"concept\" data-cid=\"7194\">non-arteritic anterior ischaemic neuropathy</span></li></ul></li><li><span class=\"concept\" data-cid=\"7195\">nasal congestion</span></li><li><span class=\"concept\" data-cid=\"7196\">flushing</span></li><li>gastrointestinal side-effects</li><li><span class=\"concept\" data-cid=\"7198\">headache</span></li><li>priapism</li></ul><br /><div class='alert alert-warning'>The <b>blue pill</b>, Viagra (sildenafil), causes <span class=\"concept\" data-cid=\"810\"><b>blue discolouration</b></span> of vision<br /></div>",
+        "notes_hash": "3fe9ad76074cc59d7c5ee9abf7c0a3b2",
+        "knowledge_graph_node_id_link": 10888,
+        "concept": "PDE 5 inhibitors (e.g. sildenafil) - contraindicated by nitrates and nicorandil",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "4800",
+        "up_votes": "28",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "60",
+            "4391",
+            "106",
+            "102",
+            "141",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1416\" data-linkid=\"1416\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1416\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"link_dislike_1416\" data-linkid=\"1416\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1416\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/erectile-dysfunction.html\">Erectile dysfunction</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "809": {
+                "concept_text": "PDE 5 inhibitors (e.g. sildenafil) - contraindicated by nitrates and nicorandil",
+                "concept_percentile": "50"
+            },
+            "810": {
+                "concept_text": "Visual changes secondary to drugs\r\n   - blue vision: Viagra ('the blue pill')\r\n   - yellow-green vision: digoxin",
+                "concept_percentile": "55"
+            },
+            "2453": {
+                "concept_text": "Recent myocardial infarction or unstable angina is a contraindication for PDE 5 inhibitor (e.g. sildenafil) use",
+                "concept_percentile": "47"
+            },
+            "2856": {
+                "concept_text": "PDE 5 inhibitors (e.g. sildenafil) are contraindicated in patients with recent stroke ",
+                "concept_percentile": "92"
+            },
+            "7194": {
+                "concept_text": "Sildenafil may cause non-arteritic anterior ischaemic neuropathy",
+                "concept_percentile": "6"
+            },
+            "7195": {
+                "concept_text": "Sildenafil may cause nasal congestion",
+                "concept_percentile": "10"
+            },
+            "7196": {
+                "concept_text": "Sildenafil may cause flushing",
+                "concept_percentile": "11"
+            },
+            "7197": {
+                "concept_text": "Sildenafil - phosphodiesterase type V inhibitor",
+                "concept_percentile": "21"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

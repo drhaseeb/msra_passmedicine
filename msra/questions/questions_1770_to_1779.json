@@ -1,0 +1,890 @@
+[
+    {
+        "question_id": "4835_B_151",
+        "new_question_id": "14657",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "3266",
+        "notes_id_link": "1_2586",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral iron",
+            "Transfusion of packed red cells",
+            "Intravenous iron",
+            "Delay treatment until his ECG returns to normal",
+            "Intravenous Hartmann's solution",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old gentleman presents to the emergency department with nausea, sweating and severe central crushing chest pain which radiates to his left arm. His ECG shows widespread ST depression with T wave inversion. His blood tests identify a haemoglobin level of 75g/L. Which one of the following would be appropriate to treat his anaemia?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has presented with symptoms of ACS and his ECG changes confirm this (NSTEMI or unstable angina). His haemoglobin level is below the <b>threshold of 80g/L for transfusion of red blood cells for patients with ACS</b>. Hence it would be appropriate to give him an immediate transfusion. Anaemia can worsen ischaemia in ACS as there is less haemoglobin to carry oxygen, meaning the heart has to work harder and also receives less oxygen. Hence, it is important to provide immediate relief of severe anaemia in an ACS and the guidelines recommend aiming for a haemoglobin concentration target of 80-100 g/litre after transfusion.<br /><br />Oral iron and IV iron would not provide immediate enough resolution of his anaemia. IV Hartmann's solution is not a treatment for anaemia, and his ECG might never return to normal making this option inappropriate.<br /><br />NICE guideline [NG24]",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old gentleman presents to the emergency department with nausea, sweating and severe central crushing chest pain which radiates to his left arm. His ECG shows widespread ST depression with T wave inversion. His blood tests identify a haemoglobin level of 75g/L. Which one of the following would be appropriate to treat his anaemia?",
+        "correct_answer": "2",
+        "question_notes": "This patient has presented with symptoms of ACS and his ECG changes confirm this (NSTEMI or unstable angina). His haemoglobin level is below the <b>threshold of 80g/L for transfusion of red blood cells for patients with ACS</b>. Hence it would be appropriate to give him an immediate transfusion. Anaemia can worsen ischaemia in ACS as there is less haemoglobin to carry oxygen, meaning the heart has to work harder and also receives less oxygen. Hence, it is important to provide immediate relief of severe anaemia in an ACS and the guidelines recommend aiming for a haemoglobin concentration target of 80-100 g/litre after transfusion.<br /><br />Oral iron and IV iron would not provide immediate enough resolution of his anaemia. IV Hartmann's solution is not a treatment for anaemia, and his ECG might never return to normal making this option inappropriate.<br /><br />NICE guideline [NG24]",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Blood products: red bloods cells",
+        "body": "<h5 class='notes-heading'>Cross-matching</h5><br />Key points<br /><ul><li>ABO compatibility is critical - Transfusing ABO-incompatible red cells can cause rapid, life-threatening haemolysis</li><li>RhD compatibility matters - RhD-negative patients should receive RhD-negative red cells to prevent alloimmunisation, especially in women of childbearing age</li><li>group O red cells have no A or B antigens - Making O the universal donor group for RBCs in emergencies</li><li>group AB individuals have no anti-A or anti-B antibodies - Making them universal recipients for red cell transfusions</li><li>antibodies are in the plasma, antigens are on the red cells - Matching is based on preventing recipient antibodies from attacking donor red cell antigens</li><li>alloantibodies can develop after prior transfusion or pregnancy - Extended antigen matching may be needed for patients with known antibodies</li><li>emergency transfusions may use uncrossmatched O-negative blood - But <span class=\"concept\" data-cid=\"12341\">group-specific, crossmatched blood should be used as soon as possible</span></li></ul><br /><h5 class='notes-heading'>Tranfusion guidelines</h5><br />NICE published guidelines on the use of blood products in 2015.<br /><br />They recommended the following thresholds for transfusion:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th>Patients without ACS</th><th>Patients with ACS</th></tr></thead><tbody><tr><td>Transfusion threshold</td><td><span class=\"concept\" data-cid=\"1074\">70 g/L</span></td><td><span class=\"concept\" data-cid=\"3266\">80 g/L</span></td></tr><tr><td>Target after transfusion</td><td>70-90 g/L</td><td>80-100 g/L</td></tr></tbody></table></div><br />(ACS = acute coronary syndrome)<br /><br />Please note that these thresholds should not be used in patients with ongoing major haemorrhage or patients who require regular blood transfusions for chronic anaemia.<br /><br />Practical points<br /><ul><li><span class=\"concept\" data-cid=\"9457\">red blood cells should be stored at 4\u00b0C prior to infusion</span> </li><li><span class=\"concept\" data-cid=\"5505\">in a non-urgent scenario, a unit of RBC is usually transfused over 90-120 minutes</span></li></ul>",
+        "notes_hash": "0756e45ea5f07503b33b9cc6c9ba2de6",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "The transfusion threshold for patients with ACS is 80 g/L  ",
+        "concept_percentile": "76",
+        "concept_colour": "rgb(122,255,0)",
+        "number_attempts": "4989",
+        "up_votes": "48",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "90",
+            "3616",
+            "276",
+            "861",
+            "146",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "3266": {
+                "concept_text": "The transfusion threshold for patients with ACS is 80 g/L  ",
+                "concept_percentile": "76"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2216",
+        "new_question_id": "1624",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1185",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Stop driving for at least 1 week, inform the DVLA",
+            "Stop driving for at least 4 weeks, inform the DVLA.",
+            "Stop driving for at least 6 weeks, inform the DVLA",
+            "Stop driving for at least 1 week, no need to inform the DVLA",
+            "Stop driving for at least 4 weeks, no need to inform the DVLA",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 48-year-old teacher presents with crushing central chest pain. An ECG reveals ST elevation in leads II, III and aVF. He receives percutaneous coronary intervention with successful stenting of a right coronary artery occlusion. After the procedure there are no complications and echocardiography reveals an ejection fraction of 50%. The patient asks if his driving will be affected as he has to commute to work via car. What should you advise with regards to his driving?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient should be advised to stop driving for at least 1 week, the DVLA does not need to be informed. <br /><br />The DVLA guidance on driving after an acute coronary syndrome is as follows:<br /> <br />If successfully treated by coronary angioplasty, driving may recommence after 1 week provided: <br /><br /><ul><li>No other urgent revascularisation is planned. (Urgent refers to within 4 weeks from acute event) </li><li>Left ventricular ejection fraction is at least 40% prior to hospital discharge. </li><li>There is no other disqualifying condition. </li></ul><br />If not successfully treated by coronary angioplasty, driving may recommence after 4 weeks provided: <br /><br /><ul><li>There is no other disqualifying condition.</li></ul>    <br />If the patient in this scenario was a bus, taxi or lorry driver the DVLA would need to be informed and driving would need to cease for at least 6 weeks.<br /><br />For further information on fitness to drive see the following DVLA guidance: https://www.gov.uk/government/publications/at-a-glance<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 48-year-old teacher presents with crushing central chest pain. An ECG reveals ST elevation in leads II, III and aVF. He receives percutaneous coronary intervention with successful stenting of a right coronary artery occlusion. After the procedure there are no complications and echocardiography reveals an ejection fraction of 50%. The patient asks if his driving will be affected as he has to commute to work via car. What should you advise with regards to his driving?",
+        "correct_answer": "4",
+        "question_notes": "This patient should be advised to stop driving for at least 1 week, the DVLA does not need to be informed. <br /><br />The DVLA guidance on driving after an acute coronary syndrome is as follows:<br /> <br />If successfully treated by coronary angioplasty, driving may recommence after 1 week provided: <br /><br /><ul><li>No other urgent revascularisation is planned. (Urgent refers to within 4 weeks from acute event) </li><li>Left ventricular ejection fraction is at least 40% prior to hospital discharge. </li><li>There is no other disqualifying condition. </li></ul><br />If not successfully treated by coronary angioplasty, driving may recommence after 4 weeks provided: <br /><br /><ul><li>There is no other disqualifying condition.</li></ul>    <br />If the patient in this scenario was a bus, taxi or lorry driver the DVLA would need to be informed and driving would need to cease for at least 6 weeks.<br /><br />For further information on fitness to drive see the following DVLA guidance: https://www.gov.uk/government/publications/at-a-glance<br />",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "DVLA: cardiovascular disorders",
+        "body": "The guidelines below relate to car/motorcycle use unless specifically stated. For obvious reasons, the rules relating to drivers of heavy goods vehicles tend to be much stricter<br /><br />Specific rules<br /><ul><li><span class=\"concept\" data-cid=\"211\">hypertension</span> <ul><li>can drive unless treatment causes unacceptable side effects, no need to notify DVLA</li><li>if Group 2 Entitlement the disqualifies from driving if resting BP consistently 180 mmHg systolic or more and/or 100 mm Hg diastolic or more</li></ul></li><li><span class=\"concept\" data-cid=\"209\">angioplasty (elective)</span> - 1 week off driving</li><li>CABG - 4 weeks off driving</li><li>a<span class=\"concept\" data-cid=\"208\">cute coronary syndrome</span>- 4 weeks off driving<ul><li>1 week if successfully treated by angioplasty</li></ul></li><li>angina - driving must cease if symptoms occur at rest/at the wheel</li><li><span class=\"concept\" data-cid=\"4325\">pacemaker insertion</span> - 1 week off driving</li><li>implantable cardioverter-defibrillator (ICD)<ul><li>if implanted for sustained ventricular arrhythmia: cease driving for 6 months</li><li>if implanted prophylactically then cease driving for 1 month. Having an <span class=\"concept\" data-cid=\"210\">ICD results in a permanent bar for Group 2 drivers</span></li></ul></li><li>successful catheter ablation for an arrhythmia- 2 days off driving</li><li>aortic aneurysm of 6cm or more - notify DVLA. Licensing will be permitted subject to annual review. <ul><li>an aortic diameter of 6.5 cm or more disqualifies patients from driving</li></ul></li><li>heart transplant: do not drive for 6 weeks, no need to notify DVLA</li></ul>",
+        "notes_hash": "35cb1d8b0db5a30e06a38e6d56cc0c4b",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5601",
+        "up_votes": "44",
+        "down_votes": "69",
+        "column_array": [
+            0,
+            "474",
+            "1604",
+            "689",
+            "1359",
+            "1475",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DVLA</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1109\" data-linkid=\"1109\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1109\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">55</span><button type=\"button\" style=\"\" id=\"link_dislike_1109\" data-linkid=\"1109\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1109\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">27</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals\">Fitness to drive guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_296",
+        "new_question_id": "8512",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "692",
+        "notes_id_link": "1_433",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "The psychological effect of a patient knowing they will develop an incurable condition",
+            "Earlier age of onset in successive generations",
+            "Less severe disease in successive generations",
+            "Where there is a known history of inherited conditions, patients may attribute symptoms to the onset of the disease",
+            "Screening at risk families to allow early intervention and improve outcomes",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 25-year-old man is counselled regarding the genetics of Huntington's disease. Which one of the following best describes the concept of anticipation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Earlier age of onset in successive generations</b>. Anticipation, in the context of genetic disorders such as Huntington's disease, refers to the phenomenon where the severity of the disorder and/or the age at which symptoms first appear tends to become worse or occur earlier with each new generation. This is usually due to an increase in the number of trinucleotide repeats within certain genes. In Huntington's disease, for example, there is an expansion of CAG repeats in the HTT gene.<br /><br />The option <b>The psychological effect of a patient knowing they will develop an incurable condition</b> is incorrect. This describes more about the psychological impact on individuals who are aware they carry a gene for a serious inherited condition rather than anticipation itself. It is crucial that healthcare professionals provide appropriate counselling and support for these individuals.<br /><br /><b>Less severe disease in successive generations</b> is also incorrect. It actually represents reverse anticipation or negative anticipation, which is not commonly observed in genetic disorders and contrasts with what happens in anticipation where conditions tend to get worse or occur earlier in successive generations.<br /><br />The statement <b>Where there is a known history of inherited conditions, patients may attribute symptoms to the onset of the disease</b>, while valid, does not describe anticipation but rather it describes how knowledge about familial diseases can influence symptom interpretation and health-seeking behaviours.<br /><br />Finally, <b>Screening at-risk families to allow early intervention and improve outcomes</b> describes predictive testing and early intervention strategies often used for managing hereditary diseases but does not define what anticipation means in genetics. While this strategy can help manage expectations and plan care for those at risk, it doesn't reflect changes across generations that characterise anticipation.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 25-year-old man is counselled regarding the genetics of Huntington's disease. Which one of the following best describes the concept of anticipation?",
+        "correct_answer": "2",
+        "question_notes": "The correct answer is <b>Earlier age of onset in successive generations</b>. Anticipation, in the context of genetic disorders such as Huntington's disease, refers to the phenomenon where the severity of the disorder and/or the age at which symptoms first appear tends to become worse or occur earlier with each new generation. This is usually due to an increase in the number of trinucleotide repeats within certain genes. In Huntington's disease, for example, there is an expansion of CAG repeats in the HTT gene.<br /><br />The option <b>The psychological effect of a patient knowing they will develop an incurable condition</b> is incorrect. This describes more about the psychological impact on individuals who are aware they carry a gene for a serious inherited condition rather than anticipation itself. It is crucial that healthcare professionals provide appropriate counselling and support for these individuals.<br /><br /><b>Less severe disease in successive generations</b> is also incorrect. It actually represents reverse anticipation or negative anticipation, which is not commonly observed in genetic disorders and contrasts with what happens in anticipation where conditions tend to get worse or occur earlier in successive generations.<br /><br />The statement <b>Where there is a known history of inherited conditions, patients may attribute symptoms to the onset of the disease</b>, while valid, does not describe anticipation but rather it describes how knowledge about familial diseases can influence symptom interpretation and health-seeking behaviours.<br /><br />Finally, <b>Screening at-risk families to allow early intervention and improve outcomes</b> describes predictive testing and early intervention strategies often used for managing hereditary diseases but does not define what anticipation means in genetics. While this strategy can help manage expectations and plan care for those at risk, it doesn't reflect changes across generations that characterise anticipation.<br />",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Trinucleotide repeat disorders",
+        "body": "Trinucleotide repeat disorders are genetic conditions caused by an abnormal number of repeats (expansions) of a repetitive sequence of three nucleotides. These expansions are unstable and may enlarge which may lead to an earlier age of onset in successive generations - a phenomenon known as anticipation*. In most cases, an increase in the severity of symptoms is also noted<br /><br />Examples - note dominance of neurological disorders<br /><ul><li>Fragile X (CGG)</li><li>Huntington's (CAG)</li><li>myotonic dystrophy (CTG)</li><li>Friedreich's ataxia* (GAA)</li><li>spinocerebellar ataxia</li><li>spinobulbar muscular atrophy</li><li>dentatorubral pallidoluysian atrophy</li></ul><br />*Friedreich's ataxia is unusual in not demonstrating anticipation",
+        "notes_hash": "0a1a890061f0f3d3c1650094e41b4e85",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Anticipation in trinucleotide repeat disorders = <b>earlier onset</b> in successive generations",
+        "concept_percentile": "49",
+        "concept_colour": "rgb(255,249,0)",
+        "number_attempts": "6065",
+        "up_votes": "15",
+        "down_votes": "28",
+        "column_array": [
+            0,
+            "334",
+            "4656",
+            "70",
+            "409",
+            "596",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nJoS5MOqmH4\" data-description=\"Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"6\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nJoS5MOqmH4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nJoS5MOqmH4\" data-description=\"Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"6\">Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_677\" data-mediaid=\"677\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_677\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_677\" data-mediaid=\"677\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_677\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jRm--Zanpls\" data-description=\"Trinucleotide repeat disorders\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"647\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jRm--Zanpls/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jRm--Zanpls\" data-description=\"Trinucleotide repeat disorders\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"647\">Trinucleotide repeat disorders</a></td></tr><tr><td><span ><small>Dirty USMLE - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1115\" data-mediaid=\"1115\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1115\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1115\" data-mediaid=\"1115\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1115\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1054",
+        "new_question_id": "8425",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "689",
+        "notes_id_link": "1_413",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Hypokalaemia",
+            "Low LH",
+            "Impaired glucose tolerance",
+            "Low FSH",
+            "Reduced growth hormone levels",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Which one of the following is <b>not</b> a recognised feature of anorexia nervosa?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Reduced growth hormone levels</b>. In anorexia nervosa, growth hormone (GH) levels are typically elevated rather than reduced. This elevation occurs as a compensatory mechanism in response to the state of starvation and malnutrition. The body increases GH secretion to mobilise fat stores and maintain blood glucose levels during periods of nutritional deprivation. This represents a physiological adaptation to conserve energy and maintain essential metabolic functions during starvation. Despite elevated GH levels, patients with anorexia nervosa often have low insulin-like growth factor 1 (IGF-1) levels due to GH resistance in the liver, which is another adaptation to the malnourished state.<br /><br /><b>Hypokalaemia</b> is a recognised feature of anorexia nervosa. It can occur due to multiple mechanisms including poor dietary intake, renal potassium wasting (particularly in patients who purge through vomiting or laxative abuse), and shifts in potassium distribution related to refeeding. Hypokalaemia can lead to serious cardiac complications including arrhythmias and is an important parameter to monitor in these patients.<br /><br /><b>Low LH</b> (luteinising hormone) is a common finding in anorexia nervosa. The hypothalamic-pituitary-gonadal axis is suppressed in response to malnutrition and low body weight, resulting in reduced gonadotropin-releasing hormone (GnRH) pulsatility and consequently low LH levels. This contributes to the amenorrhoea or oligomenorrhoea frequently observed in female patients with anorexia nervosa.<br /><br /><b>Impaired glucose tolerance</b> is indeed a recognised feature of anorexia nervosa. Patients often display abnormal glucose metabolism, including delayed insulin secretion and impaired glucose tolerance. This occurs as an adaptive response to starvation, with the body attempting to preserve glucose for essential functions, particularly brain metabolism.<br /><br /><b>Low FSH</b> (follicle-stimulating hormone) occurs in anorexia nervosa for the same reason as low LH - suppression of the hypothalamic-pituitary-gonadal axis due to malnutrition. The reduced FSH levels contribute to impaired follicular development in females and reduced spermatogenesis in males with anorexia nervosa, resulting in reproductive dysfunction.<br /><br />In summary, while hypokalaemia, low LH, impaired glucose tolerance, and low FSH are all recognised features of anorexia nervosa, reduced growth hormone levels are not. Instead, growth hormone levels are typically elevated in this condition as part of the body's adaptive response to starvation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Which one of the following is <b>not</b> a recognised feature of anorexia nervosa?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Reduced growth hormone levels</b>. In anorexia nervosa, growth hormone (GH) levels are typically elevated rather than reduced. This elevation occurs as a compensatory mechanism in response to the state of starvation and malnutrition. The body increases GH secretion to mobilise fat stores and maintain blood glucose levels during periods of nutritional deprivation. This represents a physiological adaptation to conserve energy and maintain essential metabolic functions during starvation. Despite elevated GH levels, patients with anorexia nervosa often have low insulin-like growth factor 1 (IGF-1) levels due to GH resistance in the liver, which is another adaptation to the malnourished state.<br /><br /><b>Hypokalaemia</b> is a recognised feature of anorexia nervosa. It can occur due to multiple mechanisms including poor dietary intake, renal potassium wasting (particularly in patients who purge through vomiting or laxative abuse), and shifts in potassium distribution related to refeeding. Hypokalaemia can lead to serious cardiac complications including arrhythmias and is an important parameter to monitor in these patients.<br /><br /><b>Low LH</b> (luteinising hormone) is a common finding in anorexia nervosa. The hypothalamic-pituitary-gonadal axis is suppressed in response to malnutrition and low body weight, resulting in reduced gonadotropin-releasing hormone (GnRH) pulsatility and consequently low LH levels. This contributes to the amenorrhoea or oligomenorrhoea frequently observed in female patients with anorexia nervosa.<br /><br /><b>Impaired glucose tolerance</b> is indeed a recognised feature of anorexia nervosa. Patients often display abnormal glucose metabolism, including delayed insulin secretion and impaired glucose tolerance. This occurs as an adaptive response to starvation, with the body attempting to preserve glucose for essential functions, particularly brain metabolism.<br /><br /><b>Low FSH</b> (follicle-stimulating hormone) occurs in anorexia nervosa for the same reason as low LH - suppression of the hypothalamic-pituitary-gonadal axis due to malnutrition. The reduced FSH levels contribute to impaired follicular development in females and reduced spermatogenesis in males with anorexia nervosa, resulting in reproductive dysfunction.<br /><br />In summary, while hypokalaemia, low LH, impaired glucose tolerance, and low FSH are all recognised features of anorexia nervosa, reduced growth hormone levels are not. Instead, growth hormone levels are typically elevated in this condition as part of the body's adaptive response to starvation.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Anorexia nervosa: features",
+        "body": "Anorexia nervosa is associated with a number of characteristic clinical signs and physiological abnormalities which are summarised below<br /><br />Features<br /><ul><li>reduced body mass index</li><li>bradycardia</li><li>hypotension</li><li>enlarged salivary glands</li></ul><br />Physiological abnormalities<br /><ul><li>hypokalaemia</li><li>low FSH, LH, oestrogens and testosterone</li><li>raised cortisol and growth hormone</li><li>impaired glucose tolerance</li><li>hypercholesterolaemia</li><li>hypercarotinaemia</li><li>low T3</li></ul>",
+        "notes_hash": "7ffd805a51fb82167d760094ce4c1951",
+        "knowledge_graph_node_id_link": 1054,
+        "concept": "Anorexia features<br /><ul><li>most things low</li><li><b>G</b>'s and <b>C</b>'s raised: <b>g</b>rowth hormone, <b>g</b>lucose, salivary <b>g</b>lands, <b>c</b>ortisol, <b>c</b>holesterol, <b>c</b>arotinaemia</li></ul>",
+        "concept_percentile": "77",
+        "concept_colour": "rgb(117,255,0)",
+        "number_attempts": "4927",
+        "up_votes": "63",
+        "down_votes": "24",
+        "column_array": [
+            0,
+            "485",
+            "225",
+            "1253",
+            "227",
+            "2737",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/olIz9MqtW-U\" data-description=\"Anorexia nervosa\" data-upvotes=\"15\" data-downvotes=\"1\" data-media=\"483\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/olIz9MqtW-U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/olIz9MqtW-U\" data-description=\"Anorexia nervosa\" data-upvotes=\"15\" data-downvotes=\"1\" data-media=\"483\">Anorexia nervosa</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_847\" data-mediaid=\"847\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_847\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">15</span><button type=\"button\" style=\"\" id=\"media_dislike_847\" data-mediaid=\"847\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_847\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_118",
+        "new_question_id": "5569",
+        "question_type": "1",
+        "category": "8",
+        "concept_id_link": "6315",
+        "notes_id_link": "1_1881",
+        "theme": "Overdose and poisoning: management",
+        "instruction": "For each of the following scenarios please select the most appropriate treatment:",
+        "options": [
+            "",
+            "N-acetylcysteine",
+            "Urinary alkalinization",
+            "Naloxone",
+            "Haemodialysis",
+            "Adrenaline",
+            "Fomepizole",
+            "Glucagon",
+            "IV bicarbonate",
+            "Flumazenil",
+            "Desferrioxamine"
+        ],
+        "num_of_options": 10,
+        "questions": [
+            "A 62-year-old man is admitted following a beta-blocker overdose. He remains bradycardic despite being given atropine",
+            "N 24-lrne-byq vagenirabhf qeht hfre cerfragf jvgu n erfcvengbel engr bs 6 / zvahgr. Ur unf cva-cbvag chcvyf.",
+            "N zna vf nqzvggrq sbyybjvat na nfcveva bireqbfr. Ur vf hajryy jvgu chyzbanel brqrzn naq n frirer zrgnobyvp npvqbfvf."
+        ],
+        "answers": [
+            "7",
+            "3",
+            "4"
+        ],
+        "notes": [
+            "",
+            "",
+            "Both pulmonary oedema and metabolic acidosis are indications for haemodialysis in salicylate overdose."
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old man is admitted following a beta-blocker overdose. He remains bradycardic despite being given atropine",
+        "correct_answer": "7",
+        "question_notes": "",
+        "answer_order": "7",
+        "answer": "7",
+        "title": "Overdose and poisoning: management",
+        "body": "The table below outlines the main management for common overdoses:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Toxin</b></th><th><b>Treatment</b></th></tr></thead><tbody><tr><td><b>Paracetamol</b></td><td>Management<br /><ul><li>activated charcoal if ingested < 1 hour ago</li><li><span class=\"concept\" data-cid=\"6307\">N-acetylcysteine (NAC)</span></li><li>liver transplantation</td></tr><tr><td></li></ul><b>Salicylate</b></td><td>Management<br /><ul><li>urinary alkalinization with IV bicarbonate</li><li><span class=\"concept\" data-cid=\"6308\">haemodialysis</span></td></tr><tr><td></li></ul><b>Opioid/opiates</b></td><td><span class=\"concept\" data-cid=\"6309\">Naloxone</span></td></tr><tr><td><b>Benzodiazepines</b></td><td><span class=\"concept\" data-cid=\"4623\">Flumazenil</span><br /><span class=\"concept\" data-cid=\"3588\">The majority of overdoses are managed with supportive care only due to the risk of seizures with flumazenil</span>. It is generally only used with severe or iatrogenic overdoses.</td></tr><tr><td><b>Tricyclic antidepressants</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6311\">IV bicarbonate</span> may reduce the risk of seizures and arrhythmias in severe toxicity</li><li>arrhythmias: class 1a (e.g. Quinidine) and class Ic antiarrhythmics (e.g. Flecainide) are contraindicated as they prolong depolarisation. Class III drugs such as amiodarone should also be avoided as they prolong the QT interval. Response to lignocaine is variable and it should be emphasized that correction of acidosis is the first line in management of tricyclic induced arrhythmias</li><li>dialysis is ineffective in removing tricyclics</td></tr><tr><td></li></ul><b>Lithium</b></td><td>Management<br /><ul><li>mild-moderate toxicity may respond to volume resuscitation with normal saline</li><li><span class=\"concept\" data-cid=\"6312\">haemodialysis</span> may be needed in severe toxicity</li><li>sodium bicarbonate is sometimes used but there is limited evidence to support this. By increasing the alkalinity of the urine it promotes lithium excretion</td></tr><tr><td></li></ul><b>Warfarin</b></td><td><span class=\"concept\" data-cid=\"6313\">Vitamin K</span>, prothrombin complex</td></tr><tr><td><b>Heparin</b></td><td><span class=\"concept\" data-cid=\"6314\">Protamine sulphate</span></td></tr><tr><td><b>Beta-blockers</b></td><td>Management<br /><ul><li>if bradycardic then <span class=\"concept\" data-cid=\"6315\">atropine</span></li><li>in resistant cases <span class=\"concept\" data-cid=\"6315\">glucagon</span> may be used</td></tr><tr><td></li></ul><b>Ethylene glycol</b></td><td>Management has changed in recent times<br /><ul><li><span class=\"concept\" data-cid=\"6316\">ethanol</span> has been used for many years</li><li>works by competing with ethylene glycol for the enzyme alcohol dehydrogenase</li><li>this limits the formation of toxic metabolites (e.g. Glycoaldehyde and glycolic acid) which are responsible for the haemodynamic/metabolic features of poisoning</li><li><span class=\"concept\" data-cid=\"6316\"><b>fomepizole</b></span>, an inhibitor of alcohol dehydrogenase, is now used first-line in preference to ethanol</li><li><span class=\"concept\" data-cid=\"6316\">haemodialysis</span> also has a role in refractory cases</td></tr><tr><td></li></ul><b>Methanol poisoning</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6317\">fomepizole or ethanol</span></li><li><span class=\"concept\" data-cid=\"6317\">haemodialysis</span></td></tr><tr><td></li></ul><b>Organophosphate insecticides</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6318\">atropine</span></li><li>the role of pralidoxime is still unclear - meta-analyses to date have failed to show any clear benefit</td></tr><tr><td></li></ul><b>Digoxin</b></td><td>Digoxin-specific antibody fragments</td></tr><tr><td><b>Iron</b></td><td><span class=\"concept\" data-cid=\"6319\">Desferrioxamine</span>, a chelating agent</td></tr><tr><td><b>Lead</b></td><td><span class=\"concept\" data-cid=\"6320\">Dimercaprol, calcium edetate</span></td></tr><tr><td><b>Carbon monoxide</b></td><td>Management<br /><ul><li><span class=\"concept\" data-cid=\"6321\">100% oxygen</span></li><li><span class=\"concept\" data-cid=\"6321\">hyperbaric oxygen</span></td></tr><tr><td></li></ul><b>Cyanide</b></td><td><span class=\"concept\" data-cid=\"6324\">Hydroxocobalamin</span>; also combination of <span class=\"concept\" data-cid=\"6323\">amyl nitrite, sodium nitrite, and sodium thiosulfate</span></td></tr></tbody></table></div>",
+        "notes_hash": "ab285f4004be6532969e64c86a5ae708",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Beta-blocker - atropine, glucagon in resistant cases",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "4025",
+        "up_votes": "62",
+        "down_votes": "76",
+        "column_array": [
+            0,
+            "2607",
+            "3892",
+            "1333",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_547\" data-linkid=\"547\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_547\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"link_dislike_547\" data-linkid=\"547\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_547\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/7/3/277\">2007 Acute poisoning on the medical admissions unit </a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1577\" data-linkid=\"1577\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1577\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1577\" data-linkid=\"1577\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1577\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/poisoning-emergency-treatment.html\">Emergency treatment of poisoning</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_595\" data-linkid=\"595\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_595\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_595\" data-linkid=\"595\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_595\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">10</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/3/280\">2012 Poisoning and self-harm update</a></td></tr></table>",
+        "media": "",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "4623": {
+                "concept_text": "Severe benzodiazepine overdose is treated by flumazenil",
+                "concept_percentile": "27"
+            },
+            "6307": {
+                "concept_text": "Paracetamol - N-acetylcysteine (NAC)",
+                "concept_percentile": "1"
+            },
+            "6308": {
+                "concept_text": "Salicylate - supportive, haemodialysis if severe",
+                "concept_percentile": "43"
+            },
+            "6309": {
+                "concept_text": "Opiate - naloxone",
+                "concept_percentile": "33"
+            },
+            "6311": {
+                "concept_text": "Tricyclic antidepressant - supportive, IV bicarbonate",
+                "concept_percentile": "65"
+            },
+            "6312": {
+                "concept_text": "Lithium - supportive, haemodialysis if severe",
+                "concept_percentile": "63"
+            },
+            "6313": {
+                "concept_text": "Warfarin - vitamin K",
+                "concept_percentile": "26"
+            },
+            "6314": {
+                "concept_text": "Heparin - protamine sulphate",
+                "concept_percentile": "42"
+            },
+            "6315": {
+                "concept_text": "Beta-blocker - atropine, glucagon in resistant cases",
+                "concept_percentile": "50"
+            },
+            "6316": {
+                "concept_text": "Ethylene glycol - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "19"
+            },
+            "6317": {
+                "concept_text": "Methanol poisoning - ethanol, fomepizole, haemodialysis",
+                "concept_percentile": "36"
+            },
+            "6318": {
+                "concept_text": "Organophosphate insecticide - atropine",
+                "concept_percentile": "27"
+            },
+            "6319": {
+                "concept_text": "Iron - desferrioxamine",
+                "concept_percentile": "38"
+            },
+            "6320": {
+                "concept_text": "Lead - dimercaprol, calcium edetate",
+                "concept_percentile": "18"
+            },
+            "6321": {
+                "concept_text": "Carbon monoxide - 100% oxygen, hyperbaric oxygen",
+                "concept_percentile": "51"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8683_B_13",
+        "new_question_id": "19717",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "9606",
+        "notes_id_link": "1_706",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Raised haemoglobin; normal MCV; and normal reticulocytes",
+            "Raised haemoglobin; raised MCV; and raised reticulocytes",
+            "Normal haemoglobin; raised MCV; and raised reticulocytes",
+            "Low haemoglobin; normal MCV; and raised reticulocytes",
+            "Low haemoglobin; reduced MCV; and reduced reticulocytes",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 14-year-old boy is seen in clinic for his homozygous sickle cell disease status. He has managed with his condition well, and has not had any acute crises for the last three years. However, he has been feeling more tired than usual over the last 6 months, and the doctor decides to organise some routine blood tests.<br /><br />Which of the following combinations of blood results are most likely to be seen in sickle cell patients?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Sickle cell disease causes intravascular haemolysis - resulting in a normocytic anaemia. The haemolysis results in a greater drive from the bone marrow to compensate for this loss, causing a rise in reticulocytes (the precursor to mature red blood cells). <br /><br />Therefore option 4 is the correct answer.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 14-year-old boy is seen in clinic for his homozygous sickle cell disease status. He has managed with his condition well, and has not had any acute crises for the last three years. However, he has been feeling more tired than usual over the last 6 months, and the doctor decides to organise some routine blood tests.<br /><br />Which of the following combinations of blood results are most likely to be seen in sickle cell patients?",
+        "correct_answer": "4",
+        "question_notes": "Sickle cell disease causes intravascular haemolysis - resulting in a normocytic anaemia. The haemolysis results in a greater drive from the bone marrow to compensate for this loss, causing a rise in reticulocytes (the precursor to mature red blood cells). <br /><br />Therefore option 4 is the correct answer.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Sickle-cell anaemia",
+        "body": "Sickle-cell anaemia is an <span class=\"concept\" data-cid=\"4063\">autosomal recessive</span> condition that results for synthesis of an abnormal haemoglobin chain termed HbS. It is more common in people of African descent as the heterozygous condition offers some protection against malaria. Around 10% of UK Afro-Caribbean's are carriers of HbS (i.e. heterozygous). Such people are only symptomatic if severely hypoxic.<br /><br /><span class=\"concept\" data-cid=\"8424\">Symptoms in homozygotes don't tend to develop until 4-6 months when the abnormal HbSS molecules take over from fetal haemoglobin.</span><br /><br />Pathophysiology<br /><ul><li>haemoglobin<ul><li>normal haemoglobin: HbAA</li><li>sickle cell trait: HbAS</li><li><span class=\"concept\" data-cid=\"11435\">homozygous sickle cell disease: HbSS</span>. Some patients inherit one HbS and another abnormal haemoglobin (HbC) resulting in a <span class=\"concept\" data-cid=\"10599\">milder form of sickle cell disease (HbSC)</span></li></ul></li><li>polar amino acid glutamate is substituted by non-polar valine in each of the two beta chains (codon 6). This decreases the water solubility of deoxy-Hb</li><li>in the deoxygenated state the HbS molecules polymerise and cause RBCs to sickle<ul><li>HbAS patients sickle at p02 2.5 - 4 kPa</li><li>HbSS patients at p02 5 - 6 kPa</li></ul></li><li>sickle cells are fragile and haemolyse; they block small blood vessels and cause infarction</li></ul><br />Investigations<br /><ul><li>definitive diagnosis of sickle cell disease is by <span class=\"concept\" data-cid=\"9881\">haemoglobin electrophoresis</span></li></ul>",
+        "notes_hash": "7ccfdb6b2a9dfc424f8c387bb33323b1",
+        "knowledge_graph_node_id_link": 11033,
+        "concept": "Sickle cell disease causes a normocytic anaemia with raised reticulocyte count - due to haemolysis",
+        "concept_percentile": "89",
+        "concept_colour": "rgb(56,255,0)",
+        "number_attempts": "5239",
+        "up_votes": "25",
+        "down_votes": "3",
+        "column_array": [
+            0,
+            "64",
+            "171",
+            "431",
+            "3425",
+            "1148",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/S9-f8CItE-Q\" data-description=\"Sickle cell anaemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"342\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/S9-f8CItE-Q/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/S9-f8CItE-Q\" data-description=\"Sickle cell anaemia\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"342\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>12DaysinMarch - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_582\" data-mediaid=\"582\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_582\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_582\" data-mediaid=\"582\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_582\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e67ZP2C3Pr4\" data-description=\"Sickle cell anaemia\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"709\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/e67ZP2C3Pr4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/e67ZP2C3Pr4\" data-description=\"Sickle cell anaemia\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"709\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>AK lectures - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1243\" data-mediaid=\"1243\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1243\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1243\" data-mediaid=\"1243\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1243\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"239\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fIIJmg_1hv0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fIIJmg_1hv0\" data-description=\"Sickle cell anaemia\" data-upvotes=\"1\" data-downvotes=\"1\" data-media=\"239\">Sickle cell anaemia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_398\" data-mediaid=\"398\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_398\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_398\" data-mediaid=\"398\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_398\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4063": {
+                "concept_text": "Sickle cell anaemia is an autosomal recessive condition",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "22012_B_52",
+        "new_question_id": "48101",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "11035",
+        "notes_id_link": "1_1466",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Refer for colposcopy",
+            "Refer under the two week rule pathway",
+            "Repeat smear immediately",
+            "Repeat smear in 12 months",
+            "Repeat smear in 6 months",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 35-year-old woman recently had a cervical smear at your practice. Her last two smears were high-risk human papillomavirus (hr-HPV) positive, but with normal cytology. The most recent smear has come back with the same results. <br /><br />What would be the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Refer for colposcopy</b> is correct. She has had three positive consecutive smears, and despite having normal cytology, this now warrants colposcopy. If done according to the screening pathway, these smears would have been taken 12 months apart i.e. over the course of 24 months. <br /><br /><b>Repeat smear in 12 months</b> is incorrect. She has now had three positive smears with normal histology which required a colposcopy referral.<br /><br /><b>Refer under the two week rule pathway</b> is incorrect. This would only be required if cervical cancer was suspected based on symptoms or examination, but there is no mention of any red flags in this vignette. <br /><br /><b>Repeat smear immediately</b> is incorrect. A smear never needs to be repeated immediately if processed correctly by the lab. The result can be relied upon without a repeat. <br /><br /><b>Repeat smear in 6 months</b> is incorrect. A smear after 6 months would be indicated as a test of cure after treatment of CIN.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 35-year-old woman recently had a cervical smear at your practice. Her last two smears were high-risk human papillomavirus (hr-HPV) positive, but with normal cytology. The most recent smear has come back with the same results. <br /><br />What would be the most appropriate next step?",
+        "correct_answer": "1",
+        "question_notes": "<b>Refer for colposcopy</b> is correct. She has had three positive consecutive smears, and despite having normal cytology, this now warrants colposcopy. If done according to the screening pathway, these smears would have been taken 12 months apart i.e. over the course of 24 months. <br /><br /><b>Repeat smear in 12 months</b> is incorrect. She has now had three positive smears with normal histology which required a colposcopy referral.<br /><br /><b>Refer under the two week rule pathway</b> is incorrect. This would only be required if cervical cancer was suspected based on symptoms or examination, but there is no mention of any red flags in this vignette. <br /><br /><b>Repeat smear immediately</b> is incorrect. A smear never needs to be repeated immediately if processed correctly by the lab. The result can be relied upon without a repeat. <br /><br /><b>Repeat smear in 6 months</b> is incorrect. A smear after 6 months would be indicated as a test of cure after treatment of CIN.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Cervical cancer screening: interpretation of results",
+        "body": "The cervical cancer screening programme has undergone a significant evolution in recent years. For many years the smears were examined for signs of dyskaryosis which may indicate cervical intraepithelial neoplasia -  management was based solely on the degree of dyskaryosis. The introduction of HPV testing allowed patients with mild dyskaryosis to be further risk-stratified, i.e. as HPV is such a strong risk factor patients who were HPV negative could be treated as having normal results.<br /><br />The NHS has now moved to an <span class=\"concept\" data-cid=\"11027\"><b>HPV first system</b></span>, i.e. a sample is tested for high-risk strains of human papillomavirus (hrHPV) first and <span class=\"concept\" data-cid=\"11028\">cytological examination is only performed if this is positive</span>.<br /><br /><h5 class='notes-heading'>Management of results</h5><br />Negative hrHPV<br /><ul><li><span class=\"concept\" data-cid=\"11029\">return to normal recall</span>, unless<ul><li>the test of cure (TOC) pathway: individuals who have been treated for CIN1, CIN2, or CIN3 should be invited 6 months after treatment for a test of cure repeat cervical sample in the community</li><li>the untreated CIN1 pathway</li><li>follow-up for incompletely excised cervical glandular intraepithelial neoplasia (CGIN) / stratified mucin producing intraepithelial lesion (SMILE) or cervical cancer</li><li>follow-up for borderline changes in endocervical cells</li></ul></li></ul><br />Positive hrHPV<br /><ul><li>samples are examined cytologically</li><li><span class=\"concept\" data-cid=\"11030\">if the cytology is abnormal &rarr; colposcopy</span><ul><li>this includes the following results:</li><li>borderline changes in squamous or endocervical cells.</li><li>low-grade dyskaryosis.</li><li>high-grade dyskaryosis (moderate).</li><li>high-grade dyskaryosis (severe).</li><li>invasive squamous cell carcinoma.</li><li>glandular neoplasia</li></ul></li><li>if the cytology is normal (i.e. hrHPV +ve but cytologically normal) the <span class=\"concept\" data-cid=\"11031\">test is repeated at 12 months</span><ul><li>if the repeat test is now hrHPV -ve &rarr; <span class=\"concept\" data-cid=\"11032\">return to normal recall</span></li><li>if the repeat test is still hrHPV +ve and cytology still normal &rarr; <span class=\"concept\" data-cid=\"11033\">further repeat test 12 months later</span>:</li><li>If hrHPV -ve at 24 months &rarr; <span class=\"concept\" data-cid=\"11034\">return to normal recall</span></li><li>if hrHPV +ve at 24 months &rarr; <span class=\"concept\" data-cid=\"11035\">colposcopy</span></li></ul></li></ul><br />If the sample is 'inadequate'<br /><ul><li><span class=\"concept\" data-cid=\"11036\">repeat the sample in 3 months</span></li><li><span class=\"concept\" data-cid=\"11037\">if two consecutive inadequate samples then &rarr; colposcopy</span></li></ul><br />The follow-up of patients who've previously had CIN is complicated but as a first step, individuals who've been treated for CIN1, CIN2, or CIN3 should be invited 6 months after treatment for a test of cure repeat cervical sample in the community.<br /><br /><h5 class='notes-heading'>Treatment of CIN</h5><br /><span class=\"concept\" data-cid=\"11705\">Large loop excision of transformation zone (LLETZ)</span> is the most common treatment for cervical intraepithelial neoplasia. LLETZ may sometimes be done during the initial colposcopy visit or at a later date depending on the individual clinic. Alternative techniques include cryotherapy.",
+        "notes_hash": "283bf91ba7d9e3037ca862ea413c2220",
+        "knowledge_graph_node_id_link": 11153,
+        "concept": "Cervical cancer screening: if 2nd repeat smear at 24 months is still hrHPV +ve &rarr; colposcopy",
+        "concept_percentile": "48",
+        "concept_colour": "rgb(255,244,0)",
+        "number_attempts": "6356",
+        "up_votes": "13",
+        "down_votes": "15",
+        "column_array": [
+            0,
+            "4343",
+            "125",
+            "15",
+            "1634",
+            "239",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "11027": {
+                "concept_text": "Cervical smear samples are tested for hrHPV as the first step",
+                "concept_percentile": "97"
+            },
+            "11029": {
+                "concept_text": "Cervical cancer screening: if sample is hrHPV -ve --> return to routine recall",
+                "concept_percentile": "28"
+            },
+            "11030": {
+                "concept_text": "Cervical cancer screening: if sample is hrHPV +ve + cytologically abnormal --> colposcopy",
+                "concept_percentile": "47"
+            },
+            "11031": {
+                "concept_text": "Cervical cancer screening: if sample is hrHPV +ve + cytologically normal --> repeat smear at 12 months",
+                "concept_percentile": "52"
+            },
+            "11032": {
+                "concept_text": "Cervical cancer screening: if 1st repeat smear at 12 months is now hrHPV -ve --> return to routine recall",
+                "concept_percentile": "40"
+            },
+            "11033": {
+                "concept_text": "\nCervical cancer screening: if 1st repeat smear at 12 months is still hrHPV +ve --> repeat smear 12 months later (i.e. at 24 months)",
+                "concept_percentile": "41"
+            },
+            "11034": {
+                "concept_text": "Cervical cancer screening: if 2nd repeat smear at 24 months is now hrHPV -ve --> return to routine recall",
+                "concept_percentile": "13"
+            },
+            "11035": {
+                "concept_text": "Cervical cancer screening: if 2nd repeat smear at 24 months is still hrHPV +ve --> colposcopy",
+                "concept_percentile": "48"
+            },
+            "11036": {
+                "concept_text": "Cervical cancer screening: if smear inadequate then repeat in 3 months",
+                "concept_percentile": "27"
+            },
+            "11037": {
+                "concept_text": "Cervical cancer screening: if two consecutive inadequate samples then --> colposcopy",
+                "concept_percentile": "39"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_163",
+        "new_question_id": "6925",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_2305",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pyogenic granuloma",
+            "Herberden's node",
+            "Bouchard's node",
+            "Ganglion",
+            "Sebaceous cyst",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 63-year-old woman reports that she has had 'problems with her hands for years' however, more recently she has noticed that the joints in her fingers are painful and she cannot open jam jars easily. She has noted a lump on the dorsal, distal aspect of her right index finger. <br /><br />Which one of the following is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "",
+            ""
+        ],
+        "notes": [
+            "Osteoarthritis of the hands usually occurs as part of nodal osteoarthritis (a form of osteoarthritis that is usually genetic). <br /><br />It results in the formation of: <br /><br />Heberden's nodes - swelling of the distal interphalangeal joints.<br />Bouchard's nodes - swelling of proximal interphalangeal joints<br /><br />No treatment is needed for these.<br /><br />Source: http://www.arthritisresearchuk.org/arthritis-information/conditions/osteoarthritis/which-joints-are-affected/hands.aspx<br /><br />Pyogenic granuloma is a bright red/blood crusted lesion that usually occurs follow trauma. It is more common in children.<br /><br />A ganglion is subcutaneous, cystic lesion of the joint or synovial sheath of a tendon. It most commonly occurs at the wrist.<br /><br />A sebaceous cyst is a round, mobile cyst with a characteristic central punctum.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 63-year-old woman reports that she has had 'problems with her hands for years' however, more recently she has noticed that the joints in her fingers are painful and she cannot open jam jars easily. She has noted a lump on the dorsal, distal aspect of her right index finger. <br /><br />Which one of the following is the most likely diagnosis?",
+        "correct_answer": "2",
+        "question_notes": "Osteoarthritis of the hands usually occurs as part of nodal osteoarthritis (a form of osteoarthritis that is usually genetic). <br /><br />It results in the formation of: <br /><br />Heberden's nodes - swelling of the distal interphalangeal joints.<br />Bouchard's nodes - swelling of proximal interphalangeal joints<br /><br />No treatment is needed for these.<br /><br />Source: http://www.arthritisresearchuk.org/arthritis-information/conditions/osteoarthritis/which-joints-are-affected/hands.aspx<br /><br />Pyogenic granuloma is a bright red/blood crusted lesion that usually occurs follow trauma. It is more common in children.<br /><br />A ganglion is subcutaneous, cystic lesion of the joint or synovial sheath of a tendon. It most commonly occurs at the wrist.<br /><br />A sebaceous cyst is a round, mobile cyst with a characteristic central punctum.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Osteoarthritis: diagnosis",
+        "body": "NICE recommend that we can diagnose osteoarthritis clinically without the need for investigations if:<br /><ul><li>patient is > 45 years</li><li>has exercise related pain</li><li>no morning stiffness or morning stiffness lasting < 30 minutes</li></ul>",
+        "notes_hash": "a8e5d6bbd0dac2fdf365f6cbb97524f0",
+        "knowledge_graph_node_id_link": 10963,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5915",
+        "up_votes": "27",
+        "down_votes": "19",
+        "column_array": [
+            0,
+            "69",
+            "4239",
+            "1286",
+            "290",
+            "31",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CYTGpcPz3dg\" data-description=\"Osteoarthritis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1040\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/CYTGpcPz3dg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/CYTGpcPz3dg\" data-description=\"Osteoarthritis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1040\">Osteoarthritis</a></td></tr><tr><td><span ><small>Zero to Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1820\" data-mediaid=\"1820\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1820\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1820\" data-mediaid=\"1820\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1820\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 13,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_190",
+        "new_question_id": "10713",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "9764",
+        "notes_id_link": "1_874",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Huntington's disease is inherited in an X-linked recessive manner",
+            "Huntington's disease affects men more than women",
+            "Huntington's disease is caused by a defect on chromosome 4",
+            "Huntington's disease is caused by a defect on chromosome 18",
+            "Huntington's disease is inherited in an autosomal recessive manner",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 20-year-old woman comes to see you and asks to be referred to a clinical geneticist as she has a family history of Huntington's disease. Her grandfather died of Huntington's disease and her father has recently been diagnosed with the condition.<br /><br />She would like to know more about the condition and how it is passed on genetically. Which one of the following is true?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "Huntington's disease is a progressive and incurable neurodegenerative condition. It is inherited in an autosomal dominant manner and is caused by a defect in the huntingtin gene on chromosome 4. It affects men and women equally.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 20-year-old woman comes to see you and asks to be referred to a clinical geneticist as she has a family history of Huntington's disease. Her grandfather died of Huntington's disease and her father has recently been diagnosed with the condition.<br /><br />She would like to know more about the condition and how it is passed on genetically. Which one of the following is true?",
+        "correct_answer": "3",
+        "question_notes": "Huntington's disease is a progressive and incurable neurodegenerative condition. It is inherited in an autosomal dominant manner and is caused by a defect in the huntingtin gene on chromosome 4. It affects men and women equally.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Huntington's disease",
+        "body": "Huntington's disease is an inherited neurodegenerative condition. It is a progressive and incurable condition that typically results in death 20 years after the initial symptoms develop.<br /><br />Genetics<br /><ul><li><span class=\"concept\" data-cid=\"6257\">autosomal dominant</span></li><li><span class=\"concept\" data-cid=\"4180\">trinucleotide repeat disorder: repeat expansion of CAG</span><ul><li><span class=\"concept\" data-cid=\"10142\">as Huntington's disease is a trinucleotide repeat disorder, the phenomenon of anticipation may be seen</span>, where the disease is presents at an earlier age in successive generations</li></ul></li><li><span class=\"concept\" data-cid=\"9731\">results in degeneration of cholinergic and GABAergic neurons in the striatum of the basal ganglia</span></li><li><span class=\"concept\" data-cid=\"9764\">due to defect in huntingtin gene on chromosome 4</span></li></ul><br /><span class=\"concept\" data-cid=\"12159\">Features</span> typical develop after 35 years of age<br /><ul><li>chorea</li><li>personality changes (e.g. irritability, apathy, depression) and intellectual impairment</li><li>dystonia</li><li>saccadic eye movements</li></ul>",
+        "notes_hash": "0be31ff297a78720334c6f16d99a793c",
+        "knowledge_graph_node_id_link": 1334,
+        "concept": "Huntington's disease is due to a defect in the huntingtin gene on chromosome 4",
+        "concept_percentile": "20",
+        "concept_colour": "rgb(255,102,0)",
+        "number_attempts": "5842",
+        "up_votes": "40",
+        "down_votes": "82",
+        "column_array": [
+            0,
+            "1032",
+            "1030",
+            "1952",
+            "931",
+            "896",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nJoS5MOqmH4\" data-description=\"Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"6\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/nJoS5MOqmH4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/nJoS5MOqmH4\" data-description=\"Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"6\">Huntington disease - causes, symptoms, diagnosis, treatment &amp; pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_13\" data-mediaid=\"13\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_13\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_13\" data-mediaid=\"13\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_13\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "6257": {
+                "concept_text": "Huntington's disease is autosomal dominant",
+                "concept_percentile": "6"
+            },
+            "9764": {
+                "concept_text": "Huntington's disease is due to a defect in the huntingtin gene on chromosome 4",
+                "concept_percentile": "20"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "20654_B_114",
+        "new_question_id": "34722",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "11560",
+        "notes_id_link": "1_790",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Colonoscopy",
+            "Erythrocyte sedimentation rate",
+            "MRI pelvis",
+            "Stool culture",
+            "Wound swab",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 28-year-old man is seen in Colorectal Clinic with a 4-week history of pain around the anus when sitting and when opening his bowels. He has a history of Crohn's disease and bipolar disorder. <br /><br />On examination, a fistula tract is visible. The patient is stable and no signs of infection are present. <br /><br />What would be the most appropriate investigation to guide management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>MRI pelvis</b> is the gold-standard investigation for perianal fistulae in patients with Crohn's disease. This will enable visualisation of the course of the tract and can be used to plan surgical management.<br /><br /><b>Colonoscopy</b> would not be used in the assessment of a perianal fistula. A colonoscopy can be used in the assessment of Crohn's disease in general, but will not provide further information about perianal fistulae. <br /><br /><b>Erythrocyte sedimentation rate</b> (ESR) is non-specific test for inflammation. It measures the time it takes for coagulated red blood cells to settle in the bottom of a tube. ESR can be used to assess disease activity in Crohn's disease, however, it would not be useful in assessing a perianal fistula. <br /><br />A <b>stool culture</b> would not aid in the assessment of a perianal fistula. It can be useful for patients with Crohn's disease who have been treated with antibiotics to rule out <i>Clostridium difficile</i> infection. <br /><br />A <b>wound swab</b> would only be necessary if the patient was getting recurrent abscesses without a fistula being identified or if they had a risk factor for one of the rarer causes of anorectal abscesses such as HIV. In this case, the wound could be swapped to rule out tuberculosis or actinomycosis infection.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 28-year-old man is seen in Colorectal Clinic with a 4-week history of pain around the anus when sitting and when opening his bowels. He has a history of Crohn's disease and bipolar disorder. <br /><br />On examination, a fistula tract is visible. The patient is stable and no signs of infection are present. <br /><br />What would be the most appropriate investigation to guide management?",
+        "correct_answer": "3",
+        "question_notes": "<b>MRI pelvis</b> is the gold-standard investigation for perianal fistulae in patients with Crohn's disease. This will enable visualisation of the course of the tract and can be used to plan surgical management.<br /><br /><b>Colonoscopy</b> would not be used in the assessment of a perianal fistula. A colonoscopy can be used in the assessment of Crohn's disease in general, but will not provide further information about perianal fistulae. <br /><br /><b>Erythrocyte sedimentation rate</b> (ESR) is non-specific test for inflammation. It measures the time it takes for coagulated red blood cells to settle in the bottom of a tube. ESR can be used to assess disease activity in Crohn's disease, however, it would not be useful in assessing a perianal fistula. <br /><br />A <b>stool culture</b> would not aid in the assessment of a perianal fistula. It can be useful for patients with Crohn's disease who have been treated with antibiotics to rule out <i>Clostridium difficile</i> infection. <br /><br />A <b>wound swab</b> would only be necessary if the patient was getting recurrent abscesses without a fistula being identified or if they had a risk factor for one of the rarer causes of anorectal abscesses such as HIV. In this case, the wound could be swapped to rule out tuberculosis or actinomycosis infection.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Crohn's disease: management",
+        "body": "Crohn's disease is a form of inflammatory bowel disease. It commonly affects the terminal ileum and colon but may be seen anywhere from the mouth to anus. NICE published guidelines on the management of Crohn's disease in 2012.<br /><br />General points<br /><ul><li>patients should be strongly advised to stop smoking</li><li>some studies suggest an increased risk of relapse secondary to NSAIDs and the combined oral contraceptive pill but the evidence is patchy</li></ul><br />Inducing remission<br /><ul><li><span class=\"concept\" data-cid=\"4699\">glucocorticoids (oral, topical or intravenous) are generally used to induce remission</span>. Budesonide is an alternative in a subgroup of patients</li><li>enteral feeding with an elemental diet may be used in addition to or instead of other measures to induce remission, particularly if there is concern regarding the side-effects of steroids (for example in young children)</li><li>5-ASA drugs (e.g. mesalazine) are used second-line to glucocorticoids but are not as effective</li><li>azathioprine or mercaptopurine* may be used as an add-on medication to induce remission but is not used as monotherapy. Methotrexate is an alternative to azathioprine</li><li>infliximab is useful in refractory disease and fistulating Crohn's. Patients typically continue on azathioprine or methotrexate</li><li>metronidazole is often used for isolated peri-anal disease</li></ul><br />Maintaining remission<br /><ul><li>as above, stopping smoking is a priority (remember: smoking makes Crohn's worse, but may help ulcerative colitis)</li><li><span class=\"concept\" data-cid=\"11348\">azathioprine or mercaptopurine</span> is used first-line to maintain remission </li></ul>   +<span class=\"concept\" data-cid=\"5503\">TPMT activity</span> should be assessed before starting<br /><ul><li>methotrexate is used second-line</li></ul><br />Surgery<br /><ul><li>around 80% of patients with Crohn's disease will eventually have surgery</li><li>stricturing terminal ileal disease &rarr; ileocaecal resection</li><li>segmental small bowel resections </li><li>stricturoplasty</li><li>perianal fistulae<ul><li>an inflammatory tract or connection between the anal canal and the perianal skin</li><li><span class=\"concept\" data-cid=\"11560\">MRI</span> is the investigation of choice for suspected perianal fistulae - can be used to determine if there (is an abscess and if the fistula is simple (low fistula) or complex (high fistula that passes through or above muscle layers)</li><li>patients with symptomatic perianal fistulae are usually given oral <span class=\"concept\" data-cid=\"11559\">metronidazole</span></li><li>anti-TNF agents such as infliximab may also be effective in closing and maintaining closure of perianal fistulas</li><li>a <span class=\"concept\" data-cid=\"11561\">draining seton</span> is used for complex fistulae</li><li>a seton is a piece of surgical thread that's left in the fistula for several weeks to keep it open. This is useful because persisting fistula tracks after premature skin closure predispose to abscess formation </li></ul></li><li>perianal abscess<ul><li>requires <span class=\"concept\" data-cid=\"11563\">incision and drainage</span> combined with antibiotic therapy</li><li>a draining seton may also be placed if a tract is identified</li></ul></li></ul><br /><br /><h5 class='notes-heading'>Complications of Crohn's disease</h5><br />As well as the well-documented complications described above, patients are also at risk of:<br /><ul><li>small bowel cancer (standard incidence ratio = 40)</li><li>colorectal cancer (standard incidence ratio = 2, i.e. less than the risk associated with ulcerative colitis)</li><li>osteoporosis</li></ul><br />*assess thiopurine methyltransferase (TPMT) activity before offering azathioprine or mercaptopurine",
+        "notes_hash": "dceb04fc9cd8c79c8a662c778af3966d",
+        "knowledge_graph_node_id_link": 1006,
+        "concept": "MRI is the investigation of choice for suspected perianal fistulae in patients with Crohn's ",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "7372",
+        "up_votes": "10",
+        "down_votes": "2",
+        "column_array": [
+            0,
+            "1163",
+            "139",
+            "5809",
+            "32",
+            "229",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_151\" data-linkid=\"151\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_151\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_151\" data-linkid=\"151\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_151\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng129/chapter/Recommendations\">2019 Crohn disease guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jYmpIjciPig\" data-description=\"Crohn's disease\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"58\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/jYmpIjciPig/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/jYmpIjciPig\" data-description=\"Crohn's disease\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"58\">Crohn's disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_105\" data-mediaid=\"105\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_105\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_105\" data-mediaid=\"105\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_105\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "4699": {
+                "concept_text": "Glucocorticoids (oral, topical or intravenous) are generally used to induce remission of Crohn's disease",
+                "concept_percentile": "97"
+            },
+            "11348": {
+                "concept_text": "Azathioprine or mercaptopurine is used first-line to maintain remission in patients with Crohn's",
+                "concept_percentile": "88"
+            },
+            "11560": {
+                "concept_text": "MRI is the investigation of choice for suspected perianal fistulae in patients with Crohn's ",
+                "concept_percentile": "61"
+            },
+            "11561": {
+                "concept_text": "A draining seton is used for complex perianal fistulae in patients with Crohn's disease",
+                "concept_percentile": "49"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

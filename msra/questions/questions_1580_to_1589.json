@@ -1,0 +1,949 @@
+[
+    {
+        "question_id": "1360_B_2081",
+        "new_question_id": "13151",
+        "question_type": "0",
+        "category": "3",
+        "concept_id_link": "1586",
+        "notes_id_link": "1_284",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Syndrome of inappropriate anti diuretic hormone (SIADH)",
+            "Addison's disease",
+            "Diabetes insipidus",
+            "Spironolactone",
+            "Cerebral salt wasting",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 60-year-old male is admitted to the surgical ward for observation following a head injury. Lab results reveal the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup> 121 mmol/l</td></tr><tr><td>K<sup>+</sup> 3.0 mmol/l</td></tr><tr><td>Urine osmolality 588 mOsmol/kg (50-1200mOsmol/kg)</td></tr><tr><td>Serum osmolality 240 mOsmol/kg (275-290mOsmol/kg)</td></tr></tbody></table></div><br />On examination, he is well hydrated with moist mucus membranes. What is the most likely cause of hyponatraemia in this case?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Hypotonic hyponatraemia can can be caused by three scenarios:<br /><br />The retention of pure water, as seen in SIADH. This causes euvolaemic hyponatraemia. <br /><br />The retention of sodium, but accompanied by an even greater retention of water. This is is caused by liver failure, heart failure and nephrotic syndrome. Fluid leaks out of the vascular space as a result of increased hydrostatic pressure (heart failure) or reduced osmotic pressure (liver failure, nephrotic syndrome). This causes a reduction in blood pressure and subsequent activation of the rennin-angiotensin-aldosterone system with retention of sodium and water. This is hypervolaemic hyponatraemia.<br /><br />The loss of water, but accompanied by an even greater loss of sodium. This is caused by diarrhoea, vomiting, diuretics and cerebral salt wasting. <br /><br />Spironolactone and addison's disease would cause a raised potassium in conjunction with a low sodium.<br /><br />In diabetes insipidus there is loss of free water only and this would not cause hyponatraemia. <br /><br />SIADH and cerebral salt wasting can both be caused by head injury, but because this patient is euvolaemic, SIADH is the most likely diagnosis.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 60-year-old male is admitted to the surgical ward for observation following a head injury. Lab results reveal the following:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Na<sup>+</sup> 121 mmol/l</td></tr><tr><td>K<sup>+</sup> 3.0 mmol/l</td></tr><tr><td>Urine osmolality 588 mOsmol/kg (50-1200mOsmol/kg)</td></tr><tr><td>Serum osmolality 240 mOsmol/kg (275-290mOsmol/kg)</td></tr></tbody></table></div><br />On examination, he is well hydrated with moist mucus membranes. What is the most likely cause of hyponatraemia in this case?",
+        "correct_answer": "1",
+        "question_notes": "Hypotonic hyponatraemia can can be caused by three scenarios:<br /><br />The retention of pure water, as seen in SIADH. This causes euvolaemic hyponatraemia. <br /><br />The retention of sodium, but accompanied by an even greater retention of water. This is is caused by liver failure, heart failure and nephrotic syndrome. Fluid leaks out of the vascular space as a result of increased hydrostatic pressure (heart failure) or reduced osmotic pressure (liver failure, nephrotic syndrome). This causes a reduction in blood pressure and subsequent activation of the rennin-angiotensin-aldosterone system with retention of sodium and water. This is hypervolaemic hyponatraemia.<br /><br />The loss of water, but accompanied by an even greater loss of sodium. This is caused by diarrhoea, vomiting, diuretics and cerebral salt wasting. <br /><br />Spironolactone and addison's disease would cause a raised potassium in conjunction with a low sodium.<br /><br />In diabetes insipidus there is loss of free water only and this would not cause hyponatraemia. <br /><br />SIADH and cerebral salt wasting can both be caused by head injury, but because this patient is euvolaemic, SIADH is the most likely diagnosis.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Hyponatraemia",
+        "body": "Hyponatraemia may be caused by water excess or sodium depletion. Causes of pseudohyponatraemia include <span class=\"concept\" data-cid=\"5393\">hyperlipidaemia</span> (increase in serum volume) or a taking blood from a drip arm. Urinary sodium and osmolarity levels aid making a diagnosis<br /><br /><h5 class='notes-heading'>Urinary sodium > 20 mmol/l</h5><br />Sodium depletion, renal loss (patient often hypovolaemic)<br /><ul><li><span class=\"concept\" data-cid=\"2077\">diuretics</span>: <span class=\"concept\" data-cid=\"6777\">thiazides</span>, loop diuretics</li><li><span class=\"concept\" data-cid=\"6768\">Addison's disease</span></li><li>diuretic stage of renal failure</li></ul><br />Patient often euvolaemic<br /><ul><li><span class=\"concept\" data-cid=\"6769\">SIADH</span> (urine osmolality > 500 mmol/kg)</li><li><span class=\"concept\" data-cid=\"5303\">hypothyroidism</span>  </li></ul><br /><br /><h5 class='notes-heading'>Urinary sodium < 20 mmol/l</h5><br />Sodium depletion, extra-renal loss<br /><ul><li><span class=\"concept\" data-cid=\"6771\">diarrhoea</span>, <span class=\"concept\" data-cid=\"6772\">vomiting</span>, sweating</li><li><span class=\"concept\" data-cid=\"6773\">burns</span>, <span class=\"concept\" data-cid=\"6774\">adenoma of rectum</span></li></ul><br />Water excess (patient often hypervolaemic and oedematous)<br /><ul><li>secondary hyperaldosteronism: <span class=\"concept\" data-cid=\"6776\">heart failure</span>, <span class=\"concept\" data-cid=\"6775\">liver cirrhosis</span></li><li><span class=\"concept\" data-cid=\"5304\">nephrotic syndrome</span></li><li>IV dextrose</li><li><span class=\"concept\" data-cid=\"6778\">psychogenic polydipsia</span></li></ul>",
+        "notes_hash": "3072e50c86b349bc69bdfbd612b736fe",
+        "knowledge_graph_node_id_link": 10294,
+        "concept": "SIADH and cerebral salt wasting are differentiated by fluid status",
+        "concept_percentile": "84",
+        "concept_colour": "rgb(81,255,0)",
+        "number_attempts": "5387",
+        "up_votes": "37",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "3768",
+            "142",
+            "704",
+            "45",
+            "728",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8y64XmyiZcs\" data-description=\"Understanding Hyponatraemia\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"787\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8y64XmyiZcs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8y64XmyiZcs\" data-description=\"Understanding Hyponatraemia\" data-upvotes=\"13\" data-downvotes=\"0\" data-media=\"787\">Understanding Hyponatraemia</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1369\" data-mediaid=\"1369\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1369\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">13</span><button type=\"button\" style=\"\" id=\"media_dislike_1369\" data-mediaid=\"1369\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1369\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0NHT8ERUBo0\" data-description=\"Syndrome of inappropriate antidiuretic hormone (SIADH)\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"13\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0NHT8ERUBo0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0NHT8ERUBo0\" data-description=\"Syndrome of inappropriate antidiuretic hormone (SIADH)\" data-upvotes=\"11\" data-downvotes=\"0\" data-media=\"13\">Syndrome of inappropriate antidiuretic hormone (SIADH)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1204\" data-mediaid=\"1204\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1204\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_1204\" data-mediaid=\"1204\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1204\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-w-FhctMvD0\" data-description=\"Hyponatraemia - classification, causes, pathophysiology, treatment\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1056\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/-w-FhctMvD0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/-w-FhctMvD0\" data-description=\"Hyponatraemia - classification, causes, pathophysiology, treatment\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1056\">Hyponatraemia - classification, causes, pathophysiology, treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1841\" data-mediaid=\"1841\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1841\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_1841\" data-mediaid=\"1841\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1841\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "5303": {
+                "concept_text": "Hypothyroidism causes a euvolaemic hyponatraemia",
+                "concept_percentile": "9"
+            },
+            "6768": {
+                "concept_text": "Addison's disease causes hyponatraemia",
+                "concept_percentile": "40"
+            },
+            "6769": {
+                "concept_text": "SIADH causes hyponatraemia",
+                "concept_percentile": "47"
+            },
+            "6771": {
+                "concept_text": "Diarrhoea causes hyponatraemia",
+                "concept_percentile": "43"
+            },
+            "6772": {
+                "concept_text": "Vomiting causes hyponatraemia",
+                "concept_percentile": "29"
+            },
+            "6773": {
+                "concept_text": "Burns causes hyponatraemia",
+                "concept_percentile": "24"
+            },
+            "6775": {
+                "concept_text": "Liver cirrhosis causes hyponatraemia",
+                "concept_percentile": "9"
+            },
+            "6776": {
+                "concept_text": "Heart failure may cause hyponatraemia",
+                "concept_percentile": "17"
+            },
+            "6777": {
+                "concept_text": "Thiazides causes hyponatraemia",
+                "concept_percentile": "60"
+            },
+            "6778": {
+                "concept_text": "Psychogenic polydipsia causes hyponatraemia",
+                "concept_percentile": "18"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2220",
+        "new_question_id": "10283",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_788",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Parvovirus B19",
+            "Cytomegalovirus",
+            "Group B Streptococcus",
+            "Syphilis",
+            "Rubella",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old female at 24 weeks gestation complains of reduced foetal movements.  An ultrasound scan reveals that the foetus is hydropic.  Her 4 year child had a febrile illness and erythema of the cheeks recently.  What is the most likely infectious agent?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The clinical features of the child's illness are suggestive of erythema infectiosum which occurs due to parvovirus B19 infection.  The majority of pregnant women are immune to parvovirus B19 and infection does not usually cause a problem.   Rarely infection in the first trimester has been linked to hydrops fetalis which can result in spontaneous miscarriage.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old female at 24 weeks gestation complains of reduced foetal movements.  An ultrasound scan reveals that the foetus is hydropic.  Her 4 year child had a febrile illness and erythema of the cheeks recently.  What is the most likely infectious agent?",
+        "correct_answer": "1",
+        "question_notes": "The clinical features of the child's illness are suggestive of erythema infectiosum which occurs due to parvovirus B19 infection.  The majority of pregnant women are immune to parvovirus B19 and infection does not usually cause a problem.   Rarely infection in the first trimester has been linked to hydrops fetalis which can result in spontaneous miscarriage.<br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Parvovirus B19",
+        "body": "Parvovirus B19 is a DNA virus which causes a variety of clinical presentations. It was identified in the 1980's as the cause of erythema infectiosum<br /><br /><h5 class='notes-heading'>Erythema infectiosum (also known as fifth disease or 'slapped-cheek syndrome')</h5><br />The illness may consist of a mild feverish illness which is hardly noticeable. However, in others there is a noticeable rash which appears after a few days. The rose-red rash makes the cheeks appear bright red, hence the name 'slapped cheek syndrome'. The rash may spread to the rest of the body but unlike many other rashes, it only rarely involves the palms and soles.<br /><br />The child begins to feel better as the rash appears and the rash usually peaks after a week and then fades. The rash is unusual in that for some months afterwards, a warm bath, sunlight, heat or fever will trigger a recurrence of the bright red cheeks and the rash itself. Most children recover and need no specific treatment. <span class=\"concept\" data-cid=\"8105\">School exclusion is unnecessary as the child is not infectious once the rash emerges</span>. In adults, the virus may cause acute arthritis.<br /><br />Be aware that the virus can affect an unborn baby in the first 20 weeks of pregnancy. If a woman is exposed early in pregnancy (before 20 weeks) she should seek prompt advice from whoever is giving her antenatal care as <span class=\"concept\" data-cid=\"7262\">maternal IgM and IgG</span> will need to be checked. It is spread by the respiratory route and a person is infectious 3 to 5 days before the appearance of the rash. Children are no longer infectious once the rash appears and there is no specific treatment.<br /><br />The child need not be excluded from school as they are no longer infectious by the time the rash occurs.<br /><br /><h5 class='notes-heading'>Other presentations</h5><br />Other presentations include:<br /><ul><li>asymptomatic</li><li>pancytopaenia in immunosuppressed patients</li><li><span class=\"concept\" data-cid=\"3608\">aplastic crises e.g. in sickle-cell disease</span><ul><li>parvovirus B19 suppresses erythropoiesis for about a week so aplastic anaemia is rare unless there is a chronic haemolytic anaemia</li></ul></li><li>hydrops fetalis<ul><li>parvovirus B19 in pregnant women can cross the placenta in pregnant women</li><li><span class=\"concept\" data-cid=\"11583\">this causes severe anaemia due to viral suppression of fetal erythropoiesis &rarr; heart failure secondary to severe anaemia &rarr; the accumulation of fluid in fetal serous cavities</span> (e.g. ascites, pleural and pericardial effusions)</li><li>treated with <span class=\"concept\" data-cid=\"8604\">intrauterine blood transfusions</span></li></ul></li></ul>",
+        "notes_hash": "d27b0a10e36fcc851a73a47a3c3d9b59",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5372",
+        "up_votes": "25",
+        "down_votes": "14",
+        "column_array": [
+            0,
+            "4436",
+            "167",
+            "209",
+            "24",
+            "536",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>DermNet NZ</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_453\" data-linkid=\"453\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_453\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_453\" data-linkid=\"453\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_453\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.dermnetnz.org/viral/fifth.html\">Fifth disease</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QGikLAy-bqo\" data-description=\"Parvovirus B19\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1125\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/QGikLAy-bqo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/QGikLAy-bqo\" data-description=\"Parvovirus B19\" data-upvotes=\"4\" data-downvotes=\"1\" data-media=\"1125\">Parvovirus B19</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1946\" data-mediaid=\"1946\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1946\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1946\" data-mediaid=\"1946\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1946\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_2135",
+        "new_question_id": "61216",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "3942",
+        "notes_id_link": "1_1303",
+        "theme": "Management of paediatric meningitis with steroids",
+        "instruction": "",
+        "options": [
+            "",
+            "Add intravenous dexamethasone",
+            "Add intravenous amoxicillin",
+            "Add intravenous aciclovir",
+            "Arrange urgent CT head",
+            "Restrict intravenous fluids",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 6-month-old infant presents with fever and irritability. A lumbar puncture is performed, revealing frankly purulent cerebrospinal fluid. Intravenous ceftriaxone has been commenced.<br /><br />Select the single most appropriate next step in management from the options below.",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Add intravenous dexamethasone</b> is the correct answer. UK guidelines (NICE) recommend considering adjuvant dexamethasone for children older than 3 months with suspected or confirmed bacterial meningitis. The decision should be based on the lumbar puncture findings. Indications include frankly purulent cerebrospinal fluid (CSF), CSF white blood cell count >1000/microlitre, raised CSF protein >1 g/litre, or bacteria seen on Gram stain. This patient is 6 months old and has frankly purulent CSF, meeting the criteria. Dexamethasone is given with, or just before, the first dose of antibiotics to reduce the inflammatory response within the subarachnoid space. This has been shown to reduce the risk of long-term neurological sequelae, particularly sensorineural hearing loss, which is a significant complication of bacterial meningitis caused by pathogens like <i>Haemophilus influenzae</i> type b and <i>Streptococcus pneumoniae</i>.<br /><br /><b>Add intravenous amoxicillin</b> is incorrect. The combination of a third-generation cephalosporin (like ceftriaxone) and amoxicillin (or ampicillin) is the recommended empirical treatment for bacterial meningitis in infants younger than 3 months. The addition of amoxicillin is to provide cover for <i>Listeria monocytogenes</i>, which is a key pathogen in this very young age group. In a 6-month-old infant, <i>Listeria</i> is a much less common cause, and ceftriaxone provides adequate coverage for the most likely pathogens (<i>Neisseria meningitidis</i>, <i>Streptococcus pneumoniae</i>, and <i>Haemophilus influenzae</i> type b).<br /><br /><b>Add intravenous aciclovir</b> is incorrect. Aciclovir is the treatment for herpes simplex virus (HSV) encephalitis. While HSV can cause meningoencephalitis, the finding of frankly purulent CSF is the hallmark of bacterial meningitis. Viral infections typically cause a lymphocytic pleocytosis with clear CSF. Aciclovir would be considered if there were specific features suggestive of HSV encephalitis, such as focal neurological signs, focal seizures, or a temporal lobe abnormality on imaging, but it is not the next routine step for a presentation of bacterial meningitis.<br /><br /><b>Arrange urgent CT head</b> is incorrect in this context. A CT head is performed <i>before</i> a lumbar puncture if there are concerns about significantly raised intracranial pressure, which would make the procedure unsafe. Contraindications to immediate LP include focal neurological signs, papilloedema, a significantly reduced level of consciousness (GCS <9), or signs of cerebral herniation. In this scenario, the lumbar puncture has already been performed, presumably because no such contraindications were present. Therefore, an urgent CT scan is not the most appropriate <i>next</i> step unless the patient's clinical condition deteriorates.<br /><br /><b>Restrict intravenous fluids</b> is incorrect. This is an outdated practice. While cerebral oedema is a concern in meningitis, routine fluid restriction is no longer recommended as it can lead to hypovolaemia, hypotension, and reduced cerebral perfusion pressure, potentially worsening ischaemic brain injury. The current recommendation is to maintain euvolaemia with isotonic fluids, treating any shock aggressively. Fluid restriction should only be considered if there is clear biochemical evidence of the syndrome of inappropriate antidiuretic hormone (SIADH), which is a potential complication.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 6-month-old infant presents with fever and irritability. A lumbar puncture is performed, revealing frankly purulent cerebrospinal fluid. Intravenous ceftriaxone has been commenced.<br /><br />Select the single most appropriate next step in management from the options below.",
+        "correct_answer": "1",
+        "question_notes": "<b>Add intravenous dexamethasone</b> is the correct answer. UK guidelines (NICE) recommend considering adjuvant dexamethasone for children older than 3 months with suspected or confirmed bacterial meningitis. The decision should be based on the lumbar puncture findings. Indications include frankly purulent cerebrospinal fluid (CSF), CSF white blood cell count >1000/microlitre, raised CSF protein >1 g/litre, or bacteria seen on Gram stain. This patient is 6 months old and has frankly purulent CSF, meeting the criteria. Dexamethasone is given with, or just before, the first dose of antibiotics to reduce the inflammatory response within the subarachnoid space. This has been shown to reduce the risk of long-term neurological sequelae, particularly sensorineural hearing loss, which is a significant complication of bacterial meningitis caused by pathogens like <i>Haemophilus influenzae</i> type b and <i>Streptococcus pneumoniae</i>.<br /><br /><b>Add intravenous amoxicillin</b> is incorrect. The combination of a third-generation cephalosporin (like ceftriaxone) and amoxicillin (or ampicillin) is the recommended empirical treatment for bacterial meningitis in infants younger than 3 months. The addition of amoxicillin is to provide cover for <i>Listeria monocytogenes</i>, which is a key pathogen in this very young age group. In a 6-month-old infant, <i>Listeria</i> is a much less common cause, and ceftriaxone provides adequate coverage for the most likely pathogens (<i>Neisseria meningitidis</i>, <i>Streptococcus pneumoniae</i>, and <i>Haemophilus influenzae</i> type b).<br /><br /><b>Add intravenous aciclovir</b> is incorrect. Aciclovir is the treatment for herpes simplex virus (HSV) encephalitis. While HSV can cause meningoencephalitis, the finding of frankly purulent CSF is the hallmark of bacterial meningitis. Viral infections typically cause a lymphocytic pleocytosis with clear CSF. Aciclovir would be considered if there were specific features suggestive of HSV encephalitis, such as focal neurological signs, focal seizures, or a temporal lobe abnormality on imaging, but it is not the next routine step for a presentation of bacterial meningitis.<br /><br /><b>Arrange urgent CT head</b> is incorrect in this context. A CT head is performed <i>before</i> a lumbar puncture if there are concerns about significantly raised intracranial pressure, which would make the procedure unsafe. Contraindications to immediate LP include focal neurological signs, papilloedema, a significantly reduced level of consciousness (GCS <9), or signs of cerebral herniation. In this scenario, the lumbar puncture has already been performed, presumably because no such contraindications were present. Therefore, an urgent CT scan is not the most appropriate <i>next</i> step unless the patient's clinical condition deteriorates.<br /><br /><b>Restrict intravenous fluids</b> is incorrect. This is an outdated practice. While cerebral oedema is a concern in meningitis, routine fluid restriction is no longer recommended as it can lead to hypovolaemia, hypotension, and reduced cerebral perfusion pressure, potentially worsening ischaemic brain injury. The current recommendation is to maintain euvolaemia with isotonic fluids, treating any shock aggressively. Fluid restriction should only be considered if there is clear biochemical evidence of the syndrome of inappropriate antidiuretic hormone (SIADH), which is a potential complication.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Meningitis in children: investigation and management",
+        "body": "<b>Investigations</b><br /><br />Contraindication to lumbar puncture (any signs of raised ICP)<br /><ul><li>focal neurological signs</li><li>papilloedema</li><li>significant bulging of the fontanelle</li><li>disseminated intravascular coagulation</li><li>signs of cerebral herniation</li></ul><br />For patients with meningococcal septicaemia a <span class=\"concept\" data-cid=\"2509\">lumbar puncture is contraindicated</span> - blood cultures and PCR for meningococcus should be obtained.<br /><br /><h5 class='notes-heading'>Management</h5><br />1. Antibiotics<br /><ul><li><span class=\"concept\" data-cid=\"261\">< 3 months: IV amoxicillin (or ampicillin) + IV cefotaxime</span></li><li><span class=\"concept\" data-cid=\"11209\">> 3 months: IV cefotaxime (or ceftriaxone)</span></li></ul><br />2. <span class=\"concept\" data-cid=\"3942\">Steroids</span><br /><ul><li><span class=\"concept\" data-cid=\"10402\">NICE advise against giving corticosteroids in children younger than 3 months </span></li><li>dexamethsone should be considered if the lumbar puncture reveals any of the following:<ul><li>frankly purulent CSF</li><li>CSF white blood cell count greater than 1000/microlitre</li><li>raised CSF white blood cell count with protein concentration greater than 1 g/litre</li><li>bacteria on Gram stain</li></ul></li></ul><br />3. Fluids<br /><ul><li>treat any shock, e.g. with colloid</li></ul><br />4. Cerebral monitoring<br /><ul><li>mechanical ventilation if respiratory impairment</li></ul><br />5. Public health notification and antibiotic prophylaxis of contacts<br /><ul><li>ciprofloxacin is now preferred over rifampicin</li></ul>",
+        "notes_hash": "63be237fc570d6092f0df580385acc01",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Consider adding steroids in the management of children > 3 months with meningitis",
+        "concept_percentile": "100",
+        "concept_colour": "rgb(0,255,0)",
+        "number_attempts": "133",
+        "up_votes": "0",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "69",
+            "29",
+            "19",
+            "16",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_14\" data-linkid=\"14\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_14\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_14\" data-linkid=\"14\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_14\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/CG102/chapter/1-Guidance\">2010 Management of bacterial meningitis and meningococcal septicaemia in children and young people younger than 16 years</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gIHUJs2eTHA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gIHUJs2eTHA\" data-description=\"Meningitis\" data-upvotes=\"7\" data-downvotes=\"0\" data-media=\"435\">Meningitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_759\" data-mediaid=\"759\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_759\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_759\" data-mediaid=\"759\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_759\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/xQC6L8M6XfU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/xQC6L8M6XfU\" data-description=\"(Bacterial) Meningitis Pathophysiology\" data-upvotes=\"3\" data-downvotes=\"1\" data-media=\"434\">(Bacterial) Meningitis Pathophysiology</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_760\" data-mediaid=\"760\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_760\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_760\" data-mediaid=\"760\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_760\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 0,
+        "concepts_for_notes": {
+            "261": {
+                "concept_text": "Meningitis in children < 3 months: give IV amoxicillin in addition to cefotaxime to cover for Listeria",
+                "concept_percentile": "94"
+            },
+            "3942": {
+                "concept_text": "Consider adding steroids in the management of children > 3 months with meningitis",
+                "concept_percentile": "100"
+            },
+            "11209": {
+                "concept_text": "Initial empirical therapy for meningitis if > 3 months of age: IV 3rd generation cephalosporin",
+                "concept_percentile": "81"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "23539_B_493",
+        "new_question_id": "41850",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "8533",
+        "notes_id_link": "1_1791",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Prescribe atenolol",
+            "Prescribe bisoprolol",
+            "Prescribe isosorbide mononitrate",
+            "Prescribe ivabradine",
+            "Prescribe verapamil",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 55-year-old man presents to the GP with a 1-month history of chest tightness and shortness of breath on exertion which relieves after 5 minutes of rest. He has a past medical history of asthma, hypertension, and obesity.<br /><br />On examination, his temperature is 37.2\u00baC, his heart rate is 86 bpm, his blood pressure is 132/75 mmHg, and an ECG is unremarkable.<br /><br />Given the likely diagnosis, what is the most appropriate prophylactic medication?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient is presenting with features of stable angina, characterised by exercise-induced shortness of breath and chest tightness relieved with rest. The normal ECG rules out any concerning conditions such as myocardial infarction. NICE recommends that all patients with stable angina should be given aspirin and a statin in the absence of any contraindication, and sublingual glyceryl trinitrate spray (GTN) should be given to abort acute attacks of angina. GTN spray does not prevent future attacks, therefore prophylactic medication should also be given as well.<br /><br /><b>Prescribe verapamil</b> is correct in this case. NICE recommends that the first-line drugs for preventing anginal episodes are beta-blockers or calcium channel blockers (CCBs). Given that this patient has a history of asthma, beta-blockers are contraindicated, therefore CCBs should be used. NICE also recommends that if a CCB is to be used, it should be a rate-limiting CCB, such as verapamil or diltiazem.<br /><br /><b>Prescribe bisoprolol</b> is incorrect in this case. Although this is a first-line option for preventing episodes of angina, this patient has asthma, therefore contraindicating the use of beta-blockers.<br /><br /><b>Prescribe atenolol</b> is incorrect in this case. As mentioned above, this is another example of a beta-blocker, therefore it is contraindicated for use in asthma.<br /><br /><b>Prescribe isosorbide mononitrate</b> is incorrect in this case. This is a second-line option that is considered if beta-blockers and/or CCBs are ineffective or not tolerated. Given that this patient has not tried any treatment, the most appropriate initial treatment would be a CCB, as beta-blockers are contraindicated in asthma.<br /><br /><b>Prescribe ivabradine</b> is incorrect in this case. Similarly to the above, this is considered if beta-blockers and/or CCBs are ineffective. This patient has not yet tried any treatment, therefore the most option would be a CCB, as beta-blockers are contraindicated in asthma.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 55-year-old man presents to the GP with a 1-month history of chest tightness and shortness of breath on exertion which relieves after 5 minutes of rest. He has a past medical history of asthma, hypertension, and obesity.<br /><br />On examination, his temperature is 37.2\u00baC, his heart rate is 86 bpm, his blood pressure is 132/75 mmHg, and an ECG is unremarkable.<br /><br />Given the likely diagnosis, what is the most appropriate prophylactic medication?",
+        "correct_answer": "5",
+        "question_notes": "This patient is presenting with features of stable angina, characterised by exercise-induced shortness of breath and chest tightness relieved with rest. The normal ECG rules out any concerning conditions such as myocardial infarction. NICE recommends that all patients with stable angina should be given aspirin and a statin in the absence of any contraindication, and sublingual glyceryl trinitrate spray (GTN) should be given to abort acute attacks of angina. GTN spray does not prevent future attacks, therefore prophylactic medication should also be given as well.<br /><br /><b>Prescribe verapamil</b> is correct in this case. NICE recommends that the first-line drugs for preventing anginal episodes are beta-blockers or calcium channel blockers (CCBs). Given that this patient has a history of asthma, beta-blockers are contraindicated, therefore CCBs should be used. NICE also recommends that if a CCB is to be used, it should be a rate-limiting CCB, such as verapamil or diltiazem.<br /><br /><b>Prescribe bisoprolol</b> is incorrect in this case. Although this is a first-line option for preventing episodes of angina, this patient has asthma, therefore contraindicating the use of beta-blockers.<br /><br /><b>Prescribe atenolol</b> is incorrect in this case. As mentioned above, this is another example of a beta-blocker, therefore it is contraindicated for use in asthma.<br /><br /><b>Prescribe isosorbide mononitrate</b> is incorrect in this case. This is a second-line option that is considered if beta-blockers and/or CCBs are ineffective or not tolerated. Given that this patient has not tried any treatment, the most appropriate initial treatment would be a CCB, as beta-blockers are contraindicated in asthma.<br /><br /><b>Prescribe ivabradine</b> is incorrect in this case. Similarly to the above, this is considered if beta-blockers and/or CCBs are ineffective. This patient has not yet tried any treatment, therefore the most option would be a CCB, as beta-blockers are contraindicated in asthma.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Angina pectoris: drug management",
+        "body": "The management of stable angina comprises lifestyle changes, medication, percutaneous coronary intervention and surgery. NICE produced guidelines in 2011 covering the management of stable angina<br /><br />Medication<br /><ul><li>all patients should receive aspirin and a statin in the absence of any contraindication</li><li><span class=\"concept\" data-cid=\"8532\">sublingual glyceryl trinitrate</span> to abort angina attacks</li><li>NICE recommend using either a <span class=\"concept\" data-cid=\"8533\">beta-blocker or a calcium channel blocker</span> first-line based on 'comorbidities, contraindications and the person's preference'</li><li>if a calcium channel blocker is used as monotherapy a rate-limiting one such as verapamil or diltiazem should be used</li><li>if used in combination with a beta-blocker then use a longer-acting dihydropyridine calcium channel blocker (e.g. amlodipine, modified-release nifedipine)<ul><li>remember that beta-blockers should not be prescribed concurrently with verapamil (risk of complete heart block)</li></ul></li><li>if there is a poor response to initial treatment then medication should be <span class=\"concept\" data-cid=\"8534\">increased to the maximum tolerated dose</span> (e.g. for atenolol 100mg od)</li><li>if a patient is still symptomatic after monotherapy with a beta-blocker add a <span class=\"concept\" data-cid=\"8535\">calcium channel blocker</span> and vice versa</li><li>if a patient is on monotherapy and cannot tolerate the addition of a calcium channel blocker or a beta-blocker then consider one of the following drugs:<ul><li>a long-acting nitrate</li><li>ivabradine</li><li>nicorandil</li><li>ranolazine</li></ul></li><li>if a patient is taking both a beta-blocker and a calcium-channel blocker then only add a third drug whilst a patient is awaiting assessment for PCI or CABG</li></ul><br />Nitrate tolerance<br /><ul><li>many patients who take nitrates develop tolerance and experience reduced efficacy</li><li>NICE advises that patients who take standard-release isosorbide mononitrate should use an <span class=\"concept\" data-cid=\"11043\">asymmetric dosing interval</span> to maintain a daily nitrate-free time of 10-14 hours to minimise the development of nitrate tolerance</li><li>this effect is not seen in patients who take once-daily modified-release isosorbide mononitrate</li></ul>",
+        "notes_hash": "5ee390ae970ff29e6eea9046dc53e577",
+        "knowledge_graph_node_id_link": 1228,
+        "concept": "A beta-blocker or a calcium channel blocker is used first-line to prevent angina attacks ",
+        "concept_percentile": "78",
+        "concept_colour": "rgb(112,255,0)",
+        "number_attempts": "7008",
+        "up_votes": "43",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "162",
+            "1148",
+            "1780",
+            "166",
+            "3752",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_693\" data-linkid=\"693\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_693\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_693\" data-linkid=\"693\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_693\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg126/chapter/1-Guidance\">2011 Stable angina guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_832\" data-linkid=\"832\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_832\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_832\" data-linkid=\"832\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_832\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">34</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/media/1461/qrg151.pdf\">2018 Management of stable angina</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_618\" data-linkid=\"618\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_618\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">30</span><button type=\"button\" style=\"\" id=\"link_dislike_618\" data-linkid=\"618\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_618\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873712/\">2013 Pharmacological treatment of chronic stable angina pectoris </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/7XkOuo5DwAU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\">Stable Angina: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1354\" data-mediaid=\"1354\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1354\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_1354\" data-mediaid=\"1354\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1354\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Zp3XNG92aec/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\">Angina pectoris (stable, unstable, prinzmetal, vasospastic)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_48\" data-mediaid=\"48\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_48\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_48\" data-mediaid=\"48\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_48\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "8533": {
+                "concept_text": "A beta-blocker or a calcium channel blocker is used first-line to prevent angina attacks ",
+                "concept_percentile": "78"
+            },
+            "8535": {
+                "concept_text": "If angina is not controlled with a beta-blocker, a longer-acting dihydropyridine calcium channel blocker should be added",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5592_B_747",
+        "new_question_id": "41166",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "4516",
+        "notes_id_link": "1_175",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Faecal transplant",
+            "Intravenous cefuroxime and metronidazole",
+            "Intravenous vancomycin",
+            "Oral fidaxomicin",
+            "Oral vancomycin and intravenous metronidazole",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 61-year-old woman is admitted to the gastroenterology ward with a 5-day history of profuse, foul-smelling diarrhoea. <br /><br />Stool cultures are taken:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td><I>Clostridioides difficile</i> toxin</td><td>Positive</td></tr></tbody></table></div><br />She is treated with oral vancomycin for 10 days and is discharged home. Approximately 3 days later, she returns to the hospital with further diarrhoea, opening her bowels 3-4 times per day. <br /><br />On examination, she has a temperature of 38.1\u00baC with a heart rate of 101 beats/min and a blood pressure of 122/66mmHg. Her abdomen is generally tender but soft with no guarding.<br /><br />What is the next step in the management of this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "<b>Oral fidaxomicin</b> is correct. This patient has symptoms and signs consistent with a relapse of <I>Clostridioides difficile</i> given the diarrhoea, abdominal tenderness and fever. NICE guidelines recommend that second-line therapy should be with oral fidaxomicin or oral metronidazole in the event of incomplete response to the first-line treatment (oral vancomycin). The exception to this is if the patient is also exhibiting signs of life-threatening infection (e.g. hypotension with severe systemic upset and toxic megacolon).<br /><br /><b>Faecal transplant</b> is incorrect. Although this is a treatment used in the management of <I>Clostridioides difficile</i>, it is usually reserved until after second and third-line agents have been tried and after 2 cases of <I>Clostridioides difficile</i> infection.<br /><br /><b>Intravenous cefuroxime and metronidazole</b> is incorrect. This is not a recommended antibiotic regime to treat <I>Clostridioides difficile</i> infection and is not recommended by NICE guidelines. In fact, cephalosporins are antibiotics that increase the risk of <I>Clostridioides difficile</i>  infection.<br /><br /><b>Intravenous vancomycin</b> is incorrect. Unlike oral vancomycin, intravenous vancomycin does not have the same activity against <I>Clostridioides difficile</i> and is, therefore, not recommended in the management of <I>Clostridioides difficile</i> infection. <br /><br /><b>Oral vancomycin and intravenous metronidazole</b> is incorrect. This is the treatment reserved for life-threatening cases of <I>Clostridioides difficile</i>. Life-threatening cases can be categorised if the following signs are seen: hypotension, and severe abdominal signs (e.g. ileus, guarding and toxic megacolon). Given that these signs are not present, it is safe to assume that the patient is not having a life-threatening <I>Clostridioides difficile</i> infection and, therefore, normal second-line treatment with fidaxomicin is appropriate.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 61-year-old woman is admitted to the gastroenterology ward with a 5-day history of profuse, foul-smelling diarrhoea. <br /><br />Stool cultures are taken:<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td><I>Clostridioides difficile</i> toxin</td><td>Positive</td></tr></tbody></table></div><br />She is treated with oral vancomycin for 10 days and is discharged home. Approximately 3 days later, she returns to the hospital with further diarrhoea, opening her bowels 3-4 times per day. <br /><br />On examination, she has a temperature of 38.1\u00baC with a heart rate of 101 beats/min and a blood pressure of 122/66mmHg. Her abdomen is generally tender but soft with no guarding.<br /><br />What is the next step in the management of this patient?",
+        "correct_answer": "4",
+        "question_notes": "<b>Oral fidaxomicin</b> is correct. This patient has symptoms and signs consistent with a relapse of <I>Clostridioides difficile</i> given the diarrhoea, abdominal tenderness and fever. NICE guidelines recommend that second-line therapy should be with oral fidaxomicin or oral metronidazole in the event of incomplete response to the first-line treatment (oral vancomycin). The exception to this is if the patient is also exhibiting signs of life-threatening infection (e.g. hypotension with severe systemic upset and toxic megacolon).<br /><br /><b>Faecal transplant</b> is incorrect. Although this is a treatment used in the management of <I>Clostridioides difficile</i>, it is usually reserved until after second and third-line agents have been tried and after 2 cases of <I>Clostridioides difficile</i> infection.<br /><br /><b>Intravenous cefuroxime and metronidazole</b> is incorrect. This is not a recommended antibiotic regime to treat <I>Clostridioides difficile</i> infection and is not recommended by NICE guidelines. In fact, cephalosporins are antibiotics that increase the risk of <I>Clostridioides difficile</i>  infection.<br /><br /><b>Intravenous vancomycin</b> is incorrect. Unlike oral vancomycin, intravenous vancomycin does not have the same activity against <I>Clostridioides difficile</i> and is, therefore, not recommended in the management of <I>Clostridioides difficile</i> infection. <br /><br /><b>Oral vancomycin and intravenous metronidazole</b> is incorrect. This is the treatment reserved for life-threatening cases of <I>Clostridioides difficile</i>. Life-threatening cases can be categorised if the following signs are seen: hypotension, and severe abdominal signs (e.g. ileus, guarding and toxic megacolon). Given that these signs are not present, it is safe to assume that the patient is not having a life-threatening <I>Clostridioides difficile</i> infection and, therefore, normal second-line treatment with fidaxomicin is appropriate.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "<i>Clostridioides difficile</i>",
+        "body": "<i>Clostridioides difficile</i> is a <span class=\"concept\" data-cid=\"1867\">Gram positive rod</span> often encountered in hospital practice. It produces an exotoxin which causes intestinal damage leading to a syndrome called pseudomembranous colitis. <i>C. difficile</i> develops when the normal gut flora are suppressed by broad-spectrum antibiotics. <span class=\"concept\" data-cid=\"987\">Clindamycin</span> is historically associated with causing <i>C. difficile</i> but the aetiology has evolved significantly over the past 10 years. Second and third-generation <span class=\"concept\" data-cid=\"431\">cephalosporins</span> are now the leading cause of <i>C. difficile</i>.<br /><br />Other than antibiotics, risk factors include:<br /><ul><li><span class=\"concept\" data-cid=\"1773\">proton pump inhibitors</span></li></ul><br />Pathophysiology<br /><ul><li>anaerobic gram-positive, spore-forming, toxin-producing bacillus </li><li>transmission: via the <span class=\"concept\" data-cid=\"12028\">faecal-oral route by ingestion of spores</span></li><li>releases two exotoxins (toxin A and toxin B) that act on intestinal epithelial cells and inflammatory cells resulting in colitis</li></ul><br />Features<br /><ul><li>diarrhoea</li><li>abdominal pain</li><li>a <b>raised white blood cell count (WCC)</b> is characteristic</li><li>if severe toxic megacolon may develop</li></ul><br />The Public Health England severity scale is often used as this may determine treatment:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Mild</th><th>Moderate</th><th>Severe</th><th>Life-threatening</th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11061\">Normal WCC</span></td><td><span class=\"concept\" data-cid=\"11061\">\u2191 WCC ( < 15 x 10<sup>9</sup>/L)</span><br />Typically 3-5 loose stools per day</td><td><span class=\"concept\" data-cid=\"11061\">\u2191 WCC ( > 15 x 10<sup>9</sup>/L)</span><br />  or an acutely \u2191 creatinine (> 50% above baseline)<br />  or a temperature > 38.5\u00b0C<br /> or evidence of severe colitis(abdominal or radiological signs)</td><td>Hypotension<br />Partial or complete ileus<br />Toxic megacolon, or CT evidence of severe disease</td></tr></tbody></table></div><br />Diagnosis<br /><ul><li>is made by detecting <i>C. difficile</i> <b>toxin</b> (CDT) in the stool</li><li><i>C. difficile</i> <span class=\"concept\" data-cid=\"9585\"><b>antigen</b> positivity only shows exposure to the bacteria, rather than current infection</span></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Current antibiotic therapy should be reviewed and antibiotics stopped if possible.<br /><br />First episode of <i>C. difficile</i> infection<br /><ul><li><b>first-line therapy is <span class=\"concept\" data-cid=\"1524\">oral vancomycin</span></b> for 10 days</li><li>second-line therapy: <span class=\"concept\" data-cid=\"4516\">oral fidaxomicin</span> </li><li>third-line therapy: <span class=\"concept\" data-cid=\"11463\">oral vancomycin +/- IV metronidazole</span></li></ul><br />Recurrent episode <br /><ul><li>recurrent infection occurs in around 20% of patients, increasing to 50% after their second episode</li><li><span class=\"concept\" data-cid=\"11464\">within 12 weeks of symptom resolution: oral fidaxomicin</span></li><li>after 12 weeks of symptom resolution: oral vancomycin OR fidaxomicin</li></ul><br />Life-threatening <i>C. difficile</i> infection<br /><ul><li><span class=\"concept\" data-cid=\"1489\">oral vancomycin AND IV metronidazole</span></li><li>specialist advice - surgery may be considered</li></ul><br />Other therapies<br /><ul><li><span class=\"concept\" data-cid=\"2406\">bezlotoxumab</span> is a monoclonal antibody which targets <i>C. difficile</i> toxin B<ul><li>NICE do not currently support its use to prevent recurrences as it is not cost-effective</li></ul></li><li>faecal microbiota transplant<ul><li>may be considered for patients who've had 2 or more previous episodes</li></ul></li></ul><br /><span class=\"concept\" data-cid=\"12138\">Preventing the spread of <i>C. difficile</i> infection</span><br /><ul><li><span class=\"concept\" data-cid=\"3075\">isolation in side room</span>: the patient should remain isolated until there has been no diarrhoea (types 5-7</li></ul>on the Bristol Stool Chart) for at least 48 hours<br /><ul><li>all staff should wear disposable gloves and an apron during any contact with patients known to have <i>C. difficile</i></li><li>hand washing is also essential - alcohol gel does not kill the spores of <i>C. difficile</i></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb133b.jpg\" data-fancybox=\"gallery\" data-caption=\"Elderly lady with infectious colitis secondary to <i>C. difficile</i>. On the abdominal film note the loss of bowel wall architecture and thumb-printing consistent with colitis. The CT from the same patient is enhanced by oral contrast. There is moderate free fluid in pelvis and peritoneum. The colon is oedematous throughout with enhancing walls, but of normal calibre. The sigmoid colon is smooth and featureless. Small bowel, liver, spleen, kidneys, adrenals and pancreas are normal.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb133.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "d9d1ce2c481a73d49cfddd688e80c01b",
+        "knowledge_graph_node_id_link": 1152,
+        "concept": "If <i> C. difficile </i> does not respond to first-line vancomycin , oral fidaxomicin should be used next, except in life-threatening infections",
+        "concept_percentile": "57",
+        "concept_colour": "rgb(219,255,0)",
+        "number_attempts": "7560",
+        "up_votes": "28",
+        "down_votes": "55",
+        "column_array": [
+            0,
+            "74",
+            "387",
+            "382",
+            "4130",
+            "2587",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_87\" data-linkid=\"87\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_87\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_87\" data-linkid=\"87\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_87\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/advice/esmpb1/chapter/key-points-from-the-evidence\">Clostridium difficile infection: risk with broad-spectrum antibiotics</a></td></tr></table><br><br><table style='width:100%'><tr><td>Canadian Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_854\" data-linkid=\"854\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_854\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_854\" data-linkid=\"854\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_854\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.cmaj.ca/content/179/8/767/F3.large.jpg\">Relative risk of developing Clostridium difficile</a></td></tr></table><br><br><table style='width:100%'><tr><td>Medcomic</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2062\" data-linkid=\"2062\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2062\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">33</span><button type=\"button\" style=\"\" id=\"link_dislike_2062\" data-linkid=\"2062\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2062\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.medcomic.com/medcomic/clostridium-difficile-infection\">Clostridium difficile Infection</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2048\" data-linkid=\"2048\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2048\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">40</span><button type=\"button\" style=\"\" id=\"link_dislike_2048\" data-linkid=\"2048\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2048\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng199/chapter/Recommendations\">2021 Clostridioides difficile infection guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bpe94DaI6Pc\" data-description=\"Understanding Clostridium Difficile Infection\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1501\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Bpe94DaI6Pc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bpe94DaI6Pc\" data-description=\"Understanding Clostridium Difficile Infection\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1501\">Understanding Clostridium Difficile Infection</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2644\" data-mediaid=\"2644\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2644\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2644\" data-mediaid=\"2644\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2644\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "987": {
+                "concept_text": "Clindamycin treatment is associated with a high risk of <i>C. difficile</i>",
+                "concept_percentile": "72"
+            },
+            "1489": {
+                "concept_text": "In life-threatening <i>C. difficile</i> infection treatment is with ORAL vancomycin and IV metronidazole",
+                "concept_percentile": "95"
+            },
+            "1524": {
+                "concept_text": "Oral vancomycin is the first line antibiotic for use in patients with <i>C. difficile</i> infection",
+                "concept_percentile": "51"
+            },
+            "1773": {
+                "concept_text": "PPIs are a risk factor for <i>C. difficile</i> infection ",
+                "concept_percentile": "69"
+            },
+            "4516": {
+                "concept_text": "If <i> C. difficile </i> does not respond to first-line vancomycin , oral fidaxomicin should be used next, except in life-threatening infections",
+                "concept_percentile": "57"
+            },
+            "11463": {
+                "concept_text": "If a first episode of <i>C. difficile </i> doesn't respond to either vancomycin or fidaxomicin then oral vancomycin +/- IV metronidazole should be tried",
+                "concept_percentile": "73"
+            },
+            "11464": {
+                "concept_text": "A recurrent episode of <i>C. difficile</i> within 12 weeks of symptom resolution should be treated with oral fidaxomicin",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "8906_B_263",
+        "new_question_id": "32729",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "419",
+        "notes_id_link": "1_1720",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amoxicillin for 5 days",
+            "Cefalexin for 7 days",
+            "Nitrofurantoin for 5 days",
+            "No treatment",
+            "Trimethoprim for 3 days",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 27-year-old pregnant woman is reviewed in the GP clinic. She is 7 weeks pregnant and has had urine microscopy, culture and sensitivity completed with the following results. She feels well and has no fever or dysuria.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Red blood cells</td><td>< 10<sup>6</sup>/L</td><td>< 10<sup>6</sup>/L</td></tr><tr><td>White blood cells</td><td>100 x 10<sup>6</sup>/L</td><td>< 10<sup>6</sup>/L</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Culture</td><td><i>Escherichia coli</i> > 10<sup>6</sup>/L colonies</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Sensitivity</td><td>trimethoprim</td><td>sensitive</td></tr><tr><td></td><td>cefalexin</td><td>sensitive</td></tr><tr><td></td><td>nitrofurantoin</td><td>resistant</td></tr></tbody></table></div><br />What is the most appropriate management option?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This is a pregnant woman with asymptomatic bacteriuria and she should be immediately treated with appropriate antibiotics. In this case, it would be <b>cefalexin for 7 days</b> given the sensitivity results of the culture. <br /><br /><b>Amoxicillin</b> is another potential option, however, there is no sensitivity data available here to amoxicillin. Moreover, in this situation, it should be a 7-day course making this option incorrect. <br /><br /><b>Nitrofurantoin</b> is generally the antibiotic that is used in early pregnancy. The sensitivity data, in this case, indicate that the bacteria are resistant to this medication and it should be avoided. This option is doubly incorrect because it should be used for 7 days rather than 5.<br /><br /><b>No treatment</b> would be a correct answer if this patient was not pregnant. In this case, the patient is pregnant and requires treatment for the asymptomatic bacteriuria as it reduces the risk of progression to pyelonephritis. <br /><br /><b>Trimethoprim</b> should be avoided in early pregnancy as it is a folate antagonist and may interfere with foetal development.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 27-year-old pregnant woman is reviewed in the GP clinic. She is 7 weeks pregnant and has had urine microscopy, culture and sensitivity completed with the following results. She feels well and has no fever or dysuria.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>Red blood cells</td><td>< 10<sup>6</sup>/L</td><td>< 10<sup>6</sup>/L</td></tr><tr><td>White blood cells</td><td>100 x 10<sup>6</sup>/L</td><td>< 10<sup>6</sup>/L</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Culture</td><td><i>Escherichia coli</i> > 10<sup>6</sup>/L colonies</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Sensitivity</td><td>trimethoprim</td><td>sensitive</td></tr><tr><td></td><td>cefalexin</td><td>sensitive</td></tr><tr><td></td><td>nitrofurantoin</td><td>resistant</td></tr></tbody></table></div><br />What is the most appropriate management option?",
+        "correct_answer": "2",
+        "question_notes": "This is a pregnant woman with asymptomatic bacteriuria and she should be immediately treated with appropriate antibiotics. In this case, it would be <b>cefalexin for 7 days</b> given the sensitivity results of the culture. <br /><br /><b>Amoxicillin</b> is another potential option, however, there is no sensitivity data available here to amoxicillin. Moreover, in this situation, it should be a 7-day course making this option incorrect. <br /><br /><b>Nitrofurantoin</b> is generally the antibiotic that is used in early pregnancy. The sensitivity data, in this case, indicate that the bacteria are resistant to this medication and it should be avoided. This option is doubly incorrect because it should be used for 7 days rather than 5.<br /><br /><b>No treatment</b> would be a correct answer if this patient was not pregnant. In this case, the patient is pregnant and requires treatment for the asymptomatic bacteriuria as it reduces the risk of progression to pyelonephritis. <br /><br /><b>Trimethoprim</b> should be avoided in early pregnancy as it is a folate antagonist and may interfere with foetal development.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Urinary tract infection in adults: management",
+        "body": "<h5 class='notes-heading'>Lower urinary tract infections</h5><br />Non-pregnant women<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>NICE recommend <span class=\"concept\" data-cid=\"6116\"><b>trimethoprim or nitrofurantoin</b></span> for <span class=\"concept\" data-cid=\"11482\"><b>3 days</b></span></li><li>send a urine culture if:<ul><li><span class=\"concept\" data-cid=\"10467\">aged > 65 years</span></li><li><span class=\"concept\" data-cid=\"5063\">visible or non-visible haematuria</span></li></ul></li></ul><br />Pregnant women <br /><ul><li>if the pregnant woman is symptomatic: <ul><li>a urine culture should be sent in all cases</li><li>should be treated with an antibiotic for <span class=\"concept\" data-cid=\"10877\">7 days</span></li><li><span class=\"concept\" data-cid=\"10876\">first-line: nitrofurantoin</span> (<span class=\"concept\" data-cid=\"5061\">should be avoided near term</span>)</li><li>second-line: <span class=\"concept\" data-cid=\"11739\">amoxicillin or cefalexin</span></li><li><span class=\"concept\" data-cid=\"3201\">trimethoprim is teratogenic</span> in the first trimester and should be avoided during pregnancy</li></ul></li><li>asymptomatic bacteriuria in pregnant women:<ul><li>a urine culture should be performed routinely at the first antenatal visit</li><li>NICE recommend <span class=\"concept\" data-cid=\"419\">an immediate antibiotic prescription</span> of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course</li><li>the rationale of treating asymptomatic bacteriuria is the significant risk of progression to acute pyelonephritis</li><li>a further urine culture should be sent following completion of treatment as a <span class=\"concept\" data-cid=\"420\">test of cure</span></li></ul></li><li>women who suffer regular urinary tract infections following sexual intercourse can be offered <span class=\"concept\" data-cid=\"10529\">post-coital antibiotic prophylaxis</span> - single dose trimethoprim or nitrofurantoin are used first-line</li></ul><br />Men<br /><ul><li><span class=\"concept\" data-cid=\"10336\">an immediate antibiotic prescription should be offered</span> for <span class=\"concept\" data-cid=\"11214\"><b>7 days</b></span></li><li>as with non-pregnant women, <span class=\"concept\" data-cid=\"11215\">trimethoprim or nitrofurantoin</span> should be offered first-line unless prostatitis is suspected</li><li><span class=\"concept\" data-cid=\"11899\">a urine culture should be sent in all cases</span> before antibiotics are started</li><li>NICE state: <i>'<span class=\"concept\" data-cid=\"11213\">Referral to urology is not routinely required for men</span> who have had one uncomplicated lower urinary tract infection (UTI).'</i></li></ul><br />Catherised patients<br /><ul><li><span class=\"concept\" data-cid=\"4449\">do not treat asymptomatic bacteria in catheterised patients</span></li><li>if the patient is symptomatic they should be treated with an antibiotic<ul><li><span class=\"concept\" data-cid=\"5120\">a 7-day, rather than a 3-day course should be given</span></li><li>consider <span class=\"concept\" data-cid=\"11743\">removing or changing</span> the catheter as soon as possible if it has been in place for longer than 7 days</li></ul></li></ul>   <br /><br /><h5 class='notes-heading'>Acute pyelonephritis</h5><br />For patients with sign of acute pyelonephritis hospital admission should be considered<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>the BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days</li></ul>",
+        "notes_hash": "5cc1a10907b708a4f6aee5157927f8f9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "6097",
+        "up_votes": "48",
+        "down_votes": "21",
+        "column_array": [
+            0,
+            "293",
+            "4453",
+            "633",
+            "357",
+            "361",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1863\" data-linkid=\"1863\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1863\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1863\" data-linkid=\"1863\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1863\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/urinary-tract-infections.html\">Urinary-tract infections</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1vIHTAnBmuU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\">Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2039\" data-mediaid=\"2039\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2039\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2039\" data-mediaid=\"2039\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2039\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 6,
+        "concepts_for_notes": {
+            "419": {
+                "concept_text": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+                "concept_percentile": "70"
+            },
+            "4449": {
+                "concept_text": "Do not treat asymptomatic bacteria in catheterised patients",
+                "concept_percentile": "61"
+            },
+            "6116": {
+                "concept_text": "Trimethoprim or nitrofurantoin are the first-line antibiotics for lower UTIs",
+                "concept_percentile": "11"
+            },
+            "10467": {
+                "concept_text": "An MSU should be sent for all women over > 65-years-old with a suspected urinary tract infection",
+                "concept_percentile": "99"
+            },
+            "10876": {
+                "concept_text": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+                "concept_percentile": "69"
+            },
+            "10877": {
+                "concept_text": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+                "concept_percentile": "36"
+            },
+            "11215": {
+                "concept_text": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+                "concept_percentile": "83"
+            },
+            "11482": {
+                "concept_text": "Non-pregnant women with uncomplicated lower UTI only need 3 days of antibiotics",
+                "concept_percentile": "45"
+            },
+            "11743": {
+                "concept_text": "Consider removing or changing the catheter if a UTI develops",
+                "concept_percentile": "38"
+            },
+            "11899": {
+                "concept_text": "All men with a suspected UTI should have a urine culture sent before starting antibiotics",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "15138_B_82",
+        "new_question_id": "23630",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "10922",
+        "notes_id_link": "1_1746",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Clarithromycin",
+            "Co-amoxiclav",
+            "Doxycycline",
+            "Erythromycin",
+            "Flucloxacillin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old woman who is 10 weeks pregnant presents to her GP with a rash over her right thigh. Her observations are normal and she appears well in herself otherwise. It appears to be cellulitic and the GP decides to prescribe her some antibiotics to target the cellulitis. She is penicillin allergic.<br /><br />Which antibiotic is appropriate to cover for this infection?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Erythromycin is a macrolide which studies have shown to be safe during pregnancy and is the preferred option in pregnancy for cellulitis. <br /><br />Clarithromycin is not recommended and according to the BNF, manufacturers advise to avoid use in pregnancy.<br /><br />Co-amoxiclav has amoxicillin in it and this patient is penicillin allergic and so is incorrect. This is the same for flucloxacillin.<br /><br />Doxycycline can be used in penicillin allergies for cellulitis but not in pregnancy. Effects on skeletal development have been documented in the first trimester leading to birth defects. Administration during the second or third trimester may cause discolouration of the child's teeth, and maternal hepatotoxicity has been reported with large parenteral doses.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old woman who is 10 weeks pregnant presents to her GP with a rash over her right thigh. Her observations are normal and she appears well in herself otherwise. It appears to be cellulitic and the GP decides to prescribe her some antibiotics to target the cellulitis. She is penicillin allergic.<br /><br />Which antibiotic is appropriate to cover for this infection?",
+        "correct_answer": "4",
+        "question_notes": "Erythromycin is a macrolide which studies have shown to be safe during pregnancy and is the preferred option in pregnancy for cellulitis. <br /><br />Clarithromycin is not recommended and according to the BNF, manufacturers advise to avoid use in pregnancy.<br /><br />Co-amoxiclav has amoxicillin in it and this patient is penicillin allergic and so is incorrect. This is the same for flucloxacillin.<br /><br />Doxycycline can be used in penicillin allergies for cellulitis but not in pregnancy. Effects on skeletal development have been documented in the first trimester leading to birth defects. Administration during the second or third trimester may cause discolouration of the child's teeth, and maternal hepatotoxicity has been reported with large parenteral doses.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Cellulitis",
+        "body": "Cellulitis is a bacterial infection that affects the dermis and the deeper subcutaneous tissues. It is one of the most common conditions seen in the acute medical setting and is usually diagnosed clinically. Cellulitis is most commonly caused by infection with <span class=\"concept\" data-cid=\"5244\"><i>Streptococcus pyogenes</i> or less commonly <i>Staphylcoccus aureus</i></span>. The majority of cases resolve with oral antibiotics.<br /><br />Features<br /><ul><li>commonly occurs on the shins<ul><li>usually unilateral - bilateral cellulitis is rare and suggests an alterative diagnosis</li></ul></li><li>erythema<ul><li>generally reasonably well-defined margins but some cases may present with diffuse erythema</li><li>blisters and bullae may be seen with more severe disease</li></ul></li><li>swelling</li><li>systemic upset<ul><li>fever</li><li>malaise</li><li>nausea</li></ul></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd081b.jpg\" data-fancybox=\"gallery\" data-caption=\"\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd081.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd968b.jpg\" data-fancybox=\"gallery\" data-caption=\"Cellulitis of the right lower leg. Note the diffuse erythema and swelling.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/ddd968.jpg\" alt=\"\" /></a></div></div></div><br />The <span class=\"concept\" data-cid=\"10921\">diagnosis of cellulitis is clinical</span>. No further investigations are required in primary care. Bloods and blood cultures may be requested if the patient is admitted and septicaemia is suspected.<br /><br /><h5 class='notes-heading'>Criteria for admission</h5><br />The Eron classification system can be used to guide how we manage patients with cellulitis: #link1<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Class</th><th>Features</th></tr></thead><tbody><tr><td> I</td><td>There are no signs of systemic toxicity and the person has no uncontrolled co-morbidities</td></tr><tr><td> II</td><td>The person is either systemically unwell or systemically well but with a co-morbidity (for example peripheral arterial disease, chronic venous insufficiency, or morbid obesity) which may complicate or delay resolution of infection</td></tr><tr><td>III</td><td>The person has significant systemic upset such as acute confusion, tachycardia, tachypnoea, hypotension, or unstable co-morbidities that may interfere with a response to treatment, or a limb-threatening infection due to vascular compromize</td></tr><tr><td>IV</td><td>The person has sepsis syndrome or a severe life-threatening infection such as necrotizing fasciitis</td></tr></tbody></table></div><br />They recommend the following that we admit for intravenous antibiotics the following patients: #link2<br /><ul><li>Has Eron Class III or Class IV cellulitis.</li><li>Has severe or rapidly deteriorating cellulitis (for example extensive areas of skin).</li><li>Is very young (under 1 year of age) or frail.</li><li>Is immunocompromized.</li><li>Has significant lymphoedema.</li><li>Has facial cellulitis (unless very mild) or periorbital cellulitis.</li></ul><br />The following is recommended regarding Eron Class II cellulitis:<br /><div class='bs-callout bs-callout-default'><i><i><br />Admission may not be necessary if the facilities and expertise are available in the community to give intravenous antibiotics and monitor the person - check local guidelines.<br /></i></i></div><br />Other patients can be treated with oral antibiotics.<br /><br /><h5 class='notes-heading'>Management</h5><br />Management is guided by the Eron classification.<br /><br />Eron Class I<br /><ul><li>oral antibiotics <a href='https://www.nice.org.uk/guidance/ng141/chapter/Recommendations#choice-of-antibiotic:~:text=and%20erysipelas.-,1.2%20Choice%20of%20antibiotic,-1.2.1' title='NICE - 2019 Cellulitis and erysipelas: antimicrobial prescribing' target='_blank' class='badge rounded-pill text-bg-light deeplink'>NICE</a></li><li><span class=\"concept\" data-cid=\"2721\">oral flucloxacillin</span> as first-line treatment for mild/moderate cellulitis</li><li><span class=\"concept\" data-cid=\"5069\">oral clarithromycin</span>, <span class=\"concept\" data-cid=\"10922\">erythromycin (in pregnancy)</span> or doxycycline is recommended in patients allergic to penicillin</li></ul><br />Eron Class II<br /><ul><li>NICE recommend: <i>'Admission may not be necessary if the facilities and expertise are available in the community to give intravenous antibiotics and monitor the person - check local guidelines.'</i></li></ul><br />Eron Class III-IV<br /><ul><li>admit</li><li>NICE recommend: <span class=\"concept\" data-cid=\"11570\">oral/IV co-amoxiclav, oral/IV clindamycin, IV cefuroxime or IV ceftriaxone</span></li></ul>",
+        "notes_hash": "6ffb1c6aa5aee3cbbf2ed75bf7e369b3",
+        "knowledge_graph_node_id_link": 1065,
+        "concept": "Erythromycin is the antibiotic of choice for cellulitis in pregnancy if the patient is penicillin allergic",
+        "concept_percentile": "93",
+        "concept_colour": "rgb(35,255,0)",
+        "number_attempts": "4869",
+        "up_votes": "29",
+        "down_votes": "30",
+        "column_array": [
+            0,
+            "2106",
+            "97",
+            "619",
+            "1843",
+            "204",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1544\" data-linkid=\"1544\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1544\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_1544\" data-linkid=\"1544\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1544\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng141/chapter/Recommendations\">2019 Cellulitis and erysipelas: antimicrobial prescribing</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YDUVjz2nVUo\" data-description=\"Understanding Cellulitis: Skin and Soft Tissue Infections\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1215\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/YDUVjz2nVUo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/YDUVjz2nVUo\" data-description=\"Understanding Cellulitis: Skin and Soft Tissue Infections\" data-upvotes=\"3\" data-downvotes=\"0\" data-media=\"1215\">Understanding Cellulitis: Skin and Soft Tissue Infections</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2131\" data-mediaid=\"2131\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2131\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_2131\" data-mediaid=\"2131\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2131\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAVVxLQxqNI\" data-description=\"Cellulitis and Erysipelas \" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"574\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/EAVVxLQxqNI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/EAVVxLQxqNI\" data-description=\"Cellulitis and Erysipelas \" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"574\">Cellulitis and Erysipelas </a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_983\" data-mediaid=\"983\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_983\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_983\" data-mediaid=\"983\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_983\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2721": {
+                "concept_text": "Flucloxacillin is the first line therapy for cellulitis",
+                "concept_percentile": "35"
+            },
+            "5069": {
+                "concept_text": "Patients with cellulitis who are penicillin allergic can be given clarithromycin, erythromycin (in pregnancy) or doxycyline",
+                "concept_percentile": "99"
+            },
+            "10922": {
+                "concept_text": "Erythromycin is the antibiotic of choice for cellulitis in pregnancy if the patient is penicillin allergic",
+                "concept_percentile": "93"
+            },
+            "11570": {
+                "concept_text": "Severe cellulitis should be treated with co-amoxiclav, cefuroxime, clindamycin or ceftriaxone",
+                "concept_percentile": "32"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "16300_B_1469",
+        "new_question_id": "49357",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "185",
+        "notes_id_link": "1_1153",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Biopsy",
+            "Cryotherapy",
+            "Surgical excision",
+            "Topical imiquimod",
+            "Urethroscopy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 26-year-old woman presents to a genitourinary medicine (GUM) clinic, having noticed a lesion on her labia. The lesion is asymptomatic and she denies pain or itching. She has no significant past medical history. The patient has recently had unprotected sex with multiple partners.<br /><br />On examination, a solitary, keratinised, warty lesion is evident on the left side of the vulva. It is approximately 5mm in diameter.<br /><br />What is the most appropriate next step?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Genital warts are very common in the young adult population and are a frequent cause of attendance to GUM clinics. They are typically caused by one of several strains of human papillomavirus, often types 6 and 11. Diagnosis is usually clinical and based on appearance. For a single, keratinised lesion, <b>cryotherapy</b> is the most suitable choice of treatment.<br /><br /><b>Biopsy</b> is unwarranted here. There are no concerning features to warrant further investigation and the diagnosis can be made clinically.<br /><br /><b>Surgical excision</b> is incorrect. This is unnecessary here, given that the lesion is small and not sinister. Cryotherapy is most appropriate.<br /><br /><b>Topical imiquimod</b> is often used as a second-line option if initial measures are unsuccessful. Cryotherapy should be tried first for this lesion. As a topical option, podophyllum is used in preference to imiquimod.<br /><br /><b>Urethroscopy</b> may be performed if the patient were experiencing urinary symptoms, to look for evidence of urethral warts. This is not warranted here.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 26-year-old woman presents to a genitourinary medicine (GUM) clinic, having noticed a lesion on her labia. The lesion is asymptomatic and she denies pain or itching. She has no significant past medical history. The patient has recently had unprotected sex with multiple partners.<br /><br />On examination, a solitary, keratinised, warty lesion is evident on the left side of the vulva. It is approximately 5mm in diameter.<br /><br />What is the most appropriate next step?",
+        "correct_answer": "2",
+        "question_notes": "Genital warts are very common in the young adult population and are a frequent cause of attendance to GUM clinics. They are typically caused by one of several strains of human papillomavirus, often types 6 and 11. Diagnosis is usually clinical and based on appearance. For a single, keratinised lesion, <b>cryotherapy</b> is the most suitable choice of treatment.<br /><br /><b>Biopsy</b> is unwarranted here. There are no concerning features to warrant further investigation and the diagnosis can be made clinically.<br /><br /><b>Surgical excision</b> is incorrect. This is unnecessary here, given that the lesion is small and not sinister. Cryotherapy is most appropriate.<br /><br /><b>Topical imiquimod</b> is often used as a second-line option if initial measures are unsuccessful. Cryotherapy should be tried first for this lesion. As a topical option, podophyllum is used in preference to imiquimod.<br /><br /><b>Urethroscopy</b> may be performed if the patient were experiencing urinary symptoms, to look for evidence of urethral warts. This is not warranted here.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Genital warts",
+        "body": "Genital warts (also known as condylomata accuminata) are a common cause of attendance at genitourinary clinics. They are caused by the many varieties of the human papillomavirus HPV, especially types 6 & 11. It is now well established that HPV (primarily types 16,18 & 33) predisposes to cervical cancer. <br /><br />Features<br /><ul><li>small (2 - 5 mm) fleshy protuberances which are slightly pigmented</li><li>may bleed or itch</li></ul><br /><span class=\"concept\" data-cid=\"185\">Management</span><br /><ul><li>topical podophyllum or cryotherapy are commonly used as first-line treatments depending on the location and type of lesion<ul><li>multiple, non-keratinised warts are generally best treated with topical agents</li><li>solitary, keratinised warts respond better to cryotherapy</li></ul></li><li>imiquimod is a topical cream that is generally used second line</li><li>genital warts are often resistant to treatment and recurrence is common although the majority of anogenital infections with HPV clear without intervention within 1-2 years</li></ul>",
+        "notes_hash": "3a477da779ba9ebafe58fd21a1a020ae",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Genital wart treatment<br /><ul><li>multiple, non-keratinised warts: topical podophyllum</li><li>solitary, keratinised warts: cryotherapy</li></ul>",
+        "concept_percentile": "54",
+        "concept_colour": "rgb(234,255,0)",
+        "number_attempts": "4576",
+        "up_votes": "12",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "447",
+            "2928",
+            "179",
+            "1009",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Association for Sexual Health and HIV</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_322\" data-linkid=\"322\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_322\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_322\" data-linkid=\"322\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_322\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.bashh.org/resources/36/anogenital_warts_2015/\">United Kingdom National Guideline on the Management of Anogenital Warts</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Qn45Ekp5twE\" data-description=\"Human papilloma virus\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"792\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Qn45Ekp5twE/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Qn45Ekp5twE\" data-description=\"Human papilloma virus\" data-upvotes=\"1\" data-downvotes=\"0\" data-media=\"792\">Human papilloma virus</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1376\" data-mediaid=\"1376\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1376\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_1376\" data-mediaid=\"1376\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1376\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 2,
+        "concepts_for_notes": {
+            "185": {
+                "concept_text": "Genital wart treatment\r\n   - multiple, non-keratinised warts: topical podophyllum\r\n   - solitary, keratinised warts: cryotherapy",
+                "concept_percentile": "54"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_9505",
+        "new_question_id": "5620",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1890",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Atorvastatin",
+            "Isosorbide mononitrate",
+            "Atenolol",
+            "Aspirin",
+            "Ramipril",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 51-year-old man presents four weeks after being discharged from hospital. He had been admitted with chest pain and thrombolysed for a myocardial infarction. This morning he developed marked tongue and facial swelling. Which one of the following drugs is most likely to be responsible?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Ramipril</b>. Ramipril is an angiotensin-converting enzyme (ACE) inhibitor which is frequently used in the management of patients post-myocardial infarction. One of the rare but serious side effects of ACE inhibitors is angioedema, characterised by marked tongue and facial swelling as described in this scenario. This reaction can occur at any time during treatment, even weeks or months after initiation.<br /><br /><b>Atorvastatin</b> is a statin used to lower cholesterol levels and reduce the risk of cardiovascular events post-myocardial infarction. Side effects commonly include myalgia, gastrointestinal symptoms and rarely rhabdomyolysis, but it does not typically cause tongue and facial swelling.<br /><br /><b>Isosorbide mononitrate</b> is a nitrate used for the prevention of angina attacks; its common side effects include headaches, dizziness and hypotension. It does not usually cause angioedema or facial swelling.<br /><br /><b>Atenolol</b>, a beta-blocker, is often prescribed post-myocardial infarction to reduce the workload on the heart and lower blood pressure. Common side effects include fatigue, cold extremities, bradycardia and sleep disturbances. However, it does not typically lead to tongue or facial swelling.<br /><br />Lastly, <b>Aspirin</b>, an antiplatelet drug given for secondary prevention after myocardial infarction, can occasionally cause gastrointestinal upset or bleeding but is not associated with angioedema or any form of swelling as described in this case scenario.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 51-year-old man presents four weeks after being discharged from hospital. He had been admitted with chest pain and thrombolysed for a myocardial infarction. This morning he developed marked tongue and facial swelling. Which one of the following drugs is most likely to be responsible?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer is <b>Ramipril</b>. Ramipril is an angiotensin-converting enzyme (ACE) inhibitor which is frequently used in the management of patients post-myocardial infarction. One of the rare but serious side effects of ACE inhibitors is angioedema, characterised by marked tongue and facial swelling as described in this scenario. This reaction can occur at any time during treatment, even weeks or months after initiation.<br /><br /><b>Atorvastatin</b> is a statin used to lower cholesterol levels and reduce the risk of cardiovascular events post-myocardial infarction. Side effects commonly include myalgia, gastrointestinal symptoms and rarely rhabdomyolysis, but it does not typically cause tongue and facial swelling.<br /><br /><b>Isosorbide mononitrate</b> is a nitrate used for the prevention of angina attacks; its common side effects include headaches, dizziness and hypotension. It does not usually cause angioedema or facial swelling.<br /><br /><b>Atenolol</b>, a beta-blocker, is often prescribed post-myocardial infarction to reduce the workload on the heart and lower blood pressure. Common side effects include fatigue, cold extremities, bradycardia and sleep disturbances. However, it does not typically lead to tongue or facial swelling.<br /><br />Lastly, <b>Aspirin</b>, an antiplatelet drug given for secondary prevention after myocardial infarction, can occasionally cause gastrointestinal upset or bleeding but is not associated with angioedema or any form of swelling as described in this case scenario.<br />",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "ACE inhibitors",
+        "body": "Angiotensin-converting enzyme (ACE) inhibitors are now the established first-line treatment in younger patients with hypertension and are also extensively used to treat heart failure. They are known to be less effective in treating hypertensive Afro-Caribbean patients. ACE inhibitors are also used to treat diabetic nephropathy and have a role in the secondary prevention of ischaemic heart disease.<br /><br />Mechanism of action:<br /><ul><li>inhibits the conversion angiotensin I to angiotensin II<ul><li>&rarr; decrease in angiotensin II levels &rarr; to vasodilation and reduced blood pressure</li><li>&rarr; decrease in angiotensin II levels &rarr; reduced stimulation for aldosterone release &rarr; decrease in sodium and water retention by the kidneys</li></ul></li><li>renoprotective mechanism<ul><li>angiotensin II constricts the efferent glomerular arterioles </li><li>ACE inhibitors therefore lead to <span class=\"concept\" data-cid=\"12098\">dilation of the efferent arterioles</span> &rarr; reduced glomerular capillary pressure &rarr; decreased mechanical stress on the delicate filtration barriers of the glomeruli</li><li>this is particularly important in diabetic nephropathy</li></ul></li><li><span class=\"concept\" data-cid=\"5284\">ACE inhibitors are activated by phase 1 metabolism in the liver </span></li></ul><br />Side-effects:<br /><ul><li>cough<ul><li>occurs in around 15% of patients and may occur up to a year after starting treatment</li><li>thought to be due to <span class=\"concept\" data-cid=\"2034\">increased bradykinin levels</span></li></ul></li><li><span class=\"concept\" data-cid=\"2270\">angioedema</span>: may occur up to a year after starting treatment</li><li><span class=\"concept\" data-cid=\"5266\">hyperkalaemia</span></li><li>first-dose hypotension: more common in patients taking diuretics</li></ul><br />Cautions and contraindications<br /><ul><li><span class=\"concept\" data-cid=\"3346\">pregnancy</span> and breastfeeding - avoid</li><li><span class=\"concept\" data-cid=\"10496\">renovascular disease</span> - may result in renal impairment</li><li><span class=\"concept\" data-cid=\"3361\">aortic stenosis</span> - may result in hypotension</li><li>hereditary of idiopathic angioedema</li><li><span class=\"concept\" data-cid=\"10244\">specialist advice should be sought before starting ACE inhibitors in patients with a potassium >= 5.0 mmol/L</span></li></ul><br />Interactions<br /><ul><li>patients receiving high-dose diuretic therapy (more than 80 mg of furosemide a day)<ul><li>significantly increases the risk of hypotension</li></ul></li></ul><br />Monitoring<br /><ul><li><span class=\"concept\" data-cid=\"3883\">urea and electrolytes should be checked before treatment is initiated and after increasing the dose</span><ul><li>a rise in the creatinine and potassium may be expected after starting ACE inhibitors</li><li><span class=\"concept\" data-cid=\"3884\">acceptable changes are an increase in serum creatinine, up to 30% from baseline</span> and an increase in potassium up to 5.5 mmol/l.</li><li>significant renal impairment may occur in patients who have undiagnosed <span class=\"concept\" data-cid=\"10906\">bilateral renal artery stenosis</span></li></ul></li></ul><br />Examples of common ACE inhibitors<br /><ul><li>ramipril</li><li>enalapril</li><li>lisinopril</li></ul><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd566b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Flow chart showing the management of hypertension as per current NICE guideliness</div>",
+        "notes_hash": "b9bc8382b304704c258a375c1f412b6c",
+        "knowledge_graph_node_id_link": 10620,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "7731",
+        "up_votes": "40",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "189",
+            "1306",
+            "484",
+            "616",
+            "5136",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_471\" data-linkid=\"471\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_471\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">63</span><button type=\"button\" style=\"\" id=\"link_dislike_471\" data-linkid=\"471\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_471\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">41</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg182/chapter/1-recommendations\">2014 Chronic kidney disease guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1747\" data-linkid=\"1747\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1747\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">62</span><button type=\"button\" style=\"\" id=\"link_dislike_1747\" data-linkid=\"1747\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1747\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drug-class/angiotensin-converting-enzyme-inhibitors.html\">ACE inhibitors</a></td></tr></table>",
+        "media": "",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "2270": {
+                "concept_text": "Drug-induced angioedema without urticaria is most frequently associated with angiotensin converting enzyme inhibitors or, less frequently, angiotensin II receptor blockers",
+                "concept_percentile": "91"
+            },
+            "3883": {
+                "concept_text": "Urea and electrolytes should be checked at baseline, within two weeks of initiation and after any change of dose. They should be rechecked at 1, 3, and 6 months after establishing maintenance dose",
+                "concept_percentile": "37"
+            },
+            "3884": {
+                "concept_text": "An increase in serum creatinine up to 30% from baseline is acceptable when initiating ACE inhibitor treatment",
+                "concept_percentile": "83"
+            },
+            "5266": {
+                "concept_text": "ACE inhibitor causes hyperkalaemia ",
+                "concept_percentile": "57"
+            },
+            "10496": {
+                "concept_text": "ACE inhibitors - contraindicated in patients with renovascular disease",
+                "concept_percentile": "77"
+            },
+            "10906": {
+                "concept_text": "After starting an ACE inhibitor, significant renal impairment may occur if the patient has undiagnosed bilateral renal artery stenosis",
+                "concept_percentile": "89"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "5650_B_245",
+        "new_question_id": "29847",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "4406",
+        "notes_id_link": "1_1965",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Conservative management",
+            "Dynamic hip screw",
+            "Hemiarthroplasty",
+            "Intramedullary nail with external fixation",
+            "Total hip replacement",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 73-year-old female is brought into the emergency department after slipping on ice. She has a painful right leg that appears shortened and externally rotated. There does not appear to be any skin break at the site and no neurovascular compromise peripherally. She is sent for an x-ray which shows a stable, complete, intertrochanteric proximal femur fracture. She has no past medical history and takes no regular medications. She is given analgesia for the pain and referred to the orthopaedic team. <br /><br />What is the procedure that she will most likely be recommended?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has experienced an extracapsular proximal femoral fracture. Her presentation of hip pain with a shortened and externally rotated leg are typical appearances consistent with this type of fracture. She does not have any comorbidities which indicate that she would not be fit for optimal management which is a dynamic hip screw.<br /><br />Conservative management would be inappropriate for this patient as she can resume a good quality of life post-operatively. Conservative management would lead to impaired ability to carry out activities of daily living and is only appropriate for patients who are not amenable or fit enough for surgical management. <br /><br />An intramedullary nail with external fixation is used in the lower extremity, long bone fractures (such as a fracture of the femur or tibia). It involves placement of an intramedullary nail alongside external fixation (through a series of screws that are inserted into the bone and attached to an external device that sits outside the skin to allow further support and can be adjusted to realign the bone if necessary). External fixation is temporary support that will be later removed once the bone has healed sufficiently to no longer need that additional measure of stabilisation. <br /><br />A hemiarthroplasty would be warranted in a displaced fracture. This involves the replacement of the femoral head and neck. It is less complicated than a total hip replacement (THR) and is usually adequate for patients who are less active, while still allowing them to return to a degree of normal activities of daily living. However, as THR are improving, their popularity is increasing.<br /><br />THR involves the replacement of both the acetabular surface and the proximal femur. It is becoming the preferred option for more active patients with displaced femoral neck fractures. Due to the replacement of both sites, it is showing better outcomes in patients with pre-existent hip osteoarthritis. However, as this patient does not have a displaced fracture - it is unwarranted.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 73-year-old female is brought into the emergency department after slipping on ice. She has a painful right leg that appears shortened and externally rotated. There does not appear to be any skin break at the site and no neurovascular compromise peripherally. She is sent for an x-ray which shows a stable, complete, intertrochanteric proximal femur fracture. She has no past medical history and takes no regular medications. She is given analgesia for the pain and referred to the orthopaedic team. <br /><br />What is the procedure that she will most likely be recommended?",
+        "correct_answer": "2",
+        "question_notes": "This patient has experienced an extracapsular proximal femoral fracture. Her presentation of hip pain with a shortened and externally rotated leg are typical appearances consistent with this type of fracture. She does not have any comorbidities which indicate that she would not be fit for optimal management which is a dynamic hip screw.<br /><br />Conservative management would be inappropriate for this patient as she can resume a good quality of life post-operatively. Conservative management would lead to impaired ability to carry out activities of daily living and is only appropriate for patients who are not amenable or fit enough for surgical management. <br /><br />An intramedullary nail with external fixation is used in the lower extremity, long bone fractures (such as a fracture of the femur or tibia). It involves placement of an intramedullary nail alongside external fixation (through a series of screws that are inserted into the bone and attached to an external device that sits outside the skin to allow further support and can be adjusted to realign the bone if necessary). External fixation is temporary support that will be later removed once the bone has healed sufficiently to no longer need that additional measure of stabilisation. <br /><br />A hemiarthroplasty would be warranted in a displaced fracture. This involves the replacement of the femoral head and neck. It is less complicated than a total hip replacement (THR) and is usually adequate for patients who are less active, while still allowing them to return to a degree of normal activities of daily living. However, as THR are improving, their popularity is increasing.<br /><br />THR involves the replacement of both the acetabular surface and the proximal femur. It is becoming the preferred option for more active patients with displaced femoral neck fractures. Due to the replacement of both sites, it is showing better outcomes in patients with pre-existent hip osteoarthritis. However, as this patient does not have a displaced fracture - it is unwarranted.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Hip fracture",
+        "body": "The hip is a common site of fracture, especially in osteoporotic, elderly females. The blood supply to the femoral head runs up the neck and thus <span class=\"concept\" data-cid=\"1163\">avascular necrosis</span> is a risk in displaced fractures.<br /><br />Features<br /><ul><li>pain</li><li>the classic signs are a <span class=\"concept\" data-cid=\"8227\">shortened and externally rotated leg</span></li><li>patients with <span class=\"concept\" data-cid=\"4022\">non-displaced or incomplete neck of femur fractures may be able to weight bear</span></li></ul><br /><h5 class='notes-heading'>Classification</h5><br />Location<br /><ul><li>intracapsular (subcapital): from the edge of the femoral head to the insertion of the capsule of the hip joint</li><li>extracapsular: these can either be trochanteric or subtrochanteric (the lesser trochanter is the dividing line)</li></ul><br />The <span class=\"concept\" data-cid=\"3033\">Garden system</span> is one classification system in common use.<br /><ul><li>Type I: Stable fracture with impaction in valgus</li><li>Type II: Complete fracture but undisplaced</li><li>Type III: Displaced fracture, usually rotated and angulated, but still has boney contact</li><li>Type IV: Complete boney disruption</li></ul><br />Blood supply disruption is most common following Types III and IV.<br /><br /><h5 class='notes-heading'>Intracapsular hip fracture</h5><br />Undisplaced Fracture:<br /><ul><li><span class=\"concept\" data-cid=\"10649\">internal fixation</span>, or hemiarthroplasty if unfit.</li></ul><br />Displaced Fracture:<br /><ul><li>NICE recommend replacement <span class=\"concept\" data-cid=\"11135\">arthroplasty (total hip replacement or hemiarthroplasty) to all patients with a displaced intracapsular hip fracture</span></li><li>total hip replacement is favoured to hemiarthroplasty if patients:<ul><li>were able to walk independently out of doors with no more than the use of a stick and</li><li>are not cognitively impaired and</li><li>are medically fit for anaesthesia and the procedure.</li></ul></li></ul><br /><h5 class='notes-heading'>Extracapsular hip fracture</h5><br />Management<br /><ul><li>stable intertrochanteric fractures: <span class=\"concept\" data-cid=\"4406\">dynamic hip screw</span></li><li>if reverse oblique, transverse or subtrochanteric fractures: <span class=\"concept\" data-cid=\"11948\">intramedullary device</span></li></ul>",
+        "notes_hash": "28f2d9b6b8a8ff96539e960fcd834f93",
+        "knowledge_graph_node_id_link": 1067,
+        "concept": "Dynamic hip screws are the preferred surgical management for intertrochanteric (extracapsular) proximal femoral fracture",
+        "concept_percentile": "52",
+        "concept_colour": "rgb(244,255,0)",
+        "number_attempts": "4981",
+        "up_votes": "23",
+        "down_votes": "25",
+        "column_array": [
+            0,
+            "74",
+            "3452",
+            "452",
+            "519",
+            "484",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_692\" data-linkid=\"692\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_692\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_692\" data-linkid=\"692\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_692\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/assets/qrg111.pdf\">2009 Management of hip fracture in older people</a></td></tr></table><br><br><table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1954\" data-linkid=\"1954\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1954\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_1954\" data-linkid=\"1954\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1954\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://patient.info/doctor/femoral-fractures\">Hip fractures</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_143\" data-linkid=\"143\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_143\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_143\" data-linkid=\"143\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_143\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg124/chapter/Recommendations\">2011 Hip fracture: management</a></td></tr></table><br><br><table style='width:100%'><tr><td>Radiology Masterclass</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_3\" data-linkid=\"3\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_3\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">43</span><button type=\"button\" style=\"\" id=\"link_dislike_3\" data-linkid=\"3\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_3\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.radiologymasterclass.co.uk/tutorials/musculoskeletal/x-ray_trauma_lower_limb/hip_fracture_x-ray\">Hip fracture x-rays</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/noN2NwLga8w\" data-description=\"Understanding Neck of Femur Fractures\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1486\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/noN2NwLga8w/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/noN2NwLga8w\" data-description=\"Understanding Neck of Femur Fractures\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"1486\">Understanding Neck of Femur Fractures</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2620\" data-mediaid=\"2620\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2620\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_2620\" data-mediaid=\"2620\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2620\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/al2A_RQIFac\" data-description=\"al2A_RQIFac\" data-upvotes=\"45\" data-downvotes=\"2\" data-media=\"1334\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/al2A_RQIFac/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/al2A_RQIFac\" data-description=\"al2A_RQIFac\" data-upvotes=\"45\" data-downvotes=\"2\" data-media=\"1334\">al2A_RQIFac</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2355\" data-mediaid=\"2355\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2355\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">45</span><button type=\"button\" style=\"\" id=\"media_dislike_2355\" data-mediaid=\"2355\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2355\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "4406": {
+                "concept_text": "Dynamic hip screws are the preferred surgical management for intertrochanteric (extracapsular) proximal femoral fracture",
+                "concept_percentile": "52"
+            },
+            "10649": {
+                "concept_text": "Internal fixation is the method of choice for patients with good pre-morbid status with an intracapsular NOF fracture",
+                "concept_percentile": "30"
+            },
+            "11135": {
+                "concept_text": "Hemiarthroplasty or total hip replacement is the treatment of choice for all patients with a displaced hip fracture",
+                "concept_percentile": "39"
+            },
+            "11948": {
+                "concept_text": "Extracapsular hip fracture (subtrochanteric fracture) - intramedullary device",
+                "concept_percentile": "29"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

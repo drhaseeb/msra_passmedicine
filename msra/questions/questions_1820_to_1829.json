@@ -1,0 +1,868 @@
+[
+    {
+        "question_id": "4680_B_40",
+        "new_question_id": "14646",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "2983",
+        "notes_id_link": "1_2016",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Cholecystitis",
+            "Hepatitis",
+            "Pancreatitis",
+            "Ascending cholangitis",
+            "Right lower lobe pneumonia",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 54-year-old male patient presents to the emergency department with a 3-day history of severe right upper quadrant pain preceded by a 2-month history of intermittent ache in the right upper quadrant. His basic observations include heart rate 115 beats/minute, respiratory rate 28 breaths/minute, blood pressure 90/55 mmHg, temperature 38.9\u00b0C, oxygen saturation 93% on air. His past medical history includes hypertension and type 2 diabetes mellitus.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>WCC</td><td>14 x 10<sup>9</sup>cells/L</td></tr><tr><td>Bilirubin</td><td>80 mg/dL</td></tr><tr><td>Alkaline phosphatase</td><td>377 IU/L</td></tr><tr><td>Alanine aminotransferase</td><td>70 U/L</td></tr><tr><td>Amylase</td><td>300 U/L</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Ascending cholangitis is characterized by right upper quadrant pain, fever and jaundice (Charcot's triad). Amylase could be mildly raised in any gastrointestinal inflammation.<br /><br />Cholecystitis can cause jaundice but often mild.<br /><br />Pancreatitis does not usually cause jaundice and amylase value is typically much higher<br /><br />Right lower lobe pneumonia can present with right upper quadrant pain and fever but would not cause jaundice.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 54-year-old male patient presents to the emergency department with a 3-day history of severe right upper quadrant pain preceded by a 2-month history of intermittent ache in the right upper quadrant. His basic observations include heart rate 115 beats/minute, respiratory rate 28 breaths/minute, blood pressure 90/55 mmHg, temperature 38.9\u00b0C, oxygen saturation 93% on air. His past medical history includes hypertension and type 2 diabetes mellitus.<br /><br /><div class=\"table-responsive\"><table class = \"tb\" ><tbody><tr><td>WCC</td><td>14 x 10<sup>9</sup>cells/L</td></tr><tr><td>Bilirubin</td><td>80 mg/dL</td></tr><tr><td>Alkaline phosphatase</td><td>377 IU/L</td></tr><tr><td>Alanine aminotransferase</td><td>70 U/L</td></tr><tr><td>Amylase</td><td>300 U/L</td></tr></tbody></table></div><br />What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Ascending cholangitis is characterized by right upper quadrant pain, fever and jaundice (Charcot's triad). Amylase could be mildly raised in any gastrointestinal inflammation.<br /><br />Cholecystitis can cause jaundice but often mild.<br /><br />Pancreatitis does not usually cause jaundice and amylase value is typically much higher<br /><br />Right lower lobe pneumonia can present with right upper quadrant pain and fever but would not cause jaundice.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Ascending cholangitis",
+        "body": "Ascending cholangitis is a bacterial infection (typically <span class=\"concept\" data-cid=\"2102\"><i>E. coli</i></span>) of the biliary tree. The most common predisposing factor is gallstones.<br /><br /><span class=\"concept\" data-cid=\"2983\">Charcot's triad</span> of <span class=\"concept\" data-cid=\"12444\">right upper quadrant (RUQ) pain, fever and jaundice</span> occurs in about 20-50% of patients<br /><ul><li>fever is the most common feature, seen in 90% of patients</li><li>RUQ pain 70%</li><li>jaundice 60%</li><li><span class=\"concept\" data-cid=\"4405\">hypotension and confusion</span> are also common (the additional 2 factors in addition to the 3 above make <span class=\"concept\" data-cid=\"4405\">Reynolds' pentad</span>)</li></ul><br />Other features<br /><ul><li><span class=\"concept\" data-cid=\"9302\">raised inflammatory markers</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"6002\">ultrasound</span> is generally used first-line in suspected cases to look for bile duct dilation and bile duct stones</li></ul><br />Management<br /><ul><li>intravenous antibiotics</li><li><span class=\"concept\" data-cid=\"11253\">endoscopic retrograde cholangiopancreatography (ERCP)</span> after 24-48 hours to relieve any obstruction</li></ul>",
+        "notes_hash": "3e4b8ea9b304eaaaa7bd1a21088a6522",
+        "knowledge_graph_node_id_link": 1033,
+        "concept": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "6842",
+        "up_votes": "31",
+        "down_votes": "53",
+        "column_array": [
+            0,
+            "961",
+            "69",
+            "679",
+            "5106",
+            "27",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZxdG-A_H_ZY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\">Understanding Acute Cholangitis (Ascending Cholangitis)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2528\" data-mediaid=\"2528\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2528\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2528\" data-mediaid=\"2528\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2528\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\">Ascending cholangitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1691\" data-mediaid=\"1691\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1691\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1691\" data-mediaid=\"1691\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1691\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 9,
+        "concepts_for_notes": {
+            "2983": {
+                "concept_text": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+                "concept_percentile": "50"
+            },
+            "9302": {
+                "concept_text": "RUQ pain with raised inflammatory markers in a patient with a history of gallstones points to acute cholecystitis or cholangitis rather than biliary colic",
+                "concept_percentile": "56"
+            },
+            "11253": {
+                "concept_text": "The majority of patients diagnosed with ascending cholangitis will undergo ERCP after 24-48 hours to relieve any obstruction",
+                "concept_percentile": "99"
+            },
+            "12444": {
+                "concept_text": "Right upper quadrant pain, fever and jaundice --> ?ascending cholangitis",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_E_123",
+        "new_question_id": "1048",
+        "question_type": "1",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1032",
+        "theme": "Rheumatoid arthritis: drug side-effects",
+        "instruction": "For each one of the following side effects please select the drug that is most characteristically associated with it . Each options may be used once, more than once or not at all.",
+        "options": [
+            "",
+            "Paracetamol",
+            "Diclofenac",
+            "Naproxen",
+            "Basiliximab",
+            "Prednisolone",
+            "Ciclosporin",
+            "Sulfasalazine",
+            "Hydroxychloroquine",
+            "",
+            ""
+        ],
+        "num_of_options": 8,
+        "questions": [
+            "Cataracts",
+            "Qvbmzabqbqit tcvo lqamiam",
+            "Kwzvmit wxikqbqma"
+        ],
+        "answers": [
+            "5",
+            "7",
+            "8"
+        ],
+        "notes": [
+            "",
+            "",
+            "Gold may also cause corneal opacities."
+        ],
+        "exam_specific_explanation": "",
+        "question": "Cataracts",
+        "correct_answer": "5",
+        "question_notes": "",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Rheumatoid arthritis: drug side-effects",
+        "body": "The table below lists some of the characteristic (if not common) side-effects of drugs used to treat rheumatoid arthritis:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Drug</b></th><th><b>Side-effects</b></th></tr></thead><tbody><tr><td>Methotrexate</td><td>Myelosuppression<br />Liver cirrhosis<br />Pneumonitis</td></tr><tr><td>Sulfasalazine</td><td>Rashes<br />Oligospermia<br />Heinz body anaemia<br />Interstitial lung disease</td></tr><tr><td>Leflunomide</td><td>Liver impairment<br />Interstitial lung disease<br />Hypertension</td></tr><tr><td>Hydroxychloroquine</td><td>Retinopathy <br />Corneal deposits</td></tr><tr><td>Prednisolone</td><td>Cushingoid features<br />Osteoporosis<br />Impaired glucose tolerance<br />Hypertension<br />Cataracts</td></tr><tr><td>Gold</td><td>Proteinuria</td></tr><tr><td>Penicillamine</td><td>Proteinuria<br />Exacerbation of myasthenia gravis</td></tr><tr><td>Etanercept</td><td>Demyelination<br />Reactivation of tuberculosis</td></tr><tr><td>Infliximab</td><td>Reactivation of tuberculosis</td></tr><tr><td>Adalimumab</td><td>Reactivation of tuberculosis</td></tr><tr><td>Rituximab</td><td>Infusion reactions are common</td></tr><tr><td>NSAIDs (e.g. naproxen, ibuprofen)</td><td>Bronchospasm in asthmatics<br />Dyspepsia/peptic ulceration</td></tr></tbody></table></div>",
+        "notes_hash": "62f2f14d095ac15b5910d7251a00168b",
+        "knowledge_graph_node_id_link": 1093,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5362",
+        "up_votes": "34",
+        "down_votes": "58",
+        "column_array": [
+            0,
+            "3228",
+            "2694",
+            "3305",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/rhwe0fb2Um4\" data-description=\"Rheumatoid arthritis\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"456\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/rhwe0fb2Um4/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/rhwe0fb2Um4\" data-description=\"Rheumatoid arthritis\" data-upvotes=\"7\" data-downvotes=\"2\" data-media=\"456\">Rheumatoid arthritis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_794\" data-mediaid=\"794\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_794\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_794\" data-mediaid=\"794\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_794\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "6542_B_104",
+        "new_question_id": "26131",
+        "question_type": "0",
+        "category": "7",
+        "concept_id_link": "2818",
+        "notes_id_link": "1_1358",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Observation",
+            "Pavlik harness",
+            "Serial casting of the hip",
+            "Steroid injection of the joint",
+            "Surgical replacement of the necrotic head of the femur",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 4-year-old boy is reviewed by the orthopaedic doctor following 3 weeks of a progressively worsening limp. Blood tests were unremarkable and x-rays demonstrated a hip joint effusion but no significant structural deficits to the femoral head noted; a diagnosis of  Perthes' disease is made. <br /><br />Which of the below would be the most appropriate initial management strategy for this child?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Observation is the correct answer. Serial x-rays, observation and physiotherapy are the mainstay of treatment in cases under the age of 6 years where there is no significant collapse of the femoral head or gross structural abnormalities. <br /><br />Pavlik harness is incorrect, this is the initial management for congenital hip dysplasia.<br /><br />Serial casting is incorrect, this is a treatment option for muscle spasticity.<br /><br />Steroid injection of the joint is incorrect. This is a management option for arthritis.<br /><br />Surgical replacement of the necrotic head of the femur is incorrect. Surgical management is rarely indicated in uncomplicated cases in children under 6 unless there is the presence of fracture or joint collapse.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 4-year-old boy is reviewed by the orthopaedic doctor following 3 weeks of a progressively worsening limp. Blood tests were unremarkable and x-rays demonstrated a hip joint effusion but no significant structural deficits to the femoral head noted; a diagnosis of  Perthes' disease is made. <br /><br />Which of the below would be the most appropriate initial management strategy for this child?",
+        "correct_answer": "1",
+        "question_notes": "Observation is the correct answer. Serial x-rays, observation and physiotherapy are the mainstay of treatment in cases under the age of 6 years where there is no significant collapse of the femoral head or gross structural abnormalities. <br /><br />Pavlik harness is incorrect, this is the initial management for congenital hip dysplasia.<br /><br />Serial casting is incorrect, this is a treatment option for muscle spasticity.<br /><br />Steroid injection of the joint is incorrect. This is a management option for arthritis.<br /><br />Surgical replacement of the necrotic head of the femur is incorrect. Surgical management is rarely indicated in uncomplicated cases in children under 6 unless there is the presence of fracture or joint collapse.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Perthes' disease",
+        "body": "Perthes' disease is a degenerative condition affecting the hip joints of children, typically between the ages of 4-8 years. It is due to <span class=\"concept\" data-cid=\"2373\">avascular necrosis of the femoral head</span>, specifically the femoral epiphysis. Impaired blood supply to the femoral head causes bone infarction. <br /><br />Perthes' disease is <span class=\"concept\" data-cid=\"3337\">5 times more common in boys</span>. Around 10% of cases are bilateral<br /><br />Features<br /><ul><li>hip pain: develops progressively over a few weeks</li><li>limp</li><li>stiffness and reduced range of hip movement</li><li>x-ray: early changes include widening of joint space, later changes include decreased femoral head size/flattening</li></ul><br />Diagnosis<br /><ul><li>plain x-ray</li><li>technetium bone scan or magnetic resonance imaging if normal x-ray and symptoms persist</li></ul><br />Complications<br /><ul><li>osteoarthritis</li><li>premature fusion of the growth plates</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb089b.jpg\" data-fancybox=\"gallery\" data-caption=\"Perthes' disease - both femoral epiphyses show extensive destruction, the acetabula are deformed\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb089.jpg\" alt=\"\" /></a></div><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb090b.jpg\" data-fancybox=\"gallery\" data-caption=\"Perthes' disease - bilateral disease\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb090.jpg\" alt=\"\" /></a></div></div></div><br />Catterall staging<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Stage</b></th><th><b>Features</b></th></tr></thead><tbody><tr><td>Stage 1</td><td>Clinical and histological features only</td></tr><tr><td>Stage 2</td><td>Sclerosis with or without cystic changes and preservation of the articular surface</td></tr><tr><td>Stage 3</td><td>Loss of structural integrity of the femoral head</td></tr><tr><td>Stage 4</td><td>Loss of acetabular integrity</td></tr></tbody></table></div><br />Management<br /><ul><li>To keep the femoral head within the acetabulum: cast, braces</li><li>If less than 6 years: observation</li><li>Older: surgical management with moderate results</li><li>Operate on severe deformities</li></ul><br />Prognosis<br /><ul><li>Most cases will resolve with conservative management. Early diagnosis improves outcomes.</li></ul>",
+        "notes_hash": "3eb0b78f9dc508467a4b778d9d09185e",
+        "knowledge_graph_node_id_link": 1100,
+        "concept": "Perthes' disease presenting under the age of 6 years has a good prognosis requiring only observation",
+        "concept_percentile": "92",
+        "concept_colour": "rgb(40,255,0)",
+        "number_attempts": "5585",
+        "up_votes": "20",
+        "down_votes": "16",
+        "column_array": [
+            0,
+            "2005",
+            "1378",
+            "651",
+            "382",
+            "1169",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"1420\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/uKmFTtCPdKM/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/uKmFTtCPdKM\" data-description=\"Paediatric Limp: Differential Frameworks\" data-upvotes=\"11\" data-downvotes=\"1\" data-media=\"1420\">Paediatric Limp: Differential Frameworks</a></td></tr><tr><td><span ><small>Townsend Teaching - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2494\" data-mediaid=\"2494\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2494\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"media_dislike_2494\" data-mediaid=\"2494\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2494\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ylhiGkrQ8A8\" data-description=\"Perthes' disease\" data-upvotes=\"5\" data-downvotes=\"3\" data-media=\"661\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ylhiGkrQ8A8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ylhiGkrQ8A8\" data-description=\"Perthes' disease\" data-upvotes=\"5\" data-downvotes=\"3\" data-media=\"661\">Perthes' disease</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1141\" data-mediaid=\"1141\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1141\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_1141\" data-mediaid=\"1141\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1141\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "2373": {
+                "concept_text": "Perthes disease is caused by avascular necrosis of the femoral head - it presents with progressive hip pain, limp and stiffness",
+                "concept_percentile": "92"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_537",
+        "new_question_id": "1725",
+        "question_type": "0",
+        "category": "8",
+        "concept_id_link": "221",
+        "notes_id_link": "1_1202",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Chlorpromazine",
+            "Codeine phosphate",
+            "Diazepam",
+            "Methadone",
+            "Phenytoin",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old man with metastatic small cell lung cancer is admitted to the local hospice for symptom control. His main problem at the moment is intractable hiccups. What is the most appropriate management?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Chlorpromazine</b>. Chlorpromazine is a first-generation antipsychotic drug that has been shown to be effective in the treatment of intractable hiccups, particularly in patients with advanced cancer. The exact mechanism of action is not well understood, but it's believed to involve the modulation of various neurotransmitter systems in the brain. It should be used at the lowest effective dose due to its potential side effects, such as extrapyramidal symptoms and sedation.<br /><br /><b>Codeine phosphate</b> is an opioid analgesic used primarily for the relief of mild to moderate pain. While it can suppress cough reflex by a direct effect on the cough centre in the medulla, there's no evidence supporting its use for hiccups.<br /><br /><b>Diazepam</b>, a benzodiazepine, is typically used for its anxiolytic, muscle relaxant, and sedative properties. Although it might theoretically help with hiccups due to its muscle-relaxing effects, there's limited clinical evidence supporting this use. Furthermore, using diazepam could potentially cause excessive sedation or respiratory depression in a patient with advanced cancer.<br /><br /><b>Methadone</b> is another opioid analgesic that's primarily used for severe pain management or opioid detoxification. It has no known efficacy in treating hiccups and could potentially cause serious adverse effects like respiratory depression or addiction.<br /><br />Finally, <b>Phenytoin</b> is an antiepileptic medication that stabilises neuronal membranes and decreases seizure activity. While it may have some off-label uses, there's no established role for phenytoin in managing hiccups.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old man with metastatic small cell lung cancer is admitted to the local hospice for symptom control. His main problem at the moment is intractable hiccups. What is the most appropriate management?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Chlorpromazine</b>. Chlorpromazine is a first-generation antipsychotic drug that has been shown to be effective in the treatment of intractable hiccups, particularly in patients with advanced cancer. The exact mechanism of action is not well understood, but it's believed to involve the modulation of various neurotransmitter systems in the brain. It should be used at the lowest effective dose due to its potential side effects, such as extrapyramidal symptoms and sedation.<br /><br /><b>Codeine phosphate</b> is an opioid analgesic used primarily for the relief of mild to moderate pain. While it can suppress cough reflex by a direct effect on the cough centre in the medulla, there's no evidence supporting its use for hiccups.<br /><br /><b>Diazepam</b>, a benzodiazepine, is typically used for its anxiolytic, muscle relaxant, and sedative properties. Although it might theoretically help with hiccups due to its muscle-relaxing effects, there's limited clinical evidence supporting this use. Furthermore, using diazepam could potentially cause excessive sedation or respiratory depression in a patient with advanced cancer.<br /><br /><b>Methadone</b> is another opioid analgesic that's primarily used for severe pain management or opioid detoxification. It has no known efficacy in treating hiccups and could potentially cause serious adverse effects like respiratory depression or addiction.<br /><br />Finally, <b>Phenytoin</b> is an antiepileptic medication that stabilises neuronal membranes and decreases seizure activity. While it may have some off-label uses, there's no established role for phenytoin in managing hiccups.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Palliative care prescribing: hiccups",
+        "body": "Management of hiccups<br /><ul><li>chlorpromazine is licensed for the treatment of intractable hiccups</li><li>haloperidol, gabapentin are also used</li><li>dexamethasone is also used, particularly if there are hepatic lesions</li></ul>",
+        "notes_hash": "6ee0d0c1710cb02a90e420f0ac6ccee3",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Hiccups in palliative care - chlorpromazine or haloperidol",
+        "concept_percentile": "60",
+        "concept_colour": "rgb(203,255,0)",
+        "number_attempts": "6529",
+        "up_votes": "30",
+        "down_votes": "13",
+        "column_array": [
+            0,
+            "4629",
+            "571",
+            "1106",
+            "127",
+            "96",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NHS Scotland</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_139\" data-linkid=\"139\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_139\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_139\" data-linkid=\"139\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_139\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">4</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.palliativecareguidelines.scot.nhs.uk/guidelines/symptom-control/Hiccups.aspx\">Scottish Palliative Care Guidelines - hiccups</a></td></tr></table>",
+        "media": "",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1813",
+        "new_question_id": "10567",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "0",
+        "notes_id_link": "1_841",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Glucose of the pleural fluid",
+            "LDH of the pleural fluid",
+            "pH of the pleural fluid",
+            "Potassium of the pleural fluid",
+            "Protein of the pleural fluid",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 79-year-old man is admitted with a right lower lobe pneumonia. As well as showing consolidation there also appears to be a moderate sized pleural effusion on the same side. An ultrasound guided pleural fluid aspiration is performed. The appearance of the fluid is clear and is sent off for culture. Whilst awaiting the culture results, which one of the following is the most important factor when determining whether a chest tube is placed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "",
+            ""
+        ],
+        "notes": [
+            "The British Thoracic Society (BTS) state that the following are the main indications for placing a chest tube in pleural infection:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br /><ul><li>Patients with frankly purulent or turbid/cloudy pleural fluid on sampling should receive prompt pleural space chest tube drainage.</li><li>The presence of organisms identified by Gram stain and/or culture from a non-purulent pleural fluid sample indicates that pleural infection is established and should lead to prompt chest tube drainage.</li><li>Pleural fluid pH < 7.2 in patients with suspected pleural infection indicates a need for chest tube drainage. </li></ul></i></i></div><br />pH of the pleural fluid is therefore the most useful test of the options given.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 79-year-old man is admitted with a right lower lobe pneumonia. As well as showing consolidation there also appears to be a moderate sized pleural effusion on the same side. An ultrasound guided pleural fluid aspiration is performed. The appearance of the fluid is clear and is sent off for culture. Whilst awaiting the culture results, which one of the following is the most important factor when determining whether a chest tube is placed?",
+        "correct_answer": "3",
+        "question_notes": "The British Thoracic Society (BTS) state that the following are the main indications for placing a chest tube in pleural infection:<br /><br /><div class='bs-callout bs-callout-default'><i><i><br /><ul><li>Patients with frankly purulent or turbid/cloudy pleural fluid on sampling should receive prompt pleural space chest tube drainage.</li><li>The presence of organisms identified by Gram stain and/or culture from a non-purulent pleural fluid sample indicates that pleural infection is established and should lead to prompt chest tube drainage.</li><li>Pleural fluid pH < 7.2 in patients with suspected pleural infection indicates a need for chest tube drainage. </li></ul></i></i></div><br />pH of the pleural fluid is therefore the most useful test of the options given.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Pleural effusion: investigation and management",
+        "body": "The British Thoracic Society (BTS) produced guidelines in 2010 covering the investigation of patients with a pleural effusion.<br /><br />Imaging<br /><ul><li>posterioranterior (PA) chest x-rays should be performed in all patients</li><li>ultrasound is recommended: it increases the likelihood of successful pleural aspiration and is sensitive for detecting pleural fluid septations</li><li>contrast CT is now increasingly performed to investigate the underlying cause, particularly for exudative effusions</li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb953b.jpg\" data-fancybox=\"gallery\" data-caption=\"Massive left pleural effusion in a patient with a history of cancer. Note the mediastinal shift to the right.  - e Image used on license from Radiopaedia\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb953.jpg\" alt=\"\" /></a></div></div></div><br />Pleural aspiration<br /><ul><li>as above, ultrasound is recommended to reduce the complication rate</li><li>a 21G needle and 50ml syringe should be used</li><li>fluid should be sent for pH, protein, lactate dehydrogenase (LDH), cytology and microbiology</li></ul><br /><b>Light's criteria</b> was developed in 1972 to help distinguish between a transudate and an exudate. The BTS recommend using the criteria for borderline cases:<br /><ul><li>exudates have a protein level of >30 g/L, transudates have a protein level of <30 g/L</li><li>if the protein level is between 25-35 g/L, Light's criteria should be applied. An exudate is likely if at least one of the following criteria are met:<ul><li><span class=\"concept\" data-cid=\"7859\">pleural fluid protein divided by serum protein >0.5</span></li><li>pleural fluid LDH divided by serum LDH >0.6</li><li><span class=\"concept\" data-cid=\"2597\">pleural fluid LDH more than two-thirds the upper limits of normal serum LDH</span></li></ul></li></ul><br />Other characteristic pleural fluid findings:<br /><ul><li>low glucose: rheumatoid arthritis, tuberculosis</li><li>raised amylase: pancreatitis, <span class=\"concept\" data-cid=\"8317\">oesophageal perforation</span></li><li><span class=\"concept\" data-cid=\"12338\">low complement (C3, C4): systemic lupus erythematosus (SLE)</span><ul><li>pleural effusions occur in approximately 30-50% of SLE patients during the course of their disease and may be the presenting feature</li></ul></li><li>heavy blood staining: mesothelioma, pulmonary embolism, tuberculosis</li></ul><br /><br /><b>Pleural infection</b><br /> <br />All patients with a pleural effusion in association with sepsis or a pneumonic illness require diagnostic pleural fluid sampling<br /><ul><li>if the fluid is purulent or turbid/cloudy a chest tube should be placed to allow drainage</li><li>if the fluid is clear but the <b>pH is less than 7.2 in patients with suspected pleural infection a chest tube should be placed</b></li></ul><br /><br /><h5 class='notes-heading'>Management of recurrent pleural effusion</h5><br />Options for managing patients with recurrent pleural effusions include:<br /><ul><li>recurrent aspiration</li><li>pleurodesis</li><li>indwelling pleural catheter</li><li>drug management to alleviate symptoms e.g. opioids to relieve dyspnoea</li></ul>",
+        "notes_hash": "4bb92356cd85e231c227d7e7bef633a4",
+        "knowledge_graph_node_id_link": 10813,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6078",
+        "up_votes": "98",
+        "down_votes": "69",
+        "column_array": [
+            0,
+            "234",
+            "1933",
+            "2040",
+            "39",
+            "1832",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1055\" data-linkid=\"1055\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1055\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">19</span><button type=\"button\" style=\"\" id=\"link_dislike_1055\" data-linkid=\"1055\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1055\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/quality-improvement/guidelines/pleural-disease/\">2023 Pleural disease guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1670\" data-linkid=\"1670\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1670\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1670\" data-linkid=\"1670\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1670\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/12/1/82\">2012 Pleural infection review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gASiQ2I_4KY\" data-description=\"Pleural effusion\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"321\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/gASiQ2I_4KY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/gASiQ2I_4KY\" data-description=\"Pleural effusion\" data-upvotes=\"10\" data-downvotes=\"1\" data-media=\"321\">Pleural effusion</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_544\" data-mediaid=\"544\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_544\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_544\" data-mediaid=\"544\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_544\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f6bngHjMLA0\" data-description=\"Pleural effusion\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"666\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/f6bngHjMLA0/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/f6bngHjMLA0\" data-description=\"Pleural effusion\" data-upvotes=\"7\" data-downvotes=\"1\" data-media=\"666\">Pleural effusion</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1152\" data-mediaid=\"1152\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1152\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"media_dislike_1152\" data-mediaid=\"1152\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1152\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "2597": {
+                "concept_text": "Light's criteria: Effusion LDH level greater than 2/3rds the upper limit of serum LDH points to exudate",
+                "concept_percentile": "87"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "23866_B_68",
+        "new_question_id": "43864",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "11924",
+        "notes_id_link": "9_370",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Capnography",
+            "Entropy",
+            "Fractional exhaled nitric oxide",
+            "Manual assessment of chest rise",
+            "Oxygen saturations",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 29-year-old man is due for surgery for an open reduction and internal fixation of a complicated ankle fracture. He is normally fit and well with no past medical history, and has a BMI of 31 kg/m<sup>2</sup>. He is American Society of Anesthesiology (ASA) grade II. General anaesthesia is administered, and the patient is intubated.<br /><br />What monitoring equipment is most important to assess this patient's intubation?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer is <b>capnography</b>. Capnography measures the concentration of carbon dioxide in exhaled air and displays it on the anaesthetic monitor. By observing a characteristic rise in carbon dioxide concentration during exhalation, and a drop during inhalation, successful tracheal intubation can be confirmed.<br /><br /><b>Entropy</b> is incorrect. Entropy monitoring assesses the depth of anaesthesia by assessing a patient's electroencephalogram. It assesses the effect of anaesthetic drugs and does not assess the success of intubation.<br /><br /><b>Fractional exhaled nitric oxide</b> is incorrect. This is a relatively novel tool used in the diagnosis and follow-up of asthma patients, as asthmatic patients have been found to have higher exhaled nitric oxide levels.<br /><br /><b>Manual assessment of chest rise</b> is incorrect. Although this is a useful tool to check whether a patient is breathing or being ventilated, it is not a definitive monitoring tool.<br /><br /><b>Oxygen saturations</b> is incorrect. Although a patient's partial pressure of oxygen  (PaO<sub>2</sub>) saturations are a useful tool to assess arterial oxygen partial pressure, it is not a safe method of assessing intubation success. Patients are pre-oxygenated prior to induction, so the patient's saturations would stay high for several minutes post-intubation, even if the airway is incorrectly sited.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 29-year-old man is due for surgery for an open reduction and internal fixation of a complicated ankle fracture. He is normally fit and well with no past medical history, and has a BMI of 31 kg/m<sup>2</sup>. He is American Society of Anesthesiology (ASA) grade II. General anaesthesia is administered, and the patient is intubated.<br /><br />What monitoring equipment is most important to assess this patient's intubation?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>capnography</b>. Capnography measures the concentration of carbon dioxide in exhaled air and displays it on the anaesthetic monitor. By observing a characteristic rise in carbon dioxide concentration during exhalation, and a drop during inhalation, successful tracheal intubation can be confirmed.<br /><br /><b>Entropy</b> is incorrect. Entropy monitoring assesses the depth of anaesthesia by assessing a patient's electroencephalogram. It assesses the effect of anaesthetic drugs and does not assess the success of intubation.<br /><br /><b>Fractional exhaled nitric oxide</b> is incorrect. This is a relatively novel tool used in the diagnosis and follow-up of asthma patients, as asthmatic patients have been found to have higher exhaled nitric oxide levels.<br /><br /><b>Manual assessment of chest rise</b> is incorrect. Although this is a useful tool to check whether a patient is breathing or being ventilated, it is not a definitive monitoring tool.<br /><br /><b>Oxygen saturations</b> is incorrect. Although a patient's partial pressure of oxygen  (PaO<sub>2</sub>) saturations are a useful tool to assess arterial oxygen partial pressure, it is not a safe method of assessing intubation success. Patients are pre-oxygenated prior to induction, so the patient's saturations would stay high for several minutes post-intubation, even if the airway is incorrectly sited.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Airway management",
+        "body": "In addition to airway adjuncts, there are a number of <span class=\"concept\" data-cid=\"10723\">simple positional manoeuvres</span> which can open the airway:<br /><ul><li>head tilt / chin lift</li><li><span class=\"concept\" data-cid=\"11837\">jaw thrust: preferred if concern about cervical spine injury</span></li></ul><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Device</th><th>Notes</th></tr></thead><tbody><tr><td><b><span class=\"concept\" data-cid=\"2666\">Oropharyngeal airway</span></b></td><td><ul><li>Easy to insert and use</li><li>No paralysis required</li><li>Ideal for very short procedures</li><li>Most often used as a bridge to more definitive airway</td></tr><tr><td></li></ul><b>Laryngeal mask</b></td><td><ul><li>Widely used</li><li>Very easy to insert</li><li>Device sits in pharynx and aligns to cover the airway</li><li><span class=\"concept\" data-cid=\"3664\">Poor control against reflux of gastric contents</span></li><li>Paralysis is not usually required</li><li>Commonly used for wide range of anaesthetic uses, especially in day surgery</li><li>Not suitable for high-pressure ventilation (small amount of PEEP often possible)</td></tr><tr><td></li></ul><b>Tracheostomy</b></td><td><ul><li>Reduces the work of breathing (and dead space)</li><li>May be useful in slow weaning</li><li>Percutaneous tracheostomy widely used in ITU</li><li>Dries secretions, humidified air usually required</td></tr><tr><td></li></ul><b>Endotracheal tube</b></td><td><ul><li>Provides optimal control of the airway once the cuff inflated</li><li>May be used for long or short-term ventilation</li><li>Errors in insertion may result in <span class=\"concept\" data-cid=\"11923\">oesophageal intubation</span> <ul><li>accounts for around 5% of major airway complications</li><li>therefore <span class=\"concept\" data-cid=\"11924\">monitor end-tidal CO<sub>2</sub> (capnography)</span></li></ul></li><li>Paralysis often required</li><li>Higher ventilation pressures can be used</td></tr></tbody></table></div></li></ul>",
+        "notes_hash": "9f63841c07a81a1c9962aa8ba382a7b5",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Capnography can be used to detect accidental oesophageal intubation",
+        "concept_percentile": "57",
+        "concept_colour": "rgb(219,255,0)",
+        "number_attempts": "4974",
+        "up_votes": "22",
+        "down_votes": "17",
+        "column_array": [
+            0,
+            "4309",
+            "15",
+            "206",
+            "79",
+            "365",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "3664": {
+                "concept_text": "Laryngeal mask airway provides poor control against reflux of gastric contents therefore is unsuitable in non fasted patients",
+                "concept_percentile": "74"
+            },
+            "11923": {
+                "concept_text": "Dropping sats following intubation --> ? oesophageal intubation",
+                "concept_percentile": "53"
+            },
+            "11924": {
+                "concept_text": "Capnography can be used to detect accidental oesophageal intubation",
+                "concept_percentile": "57"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "999_B_1189",
+        "new_question_id": "59092",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4059",
+        "notes_id_link": "1_1187",
+        "theme": "Urgent management of symptomatic carotid artery stenosis post-stroke",
+        "instruction": "",
+        "options": [
+            "",
+            "Refer for urgent left carotid endarterectomy",
+            "Start dual antiplatelet therapy long-term",
+            "Refer for elective left carotid endarterectomy after 4 weeks",
+            "Repeat imaging in 6 months before intervention",
+            "No surgical intervention due to residual disability",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 68-year-old man presents to the emergency department with sudden right arm weakness and speech difficulty. He has a history of hypertension and type 2 diabetes. On examination, he is alert, oriented, and able to mobilise independently but has mild expressive dysphasia. CT head shows an acute left middle cerebral artery infarct. Carotid Doppler reveals 75% stenosis of the left internal carotid artery; right carotid is normal. Modified Rankin Scale score is 2.<br /><br />Which is the most appropriate next step in his management regarding secondary stroke prevention?<br />",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "<b>Refer for urgent left carotid endarterectomy</b> is correct because this patient has had an acute ischaemic stroke in the left anterior circulation (left MCA territory), corresponding anatomically to significant ipsilateral (left) internal carotid stenosis (>50%, specifically 75%). According to UK NICE guidelines and RCP Stroke Guidelines, patients who have suffered a non-disabling stroke or TIA in the carotid territory should be considered for urgent carotid endarterectomy if they have >50% stenosis by NASCET criteria. The modified Rankin Scale of 2 indicates only slight disability (able to look after own affairs without assistance), which does not preclude surgery\u2014only severe disability would do so (Rankin \u22653). Early intervention (ideally within 7 days) reduces risk of recurrent stroke.<br /><br /><b>Start dual antiplatelet therapy long-term</b> is incorrect as current UK guidance recommends clopidogrel monotherapy for secondary prevention after ischaemic stroke unless contraindicated, not dual antiplatelets long term. Dual therapy may be used briefly post-TIA/minor stroke but not as ongoing management.<br /><br /><b>Refer for elective left carotid endarterectomy after 4 weeks</b> is incorrect because delaying surgery increases risk of recurrent events; evidence supports that benefit from endarterectomy declines rapidly beyond two weeks post-event, so it should be performed urgently within one week when possible.<br /><br /><b>Repeat imaging in 6 months before intervention</b> is inappropriate since prompt assessment and intervention are required following symptomatic high-grade stenosis. Delaying action risks another disabling or fatal stroke.<br /><br /><b>No surgical intervention due to residual disability</b> misunderstands the significance of mild deficits: only those with severe, functionally limiting disability are excluded from consideration for surgery. This patient\u2019s mild symptoms do not preclude benefit from revascularisation.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 68-year-old man presents to the emergency department with sudden right arm weakness and speech difficulty. He has a history of hypertension and type 2 diabetes. On examination, he is alert, oriented, and able to mobilise independently but has mild expressive dysphasia. CT head shows an acute left middle cerebral artery infarct. Carotid Doppler reveals 75% stenosis of the left internal carotid artery; right carotid is normal. Modified Rankin Scale score is 2.<br /><br />Which is the most appropriate next step in his management regarding secondary stroke prevention?<br />",
+        "correct_answer": "1",
+        "question_notes": "<b>Refer for urgent left carotid endarterectomy</b> is correct because this patient has had an acute ischaemic stroke in the left anterior circulation (left MCA territory), corresponding anatomically to significant ipsilateral (left) internal carotid stenosis (>50%, specifically 75%). According to UK NICE guidelines and RCP Stroke Guidelines, patients who have suffered a non-disabling stroke or TIA in the carotid territory should be considered for urgent carotid endarterectomy if they have >50% stenosis by NASCET criteria. The modified Rankin Scale of 2 indicates only slight disability (able to look after own affairs without assistance), which does not preclude surgery\u2014only severe disability would do so (Rankin \u22653). Early intervention (ideally within 7 days) reduces risk of recurrent stroke.<br /><br /><b>Start dual antiplatelet therapy long-term</b> is incorrect as current UK guidance recommends clopidogrel monotherapy for secondary prevention after ischaemic stroke unless contraindicated, not dual antiplatelets long term. Dual therapy may be used briefly post-TIA/minor stroke but not as ongoing management.<br /><br /><b>Refer for elective left carotid endarterectomy after 4 weeks</b> is incorrect because delaying surgery increases risk of recurrent events; evidence supports that benefit from endarterectomy declines rapidly beyond two weeks post-event, so it should be performed urgently within one week when possible.<br /><br /><b>Repeat imaging in 6 months before intervention</b> is inappropriate since prompt assessment and intervention are required following symptomatic high-grade stenosis. Delaying action risks another disabling or fatal stroke.<br /><br /><b>No surgical intervention due to residual disability</b> misunderstands the significance of mild deficits: only those with severe, functionally limiting disability are excluded from consideration for surgery. This patient\u2019s mild symptoms do not preclude benefit from revascularisation.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Stroke: management of acute ischaemic stroke",
+        "body": "The National Clinical Guideline for Stroke was published in 2023 and is a partial update of the 2016 Royal College of Physicians (RCP) guidelines.<br /><br />Selected points relating to the management of acute stroke include:<br /><ul><li>blood glucose, hydration, oxygen saturation and temperature should be maintained within normal limits</li><li>blood pressure<ul><li><span class=\"concept\" data-cid=\"213\">blood pressure should not be lowered in the acute phase of ischaemic stroke</span> unless there are complications e.g. Hypertensive encephalopathy or they are being considered for thrombolysis (see below)</li><li><span class=\"concept\" data-cid=\"12220\">blood pressure control should be considered for patients who present with an acute ischaemic stroke</span>, if they present within 6 hours and have a systolic blood pressure > 150 mmHg</li></ul></li><li><span class=\"concept\" data-cid=\"11769\">aspirin 300mg orally or rectally should be given as soon as possible if a haemorrhagic stroke has been excluded</span></li><li>with regards to atrial fibrillation, the RCP state: 'anticoagulants should not be started until brain imaging has excluded haemorrhage, and usually not until 14 days have passed from the onset of an ischaemic stroke'</li><li>if the cholesterol is > 3.5 mmol/l patients should be commenced on a statin. Many physicians will delay treatment until after at least 48 hours due to the risk of haemorrhagic transformation</li></ul><br /><br /><h5 class='notes-heading'>Thrombolysis for acute ischaemic stroke</h5><br />Thrombolysis is now given to around 10% of patients who present with an acute ischaemic stroke in the UK. It requires a dedicated team to determine eligibility, ensure timely delivery and provide hyperacute stroke services to patients afterwards.<br /><br />The standard criteria for thrombolysis with alteplase or tenecteplase are as follows: <br /><ul><li>it is administered within <span class=\"concept\" data-cid=\"214\">4.5 hours of onset</span> of stroke symptoms</li><li><span class=\"concept\" data-cid=\"214\">haemorrhage has been definitively excluded</span> (i.e. Imaging has been performed)</li></ul><br />The 2023 National Clinical Guideline for Stroke broadened the potential inclusion criteria. <br /><ul><li>it recommends that patients with an <span class=\"concept\" data-cid=\"12221\">acute ischaemic stroke, regardless of age or stroke severity, who were last known to be well more than 4.5 hours earlier, should be considered for thrombolysis with alteplase if</span>:<ul><li>treatment can be started between 4.5 and 9 hours of known onset, or within 9 hours of the midpoint of sleep when they have woken with symptoms, AND</li><li>they have evidence from CT/MR perfusion (core-perfusion mismatch) or MRI (DWI-FLAIR mismatch) of the potential to salvage brain tissue</li></ul></li><li>this should be irrespective of whether they have a large artery occlusion and require mechanical thrombectomy.</li><li>there are specific criteria in the guidelines that determine the imagine criteria that determine whether thrombolysis should be performed</li></ul><br /><span class=\"concept\" data-cid=\"2669\">Blood pressure should be lowered to 185/110 mmHg before thrombolysis</span>.<br /><br /><h6 class='notes-subheading'>Contraindications to thrombolysis</h6><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Absolute</th><th>\tRelative</th></tr></thead><tbody><tr><td>- Previous intracranial haemorrhage<br />- Seizure at onset of stroke<br />- Intracranial neoplasm<br />- Suspected subarachnoid haemorrhage<br />- Stroke or traumatic brain injury in preceding 3 months<br />- Lumbar puncture in preceding 7 days<br />- Gastrointestinal haemorrhage in preceding 3 weeks<br />- Active bleeding<br />- Oesophageal varices<br />- Uncontrolled hypertension >200/120mmHg\t</td><td>- Pregnancy<br />- Concurrent anticoagulation (INR >1.7)<br />- Haemorrhagic diathesis<br />- Active diabetic haemorrhagic retinopathy<br />- Suspected intracardiac thrombus<br />- Major surgery / trauma in the preceding 2 weeks</td></tr></tbody></table></div><br /><br /><h5 class='notes-heading'>Thrombectomy for acute ischaemic stroke</h5><br />Mechanical thrombectomy is an exciting new treatment option for patients with an acute ischaemic stroke. NICE incorporated recommendations into their 2019 guidelines. It is important to remember the significant resources and senior personnel to provide such a service 24 hours a day. NICE recommend that all decisions about thrombectomy take into account a patient's overall clinical status:<br /><ul><li>NICE recommend a pre-stroke functional status of less than 3 on the modified Rankin scale and a score of more than 5 on the National Institutes of Health Stroke Scale (NIHSS)</li></ul><br />Offer thrombectomy as soon as possible and within <span class=\"concept\" data-cid=\"9594\">6 hours of symptom onset</span>, together <span class=\"concept\" data-cid=\"9596\">with intravenous thrombolysis (if within 4.5 hours)</span>, to people who have:<br />acute ischaemic stroke and<br /><ul><li>confirmed occlusion of the <b>proximal anterior circulation</b> demonstrated by computed tomographic angiography (CTA) or magnetic resonance angiography (MRA) </li></ul><br />Offer thrombectomy as soon as possible to people who were last known to be well between <span class=\"concept\" data-cid=\"9595\">6 hours and 24 hours previously (including wake-up strokes)</span>:<br /><ul><li>confirmed occlusion of the <b>proximal anterior circulation</b> demonstrated by CTA or MRA and</li><li>if there is the <span class=\"concept\" data-cid=\"9595\">potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume</span></li></ul><br /><i>Consider</i> thrombectomy together with intravenous thrombolysis (if within 4.5 hours) as soon as possible for people last known to be well up to 24 hours previously (including wake-up strokes):<br /><ul><li>who have acute ischaemic stroke and confirmed occlusion of the <b>proximal posterior circulation (that is, basilar or posterior cerebral artery)</b> demonstrated by CTA or MRA and</li><li>if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume</li></ul><br /><br /><h5 class='notes-heading'>Secondary prevention</h5><br />Recommendations from NICE include:<br /><ul><li><span class=\"concept\" data-cid=\"10231\">clopidogrel is now recommended</span> by NICE ahead of combination use of aspirin plus modified-release (MR) dipyridamole in people who have had an ischaemic stroke</li><li><span class=\"concept\" data-cid=\"10232\">aspirin is recommended after an ischaemic stroke only if clopidogrel is contraindicated or not tolerated</span></li></ul><br /><span class=\"concept\" data-cid=\"4059\">Carotid endarterectomy</span> is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled<br /><ul><li>should only be considered if the stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria</li></ul>  - it should be noted that previous guidelines have used other reporting methods, that have resulted in different cut-offs, e.g. European Carotid Surgery Trial (ECST) with a cut-off of 70%<br /><ul><li>it should be performed as soon as possible within 7 days</li></ul>",
+        "notes_hash": "fc458ce060f248e40f318667f9e90e4d",
+        "knowledge_graph_node_id_link": 1086,
+        "concept": "Carotid artery endarterectomy can be considered if there is a stroke or TIA in the carotid territory, and the patient is not severely disabled. <br />",
+        "concept_percentile": "85",
+        "concept_colour": "rgb(76,255,0)",
+        "number_attempts": "4347",
+        "up_votes": "4",
+        "down_votes": "6",
+        "column_array": [
+            0,
+            "2719",
+            "792",
+            "767",
+            "37",
+            "32",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1314\" data-linkid=\"1314\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1314\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">22</span><button type=\"button\" style=\"\" id=\"link_dislike_1314\" data-linkid=\"1314\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1314\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">38</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/17/2/161\"> Thrombolysis and thrombectomy for acute ischaemic stroke </a></td></tr></table><br><br><table style='width:100%'><tr><td>Age and Ageing</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1008\" data-linkid=\"1008\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1008\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">23</span><button type=\"button\" style=\"\" id=\"link_dislike_1008\" data-linkid=\"1008\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1008\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">16</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/ageing/article-pdf/33/1/6/39726/afg121.pdf\">Interesting article on managing blood pressure during acute stroke</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_900\" data-linkid=\"900\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_900\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">30</span><button type=\"button\" style=\"\" id=\"link_dislike_900\" data-linkid=\"900\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_900\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">17</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng128/chapter/Recommendations\">2019 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></td></tr></table><br><br><table style='width:100%'><tr><td>National Clinical Guideline for Stroke</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2116\" data-linkid=\"2116\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2116\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">16</span><button type=\"button\" style=\"\" id=\"link_dislike_2116\" data-linkid=\"2116\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2116\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.strokeguideline.org/contents/\">2023 National Clinical Guideline for Stroke</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qCvV11R2lgg\" data-description=\"Iscchaemic stroke\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1011\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/qCvV11R2lgg/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/qCvV11R2lgg\" data-description=\"Iscchaemic stroke\" data-upvotes=\"6\" data-downvotes=\"0\" data-media=\"1011\">Iscchaemic stroke</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1780\" data-mediaid=\"1780\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1780\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1780\" data-mediaid=\"1780\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1780\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJeUOPc9pgs\" data-description=\"Haemorrhagic stroke\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1012\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/TJeUOPc9pgs/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/TJeUOPc9pgs\" data-description=\"Haemorrhagic stroke\" data-upvotes=\"0\" data-downvotes=\"0\" data-media=\"1012\">Haemorrhagic stroke</a></td></tr><tr><td><span ><small>Khan Academy - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1781\" data-mediaid=\"1781\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1781\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_1781\" data-mediaid=\"1781\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1781\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"502\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/y-dfiMGv3Xk/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/y-dfiMGv3Xk\" data-description=\"Stroke\" data-upvotes=\"6\" data-downvotes=\"1\" data-media=\"502\">Stroke</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_876\" data-mediaid=\"876\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_876\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_876\" data-mediaid=\"876\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_876\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"104\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/cLi0lPt5UcA/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/cLi0lPt5UcA\" data-description=\"Stroke\" data-upvotes=\"5\" data-downvotes=\"2\" data-media=\"104\">Stroke</a></td></tr><tr><td><span ><small>Podmedics - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_183\" data-mediaid=\"183\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_183\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_183\" data-mediaid=\"183\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_183\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/H4xErylBd1g\" data-description=\"GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"1186\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/H4xErylBd1g/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/H4xErylBd1g\" data-description=\"GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)\" data-upvotes=\"2\" data-downvotes=\"3\" data-media=\"1186\">GB Search       Avatar image Stroke: Acute infarction - radiology video tutorial (CT, MRI, angiography)</a></td></tr><tr><td><span ><small>Radiology Channel - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2045\" data-mediaid=\"2045\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2045\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2045\" data-mediaid=\"2045\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2045\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "2669": {
+                "concept_text": "Hypertension (>185/110 mmHg) in the setting of acute ischaemic stroke should be treated prior to thrombolysis",
+                "concept_percentile": "95"
+            },
+            "4059": {
+                "concept_text": "Carotid artery endarterectomy can be considered if there is a stroke or TIA in the carotid territory, and the patient is not severely disabled. \r\n",
+                "concept_percentile": "85"
+            },
+            "9594": {
+                "concept_text": "The standard target time for thrombectomy in acute ischaemic stroke is 6 hours",
+                "concept_percentile": "93"
+            },
+            "9595": {
+                "concept_text": "For thrombectomy in acute ischaemic stroke, an extended target time of 6-24 hours may be considered if there is the potential to salvage brain tissue, as shown by imaging such as CT perfusion or diffusion-weighted MRI sequences showing limited infarct core volume",
+                "concept_percentile": "48"
+            },
+            "9596": {
+                "concept_text": "A combination of thrombolysis AND thrombectomy is recommend for patients with an acute ischaemic stroke who present within 4.5 hours",
+                "concept_percentile": "97"
+            },
+            "10231": {
+                "concept_text": "Clopidogrel is the preferred antiplatelet for secondary prevention following stroke",
+                "concept_percentile": "87"
+            },
+            "10232": {
+                "concept_text": "If clopidogrel is contraindicated or not tolerated, give aspirin for secondary prevention following stroke",
+                "concept_percentile": "85"
+            },
+            "11769": {
+                "concept_text": "Stroke: aspirin 300mg should be given once a haemorrhagic stroke has been excluded by a CT scan",
+                "concept_percentile": "60"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "2108_B_2175",
+        "new_question_id": "16846",
+        "question_type": "0",
+        "category": "9",
+        "concept_id_link": "4798",
+        "notes_id_link": "1_2580",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Circumstantiality",
+            "Clang associations",
+            "Tangentiality",
+            "Perseveration",
+            "Word salad",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "You are a psychiatric junior doctor assessing a gentleman in the Emergency Department. He has been brought in by the police because he was found to be in possession of a knife. The conversation is as follows: <br /><br />Doctor: 'I understand the police have picked you up from the town centre today. Why did you carry a knife?'<br />Patient: 'I needed to get milk and bread when I was out shopping. I was not out of control so I took it, but then I remembered I needed to go for an appointment. It was only early morning when all of this happened, and the bank manager was off on holiday in Greece so obviously could not see me, so I said I would come back next week.'<br /><br />What would this be an example of?",
+            "",
+            ""
+        ],
+        "answers": [
+            "3",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The answers are all disturbances in the form of thought, and their definitions are outlined below. This would be considered 'formal thought disorder' which is a feature of some psychiatric conditions, typically schizophrenia. <br /><br />The answer is tangentiality (3), which refers to wandering from a topic without returning to it. It can also be defined as 'thought and speech associated with excessive and unnecessary detail that is usually relevant to the question, but the person never returns to the central point and never answers the original question', i.e. goes off on a tangent. In the example, the patient briefly makes reference to taking the knife, but does not explain why, rather begins talking off on a tangent about what happened at the bank. It also displays the inclusion of irrelevant details (i.e. the holiday destination) which the doctor did not ask for. <br /><br />Circumstantiality (1) is similar, but in this case an answer is ultimately given rather than going off on a tangent.<br /><br />Clang associations (2) are a group of words similar in sound but not in meaning, and these words will have no logical connection. It may include rhyming and punning. An example would be 'You are very cute. A cute mute, in a suit, eating fruit'. <br /><br />Perseveration (4) is the persisting response to a previous stimulus (i.e. question) after a new stimulus [question] has been presented. An example would be:<br />'How are you today?' 'I am sick.' <br />'Have any of your family visited you?' 'I am sick.'<br /><br />Word salad (5) is where speech is reduced to a senseless repetition of sounds and phrases, e.g. 'In worlds with pencils, you may page drink slime'.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "You are a psychiatric junior doctor assessing a gentleman in the Emergency Department. He has been brought in by the police because he was found to be in possession of a knife. The conversation is as follows: <br /><br />Doctor: 'I understand the police have picked you up from the town centre today. Why did you carry a knife?'<br />Patient: 'I needed to get milk and bread when I was out shopping. I was not out of control so I took it, but then I remembered I needed to go for an appointment. It was only early morning when all of this happened, and the bank manager was off on holiday in Greece so obviously could not see me, so I said I would come back next week.'<br /><br />What would this be an example of?",
+        "correct_answer": "3",
+        "question_notes": "The answers are all disturbances in the form of thought, and their definitions are outlined below. This would be considered 'formal thought disorder' which is a feature of some psychiatric conditions, typically schizophrenia. <br /><br />The answer is tangentiality (3), which refers to wandering from a topic without returning to it. It can also be defined as 'thought and speech associated with excessive and unnecessary detail that is usually relevant to the question, but the person never returns to the central point and never answers the original question', i.e. goes off on a tangent. In the example, the patient briefly makes reference to taking the knife, but does not explain why, rather begins talking off on a tangent about what happened at the bank. It also displays the inclusion of irrelevant details (i.e. the holiday destination) which the doctor did not ask for. <br /><br />Circumstantiality (1) is similar, but in this case an answer is ultimately given rather than going off on a tangent.<br /><br />Clang associations (2) are a group of words similar in sound but not in meaning, and these words will have no logical connection. It may include rhyming and punning. An example would be 'You are very cute. A cute mute, in a suit, eating fruit'. <br /><br />Perseveration (4) is the persisting response to a previous stimulus (i.e. question) after a new stimulus [question] has been presented. An example would be:<br />'How are you today?' 'I am sick.' <br />'Have any of your family visited you?' 'I am sick.'<br /><br />Word salad (5) is where speech is reduced to a senseless repetition of sounds and phrases, e.g. 'In worlds with pencils, you may page drink slime'.",
+        "answer_order": "3",
+        "answer": "3",
+        "title": "Thought disorders",
+        "body": "<span class=\"concept\" data-cid=\"10837\">Circumstantiality</span> is the inability to answer a question without giving excessive, unnecessary detail. However, this differs from tangentiality in that the person does eventually return to the original point. <br /><br /><span class=\"concept\" data-cid=\"4798\">Tangentiality</span> refers to wandering from a topic without returning to it.<br /><br />Neologisms are new word formations, which might include the combining of two words. <br /><br /><span class=\"concept\" data-cid=\"3562\">Clang associations</span> are when ideas are related to each other only by the fact they sound similar or rhyme. <br /><br />Word salad describes completely incoherent speech where real words are strung together into nonsense sentences.<br /><br />Knight's move thinking is a severe type of loosening of associations, where there are unexpected and illogical leaps from one idea to another. It is a feature of schizophrenia. <br /><br />Flight of ideas, a feature of mania, is a thought disorder where there are leaps from one topic to another but with discernible links between them.<br /><br />Perseveration is the repetition of ideas or words despite an attempt to change the topic.<br /><br /><span class=\"concept\" data-cid=\"3659\">Echolalia</span> is the repetition of someone else's speech, including the question that was asked.",
+        "notes_hash": "657f3e57aa51b27bfb9163c4ba680596",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Tangentiality refers to wandering from a topic without returning to it",
+        "concept_percentile": "70",
+        "concept_colour": "rgb(152,255,0)",
+        "number_attempts": "4884",
+        "up_votes": "30",
+        "down_votes": "43",
+        "column_array": [
+            0,
+            "484",
+            "548",
+            "2957",
+            "45",
+            "850",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 11,
+        "concepts_for_notes": {
+            "4798": {
+                "concept_text": "Tangentiality refers to wandering from a topic without returning to it",
+                "concept_percentile": "70"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14649_B_164",
+        "new_question_id": "36456",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "11725",
+        "notes_id_link": "1_1069",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Antibiotics not indicated",
+            "7 days",
+            "2 weeks",
+            "4-6 weeks",
+            "Lifelong",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 45-year-old man is admitted to the hospital with severe knee pain, swelling and stiffness which began last night. He is unable to weight bear and is systemically unwell with a temperature of 39.4\u00baC. He undergoes joint aspiration to confirm the diagnosis. <br /><br />Given the most likely diagnosis, for how long should this patient receive antibiotics?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The most likely diagnosis, in this case, is septic arthritis as the patient has presented with an acutely swollen, painful joint with systemic upset and a high fever. Joint aspiration is an important diagnostic tool and is likely to show purulent synovial fluid. A culture of this fluid may be positive for the causative organism. <br /><br />Patients with septic arthritis should be prescribed a <b>4-6 week</b> long course of antibiotics. Guidelines recommend that patients with septic arthritis receive joint aspiration alongside an initial 2 weeks of IV antibiotics. After 2 weeks, some patients may be able to switch to oral antibiotics for the remaining 2-4 weeks of their course. <br /><br /><b>Antibiotics not indicated</b> is incorrect. Septic arthritis is a serious infection that requires both joint aspiration and antibiotics to adequately treat. Joint aspiration alone is unlikely to completely clear the infection and may lead to joint destruction and sepsis. <br /><br />Antibiotic courses of <b>7 days</b> and <b>2 weeks</b> are also inadequate according to current British Society of Rheumatology guidelines (2006). However, some evidence indicates that 1 week of IV antibiotics followed by oral antibiotics may be equivalent to longer IV courses in some patients. <br /><br />A <b>lifelong</b> course of antibiotics is not indicated in this case. These may be used in patients with recurrent septic arthritis under expert supervision, however.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 45-year-old man is admitted to the hospital with severe knee pain, swelling and stiffness which began last night. He is unable to weight bear and is systemically unwell with a temperature of 39.4\u00baC. He undergoes joint aspiration to confirm the diagnosis. <br /><br />Given the most likely diagnosis, for how long should this patient receive antibiotics?",
+        "correct_answer": "4",
+        "question_notes": "The most likely diagnosis, in this case, is septic arthritis as the patient has presented with an acutely swollen, painful joint with systemic upset and a high fever. Joint aspiration is an important diagnostic tool and is likely to show purulent synovial fluid. A culture of this fluid may be positive for the causative organism. <br /><br />Patients with septic arthritis should be prescribed a <b>4-6 week</b> long course of antibiotics. Guidelines recommend that patients with septic arthritis receive joint aspiration alongside an initial 2 weeks of IV antibiotics. After 2 weeks, some patients may be able to switch to oral antibiotics for the remaining 2-4 weeks of their course. <br /><br /><b>Antibiotics not indicated</b> is incorrect. Septic arthritis is a serious infection that requires both joint aspiration and antibiotics to adequately treat. Joint aspiration alone is unlikely to completely clear the infection and may lead to joint destruction and sepsis. <br /><br />Antibiotic courses of <b>7 days</b> and <b>2 weeks</b> are also inadequate according to current British Society of Rheumatology guidelines (2006). However, some evidence indicates that 1 week of IV antibiotics followed by oral antibiotics may be equivalent to longer IV courses in some patients. <br /><br />A <b>lifelong</b> course of antibiotics is not indicated in this case. These may be used in patients with recurrent septic arthritis under expert supervision, however.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Septic arthritis in adults",
+        "body": "Pathophysiology<br /><ul><li>most common organism overall is <span class=\"concept\" data-cid=\"158\"><i>Staphylococcus aureus</i></span><ul><li>in young adults who are sexually active, <span class=\"concept\" data-cid=\"3239\"><i>Neisseria gonorrhoeae</i></span> is the most common organism (disseminated gonococcal infection)</li></ul></li><li>the most common cause is <span class=\"concept\" data-cid=\"10987\">hematogenous spread</span><ul><li>this may be from distant bacterial infections e.g. abscesses</li></ul></li><li>in adults, the most common location is the <span class=\"concept\" data-cid=\"9301\">knee</span></li></ul><br />Features<br /><ul><li>acute, swollen joint<ul><li>restricted movement in 80% of patients</li><li>examination findings: warm to touch/fluctuant</li></ul></li><li>fever: present in the majority of patients</li></ul><br />Investigations<br /><ul><li><span class=\"concept\" data-cid=\"11072\">synovial fluid sampling</span> is obligatory<ul><li>this should be done prior to the administration of antibiotics if necessary</li><li>may need to be done under radiographic guidance</li><li>shows a leucocytosis with neutrophil predominance</li><li><span class=\"concept\" data-cid=\"12211\">gram staining is negative in around 30-50% of cases</span></li><li>fluid culture is positive in patients with non-gonococcal septic arthritis</li></ul></li><li>blood cultures: the most common cause of septic arthritis is hematogenous spread</li><li>joint imaging</li></ul><br />Management<br /><ul><li>intravenous antibiotics which cover Gram-positive cocci are indicated. The BNF currently recommends <span class=\"concept\" data-cid=\"159\">flucloxacillin</span> or clindamycin if penicillin allergic<ul><li>antibiotic treatment is normally be given for <span class=\"concept\" data-cid=\"11725\">several weeks (BNF states 4-6 weeks)</span></li><li>patients are typically switched to oral antibiotics after 2 weeks</li></ul></li><li>needle aspiration should be used to decompress the joint</li><li>arthroscopic lavage may be required</li></ul>",
+        "notes_hash": "32f57ce856e84629795a0cc24567af24",
+        "knowledge_graph_node_id_link": 10969,
+        "concept": "Septic arthritis requires prolonged antibiotic therapy of at least 4-6 weeks",
+        "concept_percentile": "98",
+        "concept_colour": "rgb(10,255,0)",
+        "number_attempts": "4605",
+        "up_votes": "10",
+        "down_votes": "1",
+        "column_array": [
+            0,
+            "70",
+            "536",
+            "988",
+            "3000",
+            "11",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Patient.info</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_525\" data-linkid=\"525\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_525\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">9</span><button type=\"button\" style=\"\" id=\"link_dislike_525\" data-linkid=\"525\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_525\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.patient.co.uk/doctor/septic-arthritis-pro\">Septic arthritis review</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/498Px-BBdOo\" data-description=\"Septic arthritis\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"615\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/498Px-BBdOo/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/498Px-BBdOo\" data-description=\"Septic arthritis\" data-upvotes=\"4\" data-downvotes=\"0\" data-media=\"615\">Septic arthritis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1048\" data-mediaid=\"1048\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1048\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">4</span><button type=\"button\" style=\"\" id=\"media_dislike_1048\" data-mediaid=\"1048\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1048\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Tz07Uqx7_VY\" data-description=\"Septic arthritis\" data-upvotes=\"0\" data-downvotes=\"3\" data-media=\"270\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Tz07Uqx7_VY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Tz07Uqx7_VY\" data-description=\"Septic arthritis\" data-upvotes=\"0\" data-downvotes=\"3\" data-media=\"270\">Septic arthritis</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_462\" data-mediaid=\"462\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_462\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_462\" data-mediaid=\"462\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_462\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "9301": {
+                "concept_text": "Septic arthritis in adults is most common in knees",
+                "concept_percentile": "73"
+            },
+            "11725": {
+                "concept_text": "Septic arthritis requires prolonged antibiotic therapy of at least 4-6 weeks",
+                "concept_percentile": "98"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1479_B_266",
+        "new_question_id": "3384",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1568",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Duloxetine",
+            "Ring pessary",
+            "Nitroglycerin ointment",
+            "Tolterodine",
+            "Sertraline",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old woman comes to see you as she reports for the past 1 year she inadvertently passes urine when she coughs. However, she denies any urgency of urination. She has seen you multiple times about this problem and has tried reducing her caffeine intake, performing regular pelvic floor exercises as well as reducing her body mass index from 29kg/m\u00b2 to 23kg/m\u00b2'. However, these measures have only provided her minimal relief. <br /><br />She is keen to avoid surgery but would like to see if there are any medications or other measures that could help her. <br /><br />Which one of the following is licensed for use in stress incontinence?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "Stress incontinence is an involuntary leakage of urine on effort or exertion, or on sneezing or coughing. Diagnosis is symptomatic and a bladder diary may be helpful in assessing the severity of symptoms. Treatment is with lifestyle measures such as reducing caffeine, losing weight and avoiding excess fluid. Pelvic floor exercises should also be advised. If symptoms continue despite these measures, surgery can be offered. If the woman is unsuitable for surgery or does not wish to have surgery, duloxetine which is a serotonin-norepinephrine reuptake inhibitors (SNRI) can be offered.<br /><br />A ring pessary is used in the treatment of vaginal prolapse and would not be effective in the treatment of stress incontinence. Sertraline is a SSRI (Selective serotonin reuptake inhibitor) which is used in the treatment of depression, obsessive-compulsive disorder and anxiety. O<br /><br />xybutynin and tolterodine are anticholinergic medications used in the treatment of urge incontinence.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old woman comes to see you as she reports for the past 1 year she inadvertently passes urine when she coughs. However, she denies any urgency of urination. She has seen you multiple times about this problem and has tried reducing her caffeine intake, performing regular pelvic floor exercises as well as reducing her body mass index from 29kg/m\u00b2 to 23kg/m\u00b2'. However, these measures have only provided her minimal relief. <br /><br />She is keen to avoid surgery but would like to see if there are any medications or other measures that could help her. <br /><br />Which one of the following is licensed for use in stress incontinence?",
+        "correct_answer": "1",
+        "question_notes": "Stress incontinence is an involuntary leakage of urine on effort or exertion, or on sneezing or coughing. Diagnosis is symptomatic and a bladder diary may be helpful in assessing the severity of symptoms. Treatment is with lifestyle measures such as reducing caffeine, losing weight and avoiding excess fluid. Pelvic floor exercises should also be advised. If symptoms continue despite these measures, surgery can be offered. If the woman is unsuitable for surgery or does not wish to have surgery, duloxetine which is a serotonin-norepinephrine reuptake inhibitors (SNRI) can be offered.<br /><br />A ring pessary is used in the treatment of vaginal prolapse and would not be effective in the treatment of stress incontinence. Sertraline is a SSRI (Selective serotonin reuptake inhibitor) which is used in the treatment of depression, obsessive-compulsive disorder and anxiety. O<br /><br />xybutynin and tolterodine are anticholinergic medications used in the treatment of urge incontinence.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Urinary incontinence",
+        "body": "Urinary incontinence (UI) is a common problem, affecting around 4-5% of the population. It is more common in elderly females. <br /><br />Risk factors<br /><ul><li>advancing age</li><li>previous pregnancy and childbirth</li><li>high body mass index</li><li>hysterectomy</li><li>family history</li></ul><br />Classification<br /><ul><li><span class=\"concept\" data-cid=\"11615\">overactive bladder (OAB)/urge incontinence</span><ul><li>due to detrusor overactivity</li><li>the urge to urinate is quickly followed by uncontrollable leakage ranging from a few drops to complete bladder emptying</li></ul></li><li>stress incontinence: leaking small amounts when <span class=\"concept\" data-cid=\"4783\">coughing or laughing</span></li><li>mixed incontinence: both urge and stress</li><li>overflow incontinence: due to <span class=\"concept\" data-cid=\"4782\">bladder outlet obstruction</span>, e.g. due to prostate enlargement</li><li><span class=\"concept\" data-cid=\"11553\">functional incontinence</span><ul><li>comorbid physical conditions impair the patient's ability to get to a bathroom in time</li><li>causes include dementia, sedating medication and injury/illness resulting in decreased ambulation</li></ul></li></ul><br />Initial investigation<br /><ul><li>bladder diaries should be completed for a minimum of 3 days</li><li>vaginal examination to exclude pelvic organ prolapse and ability to initiate voluntary contraction of pelvic floor muscles ('Kegel' exercises)</li><li><span class=\"concept\" data-cid=\"2860\">urine dipstick and culture</span></li><li>urodynamic studies<ul><li><span class=\"concept\" data-cid=\"12421\">not routinely required before starting initial conservative treatment for urinary incontinence</span></li><li>may be considered if the diagnosis is uncertain,  mixed incontinence is suspected or surgical intervention is planned</li></ul></li></ul><br /><h6 class='notes-subheading'>Management depends on whether urge or stress UI is the predominant picture</h6> <br /><br />If urge incontinence is predominant:<br /><ul><li><span class=\"concept\" data-cid=\"342\">bladder retraining</span> (lasts for a minimum of 6 weeks, the idea is to gradually increase the intervals between voiding) </li><li><span class=\"concept\" data-cid=\"4664\">bladder stabilising drugs: antimuscarinics are first-line</span><ul><li>NICE recommend oxybutynin (immediate release), tolterodine (immediate release) or darifenacin (once daily preparation)</li><li><span class=\"concept\" data-cid=\"8320\"> avoid immediate-release oxybutynin in frail older women</span></li><li>solifenacin is an alternative antimuscarinic agent</li></ul></li><li>mirabegron (a <span class=\"concept\" data-cid=\"2295\">beta-3 agonist</span>) may be useful if there is concern about anticholinergic side-effects in <span class=\"concept\" data-cid=\"7869\">frail elderly patients</span></li><li>if <span class=\"concept\" data-cid=\"12317\">troublesome nocturia is a feature, desmopressin</span> may be considered</li><li>for women with overactive bladder that has not responded to non-surgical management:<ul><li>if urodynamic investigations determine that detrusor overactivity is causing her overactive bladder symptoms then consider <span class=\"concept\" data-cid=\"12326\">botulinum toxin type A bladder wall injection</span></li></ul></li></ul><br />If stress incontinence is predominant:<br /><ul><li>lifestyle measures, e.g. weight reduction, reducing caffeine intake</li><li><span class=\"concept\" data-cid=\"342\">pelvic floor muscle training</span><ul><li>NICE recommend at least 8 contractions performed 3 times per day for a minimum of 3 months</li></ul></li><li>surgical procedures include:<ul><li>mid-urethral tape procedures (still recommended by NICE but only after discussing risks and benefits)</li><li>intramural bulking agent injections</li><li>colposuspension</li></ul></li><li><span class=\"concept\" data-cid=\"11018\">duloxetine</span> may be offered to women if they decline surgical procedures<ul><li>a combined noradrenaline and serotonin reuptake inhibitor</li><li>mechanism of action: increased synaptic concentration of noradrenaline and serotonin within the pudendal nerve &rarr; increased stimulation of urethral striated muscles within the sphincter &rarr; enhanced contraction</li></ul></li></ul>",
+        "notes_hash": "6003d1ac7f9e8dcae13affdb7cd360c6",
+        "knowledge_graph_node_id_link": 10100,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5887",
+        "up_votes": "33",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "4720",
+            "360",
+            "18",
+            "730",
+            "59",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_272\" data-linkid=\"272\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_272\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">25</span><button type=\"button\" style=\"\" id=\"link_dislike_272\" data-linkid=\"272\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_272\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">37</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng123/chapter/Recommendations\">2019 urinary incontinence guidelines</a></td></tr></table>",
+        "media": "",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "342": {
+                "concept_text": "Urinary incontinence - first-line treatment:\r\n   - urge incontinence: bladder retraining\r\n   - stress incontinence: pelvic floor muscle training",
+                "concept_percentile": "64"
+            },
+            "2860": {
+                "concept_text": "Urine dipstick test and culture should be done as part of the basic investigations for urinary incontinence",
+                "concept_percentile": "71"
+            },
+            "4664": {
+                "concept_text": "Patients with urge incontinence who have failed bladder retraining can trial bladder stabilising drugs (antimuscarinics) such as oxybutynin, tolterodine or darifenacin",
+                "concept_percentile": "85"
+            },
+            "4782": {
+                "concept_text": "Bladder still palpable after urination, think retention with urinary overflow ",
+                "concept_percentile": "85"
+            },
+            "4783": {
+                "concept_text": "Urinary incontinence when coughing is most likely to be due to stress incontinence",
+                "concept_percentile": "29"
+            },
+            "11018": {
+                "concept_text": "Duloxetine may be used in patients with stress incontinence who don't respond to pelvic floor muscle exercises and decline surgical intervention",
+                "concept_percentile": "83"
+            },
+            "12326": {
+                "concept_text": "Botulinum toxin type A bladder wall injections may be considered for refactory overactive bladder symptoms",
+                "concept_percentile": "91"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]

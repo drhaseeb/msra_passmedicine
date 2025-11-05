@@ -1,0 +1,862 @@
+[
+    {
+        "question_id": "14649_B_52",
+        "new_question_id": "23330",
+        "question_type": "0",
+        "category": "1",
+        "concept_id_link": "8535",
+        "notes_id_link": "1_1791",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Add amlodipine",
+            "Add ramipril",
+            "Add verapamil",
+            "Admit to the emergency department",
+            "Refer to cardiology",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "Donald, a 58-year-old farmer, comes to you for a follow-up for his angina. He is taking the maximum dose of bisoprolol, but is still suffering from some exertional chest pain. This is disrupting his day as he often has to stop and rest after walking a few hundred meters. His pain never comes on during rest and he has no allergies or drug intolerances. <br /><br />How should Donald's condition be managed?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient should be started on a long-acting dihydropyridine calcium-channel blocker (CCB), such as amlodipine, according to NICE guidelines (2019). Before the addition of new medications, clinicians should ensure patients are taking the highest tolerated dose of their current medications. <br /><br />Adding ramipril is not the most appropriate treatment option. Angiotensin-converting-enzyme (ACE) inhibitors are an effective treatment for hypertension and can prevent the risk of myocardial infraction (MI) and stroke in patients with patients with angina, however they are not indicated in this patient as there is no evidence of hypertension in his history.<br /><br />Verapamil is a rate-limiting CCB that can be used in the management of angina, however should never be used alongside a beta-blocker. This combination increases the risk of severe bradycardia and heart failure. <br /><br />This patient should not be admitted to the emergency department as he is not displaying any signs of unstable angina, such as pain at rest or rapidly progressing symptoms. <br /><br />Patients should be referred to cardiology for angioplasty when there is evidence of extensive ischaemia on an electrocardiograph (ECG) or are inadequately managed on an optimised drug treatment.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "Donald, a 58-year-old farmer, comes to you for a follow-up for his angina. He is taking the maximum dose of bisoprolol, but is still suffering from some exertional chest pain. This is disrupting his day as he often has to stop and rest after walking a few hundred meters. His pain never comes on during rest and he has no allergies or drug intolerances. <br /><br />How should Donald's condition be managed?",
+        "correct_answer": "1",
+        "question_notes": "This patient should be started on a long-acting dihydropyridine calcium-channel blocker (CCB), such as amlodipine, according to NICE guidelines (2019). Before the addition of new medications, clinicians should ensure patients are taking the highest tolerated dose of their current medications. <br /><br />Adding ramipril is not the most appropriate treatment option. Angiotensin-converting-enzyme (ACE) inhibitors are an effective treatment for hypertension and can prevent the risk of myocardial infraction (MI) and stroke in patients with patients with angina, however they are not indicated in this patient as there is no evidence of hypertension in his history.<br /><br />Verapamil is a rate-limiting CCB that can be used in the management of angina, however should never be used alongside a beta-blocker. This combination increases the risk of severe bradycardia and heart failure. <br /><br />This patient should not be admitted to the emergency department as he is not displaying any signs of unstable angina, such as pain at rest or rapidly progressing symptoms. <br /><br />Patients should be referred to cardiology for angioplasty when there is evidence of extensive ischaemia on an electrocardiograph (ECG) or are inadequately managed on an optimised drug treatment.",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Angina pectoris: drug management",
+        "body": "The management of stable angina comprises lifestyle changes, medication, percutaneous coronary intervention and surgery. NICE produced guidelines in 2011 covering the management of stable angina<br /><br />Medication<br /><ul><li>all patients should receive aspirin and a statin in the absence of any contraindication</li><li><span class=\"concept\" data-cid=\"8532\">sublingual glyceryl trinitrate</span> to abort angina attacks</li><li>NICE recommend using either a <span class=\"concept\" data-cid=\"8533\">beta-blocker or a calcium channel blocker</span> first-line based on 'comorbidities, contraindications and the person's preference'</li><li>if a calcium channel blocker is used as monotherapy a rate-limiting one such as verapamil or diltiazem should be used</li><li>if used in combination with a beta-blocker then use a longer-acting dihydropyridine calcium channel blocker (e.g. amlodipine, modified-release nifedipine)<ul><li>remember that beta-blockers should not be prescribed concurrently with verapamil (risk of complete heart block)</li></ul></li><li>if there is a poor response to initial treatment then medication should be <span class=\"concept\" data-cid=\"8534\">increased to the maximum tolerated dose</span> (e.g. for atenolol 100mg od)</li><li>if a patient is still symptomatic after monotherapy with a beta-blocker add a <span class=\"concept\" data-cid=\"8535\">calcium channel blocker</span> and vice versa</li><li>if a patient is on monotherapy and cannot tolerate the addition of a calcium channel blocker or a beta-blocker then consider one of the following drugs:<ul><li>a long-acting nitrate</li><li>ivabradine</li><li>nicorandil</li><li>ranolazine</li></ul></li><li>if a patient is taking both a beta-blocker and a calcium-channel blocker then only add a third drug whilst a patient is awaiting assessment for PCI or CABG</li></ul><br />Nitrate tolerance<br /><ul><li>many patients who take nitrates develop tolerance and experience reduced efficacy</li><li>NICE advises that patients who take standard-release isosorbide mononitrate should use an <span class=\"concept\" data-cid=\"11043\">asymmetric dosing interval</span> to maintain a daily nitrate-free time of 10-14 hours to minimise the development of nitrate tolerance</li><li>this effect is not seen in patients who take once-daily modified-release isosorbide mononitrate</li></ul>",
+        "notes_hash": "5ee390ae970ff29e6eea9046dc53e577",
+        "knowledge_graph_node_id_link": 1228,
+        "concept": "If angina is not controlled with a beta-blocker, a longer-acting dihydropyridine calcium channel blocker should be added",
+        "concept_percentile": "79",
+        "concept_colour": "rgb(107,255,0)",
+        "number_attempts": "5990",
+        "up_votes": "39",
+        "down_votes": "8",
+        "column_array": [
+            0,
+            "3502",
+            "698",
+            "936",
+            "130",
+            "724",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_693\" data-linkid=\"693\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_693\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">36</span><button type=\"button\" style=\"\" id=\"link_dislike_693\" data-linkid=\"693\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_693\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">40</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/cg126/chapter/1-Guidance\">2011 Stable angina guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>SIGN</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_832\" data-linkid=\"832\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_832\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">34</span><button type=\"button\" style=\"\" id=\"link_dislike_832\" data-linkid=\"832\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_832\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">34</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.sign.ac.uk/media/1461/qrg151.pdf\">2018 Management of stable angina</a></td></tr></table><br><br><table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_618\" data-linkid=\"618\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_618\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">30</span><button type=\"button\" style=\"\" id=\"link_dislike_618\" data-linkid=\"618\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_618\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">20</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873712/\">2013 Pharmacological treatment of chronic stable angina pectoris </a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/7XkOuo5DwAU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/7XkOuo5DwAU\" data-description=\"Stable Angina: Visual Explanation for Students\" data-upvotes=\"12\" data-downvotes=\"2\" data-media=\"777\">Stable Angina: Visual Explanation for Students</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1354\" data-mediaid=\"1354\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1354\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"media_dislike_1354\" data-mediaid=\"1354\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1354\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Zp3XNG92aec/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Zp3XNG92aec\" data-description=\"Angina pectoris (stable, unstable, prinzmetal, vasospastic)\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"24\">Angina pectoris (stable, unstable, prinzmetal, vasospastic)</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_48\" data-mediaid=\"48\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_48\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_48\" data-mediaid=\"48\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_48\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "8533": {
+                "concept_text": "A beta-blocker or a calcium channel blocker is used first-line to prevent angina attacks ",
+                "concept_percentile": "78"
+            },
+            "8535": {
+                "concept_text": "If angina is not controlled with a beta-blocker, a longer-acting dihydropyridine calcium channel blocker should be added",
+                "concept_percentile": "79"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "14841_B_100",
+        "new_question_id": "23489",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "4449",
+        "notes_id_link": "1_1720",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Amoxicillin for 7 days",
+            "Trimethoprim for 3 days",
+            "Trimethoprim for 7 days",
+            "Nitrofurantoin for 7 days",
+            "No treatment required",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 78-year-old nursing home resident with a long term catheter presents to general practice with a positive urine culture. This reveals an <i>E coli</i> sensitive to amoxicillin, trimethoprim and nitrofurantoin. He is otherwise well and denies any dysuria. He is apyrexial with normal vital signs.<br /><br />What is the best management of this patient?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This patient has an asymptomatic bacteriuria, on a background of long term catheterization. Such a result is likely to be a spurious result originating from the colonisation of the catheter and not reflective of an ongoing urinary tract infection. Therefore no treatment is required.<br /><br />A 7-day course of antibiotics is used in symptomatic patients that are catheterised. Such a case would be best managed empirically or based on the sensitivities revealed on urine culture.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 78-year-old nursing home resident with a long term catheter presents to general practice with a positive urine culture. This reveals an <i>E coli</i> sensitive to amoxicillin, trimethoprim and nitrofurantoin. He is otherwise well and denies any dysuria. He is apyrexial with normal vital signs.<br /><br />What is the best management of this patient?",
+        "correct_answer": "5",
+        "question_notes": "This patient has an asymptomatic bacteriuria, on a background of long term catheterization. Such a result is likely to be a spurious result originating from the colonisation of the catheter and not reflective of an ongoing urinary tract infection. Therefore no treatment is required.<br /><br />A 7-day course of antibiotics is used in symptomatic patients that are catheterised. Such a case would be best managed empirically or based on the sensitivities revealed on urine culture.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Urinary tract infection in adults: management",
+        "body": "<h5 class='notes-heading'>Lower urinary tract infections</h5><br />Non-pregnant women<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>NICE recommend <span class=\"concept\" data-cid=\"6116\"><b>trimethoprim or nitrofurantoin</b></span> for <span class=\"concept\" data-cid=\"11482\"><b>3 days</b></span></li><li>send a urine culture if:<ul><li><span class=\"concept\" data-cid=\"10467\">aged > 65 years</span></li><li><span class=\"concept\" data-cid=\"5063\">visible or non-visible haematuria</span></li></ul></li></ul><br />Pregnant women <br /><ul><li>if the pregnant woman is symptomatic: <ul><li>a urine culture should be sent in all cases</li><li>should be treated with an antibiotic for <span class=\"concept\" data-cid=\"10877\">7 days</span></li><li><span class=\"concept\" data-cid=\"10876\">first-line: nitrofurantoin</span> (<span class=\"concept\" data-cid=\"5061\">should be avoided near term</span>)</li><li>second-line: <span class=\"concept\" data-cid=\"11739\">amoxicillin or cefalexin</span></li><li><span class=\"concept\" data-cid=\"3201\">trimethoprim is teratogenic</span> in the first trimester and should be avoided during pregnancy</li></ul></li><li>asymptomatic bacteriuria in pregnant women:<ul><li>a urine culture should be performed routinely at the first antenatal visit</li><li>NICE recommend <span class=\"concept\" data-cid=\"419\">an immediate antibiotic prescription</span> of either nitrofurantoin (should be avoided near term), amoxicillin or cefalexin. This should be a 7-day course</li><li>the rationale of treating asymptomatic bacteriuria is the significant risk of progression to acute pyelonephritis</li><li>a further urine culture should be sent following completion of treatment as a <span class=\"concept\" data-cid=\"420\">test of cure</span></li></ul></li><li>women who suffer regular urinary tract infections following sexual intercourse can be offered <span class=\"concept\" data-cid=\"10529\">post-coital antibiotic prophylaxis</span> - single dose trimethoprim or nitrofurantoin are used first-line</li></ul><br />Men<br /><ul><li><span class=\"concept\" data-cid=\"10336\">an immediate antibiotic prescription should be offered</span> for <span class=\"concept\" data-cid=\"11214\"><b>7 days</b></span></li><li>as with non-pregnant women, <span class=\"concept\" data-cid=\"11215\">trimethoprim or nitrofurantoin</span> should be offered first-line unless prostatitis is suspected</li><li><span class=\"concept\" data-cid=\"11899\">a urine culture should be sent in all cases</span> before antibiotics are started</li><li>NICE state: <i>'<span class=\"concept\" data-cid=\"11213\">Referral to urology is not routinely required for men</span> who have had one uncomplicated lower urinary tract infection (UTI).'</i></li></ul><br />Catherised patients<br /><ul><li><span class=\"concept\" data-cid=\"4449\">do not treat asymptomatic bacteria in catheterised patients</span></li><li>if the patient is symptomatic they should be treated with an antibiotic<ul><li><span class=\"concept\" data-cid=\"5120\">a 7-day, rather than a 3-day course should be given</span></li><li>consider <span class=\"concept\" data-cid=\"11743\">removing or changing</span> the catheter as soon as possible if it has been in place for longer than 7 days</li></ul></li></ul>   <br /><br /><h5 class='notes-heading'>Acute pyelonephritis</h5><br />For patients with sign of acute pyelonephritis hospital admission should be considered<br /><ul><li>local antibiotic guidelines should be followed if available</li><li>the BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days</li></ul>",
+        "notes_hash": "5cc1a10907b708a4f6aee5157927f8f9",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Do not treat asymptomatic bacteria in catheterised patients",
+        "concept_percentile": "61",
+        "concept_colour": "rgb(198,255,0)",
+        "number_attempts": "4048",
+        "up_votes": "18",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "165",
+            "70",
+            "318",
+            "624",
+            "2871",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1863\" data-linkid=\"1863\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1863\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">18</span><button type=\"button\" style=\"\" id=\"link_dislike_1863\" data-linkid=\"1863\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1863\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/treatment-summary/urinary-tract-infections.html\">Urinary-tract infections</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/1vIHTAnBmuU/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/1vIHTAnBmuU\" data-description=\"Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)\" data-upvotes=\"2\" data-downvotes=\"1\" data-media=\"1183\">Urinary Tract Infection - Overview (signs and symptoms, pathophysiology, causes and treatment)</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2039\" data-mediaid=\"2039\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2039\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2039\" data-mediaid=\"2039\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2039\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 3,
+        "concepts_for_notes": {
+            "419": {
+                "concept_text": "Asymptomatic bacteriuria in pregnant women should be immediately treated with antibiotics ",
+                "concept_percentile": "70"
+            },
+            "4449": {
+                "concept_text": "Do not treat asymptomatic bacteria in catheterised patients",
+                "concept_percentile": "61"
+            },
+            "6116": {
+                "concept_text": "Trimethoprim or nitrofurantoin are the first-line antibiotics for lower UTIs",
+                "concept_percentile": "11"
+            },
+            "10467": {
+                "concept_text": "An MSU should be sent for all women over > 65-years-old with a suspected urinary tract infection",
+                "concept_percentile": "99"
+            },
+            "10876": {
+                "concept_text": "Pregnant women with a UTI: nitrofurantoin is first-line unless the woman is close to term ",
+                "concept_percentile": "69"
+            },
+            "10877": {
+                "concept_text": "Pregnant women with a UTI should be treated with an antibiotic for 7 days",
+                "concept_percentile": "36"
+            },
+            "11215": {
+                "concept_text": "Men with lower UTIs should be treated with either trimethoprim or nitrofurantoin unless prostatitis is suspected",
+                "concept_percentile": "83"
+            },
+            "11482": {
+                "concept_text": "Non-pregnant women with uncomplicated lower UTI only need 3 days of antibiotics",
+                "concept_percentile": "45"
+            },
+            "11743": {
+                "concept_text": "Consider removing or changing the catheter if a UTI develops",
+                "concept_percentile": "38"
+            },
+            "11899": {
+                "concept_text": "All men with a suspected UTI should have a urine culture sent before starting antibiotics",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_503",
+        "new_question_id": "7939",
+        "question_type": "0",
+        "category": "5",
+        "concept_id_link": "0",
+        "notes_id_link": "1_320",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Inferior vena cava thrombosis",
+            "Acute pancreatitis",
+            "Renal vein thrombosis",
+            "Gastritis",
+            "Biliary colic",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 15-year-old girl presents with abdominal pain. She is normally fit and well and currently takes a combined oral contraceptive pill. The patient is accompanied by her mother, who is known to have hereditary spherocytosis. The pain is located in the upper abdomen and is episodic in nature, but has become severe today. There has been no change to her bowel habit and no nausea or vomiting. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "This patient has hereditary spherocytosis resulting in chronic haemolysis and gallstone formation. An important differential in a poorly patient with hereditary spherocytosis would be splenic rupture",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 15-year-old girl presents with abdominal pain. She is normally fit and well and currently takes a combined oral contraceptive pill. The patient is accompanied by her mother, who is known to have hereditary spherocytosis. The pain is located in the upper abdomen and is episodic in nature, but has become severe today. There has been no change to her bowel habit and no nausea or vomiting. What is the most likely diagnosis?",
+        "correct_answer": "5",
+        "question_notes": "This patient has hereditary spherocytosis resulting in chronic haemolysis and gallstone formation. An important differential in a poorly patient with hereditary spherocytosis would be splenic rupture",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Hereditary spherocytosis",
+        "body": "Basics<br /><ul><li>most common hereditary haemolytic anaemia in people of northern European descent</li><li>autosomal dominant defect of red blood cell cytoskeleton</li><li>the normal biconcave disc shape is replaced by a sphere-shaped red blood cell</li><li>red blood cell survival reduced as destroyed by the spleen</li></ul><br />Presentation<br /><ul><li>failure to thrive</li><li>jaundice, <span class=\"concept\" data-cid=\"1232\">gallstones</span></li><li>splenomegaly</li><li><span class=\"concept\" data-cid=\"12076\">aplastic crisis precipitated by parvovirus infection</span></li><li>degree of haemolysis variable</li><li>MCHC elevated</li></ul><br />Diagnosis<br /><ul><li>the osmotic fragility test was previously the recommend investigation of choice. However, it is now deemed unreliable and is no longer recommended</li><li>the British Journal of Haematology (BJH) guidelines state that '<i>patients with a family history of HS, typical clinical features and laboratory investigations (spherocytes, raised mean corpuscular  haemoglobin concentration [MCHC], increase in reticulocytes) do not require any additional tests </i></li><li>if the diagnosis is equivocal the BJH recommend the <span class=\"concept\" data-cid=\"11231\">EMA binding</span> test and the cryohaemolysis test</li><li>for atypical presentations electrophoresis analysis of erythrocyte membranes is the method of choice</li></ul><br />Management<br /><ul><li>acute haemolytic crisis:<ul><li><span class=\"concept\" data-cid=\"10602\">treatment is generally supportive</span></li><li>transfusion if necessary</li></ul></li><li>longer term treatment:<ul><li>folate replacement</li><li><span class=\"concept\" data-cid=\"7501\">splenectomy</span></li></ul></li></ul><br />Comparing G6PD deficiency to hereditary spherocytosis:<br /><br /><CENTER><table><tr><td align = 'left' colspan='2'><a data-fancybox class='fancybox' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd905b.png'><img class='ajaximage' src='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd905.png'/></a></td></tr><tr><td valign='top' align='left'></td><td align='right'><a data-fancybox class='fancybox lbmagglasslink' rel='group' href='https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd905b.png'><img src='https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png'/></a></td></tr></table></CENTER><div class='imagetext'>Comparison of G6PD deficiency to hereditary spherocytosis</div><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th></th><th><b>G6PD deficiency</b></th><th><b>Hereditary spherocytosis</b></th></tr></thead><tbody><tr><td><b>Gender</b></td><td>Male (X-linked recessive)</td><td>Male + female (autosomal dominant)</td></tr><tr><td><b>Ethnicity</b></td><td>African + Mediterranean descent</td><td>Northern European descent</td></tr><tr><td><b>Typical history</b></td><td>&#8226; Neonatal jaundice<br /> &#8226; Infection/drugs precipitate haemolysis<br /> &#8226; Gallstones</td><td>&#8226; Neonatal jaundice<br /> &#8226; Chronic symptoms although haemolytic crises may be precipitated by infection<br /> &#8226; Gallstones<br /> &#8226; Splenomegaly is common</td></tr><tr><td><b>Blood film</b></td><td>Heinz bodies</td><td>Spherocytes (round, lack of central pallor)</td></tr><tr><td><b>Diagnostic test</b></td><td>Measure enzyme activity of G6PD</td><td>EMA binding test</td></tr></tbody></table></div>",
+        "notes_hash": "557b255abf1f3fd0931821b8f9a6d077",
+        "knowledge_graph_node_id_link": 1413,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "6420",
+        "up_votes": "100",
+        "down_votes": "161",
+        "column_array": [
+            0,
+            "1714",
+            "605",
+            "1129",
+            "491",
+            "2481",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Committee for Standards in Haematology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1050\" data-linkid=\"1050\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1050\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_1050\" data-linkid=\"1050\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1050\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">7</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2141.2011.08921.x\">2011 Hereditary spherocytosis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8ghppU6wS9E\" data-description=\"Hereditary Spherocytosis (HS) - Pathophysiology\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"580\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8ghppU6wS9E/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8ghppU6wS9E\" data-description=\"Hereditary Spherocytosis (HS) - Pathophysiology\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"580\">Hereditary Spherocytosis (HS) - Pathophysiology</a></td></tr><tr><td><span ><small>PhysioPathoPharmaco - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_989\" data-mediaid=\"989\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_989\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_989\" data-mediaid=\"989\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_989\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_2207",
+        "new_question_id": "2645",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1407",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Intrauterine system",
+            "Condoms",
+            "Combined oral contraceptive pill",
+            "Depo-Provera",
+            "Progesterone only pill",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A women of child bearing age comes into your GP surgery. She wishes to try to conceive for a baby in one years time and does not wish to conceive sooner due to barrister exams she has this year. She ideally wants to fall pregnant soon after her exams. Which of the follow methods of contraception is most associated with delayed return to fertility?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Condoms work as a barrier contraceptive and do not affect ovulation and hence do not delay fertility. <br /><br />The intrauterine system (IUS) works by thickening cervical mucous and in some women may prevent ovulation, however the majority of women still ovulate. After removal of the IUS the majority of women regain fertility immediately. <br /><br />The combined oral contraceptive pill can delay return to normal menstrual cycle in some women but the majority will be able to conceive within a month of stopping. The progesterone only pill is less likely to delay return to normal cycle as it does not contain oestrogen.<br /><br />Because Depo-Provera lasts up to 12 weeks, it can take several months for the body to return to the normal menstrual cycle and hence delay fertility. For this reason, it is the least appropriate method for this woman who wants to return to ovulatory cycles immediately.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A women of child bearing age comes into your GP surgery. She wishes to try to conceive for a baby in one years time and does not wish to conceive sooner due to barrister exams she has this year. She ideally wants to fall pregnant soon after her exams. Which of the follow methods of contraception is most associated with delayed return to fertility?",
+        "correct_answer": "4",
+        "question_notes": "Condoms work as a barrier contraceptive and do not affect ovulation and hence do not delay fertility. <br /><br />The intrauterine system (IUS) works by thickening cervical mucous and in some women may prevent ovulation, however the majority of women still ovulate. After removal of the IUS the majority of women regain fertility immediately. <br /><br />The combined oral contraceptive pill can delay return to normal menstrual cycle in some women but the majority will be able to conceive within a month of stopping. The progesterone only pill is less likely to delay return to normal cycle as it does not contain oestrogen.<br /><br />Because Depo-Provera lasts up to 12 weeks, it can take several months for the body to return to the normal menstrual cycle and hence delay fertility. For this reason, it is the least appropriate method for this woman who wants to return to ovulatory cycles immediately.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Injectable contraceptives",
+        "body": "Depo Provera is the main injectable contraceptive used in the UK*. It contains medroxyprogesterone acetate 150mg. It is given via in intramuscular injection every 12 weeks. It can however be given up to 14 weeks after the last dose without the need for extra precautions**<br /><br />The main method of action is by inhibiting ovulation. Secondary effects include cervical mucus thickening and endometrial thinning.<br /><br />Disadvantages include the fact that the injection cannot be reversed once given. There is also a potential delayed return to fertility (maybe up to 12 months)<br /><br />Adverse effects<br /><ul><li>irregular bleeding</li><li><span class=\"concept\" data-cid=\"3570\">weight gain</span></li><li>may potentially increased risk of osteoporosis: should only be used in adolescents if no other method of contraception is suitable</li><li>not quickly reversible and fertility may return after a varying time</li></ul><br />Contraindications<br /><ul><li><span class=\"concept\" data-cid=\"10944\">breast cancer</span>: current breast cancer is UKMEC 4, past breast cancer is UKMEC 3</li></ul><br />*Noristerat, the other injectable contraceptive licensed in the UK, is rarely used in clinical practice. It is given every 8 weeks<br /><br />**the BNF gives different advice, stating a pregnancy test should be done if the interval is greater than 12 weeks and 5 days - this is however not commonly adhered to in the family planning community",
+        "notes_hash": "a77edcce092919396210c2f8115ea966",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5275",
+        "up_votes": "23",
+        "down_votes": "7",
+        "column_array": [
+            0,
+            "505",
+            "48",
+            "350",
+            "4233",
+            "139",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Faculty of Sexual and Reproductive Healthcare</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_240\" data-linkid=\"240\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_240\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">7</span><button type=\"button\" style=\"\" id=\"link_dislike_240\" data-linkid=\"240\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_240\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">12</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.fsrh.org/standards-and-guidance/documents/cec-ceu-guidance-injectables-dec-2014/\">Progestogen-only InjectableContraception</a></td></tr></table>",
+        "media": "",
+        "comment_count": 4,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_595",
+        "new_question_id": "10498",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "0",
+        "notes_id_link": "1_830",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Diarrhoea",
+            "Heartburn",
+            "Chest pain",
+            "Sore throat",
+            "Visual disturbance",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 66-year-old female starts colchicine to try to settle the symptoms of gout which are not being controlled with diclofenac. What side-effect is it most important to warn her about?",
+            "",
+            ""
+        ],
+        "answers": [
+            "1",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer is <b>Diarrhoea</b>. Colchicine, an anti-inflammatory drug used for the treatment of gout, is known to cause gastrointestinal side effects. The most common and significant of these is diarrhoea, which can occur in up to 80% of patients taking the medication. It can be severe enough to lead to discontinuation of the drug. Therefore, it is crucial that patients starting on colchicine are warned about this potential side effect.<br /><br />Next, we have <b>Heartburn</b>. While heartburn is not a commonly reported side effect of colchicine, it could potentially occur due to its gastrointestinal effects. However, it's less common and less significant than diarrhoea.<br /><br /><b>Chest pain</b> is another option but it is not a typical side effect of colchicine. Chest pain could indicate serious conditions such as myocardial infarction or angina which are not associated with colchicine use. If a patient taking colchicine reports chest pain, other causes should be explored.<br /><br />The fourth option is <b>Sore throat</b>. Although a sore throat isn't a common side effect of colchicine, any new onset sore throat should be evaluated independently as it might indicate an infection rather than being a side effect from medication.<br /><br />Finally, we have <b>Visual disturbance</b>. This isn't typically associated with colchicine use either. Visual disturbances can be caused by many different conditions and medications but aren't usually seen with colchicine.<br /><br />In conclusion, while all these symptoms could potentially manifest in a patient taking any medication including colchicine due to individual variations and co-existing conditions or medications, diarrhoea remains the most important side effect to warn about when initiating therapy with this drug.<br />",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 66-year-old female starts colchicine to try to settle the symptoms of gout which are not being controlled with diclofenac. What side-effect is it most important to warn her about?",
+        "correct_answer": "1",
+        "question_notes": "The correct answer is <b>Diarrhoea</b>. Colchicine, an anti-inflammatory drug used for the treatment of gout, is known to cause gastrointestinal side effects. The most common and significant of these is diarrhoea, which can occur in up to 80% of patients taking the medication. It can be severe enough to lead to discontinuation of the drug. Therefore, it is crucial that patients starting on colchicine are warned about this potential side effect.<br /><br />Next, we have <b>Heartburn</b>. While heartburn is not a commonly reported side effect of colchicine, it could potentially occur due to its gastrointestinal effects. However, it's less common and less significant than diarrhoea.<br /><br /><b>Chest pain</b> is another option but it is not a typical side effect of colchicine. Chest pain could indicate serious conditions such as myocardial infarction or angina which are not associated with colchicine use. If a patient taking colchicine reports chest pain, other causes should be explored.<br /><br />The fourth option is <b>Sore throat</b>. Although a sore throat isn't a common side effect of colchicine, any new onset sore throat should be evaluated independently as it might indicate an infection rather than being a side effect from medication.<br /><br />Finally, we have <b>Visual disturbance</b>. This isn't typically associated with colchicine use either. Visual disturbances can be caused by many different conditions and medications but aren't usually seen with colchicine.<br /><br />In conclusion, while all these symptoms could potentially manifest in a patient taking any medication including colchicine due to individual variations and co-existing conditions or medications, diarrhoea remains the most important side effect to warn about when initiating therapy with this drug.<br />",
+        "answer_order": "1",
+        "answer": "1",
+        "title": "Gout: management",
+        "body": "Gout is a form of microcrystal synovitis caused by the deposition of monosodium urate monohydrate in the synovium. It is caused by chronic hyperuricaemia (uric acid > 450 \u00b5mol/l)<br /><br />Acute management<br /><ul><li><span class=\"concept\" data-cid=\"12332\">NSAIDs or colchicine are first-line</span><ul><li>the maximum dose of NSAID should be prescribed until 1-2 days after the symptoms have settled</li><li>gastroprotection (e.g. a proton pump inhibitor) may also be indicated</li></ul></li><li><span class=\"concept\" data-cid=\"2660\">colchicine</span><ul><li>inhibits microtubule polymerization by binding to tubulin, interfering with mitosis. Also inhibits neutrophil motility and activity</li><li>has a slower onset of action</li><li><span class=\"concept\" data-cid=\"12037\">may be used with caution in renal impairment</span>: the BNF advises to reduce the dose if eGFR is 10-50 ml/min and to avoid if eGFR < 10 ml/min <a href='https://bnf.nice.org.uk/drugs/colchicine/#renal-impairment' title='BNF - Colchicine' target='_blank' class='badge rounded-pill text-bg-light deeplink'>BNF</a> </li><li>the main side-effect is <span class=\"concept\" data-cid=\"2777\">diarrhoea</span></li></ul></li><li><span class=\"concept\" data-cid=\"4451\">oral steroids</span> may be considered if NSAIDs and colchicine are contraindicated. <ul><li>a dose of prednisolone 15mg/day is usually used</li></ul></li><li>another option is intra-articular steroid injection</li><li><span class=\"concept\" data-cid=\"10248\">if the patient is already taking allopurinol it should be continued</span></li></ul><br />Indications for urate-lowering therapy (ULT)<br /><ul><li>the British Society of Rheumatology Guidelines now advocate offering <span class=\"concept\" data-cid=\"5124\">urate-lowering therapy to all patients after their <b>first attack of gout</b></span></li><li>ULT is <i>particularly</i> recommended if:<ul><li>>= 2 attacks in 12 months</li><li>tophi</li><li>renal disease</li><li>uric acid renal stones</li><li>prophylaxis if on cytotoxics or diuretics</li></ul></li></ul><br />Urate-lowering therapy<br /><ul><li>it has traditionally been taught that urate-lowering therapy should not be started until 2 weeks after an acute attack, as starting too early may precipitate a further attack. The evidence base to support this however looks weak</li><li>in 2017 the BSR updated their guidelines. They still support a delay in starting urate-lowering therapy because it is better for a patient to make long-term drug decisions whilst not in pain<ul><li>the key passage is: <i>'Commencement of ULT is best delayed until inflammation has settled as ULT is better discussed when the patient is not in pain'</i></li></ul></li><li>allopurinol is first-line<ul><li>initial dose of 100 mg od, with the dose titrated every few weeks to aim for a serum uric acid of < 360 \u00b5mol/l  #link31 </li><li>a lower target uric acid level below 300 \u00b5mol/L may be considered for patients who have tophi, chronic gouty arthritis or continue to have ongoing frequent flares despite having a uric acid below 360 \u00b5mol/L</li><li>a lower initial dose of allopurinol should be given if the patient has a reduced eGFR</li><li><span class=\"concept\" data-cid=\"884\">colchicine cover</span> should be considered when starting allopurinol. <span class=\"concept\" data-cid=\"884\">NSAIDs</span> can be used if colchicine cannot be tolerated. The BSR guidelines suggest this may need to be continued for 6 months</li></ul></li><li>the second-line agent when allopurinol is not tolerated or ineffective is febuxostat (also a xanthine oxidase inhibitor)</li><li>in refractory cases other agents may be tried:<ul><li>uricase (urate oxidase) is an enzyme that catalyzes the conversion of urate to the degradation product allantoin. It is present in certain mammals but not humans</li><li>in patients who have persistent symptomatic and severe gout despite the adequate use of urate-lowering therapy, pegloticase (polyethylene glycol modified mammalian uricase) can achieve rapid control of hyperuricemia. It is given as an infusion once every two weeks</li></ul></li></ul><br />Lifestyle modifications<br /><ul><li>reduce alcohol intake and avoid during an acute attack</li><li>lose weight if obese</li><li>avoid food high in purines e.g. Liver, kidneys, seafood, oily fish (mackerel, sardines) and yeast products</li></ul><br />Other points<br /><ul><li>consideration should be given to stopping precipitating drugs (such as <span class=\"concept\" data-cid=\"9134\">thiazides</span>)</li><li>losartan has a specific uricosuric action and may be particularly suitable for the many patients who have coexistent hypertension</li><li>increased vitamin C intake (either supplements or through normal diet) may also decrease serum uric acid levels</li></ul>",
+        "notes_hash": "8f921dc620774b7ae2be969c83b8bb65",
+        "knowledge_graph_node_id_link": 1099,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "4438",
+        "up_votes": "19",
+        "down_votes": "26",
+        "column_array": [
+            0,
+            "2385",
+            "1263",
+            "157",
+            "273",
+            "360",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Society of Rheumatology</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1351\" data-linkid=\"1351\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1351\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_1351\" data-linkid=\"1351\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1351\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">14</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://academic.oup.com/rheumatology/article/56/7/1056/3855178\">2017 Gout guidelines</a></td></tr></table><br><br><table style='width:100%'><tr><td>BNF</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2099\" data-linkid=\"2099\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2099\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">8</span><button type=\"button\" style=\"\" id=\"link_dislike_2099\" data-linkid=\"2099\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2099\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://bnf.nice.org.uk/drugs/colchicine/\">Colchicine</a></td></tr></table><br><br><table style='width:100%'><tr><td>Genetics home reference</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_48\" data-linkid=\"48\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_48\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_48\" data-linkid=\"48\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_48\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://ghr.nlm.nih.gov/condition/lesch-nyhan-syndrome\">Lesch Nyhan Syndrome</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2113\" data-linkid=\"2113\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2113\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">11</span><button type=\"button\" style=\"\" id=\"link_dislike_2113\" data-linkid=\"2113\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2113\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">9</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng219/chapter/Recommendations\">2022 Gout: diagnosis and management</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dEQ-SOoVLz8\" data-description=\"Gout\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1152\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/dEQ-SOoVLz8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/dEQ-SOoVLz8\" data-description=\"Gout\" data-upvotes=\"10\" data-downvotes=\"3\" data-media=\"1152\">Gout</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1994\" data-mediaid=\"1994\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1994\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"media_dislike_1994\" data-mediaid=\"1994\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1994\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bznoU5bke4U\" data-description=\"Gout - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"9\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/bznoU5bke4U/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/bznoU5bke4U\" data-description=\"Gout - causes, symptoms, diagnosis, treatment, pathology\" data-upvotes=\"3\" data-downvotes=\"3\" data-media=\"9\">Gout - causes, symptoms, diagnosis, treatment, pathology</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_26\" data-mediaid=\"26\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_26\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">3</span><button type=\"button\" style=\"\" id=\"media_dislike_26\" data-mediaid=\"26\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_26\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">3</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fXZP9tzRt6s\" data-description=\"Gout\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1473\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/fXZP9tzRt6s/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/fXZP9tzRt6s\" data-description=\"Gout\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1473\">Gout</a></td></tr><tr><td><span ><small>Rhesus Medicine - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2600\" data-mediaid=\"2600\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2600\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2600\" data-mediaid=\"2600\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2600\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 4,
+        "concepts_for_notes": {
+            "884": {
+                "concept_text": "NSAID or colchicine 'cover' should be used when starting allopurinol",
+                "concept_percentile": "81"
+            },
+            "5124": {
+                "concept_text": "Offer allopurinol to all patients after their first attack of gout ",
+                "concept_percentile": "86"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_557",
+        "new_question_id": "1782",
+        "question_type": "0",
+        "category": "12",
+        "concept_id_link": "222",
+        "notes_id_link": "1_1215",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Inhaled corticosteroids",
+            "Prophylactic antibiotics",
+            "Surgery",
+            "Postural drainage",
+            "Mucolytic therapy",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 62-year-old man with a history of recurrent lower respiratory tract infections is diagnosed as having bilateral bronchiectasis following a high resolution CT scan. Which one of the following is most important in the long term control of his symptoms?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "The correct answer for long term control of symptoms in a patient with bilateral bronchiectasis is <b>postural drainage</b>. Postural drainage is a technique that uses gravity to help clear mucus from the lungs by positioning the patient so that the affected lung segments are above the trachea. This facilitates mucus clearance and helps reduce the frequency of infections, ultimately improving the patient's quality of life.<br /><br />In contrast, <b>inhaled corticosteroids</b> are not typically recommended for bronchiectasis as they have limited evidence in reducing exacerbations or improving lung function in non-cystic fibrosis bronchiectasis. Inhaled corticosteroids may be considered in patients with coexisting asthma or COPD but should not be used as monotherapy for bronchiectasis.<br /><br /><b>Prophylactic antibiotics</b> can be helpful in some cases of bronchiectasis, particularly when there is evidence of chronic infection with specific organisms such as <i>Pseudomonas aeruginosa</i>. However, their use should be guided by sputum culture results and tailored to individual patients. Long-term antibiotic therapy has potential side effects and risks, including antibiotic resistance, which makes it less desirable than postural drainage as a first-line approach for symptom control.<br /><br /><b>Surgery</b> is generally reserved for patients who have localized disease that is unresponsive to medical therapy or those with severe complications such as life-threatening hemoptysis. It would not be considered the most important intervention for long-term symptom control in a patient with bilateral bronchiectasis.<br /><br />Lastly, <b>mucolytic therapy</b>, which involves using medications to break down thick mucus secretions, can provide symptomatic relief for some patients with bronchiectasis. However, its overall benefit on long-term outcomes remains uncertain and it is not considered the primary method of managing symptoms in bronchiectasis.<br /><br />In summary, postural drainage is the most important intervention for long-term symptom control in a patient with bilateral bronchiectasis. Other options such as inhaled corticosteroids, prophylactic antibiotics, surgery, and mucolytic therapy may be considered based on individual patient factors and specific clinical scenarios but are not the primary method of managing symptoms.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 62-year-old man with a history of recurrent lower respiratory tract infections is diagnosed as having bilateral bronchiectasis following a high resolution CT scan. Which one of the following is most important in the long term control of his symptoms?",
+        "correct_answer": "4",
+        "question_notes": "The correct answer for long term control of symptoms in a patient with bilateral bronchiectasis is <b>postural drainage</b>. Postural drainage is a technique that uses gravity to help clear mucus from the lungs by positioning the patient so that the affected lung segments are above the trachea. This facilitates mucus clearance and helps reduce the frequency of infections, ultimately improving the patient's quality of life.<br /><br />In contrast, <b>inhaled corticosteroids</b> are not typically recommended for bronchiectasis as they have limited evidence in reducing exacerbations or improving lung function in non-cystic fibrosis bronchiectasis. Inhaled corticosteroids may be considered in patients with coexisting asthma or COPD but should not be used as monotherapy for bronchiectasis.<br /><br /><b>Prophylactic antibiotics</b> can be helpful in some cases of bronchiectasis, particularly when there is evidence of chronic infection with specific organisms such as <i>Pseudomonas aeruginosa</i>. However, their use should be guided by sputum culture results and tailored to individual patients. Long-term antibiotic therapy has potential side effects and risks, including antibiotic resistance, which makes it less desirable than postural drainage as a first-line approach for symptom control.<br /><br /><b>Surgery</b> is generally reserved for patients who have localized disease that is unresponsive to medical therapy or those with severe complications such as life-threatening hemoptysis. It would not be considered the most important intervention for long-term symptom control in a patient with bilateral bronchiectasis.<br /><br />Lastly, <b>mucolytic therapy</b>, which involves using medications to break down thick mucus secretions, can provide symptomatic relief for some patients with bronchiectasis. However, its overall benefit on long-term outcomes remains uncertain and it is not considered the primary method of managing symptoms in bronchiectasis.<br /><br />In summary, postural drainage is the most important intervention for long-term symptom control in a patient with bilateral bronchiectasis. Other options such as inhaled corticosteroids, prophylactic antibiotics, surgery, and mucolytic therapy may be considered based on individual patient factors and specific clinical scenarios but are not the primary method of managing symptoms.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Bronchiectasis: management",
+        "body": "Bronchiectasis describes a permanent dilatation of the airways secondary to chronic infection or inflammation.  After assessing for treatable causes (e.g. immune deficiency) management is as follows:<br /><ul><li>physical training (e.g. inspiratory muscle training) - has a good evidence base for patients with non-cystic fibrosis bronchiectasis</li><li>postural drainage</li><li>antibiotics for exacerbations + long-term rotating antibiotics in severe cases</li><li>bronchodilators in selected cases</li><li>immunisations</li><li>surgery in selected cases (e.g. Localised disease)</li></ul><br />Most common organisms isolated from patients with bronchiectasis:<br /><ul><li><i>Haemophilus influenzae</i> (most common)</li><li><i><i>Pseudomonas</i> aeruginosa</i></li><li>Klebsiella spp.</li><li><i><i>Streptococcus</i> pneumoniae</i></li></ul>",
+        "notes_hash": "df0d1d09269dc1f32770b0982dc956b0",
+        "knowledge_graph_node_id_link": 1359,
+        "concept": "Symptom control in non-CF bronchiectasis - inspiratory muscle training + postural drainage",
+        "concept_percentile": "66",
+        "concept_colour": "rgb(173,255,0)",
+        "number_attempts": "6659",
+        "up_votes": "36",
+        "down_votes": "72",
+        "column_array": [
+            0,
+            "818",
+            "1847",
+            "297",
+            "1907",
+            "1790",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>British Thoracic Society</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_312\" data-linkid=\"312\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_312\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_312\" data-linkid=\"312\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_312\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.brit-thoracic.org.uk/document-library/guidelines/bronchiectasis/bts-guideline-for-bronchiectasis-in-adults/\">2018 Bronchiectasis guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/U9QdYineNao\" data-description=\"Bronchiectasis crackles - REQUIRES HEADPHONES\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"193\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/U9QdYineNao/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/U9QdYineNao\" data-description=\"Bronchiectasis crackles - REQUIRES HEADPHONES\" data-upvotes=\"5\" data-downvotes=\"0\" data-media=\"193\">Bronchiectasis crackles - REQUIRES HEADPHONES</a></td></tr><tr><td><span ><small>Thinklabs - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_322\" data-mediaid=\"322\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_322\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_322\" data-mediaid=\"322\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_322\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0zTWh71QXwI\" data-description=\"Bronchiectasis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1504\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/0zTWh71QXwI/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/0zTWh71QXwI\" data-description=\"Bronchiectasis\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1504\">Bronchiectasis</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2649\" data-mediaid=\"2649\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2649\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2649\" data-mediaid=\"2649\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2649\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8vaU799Xsio\" data-description=\"Bronchiectasis - causes, pathophysiology, signs and symptoms, investigations and treatment\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1201\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/8vaU799Xsio/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/8vaU799Xsio\" data-description=\"Bronchiectasis - causes, pathophysiology, signs and symptoms, investigations and treatment\" data-upvotes=\"0\" data-downvotes=\"1\" data-media=\"1201\">Bronchiectasis - causes, pathophysiology, signs and symptoms, investigations and treatment</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2108\" data-mediaid=\"2108\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2108\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">0</span><button type=\"button\" style=\"\" id=\"media_dislike_2108\" data-mediaid=\"2108\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2108\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "4564_B_54",
+        "new_question_id": "15547",
+        "question_type": "0",
+        "category": "6",
+        "concept_id_link": "3879",
+        "notes_id_link": "9_680",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Increased body mass index, poor diet and smoking",
+            "Inadequate calorie intake, menstrual irregularities and increased or new exercise intensity",
+            "Inadequate calorie intake, combined oral contraceptive use and intense activity",
+            "Increased body mass index, menstrual irregularities and muscle strengthening exercise",
+            "Inadequate calorie intake, combined oral contraceptive use and cardiovascular exercise",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 19-year-old gymnast has come to see you after being diagnosed with a stress fracture of the right femoral neck. She is wondering what she can do to prevent her risk of future stress fractures.<br /><br />Which of the following most accurately describe the risk factors for the development of stress fractures in athletic females?",
+            "",
+            ""
+        ],
+        "answers": [
+            "2",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "This describes the female athlete triad of excessive exercise associated with reduced bone mineral density, menstrual irregularities/ amenorrhoea and eating disorder or inadequate calorie intake for expenditure.  This combination increases the risk of stress fractures, particularly when starting a new sport or increasing training for example in preparation for a big event. When seeing women with a history of stress fracture it is important to discuss their eating habits and menstrual cycle as this information may not be offered.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 19-year-old gymnast has come to see you after being diagnosed with a stress fracture of the right femoral neck. She is wondering what she can do to prevent her risk of future stress fractures.<br /><br />Which of the following most accurately describe the risk factors for the development of stress fractures in athletic females?",
+        "correct_answer": "2",
+        "question_notes": "This describes the female athlete triad of excessive exercise associated with reduced bone mineral density, menstrual irregularities/ amenorrhoea and eating disorder or inadequate calorie intake for expenditure.  This combination increases the risk of stress fractures, particularly when starting a new sport or increasing training for example in preparation for a big event. When seeing women with a history of stress fracture it is important to discuss their eating habits and menstrual cycle as this information may not be offered.",
+        "answer_order": "2",
+        "answer": "2",
+        "title": "Stress fractures",
+        "body": "Repetitive activity and loading of normal bone may result in small hairline fractures. Whilst these may be painful they are seldom displaced. Surrounding soft tissue injury is unusual. They may present late following the injury, in which case callus formation may be identified on radiographs. Such cases may not require formal immobilisation, injuries associated with severe pain and presenting at an earlier stage may benefit from immobilisation tailored to the site of injury.",
+        "notes_hash": "b1a78fd47c45eea5bd18d30440f65fa2",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "Women with low calorie intake or menstrual irregularities who have started a new sport or increased their training are at particular risk of stress fractures",
+        "concept_percentile": "64",
+        "concept_colour": "rgb(183,255,0)",
+        "number_attempts": "4837",
+        "up_votes": "33",
+        "down_votes": "53",
+        "column_array": [
+            0,
+            "1100",
+            "2285",
+            "1199",
+            "143",
+            "110",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "",
+        "comment_count": 5,
+        "concepts_for_notes": [],
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1311_B_2115",
+        "new_question_id": "4164",
+        "question_type": "0",
+        "category": "11",
+        "concept_id_link": "0",
+        "notes_id_link": "1_1699",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Oral methyldopa",
+            "IV magnesium sulphate",
+            "Oral labetalol",
+            "Oral lisinopril",
+            "Oral nifedipine",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 34-year-old primiparous woman is 33+6 weeks pregnant. During a recent antenatal visit she had a blood pressure of 152/101 mmHg. She reports some swelling of her hands and feet but no other symptoms. Urinalysis is negative for protein. She has a past history of asthma for which she uses a salbutamol inhaler PRN and depression but she stopped her antidepressant medication when she became pregnant. What is the best management? <br />",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "",
+            ""
+        ],
+        "notes": [
+            "Gestational hypertension is new onset hypertension diagnosed after 20 weeks without significant proteinuria. This woman has moderate gestational hypertension as her systolic blood pressure is between 150-159 mmHg and her diastolic blood pressure is between 100-109 mmHg.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Hypertension</th><th>Systolic</th><th>Diastolic</th></tr></thead><tbody><tr><td>Mild</td><td>140-149 mmHg</td><td>90-99 mmHg</td></tr><tr><td>Moderate</td><td>150-159 mmHg</td><td>100-109 mmHg</td></tr><tr><td>Severe</td><td>>160 mmHg</td><td>>110 mmHg</td></tr></tbody></table></div><br />Moderate gestational hypertension does not need to be managed in a hospital setting and patients are normally prescribed oral labetalol. This woman has a history of asthma so a beta blocker is contraindicated. NICE guidelines recommend nifedipine and methyldopa as alternatives to labetalol. Methyldopa is contraindicated in depression. The best option for treatment for this woman's gestational hypertension is oral nifedipine which is a calcium channel blocker. <br /><br />IV magnesium sulphate is indicated in eclampsia. Lisinopril is an ACE inhibitor and is contraindicated in pregnancy.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 34-year-old primiparous woman is 33+6 weeks pregnant. During a recent antenatal visit she had a blood pressure of 152/101 mmHg. She reports some swelling of her hands and feet but no other symptoms. Urinalysis is negative for protein. She has a past history of asthma for which she uses a salbutamol inhaler PRN and depression but she stopped her antidepressant medication when she became pregnant. What is the best management? <br />",
+        "correct_answer": "5",
+        "question_notes": "Gestational hypertension is new onset hypertension diagnosed after 20 weeks without significant proteinuria. This woman has moderate gestational hypertension as her systolic blood pressure is between 150-159 mmHg and her diastolic blood pressure is between 100-109 mmHg.<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Hypertension</th><th>Systolic</th><th>Diastolic</th></tr></thead><tbody><tr><td>Mild</td><td>140-149 mmHg</td><td>90-99 mmHg</td></tr><tr><td>Moderate</td><td>150-159 mmHg</td><td>100-109 mmHg</td></tr><tr><td>Severe</td><td>>160 mmHg</td><td>>110 mmHg</td></tr></tbody></table></div><br />Moderate gestational hypertension does not need to be managed in a hospital setting and patients are normally prescribed oral labetalol. This woman has a history of asthma so a beta blocker is contraindicated. NICE guidelines recommend nifedipine and methyldopa as alternatives to labetalol. Methyldopa is contraindicated in depression. The best option for treatment for this woman's gestational hypertension is oral nifedipine which is a calcium channel blocker. <br /><br />IV magnesium sulphate is indicated in eclampsia. Lisinopril is an ACE inhibitor and is contraindicated in pregnancy.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "Hypertension in pregnancy",
+        "body": "It's useful to remember that in normal pregnancy:<br /><ul><li>blood pressure usually falls in the first trimester (particularly the diastolic), and continues to fall until 20-24 weeks</li><li>after this time the blood pressure usually increases to pre-pregnancy levels by term</li></ul><br />NICE published guidance in 2010 on the management of hypertension in pregnancy. They also made recommendations on reducing the risk of hypertensive disorders developing in the first place. Women who are at high risk of developing pre-eclampsia should take aspirin 75mg od from 12 weeks until the birth of the baby. <br /><br />Hypertension in pregnancy in usually defined as:<br /><ul><li>systolic > 140 mmHg or diastolic > 90 mmHg</li><li>or an increase above booking readings of > 30 mmHg systolic or > 15 mmHg diastolic</li></ul><br />After establishing that the patient is hypertensive they should be categorised into one of the following groups<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th><b>Pre-existing hypertension</b></th><th><b>Pregnancy-induced hypertension <br />(PIH, also known as gestational hypertension)</b></th><th><b>Pre-eclampsia</b></th></tr></thead><tbody><tr><td>A history of hypertension  before pregnancy or an elevated blood pressure > 140/90 mmHg before 20 weeks gestation<br /><br />No proteinuria, no oedema <br /><br />Occurs in 3-5% of pregnancies and is more common in older women<br /><br />If a pregnant woman takes an <span class=\"concept\" data-cid=\"11954\">ACE inhibitor or angiotensin II receptor blocker (ARB) for pre-existing hypertension this should be stopped immediately</span> and alternative antihypertensives started (e.g. labetalol) whilst awaiting specialist review<br /></td><td>Hypertension (as defined above) occurring in the second half of pregnancy (i.e. after 20 weeks)<br /><br />No proteinuria, no oedema <br /><br />Occurs in around 5-7% of pregnancies<br /><br />Resolves following birth (typically after one month). Women with PIH are at increased risk of future pre-eclampsia or hypertension later in life</td><td>Pregnancy-induced hypertension in association with proteinuria (> 0.3g / 24 hours)<br /><br />Oedema may occur but is now less commonly used as a criteria<br /><br />Occurs in around 5% of pregnancies</td></tr></tbody></table></div><br />Management<br /><ul><li>oral labetalol is now first-line following the 2010 NICE guidelines</li><li>oral nifedipine (e.g. if asthmatic) and hydralazine</li></ul>",
+        "notes_hash": "e9168fa437e490997b3f92465e8fb2a5",
+        "knowledge_graph_node_id_link": 0,
+        "concept": "",
+        "concept_percentile": 0,
+        "concept_colour": "",
+        "number_attempts": "5066",
+        "up_votes": "46",
+        "down_votes": "10",
+        "column_array": [
+            0,
+            "438",
+            "133",
+            "1633",
+            "30",
+            "2832",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>Royal College of Physicians</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_619\" data-linkid=\"619\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_619\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_619\" data-linkid=\"619\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_619\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">8</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.rcpjournals.org/content/clinmedicine/13/1/57\">2013 Renal disease and hypertension in pregnancy</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_697\" data-linkid=\"697\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_697\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">12</span><button type=\"button\" style=\"\" id=\"link_dislike_697\" data-linkid=\"697\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_697\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">6</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng133/chapter/Recommendations\">2019 Hypertension in pregnancy: diagnosis and management</a></td></tr></table><br><br><table style='width:100%'><tr><td>New England Journal of Medicine</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_1282\" data-linkid=\"1282\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_1282\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">10</span><button type=\"button\" style=\"\" id=\"link_dislike_1282\" data-linkid=\"1282\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_1282\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">5</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://dx.doi.org/10.1056/NEJMoa1704559\">Aspirin versus Placebo in Pregnancies at High Risk for Preterm Preeclampsia: Double-blinded RCT</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"216\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Preeclampsia_%26_eclampsia.webm\" data-description=\"Preeclampsia &amp; eclampsia\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"216\">Preeclampsia &amp; eclampsia</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_485\" data-mediaid=\"485\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_485\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_485\" data-mediaid=\"485\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_485\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"354\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/yta5RRJ-Mg8/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/yta5RRJ-Mg8\" data-description=\"Pre Eclampsia - Overview\" data-upvotes=\"1\" data-downvotes=\"2\" data-media=\"354\">Pre Eclampsia - Overview</a></td></tr><tr><td><span ><small>Armando Hasudungan - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_600\" data-mediaid=\"600\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_600\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">1</span><button type=\"button\" style=\"\" id=\"media_dislike_600\" data-mediaid=\"600\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_600\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 5,
+        "concepts_for_notes": {
+            "11954": {
+                "concept_text": "If a pregnant woman takes an ACE inhibitor or angiotensin II receptor blocker (ARB) for pre-existing hypertension this should be stopped immediately and alternative antihypertensives started (e.g. labetalol) whilst awaiting specialist review",
+                "concept_percentile": "62"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_1960",
+        "new_question_id": "6224",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "2983",
+        "notes_id_link": "1_2016",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Pancreatic malignancy",
+            "Gallbladder malignancy",
+            "Acute cholecystitis",
+            "Ascending cholangitis",
+            "Gallstone ileus",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 52 year old man presents to the emergency department with acute abdominal pain and feeling unwell. He is normally fit and well and enjoys long distance running. His past medical history includes a broken finger from an old cricket injury and gallstones that he has never been troubled by. On examination he is noted to have icteric sclera. His heart rate is 106 bpm with a blood pressure of 125/85mmHg. His temperature is 38.1\u00baC. There is marked rebound tenderness and guarding in the right upper quadrant. Bowel sounds are quiet. What is the most likely diagnosis?",
+            "",
+            ""
+        ],
+        "answers": [
+            "4",
+            "",
+            ""
+        ],
+        "notes": [
+            "Buried in this vignette is the fact that is man has right upper quadrant pain, fever and jaundice - Charcots triad, suggestive of ascending cholangitis. This is caused by bacterial infection of the biliary tree as a result of biliary stasis from obstruction (in this case most likely due to the known gallstones). Treatment is with appropriate resuscitation, IV antibiotics and biliary drainage.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 52 year old man presents to the emergency department with acute abdominal pain and feeling unwell. He is normally fit and well and enjoys long distance running. His past medical history includes a broken finger from an old cricket injury and gallstones that he has never been troubled by. On examination he is noted to have icteric sclera. His heart rate is 106 bpm with a blood pressure of 125/85mmHg. His temperature is 38.1\u00baC. There is marked rebound tenderness and guarding in the right upper quadrant. Bowel sounds are quiet. What is the most likely diagnosis?",
+        "correct_answer": "4",
+        "question_notes": "Buried in this vignette is the fact that is man has right upper quadrant pain, fever and jaundice - Charcots triad, suggestive of ascending cholangitis. This is caused by bacterial infection of the biliary tree as a result of biliary stasis from obstruction (in this case most likely due to the known gallstones). Treatment is with appropriate resuscitation, IV antibiotics and biliary drainage.",
+        "answer_order": "4",
+        "answer": "4",
+        "title": "Ascending cholangitis",
+        "body": "Ascending cholangitis is a bacterial infection (typically <span class=\"concept\" data-cid=\"2102\"><i>E. coli</i></span>) of the biliary tree. The most common predisposing factor is gallstones.<br /><br /><span class=\"concept\" data-cid=\"2983\">Charcot's triad</span> of <span class=\"concept\" data-cid=\"12444\">right upper quadrant (RUQ) pain, fever and jaundice</span> occurs in about 20-50% of patients<br /><ul><li>fever is the most common feature, seen in 90% of patients</li><li>RUQ pain 70%</li><li>jaundice 60%</li><li><span class=\"concept\" data-cid=\"4405\">hypotension and confusion</span> are also common (the additional 2 factors in addition to the 3 above make <span class=\"concept\" data-cid=\"4405\">Reynolds' pentad</span>)</li></ul><br />Other features<br /><ul><li><span class=\"concept\" data-cid=\"9302\">raised inflammatory markers</span></li></ul><br />Investigation<br /><ul><li><span class=\"concept\" data-cid=\"6002\">ultrasound</span> is generally used first-line in suspected cases to look for bile duct dilation and bile duct stones</li></ul><br />Management<br /><ul><li>intravenous antibiotics</li><li><span class=\"concept\" data-cid=\"11253\">endoscopic retrograde cholangiopancreatography (ERCP)</span> after 24-48 hours to relieve any obstruction</li></ul>",
+        "notes_hash": "3e4b8ea9b304eaaaa7bd1a21088a6522",
+        "knowledge_graph_node_id_link": 1033,
+        "concept": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+        "concept_percentile": "50",
+        "concept_colour": "rgb(254,255,0)",
+        "number_attempts": "7782",
+        "up_votes": "45",
+        "down_votes": "36",
+        "column_array": [
+            0,
+            "55",
+            "31",
+            "985",
+            "5895",
+            "816",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/ZxdG-A_H_ZY/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/ZxdG-A_H_ZY\" data-description=\"Understanding Acute Cholangitis (Ascending Cholangitis)\" data-upvotes=\"5\" data-downvotes=\"1\" data-media=\"1432\">Understanding Acute Cholangitis (Ascending Cholangitis)</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2528\" data-mediaid=\"2528\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2528\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">5</span><button type=\"button\" style=\"\" id=\"media_dislike_2528\" data-mediaid=\"2528\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2528\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">1</span></td></tr><tr><td>&nbsp;</td></tr><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/css/images/osmosis.png\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://upload.wikimedia.org/wikipedia/commons/6/6e/Ascending_cholangitis.webm\" data-description=\"Ascending cholangitis\" data-upvotes=\"6\" data-downvotes=\"2\" data-media=\"975\">Ascending cholangitis</a></td></tr><tr><td><span ><small>Osmosis - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_1691\" data-mediaid=\"1691\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_1691\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">6</span><button type=\"button\" style=\"\" id=\"media_dislike_1691\" data-mediaid=\"1691\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_1691\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">2</span></td></tr></table>",
+        "comment_count": 7,
+        "concepts_for_notes": {
+            "2983": {
+                "concept_text": "Charcot's cholangitis triad: fever, jaundice and right upper quadrant pain",
+                "concept_percentile": "50"
+            },
+            "9302": {
+                "concept_text": "RUQ pain with raised inflammatory markers in a patient with a history of gallstones points to acute cholecystitis or cholangitis rather than biliary colic",
+                "concept_percentile": "56"
+            },
+            "11253": {
+                "concept_text": "The majority of patients diagnosed with ascending cholangitis will undergo ERCP after 24-48 hours to relieve any obstruction",
+                "concept_percentile": "99"
+            },
+            "12444": {
+                "concept_text": "Right upper quadrant pain, fever and jaundice --> ?ascending cholangitis",
+                "concept_percentile": "100"
+            }
+        },
+        "optimisation_reason": ""
+    },
+    {
+        "question_id": "1_B_615",
+        "new_question_id": "4465",
+        "question_type": "0",
+        "category": "4",
+        "concept_id_link": "987",
+        "notes_id_link": "1_175",
+        "theme": "",
+        "instruction": "",
+        "options": [
+            "",
+            "Heartburn or indigestion",
+            "Jaundice",
+            "Sore throat, bruising or lethargy",
+            "Avoid any food or drink containing alcohol",
+            "Diarrhoea",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "num_of_options": 5,
+        "questions": [
+            "A 72-year-old woman is reviewed following a course of oral flucloxacillin for right lower limb cellulitis. The local protocol suggests oral clindamycin should be used next-line. Which one of the following side-effects of clindamycin is it most important to warn her about?",
+            "",
+            ""
+        ],
+        "answers": [
+            "5",
+            "0",
+            "0"
+        ],
+        "notes": [
+            "The correct answer in this case is <b>diarrhoea</b>. Clindamycin is an antibiotic belonging to the lincosamide class, and it is commonly used as a second-line treatment for cellulitis when patients are allergic to penicillins or when first-line treatments have failed. One of the most important side-effects to warn patients about when prescribing clindamycin is diarrhoea, which can range from mild to severe and may be associated with <i>Clostridium difficile</i> infection. This infection can lead to pseudomembranous colitis, a potentially life-threatening condition that requires prompt identification and management.<br /><br />Regarding the other options:<br /><br /><b>Heartburn or indigestion</b> can occur with many medications, including antibiotics; however, it is not considered a major concern with clindamycin therapy. While it's important for patients to be aware of potential gastrointestinal side effects, diarrhoea remains the primary concern with this medication.<br /><br /><b>Jaundice</b> is not a common side effect of clindamycin. Jaundice may indicate liver dysfunction or damage, but clindamycin-associated hepatotoxicity is rare. It would not be necessary to specifically warn the patient about jaundice as a side effect of clindamycin.<br /><br /><b>Sore throat, bruising or lethargy</b> are not typical side effects associated with clindamycin use. These symptoms might suggest an underlying infection or another medical problem unrelated to the antibiotic treatment.<br /><br /><b>Avoid any food or drink containing alcohol</b> is not specific advice related to clindamycin use. Some antibiotics, such as metronidazole and tinidazole, have known interactions with alcohol that can cause unpleasant reactions like nausea, vomiting, flushing and headache (disulfiram-like reaction). However, there's no evidence suggesting that this reaction occurs with clindamycin.",
+            "",
+            ""
+        ],
+        "exam_specific_explanation": "",
+        "question": "A 72-year-old woman is reviewed following a course of oral flucloxacillin for right lower limb cellulitis. The local protocol suggests oral clindamycin should be used next-line. Which one of the following side-effects of clindamycin is it most important to warn her about?",
+        "correct_answer": "5",
+        "question_notes": "The correct answer in this case is <b>diarrhoea</b>. Clindamycin is an antibiotic belonging to the lincosamide class, and it is commonly used as a second-line treatment for cellulitis when patients are allergic to penicillins or when first-line treatments have failed. One of the most important side-effects to warn patients about when prescribing clindamycin is diarrhoea, which can range from mild to severe and may be associated with <i>Clostridium difficile</i> infection. This infection can lead to pseudomembranous colitis, a potentially life-threatening condition that requires prompt identification and management.<br /><br />Regarding the other options:<br /><br /><b>Heartburn or indigestion</b> can occur with many medications, including antibiotics; however, it is not considered a major concern with clindamycin therapy. While it's important for patients to be aware of potential gastrointestinal side effects, diarrhoea remains the primary concern with this medication.<br /><br /><b>Jaundice</b> is not a common side effect of clindamycin. Jaundice may indicate liver dysfunction or damage, but clindamycin-associated hepatotoxicity is rare. It would not be necessary to specifically warn the patient about jaundice as a side effect of clindamycin.<br /><br /><b>Sore throat, bruising or lethargy</b> are not typical side effects associated with clindamycin use. These symptoms might suggest an underlying infection or another medical problem unrelated to the antibiotic treatment.<br /><br /><b>Avoid any food or drink containing alcohol</b> is not specific advice related to clindamycin use. Some antibiotics, such as metronidazole and tinidazole, have known interactions with alcohol that can cause unpleasant reactions like nausea, vomiting, flushing and headache (disulfiram-like reaction). However, there's no evidence suggesting that this reaction occurs with clindamycin.",
+        "answer_order": "5",
+        "answer": "5",
+        "title": "<i>Clostridioides difficile</i>",
+        "body": "<i>Clostridioides difficile</i> is a <span class=\"concept\" data-cid=\"1867\">Gram positive rod</span> often encountered in hospital practice. It produces an exotoxin which causes intestinal damage leading to a syndrome called pseudomembranous colitis. <i>C. difficile</i> develops when the normal gut flora are suppressed by broad-spectrum antibiotics. <span class=\"concept\" data-cid=\"987\">Clindamycin</span> is historically associated with causing <i>C. difficile</i> but the aetiology has evolved significantly over the past 10 years. Second and third-generation <span class=\"concept\" data-cid=\"431\">cephalosporins</span> are now the leading cause of <i>C. difficile</i>.<br /><br />Other than antibiotics, risk factors include:<br /><ul><li><span class=\"concept\" data-cid=\"1773\">proton pump inhibitors</span></li></ul><br />Pathophysiology<br /><ul><li>anaerobic gram-positive, spore-forming, toxin-producing bacillus </li><li>transmission: via the <span class=\"concept\" data-cid=\"12028\">faecal-oral route by ingestion of spores</span></li><li>releases two exotoxins (toxin A and toxin B) that act on intestinal epithelial cells and inflammatory cells resulting in colitis</li></ul><br />Features<br /><ul><li>diarrhoea</li><li>abdominal pain</li><li>a <b>raised white blood cell count (WCC)</b> is characteristic</li><li>if severe toxic megacolon may develop</li></ul><br />The Public Health England severity scale is often used as this may determine treatment:<br /><br /><div class=\"table-responsive\"><table class = \"tlarge table table-striped table-bordered\"  data-role=\"table\" id=\"tableid1\" ><thead><tr><th>Mild</th><th>Moderate</th><th>Severe</th><th>Life-threatening</th></tr></thead><tbody><tr><td><span class=\"concept\" data-cid=\"11061\">Normal WCC</span></td><td><span class=\"concept\" data-cid=\"11061\">\u2191 WCC ( < 15 x 10<sup>9</sup>/L)</span><br />Typically 3-5 loose stools per day</td><td><span class=\"concept\" data-cid=\"11061\">\u2191 WCC ( > 15 x 10<sup>9</sup>/L)</span><br />  or an acutely \u2191 creatinine (> 50% above baseline)<br />  or a temperature > 38.5\u00b0C<br /> or evidence of severe colitis(abdominal or radiological signs)</td><td>Hypotension<br />Partial or complete ileus<br />Toxic megacolon, or CT evidence of severe disease</td></tr></tbody></table></div><br />Diagnosis<br /><ul><li>is made by detecting <i>C. difficile</i> <b>toxin</b> (CDT) in the stool</li><li><i>C. difficile</i> <span class=\"concept\" data-cid=\"9585\"><b>antigen</b> positivity only shows exposure to the bacteria, rather than current infection</span></li></ul><br /><h5 class='notes-heading'>Management</h5><br />Current antibiotic therapy should be reviewed and antibiotics stopped if possible.<br /><br />First episode of <i>C. difficile</i> infection<br /><ul><li><b>first-line therapy is <span class=\"concept\" data-cid=\"1524\">oral vancomycin</span></b> for 10 days</li><li>second-line therapy: <span class=\"concept\" data-cid=\"4516\">oral fidaxomicin</span> </li><li>third-line therapy: <span class=\"concept\" data-cid=\"11463\">oral vancomycin +/- IV metronidazole</span></li></ul><br />Recurrent episode <br /><ul><li>recurrent infection occurs in around 20% of patients, increasing to 50% after their second episode</li><li><span class=\"concept\" data-cid=\"11464\">within 12 weeks of symptom resolution: oral fidaxomicin</span></li><li>after 12 weeks of symptom resolution: oral vancomycin OR fidaxomicin</li></ul><br />Life-threatening <i>C. difficile</i> infection<br /><ul><li><span class=\"concept\" data-cid=\"1489\">oral vancomycin AND IV metronidazole</span></li><li>specialist advice - surgery may be considered</li></ul><br />Other therapies<br /><ul><li><span class=\"concept\" data-cid=\"2406\">bezlotoxumab</span> is a monoclonal antibody which targets <i>C. difficile</i> toxin B<ul><li>NICE do not currently support its use to prevent recurrences as it is not cost-effective</li></ul></li><li>faecal microbiota transplant<ul><li>may be considered for patients who've had 2 or more previous episodes</li></ul></li></ul><br /><span class=\"concept\" data-cid=\"12138\">Preventing the spread of <i>C. difficile</i> infection</span><br /><ul><li><span class=\"concept\" data-cid=\"3075\">isolation in side room</span>: the patient should remain isolated until there has been no diarrhoea (types 5-7</li></ul>on the Bristol Stool Chart) for at least 48 hours<br /><ul><li>all staff should wear disposable gloves and an apron during any contact with patients known to have <i>C. difficile</i></li><li>hand washing is also essential - alcohol gel does not kill the spores of <i>C. difficile</i></li></ul><br /><div class=\"container\"><div class=\"row\"><div class=\"col-md-3\"><a href=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb133b.jpg\" data-fancybox=\"gallery\" data-caption=\"Elderly lady with infectious colitis secondary to <i>C. difficile</i>. On the abdominal film note the loss of bowel wall architecture and thumb-printing consistent with colitis. The CT from the same patient is enhanced by oral contrast. There is moderate free fluid in pelvis and peritoneum. The colon is oedematous throughout with enhancing walls, but of normal calibre. The sigmoid colon is smooth and featureless. Small bowel, liver, spleen, kidneys, adrenals and pancreas are normal.\"><img  class=\"img-thumbnail mx-auto d-block\" style=\"max-height:150px;margin-bottom:10px;\" src=\"https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/xrb133.jpg\" alt=\"\" /></a></div></div></div>",
+        "notes_hash": "d9d1ce2c481a73d49cfddd688e80c01b",
+        "knowledge_graph_node_id_link": 1152,
+        "concept": "Clindamycin treatment is associated with a high risk of <i>C. difficile</i>",
+        "concept_percentile": "72",
+        "concept_colour": "rgb(142,255,0)",
+        "number_attempts": "7208",
+        "up_votes": "17",
+        "down_votes": "11",
+        "column_array": [
+            0,
+            "330",
+            "562",
+            "571",
+            "968",
+            "4777",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "links": "<table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_87\" data-linkid=\"87\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_87\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">20</span><button type=\"button\" style=\"\" id=\"link_dislike_87\" data-linkid=\"87\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_87\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">23</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/advice/esmpb1/chapter/key-points-from-the-evidence\">Clostridium difficile infection: risk with broad-spectrum antibiotics</a></td></tr></table><br><br><table style='width:100%'><tr><td>Canadian Medical Journal</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_854\" data-linkid=\"854\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_854\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">14</span><button type=\"button\" style=\"\" id=\"link_dislike_854\" data-linkid=\"854\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_854\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"http://www.cmaj.ca/content/179/8/767/F3.large.jpg\">Relative risk of developing Clostridium difficile</a></td></tr></table><br><br><table style='width:100%'><tr><td>Medcomic</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2062\" data-linkid=\"2062\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2062\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">33</span><button type=\"button\" style=\"\" id=\"link_dislike_2062\" data-linkid=\"2062\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2062\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">13</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.medcomic.com/medcomic/clostridium-difficile-infection\">Clostridium difficile Infection</a></td></tr></table><br><br><table style='width:100%'><tr><td>NICE</td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"link_like_2048\" data-linkid=\"2048\" data-rating=\"1\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"link_good_count_2048\" class = \"link_good_count\" style=\"color:green; font-size:85%;\">40</span><button type=\"button\" style=\"\" id=\"link_dislike_2048\" data-linkid=\"2048\" data-rating=\"0\" class=\"rate-link btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"link_bad_count_2048\" class = \"link_bad_count\" style=\"color:red; font-size:85%;\">11</span></td></tr><tr><td colspan=\"2\"><a target=\"_blank\" href=\"https://www.nice.org.uk/guidance/ng199/chapter/Recommendations\">2021 Clostridioides difficile infection guidelines</a></td></tr></table>",
+        "media": "<table><tr><td colspan=\"2\"><a href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bpe94DaI6Pc\" data-description=\"Understanding Clostridium Difficile Infection\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1501\"><img border=\"0\" class=\"img-thumbnail\" alt=\"YouTube\" src=\"https://i1.ytimg.com/vi/Bpe94DaI6Pc/mqdefault.jpg\" style=\"max-width:150px;\"></a></td></tr><tr ><td style=\"padding-top:10px\" colspan=\"2\"><a style=\"\" href=\"#\" class=\"media_link\" data-url=\"https://www.youtube.com/embed/Bpe94DaI6Pc\" data-description=\"Understanding Clostridium Difficile Infection\" data-upvotes=\"2\" data-downvotes=\"0\" data-media=\"1501\">Understanding Clostridium Difficile Infection</a></td></tr><tr><td><span ><small>Zero To Finals - YouTube</small></span></td><td style = \"float: right;width:115px;\"><button type=\"button\" style=\"\" id=\"media_like_2644\" data-mediaid=\"2644\" data-rating=\"1\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-up\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-up\"/></svg></button><span id=\"media_good_count_2644\" class = \"media_good_count\" style=\"color:green; font-size:85%;\">2</span><button type=\"button\" style=\"\" id=\"media_dislike_2644\" data-mediaid=\"2644\" data-rating=\"0\" class=\"rate-media btn btn-link\"><svg class=\"bi bi-hand-thumbs-down\" width=\"16\" height=\"16\"><use xlink:href=\"#icon-hand-thumbs-down\"/></svg></button><span id=\"media_bad_count_2644\" class = \"media_bad_count\" style=\"color:red; font-size:85%;\">0</span></td></tr></table>",
+        "comment_count": 1,
+        "concepts_for_notes": {
+            "987": {
+                "concept_text": "Clindamycin treatment is associated with a high risk of <i>C. difficile</i>",
+                "concept_percentile": "72"
+            },
+            "1489": {
+                "concept_text": "In life-threatening <i>C. difficile</i> infection treatment is with ORAL vancomycin and IV metronidazole",
+                "concept_percentile": "95"
+            },
+            "1524": {
+                "concept_text": "Oral vancomycin is the first line antibiotic for use in patients with <i>C. difficile</i> infection",
+                "concept_percentile": "51"
+            },
+            "1773": {
+                "concept_text": "PPIs are a risk factor for <i>C. difficile</i> infection ",
+                "concept_percentile": "69"
+            },
+            "4516": {
+                "concept_text": "If <i> C. difficile </i> does not respond to first-line vancomycin , oral fidaxomicin should be used next, except in life-threatening infections",
+                "concept_percentile": "57"
+            },
+            "11463": {
+                "concept_text": "If a first episode of <i>C. difficile </i> doesn't respond to either vancomycin or fidaxomicin then oral vancomycin +/- IV metronidazole should be tried",
+                "concept_percentile": "73"
+            },
+            "11464": {
+                "concept_text": "A recurrent episode of <i>C. difficile</i> within 12 weeks of symptom resolution should be treated with oral fidaxomicin",
+                "concept_percentile": "67"
+            }
+        },
+        "optimisation_reason": ""
+    }
+]
