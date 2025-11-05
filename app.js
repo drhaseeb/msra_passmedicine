@@ -325,9 +325,8 @@ const app = {
                 }
                 questionLinks.push(`
                     <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
-                        <div class="d-flex justify-content-between align-items-center">
+                        <div class="d-flex align-items-start">
                             <span class="fw-bold">${icon} Question ${index + 1}</span>
-                            <small class="text-secondary">${q.question_id}</small>
                         </div>
                     </a>
                 `);
