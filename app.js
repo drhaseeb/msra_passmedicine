@@ -313,7 +313,7 @@ const app = {
                 if(this.loadingModal) this.loadingModal.hide();
                 alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
                 return;
-          _ }
+            }
 
             config.currentQuizSet = quizSet;
             config.currentQuestionIndex = 0;
