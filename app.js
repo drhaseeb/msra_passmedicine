@@ -10,7 +10,7 @@ const app = {
         currentQuizSet: [],
         currentQuestionIndex: 0,
         progress: {}, // { "1_B_2093": "correct", ... }
-        totalQuestions: 3207,
+        totalQuestions: 2960,
         batchSize: 10,
         questionsPath: 'msra/questions/',
         textbookIndexPath: 'msra/textbook.html',
