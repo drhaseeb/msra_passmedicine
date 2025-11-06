@@ -9,7 +9,10 @@ const app = {
         allQuestions: [], // Will be populated
         currentQuizSet: [],
         currentQuestionIndex: 0,
-        progress: {}, // { "1_B_2093": "correct", ... }
+        // --- UPDATED PROGRESS STRUCTURE ---
+        // Was: { "question_id": "correct" }
+        // Now: { "question_id": { status: "correct", flagged: true } }
+        progress: {}, 
         totalQuestions: 2960,
         batchSize: 10,
         questionsPath: 'msra/questions/',
@@ -36,6 +39,7 @@ const app = {
         allQuestions: [],
         currentQuizSet: [],
         currentQuestionIndex: 0,
+        // --- UPDATED PROGRESS STRUCTURE ---
         progress: {},
         totalQuestions: 302,
         batchSize: 10,
@@ -108,6 +112,13 @@ const app = {
             if (quizPrevBtn) {
                 e.preventDefault();
                 this.navigateQuiz('prev');
+            }
+
+            // --- NEW: Flag Button Listener ---
+            const quizFlagBtn = e.target.closest('#quiz-flag-btn');
+            if (quizFlagBtn) {
+                e.preventDefault();
+                this.toggleFlagQuestion();
             }
 
             // Combined listener for desktop and mobile finish buttons
@@ -226,7 +237,7 @@ const app = {
         const config = this[module];
         const catSelect = document.getElementById(`${module}-category-select`);
 
-        // Load progress from localStorage
+        // Load progress from localStorage (and migrate if necessary)
         config.progress = this.loadProgress(module);
 
         // Populate category dropdown
@@ -238,12 +249,23 @@ const app = {
         }
         this.updateProgressUI(module);
         this.loadTextbookIndex(module); // Pre-load textbook index
+
+        // --- NEW: Add listener for quiz mode changes ---
+        const radioButtons = document.querySelectorAll(`input[name="${module}-quiz-mode"]`);
+        radioButtons.forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                // Disable category select if "Flagged Only" is chosen
+                if (catSelect) {
+                    catSelect.disabled = (e.target.value === 'flagged');
+                }
+            });
+        });
     },
 
     updateProgressUI(module) {
         const config = this[module];
         const progress = config.progress;
-        let correct = 0, incorrect = 0;
+        let correct = 0, incorrect = 0, flagged = 0; // Added flagged count
         const categoryCounts = {};
 
         // Initialize category counts
@@ -251,10 +273,11 @@ const app = {
             categoryCounts[catId] = { correct: 0, incorrect: 0, total: 0 };
         }
 
-        // Tally progress
-        Object.values(progress).forEach(status => {
-            if (status === 'correct') correct++;
-            if (status === 'incorrect') incorrect++;
+        // Tally progress from the new object structure
+        Object.values(progress).forEach(entry => {
+            if (entry.status === 'correct') correct++;
+            if (entry.status === 'incorrect') incorrect++;
+            if (entry.flagged) flagged++;
         });
 
         // Need questions loaded to tally per-category stats
@@ -263,9 +286,12 @@ const app = {
                 const catId = String(q.category);
                 if (categoryCounts[catId]) {
                     categoryCounts[catId].total++;
-                    const status = progress[q.question_id];
-                    if (status === 'correct') categoryCounts[catId].correct++;
-                    if (status === 'incorrect') categoryCounts[catId].incorrect++;
+                    // Check status from new structure
+                    const entry = progress[q.question_id];
+                    if (entry) {
+                        if (entry.status === 'correct') categoryCounts[catId].correct++;
+                        if (entry.status === 'incorrect') categoryCounts[catId].incorrect++;
+                    }
                 }
             });
 
@@ -309,9 +335,12 @@ const app = {
         const txtCorrect = document.getElementById(`${module}-progress-text-correct`);
         const txtIncorrect = document.getElementById(`${module}-progress-text-incorrect`);
         const txtRemaining = document.getElementById(`${module}-progress-text-remaining`);
+        const txtFlagged = document.getElementById(`${module}-progress-text-flagged`); // Get new flagged element
+
         if (txtCorrect) txtCorrect.innerHTML = `<i class="bi bi-check-circle-fill text-success me-2"></i> ${correct} Correct`;
         if (txtIncorrect) txtIncorrect.innerHTML = `<i class="bi bi-x-circle-fill text-danger"></i> ${incorrect} Incorrect`;
         if (txtRemaining) txtRemaining.innerHTML = `<i class="bi bi-circle"></i> ${totalRemaining} Remaining`;
+        if (txtFlagged) txtFlagged.innerHTML = `<i class="bi bi-flag-fill text-warning me-2"></i> ${flagged} Flagged`;
     },
 
     async startQuiz(module) {
@@ -323,21 +352,44 @@ const app = {
             await this.loadAllQuestions(module);
 
             const categoryId = document.getElementById(`${module}-category-select`).value || 'all';
-            const includeAnswered = document.getElementById(`${module}-include-answered`).checked ?? true;
+            // --- NEW: Get selected quiz mode ---
+            const quizMode = document.querySelector(`input[name="${module}-quiz-mode"]:checked`).value || 'all';
 
             let quizSet = config.allQuestions;
-            if (categoryId !== 'all') {
-                quizSet = quizSet.filter(q => String(q.category) === categoryId);
-            }
-            if (!includeAnswered) {
-                quizSet = quizSet.filter(q => !config.progress.hasOwnProperty(q.question_id));
+
+            // --- NEW: Filter by Quiz Mode ---
+            // Note: Flagged mode ignores category filter
+            if (quizMode === 'flagged') {
+                quizSet = config.allQuestions.filter(q => 
+                    config.progress[q.question_id] && config.progress[q.question_id].flagged
+                );
+            } else {
+                // 1. Filter by category (if not 'all')
+                if (categoryId !== 'all') {
+                    quizSet = quizSet.filter(q => String(q.category) === categoryId);
+                }
+
+                // 2. Filter by status (if not 'all')
+                if (quizMode === 'unanswered') {
+                    quizSet = quizSet.filter(q => 
+                        !config.progress[q.question_id] || !config.progress[q.question_id].status
+                    );
+                } else if (quizMode === 'incorrect') {
+                    quizSet = quizSet.filter(q => 
+                        config.progress[q.question_id] && config.progress[q.question_id].status === 'incorrect'
+                    );
+                }
+                // 'all' mode doesn't need a status filter
             }
 
             if (quizSet.length === 0) {
                 if(this.loadingModal) this.loadingModal.hide();
-                // Use a less obtrusive way to notify user, e.g., an inline message
-                // For now, alert is fine.
-                alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
+                let msg = "No questions found for this criteria.";
+                if (quizMode === 'flagged') msg = "You don't have any flagged questions.";
+                else if (quizMode === 'incorrect') msg = "No incorrect questions found in this category.";
+                else if (quizMode === 'unanswered') msg = "No unanswered questions remaining in this category!";
+                
+                alert(msg);
                 return;
             }
 
@@ -355,19 +407,27 @@ const app = {
             
             const questionLinks = [];
             quizSet.forEach((q, index) => {
-                const status = config.progress[q.question_id];
-                let icon = '<i class="bi bi-circle me-2"></i>';
+                // --- NEW: Check progress entry for status and flag ---
+                const entry = config.progress[q.question_id];
+                const status = entry ? entry.status : null;
+                const flagged = entry ? entry.flagged : false;
+
+                let statusIcon = '<i class="bi bi-circle me-2"></i>';
                 if (status === 'correct') {
-                    icon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
+                    statusIcon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
                 } else if (status === 'incorrect') {
-                    icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
+                    statusIcon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
                 }
-                // Create the link. No data-bs-dismiss needed, handled in JS.
+
+                // Add flag icon if flagged
+                let flagIcon = flagged ? '<i class="bi bi-flag-fill text-warning ms-auto"></i>' : '';
+
                 questionLinks.push(`
-                    <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
-                        <div class="d-flex align-items-start">
-                            <span class="fw-bold">${icon} Question ${index + 1}</span>
+                    <a href="#" class="list-group-item list-group-item-action question-link d-flex justify-content-between align-items-center" data-module="${module}" data-index="${index}">
+                        <div class="d-flex align-items-center">
+                            <span class="fw-bold">${statusIcon} Question ${index + 1}</span>
                         </div>
+                        ${flagIcon}
                     </a>
                 `);
             });
@@ -546,7 +606,8 @@ const app = {
         }
 
         // Check progress
-        const status = config.progress[q.question_id];
+        const entry = config.progress[q.question_id];
+        const status = entry ? entry.status : null;
 
         areaEl.innerHTML = `
             <div data-module="${module}" data-q-type="${q.question_type}">
@@ -570,6 +631,15 @@ const app = {
         const quizNextBtn = document.getElementById('quiz-next-btn');
         if (quizPrevBtn) quizPrevBtn.disabled = (index === 0);
         if (quizNextBtn) quizNextBtn.disabled = (index === config.currentQuizSet.length - 1);
+
+        // --- NEW: Update Flag Button State ---
+        const flagBtn = document.getElementById('quiz-flag-btn');
+        if (flagBtn) {
+            const isFlagged = entry ? entry.flagged : false;
+            flagBtn.classList.toggle('active', isFlagged); // 'active' class for visual state
+            flagBtn.classList.toggle('text-warning', isFlagged);
+            flagBtn.querySelector('i').className = isFlagged ? 'bi bi-flag-fill' : 'bi bi-flag';
+        }
     },
 
     checkAnswer(module) {
@@ -643,16 +713,16 @@ const app = {
 
         qContainer.querySelector('.submit-answer-btn').style.display = 'none';
         this.showExplanation(q, isCorrect, module);
-        this.saveProgress(module, q.question_id, isCorrect);
+        
+        // --- NEW: Update progress object ---
+        const status = isCorrect ? 'correct' : 'incorrect';
+        const entry = config.progress[q.question_id] || { status: null, flagged: false };
+        entry.status = status;
+        config.progress[q.question_id] = entry;
+        this.saveProgress(module); // Save entire progress object
 
-        // Update sidebar icon for both desktop and mobile
-        const linkSelector = `.question-link[data-index="${config.currentQuestionIndex}"]`;
-        document.querySelectorAll(linkSelector).forEach(link => {
-            if (link) {
-                const icon = isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
-                link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\/i>/, icon);
-            }
-        });
+        // --- NEW: Update sidebar icon (respecting flag) ---
+        this.updateQuestionListIcon(module, q.question_id, status, entry.flagged);
     },
 
     restoreAnswerState(q, module) {
@@ -707,11 +777,81 @@ const app = {
         `;
     },
 
-    saveProgress(module, questionId, isCorrect) {
+    // --- NEW: Toggles the flag for the current question ---
+    toggleFlagQuestion() {
+        const module = document.body.id.includes('msra') ? 'msra' : 'pd';
         const config = this[module];
-        const status = isCorrect ? 'correct' : 'incorrect';
-        config.progress[questionId] = status;
+        if (!config || !config.currentQuizSet[config.currentQuestionIndex]) return;
 
+        const q = config.currentQuizSet[config.currentQuestionIndex];
+        const questionId = q.question_id;
+
+        // Get or create progress entry
+        const entry = config.progress[questionId] || { status: null, flagged: false };
+        // Toggle flag
+        entry.flagged = !entry.flagged;
+        config.progress[questionId] = entry;
+        
+        // Save the whole progress object
+        this.saveProgress(module);
+
+        // Update the UI (button and list)
+        this.updateFlaggedUI(module, questionId, entry.flagged);
+    },
+
+    // --- NEW: Updates the UI elements for a question's flag state ---
+    updateFlaggedUI(module, questionId, isFlagged) {
+        const config = this[module];
+
+        // Update the main flag button if this is the current question
+        const q = config.currentQuizSet[config.currentQuestionIndex];
+        if (q && q.question_id === questionId) {
+            const flagBtn = document.getElementById('quiz-flag-btn');
+            if (flagBtn) {
+                flagBtn.classList.toggle('active', isFlagged);
+                flagBtn.classList.toggle('text-warning', isFlagged);
+                flagBtn.querySelector('i').className = isFlagged ? 'bi bi-flag-fill' : 'bi bi-flag';
+            }
+        }
+
+        // Update the icon in the question list (desktop and mobile)
+        const entry = config.progress[questionId];
+        const status = entry ? entry.status : null;
+        this.updateQuestionListIcon(module, questionId, status, isFlagged);
+    },
+
+    // --- NEW: Updates a single question's icon in the list ---
+    updateQuestionListIcon(module, questionId, status, isFlagged) {
+        const config = this[module];
+        const index = config.currentQuizSet.findIndex(q => q.question_id === questionId);
+        if (index === -1) return; // Not in the current quiz set
+
+        let statusIcon = '<i class="bi bi-circle me-2"></i>';
+        if (status === 'correct') {
+            statusIcon = '<i class="bi bi-check-circle-fill text-success me-2"></i>';
+        } else if (status === 'incorrect') {
+            statusIcon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
+        }
+
+        let flagIcon = isFlagged ? '<i class="bi bi-flag-fill text-warning ms-auto"></i>' : '';
+
+        const linkSelector = `.question-link[data-index="${index}"]`;
+        document.querySelectorAll(linkSelector).forEach(link => {
+            if (link) {
+                link.innerHTML = `
+                    <div class="d-flex align-items-center">
+                        <span class="fw-bold">${statusIcon} Question ${index + 1}</span>
+                    </div>
+                    ${flagIcon}
+                `;
+            }
+        });
+    },
+
+
+    // --- UPDATED: saveProgress now saves the *entire* progress object ---
+    saveProgress(module) {
+        const config = this[module];
         try {
             const key = `passMedProgress_${module}`;
             localStorage.setItem(key, JSON.stringify(config.progress));
@@ -721,12 +861,42 @@ const app = {
         }
     },
 
+    // --- UPDATED: loadProgress now handles data migration ---
     loadProgress(module) {
         try {
             const key = `passMedProgress_${module}`;
-            return JSON.parse(localStorage.getItem(key) || '{}');
+            const storedProgress = JSON.parse(localStorage.getItem(key) || '{}');
+            
+            // --- Migration Logic ---
+            let needsSave = false;
+            const migratedProgress = {};
+            
+            for (const questionId in storedProgress) {
+                const value = storedProgress[questionId];
+                if (typeof value === 'string') {
+                    // This is the OLD format ("question_id": "correct")
+                    migratedProgress[questionId] = {
+                        status: value, // 'correct' or 'incorrect'
+                        flagged: false
+                    };
+                    needsSave = true;
+                } else if (typeof value === 'object' && value !== null && (value.hasOwnProperty('status') || value.hasOwnProperty('flagged'))) {
+                    // This is the NEW format
+                    migratedProgress[questionId] = value;
+                }
+            }
+
+            if (needsSave) {
+                console.log(`[${module}] Migrated progress data to new format.`);
+                // Save the migrated data back to localStorage immediately
+                localStorage.setItem(key, JSON.stringify(migratedProgress));
+            }
+            // --- End Migration Logic ---
+
+            return migratedProgress;
+
         } catch (e) {
-            console.error("Failed to load progress from localStorage:", e);
+            console.error("Failed to load/migrate progress from localStorage:", e);
             // alert("Unable to load progress. Storage error.");
             return {};
         }
