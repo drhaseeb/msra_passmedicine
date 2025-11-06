@@ -110,18 +110,27 @@ const app = {
                 this.navigateQuiz('prev');
             }
 
-            const quizFinishBtn = e.target.closest('#quiz-finish-btn');
+            // Combined listener for desktop and mobile finish buttons
+            const quizFinishBtn = e.target.closest('#quiz-finish-btn, #quiz-finish-btn-desktop');
             if (quizFinishBtn) {
                 e.preventDefault();
                 this.finishQuiz();
             }
 
-            const quizQuestionLink = e.target.closest('#quiz-question-list .question-link');
+            // Combined listener for desktop and mobile question links
+            const quizQuestionLink = e.target.closest('#quiz-question-list .question-link, #quiz-question-list-mobile .question-link');
             if (quizQuestionLink) {
                 e.preventDefault();
                 const index = parseInt(quizQuestionLink.dataset.index, 10);
                 const module = quizQuestionLink.dataset.module;
                 this.renderQuizQuestion(module, index);
+
+                // Manually close offcanvas if it exists
+                const offcanvasEl = quizQuestionLink.closest('.offcanvas');
+                if (offcanvasEl) {
+                    const bsOffcanvas = bootstrap.Offcanvas.getInstance(offcanvasEl);
+                    if (bsOffcanvas) bsOffcanvas.hide();
+                }
             }
 
             // Shared Listeners
@@ -157,12 +166,20 @@ const app = {
                 this.showTextbookNote(module, noteId);
             }
 
-            // Textbook sidebar navigation
-            const textbookLink = e.target.closest('.textbook-sidebar a');
+            // Combined listener for desktop and mobile textbook links
+            const textbookLink = e.target.closest('.textbook-sidebar a, #msra-textbook-nav-mobile a, #pd-textbook-nav-mobile a');
             if (textbookLink) {
                 e.preventDefault();
-                const module = textbookLink.closest('.textbook-sidebar').id.startsWith('msra') ? 'msra' : 'pd';
+                // Determine module from body ID as it's reliable
+                const module = document.body.id.includes('msra') ? 'msra' : 'pd';
                 this.handleTextbookNav(textbookLink, module);
+                
+                // Manually close offcanvas if it exists
+                const offcanvasEl = textbookLink.closest('.offcanvas');
+                if (offcanvasEl) {
+                    const bsOffcanvas = bootstrap.Offcanvas.getInstance(offcanvasEl);
+                    if (bsOffcanvas) bsOffcanvas.hide();
+                }
             }
         });
     },
@@ -189,6 +206,18 @@ const app = {
                 link.classList.add('active', 'fw-bold');
             }
         });
+    },
+
+    // --- UTILITY ---
+    /**
+     * Shuffles an array in place using the Fisher-Yates algorithm.
+     * @param {Array} array The array to shuffle.
+     */
+    shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
     },
 
     // --- QUIZ ENGINE LOGIC ---
@@ -306,14 +335,24 @@ const app = {
 
             if (quizSet.length === 0) {
                 if(this.loadingModal) this.loadingModal.hide();
+                // Use a less obtrusive way to notify user, e.g., an inline message
+                // For now, alert is fine.
                 alert(includeAnswered ? "No questions found for this category." : "No unanswered questions remaining in this category!");
                 return;
             }
 
+            // --- SHUFFLE LOGIC ---
+            // Shuffle the filtered set of questions
+            this.shuffleArray(quizSet);
+            // --- END SHUFFLE LOGIC ---
+
             config.currentQuizSet = quizSet;
             config.currentQuestionIndex = 0;
 
-            const listEl = document.getElementById('quiz-question-list');
+            // Get both desktop and mobile list elements
+            const listElDesktop = document.getElementById('quiz-question-list');
+            const listElMobile = document.getElementById('quiz-question-list-mobile');
+            
             const questionLinks = [];
             quizSet.forEach((q, index) => {
                 const status = config.progress[q.question_id];
@@ -323,6 +362,7 @@ const app = {
                 } else if (status === 'incorrect') {
                     icon = '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
                 }
+                // Create the link. No data-bs-dismiss needed, handled in JS.
                 questionLinks.push(`
                     <a href="#" class="list-group-item list-group-item-action question-link" data-module="${module}" data-index="${index}">
                         <div class="d-flex align-items-start">
@@ -331,13 +371,17 @@ const app = {
                     </a>
                 `);
             });
-            if (listEl) listEl.innerHTML = questionLinks.join('');
+
+            const linksHtml = questionLinks.join('');
+            if (listElDesktop) listElDesktop.innerHTML = linksHtml;
+            if (listElMobile) listElMobile.innerHTML = linksHtml;
+
 
             // Show quiz view, hide setup view
             const setupViewEl = document.getElementById('quiz-setup-view');
             const quizViewerEl = document.getElementById('quiz-viewer');
             if(setupViewEl) setupViewEl.style.display = 'none';
-            if(quizViewerEl) quizViewerEl.style.display = 'flex';
+            if(quizViewerEl) quizViewerEl.style.display = 'block'; // Use block, not flex, as flex is handled by media query
 
             // Add one-time listener to render first question after modal hidden
             if(loadingModalEl) {
@@ -357,7 +401,10 @@ const app = {
         // Add one-time listener for modal shown
         if(loadingModalEl) {
             loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
-            this.loadingModal.show();
+            if (this.loadingModal) this.loadingModal.show();
+        } else {
+            // Fallback if modal isn't ready
+            loadAndRenderQuiz();
         }
     },
 
@@ -438,12 +485,12 @@ const app = {
         const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         if (!q || !areaEl) return;
 
-        // Update question list active state
-        document.querySelectorAll('#quiz-question-list .question-link').forEach((link, i) => {
-            link.classList.toggle('active', i === index);
+        // Update question list active state for both desktop and mobile
+        document.querySelectorAll('#quiz-question-list .question-link, #quiz-question-list-mobile .question-link').forEach((link) => {
+            link.classList.toggle('active', parseInt(link.dataset.index, 10) === index);
         });
 
-        // Scroll active link into view
+        // Scroll active link into view (for desktop)
         const activeLink = document.querySelector('#quiz-question-list .question-link.active');
         if (activeLink) activeLink.scrollIntoView({ block: 'nearest' });
 
@@ -559,7 +606,7 @@ const app = {
                 input.disabled = true;
                 const correctRank = q.correct_answer.indexOf(input.dataset.letter) + 1;
                 // Show correct answer position for each letter
-                if (input.value.trim() === String(correctRank)) { // Fixed: removed .toUpperCase()
+                if (input.value.trim() === String(correctRank)) { 
                     input.classList.add('is-valid');
                 } else {
                     input.classList.add('is-invalid');
@@ -588,12 +635,14 @@ const app = {
         this.showExplanation(q, isCorrect, module);
         this.saveProgress(module, q.question_id, isCorrect);
 
-        // Update sidebar icon
-        const link = document.querySelector(`#quiz-question-list .question-link[data-index="${config.currentQuestionIndex}"]`);
-        if (link) {
-            const icon = isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
-            link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\/i>/, icon);
-        }
+        // Update sidebar icon for both desktop and mobile
+        const linkSelector = `.question-link[data-index="${config.currentQuestionIndex}"]`;
+        document.querySelectorAll(linkSelector).forEach(link => {
+            if (link) {
+                const icon = isCorrect ? '<i class="bi bi-check-circle-fill text-success me-2"></i>' : '<i class="bi bi-x-circle-fill text-danger me-2"></i>';
+                link.innerHTML = link.innerHTML.replace(/<i class=".*?"><\/i>/, icon);
+            }
+        });
     },
 
     restoreAnswerState(q, module) {
@@ -658,7 +707,7 @@ const app = {
             localStorage.setItem(key, JSON.stringify(config.progress));
         } catch (e) {
             console.error("Failed to save progress to localStorage:", e);
-            alert("Unable to save progress. Storage error.");
+            // alert("Unable to save progress. Storage error.");
         }
     },
 
@@ -668,7 +717,7 @@ const app = {
             return JSON.parse(localStorage.getItem(key) || '{}');
         } catch (e) {
             console.error("Failed to load progress from localStorage:", e);
-            alert("Unable to load progress. Storage error.");
+            // alert("Unable to load progress. Storage error.");
             return {};
         }
     },
@@ -676,10 +725,13 @@ const app = {
     // --- TEXTBOOK LOGIC ---
     async loadTextbookIndex(module) {
         const config = this[module];
-        const navEl = document.getElementById(`${module}-textbook-nav`);
+        // Get both desktop and mobile nav elements
+        const navElDesktop = document.getElementById(`${module}-textbook-nav`);
+        const navElMobile = document.getElementById(`${module}-textbook-nav-mobile`);
 
-        if (config.textbookIndexContent && navEl) {
-            navEl.innerHTML = config.textbookIndexContent;
+        if (config.textbookIndexContent) {
+            if (navElDesktop) navElDesktop.innerHTML = config.textbookIndexContent;
+            if (navElMobile) navElMobile.innerHTML = config.textbookIndexContent;
             return;
         }
 
@@ -713,12 +765,15 @@ const app = {
             });
 
             config.textbookIndexContent = doc.body.innerHTML;
-            if (navEl) navEl.innerHTML = config.textbookIndexContent;
+            if (navElDesktop) navElDesktop.innerHTML = config.textbookIndexContent;
+            if (navElMobile) navElMobile.innerHTML = config.textbookIndexContent;
 
             console.log(`[${module}] Textbook index loaded and Note ID Map created.`);
         } catch(err) {
             console.error(`Error loading textbook index for ${module}:`, err);
-            if (navEl) navEl.innerHTML = `<p class="text-danger">Error: Could not load ${config.textbookIndexPath}.</p>`;
+            const errorMsg = `<p class="text-danger">Error: Could not load ${config.textbookIndexPath}.</p>`;
+            if (navElDesktop) navElDesktop.innerHTML = errorMsg;
+            if (navElMobile) navElMobile.innerHTML = errorMsg;
         }
     },
 
