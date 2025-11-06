@@ -58,11 +58,13 @@ body {
 
 .question-content {
     flex-grow: 1;
-    /* overflow-y: auto; <-- Removed, will be added by media query */
-    /* padding: 1.5rem 2rem; <-- REMOVED PADDING */
+    /* overflow-y: auto; <-- REMOVED */
     background-color: #121212;
-    display: flex; /* <-- ADDED */
-    flex-direction: column; /* <-- ADDED */
+    display: flex; 
+    flex-direction: column; 
+    /* --- NEW: Prevents flex content from shrinking or overflowing improperly --- */
+    min-height: 0;
+    min-width: 0;
 }
 
 .list-group-item {
@@ -127,10 +129,10 @@ body {
     }
 
     .question-sidebar {
-        /* REMOVED: width: 380px; */
+        width: 380px; /* <-- RE-ADDED fixed width */
         background-color: #1e1e1e;
         border-right: 1px solid #333;
-        /* REMOVED: flex-shrink: 0; */
+        flex-shrink: 0; /* <-- RE-ADDED flex-shrink */
         display: flex; /* This is for the inner content (header/list) */
         flex-direction: column;
     }
@@ -146,6 +148,8 @@ body {
 
     .question-content, .textbook-content {
         /* REMOVED: overflow-y: auto; */
+        flex-grow: 1; /* <-- ADDED */
+        min-width: 0; /* <-- ADDED */
     }
 }
 
