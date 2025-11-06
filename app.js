@@ -383,29 +383,39 @@ const app = {
             if(setupViewEl) setupViewEl.style.display = 'none';
             if(quizViewerEl) quizViewerEl.style.display = 'block'; // Use block, not flex, as flex is handled by media query
 
-            // Add one-time listener to render first question after modal hidden
-            if(loadingModalEl) {
+            // --- FIX ---
+            // Check if modal objects exist before adding listeners or trying to hide.
+            if(loadingModalEl && this.loadingModal) {
+                // Add one-time listener to render first question after modal hidden
                 loadingModalEl.addEventListener('hidden.bs.modal', () => {
                     this.renderQuizQuestion(module, 0);
                 }, { once: true });
+    
+                // Hide loading modal at the end
+                this.loadingModal.hide();
+            } else {
+                // If no modal, render immediately
+                console.warn("No loading modal found, rendering question immediately.");
+                this.renderQuizQuestion(module, 0);
             }
-
-            // Hide loading modal at the end
-            if(this.loadingModal) this.loadingModal.hide();
+            // --- END FIX ---
         };
 
         // Setup modal text
         document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
         document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
 
-        // Add one-time listener for modal shown
-        if(loadingModalEl) {
+        // --- FIX ---
+        // Add one-time listener for modal shown, with fallback
+        if(loadingModalEl && this.loadingModal) {
             loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
-            if (this.loadingModal) this.loadingModal.show();
+            this.loadingModal.show();
         } else {
             // Fallback if modal isn't ready
-            loadAndRenderQuiz();
+            console.warn("Loading modal not found, running quiz loader directly.");
+            loadAndRenderQuiz(); // This will now call renderQuizQuestion(0) at the end
         }
+        // --- END FIX ---
     },
 
     finishQuiz() {
