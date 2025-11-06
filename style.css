@@ -118,7 +118,7 @@ body {
     color: #a37eff;
 }
 
-/* --- Responsive Layout (Desktop First) --- */
+    /* --- Responsive Layout (Desktop First) --- */
 @media (min-width: 992px) {
     .question-viewer-layout,
     .textbook-viewer-layout {
@@ -127,10 +127,10 @@ body {
     }
 
     .question-sidebar {
-        width: 380px;
+        /* REMOVED: width: 380px; */
         background-color: #1e1e1e;
         border-right: 1px solid #333;
-        flex-shrink: 0;
+        /* REMOVED: flex-shrink: 0; */
         display: flex; /* This is for the inner content (header/list) */
         flex-direction: column;
     }
@@ -145,7 +145,7 @@ body {
     }
 
     .question-content, .textbook-content {
-        overflow-y: auto;
+        /* REMOVED: overflow-y: auto; */
     }
 }
 
