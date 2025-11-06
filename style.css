@@ -172,6 +172,10 @@ body {
         text-align: center;
         margin-bottom: 0.5rem;
     }
+    /* --- NEW: Re-order flag button on mobile --- */
+    .quiz-navigation #quiz-flag-btn {
+        order: -2; /* Put flag button above text */
+    }
 }
 
 
@@ -275,6 +279,21 @@ body {
 .progress-by-category .progress-bar {
     background-color: #7c3aed;
 }
+
+/* --- NEW: Flag button styles --- */
+.quiz-flag-btn {
+    /* Default state is just outline-secondary */
+    transition: color 0.15s ease-in-out;
+}
+.quiz-flag-btn.active, .quiz-flag-btn:hover {
+    color: #ffc107; /* text-warning */
+}
+
+/* --- NEW: Make flag in list right-aligned --- */
+.question-link .bi-flag-fill {
+    margin-left: auto; /* Pushes flag to the far right */
+}
+
 
 /* Custom scrollbar */
 ::-webkit-scrollbar {
