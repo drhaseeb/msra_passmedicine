@@ -383,14 +383,14 @@ const app = {
             }
 
             if (quizSet.length === 0) {
-                if(this.loadingModal) this.loadingModal.hide();
+                if(this.loadingModal) this.loadingModal.hide(); // Hide modal on failure
                 let msg = "No questions found for this criteria.";
                 if (quizMode === 'flagged') msg = "You don't have any flagged questions.";
                 else if (quizMode === 'incorrect') msg = "No incorrect questions found in this category.";
                 else if (quizMode === 'unanswered') msg = "No unanswered questions remaining in this category!";
                 
                 alert(msg);
-                return;
+                return false; // <-- Return false on failure
             }
 
             // --- SHUFFLE LOGIC ---
@@ -443,39 +443,51 @@ const app = {
             if(setupViewEl) setupViewEl.style.display = 'none';
             if(quizViewerEl) quizViewerEl.style.display = 'block'; // Use block, not flex, as flex is handled by media query
 
-            // --- FIX ---
-            // Check if modal objects exist before adding listeners or trying to hide.
-            if(loadingModalEl && this.loadingModal) {
-                // Add one-time listener to render first question after modal hidden
-                loadingModalEl.addEventListener('hidden.bs.modal', () => {
-                    this.renderQuizQuestion(module, 0);
-                }, { once: true });
-    
-                // Hide loading modal at the end
-                this.loadingModal.hide();
-            } else {
-                // If no modal, render immediately
-                console.warn("No loading modal found, rendering question immediately.");
-                this.renderQuizQuestion(module, 0);
-            }
-            // --- END FIX ---
+            // --- MODAL AND RENDER LOGIC REMOVED FROM HERE ---
+            
+            return true; // <-- Return true on success
         };
 
-        // Setup modal text
-        document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
-        document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
+        // --- NEW, CLEANER MODAL AND RENDER LOGIC ---
 
-        // --- FIX ---
-        // Add one-time listener for modal shown, with fallback
-        if(loadingModalEl && this.loadingModal) {
-            loadingModalEl.addEventListener('shown.bs.modal', loadAndRenderQuiz, { once: true });
+        // 1. Show modal (if it exists)
+        if (loadingModalEl && this.loadingModal) {
+            // Set modal text
+            document.getElementById('loading-modal-title').textContent = 'Loading Quiz...';
+            document.getElementById('loading-modal-text').textContent = `Fetching all ${config.totalQuestions} questions. This is a one-time load.`;
+            
             this.loadingModal.show();
+
+            // Wait for modal to be fully shown before doing heavy work
+            // This ensures the modal is visible during the load
+            await new Promise(resolve => loadingModalEl.addEventListener('shown.bs.modal', resolve, { once: true }));
+
         } else {
-            // Fallback if modal isn't ready
-            console.warn("Loading modal not found, running quiz loader directly.");
-            loadAndRenderQuiz(); // This will now call renderQuizQuestion(0) at the end
+            // No modal, just log it
+            console.warn("Loading modal not found, processing directly.");
         }
-        // --- END FIX ---
+
+        // 2. Run the heavy lifting (loading, filtering)
+        const success = await loadAndRenderQuiz();
+
+        // 3. If quiz setup failed (e.g., no questions), stop here.
+        // The modal will have been hidden inside loadAndRenderQuiz on failure.
+        if (!success) {
+            return; 
+        }
+
+        // 4. Hide modal (if it exists) and render question
+        if (loadingModalEl && this.loadingModal) {
+            // Add listener to render *after* modal is hidden
+            loadingModalEl.addEventListener('hidden.bs.modal', () => {
+                this.renderQuizQuestion(module, 0);
+            }, { once: true });
+            
+            this.loadingModal.hide();
+        } else {
+            // No modal, render immediately
+            this.renderQuizQuestion(module, 0);
+        }
     },
 
     finishQuiz() {
