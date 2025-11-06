@@ -122,14 +122,16 @@ const app = {
             }
 
             // Combined listener for desktop and mobile finish buttons
-            const quizFinishBtn = e.target.closest('#quiz-finish-btn, #quiz-finish-btn-desktop');
+            // --- UPDATED: Simplified selector ---
+            const quizFinishBtn = e.target.closest('#quiz-finish-btn');
             if (quizFinishBtn) {
                 e.preventDefault();
                 this.finishQuiz();
             }
 
             // Combined listener for desktop and mobile question links
-            const quizQuestionLink = e.target.closest('#quiz-question-list .question-link, #quiz-question-list-mobile .question-link');
+            // --- UPDATED: Simplified selector ---
+            const quizQuestionLink = e.target.closest('#quiz-question-list-mobile .question-link');
             if (quizQuestionLink) {
                 e.preventDefault();
                 const index = parseInt(quizQuestionLink.dataset.index, 10);
@@ -568,13 +570,12 @@ const app = {
         if (!q || !areaEl) return;
 
         // Update question list active state for both desktop and mobile
-        document.querySelectorAll('#quiz-question-list .question-link, #quiz-question-list-mobile .question-link').forEach((link) => {
+        // --- UPDATED: Simplified selector ---
+        document.querySelectorAll('#quiz-question-list-mobile .question-link').forEach((link) => {
             link.classList.toggle('active', parseInt(link.dataset.index, 10) === index);
         });
 
-        // Scroll active link into view (for desktop)
-        const activeLink = document.querySelector('#quiz-question-list .question-link.active');
-        if (activeLink) activeLink.scrollIntoView({ block: 'nearest' });
+        // --- REMOVED: Desktop-only active link scroller ---
 
         // Repaired truncated questionText logic
         let questionText = q.question || '';
