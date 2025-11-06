@@ -128,14 +128,7 @@ body {
         height: calc(100vh - 58px); /* Full height minus navbar */
     }
 
-    .question-sidebar {
-        width: 380px; /* <-- RE-ADDED fixed width */
-        background-color: #1e1e1e;
-        border-right: 1px solid #333;
-        flex-shrink: 0; /* <-- RE-ADDED flex-shrink */
-        display: flex; /* This is for the inner content (header/list) */
-        flex-direction: column;
-    }
+    /* --- .question-sidebar rule REMOVED --- */
 
     .textbook-sidebar {
         width: 400px;
@@ -146,7 +139,8 @@ body {
         padding: 1.5rem;
     }
 
-    .question-content, .textbook-content {
+    /* --- UPDATED: Removed .question-content from this selector --- */
+    .textbook-content {
         /* REMOVED: overflow-y: auto; */
         flex-grow: 1; /* <-- ADDED */
         min-width: 0; /* <-- ADDED */
