@@ -50,20 +50,7 @@ body {
 }
 
 /* --- Question Viewer --- */
-.question-viewer-layout {
-    display: flex;
-    height: calc(100vh - 58px); /* Full height minus navbar */
-}
-
-.question-sidebar {
-    width: 380px;
-    background-color: #1e1e1e;
-    border-right: 1px solid #333;
-    flex-shrink: 0;
-    display: flex;
-    flex-direction: column;
-}
-
+/* Layout is now controlled by media queries */
 .question-list-container, .batch-list-container {
     overflow-y: auto;
     flex-grow: 1;
@@ -71,7 +58,7 @@ body {
 
 .question-content {
     flex-grow: 1;
-    overflow-y: auto;
+    /* overflow-y: auto; <-- Removed, will be added by media query */
     padding: 1.5rem 2rem;
     background-color: #121212;
 }
@@ -92,23 +79,9 @@ body {
 }
 
 /* --- Textbook Viewer --- */
-.textbook-viewer-layout {
-    display: flex;
-    height: calc(100vh - 58px);
-}
-
-.textbook-sidebar {
-    width: 400px;
-    background-color: #1e1e1e;
-    border-right: 1px solid #333;
-    flex-shrink: 0;
-    overflow-y: auto;
-    padding: 1.5rem;
-}
-
 .textbook-content {
     flex-grow: 1;
-    overflow-y: auto;
+    /* overflow-y: auto; <-- Removed, will be added by media query */
     padding: 2rem;
     background-color: #121212;
 }
@@ -142,6 +115,65 @@ body {
 .textbook-content-inner a {
     color: #a37eff;
 }
+
+/* --- Responsive Layout (Desktop First) --- */
+@media (min-width: 992px) {
+    .question-viewer-layout,
+    .textbook-viewer-layout {
+        display: flex;
+        height: calc(100vh - 58px); /* Full height minus navbar */
+    }
+
+    .question-sidebar {
+        width: 380px;
+        background-color: #1e1e1e;
+        border-right: 1px solid #333;
+        flex-shrink: 0;
+        display: flex; /* This is for the inner content (header/list) */
+        flex-direction: column;
+    }
+
+    .textbook-sidebar {
+        width: 400px;
+        background-color: #1e1e1e;
+        border-right: 1px solid #333;
+        flex-shrink: 0;
+        overflow-y: auto;
+        padding: 1.5rem;
+    }
+
+    .question-content, .textbook-content {
+        overflow-y: auto;
+    }
+}
+
+/* --- Mobile-specific styles --- */
+@media (max-width: 991.98px) {
+    .question-content {
+        padding: 1rem;
+    }
+    .textbook-content {
+        padding: 1rem;
+    }
+    /* Remove padding from the inner textbook area on mobile */
+    .textbook-content .textbook-content-inner {
+        padding: 0;
+    }
+    /* Fix quiz nav buttons on mobile */
+    .quiz-navigation {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .quiz-navigation .btn {
+        width: 100%;
+    }
+    .quiz-nav-text-container {
+        order: -1; /* Put text on top */
+        text-align: center;
+        margin-bottom: 0.5rem;
+    }
+}
+
 
 /* --- Question Rendering --- */
 .question-option {
@@ -186,13 +218,13 @@ body {
     margin-bottom: 0.5rem;
 }
 
-/* Modal dark theme */
-.modal-content {
+/* Modal & Offcanvas dark theme */
+.modal-content, .offcanvas {
     background-color: #1e1e1e;
     border: 1px solid #333;
     color: #e0e0e0;
 }
-.modal-header {
+.modal-header, .offcanvas-header {
     border-bottom: 1px solid #333;
 }
 .modal-footer {
@@ -203,12 +235,18 @@ body {
 }
 
 /* Specificity for textbook links in sidebar */
-.textbook-sidebar a {
+.textbook-sidebar a, .textbook-sidebar-mobile a {
     color: #a37eff;
     text-decoration: none;
+    display: block; /* Make mobile links easier to tap */
+    padding: 4px 0;
 }
-.textbook-sidebar a:hover {
+.textbook-sidebar a:hover, .textbook-sidebar-mobile a:hover {
     text-decoration: underline;
+}
+/* Add some padding to nested lists in mobile index */
+.textbook-sidebar-mobile ul {
+    padding-left: 1rem;
 }
 
 /* Question ranking inputs */
