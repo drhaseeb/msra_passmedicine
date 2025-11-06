@@ -130,10 +130,10 @@
             </div>
 
             <!-- 2. Quiz Viewer (Hidden by default) -->
-            <!-- UPDATED: Added .row and .g-0 (no gutters) -->
-            <div id="quiz-viewer" class="question-viewer-layout row g-0" style="display: none;">
-                <!-- UPDATED: Added .col-lg-4 -->
-                <div class="question-sidebar col-lg-4 d-none d-lg-flex">
+            <!-- REVERTED: Removed .row and .g-0 -->
+            <div id="quiz-viewer" class="question-viewer-layout" style="display: none;">
+                <!-- REVERTED: Removed .col-lg-4 -->
+                <div class="question-sidebar d-none d-lg-flex">
                     <div class="p-3 border-bottom border-secondary d-flex justify-content-between align-items-center">
                         <h5 class="text-light mb-0" id="quiz-title-desktop">Quiz</h5>
                         <button class="btn btn-sm btn-outline-secondary" id="quiz-finish-btn-desktop">
@@ -147,8 +147,8 @@
                     </div>
                 </div>
                 <!-- Main Content Area -->
-                <!-- UPDATED: Added .col-lg-8 -->
-                <div class="question-content col-lg-8">
+                <!-- REVERTED: Removed .col-lg-8 -->
+                <div class="question-content">
                     <!-- Mobile Quiz Header with Offcanvas Toggle -->
                     <div class="p-3 border-bottom border-secondary d-flex justify-content-between align-items-center">
                         <button class="btn btn-outline-secondary d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#quizOffcanvas" aria-controls="quizOffcanvas">
