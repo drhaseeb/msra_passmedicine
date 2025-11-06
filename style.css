@@ -59,8 +59,10 @@ body {
 .question-content {
     flex-grow: 1;
     /* overflow-y: auto; <-- Removed, will be added by media query */
-    padding: 1.5rem 2rem;
+    /* padding: 1.5rem 2rem; <-- REMOVED PADDING */
     background-color: #121212;
+    display: flex; /* <-- ADDED */
+    flex-direction: column; /* <-- ADDED */
 }
 
 .list-group-item {
@@ -150,7 +152,7 @@ body {
 /* --- Mobile-specific styles --- */
 @media (max-width: 991.98px) {
     .question-content {
-        padding: 1rem;
+        /* padding: 1rem; <-- REMOVED PADDING */
     }
     .textbook-content {
         padding: 1rem;
@@ -180,6 +182,21 @@ body {
 
 
 /* --- Question Rendering --- */
+
+/* --- NEW: Make question area scrollable and grow --- */
+#quiz-question-area {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 1.5rem 2rem; /* <-- Added desktop padding here */
+}
+
+/* --- NEW: Adjust padding for mobile --- */
+@media (max-width: 991.98px) {
+    #quiz-question-area {
+        padding: 1rem; /* <-- Added mobile padding here */
+    }
+}
+
 .question-option {
     background-color: #2a2a2a;
     border: 1px solid #444;
