@@ -223,13 +223,48 @@ const app = {
 
     // --- UTILITY ---
     /**
-     * Shuffles an array in place using the Fisher-Yates algorithm.
+     * Shuffles an array in place.
      * @param {Array} array The array to shuffle.
+     * @param {Function} randomFn Optional. A function that returns 0-1. Defaults to Math.random.
      */
-    shuffleArray(array) {
+    shuffleArray(array, randomFn = Math.random) {
         for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
+            const j = Math.floor(randomFn() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
+        }
+    },
+
+    // --- SEEDED RNG UTILITIES ---
+    // 1. Turn a string code (e.g., "GROUP1") into a number hash
+    cyrb128(str) {
+        let h1 = 1779033703, h2 = 3144134277,
+            h3 = 1013904242, h4 = 2773480762;
+        for (let i = 0, k; i < str.length; i++) {
+            k = str.charCodeAt(i);
+            h1 = h2 ^ Math.imul(h1 ^ k, 597399067);
+            h2 = h3 ^ Math.imul(h2 ^ k, 2869860233);
+            h3 = h4 ^ Math.imul(h3 ^ k, 951274213);
+            h4 = h1 ^ Math.imul(h4 ^ k, 2716044179);
+        }
+        h1 = Math.imul(h3 ^ (h1 >>> 18), 597399067);
+        h2 = Math.imul(h4 ^ (h2 >>> 22), 2869860233);
+        h3 = Math.imul(h1 ^ (h3 >>> 17), 951274213);
+        h4 = Math.imul(h2 ^ (h4 >>> 19), 2716044179);
+        return [(h1 ^ h2 ^ h3 ^ h4) >>> 0, (h2 ^ h1) >>> 0, (h3 ^ h1) >>> 0, (h4 ^ h1) >>> 0];
+    },
+
+    // 2. The Random Number Generator that uses the hash
+    sfc32(a, b, c, d) {
+        return function() {
+            a >>>= 0; b >>>= 0; c >>>= 0; d >>>= 0; 
+            var t = (a + b) | 0;
+            a = b ^ b >>> 9;
+            b = c + (c << 3) | 0;
+            c = (c << 21 | c >>> 11);
+            d = (d + 1) | 0;
+            t = (t + d) | 0;
+            c = (c + t) | 0;
+            return (t >>> 0) / 4294967296;
         }
     },
 
@@ -357,6 +392,20 @@ const app = {
             // --- NEW: Get selected quiz mode ---
             const quizMode = document.querySelector(`input[name="${module}-quiz-mode"]:checked`).value || 'all';
 
+            // --- NEW: Get the Session Code ---
+            // You will need to add an input field with this ID to your HTML (see Step 4)
+            const codeInput = document.getElementById(`${module}-quiz-code`); 
+            let sessionCode = codeInput && codeInput.value.trim() ? codeInput.value.trim().toUpperCase() : null;
+            
+            // If no code provided, generate a random short one (e.g. "X7K9")
+            if (!sessionCode) {
+                sessionCode = Math.random().toString(36).substring(2, 6).toUpperCase();
+            }
+
+            // Display the code to the user so they can share it
+            const titleEl = document.getElementById('quiz-title');
+            if (titleEl) titleEl.innerHTML = `Quiz <span class="badge bg-secondary ms-2">${sessionCode}</span>`;
+
             let quizSet = config.allQuestions;
 
             // --- NEW: Filter by Quiz Mode ---
@@ -395,10 +444,14 @@ const app = {
                 return false; // <-- Return false on failure
             }
 
-            // --- SHUFFLE LOGIC ---
-            // Shuffle the filtered set of questions
-            this.shuffleArray(quizSet);
-            // --- END SHUFFLE LOGIC ---
+            // --- UPDATED SHUFFLE LOGIC ---
+            // Create the seeded random function
+            const seed = this.cyrb128(sessionCode);
+            const rand = this.sfc32(seed[0], seed[1], seed[2], seed[3]);
+            
+            // Shuffle using the seeded random function
+            this.shuffleArray(quizSet, rand);
+            // --- END UPDATED SHUFFLE LOGIC ---
 
             config.currentQuizSet = quizSet;
             config.currentQuestionIndex = 0;
@@ -1058,5 +1111,5 @@ const app = {
 
 // Initialize the app
 document.addEventListener('DOMContentLoaded', () => {
-    app.init();
+        app.init();
 });
