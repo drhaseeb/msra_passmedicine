@@ -628,7 +628,8 @@ const app = {
             link.classList.toggle('active', parseInt(link.dataset.index, 10) === index);
         });
 
-        // --- REMOVED: Desktop-only active link scroller ---
+        let optionsHtml = '';
+        const qType = String(q.question_type);
 
         // Repaired truncated questionText logic
         let questionText = q.question || '';
@@ -643,9 +644,6 @@ const app = {
             .replace(/<br \/>/g, '<br>')
             .replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">')
             .replace(/<\/q>/g, '</blockquote>');
-
-        let optionsHtml = '';
-        const qType = String(q.question_type);
 
         // Clarify option slicing logic: skip index 0 if it's a dummy value, else use all
         // If q.options[0] is never used, keep slicing, else use all
