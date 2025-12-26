@@ -632,6 +632,13 @@ const app = {
 
         // Repaired truncated questionText logic
         let questionText = q.question || '';
+        // --- FIX 1: Add Theme and Instruction for Type 1 (EMQ) ---
+        if (qType === '1') {
+            let header = '';
+            if (q.theme) header += `<h5 class="text-info mb-1">${q.theme}</h5>`;
+            if (q.instruction) header += `<p class="text-secondary fst-italic small mb-3">${q.instruction}</p>`;
+            questionText = header + questionText;
+        }
         questionText = questionText
             .replace(/<br \/>/g, '<br>')
             .replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">')
@@ -644,6 +651,12 @@ const app = {
         // If q.options[0] is never used, keep slicing, else use all
         switch(qType) {
             case "0": // SBA (Single Best Answer)
+                optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
+                    if (!opt) return '';
+                    return `<div class="question-option" data-index="${i + 1}">${opt}</div>`;
+                }).join('');
+                break;
+            case "1": // --- Add Case 1 here so it generates options just like SBA ---
                 optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
                     if (!opt) return '';
                     return `<div class="question-option" data-index="${i + 1}">${opt}</div>`;
@@ -718,7 +731,7 @@ const app = {
 
         let isCorrect = false;
 
-        if (qType === '0') { // SBA
+        if (qType === '0' || qType === '1') { // SBA
             const selected = qContainer.querySelector('.question-option.selected');
             const answerIndex = selected ? selected.dataset.index : null;
             isCorrect = (answerIndex == q.correct_answer);
@@ -797,7 +810,7 @@ const app = {
 
         const qType = String(q.question_type);
 
-        if (qType === '0') { // SBA
+        if (qType === '0' || qType === '1') { // SBA
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
                 if (opt.dataset.index == q.correct_answer) {
