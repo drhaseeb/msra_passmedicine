@@ -574,6 +574,48 @@ const app = {
         this.renderQuizQuestion(module, newIndex);
     },
 
+    // --- NEW HELPER: Expands Type 1 (EMQ) into multiple Type 0 (SBA) questions ---
+    processQuestions(questions) {
+        return questions.flatMap(q => {
+            if (String(q.question_type) === '1') {
+                // It's an EMQ. We need to split it into multiple questions.
+                const expandedQuestions = [];
+                
+                // Loop through each scenario in the 'questions' array
+                q.questions.forEach((scenario, index) => {
+                    // Create a deep copy of the base question to avoid reference issues
+                    const newQ = { ...q };
+                    
+                    // TRANSFORMATION: Convert to Type 0 (SBA) for the engine to handle easily
+                    newQ.question_type = "0"; 
+                    
+                    // Construct a unique ID for this specific sub-question so progress saves correctly
+                    newQ.question_id = `${q.question_id}_part_${index}`;
+                    
+                    // Combine Theme, Instruction, and the specific Scenario into the main question text
+                    let header = '';
+                    if (q.theme) header += `<h5 class="text-info mb-1">${q.theme}</h5>`;
+                    if (q.instruction) header += `<p class="text-secondary fst-italic small mb-3">${q.instruction}</p>`;
+                    newQ.question = header + scenario;
+                    
+                    // Map the specific answer and note for this scenario
+                    // The answers array contains the correct index for this specific scenario
+                    newQ.correct_answer = q.answers[index]; 
+                    
+                    // The notes array contains the explanation for this specific scenario
+                    newQ.question_notes = q.notes[index] || '';
+
+                    expandedQuestions.push(newQ);
+                });
+
+                return expandedQuestions;
+            } else {
+                // If it's not Type 1, keep it exactly as is
+                return q;
+            }
+        });
+    },
+
     async loadAllQuestions(module, forceDecrypt = false) {
         const config = this[module];
 
@@ -605,8 +647,10 @@ const app = {
 
         try {
             const allBatches = await Promise.all(fetchPromises);
-            config.allQuestions = allBatches.flat();
-            console.log(`[${module}] Successfully loaded all ${config.allQuestions.length} questions.`);
+            let rawQuestions = allBatches.flat();
+            config.allQuestions = this.processQuestions(rawQuestions);
+            config.totalQuestions = config.allQuestions.length;
+            console.log(`[${module}] Successfully loaded and processed ${config.allQuestions.length} questions.`);
         } catch (err) {
             console.error(`[${module}] Failed to load all questions:`, err);
             if(this.loadingModal) this.loadingModal.hide();
@@ -628,33 +672,22 @@ const app = {
             link.classList.toggle('active', parseInt(link.dataset.index, 10) === index);
         });
 
-        let optionsHtml = '';
-        const qType = String(q.question_type);
+        // --- REMOVED: Desktop-only active link scroller ---
 
         // Repaired truncated questionText logic
         let questionText = q.question || '';
-        // --- FIX 1: Add Theme and Instruction for Type 1 (EMQ) ---
-        if (qType === '1') {
-            let header = '';
-            if (q.theme) header += `<h5 class="text-info mb-1">${q.theme}</h5>`;
-            if (q.instruction) header += `<p class="text-secondary fst-italic small mb-3">${q.instruction}</p>`;
-            questionText = header + questionText;
-        }
         questionText = questionText
             .replace(/<br \/>/g, '<br>')
             .replace(/<q>/g, '<blockquote class="border-start border-4 border-secondary ps-3 my-3 text-secondary">')
             .replace(/<\/q>/g, '</blockquote>');
 
+        let optionsHtml = '';
+        const qType = String(q.question_type);
+
         // Clarify option slicing logic: skip index 0 if it's a dummy value, else use all
         // If q.options[0] is never used, keep slicing, else use all
         switch(qType) {
             case "0": // SBA (Single Best Answer)
-                optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
-                    if (!opt) return '';
-                    return `<div class="question-option" data-index="${i + 1}">${opt}</div>`;
-                }).join('');
-                break;
-            case "1": // --- Add Case 1 here so it generates options just like SBA ---
                 optionsHtml = q.options.slice(1, q.num_of_options + 1).map((opt, i) => {
                     if (!opt) return '';
                     return `<div class="question-option" data-index="${i + 1}">${opt}</div>`;
@@ -729,7 +762,7 @@ const app = {
 
         let isCorrect = false;
 
-        if (qType === '0' || qType === '1') { // SBA
+        if (qType === '0') { // SBA
             const selected = qContainer.querySelector('.question-option.selected');
             const answerIndex = selected ? selected.dataset.index : null;
             isCorrect = (answerIndex == q.correct_answer);
@@ -808,7 +841,7 @@ const app = {
 
         const qType = String(q.question_type);
 
-        if (qType === '0' || qType === '1') { // SBA
+        if (qType === '0') { // SBA
             qContainer.querySelectorAll('.question-option').forEach(opt => {
                 opt.setAttribute('data-disabled', 'true');
                 if (opt.dataset.index == q.correct_answer) {
