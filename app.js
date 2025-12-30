@@ -576,45 +576,70 @@ const app = {
 
     // --- NEW HELPER: Expands Type 1 (EMQ) into multiple Type 0 (SBA) questions ---
     processQuestions(questions) {
-        return questions.flatMap(q => {
-            if (String(q.question_type) === '1') {
-                // It's an EMQ. We need to split it into multiple questions.
-                const expandedQuestions = [];
-                
-                // Loop through each scenario in the 'questions' array
-                q.questions.forEach((scenario, index) => {
-                    // Create a deep copy of the base question to avoid reference issues
-                    const newQ = { ...q };
-                    
-                    // TRANSFORMATION: Convert to Type 0 (SBA) for the engine to handle easily
-                    newQ.question_type = "0"; 
-                    
-                    // Construct a unique ID for this specific sub-question so progress saves correctly
-                    newQ.question_id = `${q.question_id}_part_${index}`;
-                    
-                    // Combine Theme, Instruction, and the specific Scenario into the main question text
-                    let header = '';
-                    if (q.theme) header += `<h5 class="text-info mb-1">${q.theme}</h5>`;
-                    if (q.instruction) header += `<p class="text-secondary fst-italic small mb-3">${q.instruction}</p>`;
-                    newQ.question = header + scenario;
-                    
-                    // Map the specific answer and note for this scenario
-                    // The answers array contains the correct index for this specific scenario
-                    newQ.correct_answer = q.answers[index]; 
-                    
-                    // The notes array contains the explanation for this specific scenario
-                    newQ.question_notes = q.notes[index] || '';
+    const commonWords = ["year", "old", "man", "woman", "with", "presents", "history", "examination", "normal"];
 
-                    expandedQuestions.push(newQ);
-                });
+    const autoCracker = (str) => {
+        if (!str || str.length < 5) return str;
+        
+        let bestShift = 0;
+        let maxScore = -1;
 
-                return expandedQuestions;
-            } else {
-                // If it's not Type 1, keep it exactly as is
-                return q;
+        // Try all 26 possible Caesar shifts
+        for (let s = 0; s < 26; s++) {
+            let decoded = str.replace(/[a-zA-Z]/g, c => {
+                const base = c <= 'Z' ? 65 : 97;
+                return String.fromCharCode((c.charCodeAt(0) - base + s) % 26 + base);
+            }).toLowerCase();
+
+            // Score the result based on common medical words
+            let currentScore = 0;
+            commonWords.forEach(word => {
+                if (decoded.includes(word)) currentScore++;
+            });
+
+            if (currentScore > maxScore) {
+                maxScore = currentScore;
+                bestShift = s;
             }
+        }
+
+        // Apply the best detected shift
+        return str.replace(/[a-zA-Z]/g, c => {
+            const base = c <= 'Z' ? 65 : 97;
+            return String.fromCharCode((c.charCodeAt(0) - base + bestShift) % 26 + base);
         });
-    },
+    };
+
+    return questions.flatMap(q => {
+        if (String(q.question_type) === '1') {
+            const expandedQuestions = [];
+            
+            q.questions.forEach((scenario, index) => {
+                const newQ = { ...q };
+                newQ.question_type = "0"; 
+                newQ.question_id = `${q.question_id}_part_${index}`;
+                
+                // Decode logic: Q0 is already decoded, others are auto-cracked
+                let currentScenarioText = scenario;
+                if (index > 0) {
+                    currentScenarioText = autoCracker(scenario);
+                }
+
+                let header = '';
+                if (q.theme) header += `<h5 class="text-info mb-1">${q.theme}</h5>`;
+                if (q.instruction) header += `<p class="text-secondary fst-italic small mb-3">${q.instruction}</p>`;
+                newQ.question = header + currentScenarioText;
+                
+                newQ.correct_answer = q.answers[index]; 
+                newQ.question_notes = q.notes[index] || '';
+                expandedQuestions.push(newQ);
+            });
+            return expandedQuestions;
+        } else {
+            return q;
+        }
+    });
+},
 
     async loadAllQuestions(module, forceDecrypt = false) {
         const config = this[module];
